@@ -9,9 +9,9 @@
   <title>Al-Qur'an</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="preload" href="https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="reader.css?v=9">
+  <link rel="stylesheet" href="reader.css?v=10">
 </head>
 <body>
   <div class="ambient-pattern" aria-hidden="true"></div>
@@ -20,17 +20,19 @@
   <header class="site-header">
     <div class="header-inner">
       <a href="#/" class="logo" aria-label="Home">
-        <span class="logo-mark" aria-hidden="true">۞</span>
-        <span class="logo-text">
-          <span class="logo-ar">القرآن</span>
-          <span class="logo-en">Al-Qur'an</span>
-        </span>
+        <span class="logo-ar" dir="rtl" lang="ar">القُرْآن</span>
+        <span class="logo-en">Al-Qur'an</span>
       </a>
-      <nav id="breadcrumb" class="breadcrumb"></nav>
-      <nav class="header-nav" aria-label="Site">
-        <a href="#/bookmarks" class="nav-link">Bookmarks</a>
-      </nav>
-      <div id="sync-badge" class="sync-badge" hidden></div>
+      <nav id="breadcrumb" class="breadcrumb" aria-label="Location"></nav>
+      <div class="header-actions">
+        <nav class="header-nav" aria-label="Site">
+          <a href="#/bookmarks" class="nav-link">
+            <span class="nav-icon" aria-hidden="true">✧</span>
+            <span class="nav-label">Bookmarks</span>
+          </a>
+        </nav>
+        <div id="sync-badge" class="sync-badge" hidden></div>
+      </div>
     </div>
   </header>
 
@@ -44,6 +46,6 @@
     <p class="footer-note">Run <code>python scripts/serve.py</code> locally to sync reflections to your notes</p>
   </footer>
 
-  <script src="reader.js?v=9"></script>
+  <script src="reader.js?v=10"></script>
 </body>
 </html>
