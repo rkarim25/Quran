@@ -103,6 +103,18 @@ function esc(s) {
   return d.innerHTML;
 }
 
+function arabicNumeral(n) {
+  return String(n).replace(/\d/g, (d) => "٠١٢٣٤٥٦٧٨٩"[+d]);
+}
+
+function ornament() {
+  return `<div class="ornament-line" aria-hidden="true"><span>✦</span></div>`;
+}
+
+function revelationLabel(place) {
+  return place === "makkah" ? "Makkah" : "Madinah";
+}
+
 function md(text) {
   if (!text) return "";
   return esc(text)
@@ -151,12 +163,26 @@ function ayahBlock(data, ayah, surahId) {
   return `
     <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       <div class="ayah-meta">
-        <button type="button" class="ayah-num-btn" data-action="select" aria-label="Ayah ${ayah.ayah}">${ayah.ayah}</button>
-        <button type="button" class="icon-btn bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="Bookmark" title="Bookmark">${bookmarked ? "★" : "☆"}</button>
-        <button type="button" class="icon-btn study-btn" data-action="study" aria-label="Study" title="Reflection & tafsir">${hasReflection ? "✎" : "⋯"}</button>
+        <button type="button" class="ayah-marker" data-action="select" aria-label="Ayah ${ayah.ayah}">
+          <span class="marker-ring"></span>
+          <span class="marker-num">${ayah.ayah}</span>
+        </button>
+        <div class="ayah-actions">
+          <button type="button" class="icon-btn bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}" title="${bookmarked ? "Remove bookmark" : "Bookmark"}">
+            <span class="icon-star">${bookmarked ? "✦" : "✧"}</span>
+          </button>
+          <button type="button" class="icon-btn study-btn ${hasReflection ? "has-note" : ""}" data-action="study" aria-label="Study and reflect" title="Tadabbur · Tafsir">
+            <span class="icon-study">${hasReflection ? "✎" : "☰"}</span>
+          </button>
+        </div>
       </div>
-      <div class="arabic-block">${renderArabicWords(a, surahId)}</div>
-      <div class="translation-block ${prefs.showTranslation ? "" : "hidden"}">${esc(a.translation)}</div>
+      <div class="arabic-block">
+        <p class="arabic-text">${renderArabicWords(a, surahId)}</p>
+        <span class="ayah-end" aria-hidden="true"><span class="ayah-end-num">${arabicNumeral(ayah.ayah)}</span></span>
+      </div>
+      <div class="translation-block ${prefs.showTranslation ? "" : "hidden"}">
+        <p>${esc(a.translation)}</p>
+      </div>
     </article>`;
 }
 
@@ -213,7 +239,8 @@ function debouncedSave() {
 
 function panelContent(ayah) {
   if (prefs.activePanel === "reflection") {
-    return `<textarea class="reflection-area" id="reflection-input" placeholder="Write your personal reflections…"></textarea><div class="save-status"></div>`;
+    return `<p class="panel-intro">Leave a personal note — what does this ayah move in your heart?</p>
+      <textarea class="reflection-area" id="reflection-input" placeholder="Your tadabbur…"></textarea><div class="save-status"></div>`;
   }
   if (prefs.activePanel === "context") {
     return ayah.context?.trim()
@@ -239,7 +266,7 @@ function openStudyDrawer(ayah) {
   document.getElementById("drawer-title").textContent = `${currentSurah.translated_name} · Ayah ${ayah.ayah}`;
   document.getElementById("drawer-panel").innerHTML = `
     <div class="panel-tabs">
-      <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Reflection</button>
+      <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
       <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""}" data-panel="context" ${hasContext ? "" : "disabled"}>Context</button>
       <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
     </div>
@@ -406,8 +433,9 @@ function bindSurahEvents() {
         const added = toggleBookmark(surahId, ayahNum, currentSurah.translated_name, ayah.translation);
         const btn = block.querySelector(".bookmark-btn");
         btn.classList.toggle("active", added);
-        btn.textContent = added ? "★" : "☆";
+        btn.querySelector(".icon-star").textContent = added ? "✦" : "✧";
         btn.title = added ? "Remove bookmark" : "Bookmark";
+        btn.setAttribute("aria-label", added ? "Remove bookmark" : "Bookmark");
       } else if (action === "study" || action === "select") {
         openStudyDrawer(ayah);
       }
@@ -448,22 +476,30 @@ function renderHome(surahs) {
   document.getElementById("app").innerHTML = `
     ${last && lastSurah ? `
     <a href="#/${last.surah}/${last.ayah}" class="resume-card">
-      <span class="resume-label">Continue reading</span>
-      <span class="resume-title">${esc(lastSurah.translated_name)} · Ayah ${last.ayah}</span>
-      <span class="resume-arrow">→</span>
+      <span class="resume-icon" aria-hidden="true">۞</span>
+      <span class="resume-body">
+        <span class="resume-label">Continue your reading</span>
+        <span class="resume-title">${esc(lastSurah.name_arabic)} · ${esc(lastSurah.translated_name)}</span>
+        <span class="resume-meta">Ayah ${last.ayah}</span>
+      </span>
+      <span class="resume-arrow" aria-hidden="true">←</span>
     </a>` : ""}
     ${bookmarks.length ? `
     <section class="home-section">
-      <h2 class="section-title">Bookmarks</h2>
+      <h2 class="section-title">Saved ayahs</h2>
       <div class="bookmark-list compact">${bookmarks.map((b) => bookmarkRow(b)).join("")}</div>
-      <a href="#/bookmarks" class="see-all">View all bookmarks</a>
+      <a href="#/bookmarks" class="see-all">All bookmarks</a>
     </section>` : ""}
     <div class="hero">
-      <h1>القرآن الكريم</h1>
-      <p>Scroll through the surah · Hover words for meaning · Reflect & study</p>
+      <div class="hero-arch" aria-hidden="true"></div>
+      <p class="hero-bismillah" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
+      <h1 class="hero-title" dir="rtl">القرآن الكريم</h1>
+      ${ornament()}
+      <p class="hero-subtitle">Recite, reflect, and let your heart find rest in His words</p>
+      <p class="hero-hadith">“The best of you are those who learn the Qur'an and teach it.”</p>
     </div>
     <div class="search-wrap">
-      <input type="search" id="surah-search" class="search-input" placeholder="Search surah by name or number…" autocomplete="off" />
+      <input type="search" id="surah-search" class="search-input" placeholder="Find a surah…" autocomplete="off" />
     </div>
     <div class="surah-grid" id="surah-grid">${surahs.map((s) => surahCard(s)).join("")}</div>`;
 
@@ -477,12 +513,15 @@ function renderHome(surahs) {
 }
 
 function surahCard(s) {
+  const place = revelationLabel(s.revelation_place);
   return `
     <a href="#/${s.id}" class="surah-card" data-search="${s.id} ${s.name_simple.toLowerCase()} ${s.translated_name.toLowerCase()} ${s.name_arabic}">
-      <div class="surah-num">${s.id}</div>
-      <div class="surah-ar">${esc(s.name_arabic)}</div>
-      <div class="surah-en">${esc(s.translated_name)}</div>
-      <div class="surah-meta">${s.revelation_place} · ${s.verses_count} ayahs</div>
+      <div class="surah-card-inner">
+        <span class="surah-num">${s.id}</span>
+        <span class="surah-ar" dir="rtl">${esc(s.name_arabic)}</span>
+        <span class="surah-en">${esc(s.translated_name)}</span>
+        <span class="surah-meta"><span class="place-tag ${s.revelation_place}">${place}</span> · ${s.verses_count}</span>
+      </div>
     </a>`;
 }
 
@@ -499,8 +538,9 @@ function renderBookmarks() {
   const list = getBookmarks();
   document.getElementById("app").innerHTML = `
     <div class="hero compact">
-      <h1>Bookmarks</h1>
-      <p>${list.length ? `${list.length} saved ayah${list.length === 1 ? "" : "s"}` : "No bookmarks yet — tap ☆ while reading"}</p>
+      <h1 class="hero-title-sm">Saved Ayahs</h1>
+      ${ornament()}
+      <p class="hero-subtitle">${list.length ? `${list.length} ayah${list.length === 1 ? "" : "s"} marked in your heart` : "Mark an ayah with ✧ while reading"}</p>
     </div>
     ${list.length ? `<div class="bookmark-list">${list.map((b, i) => `
       <div class="bookmark-item">
@@ -536,13 +576,20 @@ async function renderSurah(data, targetAyah) {
 
   document.getElementById("app").innerHTML = `
     <div class="surah-reader">
-      <div class="surah-header">
-        <h1 class="surah-title">${esc(data.name_arabic)}</h1>
-        <p class="surah-subtitle">${esc(data.translated_name)} · ${data.revelation_place} · ${data.verses_count} ayahs</p>
-      </div>
+      <header class="surah-opener">
+        <div class="surah-opener-arch" aria-hidden="true"></div>
+        <span class="surah-index">${data.id}</span>
+        <h1 class="surah-title" dir="rtl">${esc(data.name_arabic)}</h1>
+        <p class="surah-subtitle">${esc(data.translated_name)}</p>
+        <div class="surah-badges">
+          <span class="badge place ${data.revelation_place}">${revelationLabel(data.revelation_place)}</span>
+          <span class="badge">${data.verses_count} ayahs</span>
+        </div>
+        ${ornament()}
+      </header>
       <div class="reader-toolbar sticky-toolbar">
         <div class="surah-progress-wrap">
-          <div class="surah-progress"><div class="surah-progress-bar" style="width:0"></div></div>
+          <div class="surah-progress" role="progressbar"><div class="surah-progress-bar" style="width:0"></div></div>
           <span class="surah-progress-label">Ayah ${ayah} of ${data.verses_count}</span>
         </div>
         <div class="toolbar-actions">
@@ -552,9 +599,11 @@ async function renderSurah(data, targetAyah) {
           <button type="button" class="btn ${prefs.showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
         </div>
       </div>
-      <p class="reader-hint">Hover any word for meaning · ☆ to bookmark · ⋯ for reflection & tafsir</p>
-      <div class="ayah-stream">${data.ayahs.map((a) => ayahBlock(data, a, data.id)).join("")}</div>
-      <div class="surah-nav">${prevSurah}<span class="nav-label">Surah ${data.id} of 114</span>${nextSurah}</div>
+      <p class="reader-hint">Hover a word for its meaning · ✧ to save · ☰ for tadabbur & tafsir</p>
+      <div class="mushaf-sheet">
+        <div class="ayah-stream">${data.ayahs.map((a) => ayahBlock(data, a, data.id)).join("")}</div>
+      </div>
+      <nav class="surah-nav" aria-label="Surah navigation">${prevSurah}<span class="nav-label">${data.id} / 114</span>${nextSurah}</nav>
     </div>`;
 
   document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
