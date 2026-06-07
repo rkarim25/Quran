@@ -257,6 +257,7 @@ async function persistAyah(ayahData, statusEl) {
         translation: ayahData.translation,
         word_by_word: ayahData.word_by_word,
         personal_reflections: ayahData.personal_reflections,
+        context: ayahData.context,
       };
     }
     showSaveStatus(canSync ? "Saved to markdown" : "Saved locally", true, statusEl);
@@ -321,9 +322,8 @@ function panelContent(ayah) {
       <textarea class="reflection-area" id="reflection-input" placeholder="Your tadabbur…"></textarea><div class="save-status"></div>`;
   }
   if (prefs.activePanel === "context") {
-    return ayah.context?.trim()
-      ? md(ayah.context)
-      : `<p class="empty-note">No recorded occasion of revelation for this ayah.</p>`;
+    return `<p class="panel-intro">When and why was this ayah revealed? Add the occasion of revelation (asbāb al-nuzūl).</p>
+      <textarea class="reflection-area" id="context-input" placeholder="Revelation context…"></textarea><div class="save-status"></div>`;
   }
   if (prefs.activePanel === "tafsir") {
     let html = "";
@@ -337,13 +337,12 @@ function panelContent(ayah) {
 
 function studyPanelHtml(ayah) {
   const hasContext = !!(ayah.context && ayah.context.trim());
-  if (prefs.activePanel === "context" && !hasContext) prefs.activePanel = "reflection";
   return `
     <div class="study-panel">
       <div class="study-panel-head">
         <div class="panel-tabs">
           <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
-          <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""}" data-panel="context" ${hasContext ? "" : "disabled"}>Context</button>
+          <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""} ${hasContext ? "has-content" : ""}" data-panel="context">Context</button>
           <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
         </div>
         <button type="button" class="study-close-btn" data-action="close-study" aria-label="Close">×</button>
@@ -365,6 +364,19 @@ function bindReflectionInput(block) {
   });
 }
 
+function bindContextInput(block) {
+  const input = block.querySelector("#context-input");
+  if (!input) return;
+  input.value = selectedAyah.context || "";
+  if (input.dataset.bound) return;
+  input.dataset.bound = "1";
+  input.addEventListener("input", () => {
+    selectedAyah.context = input.value;
+    debouncedSave();
+    block.querySelector('.panel-tab[data-panel="context"]')?.classList.toggle("has-content", !!input.value.trim());
+  });
+}
+
 function bindStudyPanelEvents(block) {
   const surahId = +block.dataset.surah;
   const ayahNum = +block.dataset.ayah;
@@ -376,6 +388,7 @@ function bindStudyPanelEvents(block) {
   });
 
   bindReflectionInput(block);
+  bindContextInput(block);
 
   block.querySelectorAll(".panel-tab").forEach((btn) => {
     btn.addEventListener("click", (e) => {
@@ -385,6 +398,7 @@ function bindStudyPanelEvents(block) {
       block.querySelectorAll(".panel-tab").forEach((b) => b.classList.toggle("active", b === btn));
       block.querySelector(".study-panel-body").innerHTML = panelContent(selectedAyah);
       bindReflectionInput(block);
+      bindContextInput(block);
     });
   });
 }
