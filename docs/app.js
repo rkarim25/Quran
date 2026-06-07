@@ -155,21 +155,7 @@ function renderHome(surahs) {
 }
 
 function renderSurah(data) {
-  setBreadcrumb(`<a href="#/">Surahs</a> › ${esc(data.translated_name)}`);
-  document.getElementById("app").innerHTML = `
-    <div class="hero">
-      <h1>${esc(data.name_arabic)}</h1>
-      <p>${esc(data.translated_name)} · ${data.revelation_place} · ${data.verses_count} ayahs</p>
-    </div>
-    <div class="ayah-list">${data.ayahs
-      .map(
-        (a) => `
-      <a href="#/${data.id}/${a.ayah}" class="ayah-link">
-        <span class="ayah-link-num">${a.ayah}</span>
-        <span class="ayah-link-ar">${esc(a.arabic)}</span>
-      </a>`
-      )
-      .join("")}</div>`;
+  location.replace(`#/${data.id}/1`);
 }
 
 function panelContent(ayah) {
@@ -197,9 +183,12 @@ function bindAyahEvents() {
   document.querySelectorAll(".q-word").forEach((el) => {
     el.addEventListener("mouseenter", (e) => showWordTooltip(e.currentTarget));
     el.addEventListener("focus", (e) => showWordTooltip(e.currentTarget));
+    el.addEventListener("mouseleave", () => {
+      if (!document.getElementById("word-tooltip").querySelector("#wt-meaning")) hideTooltip();
+    });
     el.addEventListener("click", (e) => {
       e.stopPropagation();
-      showWordTooltip(e.currentTarget, true);
+      showWordTooltip(e.currentTarget);
     });
   });
 
@@ -324,6 +313,7 @@ function renderAyah(surahData, ayah) {
           <button type="button" class="btn ${showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
         </div>
       </div>
+      <p class="reader-hint">Hover any Arabic word for its meaning · Click a word to edit</p>
       ${renderArabicWords(currentAyah)}
       <div class="translation-block ${showTranslation ? "" : "hidden"}" id="translation-block">${esc(currentAyah.translation)}</div>
       <div class="panel-tabs">
