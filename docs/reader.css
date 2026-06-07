@@ -665,6 +665,16 @@ body {
 }
 
 .btn:disabled { opacity: 0.35; cursor: not-allowed; }
+.panel-tab.has-content:not(.active)::after {
+  content: "";
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--green-mid);
+  margin-left: 0.35rem;
+  vertical-align: middle;
+}
 .btn.icon-only { padding: 0.4rem 0.6rem; min-width: 2.2rem; }
 
 .reader-hint {
