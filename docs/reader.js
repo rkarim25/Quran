@@ -1,10 +1,64 @@
 const cache = { index: null, surahs: {} };
+const LS = {
+  lastRead: "quran-last-read",
+  bookmarks: "quran-bookmarks",
+  prefs: "quran-prefs",
+  ayahEdits: (s, a) => `quran-${s}-${a}`,
+};
+
 let canSync = false;
-let showTranslation = true;
-let activePanel = "reflection";
-let currentAyah = null;
-let currentSurah = null;
+let scrollLock = false;
 let saveTimer = null;
+let observer = null;
+let selectedAyah = null;
+let currentSurah = null;
+
+const prefs = loadPrefs();
+
+function loadPrefs() {
+  try {
+    return { showTranslation: true, fontScale: 1, activePanel: "reflection", ...JSON.parse(localStorage.getItem(LS.prefs) || "{}") };
+  } catch {
+    return { showTranslation: true, fontScale: 1, activePanel: "reflection" };
+  }
+}
+
+function savePrefs() {
+  localStorage.setItem(LS.prefs, JSON.stringify(prefs));
+}
+
+function getLastRead() {
+  try {
+    return JSON.parse(localStorage.getItem(LS.lastRead) || "null");
+  } catch {
+    return null;
+  }
+}
+
+function saveLastRead(surah, ayah) {
+  localStorage.setItem(LS.lastRead, JSON.stringify({ surah, ayah, at: Date.now() }));
+}
+
+function getBookmarks() {
+  try {
+    return JSON.parse(localStorage.getItem(LS.bookmarks) || "[]");
+  } catch {
+    return [];
+  }
+}
+
+function isBookmarked(surah, ayah) {
+  return getBookmarks().some((b) => b.surah === surah && b.ayah === ayah);
+}
+
+function toggleBookmark(surah, ayah, surahName, snippet) {
+  let list = getBookmarks();
+  const i = list.findIndex((b) => b.surah === surah && b.ayah === ayah);
+  if (i >= 0) list.splice(i, 1);
+  else list.unshift({ surah, ayah, surahName, snippet: snippet.slice(0, 80), at: Date.now() });
+  localStorage.setItem(LS.bookmarks, JSON.stringify(list));
+  return i < 0;
+}
 
 async function checkSync() {
   try {
@@ -28,8 +82,9 @@ function route() {
   const hash = location.hash.replace(/^#\/?/, "");
   const parts = hash.split("/").filter(Boolean);
   if (!parts.length) return { view: "home" };
-  if (parts.length === 1) return { view: "surah", surah: +parts[0] };
-  return { view: "ayah", surah: +parts[0], ayah: +parts[1] };
+  if (parts[0] === "bookmarks") return { view: "bookmarks" };
+  if (parts.length === 1) return { view: "surah", surah: +parts[0], ayah: null };
+  return { view: "surah", surah: +parts[0], ayah: +parts[1] };
 }
 
 async function loadIndex() {
@@ -66,20 +121,43 @@ function setBreadcrumb(html) {
 
 function orderedWords(wbw) {
   if (!wbw) return [];
-  return Object.keys(wbw)
-    .sort((a, b) => +a - +b)
-    .map((k) => ({ key: k, ...wbw[k] }));
+  return Object.keys(wbw).sort((a, b) => +a - +b).map((k) => ({ key: k, ...wbw[k] }));
 }
 
-function renderArabicWords(ayah) {
+function mergeLocalEdits(ayah, surahId) {
+  const merged = { ...ayah, word_by_word: { ...ayah.word_by_word } };
+  if (!canSync) {
+    const local = localStorage.getItem(LS.ayahEdits(surahId, ayah.ayah));
+    if (local) Object.assign(merged, JSON.parse(local));
+  }
+  return merged;
+}
+
+function renderArabicWords(ayah, surahId) {
   const words = orderedWords(ayah.word_by_word);
-  if (!words.length) return `<div class="arabic-block">${esc(ayah.arabic)}</div>`;
-  return `<div class="arabic-block">${words
+  if (!words.length) return esc(ayah.arabic);
+  return words
     .map(
-      (w, i) =>
-        `<span class="q-word" data-i="${w.key}" data-idx="${i}" tabindex="0">${esc(w.arabic)}</span>`
+      (w) =>
+        `<span class="q-word" data-s="${surahId}" data-a="${ayah.ayah}" data-i="${w.key}" tabindex="0">${esc(w.arabic)}</span>`
     )
-    .join(" ")}</div>`;
+    .join(" ");
+}
+
+function ayahBlock(data, ayah, surahId) {
+  const a = mergeLocalEdits(ayah, surahId);
+  const bookmarked = isBookmarked(surahId, ayah.ayah);
+  const hasReflection = !!(a.personal_reflections && a.personal_reflections.trim());
+  return `
+    <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
+      <div class="ayah-meta">
+        <button type="button" class="ayah-num-btn" data-action="select" aria-label="Ayah ${ayah.ayah}">${ayah.ayah}</button>
+        <button type="button" class="icon-btn bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="Bookmark" title="Bookmark">${bookmarked ? "★" : "☆"}</button>
+        <button type="button" class="icon-btn study-btn" data-action="study" aria-label="Study" title="Reflection & tafsir">${hasReflection ? "✎" : "⋯"}</button>
+      </div>
+      <div class="arabic-block">${renderArabicWords(a, surahId)}</div>
+      <div class="translation-block ${prefs.showTranslation ? "" : "hidden"}">${esc(a.translation)}</div>
+    </article>`;
 }
 
 async function saveAyah(data) {
@@ -107,8 +185,7 @@ async function saveAyah(data) {
     cache.surahs[currentSurah.id] = currentSurah;
     return;
   }
-
-  localStorage.setItem(`quran-${currentSurah.id}-${data.ayah}`, JSON.stringify(payload));
+  localStorage.setItem(LS.ayahEdits(currentSurah.id, data.ayah), JSON.stringify(payload));
 }
 
 function showSaveStatus(msg, ok) {
@@ -118,11 +195,11 @@ function showSaveStatus(msg, ok) {
   el.className = "save-status" + (ok ? " ok" : ok === false ? " err" : "");
 }
 
-async function persistCurrentAyah() {
-  if (!currentAyah || !currentSurah) return;
+async function persistSelectedAyah() {
+  if (!selectedAyah || !currentSurah) return;
   try {
-    await saveAyah(currentAyah);
-    showSaveStatus(canSync ? "Saved to markdown" : "Saved locally (run serve.py to sync)", true);
+    await saveAyah(selectedAyah);
+    showSaveStatus(canSync ? "Saved to markdown" : "Saved locally", true);
   } catch (e) {
     showSaveStatus("Save failed", false);
     console.error(e);
@@ -131,83 +208,360 @@ async function persistCurrentAyah() {
 
 function debouncedSave() {
   clearTimeout(saveTimer);
-  saveTimer = setTimeout(persistCurrentAyah, 600);
-}
-
-function renderHome(surahs) {
-  setBreadcrumb("");
-  document.getElementById("app").innerHTML = `
-    <div class="hero">
-      <h1>القرآن الكريم</h1>
-      <p>Hover words for meaning · Toggle translation · Reflect & study tafsir</p>
-    </div>
-    <div class="surah-grid">${surahs
-      .map(
-        (s) => `
-      <a href="#/${s.id}" class="surah-card">
-        <div class="surah-num">${s.id}</div>
-        <div class="surah-ar">${esc(s.name_arabic)}</div>
-        <div class="surah-en">${esc(s.translated_name)}</div>
-        <div class="surah-meta">${s.revelation_place} · ${s.verses_count} ayahs</div>
-      </a>`
-      )
-      .join("")}</div>`;
-}
-
-function renderSurah(data) {
-  location.replace(`#/${data.id}/1`);
+  saveTimer = setTimeout(persistSelectedAyah, 600);
 }
 
 function panelContent(ayah) {
-  if (activePanel === "reflection") {
-    return `
-      <textarea class="reflection-area" id="reflection-input" placeholder="Write your personal reflections…"></textarea>
-      <div class="save-status"></div>`;
+  if (prefs.activePanel === "reflection") {
+    return `<textarea class="reflection-area" id="reflection-input" placeholder="Write your personal reflections…"></textarea><div class="save-status"></div>`;
   }
-  if (activePanel === "context") {
-    return ayah.context ? md(ayah.context) : `<p style="color:var(--muted)">No recorded occasion of revelation for this ayah.</p>`;
+  if (prefs.activePanel === "context") {
+    return ayah.context?.trim()
+      ? md(ayah.context)
+      : `<p class="empty-note">No recorded occasion of revelation for this ayah.</p>`;
   }
-  if (activePanel === "tafsir") {
+  if (prefs.activePanel === "tafsir") {
     let html = "";
-    if (ayah.tafsir_summary) html += `<h3>Summary</h3>${md(ayah.tafsir_summary)}`;
-    if (ayah.tafsir_ibn_kathir) html += `<h3>Ibn Kathir</h3>${md(ayah.tafsir_ibn_kathir)}`;
-    if (ayah.maarif_ul_quran) html += `<h3>Maarif ul Quran</h3>${md(ayah.maarif_ul_quran)}`;
-    return html || `<p style="color:var(--muted)">No tafsir available.</p>`;
+    if (ayah.tafsir_summary) html += `<details open><summary>Tafsir Summary</summary>${md(ayah.tafsir_summary)}</details>`;
+    if (ayah.tafsir_ibn_kathir) html += `<details><summary>Ibn Kathir</summary>${md(ayah.tafsir_ibn_kathir)}</details>`;
+    if (ayah.maarif_ul_quran) html += `<details><summary>Maarif ul Quran</summary>${md(ayah.maarif_ul_quran)}</details>`;
+    return html || `<p class="empty-note">No tafsir available.</p>`;
   }
   return "";
 }
 
-function bindAyahEvents() {
-  const tooltip = document.getElementById("word-tooltip");
+function openStudyDrawer(ayah) {
+  selectedAyah = mergeLocalEdits(ayah, currentSurah.id);
+  const drawer = document.getElementById("study-drawer");
+  const hasContext = !!(selectedAyah.context && selectedAyah.context.trim());
+  if (prefs.activePanel === "context" && !hasContext) prefs.activePanel = "reflection";
 
+  document.getElementById("drawer-title").textContent = `${currentSurah.translated_name} · Ayah ${ayah.ayah}`;
+  document.getElementById("drawer-panel").innerHTML = `
+    <div class="panel-tabs">
+      <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Reflection</button>
+      <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""}" data-panel="context" ${hasContext ? "" : "disabled"}>Context</button>
+      <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
+    </div>
+    <div class="panel-body" id="panel-content">${panelContent(selectedAyah)}</div>`;
+
+  drawer.hidden = false;
+  document.getElementById("drawer-backdrop").hidden = false;
+  document.body.classList.add("drawer-open");
+  bindDrawerEvents();
+  highlightAyah(ayah.ayah);
+}
+
+function closeStudyDrawer() {
+  document.getElementById("study-drawer").hidden = true;
+  document.getElementById("drawer-backdrop").hidden = true;
+  document.body.classList.remove("drawer-open");
+  document.querySelectorAll(".ayah-block.active").forEach((el) => el.classList.remove("active"));
+}
+
+function highlightAyah(ayahNum) {
+  document.querySelectorAll(".ayah-block").forEach((el) => {
+    el.classList.toggle("active", +el.dataset.ayah === ayahNum);
+  });
+}
+
+function bindDrawerEvents() {
+  const input = document.getElementById("reflection-input");
+  if (input) {
+    input.value = selectedAyah.personal_reflections || "";
+    input.addEventListener("input", () => {
+      selectedAyah.personal_reflections = input.value;
+      debouncedSave();
+    });
+  }
+  document.querySelectorAll(".panel-tab").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      prefs.activePanel = btn.dataset.panel;
+      savePrefs();
+      document.querySelectorAll(".panel-tab").forEach((b) => b.classList.toggle("active", b === btn));
+      document.getElementById("panel-content").innerHTML = panelContent(selectedAyah);
+      bindDrawerEvents();
+    });
+  });
+}
+
+function hideTooltip() {
+  document.getElementById("word-tooltip").hidden = true;
+  document.querySelectorAll(".q-word.active").forEach((w) => w.classList.remove("active"));
+}
+
+function showWordTooltip(el, editing = false) {
+  const tooltip = document.getElementById("word-tooltip");
+  const surahId = +el.dataset.s;
+  const ayahNum = +el.dataset.a;
+  const key = el.dataset.i;
+
+  if (!currentSurah || currentSurah.id !== surahId) return;
+  const raw = currentSurah.ayahs.find((a) => a.ayah === ayahNum);
+  if (!raw) return;
+  const ayah = mergeLocalEdits(raw, surahId);
+  const word = ayah.word_by_word[key];
+  if (!word) return;
+
+  selectedAyah = ayah;
+  document.querySelectorAll(".q-word").forEach((w) => w.classList.remove("active"));
+  el.classList.add("active");
+
+  const rect = el.getBoundingClientRect();
+  tooltip.hidden = false;
+  tooltip.innerHTML = editing
+    ? `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+       <label class="wt-label">Meaning</label><input id="wt-meaning" />
+       <div class="wt-actions"><button type="button" id="wt-cancel">Cancel</button><button type="button" class="primary" id="wt-save">Save</button></div>`
+    : `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+       <div class="wt-en">${esc(word.translation || "")}</div>
+       <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
+
+  tooltip.style.left = `${Math.min(Math.max(8, rect.left), window.innerWidth - 280)}px`;
+  tooltip.style.top = `${Math.min(rect.bottom + 8, window.innerHeight - 160)}px`;
+
+  if (editing) document.getElementById("wt-meaning").value = word.translation || "";
+  tooltip.querySelector("#wt-edit")?.addEventListener("click", () => showWordTooltip(el, true));
+  tooltip.querySelector("#wt-cancel")?.addEventListener("click", hideTooltip);
+  tooltip.querySelector("#wt-save")?.addEventListener("click", async () => {
+    selectedAyah.word_by_word[key].translation = document.getElementById("wt-meaning").value;
+    hideTooltip();
+    await persistSelectedAyah();
+    refreshAyahBlock(surahId, ayahNum);
+  });
+}
+
+async function refreshAyahBlock(surahId, ayahNum) {
+  const data = await loadSurah(surahId);
+  const ayah = data.ayahs.find((a) => a.ayah === ayahNum);
+  const el = document.getElementById(`ayah-${surahId}-${ayahNum}`);
+  if (el && ayah) {
+    const tmp = document.createElement("div");
+    tmp.innerHTML = ayahBlock(data, ayah, surahId);
+    el.replaceWith(tmp.firstElementChild);
+    bindSurahEvents();
+  }
+}
+
+function setupScrollObserver(surahId) {
+  if (observer) observer.disconnect();
+  observer = new IntersectionObserver(
+    (entries) => {
+      if (scrollLock) return;
+      const visible = entries.filter((e) => e.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+      if (!visible) return;
+      const ayah = +visible.target.dataset.ayah;
+      saveLastRead(surahId, ayah);
+      updateProgress(surahId, ayah);
+      const newHash = `#/${surahId}/${ayah}`;
+      if (location.hash !== newHash) {
+        scrollLock = true;
+        history.replaceState(null, "", newHash);
+        scrollLock = false;
+      }
+    },
+    { rootMargin: "-40% 0px -45% 0px", threshold: [0, 0.25, 0.5] }
+  );
+  document.querySelectorAll(".ayah-block").forEach((el) => observer.observe(el));
+}
+
+function updateProgress(surahId, ayah) {
+  const data = cache.surahs[surahId];
+  if (!data) return;
+  const pct = Math.round((ayah / data.verses_count) * 100);
+  const bar = document.querySelector(".surah-progress-bar");
+  const label = document.querySelector(".surah-progress-label");
+  if (bar) bar.style.width = `${pct}%`;
+  if (label) label.textContent = `Ayah ${ayah} of ${data.verses_count}`;
+}
+
+function scrollToAyah(surahId, ayah, smooth = true) {
+  const el = document.getElementById(`ayah-${surahId}-${ayah}`);
+  if (!el) return;
+  scrollLock = true;
+  el.scrollIntoView({ behavior: smooth ? "smooth" : "instant", block: "center" });
+  setTimeout(() => { scrollLock = false; }, smooth ? 800 : 50);
+}
+
+function bindSurahEvents() {
   document.querySelectorAll(".q-word").forEach((el) => {
-    el.addEventListener("mouseenter", (e) => showWordTooltip(e.currentTarget));
-    el.addEventListener("focus", (e) => showWordTooltip(e.currentTarget));
+    el.addEventListener("mouseenter", () => showWordTooltip(el));
+    el.addEventListener("focus", () => showWordTooltip(el));
     el.addEventListener("mouseleave", () => {
       if (!document.getElementById("word-tooltip").querySelector("#wt-meaning")) hideTooltip();
     });
-    el.addEventListener("click", (e) => {
-      e.stopPropagation();
-      showWordTooltip(e.currentTarget);
+    el.addEventListener("click", (e) => { e.stopPropagation(); showWordTooltip(el); });
+  });
+
+  document.querySelectorAll(".ayah-block").forEach((block) => {
+    block.addEventListener("click", (e) => {
+      const action = e.target.closest("[data-action]")?.dataset.action;
+      if (!action) return;
+      const surahId = +block.dataset.surah;
+      const ayahNum = +block.dataset.ayah;
+      const ayah = currentSurah.ayahs.find((a) => a.ayah === ayahNum);
+      if (!ayah) return;
+
+      if (action === "bookmark") {
+        const added = toggleBookmark(surahId, ayahNum, currentSurah.translated_name, ayah.translation);
+        const btn = block.querySelector(".bookmark-btn");
+        btn.classList.toggle("active", added);
+        btn.textContent = added ? "★" : "☆";
+        btn.title = added ? "Remove bookmark" : "Bookmark";
+      } else if (action === "study" || action === "select") {
+        openStudyDrawer(ayah);
+      }
     });
   });
 
   document.getElementById("toggle-translation")?.addEventListener("click", () => {
-    showTranslation = !showTranslation;
-    document.getElementById("toggle-translation").classList.toggle("active", showTranslation);
-    document.getElementById("translation-block")?.classList.toggle("hidden", !showTranslation);
+    prefs.showTranslation = !prefs.showTranslation;
+    savePrefs();
+    document.getElementById("toggle-translation").classList.toggle("active", prefs.showTranslation);
+    document.querySelectorAll(".translation-block").forEach((el) => el.classList.toggle("hidden", !prefs.showTranslation));
   });
 
-  document.querySelectorAll(".panel-tab").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      activePanel = btn.dataset.panel;
-      document.querySelectorAll(".panel-tab").forEach((b) => b.classList.toggle("active", b === btn));
-      document.getElementById("panel-content").innerHTML = panelContent(currentAyah);
-      bindPanelEvents();
+  document.getElementById("font-smaller")?.addEventListener("click", () => setFontScale(prefs.fontScale - 0.08));
+  document.getElementById("font-larger")?.addEventListener("click", () => setFontScale(prefs.fontScale + 0.08));
+
+  document.getElementById("ayah-jump")?.addEventListener("change", (e) => {
+    const ayah = +e.target.value;
+    if (ayah) scrollToAyah(currentSurah.id, ayah);
+  });
+
+  document.getElementById("close-drawer")?.addEventListener("click", closeStudyDrawer);
+  document.getElementById("drawer-backdrop")?.addEventListener("click", closeStudyDrawer);
+}
+
+function setFontScale(scale) {
+  prefs.fontScale = Math.min(1.4, Math.max(0.85, scale));
+  savePrefs();
+  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+}
+
+function renderHome(surahs) {
+  setBreadcrumb("");
+  const last = getLastRead();
+  const bookmarks = getBookmarks().slice(0, 5);
+  const lastSurah = last ? surahs.find((s) => s.id === last.surah) : null;
+
+  document.getElementById("app").innerHTML = `
+    ${last && lastSurah ? `
+    <a href="#/${last.surah}/${last.ayah}" class="resume-card">
+      <span class="resume-label">Continue reading</span>
+      <span class="resume-title">${esc(lastSurah.translated_name)} · Ayah ${last.ayah}</span>
+      <span class="resume-arrow">→</span>
+    </a>` : ""}
+    ${bookmarks.length ? `
+    <section class="home-section">
+      <h2 class="section-title">Bookmarks</h2>
+      <div class="bookmark-list compact">${bookmarks.map((b) => bookmarkRow(b)).join("")}</div>
+      <a href="#/bookmarks" class="see-all">View all bookmarks</a>
+    </section>` : ""}
+    <div class="hero">
+      <h1>القرآن الكريم</h1>
+      <p>Scroll through the surah · Hover words for meaning · Reflect & study</p>
+    </div>
+    <div class="search-wrap">
+      <input type="search" id="surah-search" class="search-input" placeholder="Search surah by name or number…" autocomplete="off" />
+    </div>
+    <div class="surah-grid" id="surah-grid">${surahs.map((s) => surahCard(s)).join("")}</div>`;
+
+  document.getElementById("surah-search")?.addEventListener("input", (e) => {
+    const q = e.target.value.trim().toLowerCase();
+    document.querySelectorAll(".surah-card").forEach((card) => {
+      const text = card.dataset.search;
+      card.hidden = q && !text.includes(q);
     });
   });
+}
 
-  bindPanelEvents();
+function surahCard(s) {
+  return `
+    <a href="#/${s.id}" class="surah-card" data-search="${s.id} ${s.name_simple.toLowerCase()} ${s.translated_name.toLowerCase()} ${s.name_arabic}">
+      <div class="surah-num">${s.id}</div>
+      <div class="surah-ar">${esc(s.name_arabic)}</div>
+      <div class="surah-en">${esc(s.translated_name)}</div>
+      <div class="surah-meta">${s.revelation_place} · ${s.verses_count} ayahs</div>
+    </a>`;
+}
+
+function bookmarkRow(b) {
+  return `
+    <a href="#/${b.surah}/${b.ayah}" class="bookmark-row">
+      <span class="bookmark-ref">${esc(b.surahName || `Surah ${b.surah}`)} · ${b.ayah}</span>
+      <span class="bookmark-snippet">${esc(b.snippet || "")}</span>
+    </a>`;
+}
+
+function renderBookmarks() {
+  setBreadcrumb(`<a href="#/">Home</a> › Bookmarks`);
+  const list = getBookmarks();
+  document.getElementById("app").innerHTML = `
+    <div class="hero compact">
+      <h1>Bookmarks</h1>
+      <p>${list.length ? `${list.length} saved ayah${list.length === 1 ? "" : "s"}` : "No bookmarks yet — tap ☆ while reading"}</p>
+    </div>
+    ${list.length ? `<div class="bookmark-list">${list.map((b, i) => `
+      <div class="bookmark-item">
+        <a href="#/${b.surah}/${b.ayah}" class="bookmark-row">
+          <span class="bookmark-ref">${esc(b.surahName || `Surah ${b.surah}`)} · Ayah ${b.ayah}</span>
+          <span class="bookmark-snippet">${esc(b.snippet || "")}</span>
+        </a>
+        <button type="button" class="icon-btn remove-bookmark" data-i="${i}" title="Remove">×</button>
+      </div>`).join("")}</div>` : `<p class="empty-note center">Star an ayah while reading to bookmark it here.</p>`}`;
+
+  document.querySelectorAll(".remove-bookmark").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const list = getBookmarks();
+      list.splice(+btn.dataset.i, 1);
+      localStorage.setItem(LS.bookmarks, JSON.stringify(list));
+      renderBookmarks();
+    });
+  });
+}
+
+async function renderSurah(data, targetAyah) {
+  currentSurah = data;
+  const last = getLastRead();
+  if (!targetAyah && last?.surah === data.id) targetAyah = last.ayah;
+  const ayah = targetAyah || 1;
+  saveLastRead(data.id, ayah);
+
+  setBreadcrumb(`<a href="#/">Home</a> › ${esc(data.translated_name)}`);
+
+  const jumpOptions = data.ayahs.map((a) => `<option value="${a.ayah}" ${a.ayah === ayah ? "selected" : ""}>Ayah ${a.ayah}</option>`).join("");
+  const prevSurah = data.id > 1 ? `<a class="nav-btn" href="#/${data.id - 1}">← ${data.id - 1}</a>` : `<span class="nav-btn disabled">←</span>`;
+  const nextSurah = data.id < 114 ? `<a class="nav-btn" href="#/${data.id + 1}">${data.id + 1} →</a>` : `<span class="nav-btn disabled">→</span>`;
+
+  document.getElementById("app").innerHTML = `
+    <div class="surah-reader">
+      <div class="surah-header">
+        <h1 class="surah-title">${esc(data.name_arabic)}</h1>
+        <p class="surah-subtitle">${esc(data.translated_name)} · ${data.revelation_place} · ${data.verses_count} ayahs</p>
+      </div>
+      <div class="reader-toolbar sticky-toolbar">
+        <div class="surah-progress-wrap">
+          <div class="surah-progress"><div class="surah-progress-bar" style="width:0"></div></div>
+          <span class="surah-progress-label">Ayah ${ayah} of ${data.verses_count}</span>
+        </div>
+        <div class="toolbar-actions">
+          <select id="ayah-jump" class="select-input" aria-label="Jump to ayah">${jumpOptions}</select>
+          <button type="button" class="btn icon-only" id="font-smaller" title="Smaller text">A−</button>
+          <button type="button" class="btn icon-only" id="font-larger" title="Larger text">A+</button>
+          <button type="button" class="btn ${prefs.showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
+        </div>
+      </div>
+      <p class="reader-hint">Hover any word for meaning · ☆ to bookmark · ⋯ for reflection & tafsir</p>
+      <div class="ayah-stream">${data.ayahs.map((a) => ayahBlock(data, a, data.id)).join("")}</div>
+      <div class="surah-nav">${prevSurah}<span class="nav-label">Surah ${data.id} of 114</span>${nextSurah}</div>
+    </div>`;
+
+  document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
+  bindSurahEvents();
+  setupScrollObserver(data.id);
+  updateProgress(data.id, ayah);
+  requestAnimationFrame(() => scrollToAyah(data.id, ayah, false));
 }
 
 document.addEventListener("click", (e) => {
@@ -216,136 +570,44 @@ document.addEventListener("click", (e) => {
   if (!tooltip.contains(e.target) && !e.target.classList.contains("q-word")) hideTooltip();
 });
 
-function bindPanelEvents() {
-  const input = document.getElementById("reflection-input");
-  if (input) {
-    input.value = currentAyah.personal_reflections || "";
-    input.addEventListener("input", () => {
-      currentAyah.personal_reflections = input.value;
-      debouncedSave();
-    });
-  }
-}
-
-function showWordTooltip(el, editing = false) {
-  const tooltip = document.getElementById("word-tooltip");
-  const key = el.dataset.i;
-  const word = currentAyah.word_by_word[key];
-  if (!word) return;
-
-  document.querySelectorAll(".q-word").forEach((w) => w.classList.remove("active"));
-  el.classList.add("active");
-
-  const rect = el.getBoundingClientRect();
-  tooltip.hidden = false;
-  tooltip.innerHTML = editing
-    ? `
-    <div class="wt-ar">${esc(word.arabic)}</div>
-    <div class="wt-tr">${esc(word.transliteration || "")}</div>
-    <label style="font-size:0.72rem;color:var(--muted)">Meaning</label>
-    <input id="wt-meaning" />
-    <div class="wt-actions">
-      <button type="button" id="wt-cancel">Cancel</button>
-      <button type="button" class="primary" id="wt-save">Save</button>
-    </div>`
-    : `
-    <div class="wt-ar">${esc(word.arabic)}</div>
-    <div class="wt-tr">${esc(word.transliteration || "")}</div>
-    <div class="wt-en">${esc(word.translation || "")}</div>
-    <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
-
-  tooltip.style.left = `${Math.min(rect.left, window.innerWidth - 280)}px`;
-  tooltip.style.top = `${rect.bottom + 8}px`;
-
-  if (editing) document.getElementById("wt-meaning").value = word.translation || "";
-
-  tooltip.querySelector("#wt-edit")?.addEventListener("click", () => showWordTooltip(el, true));
-  tooltip.querySelector("#wt-cancel")?.addEventListener("click", hideTooltip);
-  tooltip.querySelector("#wt-save")?.addEventListener("click", async () => {
-    const val = document.getElementById("wt-meaning").value;
-    currentAyah.word_by_word[key].translation = val;
-    hideTooltip();
-    await persistCurrentAyah();
-    renderAyah(currentSurah, currentAyah);
-  });
-}
-
-function hideTooltip() {
-  document.getElementById("word-tooltip").hidden = true;
-  document.querySelectorAll(".q-word").forEach((w) => w.classList.remove("active"));
-}
-
-function renderAyah(surahData, ayah) {
-  currentSurah = surahData;
-  currentAyah = { ...ayah, word_by_word: { ...ayah.word_by_word } };
-
-  if (!canSync) {
-    const local = localStorage.getItem(`quran-${surahData.id}-${ayah.ayah}`);
-    if (local) Object.assign(currentAyah, JSON.parse(local));
-  }
-
-  setBreadcrumb(
-    `<a href="#/">Surahs</a> › <a href="#/${surahData.id}">${esc(surahData.translated_name)}</a> › ${ayah.ayah}`
-  );
-
-  const hasContext = !!(currentAyah.context && currentAyah.context.trim());
-  if (activePanel === "context" && !hasContext) activePanel = "reflection";
-
-  const prev =
-    ayah.ayah > 1
-      ? `<a class="nav-btn" href="#/${surahData.id}/${ayah.ayah - 1}">← Previous</a>`
-      : surahData.id > 1
-        ? `<a class="nav-btn" href="#/${surahData.id - 1}">← Previous Surah</a>`
-        : `<span class="nav-btn disabled">← Previous</span>`;
-
-  const next =
-    ayah.ayah < surahData.verses_count
-      ? `<a class="nav-btn" href="#/${surahData.id}/${ayah.ayah + 1}">Next →</a>`
-      : surahData.id < 114
-        ? `<a class="nav-btn" href="#/${surahData.id + 1}">Next Surah →</a>`
-        : `<span class="nav-btn disabled">Next →</span>`;
-
-  document.getElementById("app").innerHTML = `
-    <div class="ayah-reader">
-      <div class="reader-toolbar">
-        <span class="ayah-label">${esc(surahData.translated_name)} · Ayah ${ayah.ayah}</span>
-        <div class="toolbar-actions">
-          <button type="button" class="btn ${showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
-        </div>
-      </div>
-      <p class="reader-hint">Hover any Arabic word for its meaning · Click a word to edit</p>
-      ${renderArabicWords(currentAyah)}
-      <div class="translation-block ${showTranslation ? "" : "hidden"}" id="translation-block">${esc(currentAyah.translation)}</div>
-      <div class="panel-tabs">
-        <button type="button" class="btn panel-tab ${activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Reflection</button>
-        <button type="button" class="btn panel-tab ${activePanel === "context" ? "active" : ""}" data-panel="context" ${hasContext ? "" : "disabled"}>Context</button>
-        <button type="button" class="btn panel-tab ${activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
-      </div>
-      <div class="panel-body" id="panel-content">${panelContent(currentAyah)}</div>
-      <div class="nav-row">${prev}${next}</div>
-    </div>`;
-
-  bindAyahEvents();
-}
+document.addEventListener("keydown", (e) => {
+  if (e.target.matches("input, textarea, select")) return;
+  const r = route();
+  if (r.view !== "surah" || !currentSurah) return;
+  const last = getLastRead();
+  if (!last) return;
+  if (e.key === "ArrowDown" || e.key === "j") {
+    e.preventDefault();
+    const next = Math.min(last.ayah + 1, currentSurah.verses_count);
+    scrollToAyah(currentSurah.id, next);
+  } else if (e.key === "ArrowUp" || e.key === "k") {
+    e.preventDefault();
+    const prev = Math.max(last.ayah - 1, 1);
+    scrollToAyah(currentSurah.id, prev);
+  } else if (e.key === "Escape") closeStudyDrawer();
+});
 
 async function render() {
-  const r = route();
+  if (scrollLock) return;
   hideTooltip();
+  closeStudyDrawer();
+  const r = route();
   try {
     if (r.view === "home") {
-      currentAyah = null;
+      currentSurah = null;
+      selectedAyah = null;
       renderHome((await loadIndex()).surahs);
+    } else if (r.view === "bookmarks") {
+      currentSurah = null;
+      renderBookmarks();
     } else if (r.view === "surah") {
-      currentAyah = null;
-      renderSurah(await loadSurah(r.surah));
-    } else if (r.view === "ayah") {
-      const data = await loadSurah(r.surah);
-      const ayah = data.ayahs.find((a) => a.ayah === r.ayah);
-      if (!ayah) {
-        document.getElementById("app").innerHTML = `<p class="loading">Ayah not found.</p>`;
+      const sameSurah = currentSurah?.id === r.surah;
+      if (sameSurah && r.ayah) {
+        scrollToAyah(r.surah, r.ayah);
         return;
       }
-      renderAyah(data, ayah);
+      selectedAyah = null;
+      await renderSurah(await loadSurah(r.surah), r.ayah);
     }
   } catch (err) {
     document.getElementById("app").innerHTML = `<p class="loading">Failed to load.</p>`;

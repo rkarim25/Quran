@@ -6,12 +6,14 @@ A study website for the Holy Quran with English translation, word-by-word hover 
 
 ## Features
 
-- **Word hover** — hover any Arabic word for transliteration and meaning (like quran.com)
-- **Translation toggle** — show/hide English translation below the ayah
-- **Reflection** — write and save personal reflections
-- **Context** — only shown when a specific occasion of revelation is recorded
-- **Tafsir** — summary plus full Ibn Kathir and Maarif ul Quran
+- **Continuous scroll** — read an entire surah by scrolling, like quran.com
+- **Word hover** — hover any Arabic word for transliteration and meaning
+- **Translation toggle** — show/hide English below each ayah
+- **Continue reading** — your last ayah is remembered automatically
+- **Bookmarks** — star any ayah and revisit from the Bookmarks page
+- **Study drawer** — reflection, revelation context, and tafsir per ayah
 - **Edit meanings** — click a word → Edit → saves back to your markdown files
+- **Light theme** — warm, calm reading experience
 - **Local sync** — edits on the website update `Quran-obs/*.md` automatically
 
 ## Run locally with sync

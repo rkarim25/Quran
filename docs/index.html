@@ -4,17 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta name="theme-color" content="#f7f4ee">
   <title>Quran</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="reader.css">
+  <link rel="stylesheet" href="reader.css?v=3">
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
       <a href="#/" class="logo"><span class="logo-ar">قُرْآن</span><span class="logo-en">Quran</span></a>
       <nav id="breadcrumb" class="breadcrumb"></nav>
+      <nav class="header-nav">
+        <a href="#/bookmarks">Bookmarks</a>
+      </nav>
       <div id="sync-badge" class="sync-badge" hidden></div>
     </div>
   </header>
@@ -23,10 +27,20 @@
 
   <div id="word-tooltip" class="word-tooltip" hidden></div>
 
+  <div id="drawer-backdrop" class="drawer-backdrop" hidden></div>
+
+  <div id="study-drawer" class="study-drawer" hidden>
+    <div class="drawer-header">
+      <span id="drawer-title" class="drawer-title"></span>
+      <button type="button" id="close-drawer" class="icon-btn" aria-label="Close">×</button>
+    </div>
+    <div id="drawer-panel" class="drawer-panel"></div>
+  </div>
+
   <footer class="site-footer">
-    <p>Run <code>python scripts/serve.py</code> locally to sync edits to your markdown files.</p>
+    <p>Your place is saved automatically · Run <code>python scripts/serve.py</code> to sync edits to markdown</p>
   </footer>
 
-  <script src="reader.js"></script>
+  <script src="reader.js?v=3"></script>
 </body>
 </html>
