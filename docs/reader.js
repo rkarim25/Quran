@@ -181,7 +181,8 @@ function ayahBlock(data, ayah, surahId) {
         <span class="ayah-end" aria-hidden="true"><span class="ayah-end-num">${arabicNumeral(ayah.ayah)}</span></span>
       </div>
       <div class="translation-block ${prefs.showTranslation ? "" : "hidden"}">
-        <p>${esc(a.translation)}</p>
+        <p class="translation-text">${esc(a.translation)}</p>
+        <button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>
       </div>
     </article>`;
 }
@@ -214,22 +215,81 @@ async function saveAyah(data) {
   localStorage.setItem(LS.ayahEdits(currentSurah.id, data.ayah), JSON.stringify(payload));
 }
 
-function showSaveStatus(msg, ok) {
-  const el = document.querySelector(".save-status");
-  if (!el) return;
-  el.textContent = msg;
-  el.className = "save-status" + (ok ? " ok" : ok === false ? " err" : "");
+function showSaveStatus(msg, ok, el) {
+  const target = el || document.querySelector(".save-status");
+  if (!target) return;
+  target.textContent = msg;
+  const base = target.className.split(" ").find((c) => c.endsWith("-status")) || "save-status";
+  target.className = base + (ok ? " ok" : ok === false ? " err" : "");
+}
+
+function getAyahData(surahId, ayahNum) {
+  const raw = currentSurah.ayahs.find((a) => a.ayah === ayahNum);
+  return raw ? mergeLocalEdits(raw, surahId) : null;
+}
+
+async function persistAyah(ayahData, statusEl) {
+  if (!currentSurah || !ayahData) return;
+  try {
+    await saveAyah(ayahData);
+    const idx = currentSurah.ayahs.findIndex((a) => a.ayah === ayahData.ayah);
+    if (idx >= 0 && !canSync) {
+      currentSurah.ayahs[idx] = {
+        ...currentSurah.ayahs[idx],
+        translation: ayahData.translation,
+        word_by_word: ayahData.word_by_word,
+        personal_reflections: ayahData.personal_reflections,
+      };
+    }
+    showSaveStatus(canSync ? "Saved to markdown" : "Saved locally", true, statusEl);
+  } catch (e) {
+    showSaveStatus("Save failed", false, statusEl);
+    console.error(e);
+  }
 }
 
 async function persistSelectedAyah() {
   if (!selectedAyah || !currentSurah) return;
-  try {
-    await saveAyah(selectedAyah);
-    showSaveStatus(canSync ? "Saved to markdown" : "Saved locally", true);
-  } catch (e) {
-    showSaveStatus("Save failed", false);
-    console.error(e);
-  }
+  await persistAyah(selectedAyah);
+}
+
+function openTranslationEdit(articleEl) {
+  const surahId = +articleEl.dataset.surah;
+  const ayahNum = +articleEl.dataset.ayah;
+  const ayah = getAyahData(surahId, ayahNum);
+  if (!ayah) return;
+
+  const block = articleEl.querySelector(".translation-block");
+  if (!block || block.classList.contains("editing")) return;
+
+  selectedAyah = ayah;
+  block.classList.add("editing");
+  block.innerHTML = `
+    <label class="translation-edit-label">Edit ayah translation</label>
+    <textarea class="translation-edit-input" rows="3"></textarea>
+    <div class="translation-edit-actions">
+      <button type="button" class="btn" data-action="cancel-translation">Cancel</button>
+      <button type="button" class="btn active" data-action="save-translation">Save</button>
+    </div>
+    <div class="translation-save-status"></div>`;
+
+  const input = block.querySelector(".translation-edit-input");
+  input.value = ayah.translation || "";
+  input.focus();
+}
+
+async function saveTranslationEdit(articleEl) {
+  const surahId = +articleEl.dataset.surah;
+  const ayahNum = +articleEl.dataset.ayah;
+  const ayah = getAyahData(surahId, ayahNum);
+  const input = articleEl.querySelector(".translation-edit-input");
+  if (!ayah || !input) return;
+
+  ayah.translation = input.value;
+  selectedAyah = ayah;
+  const statusEl = articleEl.querySelector(".translation-save-status");
+  await persistAyah(ayah, statusEl);
+  await refreshAyahBlock(surahId, ayahNum);
 }
 
 function debouncedSave() {
@@ -265,12 +325,19 @@ function openStudyDrawer(ayah) {
 
   document.getElementById("drawer-title").textContent = `${currentSurah.translated_name} · Ayah ${ayah.ayah}`;
   document.getElementById("drawer-panel").innerHTML = `
+    <div class="drawer-translation">
+      <label class="drawer-field-label" for="drawer-translation-input">Ayah translation</label>
+      <textarea class="translation-edit-input drawer-translation-input" id="drawer-translation-input" rows="3"></textarea>
+      <div class="drawer-translation-status translation-save-status"></div>
+    </div>
     <div class="panel-tabs">
       <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
       <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""}" data-panel="context" ${hasContext ? "" : "disabled"}>Context</button>
       <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
     </div>
     <div class="panel-body" id="panel-content">${panelContent(selectedAyah)}</div>`;
+
+  document.getElementById("drawer-translation-input").value = selectedAyah.translation || "";
 
   drawer.hidden = false;
   document.getElementById("drawer-backdrop").hidden = false;
@@ -293,6 +360,22 @@ function highlightAyah(ayahNum) {
 }
 
 function bindDrawerEvents() {
+  const translationInput = document.getElementById("drawer-translation-input");
+  if (translationInput) {
+    translationInput.addEventListener("input", () => {
+      selectedAyah.translation = translationInput.value;
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(() => {
+        persistAyah(selectedAyah, document.querySelector(".drawer-translation-status"));
+        const surahId = currentSurah.id;
+        const ayahNum = selectedAyah.ayah;
+        const block = document.getElementById(`ayah-${surahId}-${ayahNum}`);
+        const textEl = block?.querySelector(".translation-text");
+        if (textEl) textEl.textContent = translationInput.value;
+      }, 600);
+    });
+  }
+
   const input = document.getElementById("reflection-input");
   if (input) {
     input.value = selectedAyah.personal_reflections || "";
@@ -423,10 +506,25 @@ function bindSurahEvents() {
   document.querySelectorAll(".ayah-block").forEach((block) => {
     block.addEventListener("click", (e) => {
       const action = e.target.closest("[data-action]")?.dataset.action;
+      if (action === "edit-translation") {
+        e.stopPropagation();
+        openTranslationEdit(block);
+        return;
+      }
+      if (action === "save-translation") {
+        e.stopPropagation();
+        saveTranslationEdit(block);
+        return;
+      }
+      if (action === "cancel-translation") {
+        e.stopPropagation();
+        refreshAyahBlock(+block.dataset.surah, +block.dataset.ayah);
+        return;
+      }
       if (!action) return;
       const surahId = +block.dataset.surah;
       const ayahNum = +block.dataset.ayah;
-      const ayah = currentSurah.ayahs.find((a) => a.ayah === ayahNum);
+      const ayah = getAyahData(surahId, ayahNum);
       if (!ayah) return;
 
       if (action === "bookmark") {
@@ -437,8 +535,13 @@ function bindSurahEvents() {
         btn.title = added ? "Remove bookmark" : "Bookmark";
         btn.setAttribute("aria-label", added ? "Remove bookmark" : "Bookmark");
       } else if (action === "study" || action === "select") {
-        openStudyDrawer(ayah);
+        openStudyDrawer(currentSurah.ayahs.find((a) => a.ayah === ayahNum));
       }
+    });
+
+    block.querySelector(".translation-text")?.addEventListener("dblclick", (e) => {
+      e.stopPropagation();
+      openTranslationEdit(block);
     });
   });
 
@@ -599,7 +702,7 @@ async function renderSurah(data, targetAyah) {
           <button type="button" class="btn ${prefs.showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
         </div>
       </div>
-      <p class="reader-hint">Hover a word for its meaning · ✧ to save · ☰ for tadabbur & tafsir</p>
+      <p class="reader-hint">Hover a word to edit its meaning · ✎ on the translation to edit the full line · ✧ to save · ☰ for tadabbur</p>
       <div class="mushaf-sheet">
         <div class="ayah-stream">${data.ayahs.map((a) => ayahBlock(data, a, data.id)).join("")}</div>
       </div>

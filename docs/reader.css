@@ -863,7 +863,14 @@ body.drawer-open { overflow: hidden; }
   text-align: center;
   max-width: 540px;
   margin: 0.75rem auto 0;
-  padding: 0 0.5rem;
+  padding: 0.5rem 0.75rem;
+  position: relative;
+  border-radius: var(--radius-sm);
+  transition: background 0.2s;
+}
+
+.translation-block:hover {
+  background: rgba(230, 242, 236, 0.35);
 }
 
 .translation-block p {
@@ -872,6 +879,101 @@ body.drawer-open { overflow: hidden; }
   font-style: italic;
   line-height: 1.65;
 }
+
+.translation-text {
+  cursor: text;
+  padding: 0.15rem 1.75rem 0.15rem 0.25rem;
+}
+
+.translation-edit-btn {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 0.85rem;
+  cursor: pointer;
+  padding: 0.25rem 0.4rem;
+  border-radius: 4px;
+  opacity: 0;
+  transition: opacity 0.2s, color 0.2s, background 0.2s;
+}
+
+.translation-block:hover .translation-edit-btn,
+.translation-block.editing .translation-edit-btn {
+  opacity: 1;
+}
+
+.translation-edit-btn:hover {
+  color: var(--green);
+  background: var(--green-light);
+}
+
+.translation-block.editing {
+  background: var(--green-light);
+  text-align: left;
+  padding: 0.85rem;
+}
+
+.translation-edit-label,
+.drawer-field-label {
+  display: block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--green);
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.translation-edit-input {
+  width: 100%;
+  background: var(--white);
+  border: 1px solid rgba(31, 107, 82, 0.15);
+  border-radius: var(--radius-sm);
+  color: var(--ink);
+  padding: 0.65rem 0.75rem;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.6;
+  resize: vertical;
+}
+
+.translation-edit-input:focus {
+  outline: none;
+  border-color: var(--green-mid);
+  box-shadow: 0 0 0 3px var(--green-glow);
+}
+
+.translation-edit-actions {
+  display: flex;
+  gap: 0.4rem;
+  margin-top: 0.55rem;
+  justify-content: flex-end;
+}
+
+.drawer-translation {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.15rem;
+  border-bottom: 1px solid rgba(31, 107, 82, 0.08);
+}
+
+.drawer-translation-input {
+  font-style: italic;
+}
+
+.translation-save-status {
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin-top: 0.35rem;
+  font-style: italic;
+}
+
+.translation-save-status.ok { color: var(--green); }
+.translation-save-status.err { color: var(--danger); }
 
 .translation-block.hidden { display: none; }
 
