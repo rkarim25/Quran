@@ -608,6 +608,209 @@ function setFontScale(scale) {
   document.documentElement.style.setProperty("--arabic-scale", prefs.fontScale);
 }
 
+function normalizeSearch(text) {
+  return (text ?? "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[\u0640\u0610-\u061a\u064b-\u065f\u0670\u06d6-\u06ed]/g, "")
+    .replace(/[''`´]/g, "")
+    .replace(/[^a-z0-9\u0621-\u064a\s:/\-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function parseReference(raw, surahs) {
+  const q = raw.trim();
+  if (!q) return null;
+
+  let m = q.match(/^(\d{1,3})\s*[:\/\-]\s*(\d{1,3})$/);
+  if (!m) m = q.match(/^(\d{1,3})\s+(\d{1,3})$/);
+  if (m) {
+    const surah = +m[1];
+    const ayah = +m[2];
+    const s = surahs.find((x) => x.id === surah);
+    if (!s) return null;
+    const validAyah = Math.min(Math.max(1, ayah), s.verses_count);
+    return {
+      surah,
+      ayah: validAyah,
+      label: `${s.name_simple} · Ayah ${validAyah}`,
+      sub: `${s.translated_name} (${surah}:${validAyah})`,
+      kind: "ref",
+    };
+  }
+
+  m = q.match(/^(?:surah|sura|s)?\s*(\d{1,3})(?:\s*[:\/\-]\s*(\d{1,3}))?$/i);
+  if (m) {
+    const surah = +m[1];
+    const ayah = m[2] ? +m[2] : 1;
+    const s = surahs.find((x) => x.id === surah);
+    if (!s) return null;
+    const validAyah = Math.min(Math.max(1, ayah), s.verses_count);
+    return {
+      surah,
+      ayah: validAyah,
+      label: `${s.name_simple} · Ayah ${validAyah}`,
+      sub: `${s.translated_name} (${surah}:${validAyah})`,
+      kind: "ref",
+    };
+  }
+
+  if (/^\d{1,3}$/.test(q)) {
+    const surah = +q;
+    const s = surahs.find((x) => x.id === surah);
+    if (s) {
+      return {
+        surah,
+        ayah: 1,
+        label: `${s.id}. ${s.name_simple}`,
+        sub: s.translated_name,
+        kind: "ref",
+      };
+    }
+  }
+
+  return null;
+}
+
+function scoreSurah(s, nq) {
+  if (!nq) return 0;
+  const id = String(s.id);
+  if (id === nq) return 120;
+
+  const simple = normalizeSearch(s.name_simple);
+  const english = normalizeSearch(s.translated_name);
+  const arabic = normalizeSearch(s.name_arabic);
+
+  if (simple === nq || english === nq) return 100;
+  if (simple.startsWith(nq) || english.startsWith(nq)) return 85;
+  if (arabic.includes(nq)) return 75;
+  if (simple.includes(nq) || english.includes(nq)) return 60;
+
+  const tokens = nq.split(" ").filter(Boolean);
+  if (tokens.length > 1 && tokens.every((t) => english.includes(t) || simple.includes(t))) return 45;
+
+  return 0;
+}
+
+function searchSurahs(surahs, query, limit = 8) {
+  const ref = parseReference(query, surahs);
+  if (ref) return [ref];
+
+  const nq = normalizeSearch(query);
+  if (!nq) return [];
+
+  return surahs
+    .map((s) => ({ surah: s.id, ayah: 1, score: scoreSurah(s, nq), kind: "surah", s }))
+    .filter((r) => r.score > 0)
+    .sort((a, b) => b.score - a.score || a.surah - b.surah)
+    .slice(0, limit)
+    .map(({ s, ...r }) => ({
+      ...r,
+      label: `${s.id}. ${s.name_simple}`,
+      sub: s.translated_name,
+    }));
+}
+
+function goToSearchResult(result) {
+  if (!result) return;
+  location.hash = result.ayah ? `#/${result.surah}/${result.ayah}` : `#/${result.surah}`;
+}
+
+function renderSearchDropdown(results, activeIdx = 0) {
+  const dropdown = document.getElementById("search-dropdown");
+  if (!dropdown) return;
+  if (!results.length) {
+    dropdown.hidden = true;
+    dropdown.innerHTML = "";
+    return;
+  }
+  dropdown.hidden = false;
+  dropdown.innerHTML = results
+    .map(
+      (r, i) => `
+    <button type="button" class="search-item ${i === activeIdx ? "active" : ""}" data-i="${i}">
+      <span class="search-item-label">${esc(r.label)}</span>
+      <span class="search-item-sub">${esc(r.sub || "")}</span>
+    </button>`
+    )
+    .join("");
+}
+
+function bindSmartSearch(surahs) {
+  const input = document.getElementById("surah-search");
+  const dropdown = document.getElementById("search-dropdown");
+  if (!input || !dropdown) return;
+
+  let results = [];
+  let activeIdx = 0;
+
+  function filterGrid(q) {
+    const nq = normalizeSearch(q);
+    document.querySelectorAll(".surah-card").forEach((card) => {
+      if (!nq) {
+        card.hidden = false;
+        return;
+      }
+      const id = card.querySelector(".surah-num")?.textContent;
+      const s = surahs.find((x) => String(x.id) === id);
+      card.hidden = !(s && scoreSurah(s, nq) > 0);
+    });
+  }
+
+  function update() {
+    const q = input.value.trim();
+    results = searchSurahs(surahs, q);
+    activeIdx = 0;
+    renderSearchDropdown(results, activeIdx);
+    filterGrid(q);
+  }
+
+  function pick(idx) {
+    const r = results[idx];
+    if (!r) return;
+    input.value = r.sub ? `${r.label}` : r.label;
+    dropdown.hidden = true;
+    goToSearchResult(r);
+  }
+
+  input.addEventListener("input", update);
+
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      if (!results.length) return;
+      activeIdx = Math.min(activeIdx + 1, results.length - 1);
+      renderSearchDropdown(results, activeIdx);
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      activeIdx = Math.max(activeIdx - 1, 0);
+      renderSearchDropdown(results, activeIdx);
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      if (results.length) pick(activeIdx);
+    } else if (e.key === "Escape") {
+      dropdown.hidden = true;
+      input.blur();
+    }
+  });
+
+  dropdown.addEventListener("click", (e) => {
+    const btn = e.target.closest(".search-item");
+    if (!btn) return;
+    pick(+btn.dataset.i);
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!e.target.closest(".search-wrap")) dropdown.hidden = true;
+  });
+
+  input.addEventListener("focus", () => {
+    if (input.value.trim()) update();
+  });
+}
+
 function renderHome(surahs) {
   setBreadcrumb("");
   const last = getLastRead();
@@ -640,17 +843,13 @@ function renderHome(surahs) {
       <p class="hero-hadith">“The best of you are those who learn the Qur'an and teach it.”</p>
     </div>
     <div class="search-wrap">
-      <input type="search" id="surah-search" class="search-input" placeholder="Find a surah…" autocomplete="off" />
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input type="search" id="surah-search" class="search-input" placeholder="2:15 · Al-Baqarah · The Cow · البقرة…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
+      <div id="search-dropdown" class="search-dropdown" hidden role="listbox"></div>
     </div>
     <div class="surah-grid" id="surah-grid">${surahs.map((s) => surahCard(s)).join("")}</div>`;
 
-  document.getElementById("surah-search")?.addEventListener("input", (e) => {
-    const q = e.target.value.trim().toLowerCase();
-    document.querySelectorAll(".surah-card").forEach((card) => {
-      const text = card.dataset.search;
-      card.hidden = q && !text.includes(q);
-    });
-  });
+  bindSmartSearch(surahs);
 }
 
 function surahCard(s) {
