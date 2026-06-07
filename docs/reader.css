@@ -1062,6 +1062,12 @@ body.drawer-open { overflow: hidden; }
 .empty-note.center { text-align: center; padding: 2.5rem; }
 
 /* ─── Study drawer ─── */
+.drawer-backdrop[hidden],
+.study-drawer[hidden],
+.word-tooltip[hidden] {
+  display: none !important;
+}
+
 .drawer-backdrop {
   position: fixed;
   inset: 0;
