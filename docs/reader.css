@@ -209,13 +209,17 @@ body {
 
 .q-word {
   display: inline;
-  cursor: pointer;
+  cursor: help;
   padding: 0.08em 0.12em;
   border-radius: 4px;
-  transition: background 0.12s;
+  border-bottom: 2px dotted rgba(196, 160, 53, 0.45);
+  transition: background 0.12s, border-color 0.12s;
 }
 
-.q-word:hover, .q-word.active { background: rgba(82, 183, 136, 0.18); }
+.q-word:hover, .q-word.active {
+  background: rgba(82, 183, 136, 0.22);
+  border-bottom-color: var(--accent);
+}
 
 .translation-block {
   text-align: center;
