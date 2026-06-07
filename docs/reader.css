@@ -23,7 +23,7 @@
   --header-h: 62px;
   --drawer-w: 440px;
   --arabic-scale: 1;
-  --font-arabic: "Amiri Quran", "Amiri", serif;
+  --font-arabic: "UthmanicHafs", "Amiri Quran", "Amiri", serif;
   --font-arabic-alt: "Amiri", serif;
   --font-body: "Cormorant Garamond", Georgia, serif;
   --font-ui: "Cormorant Garamond", Georgia, serif;
@@ -31,6 +31,12 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+@font-face {
+  font-family: "UthmanicHafs";
+  src: url("https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2") format("woff2");
+  font-display: swap;
+}
 
 html {
   scroll-behavior: smooth;
@@ -679,10 +685,13 @@ body.drawer-open { overflow: hidden; }
   border: 1px solid rgba(31, 107, 82, 0.08);
   border-radius: var(--radius);
   box-shadow: var(--shadow-medium);
-  padding: 2rem 1.5rem;
+  padding: 2.25rem 1.75rem;
   max-width: var(--mushaf-width);
   margin: 0 auto;
   position: relative;
+  background-image:
+    linear-gradient(180deg, rgba(255,255,255,0.7), transparent 120px),
+    linear-gradient(0deg, rgba(230,242,236,0.25), transparent 80px);
 }
 
 .mushaf-sheet::before {
@@ -701,11 +710,15 @@ body.drawer-open { overflow: hidden; }
 }
 
 .ayah-block {
-  padding: 1.75rem 0.5rem;
+  padding: 2rem 0.75rem;
   border-radius: var(--radius-sm);
   transition: background 0.35s ease, box-shadow 0.35s ease;
   scroll-margin-top: calc(var(--header-h) + 90px);
   position: relative;
+}
+
+.ayah-block:nth-child(even) {
+  background: rgba(255, 252, 247, 0.45);
 }
 
 .ayah-block:not(:last-child)::after {
@@ -731,40 +744,70 @@ body.drawer-open { overflow: hidden; }
   margin-bottom: 0.85rem;
 }
 
-.ayah-marker {
-  position: relative;
-  width: 2.25rem;
-  height: 2.25rem;
+.ayah-marker-btn {
   border: none;
   background: none;
   cursor: pointer;
   padding: 0;
+  line-height: 0;
+  transition: transform 0.2s ease;
 }
 
-.marker-ring {
+.ayah-marker-btn:hover,
+.ayah-block.active .ayah-marker-btn {
+  transform: scale(1.06);
+}
+
+.ayah-marker-btn .rosette {
+  color: var(--green);
+}
+
+.ayah-marker-btn:hover .rosette,
+.ayah-block.active .ayah-marker-btn .rosette {
+  color: var(--green-mid);
+}
+
+.rosette {
+  position: relative;
+  display: inline-grid;
+  place-items: center;
+  width: 2.35rem;
+  height: 2.35rem;
+  vertical-align: middle;
+}
+
+.rosette-svg {
   position: absolute;
   inset: 0;
-  border: 1.5px solid rgba(31, 107, 82, 0.25);
-  border-radius: 50%;
-  transition: border-color 0.2s, transform 0.2s;
-}
-
-.ayah-marker:hover .marker-ring,
-.ayah-block.active .marker-ring {
-  border-color: var(--green);
-  transform: scale(1.05);
-}
-
-.marker-num {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   width: 100%;
   height: 100%;
-  font-size: 0.78rem;
-  font-weight: 600;
+}
+
+.rosette-num {
+  position: relative;
+  font-family: var(--font-arabic-alt);
+  font-size: 0.82rem;
+  font-weight: 700;
   color: var(--green);
+  line-height: 1;
+  z-index: 1;
+}
+
+.ayah-end {
+  display: inline-grid;
+  vertical-align: middle;
+  margin-inline-start: 0.35em;
+  line-height: 0;
+}
+
+.ayah-end .rosette {
+  width: 2rem;
+  height: 2rem;
+  color: var(--green-mid);
+}
+
+.ayah-end .rosette-num {
+  font-size: 0.72rem;
 }
 
 .ayah-actions {
@@ -804,59 +847,31 @@ body.drawer-open { overflow: hidden; }
 
 .arabic-text {
   font-family: var(--font-arabic);
-  font-size: calc(clamp(1.75rem, 5.5vw, 2.35rem) * var(--arabic-scale));
-  line-height: 2.15;
+  font-size: calc(clamp(1.85rem, 5.5vw, 2.45rem) * var(--arabic-scale));
+  line-height: 2.2;
   color: var(--ink);
   direction: rtl;
   display: inline;
+  letter-spacing: 0.01em;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga" 1, "calt" 1;
 }
 
 .q-word {
   display: inline;
   cursor: help;
-  padding: 0.05em 0.08em;
+  padding: 0.04em 0.06em;
   border-radius: 3px;
-  transition: background 0.2s ease, color 0.2s ease;
-  border-bottom: 1px dotted rgba(31, 107, 82, 0.25);
+  transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+  border-bottom: 1px solid transparent;
 }
 
 .q-word:hover,
 .q-word.active {
   background: var(--green-glow);
-  border-bottom-color: var(--green-mid);
+  border-bottom-color: rgba(31, 107, 82, 0.2);
   color: var(--green);
-}
-
-.ayah-end {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 1.75em;
-  height: 1.75em;
-  margin-right: 0.35em;
-  margin-inline-start: 0.35em;
-  vertical-align: middle;
-  position: relative;
-  direction: rtl;
-}
-
-.ayah-end::before {
-  content: "۝";
-  font-family: var(--font-arabic);
-  font-size: 1.6em;
-  color: var(--green);
-  opacity: 0.55;
-  position: absolute;
-  line-height: 1;
-}
-
-.ayah-end-num {
-  position: relative;
-  font-family: var(--font-arabic);
-  font-size: 0.42em;
-  color: var(--green);
-  font-weight: 600;
-  z-index: 1;
+  box-shadow: 0 1px 0 rgba(31, 107, 82, 0.08);
 }
 
 .translation-block {

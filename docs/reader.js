@@ -103,8 +103,27 @@ function esc(s) {
   return d.innerHTML;
 }
 
-function arabicNumeral(n) {
-  return String(n).replace(/\d/g, (d) => "٠١٢٣٤٥٦٧٨٩"[+d]);
+function cleanArabic(text) {
+  if (!text) return "";
+  return text
+    .replace(/[\uE000-\uF8FF]/g, "")
+    .replace(/[\u200e\u200f\ufeff\u061c]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function ayahMarkerHtml(num, { end = false } = {}) {
+  const cls = end ? "ayah-end" : "ayah-marker";
+  const label = `Ayah ${num}`;
+  return `<span class="${cls}" ${end ? `aria-label="${label}"` : ""}>
+    <span class="rosette" aria-hidden="true">
+      <svg viewBox="0 0 40 40" class="rosette-svg" focusable="false">
+        <circle cx="20" cy="20" r="17" fill="none" stroke="currentColor" stroke-width="1.1" opacity="0.55"/>
+        <circle cx="20" cy="20" r="13" fill="none" stroke="currentColor" stroke-width="0.6" opacity="0.35"/>
+      </svg>
+      <span class="rosette-num">${num}</span>
+    </span>
+  </span>`;
 }
 
 function ornament() {
@@ -147,11 +166,11 @@ function mergeLocalEdits(ayah, surahId) {
 
 function renderArabicWords(ayah, surahId) {
   const words = orderedWords(ayah.word_by_word);
-  if (!words.length) return esc(ayah.arabic);
+  if (!words.length) return esc(cleanArabic(ayah.arabic));
   return words
     .map(
       (w) =>
-        `<span class="q-word" data-s="${surahId}" data-a="${ayah.ayah}" data-i="${w.key}" tabindex="0">${esc(w.arabic)}</span>`
+        `<span class="q-word" data-s="${surahId}" data-a="${ayah.ayah}" data-i="${w.key}" tabindex="0">${esc(cleanArabic(w.arabic))}</span>`
     )
     .join(" ");
 }
@@ -163,9 +182,8 @@ function ayahBlock(data, ayah, surahId) {
   return `
     <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       <div class="ayah-meta">
-        <button type="button" class="ayah-marker" data-action="select" aria-label="Ayah ${ayah.ayah}">
-          <span class="marker-ring"></span>
-          <span class="marker-num">${ayah.ayah}</span>
+        <button type="button" class="ayah-marker-btn" data-action="select" aria-label="Ayah ${ayah.ayah}">
+          ${ayahMarkerHtml(ayah.ayah)}
         </button>
         <div class="ayah-actions">
           <button type="button" class="icon-btn bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}" title="${bookmarked ? "Remove bookmark" : "Bookmark"}">
@@ -177,8 +195,7 @@ function ayahBlock(data, ayah, surahId) {
         </div>
       </div>
       <div class="arabic-block">
-        <p class="arabic-text">${renderArabicWords(a, surahId)}</p>
-        <span class="ayah-end" aria-hidden="true"><span class="ayah-end-num">${arabicNumeral(ayah.ayah)}</span></span>
+        <p class="arabic-text">${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}</p>
       </div>
       <div class="translation-block ${prefs.showTranslation ? "" : "hidden"}">
         <p class="translation-text">${esc(a.translation)}</p>
