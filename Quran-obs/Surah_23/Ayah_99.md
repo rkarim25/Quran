@@ -1,0 +1,162 @@
+---
+arabic_ayat: حَتّٰٓى اِذَا جَآءَ اَحَدَهُمُ الۡمَوۡتُ قَالَ رَبِّ ارۡجِعُوۡنِۙ‏
+sentence_translation: When death approaches any of them, they cry, “My Lord! Let me
+  go back,
+word_by_word:
+  1:
+    arabic: حَتّٰٓى
+    translation: Until
+    transliteration: ḥattā
+  2:
+    arabic: اِذَا
+    translation: when
+    transliteration: idhā
+  3:
+    arabic: جَآءَ
+    translation: comes
+    transliteration: jāa
+  4:
+    arabic: اَحَدَهُمُ
+    translation: (to) one of them
+    transliteration: aḥadahumu
+  5:
+    arabic: الۡمَوۡتُ
+    translation: the death
+    transliteration: l-mawtu
+  6:
+    arabic: قَالَ
+    translation: he says
+    transliteration: qāla
+  7:
+    arabic: رَبِّ
+    translation: My Lord
+    transliteration: rabbi
+  8:
+    arabic: ارۡجِعُوۡنِۙ‏
+    translation: Send me back
+    transliteration: ir'jiʿūni
+---
+
+## Context
+
+To understand **The Believers** (Al-Mu'minun) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation. Both its style and
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Until, when death comes to one of them, he says: "My Lord! رَ‌بِّ ارْ‌جِعُونِ (My Lord, send me back - 23:99) When death approaches an infidel and he senses the punishment that awaits him on the Day of Judgment, he wishes for a return to this world, so that by performing good deeds he may escape the punishment which he has richly deserved.
+
+## Tafsir Ibn Kathir
+
+Until, when death comes to one of them, he says: "My Lord! Send me back, (99)"So that I may do good in that which I have left behind!" No! (Kalla) It is but a word that he speaks; and in front of them is Barzakh until the Day when they will be resurrected (100)
+
+The Disbelievers' Hope When Death Approaches
+
+Allah tells us about what happens when death approaches one of the disbelievers or one of those who have been negligent with the commands of Allah.He tells us what he says and how he asks to come back to this world,so that he can certify whatever wrong he commited during his life time. Allah Says:
+
+رَبِّ ارْجِعُونِ - لَعَلِّي أَعْمَلُ صَالِحًا فِيمَا تَرَكْتُ ۚ كَلَّا
+
+("My Lord! Send me back, so that I may do good in that which I have left behind!" No!) This is like the Ayat:
+
+وَأَنفِقُوا مِن مَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ الْمَوْتُ
+
+(And spend of that with which We have provided you before death comes to one of you,)(63:10) until His saying:
+
+وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+
+(And Allah is All-Aware of what you do)(63:11)
+
+وَأَنذِرِ النَّاسَ يَوْمَ يَأْتِيهِمُ الْعَذَابُ
+
+(And warn mankind of the Day when the torment will come unto them)(14:44)
+
+مَا لَكُم مِّن زَوَالٍ
+
+upto His saying; (that you would not leave (the world for the Hereafter).)(14:44) And His saying:
+
+يَوْمَ يَأْتِي تَأْوِيلُهُ يَقُولُ الَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ فَهَل لَّنَا مِن شُفَعَاءَ فَيَشْفَعُوا لَنَا أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ الَّذِي كُنَّا نَعْمَلُ
+
+(On the Day the event is finally fulfilled, those who neglected it before will say: "Verily, the Messengers of our Lord did come with the truth, now are there any intercessors for us that they might intercede on our behalf? Or could we be sent back so that we might do deeds other than those deeds which we used to do?")(7:53) And:
+
+وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ نَاكِسُو رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَا أَبْصَرْنَا وَسَمِعْنَا فَارْجِعْنَا نَعْمَلْ صَالِحًا إِنَّا مُوقِنُونَ
+
+(And if you only could see when the criminals shall hang their heads before their Lord (saying): "Our Lord! We have now seen and heard, so send us back, that we will do righteous good deeds. Verily, we now believe with certainty.")(32:12) And;
+
+وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِآيَاتِ رَبِّنَا
+
+(If you could but see when they will be held over the (Hell) Fire! They will say: "Would that we were but sent back! Then we would not deny the Ayat of our Lord...") until His saying;
+
+وَإِنَّهُمْ لَكَاذِبُونَ
+
+(And indeed they are liars.)(6:27-28)
+
+وَتَرَى الظَّالِمِينَ لَمَّا رَأَوُا الْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ
+
+(And you will see the wrongdoers, when they behold the torment, they will say: "Is there any way of return?")(42:44)
+
+قَالُوا رَبَّنَا أَمَتَّنَا اثْنَتَيْنِ وَأَحْيَيْتَنَا اثْنَتَيْنِ فَاعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِّن سَبِيلٍ
+
+(They will say: "Our Lord! You have made us to die twice, and You have given us life twice! Now we confess our sins, then is there any way to get out?")(40:11) and the Ayah after it:
+
+وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَا أَخْرِجْنَا نَعْمَلْ صَالِحًا غَيْرَ الَّذِي كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَاءَكُمُ النَّذِيرُ ۖ فَذُوقُوا فَمَا لِلظَّالِمِينَ مِن نَّصِيرٍ
+
+(Therein they will cry: "Our Lord! Bring us out, we shall do righteous good deeds, not what we used to do." (Allah will reply:) "Did We not give you lives long enough, so that whosoever would receive admonition could receive it? And the warner came to you. So taste you (the evil of your deeds). For the wrongdoers there is no helper.")(35:37)
+
+Allah says that they will ask to go back, when death approaches, on the Day of Resurrection, when they are gathered for judgment before the Compeller (Allah) and when they are in the agonies of the punishment of Hell, but their prayer will not be answered. Here Allah says:
+
+كَلَّا ۚ إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا
+
+(No! It is but a word that he speaks;) The word Kalla (No!) is a word that is used to rebuke, and the meaning is: "No, We will not respond to what he asks for and We will not accept it from him."
+
+إِنَّهَا كَلِمَةٌ هُوَ قَائِلُهَا
+
+(It is but a word that he speaks) refers to his asking to go back so that he can do righteous deeds; this is just talk on his part, it would not be accompanied by any action. If he were to go back, he would not do any righteous good deeds, he is merely lying, as Allah says:
+
+وَلَوْ رُدُّوا لَعَادُوا لِمَا نُهُوا عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ
+
+(But if they were returned, they would certainly revert to that which they were forbidden. And indeed they are liars)(6:28). Qatadah said: "By Allah, he will not wish to go back to his family and tribe, or to accumulate more of the things of this world or satisfy his desires, but he will wish that he could go back to do acts of obedience to Allah. May Allah have mercy on a man who does that which the disbeliever will wish he had done when he sees the punishment of Hell."
+
+Barzakh and Punishment Therein
+
+وَمِن وَرَائِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
+
+(and in front of them is Barzakh until the Day when they will be resurrected.) Abu Salih and others said that:
+
+وَمِن وَرَائِهِم
+
+(and in front of them) means before them. Mujahid said, Al-Barzakh is a barrier between this world and the Hereafter. Muhammad bin Ka'b said, "Al-Barzakh is what is between this world and the Hereafter, neither they are the people of this world, eating and drinking, nor are they with the people of the Hereafter, being rewarded or punished for their deeds." Abu Sakhr said, "Al-Barzakh refers to the graves. They are neither in this world nor the Hereafter, and they will stay there until the Day of Resurrection."
+
+وَمِن وَرَائِهِم بَرْزَخٌ
+
+(and in front of them is Barzakh). In these words is a threat to those wrongdoers at the time of death, of the punishment of Barzakh. This is similar to the Ayat:
+
+مِّن وَرَائِهِمْ جَهَنَّمُ
+
+(In front of them there is Hell)(45:10).
+
+وَمِن وَرَائِهِ عَذَابٌ غَلِيظٌ
+
+(and in front of him will be a great torment)(14:17).
+
+إِلَىٰ يَوْمِ يُبْعَثُونَ
+
+(until the Day when they will be resurrected). means, he will be punished continually until the Day of Resurrection, as it says in the Hadith:
+
+فَلَا يَزَالُ مُعَذَّبًا فِيهَا
+
+(He will continue to be punished in it.) meaning, in the earth.
+
+## Maarif ul Quran
+
+رَ‌بِّ ارْ‌جِعُونِ (My Lord, send me back - 23:99) When death approaches an infidel and he senses the punishment that awaits him on the Day of Judgment, he wishes for a return to this world, so that by performing good deeds he may escape the punishment which he has richly deserved.
+
+Ibn Jarir has related a story on the authority of Ibn Juraij that the Holy Prophet ﷺ once said, "At the time of death when a good Muslim perceives the angels of mercy and all the luxuries of Paradise spread out before him, and the angels ask whether he wishes to be sent back to the world, his reply invariably is in the negative. He refuses to return to a place which is full of woes and suffering and misery, and only desires to be taken to Allah's presence. But when the same question is put to an infidel, his answer is رَ‌بِّ ارْ‌جِعُونِ i.e. he wishes to be sent back to the world."
+
+## Personal Reflections

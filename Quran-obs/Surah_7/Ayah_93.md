@@ -1,0 +1,108 @@
+---
+arabic_ayat: فَتَوَلّٰى عَنۡهُمۡ وَقَالَ يٰقَوۡمِ لَقَدۡ اَبۡلَغۡتُكُمۡ رِسٰلٰتِ رَبِّىۡ
+  وَنَصَحۡتُ لَـكُمۡ​ۚ فَكَيۡفَ اٰسٰی عَلٰى قَوۡمٍ كٰفِرِيۡنَ‏
+sentence_translation: He turned away from them, saying, “O my people! Indeed, I have
+  delivered to you the messages of my Lord and gave you ˹sincere˺ advice. How can
+  I then grieve for those who chose to disbelieve?”
+word_by_word:
+  1:
+    arabic: فَتَوَلّٰى
+    translation: So he turned away
+    transliteration: fatawallā
+  2:
+    arabic: عَنۡهُمۡ
+    translation: from them
+    transliteration: ʿanhum
+  3:
+    arabic: وَقَالَ
+    translation: and said
+    transliteration: waqāla
+  4:
+    arabic: يٰقَوۡمِ
+    translation: O my people
+    transliteration: yāqawmi
+  5:
+    arabic: لَقَدۡ
+    translation: Verily
+    transliteration: laqad
+  6:
+    arabic: اَبۡلَغۡتُكُمۡ
+    translation: I (have) conveyed to you
+    transliteration: ablaghtukum
+  7:
+    arabic: رِسٰلٰتِ
+    translation: (the) Messages
+    transliteration: risālāti
+  8:
+    arabic: رَبِّىۡ
+    translation: (of) my Lord
+    transliteration: rabbī
+  9:
+    arabic: وَنَصَحۡتُ
+    translation: and advised
+    transliteration: wanaṣaḥtu
+  10:
+    arabic: لَـكُمۡ​ۚ
+    translation: '[to] you'
+    transliteration: lakum
+  11:
+    arabic: فَكَيۡفَ
+    translation: So how could
+    transliteration: fakayfa
+  12:
+    arabic: اٰسٰی
+    translation: I grieve
+    transliteration: āsā
+  13:
+    arabic: عَلٰى
+    translation: for
+    transliteration: ʿalā
+  14:
+    arabic: قَوۡمٍ
+    translation: a people
+    transliteration: qawmin
+  15:
+    arabic: كٰفِرِيۡنَ‏
+    translation: (who are) disbelievers
+    transliteration: kāfirīna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 93, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Then he (Shu'ayb) turned from them and said: "O my people! In the sixth (93) verse, it was said: فَتَوَلَّىٰ عَنْهُمْ (So, he turned away from them).
+
+## Tafsir Ibn Kathir
+
+Then he (Shu'ayb) turned from them and said: "O my people! I have indeed conveyed my Lord's Messages unto you and I have given you good advice. Then how can I grieve over people who are disbelievers. (93)
+
+Prophet Shu'ayb, peace be upon him, turned away from his people after the torment, punishment and destruction struck them, admonishing and censuring them by saying to them,
+
+يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ
+
+("O my people! I have indeed conveyed my Lord's Messages unto you and I have given you good advice.")
+
+Shu'ayb said, I have conveyed to you what I was sent with, so I will not feel any sorrow for you since you disbelieved in what I brought you,
+
+فَكَيْفَ آسَىٰ عَلَىٰ قَوْمٍ كَافِرِينَ
+
+("Then how can I grieve over pepple who are disbelievers?")
+
+## Maarif ul Quran
+
+In the sixth (93) verse, it was said: فَتَوَلَّىٰ عَنْهُمْ (So, he turned away from them). It means that, with punishment for his people in sight, Sayyidna Shu'aib (علیہ السلام) and his believing companions moved away from there. The majority of commentators says that these blessed souls left this place for Makkah al-Mu` azzamah where they stayed till the end.
+
+It was his total disappointment with his people neck-deep in disobedience and contumacy which prompted him to pray that they be chastened. But, when the actual punishment came as a result of it, his heart pinched because of his prophetic concern and affection for them. Then, it was for the peace of his own heart that he said addressing his people: ` 0 my people, I have surely delivered to you the messages of my Lord, and wished you betterment. How, then, should I grieve over a disbelieving people?'
+
+## Personal Reflections

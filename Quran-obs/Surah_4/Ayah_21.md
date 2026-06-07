@@ -1,0 +1,231 @@
+---
+arabic_ayat: وَ كَيۡفَ تَاۡخُذُوۡنَهٗ وَقَدۡ اَفۡضٰى بَعۡضُكُمۡ اِلٰى بَعۡضٍ وَّاَخَذۡنَ
+  مِنۡكُمۡ مِّيۡثَاقًا غَلِيۡظًا‏
+sentence_translation: And how could you take it back after having enjoyed each other
+  intimately and she has taken from you a firm commitment? 
+word_by_word:
+  1:
+    arabic: وَ كَيۡفَ
+    translation: And how
+    transliteration: wakayfa
+  2:
+    arabic: تَاۡخُذُوۡنَهٗ
+    translation: could you take it
+    transliteration: takhudhūnahu
+  3:
+    arabic: وَقَدۡ
+    translation: when surely
+    transliteration: waqad
+  4:
+    arabic: اَفۡضٰى
+    translation: 'has gone '
+    transliteration: afḍā
+  5:
+    arabic: بَعۡضُكُمۡ
+    translation: one of you
+    transliteration: baʿḍukum
+  6:
+    arabic: اِلٰى
+    translation: to
+    transliteration: ilā
+  7:
+    arabic: بَعۡضٍ
+    translation: another
+    transliteration: baʿḍin
+  8:
+    arabic: وَّاَخَذۡنَ
+    translation: and they have taken
+    transliteration: wa-akhadhna
+  9:
+    arabic: مِنۡكُمۡ
+    translation: from you
+    transliteration: minkum
+  10:
+    arabic: مِّيۡثَاقًا
+    translation: covenant
+    transliteration: mīthāqan
+  11:
+    arabic: غَلِيۡظًا‏
+    translation: strong
+    transliteration: ghalīẓan
+---
+
+## Context
+
+To understand **The Women** (An-Nisa) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife. If one of them wants, he would marry her, give her in marriage, or prevent her from marriage, for they had more right to her than her own family. Thereafter, this Ayah was revealed about this practice,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! Secondly, in the following sentence in verse 21, it was said: وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ that is, how can you now take back what you had given her when not only the marriage has been solemnized, but you have also had access to each other in privacy?
+
+## Tafsir Ibn Kathir
+
+O you who believe! You are not permitted to inherit women against their will, nor to prevent them from marriage in order to get part of (the dowry) what you have given them, unless they commit open Fahishah. And live with them honorably. If you dislike them, it may be that you dislike a thing and Allah brings through it a great deal of good (19)But if you intend to replace a wife by another and you have given one of them a Qintar, take not the least bit of it back; would you take it wrongfully without a right and (with) a manifest sin (20)And how could you take it (back) while you have gone in unto each other, and they have taken from you a firm and strong covenant (21)And marry not women whom your fathers married, except what has already passed; indeed it was shameful and Maqtan, and an evil way (22)
+
+Meaning of 'Inheriting Women Against Their Will
+
+Al-Bukhari recorded that Ibn 'Abbas said about the Ayah,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَن تَرِثُوا النِّسَاءَ كَرْهًا
+
+(O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife. If one of them wants, he would marry her, give her in marriage, or prevent her from marriage, for they had more right to her than her own family. Thereafter, this Ayah was revealed about this practice,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَن تَرِثُوا النِّسَاءَ كَرْهًا
+
+(O you who believe! You are not permitted to inherit women against their will)."
+
+Women Should not Be Treated with Harshness
+
+Allah said,
+
+وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا بِبَعْضِ مَا آتَيْتُمُوهُنَّ
+
+(nor to prevent them from marriage, in order to take part of what you have given them,) Allah commands: Do not treat the woman harshly so that she gives back all or part of the dowry that she was given, or forfeits one of her rights by means of coercion and oppression. Allah's statement,
+
+إِلَّا أَن يَأْتِينَ بِفَاحِشَةٍ مُّبَيِّنَةٍ
+
+(unless they commit open Fahishah.) Ibn Mas'ud, Ibn 'Abbas, Sa'id bin Al-Musayyib, Ash-Sha'bi, Al-Hasan Al-Basri, Muhammad bin Sirin, Sa'id bin Jubayr, Mujahid, 'Ikrimah, 'Ata' Al-Khurasani, Ad-Dahhak, Abu Qilabah, Abu Salih, As-Suddi, Zayd bin Aslam and Sa'id bin Abi Hilal said that this refers to illicit sex. Meaning that if the wife commits adultery, you are allowed to take back the dowry you gave her. You are also allowed to annoy her, until she gives back the dowry in return for a Khula'." In Surat Al-Baqarah, Allah said,
+
+وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا مِمَّا آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَن يَخَافَا أَلَّا يُقِيمَا حُدُودَ اللَّهِ
+
+(And it is not lawful for you (men) to take back (from your wives) any of what you have given them, except when both parties fear that they would be unable to keep the limits ordained by Allah)[2:229].
+
+Ibn 'Abbas, 'Ikrimah and Ad-Dahhak said that Fahishah refers to disobedience and defiance. Ibn Jarir chose the view that it is general, encompasses all these meanings, adultery, disobedience, defiance, rudeness, and so forth. Meaning that he is allowed to annoy his wife when she does any of these acts until she forfeits all or part of her rights and he then separates from her, and this [view] is good, and Allah knows best.
+
+Live With Women Honorably
+
+Allah said,
+
+وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ
+
+(And live with them honorably), by saying kind words to them, treating them kindly and making your appearance appealing for them, as much as you can, just as you like the same from them. Allah said in another Ayah,
+
+وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ
+
+(And they have rights similar over them to what is reasonable)[2:228]. The Messenger of Allah ﷺ said,
+
+خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ، وَأَنَا خَيْرُكُمْ لِأَهْلِي
+
+(The best among you is he who is the best with his family. Verily, I am the best one among you with my family.)
+
+It was the practice of the Messenger of Allah ﷺ to be kind, cheerful, playful with his wives, compassionate, spending on them and laughing with them. The Messenger ﷺ used to race with 'A'ishah, the Mother of the Faithful, as a means of kindness to her. 'A'ishah said, "The Messenger of Allah ﷺ raced with me and I won the race. This occurred before I gained weight, and afterwards I raced with him again, and he won that race. He said,
+
+هذِهِ بِتِلْكَ
+
+(This [victory] is for that [victory].)" When the Prophet ﷺ was at the home of one of his wives, sometimes all of his wives would meet there and eat together, and they would then go back to their homes. He and his wife would sleep in the same bed, he would remove his upper garment, sleeping in only his lower garment. The Prophet ﷺ used to talk to the wife whose night it was, after praying 'Isha' and before he went to sleep. Allah said,
+
+لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ
+
+(Indeed in the Messenger of Allah you have a good example to follow)[33:21]. Allah said,
+
+فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَيَجْعَلَ اللَّهُ فِيهِ خَيْرًا كَثِيرًا
+
+(If you dislike them, it may be that you dislike a thing and Allah brings through it a great deal of good.)
+
+Allah says that your patience, which is demonstrated by keeping wives whom you dislike, carries good rewards for you in this life and the Hereafter. Ibn 'Abbas commented on this Ayah, "That the husband may feel compassion towards his wife and Allah gives him a child with her, and this child carries tremendous goodness." An authentic Hadith states,
+
+لَا يَفْرَكْ مُؤْمِنٌ مُؤْمِنَةً، إِنْ سَخِطَ مِنْهَا خُلُقًا، رَضِيَ مِنْهَا آخَرَ
+
+(No believing man should hate his believing wife. If he dislikes a part of her conduct, he would surely like another.)
+
+The Prohibition of Taking Back the Dowry
+
+Allah said,
+
+وَإِنْ أَرَدتُّمُ اسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَآتَيْتُمْ إِحْدَاهُنَّ قِنطَارًا فَلَا تَأْخُذُوا مِنْهُ شَيْئًا أَتَأْخُذُونَهُ بُهْتَانًا وَإِثْمًا مُّبِينًا
+
+(But if you intend to replace a wife by another and you have given one of them a Qintar, take not the least bit of it back; would you take it wrongfully without a right and (with) a manifest sin?)
+
+The Ayah commands: When one of you wants to divorce a wife and marry another one, he must not take any portion of the dowry he gave to the first wife, even if it were a Qintar of money. We mentioned the meaning of Qintar in the Tafsir of Surah Āl-'Imrān.
+
+This Ayah is clear in its indication that the dowry could be substantial. 'Umar bin Al-Khattab used to discourage giving a large dowry, but later on changed his view. Imam Ahmad recorded that Abu Al-'Ajfa' As-Sulami said that he heard 'Umar bin Al-Khattab saying, "Do not exaggerate with the dowry of women, had this practice been an honor in this world or a part of Taqwa, then the Prophet ﷺ would have had more right to practice it than you. The Messenger of Allah ﷺ never gave any of his wives, nor did any of his daughters receive a dowry more than twelve Uwqiyah. A man used to pay a substantial dowry and thus conceal enmity towards his wife!" Ahmad and the collectors of Sunan collected this Hadith through various chains of narration, and At-Tirmidhi said, "Hasan Sahih".
+
+Al-Hafiz Abu Ya'la recorded that Masruq said, "Umar bin Al-Khattab stood up on the Minbar of the Messenger of Allah ﷺ and said, 'O people! Why do you exaggerate concerning the dowry given to women? The Messenger of Allah ﷺ and his Companions used to pay up to four hundred Dirhams for a dowry, or less than that. Had paying more for a dowry been a part of Taqwa or an honor, you would not have led them in this practice. Therefore, I do not want to hear about a man who pays more than four hundred Dirhams for a dowry.' He then went down the Minbar, but a woman from Quraysh said to him, 'O Leader of the Faithful! You prohibited people from paying more than four hundred Dirhams in a dowry for women?' He said, 'Yes.' She said, 'Have you not heard what Allah sent down in the Qur'an?' He said, 'Which part of it?' She said, 'Have you not heard Allah's statement,
+
+وَآتَيْتُمْ إِحْدَاهُنَّ قِنطَارًا
+
+(And you have given one of them a Qintar)?' He said, 'O Allah! Forgive me...' He then went back and stood up on the Minbar saying, 'I had prohibited you from paying more than four hundred Dirhams in a dowry for women. So, let everyone pay what he likes from his money.'" The chain of narration for this Hadith is strong.
+
+وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ
+
+(And how could you take it (back) while you have gone in unto each other) how can you take back the dowry from the woman with whom you had sexual relations and she had sexual relations with you? Ibn 'Abbas, Mujahid, As-Suddi and several others said that this means sexual intercourse. The Two Sahihs record that the Messenger of Allah ﷺ said three times to the spouses who said the Mula'anah;
+
+اللهُ يَعْلَمُ أَنَّ أَحَدَكُمَا كَاذِبٌ، فَهَلْ مِنْكُمَا تَائِبٌ؟
+
+(Allah knows that one of you is a liar, so would any of you repent?) The man said, "O Messenger of Allah! My money," referring to the dowry that he gave his wife. The Messenger said,
+
+لَا مَالَ لَكَ، إِنْ كُنْتَ صَدَقْتَ عَلَيْهَا فَهُوَ بِمَا اسْتَحْلَلْتَ مِنْ فَرْجِهَا، وَإِنْ كُنْتَ كَذَبْتَ عَلَيْهَا فَهُوَ أَبْعَدُ لَكَ مِنْهَا
+
+(You have no money. If you are the one who said the truth, the dowry is in return for the right to have sexual intercourse with her. If you are the one who uttered the lie, then this money is even farther from your reach.) Similarly Allah said;
+
+وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَاقًا غَلِيظًا
+
+(And how could you take it (back) while you have gone in unto each other and they have taken from you a firm and strong covenant)(Be kind with women, for you have taken them by Allah's covenant and earned the right to have sexual relations with them by Allah's Word.)
+
+this refers to the marriage tie, according to Ibn 'Abbas, Mujahid and Sa'id bin Jubayr.
+
+In his Sahih, Muslim recorded that Jabir said that during the speech that the Prophet ﷺ gave in the Farewell Hajj, he said, "Be kind with women, for you have taken them by Allah's covenant and earned the right to have sexual relations with them by Allah's word."
+
+Marrying the Wife of the Father is Prohibited
+
+Allah said,
+
+وَلَا تَنكِحُوا مَا نَكَحَ آبَاؤُكُم مِّنَ النِّسَاءِ
+
+(And marry not women whom your fathers married,)
+
+Allah prohibits marrying the women whom the father married, in honor and respect to the fathers, not allowing their children to have sexual relations with their wives after they die. A woman becomes ineligible for the son of her husband as soon as the marriage contract is conducted, and there is a consensus on this ruling.
+
+Ibn Jarir recorded that Ibn 'Abbas said, "During the time of Jahiliyyah, the people used to prohibit what Allah prohibits (concerning marriage), except marrying the stepmother and taking two sisters as rival wives. Allah sent down,
+
+وَلَا تَنكِحُوا مَا نَكَحَ آبَاؤُكُم مِّنَ النِّسَاءِ
+
+(And marry not women whom your fathers married,) and,
+
+وَأَن تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ
+
+(and two sisters in wedlock at the same time)[4:23]." Similar was reported from 'Ata' and Qatadah. Therefore, the practice that the Ayah mentions is prohibited for this Ummah, being disgraced as an awful sin,
+
+إِنَّهُ كَانَ فَاحِشَةً وَمَقْتًا وَسَاءَ سَبِيلًا
+
+(Indeed it was shameful and Maqtan, and an evil way.) Allah said in other Ayat,
+
+وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ
+
+(Come not near to Al-Fawahish (shameful acts) whether committed openly or secretly)[6:151], and,
+
+وَلَا تَقْرَبُوا الزِّنَا إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا
+
+(And come not near to unlawful sex. Verily, it is a Fahishah and an evil way.)[17:32] In this Ayah (4:22), Allah added,
+
+وَمَقْتًا
+
+(and Maqtan), meaning, offensive. It is a sin itself and causes the son to hate his father after he marries his wife. It is usual that whoever marries a woman dislikes those who married her before him. This is one reason why the Mothers of the Faithful were not allowed for anyone in marriage after the Messenger ﷺ. They are indeed the Mothers of the Faithful since they married the Messenger ﷺ, who is like the father to the believers. Rather, the Prophet's right is far greater than the right of a father, and his love comes before each person loving himself, may Allah's peace and blessings be on him. 'Ata' bin Abi Rabah said that the Ayah,
+
+وَمَقْتًا
+
+(and Maqtan), means, Allah will hate him,
+
+وَسَاءَ سَبِيلًا
+
+(and an evil way), for those who take this way. Therefore, those who commit this practice will have committed an act of reversion from the religion and deserve capital punishment and confiscation of their property, which will be given to the Muslim Treasury.
+
+Imam Ahmad and the collectors of Sunan recorded that Al-Bara' bin 'Azib said that his uncle Abu Burdah was sent by the Messenger of Allah ﷺ to a man who married his stepmother to execute him and confiscate his money.
+
+## Maarif ul Quran
+
+Secondly, in the following sentence in verse 21, it was said: وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ that is, how can you now take back what you had given her when not only the marriage has been solemnized, but you have also had access to each other in privacy? For, in this situa-tion, whatever has been given, if against dower, the woman certainly deserved it. She now owns it because she surrendered herself to her husband. The idea that it could be returned is senseless. Even if this money or property given by the husband was presented or gifted, even then, it is not possible that it could be returned because what a husband and wife give to each other as gift cannot be taken back. Such claim of its return is neither permissible in Shari` ah, nor is it legally enforced. So, marital bond prevents the taking back of what has been given as gift.
+
+The same subject has been stated in the last sentence of verse 21: وَأَخَذْنَ مِنكُم مِّيثَاقًا غَلِيظًا (and they have taken a firm covenant from you). This 'covenant' is the bond of marriage which is solemnly attested to with the name of Allah before a gathering of people following a khutbah.
+
+To sum up, once this marital covenant has been made and mutual privacy has brought the couple close together, to force the woman to return what was given to' her is open injustice and tyranny. All Muslims must abstain from it.
+
+## Personal Reflections

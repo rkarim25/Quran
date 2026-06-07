@@ -1,0 +1,191 @@
+---
+arabic_ayat: وَدَخَلَ مَعَهُ السِّجۡنَ فَتَيٰنِ​ؕ قَالَ اَحَدُهُمَاۤ اِنِّىۡۤ اَرٰٮنِىۡۤ
+  اَعۡصِرُ خَمۡرًا​ ۚ وَقَالَ الۡاٰخَرُ اِنِّىۡۤ اَرٰٮنِىۡۤ اَحۡمِلُ فَوۡقَ رَاۡسِىۡ
+  خُبۡزًا تَاۡكُلُ الطَّيۡرُ مِنۡهُ​ ؕ نَبِّئۡنَا بِتَاۡوِيۡلِهٖ ۚ اِنَّا نَرٰٮكَ
+  مِنَ الۡمُحۡسِنِيۡنَ‏
+sentence_translation: And two other servants went to jail with Joseph. One of them
+  said, “I dreamt I was pressing wine.” The other said, “I dreamt I was carrying ˹some˺
+  bread on my head, from which birds were eating.” ˹Then both said,˺ “Tell us their
+  interpretation, for we surely see you as one of the good-doers.”
+word_by_word:
+  1:
+    arabic: وَدَخَلَ
+    translation: And entered
+    transliteration: wadakhala
+  2:
+    arabic: مَعَهُ
+    translation: with him
+    transliteration: maʿahu
+  3:
+    arabic: السِّجۡنَ
+    translation: (in) the prison
+    transliteration: l-sij'na
+  4:
+    arabic: فَتَيٰنِ​ؕ
+    translation: two young men
+    transliteration: fatayāni
+  5:
+    arabic: قَالَ
+    translation: Said
+    transliteration: qāla
+  6:
+    arabic: اَحَدُهُمَاۤ
+    translation: one of them
+    transliteration: aḥaduhumā
+  7:
+    arabic: اِنِّىۡۤ
+    translation: Indeed, I
+    transliteration: innī
+  8:
+    arabic: اَرٰٮنِىۡۤ
+    translation: '[I] see myself'
+    transliteration: arānī
+  9:
+    arabic: اَعۡصِرُ
+    translation: pressing
+    transliteration: aʿṣiru
+  10:
+    arabic: خَمۡرًا​ ۚ
+    translation: wine
+    transliteration: khamran
+  11:
+    arabic: وَقَالَ
+    translation: And said
+    transliteration: waqāla
+  12:
+    arabic: الۡاٰخَرُ
+    translation: the other
+    transliteration: l-ākharu
+  13:
+    arabic: اِنِّىۡۤ
+    translation: Indeed, I
+    transliteration: innī
+  14:
+    arabic: اَرٰٮنِىۡۤ
+    translation: '[I] see myself'
+    transliteration: arānī
+  15:
+    arabic: اَحۡمِلُ
+    translation: '[I am] carrying'
+    transliteration: aḥmilu
+  16:
+    arabic: فَوۡقَ
+    translation: over
+    transliteration: fawqa
+  17:
+    arabic: رَاۡسِىۡ
+    translation: my head
+    transliteration: rasī
+  18:
+    arabic: خُبۡزًا
+    translation: bread
+    transliteration: khub'zan
+  19:
+    arabic: تَاۡكُلُ
+    translation: (were) eating
+    transliteration: takulu
+  20:
+    arabic: الطَّيۡرُ
+    translation: the birds
+    transliteration: l-ṭayru
+  21:
+    arabic: مِنۡهُ​ ؕ
+    translation: from it
+    transliteration: min'hu
+  22:
+    arabic: نَبِّئۡنَا
+    translation: Inform us
+    transliteration: nabbi'nā
+  23:
+    arabic: بِتَاۡوِيۡلِهٖ ۚ
+    translation: of its interpretation
+    transliteration: bitawīlihi
+  24:
+    arabic: اِنَّا
+    translation: indeed, we
+    transliteration: innā
+  25:
+    arabic: نَرٰٮكَ
+    translation: '[we] see you'
+    transliteration: narāka
+  26:
+    arabic: مِنَ
+    translation: of
+    transliteration: mina
+  27:
+    arabic: الۡمُحۡسِنِيۡنَ‏
+    translation: the good-doers
+    transliteration: l-muḥ'sinīna
+---
+
+## Context
+
+To understand **Joseph** (Yusuf) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And there entered with him two young men in the prison. Mentioned in the verses cited above is a supplementary event relating to the story of Sayyidna Yusuf (علیہ السلام) .
+
+## Tafsir Ibn Kathir
+
+And there entered with him two young men in the prison. One of them said: "Verily, I saw myself (in a dream) pressing wine." The other said: "Verily, I saw myself (in a dream) carrying bread on my head and birds were eating thereof." (They said): "Inform us of the interpretation of this. Verily, we think you are one of the doers of good. (36)
+
+Two Jail Mates ask Yusuf to interpret their Dreams
+
+Qatadah said, "One of them was the king's distiller and the other was his baker." Each of these two men had a dream and asked Yusuf to interpret it for them.
+
+## Maarif ul Quran
+
+Commentary
+
+Mentioned in the verses cited above is a supplementary event relating to the story of Sayyidna Yusuf (علیہ السلام) . It has been repeatedly stressed that the Holy Qur’ an is no book of history, or of stories and tales. When a story or historical event is mentioned in it, the sole objective is to pro-vide some lesson, good counsel or crucial guidance on various facets of human life. In the entire Qur’ an and throughout the events relating to many prophets, it is the story of Sayyidna Yusuf (علیہ السلام) alone which has been described by the Qur’ an continuously - otherwise, it has considered it sufficient to mention some necessary part of an historical event wherever appropriate.
+
+If you would look at the story of Sayyidna Yusuf (علیہ السلام) from the beginning to the end, there are hundreds of lessons to learn, good advices to heed to and important elements of guidance to follow during various stages of human life. This supplementary story too has its graces of guidance in abundance.
+
+The event as it took shape was that, despite the complete absolvement of Sayyidna Yusuf علیہ السلام from the blame, and the strong establishment of his moral integrity, it was to put an end to the disgrace of people talking about them that the ` Aziz of Misr and his wife decided to send Sayyidna Yusuf (علیہ السلام) to the prison for some time - which, in reality, was the fulfillment of the du'a' and wish of Sayyidna Yusuf (علیہ السلام) ، because, for him, it had become extremely difficult to defend his chastity while living in the home of the ` Aziz of Misr.
+
+When Sayyidna Yusuf (علیہ السلام) arrived at the prison, two other sentenced criminals were also admitted there. One of them was the cup-bearer of the king while the other was a cook. Citing major Tafsir authorities, Ibn Kathir has written that these two were arrested on the charge that they had tried to poison the king through food or drink. The case was under investigation, therefore, they were kept in prison.
+
+When Sayyidna Yusuf علیہ السلام came into the prison, it was because of his prophetic morals, mercy and affection that he used to show concern about all of his fellow inmates and took care of them whenever needed. If anyone became sick, he would call on him and do whatever had to be done for him. For anyone he found sad or distressed, he would have appropriate words of comfort. To lift his spirits, he would gently tell him to observe patience and made the hope of freedom come alive into his heart. He would think of bringing comfort to others at the cost of his own discomfort. For whole nights he would remain engaged in the ` Ibadah (worship) of Allah Ta ala. Seeing his endearing ways, all inmates of the prison became convinced of his high spiritual status. Even the officer-in-charge of the prison was impressed. He said: Had it been in my power, I would have let you go. Now, this much I can do that you will face no inconvenience here.
+
+Some Notes to Wonder About
+
+When the officer-in-charge of the prison, or some of the inmates, told Sayyidna Yusuf (علیہ السلام) that they loved him very much, he said: For God's sake, do not love me - because whenever I have been loved by anyone, I have suffered one way or the other. When I was a child, my paternal aunt loved me. As a result, I was blamed for theft. Then, my father loved me. This made me do a term of detention in a well at the hands of my brothers, then came slavery and expulsion from home country. When the wife of the ` Aziz loved me, I landed into this prison. (Ibn Kathir, Mazhari)
+
+These two prisoners who went to the prison along with Sayyidna Yusuf (علیہ السلام) said to him one day that they thought he was a man of piety and good deeds, therefore, they would like to ask him to give an interpretation of their dream. Sayyidna Ibn ` Abbas ؓ and some other leading authorities in Tafsir have said that they had really seen these dreams.
+
+Sayyidna ` Abdullah ibn Mas’ ud ؓ has said that there was no dream. They had simply made it up to test the spiritual excellence and veracity of Sayyidna Yusuf (علیہ السلام) .
+
+However, one of them, that is, the royal cup-bearer, said: ` I have seen myself (in dream) pressing wine,' and the other, that is, the cook, said: ` I have seen myself carrying bread on my head of which the birds are eating.' Then, they requested him to interpret the dreams for them.
+
+Here, Sayyidna Yusuf (علیہ السلام) has been requested to interpret the dreams. But he, before answering this question, and following his intrinsic prophetic way, begins with the task of Tabligh and invitation to believe and have faith. And by following the principle of Da'wah and by acting wisely, he first tried to create in their hearts a base of confidence inhim. To achieve this, he talked about his particular miracle through which he tells them about the food which they receive from their homes, or from somewhere else, and much before it arrives, he is able to tell them the kind, the taste, the quantity and the time of arrival of the food - and that the food turns out to be exactly as predicted:
+
+Injunctions and Rulings
+
+Worth pondering on are many Ahkam, Masa'il, useful lessons and elements of guidance that emerge from the verses under reference. They are as given below:
+
+1. Consider the confinement of Sayyidna Yusuf (علیہ السلام) into a prison which is the notorious turf of criminals and bad characters. But, he treated them too with his characteristic good morals and social graces, as a result of which, all of them became enamoured with him. This tells us that it is the duty of reformers that they should, by dealing with sinners and criminals with compassion and concern, bring them closer, let them be-come familiar, connected, and reliant on them. Also necessary is that they should not betray any attitude of hatred or distaste for them at any step.
+
+2. From the statement: إِنَّا نَرَ‌اكَ مِنَ الْمُحْسِنِينَ (We see you are a man of good deeds), we find out that the interpretation of a dream should be sought particularly from persons one trusts in as righteous, good in deeds and sympathetic.
+
+3. The third thing we learn here is about the ideal conduct of those who carry the da'wah of truth and serve people by working for their moral and social betterment. In this connection, their first duty is to bring round people created by Allah to put their trust in them through their good morals and conduct, and their intellectual and practical excel-lences - whether they have to unfold and express some of those excellences, as was done by Sayyidna Yusuf (علیہ السلام) on this occasion when he not only talked about his miracle but also mentioned his being a member of the House of Prophets. Such a statement of personal excellence - if it is based on the intention to serve people to become better and not to prove one's personal rank - will not be considered as the ` self-praise' which has been prohibited in the Holy Qur'an: فَلَا تُزَكُّوا أَنفُسَكُمْ that is, do not talk about the purity of your own self. (Tafsir Mazhari)
+
+4. Pointed to here is an important principle of communication and correction (Tabligh and Irshad). It is the duty of the carrier of a Call (Da` i) and reformer (Muslih) that he should, at all times and under all circumstances, keep his constant mission of Da'wah and Tabligh come first of all he does. In other words, if someone comes to him for something, he should not forget his real mission - as was done by Sayyidna Yusuf (علیہ السلام) when these prisoners came to him to ask for an interpretation of their dreams. At that time, before answering their request for the interpretation of their dreams, he gave them the gift of right guidance through his Tabligh and Irshad. Please do not take Da'wah and Tabligh as something which takes place in a conference, or on a pulpit or stage alone. This job is done far more effectively through personal contacts and private exchanges.
+
+5. Another aspect of this very effort of telling people what is right and seeking their betterment through it (Irshad and Islah) is: Whatever is said in this connection should be said with the strategy of wisdom in a way that it goes into the heart of the addressee. This is how it was done by Sayyidna Yusuf (علیہ السلام) . He succeeded in showing to them that the excellences he had were the direct outcome of his disengagement with disbelief and adoption of Islam as his faith. After that he described the draw-backs and shortcomings of Kufr and Shirk in a soft manner which appeals to the heart.
+
+6. Another problem resolved here is about how bad news should be handled. If, that which has to be communicated to an addressee happens to be painful or repugnant, yet it be necessary that it be disclosed, then, it should be presented before the addressee, as far as possible, in a way that it brings the least discomfort to him. This is as it was when the death of one person was destined as interpreted on the basis of his dream, but Sayyidna Yusuf (علیہ السلام) kept it ambiguous. He did not make it precise and fixed by telling him that he will be the one to be hanged. (Ibn Kathir, Mazhari)
+
+7. It will be recalled that Sayyidna Yusuf (علیہ السلام) had sought his release from the prison when he asked the acquitted prisoner: Mention me before your master. This tells us that making someone a medium of effort in order to get out of some difficulty is not against the principle of Tawakkul (Trust in Allah).
+
+Another view of this problem is that Allah Ta` ala does not like His great prophets making efforts to achieve everything permissible and go on to make a human being the medium of their release. This is so because the absence of any medium between them and Allah Ta ala spells out the true identity of prophets. Perhaps, that was why this prisoner forgot about the message given by Sayyidna Yusuf (علیہ السلام) which made him stay in the prison for many more years. In a Hadith too, the Holy Prophet has pointed out in this direction.
+
+## Personal Reflections

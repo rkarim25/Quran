@@ -1,0 +1,218 @@
+---
+arabic_ayat: اۨلَّذِيۡنَ يُبَـلِّـغُوۡنَ رِسٰلٰتِ اللّٰهِ وَيَخۡشَوۡنَهٗ وَلَا يَخۡشَوۡنَ
+  اَحَدًا اِلَّا اللّٰهَ ؕ وَكَفٰى بِاللّٰهِ حَسِيۡبًا‏
+sentence_translation: ˹That is His way with˺ those ˹prophets˺ who deliver the messages
+  of Allah, and consider Him, and none but Allah. And sufficient is Allah as a ˹vigilant˺
+  Reckoner.
+word_by_word:
+  1:
+    arabic: اۨلَّذِيۡنَ
+    translation: Those who
+    transliteration: alladhīna
+  2:
+    arabic: يُبَـلِّـغُوۡنَ
+    translation: convey
+    transliteration: yuballighūna
+  3:
+    arabic: رِسٰلٰتِ
+    translation: (the) Messages
+    transliteration: risālāti
+  4:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  5:
+    arabic: وَيَخۡشَوۡنَهٗ
+    translation: and fear Him
+    transliteration: wayakhshawnahu
+  6:
+    arabic: وَلَا
+    translation: and (do) not
+    transliteration: walā
+  7:
+    arabic: يَخۡشَوۡنَ
+    translation: fear
+    transliteration: yakhshawna
+  8:
+    arabic: اَحَدًا
+    translation: anyone
+    transliteration: aḥadan
+  9:
+    arabic: اِلَّا
+    translation: except
+    transliteration: illā
+  10:
+    arabic: اللّٰهَ ؕ
+    translation: Allah
+    transliteration: l-laha
+  11:
+    arabic: وَكَفٰى
+    translation: And sufficient is Allah
+    transliteration: wakafā
+  12:
+    arabic: بِاللّٰهِ
+    translation: And sufficient is Allah
+    transliteration: bil-lahi
+  13:
+    arabic: حَسِيۡبًا‏
+    translation: (as) a Reckoner
+    transliteration: ḥasīban
+---
+
+## Context
+
+To understand **The Combined Forces** (Al-Ahzab) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Those who convey the Message of Allah and fear Him, and fear none save Allah. Mentioned next are particular attributes of the prophets علیہم السلام about whom we have learnt a while ago that they were permitted to have several wives in earlier times.
+
+## Tafsir Ibn Kathir
+
+Those who convey the Message of Allah and fear Him, and fear none save Allah. And sufficient is Allah as a Reckoner (39)Muhammad is not the father of any of your men, but he is the Messenger of Allah and the last of the Prophets. And Allah is Ever All-Aware of everything (40)
+
+Praise for Those Who convey the Message.
+
+Allah says:
+
+الَّذِينَ يُبَلِّغُونَ رِسَالَاتِ اللَّهِ
+
+(Those who convey the Message of Allah) meaning, to His creation, and fulfil that with which they have been entrusted.
+
+وَيَخْشَوْنَهُ
+
+(and fear Him,) means, they fear Him and they do not fear any besides Him, so no threats on the part of anyone can prevent them from conveying the Message of Allah.
+
+وَكَفَىٰ بِاللَّهِ حَسِيبًا
+
+(And sufficient is Allah as a Reckoner.) means, sufficient is Allah as a Helper and Supporter. The leader of all people in this regard and in all regards is Muhammad the Messenger of Allah ﷺ, for he undertook to convey the Message to the people of the east and of the west, to all kinds of the sons of Adam, so Allah caused his word, his religion and his law to prevail over all other religions and laws. The Prophets before him were sent only to their own peoples, but he ﷺ was sent to all of mankind, Arabs and non-Arabs alike.
+
+قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ جَمِيعًا
+
+(Say: "O mankind! Verily, I am sent to you all as the Messenger of Allah")(7:158). Then his Ummah inherited the task of conveying from him, and the greatest of those who undertook this task after him were his Companions, may Allah be pleased with them, who conveyed from him as he had commanded them, describing all his words, deeds and circumstances, night and day, when he was settled and when he was traveling, in private and in public, may Allah be pleased with them. Thereafter each generation inherited from their predecessors until our own time, so those who are guided, follow their example and their way. We ask Allah, the Most Generous Bestower, to make us among their heirs.
+
+The Messenger صلی اللہ علیہ وسلم is not the Father of any Man
+
+Allah states:
+
+مَا كَانَ مُحَمَّدٌ أَبَا أَحَدٍ مِنْ رِجَالِكُمْ
+
+(Muhammad is not the father of any of your men,) After this it was not permitted to say Zayd bin Muhammad, i.e., he was not his father even though he had adopted him. No male child of the Prophet ﷺ lived until puberty. Khadijah, may Allah be pleased with her, bore him Al-Qasim, At-Tayyib and At-Tahir, but they died in childhood. Mariyah Al-Qibtiyyah bore him Ibrahim, but he also died in infancy. He ﷺ also had four daughters from Khadijah: Zaynab, Ruqayyah, Umm Kulthum and Fatimah, may Allah be pleased with them all. Three of them died during his lifetime, Fatimah lived long enough to be bereaved of him, then she died six months later.
+
+He is the Last of the Prophets
+
+وَلَٰكِنْ رَسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ ۗ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ عَلِيمًا
+
+(but he is the Messenger of Allah and the last of the Prophets. And Allah is Ever All-Aware of everything.) This is like the Ayah:
+
+اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ ۗ
+
+(Allah knows best with whom to place His Message)(6:124). This Ayah clearly states that there will be no Prophet after him. If there will be no Prophet after him then there will surely be no Messenger after him either, because the status of a Messenger is higher than that of a Prophet, for every Messenger is a Prophet but the reverse is not the case. This was reported in many Mutawatir Hadiths narrated from the Messenger of Allah ﷺ via a group of his Companions, may Allah be pleased with them.
+
+Imam Ahmad recorded a narration from Ubayy bin Ka'b, from his father that the Prophet ﷺ said:
+
+مَثَلِي فِي النَّبِيِّينَ كَمَثَلِ رَجُلٍ بَنَى دَارًا فَأَحْسَنَهَا وَأَكْمَلَهَا، وَتَرَكَ فِيهَا مَوْضِعَ لَبِنَةٍ لَمْ يَضَعْهَا، فَجَعَلَ النَّاسُ يَطُوفُونَ بِالْبُنْيَانِ وَيَعْجَبُونَ مِنْهُ وَيَقُولُونَ: لَوْ تَمَّ مَوْضِعُ هَذِهِ اللَّبِنَةِ، فَأَنَا فِي النَّبِيِّينَ مَوْضِعُ تِلْكَ اللَّبِنَةِ
+
+(My parable among the Prophets is that of a man who built a house and did a good and complete job, apart from the space of one brick which he did not put in its place. The people started to walk around the building, admiring it and saying, "If only that brick were put in its place. " Among the Prophets, I am like that brick.) It was also recorded by At-Tirmidhi, who said "Hasan Sahih."
+
+Another Hadith
+
+Imam Ahmad recorded that Anas bin Malik, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+إِنَّ الرِّسَالَةَ وَالنُّبُوَّةَ قَدِ انْقَطَعَتْ فَلَا رَسُولَ بَعْدِي وَلَا نَبِيَّ
+
+(Messengership and Prophethood have come to an end, and there will be no more Messengers or Prophets.) This worried the people, then he said:
+
+وَلَكِنِ الْمُبَشِّرَاتُ
+
+(But there will be Al-Mubashshirat.) They said, 'O Messenger of Allah, what are Al-Mubashshirat?' He said,
+
+رُؤْيَا الرَّجُلِ الْمُسْلِمِ، وَهِيَ جُزْءٌ مِنْ أَجْزَاءِ النُّبُوَّةِ
+
+(The dreams of a Muslim man, and they are one of the parts of prophethood.) This was also recorded by At-Tirmidhi, who said, "Sahih Gharib."
+
+Another Hadith
+
+Abu Dawud At-Tayalisi recorded that Jabir bin 'Abdullah, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+مَثَلِي وَمَثَلُ الْأَنْبِيَاءِ كَمَثَلِ رَجُلٍ بَنَى دَارًا فَأَكْمَلَهَا وَأَحْسَنَهَا إِلَّا مَوْضِعَ لَبِنَةٍ، فَكَانَ مَنْ دَخَلَهَا فَنَظَرَ إِلَيْهَا قَالَ: مَا أَحْسَنَهَا إِلَّا مَوْضِعَ هَذِهِ اللَّبِنَةِ، فَأَنَا مَوْضِعُ اللَّبِنَةِ خُتِمَ بِي الْأَنْبِيَاءُ عَلَيْهِمُ الصَّلَاةُ وَالسَّلَامُ
+
+(The parable of myself and the Prophets is that of a man who built a house and did a complete and good job, except for the space of one brick. Whoever entered it would look at that space and say, how good it is, apart from the space of that brick. My position is like that of that brick, and the Prophets – blessings and peace be upon them – end with me.) It was also recorded by Al-Bukhari, Muslim and At-Tirmidhi, who said, "It is Sahih Gharib with this chain of narrators."
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Sa'id Al-Khudri, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+مَثَلِي وَمَثَلُ النَّــبِيينَ كَمَثَلِ رَجُلٍ بَنَى دَارًا فَأَتَمَّهَا إِلَّا لَبِنَةً وَاحِدَةً، فَجِئْتُ أَنَا فَأَتْمَمْتُ تِلْكَ اللَّبِنَةَ
+
+(The parable of myself and the Prophets is that of a man who built a house and completed it apart from the space of one brick. I have come and completed that brick.) This was also recorded by Muslim.
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Hurayrah, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+إِنَّ مَثَلِي وَمَثَلَ الْأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ ابْتَنَى بُيُوتًا فَأَكْمَلَهَا وَأَحْسَنَهَا وَأَجْمَلَهَا إِلَّا مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ مِنْ زَوَايَاهَا، فَجَعَلَ النَّاسُ يَطُوفُونَ وَيُعْجِبُهُمُ الْبُنْيَانُ وَيَقُولُونَ: أَلَّا وَضَعْتَ هٰهُنَا لَبِنَةً فَيَتِمُّ بُنْيَانُكَ
+
+(The parable of myself and the Prophets who came before me is that of a man who built houses and made them complete and beautiful apart from the space of a brick in one of the corners. The people started to walk around, admiring the construction and saying, If only you put a brick here, your construction will be complete.)
+
+The Messenger of Allah ﷺ said:
+
+فَكُنْتُ أَنَا اللَّبِنَةَ
+
+(And I am that brick.) It was also recorded by (Al-Bukhari and Muslim).
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Hurayrah, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+فُضِّلْتُ عَلَى الْأَنْبِيَاءِ بِسِتٍّ : أُعْطِيتُ جَوَامِعَ الْكَلِمِ، وَنُصِرْتُ بِالرُّعْبِ وَأُحِلَّتْ لِيَ الْغَنَائِمُ، وَجُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا، وَأُرْسِلْتُ إِلَى الْخَلْقِ كَافَّةً، وَخُتِمَ بِي النَّبِيُّونَ
+
+(I have been given preference over the other Prophets in six ways: I have been given the ability to speak concisely; I have been aided by fear (cast into the hearts of my enemies); the spoils of war have been made permissible for me; the entire earth has been made a Masjid and a means of purification for me; I have been sent to all of mankind; and the Prophets end with me.) This was also recorded by At-Tirmidhi and Ibn Majah; At-Tirmidhi said, "It is Hasan Sahih."
+
+Another Hadith
+
+Imam Ahmad recorded that Abu Sa'id Al-Khudri, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+مَثَلِي وَمَثَلُ الْأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ بَنَى دَارًا فَأَتَمَّهَا إِلَّا مَوْضِعَ لَبِنَةٍ وَاحِدَةٍ، فَجِئْتُ أَنَا فَأَتْمَمْتُ تِلْكَ اللَّبِنَةَ
+
+(The parable of myself and the Prophets who came before me is that of a man who built a house and completed it apart from the space of one brick. I have come and completed that brick.) It was also recorded by Muslim.
+
+Another Hadith
+
+Jubayr bin Mut'im, may Allah be pleased with him, said that he heard the Messenger of Allah ﷺ say:
+
+إِنَّ لِي أَسْمَاءَ أَنَا مُحَمَّدٌ، وَأَنَا أَحْمَدُ، وَأَنَا الْمَاحِي الَّذِي يَمْحُو اللهُ تَعَالَى بِيَ الْكُفْرَ، وَأَنَا الْحَاشِرُ الَّذِي يُحْشَرُ النَّاسُ عَلَى قَدَمَيَّ وَأَنَا الْعَاقِبُ الَّذِي لَيْسَ بَعْدَهُ نَبِيٌّ
+
+(I have several names: I am Muhammad, and I am Ahmad; I am Al-Mahi (the eradicator) through whom Allah will erase disbelief; I am Al-Hashir (the gatherer) at whose feet mankind will gather; and I am Al-'Aqib (the final one) after whom there will be no Prophet.) It was also recorded in the Two Sahihs. And there are many other Hadiths on this topic.
+
+Allah has told us in His Book, and His Messenger ﷺ has told us in the Mutawatir Sunnah, that there will be no Prophet after him, so that it may be known that everyone who claims this status after him is a liar and fabricator who is misguided and is misguiding others. Even if he twists meanings, comes up with false claims and uses tricks and vagaries, all of this is false and is misguidance as will be clear to those who have understanding.
+
+This is what Allah caused to happen in the case of Al-Aswad Al-'Ansi in the Yemen and Musaylimah the Liar in Al-Yamamah, whose false miracles and nonsensical words showed everyone who was possessed of understanding that they were liars who were leading people astray; may the curse of Allah be upon them both. This is the case with every false prophet until the Day of Resurrection, until they end with Al-Masih Ad-Dajjal (the Antichrist). Each of these liars is given by Allah signs which show the people of knowledge and the believers that his message is false – which is part of the perfect kindness of Allah towards His creation. These liars do not enjoin what is good, nor forbid what is evil, unless they do so by coincidence or because it serves an ulterior purpose. They are the utmost in falsehood and immorality, in all that they say and do, as Allah says:
+
+هَلْ أُنَبِّئُكُمْ عَلَىٰ مَنْ تَنَزَّلُ الشَّيَاطِينُ - تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ
+
+(Shall I inform you (O people!) upon whom the Shayatin descend? They descend on every lying, sinful person.)(26:221-222) This is in contrast to the Prophets – may blessings and peace be upon them – for they are the utmost in righteousness, truthfulness, wisdom, uprightness and justice in all that they say and do, command and forbid. In addition to this they are supported with miracles and clear and obvious proof. May the blessings and peace of Allah be upon them always, as long as heaven and earth remain.
+
+## Maarif ul Quran
+
+Mentioned next are particular attributes of the prophets علیہم السلام about whom we have learnt a while ago that they were permitted to have several wives in earlier times. It was said: الَّذِينَ يُبَلِّغُونَ رِ‌سَالَاتِ اللَّـهِ (those who convey the messages of Allah and have awe of Him and have no awe of anyone except Allah - 39), that is, all these esteemed prophets, may peace be upon them, convey the messages of Allah to their respective communities without fear of anyone.
+
+A wise consideration
+
+Perhaps, in this, there may be a hint towards the wisdom behind the multiplicity of marriages allowed to the noble prophets (علیہم السلام) in that all their sayings and doings must necessarily reach their communities, while being men, they spend a substantial part of their time in the section of the house where women and children live. During this time, if there comes a revelation or the prophet himself gives some order or does something, it all becomes a property held by their wives in trust on behalf of the community which can be transferred to it through wives alone. Other alternates are not free of difficulties. Therefore, should prophets have several wives, it would become easier to convey accounts of their words and deeds and their personal character in family life. Allah knows best.
+
+The second attribute of the noble prophets has been described as: وَيَخْشَوْنَهُ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا اللَّـهَ (and have awe of Him and have no awe of anyone except Allah - 39) It means that these prophets keep fearing Allah and fear none but Allah. It is also included there that they, if appointed to preach something by practicing it as based on beneficial religious consideration, never fall short in it - and if some people throw taunts at them for doing so, they do not fear it.
+
+A doubt and its answer
+
+Here, while mentioning the prophets, it has been said that they do not fear anyone except Allah. But, in the verse previous to it while referring to the Holy Prophet ﷺ it was said: تَخْشَى النَّاسَ (you fear people - 37). How would this be correct? The answer is that, in the cited verse, this matter of prophets not fearing anyone other than Allah has been mentioned in connection with the conveying of Divine messages while the Holy Prophet t, faced the fear of being taunted in a matter which was obviously of a worldly nature. It had nothing to do with his mission and prophethood. But, as soon as it became clear to him from the cited verses that this marriage too was a part of the practical aspect of his mission and prophethood, no fear of taunts, thereafter, from anyone stopped him from doing what he had to. And this marriage took place despite the objections raised by many disbelievers - which they still keep doing.
+
+## Personal Reflections

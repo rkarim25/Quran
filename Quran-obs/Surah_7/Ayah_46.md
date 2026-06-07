@@ -1,0 +1,190 @@
+---
+arabic_ayat: وَبَيۡنَهُمَا حِجَابٌ​ۚ وَعَلَى الۡاَعۡرَافِ رِجَالٌ يَّعۡرِفُوۡنَ كُلًّاۢ
+  بِسِيۡمٰٮهُمۡ​ ۚ وَنَادَوۡا اَصۡحٰبَ الۡجَـنَّةِ اَنۡ سَلٰمٌ عَلَيۡكُمۡ​ لَمۡ يَدۡخُلُوۡهَا
+  وَهُمۡ يَطۡمَعُوۡنَ‏
+sentence_translation: There will be a barrier between Paradise and Hell. And on the
+  heights ˹of that barrier˺ will be people who will recognize ˹the residents of˺ both
+  by their appearance. They will call out to the residents of Paradise, “Peace be
+  upon you!” They will have not yet entered Paradise, but eagerly hope to.
+word_by_word:
+  1:
+    arabic: وَبَيۡنَهُمَا
+    translation: And between them
+    transliteration: wabaynahumā
+  2:
+    arabic: حِجَابٌ​ۚ
+    translation: (will be) a partition
+    transliteration: ḥijābun
+  3:
+    arabic: وَعَلَى
+    translation: and on
+    transliteration: waʿalā
+  4:
+    arabic: الۡاَعۡرَافِ
+    translation: the heights
+    transliteration: l-aʿrāfi
+  5:
+    arabic: رِجَالٌ
+    translation: (will be) men
+    transliteration: rijālun
+  6:
+    arabic: يَّعۡرِفُوۡنَ
+    translation: recognizing
+    transliteration: yaʿrifūna
+  7:
+    arabic: كُلًّاۢ
+    translation: all
+    transliteration: kullan
+  8:
+    arabic: بِسِيۡمٰٮهُمۡ​ ۚ
+    translation: by their marks
+    transliteration: bisīmāhum
+  9:
+    arabic: وَنَادَوۡا
+    translation: And they will call out
+    transliteration: wanādaw
+  10:
+    arabic: اَصۡحٰبَ
+    translation: (to the) companions
+    transliteration: aṣḥāba
+  11:
+    arabic: الۡجَـنَّةِ
+    translation: (of) Paradise
+    transliteration: l-janati
+  12:
+    arabic: اَنۡ
+    translation: that
+    transliteration: an
+  13:
+    arabic: سَلٰمٌ
+    translation: Peace
+    transliteration: salāmun
+  14:
+    arabic: عَلَيۡكُمۡ​
+    translation: (be) upon you
+    transliteration: ʿalaykum
+  15:
+    arabic: لَمۡ
+    translation: Not
+    transliteration: lam
+  16:
+    arabic: يَدۡخُلُوۡهَا
+    translation: they have entered it
+    transliteration: yadkhulūhā
+  17:
+    arabic: وَهُمۡ
+    translation: but they
+    transliteration: wahum
+  18:
+    arabic: يَطۡمَعُوۡنَ‏
+    translation: hope
+    transliteration: yaṭmaʿūna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+46-47 in which mention of A'araf occurs.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And between them will be a (barrier) screen and on Al-A'raf will be men, who would recognize all, by their marks. When the people of Paradise will reach Paradise, where they belong, and the people of Hell, will reach Hell, where they belong, it is evident that the two places will be far apart from each other in all respects.
+
+## Tafsir Ibn Kathir
+
+And between them will be a (barrier) screen and on Al-A'raf will be men, who would recognize all, by their marks. And they will call out to the dwellers of Paradise, "Peace be on you" and at that time they will not yet have entered it (Paradise), but they will hope to enter (it)(46)And when their eyes will be turned towards the dwellers of the Fire, they will say: "Our Lord! Place us not with the people who are wrongdoers. (47)
+
+The People of Al-A'raf
+
+After Allah mentioned that the people of Paradise will address the people of the Fire, He stated that there is a barrier between Paradise and the Fire, which prevents the people of the Fire from reaching Paradise. Ibn Jarir said, "It is the wall that Allah described,
+
+فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُ بَابٌ بَاطِنُهُ فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِن قِبَلِهِ الْعَذَابُ
+
+(So a wall will be put up between them, with a gate therein. Inside it will be mercy, and outside it will be torment.)[57:13] It is also about Al-A'raf that Allah said,
+
+وَعَلَى الْأَعْرَافِ رِجَالٌ
+
+(and on Al-A'raf will be men)." Ibn Jarir recorded that As-Suddi said about Allah's statement,
+
+وَبَيْنَهُمَا حِجَابٌ
+
+(And between them will be a screen) "It is the wall, it is Al-A'raf." Mujahid said, "Al-A'raf is a barrier between Paradise and the Fire, a wall that has a gate."
+
+Ibn Jarir said, "Al-A'raf is plural for 'Urf, where every elevated piece of land is known as 'Urf to the Arabs."
+
+As-Suddi said, "Al-A'raf is so named because its residents recognize (Ya'rifun) the people. Al-A'raf's residents are those whose good and bad deeds are equal, as Hudhayfah, Ibn 'Abbas, Ibn Mas'ud and several of the Salaf and later generations said." Ibn Jarir recorded that Hudhayfah was asked about the people of Al-A'raf and he said, "A people whose good and bad deeds are equal. Their evil deeds prevented them from qualifying to enter Paradise, and their good deeds qualified them to avoid the Fire. Therefore, they are stopped there on the wall until Allah judges them."
+
+Ma'mar said that Al-Hasan recited this Ayah,
+
+لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ
+
+(and at that time they will not yet have entered it (Paradise), but they will hope to enter (it).)
+
+Then he said, "By Allah! Allah did not put this hope in their hearts, except for an honor that He intends to bestow on them." Qatadah said; "Those who hope are those among you whom Allah informed of their places." Allah said next,
+
+وَإِذَا صُرِفَتْ أَبْصَارُهُمْ تِلْقَاءَ أَصْحَابِ النَّارِ قَالُوا رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ
+
+(And when their eyes will be turned towards the dwellers of the Fire, they will say: "Our Lord! Place us not with the people who are wrongdoers.")
+
+Ad-Dahhak reported that Ibn 'Abbas said, "When the people of Al-A'raf look at the people of the Fire and recognize them, they will supplicate, 'O Lord! Do not place us with the people who are wrongdoers.'"
+
+## Maarif ul Quran
+
+Commentary
+
+When the people of Paradise will reach Paradise, where they belong, and the people of Hell, will reach Hell, where they belong, it is evident that the two places will be far apart from each other in all respects. But, despite this being so, many verses of the Holy Qur'an con-firm that in between the two places, there will be points from where one could see the other, and engage in an exchange of conversation.
+
+In Surah Al-Saffat, mentioned there are two persons who had known each other in their mortal life. But, one of them was a believer while the other, a disbeliever. In the Hereafter, when the believer will go to Paradise and the disbeliever, to Hell - they will notice each other and talk. Says the verse: فَاطَّلَعَ فَرَ‌آهُ فِي سَوَاءِ الْجَحِيمِ ﴿55﴾ (37:55): In brief, it means when the friend in Paradise will look for the friend in Hell, he will find him lying in the middle of it. He will curse him commenting that he wanted him to be ruined like him and had it not been for the grace of Allah, he too would have been found lying in Hell like him. Then he would remind him of his saying to him in the mortal world that there was to be no life, no accounting, no reward, and no punishment after death. He could now see for himself what was happening in reality.
+
+Such dialogues, questions and answers exchanged between the people of Paradise and the people of Hell appear not only in the verses cited above, but continue after that as well, through almost one section.
+
+As for these access points in between Paradise and Hell from where inmates could be seen and addressed, these would really be a different kind of punishment for the people of Hell who would find themselves being reproached from all sides. Then, as they see the blessings being enjoyed by the people of Paradise, they will find them-selves burning in rage for having missed those - and burning in Hell they already will be. As for the people of Paradise, they will have another kind of comfort when, after seeing the plight of those in Hell, they will be more grateful for the blessings they had the good fortune of having. Then, they would remember people who mocked at them for believing and they could nothing against them, and when they see them disgraced and punished ultimately, they would have the last laugh at their undoing. The same thing has been said in Surah Al-Mutaffifin:
+
+فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ‌ يَضْحَكُونَ ﴿34﴾ عَلَى الْأَرَ‌ائِكِ يَنظُرُ‌ونَ ﴿35﴾ هَلْ ثُوِّبَ الْكُفَّارُ‌ مَا كَانُوا يَفْعَلُونَ ﴿36﴾
+
+But, on this Day, those who believed will be laughing at the disbelievers. They will be on raised couches watching (the denouement). Would have the disbelievers not been repaid for what they used to do? - 83:34-36.
+
+Against the erring record of the people of Hell, admonition will also come from the angels. Addressing them, they will say:
+
+هَـٰذِهِ النَّارُ‌ الَّتِي كُنتُم بِهَا تُكَذِّبُونَ ﴿14﴾ أَفَسِحْرٌ‌ هَـٰذَا أَمْ أَنتُمْ لَا تُبْصِرُ‌ونَ ﴿15﴾
+
+This is the Fire that you used to belie. Then (look), is this a magic, or is it that you do not see? - 52:14-15
+
+Similarly, it is in the first of the cited verses that the people of Paradise will tell the people of Hell that they found the promise of blessings and comforts made by their Lord absolutely true and then they will ask them if the punishment against which they were warned actually came to them, or not. They will admit that they did see it.
+
+In support of this question and answer between them, some angel shall, with the will of Allah, proclaim that cursed be the unjust who used to prevent people from the path of Allah and wished that their way too became crooked like their own and denied the Hereafter.
+
+Who are the People of A` raf اَعرَاف ?
+
+As a corollary of the dialogue between those in Paradise and Hell, there is something else pointed to in this verse - that there will be some people who had their deliverance from Hell but had not yet found entry into Paradise, though they did hope that they would. These peo-ple are called the people of A` raf.
+
+What is A` raf? This is explained by the verses of Surah Al-Hadid (58). They tell us that there will be three groups of people on the day of Resurrection. (1) Declared disbelievers and polytheists who will never make it to the Bridge of Sirat, to begin with, because they will be thrown into the Hell through its doors before that stage comes; (2) believers who will have the light of Faith with them; and (3) hypocrites - since they have been tailing Muslims in the physical world, they will start behind them on the same trail. When they begin walking on the Bridge of Sirat, a dense darkness will overtake all of them. The believers will still keep moving ahead with the help of their light of Faith while the hypocrites will call and ask them to stop and wait for them so that they could make use of the light they have. Thereupon, a caller for the sake of Allah will call: Turn back. Find your light there. The message given would be that the light they were seeking was the light of Faith and Righteous Deeds which could only be acquired at a place which they have left behind. Those who failed to acquire this light there through Faith and Deed shall not enjoy the benefit of that light here. In this state, a wall would be made to stand in between the hypocrites and the believers. The wall would have a gate. Beyond this gate, there will be nothing but punishment all over. Inside the gate there will be believers and the atmosphere will be filled with the mercy of Allah and the view of Paradise. This is the subject of the following
+
+يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا انظُرُ‌ونَا نَقْتَبِسْ مِن نُّورِ‌كُمْ قِيلَ ارْ‌جِعُوا وَرَ‌اءَكُمْ فَالْتَمِسُوا نُورً‌ا فَضُرِ‌بَ بَيْنَهُم بِسُورٍ‌ لَّهُ بَابٌ بَاطِنُهُ فِيهِ الرَّ‌حْمَةُ وَظَاهِرُ‌هُ مِن قِبَلِهِ الْعَذَابُ ﴿13﴾
+
+The Day the hypocrites, the men and the women, will say to those who had believed: "Wait for us. Let us have a share from your light," it will be said, "Return behind you, then seek light." So, put between them will be a wall with a gate in it. Inside it, there will be mercy all over; and outside it, the Punishment face to face - 57:13.
+
+In the verse quoted above, the wall which will be placed to separate the people of Paradise from the people of Hell has been called: سُور (sur). This word is primarily used for a security wall built around a major city, usually made wide and fortified and posted where are army guards who stay in bunkers and remain vigilant against any enemies.
+
+Verse 46 of Surah Al-A` raf says: وَبَيْنَهُمَا حِجَابٌ ۚ وَعَلَى الْأَعْرَ‌افِ رِ‌جَالٌ يَعْرِ‌فُونَ كُلًّا بِسِيمَاهُمْ (And between the two groups there will be a partition). According to Ibn Jarir and other Tafsir authorities, in this verse, the word: حِجَاب (hijab) means the same wall which has been called: سُور (sur) in Salah Al-Hadid. The top portion of the wall is known as Al-A` raf because it is the plural form of ` Urf and ` Urf refers to the top portion of everything as it is distinct and recognizable from a distance. From this explanation we know that the top portion of the partition wall between Paradise and Hell is the A` raf. Then, the verse of the Surah tells us that on the day of Resurrection there will be some people at this place who would be seeing the happenings in Paradise and Hell both and will be talking to people on both sides.
+
+As for who these people shall be and why would they be made to stop here, it is something in which commentators differ and the narrations of Hadith vary. But, what is sound, weighty and acceptable with the majority of commentators is that these people will be the ones whose good and bad deeds will come out equal in weight on the Scale of Deeds. So, because of their good deeds, they will have their deliverance from Hell, but - because of their sins - they would have not been admitted into the Paradise yet. Finally, they too will find entry into Paradise because of the grace and mercy of Allah Ta` ala.
+
+This is what Sayyidna Hudhayfah Ibn Masud and Ibn ` Abbas ؓ ، from among the Sahabah, as well as other Sahabah and Tabi'in say. Then, in it converge narrations of Hadith reported variously. Ibn Jarir reports from Sayyidna Hudhayfah ؓ that the Holy Prophet ﷺ was asked about the people of A` raf. He said: These are people whose good and bad deeds will be equal. Therefore, from Jahannam they stand delivered. But, in Jannah they have not entered yet. They were stopped at this place of the A'raf until the process of accounting of deeds and the judgment is over. Their fate would be decided after that and ultimately they will be forgiven and admitted into Jannah. (Ibn Kathir)
+
+There is a narration from Sayyidna Jabir ibn Abdullah ؓ reported by Ibn Marduwayh in which it is said that the Holy Prophet ﷺ was asked as to who were the people of A` raf? He said: They are people who took part in Jihad without the pleasure and permission of their parents and laid down their lives in the way of Allah. So, the disobedience to parents stopped them from entering into the Paradise and their shahadah in the way of Allah stopped them from entering into the Hell.
+
+The two Ahadith quoted above have no element of contradiction. Instead of that, this Hadith is an example of those whose virtues and vices are equal in the same degree as here - martyrdom in the way of Allah on one side and disobedience to parents on the other. The scale is equal. (Ibn Kathir)
+
+Salam Greetings : Blessed Legacy of the Holy Prophet ﷺ
+
+After having gone through the description and definition of the people of A` raf, we can now take up the subject of the verse itself which says that the people of A` raf will call out the people of Paradise and say: " سَلَامُ علیکم '' (Salamun Alaiykum). This word of greeting is also used in our present world when we meet each other. This is offered as a gift, a mark of respect and grace felt for the person so greeted. This is Masnun, a way of Sunnah as practiced and recommended to his community by the Holy Prophet ﷺ . This is also said to the dead while visiting their graves. Then, it will also be the form of greeting on the plain of Resurrection, and in Paradise as well. But, a closer look at the verses of the Qur'an and the narrations of Hadith tells us that saying: اَلسلامُ عَلَیکُم (As-Salamu ` Alaiykum) is Masnun as long as we live in this world. Then, after having passed away from this mortal world, what is Masnun is saying: " سَلَامٌ عَلَيْكُمْ " (Salamun ` Alaiykum) - without the letters Alif and Lam at the beginning of Sal-am. The words to be said at the time of visiting graves as mentioned in the Qur'an also appear in this form, that is: سَلَامٌ عَلَيْكُم بِمَا صَبَرْ‌تُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ‌ ﴿24﴾: Peace on you [ Salamun Alaiykum ] for that you observed patience. Then, fair is the ultimate abode - 13:24). And when the angels will receive the people of Paradise, this word appears in the same form there too: سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ (Salamun Alaiykum [ Peace on you ], you have done well. So, enter in it to live forever - 39:73). And here too, the people of A` raf will greet the people of Paradise with the same words: سَلَامٌ عَلَيْكُم (Salamun Alaiykum).
+
+## Personal Reflections

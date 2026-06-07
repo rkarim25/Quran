@@ -1,0 +1,174 @@
+---
+arabic_ayat: وَرَاوَدَتۡهُ الَّتِىۡ هُوَ فِىۡ بَيۡتِهَا عَنۡ نَّـفۡسِهٖ وَغَلَّقَتِ
+  الۡاَبۡوَابَ وَقَالَتۡ هَيۡتَ لَـكَ​ؕ قَالَ مَعَاذَ اللّٰهِ​ اِنَّهٗ رَبِّىۡۤ اَحۡسَنَ
+  مَثۡوَاىَ​ؕ اِنَّهٗ لَا يُفۡلِحُ الظّٰلِمُوۡنَ‏
+sentence_translation: And the lady, in whose house he lived, tried to seduce him.
+  She locked the doors ˹firmly˺ and said, “Come to me!” He replied, “Allah is my refuge!
+  It is ˹not right to betray˺ my master, who has taken good care of me. Indeed, the
+  wrongdoers never succeed.”
+word_by_word:
+  1:
+    arabic: وَرَاوَدَتۡهُ
+    translation: And sought to seduce him
+    transliteration: warāwadathu
+  2:
+    arabic: الَّتِىۡ
+    translation: she who
+    transliteration: allatī
+  3:
+    arabic: هُوَ
+    translation: he (was)
+    transliteration: huwa
+  4:
+    arabic: فِىۡ
+    translation: in
+    transliteration: fī
+  5:
+    arabic: بَيۡتِهَا
+    translation: her house
+    transliteration: baytihā
+  6:
+    arabic: عَنۡ
+    translation: from
+    transliteration: ʿan
+  7:
+    arabic: نَّـفۡسِهٖ
+    translation: his self
+    transliteration: nafsihi
+  8:
+    arabic: وَغَلَّقَتِ
+    translation: And she closed
+    transliteration: waghallaqati
+  9:
+    arabic: الۡاَبۡوَابَ
+    translation: the doors
+    transliteration: l-abwāba
+  10:
+    arabic: وَقَالَتۡ
+    translation: and she said
+    transliteration: waqālat
+  11:
+    arabic: هَيۡتَ
+    translation: Come on
+    transliteration: hayta
+  12:
+    arabic: لَـكَ​ؕ
+    translation: you
+    transliteration: laka
+  13:
+    arabic: قَالَ
+    translation: He said
+    transliteration: qāla
+  14:
+    arabic: مَعَاذَ
+    translation: I seek refuge in Allah
+    transliteration: maʿādha
+  15:
+    arabic: اللّٰهِ​
+    translation: I seek refuge in Allah
+    transliteration: l-lahi
+  16:
+    arabic: اِنَّهٗ
+    translation: Indeed, he
+    transliteration: innahu
+  17:
+    arabic: رَبِّىۡۤ
+    translation: (is) my lord
+    transliteration: rabbī
+  18:
+    arabic: اَحۡسَنَ
+    translation: (who has) made good
+    transliteration: aḥsana
+  19:
+    arabic: مَثۡوَاىَ​ؕ
+    translation: my stay
+    transliteration: mathwāya
+  20:
+    arabic: اِنَّهٗ
+    translation: Indeed
+    transliteration: innahu
+  21:
+    arabic: لَا
+    translation: not
+    transliteration: lā
+  22:
+    arabic: يُفۡلِحُ
+    translation: will succeed
+    transliteration: yuf'liḥu
+  23:
+    arabic: الظّٰلِمُوۡنَ‏
+    translation: the wrongdoers
+    transliteration: l-ẓālimūna
+---
+
+## Context
+
+To understand **Joseph** (Yusuf) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And she, in whose house he was, sought to seduce him (to do an evil act), and she closed the doors and said: "Come on, O you." He said: "I seek refuge in Allah! And she, in whose house he was, seduced him away from his (resisting) self and bolted the doors, and said, 'come on!'.
+
+## Tafsir Ibn Kathir
+
+And she, in whose house he was, sought to seduce him (to do an evil act), and she closed the doors and said: "Come on, O you." He said: "I seek refuge in Allah! Truly, he is my Rabb! He made my living in a great comfort! Verily, the wrongdoers will never be successful. (23)
+
+Wife of the 'Aziz loves Yusuf and plots against Him
+
+Allah states that the wife of the 'Aziz of Egypt, in whose house Yusuf resided and whose husband recommended that she takes care of him and be generous to him, tried to seduce Yusuf! She called him to do an evil act with her, because she loved him very much. Yusuf was very handsome, filled with manhood and beauty. She beautified herself for him, closed the doors and called him,
+
+وَقَالَتْ هَيْتَ لَكَ
+
+(and (she) said: "Come on, O you.") But he categorically refused her call,
+
+قَالَ مَعَاذَ اللَّهِ ۖ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ
+
+(He said: "I seek refuge in Allah! Truly, he is my Rabb! He made my living in a great comfort!") as they used to call the chief and master a 'Rabb', Yusuf said to her, 'your husband is my master who provided me with comfortable living and was kind to me, so I will never betray him by committing immoral sins with his wife,'
+
+إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ
+
+(Verily, the wrongdoers will never be successful.) This was said by Mujahid, As-Suddi, Muhammad bin Ishaq and several others. The scholars differ in their recitation of,
+
+هَيْتَ لَكَ
+
+(Hayta Laka), whereby Ibn 'Abbas, Mujahid and several other scholars said that it means that she was calling him to herself. Al-Bukhari said; "Ikrimah said that,
+
+هَيْتَ لَكَ
+
+(Hayta Laka') means, 'come on, O you', in the Aramaic language." Al-Bukhari collected this statement from 'Ikrimah without a chain of narration. Other scholars read it with the meaning, 'I am ready for you'. Ibn 'Abbas, Abu 'Abdur-Rahman As-Sulami, Abu Wa'il, 'Ikrimah and Qatadah were reported to have read this part of the Ayah this way and explained it in the manner we mentioned, as 'I am ready for you'.
+
+## Maarif ul Quran
+
+Moving to verse 23, the words of the text are:
+
+وَرَ‌اوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَن نَّفْسِهِ وَغَلَّقَتِ الْأَبْوَابَ وَقَالَتْ هَيْتَ لَكَ
+
+And she, in whose house he was, seduced him away from his (resisting) self and bolted the doors, and said, 'come on!'.
+
+From the first verse, we know that this woman was the wife of the ` Aziz of Misr. But, at this place, the Holy Qur'an has elected to bypass the possibility of mentioning her by a brief expression as the wife of ` Aziz. Instead, it has chosen to use the expression: الَّتِي هُوَ فِي بَيْتِهَا (in whose house he was). The hint given here is that the efforts of Sayyidna Yusuf (علیہ السلام) to save himself from falling into sin were further complicated by the fact that he lived in the house of this very woman, under her protection, and as such, disapproving and discarding her verbal advance was no easy task.
+
+The Strongest Defence Against Sin is the Seeking of Protection from Allah Himself
+
+How was he able to do that? There was an outward cause to this. When Sayyidna Yusuf (علیہ السلام) found himself surrounded from all sides, he took the ultimate recourse. So, like a prophet he was, first of all, he sought the protection of Allah. He said: قَالَ مَعَاذَ اللَّـهِ (May Allah save me! ). We see that he did not place his sole trust in his determination and re-solve to hold out against the invitation to sin - he sought the refuge of Allah first. And it is obvious that anyone who enjoys the protection of Allah can never be moved away from the right path by anyone. It was only after having that coverage, that he started acting as a prophet would, with wisdom and earnest good counsel. Addressing Zulaikha directly and personally, he advised her that she too should fear Allah and give up her intention. He said:
+
+إِنَّهُ رَ‌بِّي أَحْسَنَ مَثْوَايَ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ
+
+Surely, he is my master. He has given me a good lodging. Surely, the wrongdoers do not prosper.
+
+As obvious, it means: Your husband, the ` Aziz of Misr is my master who has raised and supported me and has given me a good home to live in. He is my benefactor. How can I even think of violating his honour? This is great injustice and those who commit injustice never prosper. Implied therein was a lesson for Zulaikha too who was told: When I know his rights on me for having been my master and caretaker for a lesser time than you, then, being his wedded wife of years, you should certainly know his rights on you much more than I do.
+
+At this place, Sayyidna Yusuf (علیہ السلام) has called the ` Aziz of Misr his Rabb - though, it is not permissible to use this word for anyone other than Allah Ta’ ala. The reason is that words like this create either a suspicion of Shirk, or a resemblance with those who commit Shirk. Therefore, the use of such words has been prohibited in the Shari` ah of Islam. It appears in a Hadith of Sahih Muslim: ` Let no slave call his master his Rabb and let no master call his slave his عبد abd or servant.' But, this is a unique characteristic of the Islamic Shari` ah where, alongwith the prohibition of Shirk, everything else in which there is the least doubt that they may become the conduits of Shirk has also been prohibited. In the religious codes of past prophets, though Shirk has been strictly blocked but there was no restriction placed on the sources and inlets of Shirk. This was the reason why depiction of images was not prohibited in past religious codes. But in the Shari` ah of Islam, being valid upto the Last Day, full attention was given to protect it from being affected by Shirk. So, the sources and mediums of Shirk, such as, image and words - which arouse suspicion of Shirk were also prohibited. However, the saying of Sayyidna Yusuf (علیہ السلام) :إِنَّهُ رَ‌بِّي (Surely, he is my master), was correct in its place.
+
+And it is also possible that the pronoun in: إِنَّهُ (innahu) reverts to Allah Ta` la which would mean that Sayyidni Yusuf (علیہ السلام) had called Allah his Rabb and it was He who, in the real sense, gave him good lodging, and that disobedience to Him was the greatest injustice, and that the unjust never prosper.
+
+Some commentators, Suddiyy, Ibn Ishaq and others have reported that during the course of this privacy, Zulaikha started praising his looks with the purpose of softening his resistance. She said: How beautiful are your hair! Sayyidna Yusuf (علیہ السلام) said: After death, these hair will be the first to part away from my body. Then, she said: How beautiful are your eyes! He said: After death, they will become water and flow down my face. Once again, she said: How beautiful is your face! Thereupon, he said: All this will be eaten up by the earth below. He was looking ahead. This was his concern for the 'Akhirah. Allah Ta’ ala had set it upon him in the prime of his youth and that made all charms of mortal life turn into dust before him. It is true that the concern for 'Akhirah is something which can keep every human being protected from every evil wherever he or she may be. May Allah bless us all with this concern.
+
+## Personal Reflections

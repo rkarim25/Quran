@@ -1,0 +1,134 @@
+---
+arabic_ayat: فَالۡتَقَطَهٗۤ اٰلُ فِرۡعَوۡنَ لِيَكُوۡنَ لَهُمۡ عَدُوًّا وَّحَزَنًا
+  ​ ؕ اِنَّ فِرۡعَوۡنَ وَهَامٰنَ وَجُنُوۡدَهُمَا كَانُوۡا خٰطِـــِٕيۡنَ‏
+sentence_translation: And ˹it so happened that˺ Pharaoh’s people picked him up, only
+  to become their enemy and source of grief. Surely Pharaoh, Hamân, and their soldiers
+  were sinful.
+word_by_word:
+  1:
+    arabic: فَالۡتَقَطَهٗۤ
+    translation: Then picked him up
+    transliteration: fal-taqaṭahu
+  2:
+    arabic: اٰلُ
+    translation: (the) family
+    transliteration: ālu
+  3:
+    arabic: فِرۡعَوۡنَ
+    translation: (of) Firaun
+    transliteration: fir'ʿawna
+  4:
+    arabic: لِيَكُوۡنَ
+    translation: so that he might become
+    transliteration: liyakūna
+  5:
+    arabic: لَهُمۡ
+    translation: to them
+    transliteration: lahum
+  6:
+    arabic: عَدُوًّا
+    translation: an enemy
+    transliteration: ʿaduwwan
+  7:
+    arabic: وَّحَزَنًا ​ ؕ
+    translation: and a grief
+    transliteration: waḥazanan
+  8:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  9:
+    arabic: فِرۡعَوۡنَ
+    translation: Firaun
+    transliteration: fir'ʿawna
+  10:
+    arabic: وَهَامٰنَ
+    translation: and Haman
+    transliteration: wahāmāna
+  11:
+    arabic: وَجُنُوۡدَهُمَا
+    translation: and their hosts
+    transliteration: wajunūdahumā
+  12:
+    arabic: كَانُوۡا
+    translation: were
+    transliteration: kānū
+  13:
+    arabic: خٰطِـــِٕيۡنَ‏
+    translation: sinners
+    transliteration: khāṭiīna
+---
+
+## Context
+
+To understand **The Stories** (Al-Qasas) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And We inspired the mother of Musa: "Suckle him (Musa), but when you fear for him, then cast him into the river and fear not, nor grieve. وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning.
+
+## Tafsir Ibn Kathir
+
+And We inspired the mother of Musa: "Suckle him (Musa), but when you fear for him, then cast him into the river and fear not, nor grieve. Verily, We shall bring him back to you, and shall make him one of the Messengers. (7)Then the household of Fir'awn picked him up, that he might become for them an enemy and a (cause of) grief. Verily, Fir'awn, Haman and their armies were sinners (8)And the wife of Fir'awn said: "A comfort of the eye for me and for you. Kill him not, perhaps he may be of benefit to us, or we may adopt him as a son." And they perceived not (9)
+
+How Musa's Mother was inspired and shown what to do
+
+It was mentioned that when Fir'awn killed so many of the males of the Children of Israel, the Copts were scared that the Children of Israel would die out, and they themselves would have to do the heavy labor that the Children of Israel used to do. So they said to Fir'awn, "If this continues, and their old men die and the young men are killed, their women will not be able to do the work that the men are doing, and we will end up having to do it." So Fir'awn issued orders that the boys should be killed one year, and left alone the following year. Harun, peace be upon him, was born in a year when the boys were not killed, and Musa was born in a year when the boys were being killed. Fir'awn had people who were entrusted with this task. There were midwives who would go around and check on the women, and if they noticed that any woman was pregnant, they would write her name down. When the time came for her to give birth, no one was allowed to attend her except for Coptic women. If the woman gave birth to a girl, they would leave her alone and go away, but if she gave birth to a boy, the killers would come in with their sharp knives and kill the child, then they would go away; may Allah curse them.
+
+When the mother of Musa became pregnant with him, she did not show any signs of pregnancy as other women did, and none of the midwives noticed. But when she gave birth to a boy, she became very distressed and did not know what to do with him. She was extremely scared for him, because she loved him very much. No one ever saw Musa, peace be upon him, but they loved him, and the blessed ones were those who loved him both as a natural feeling and because he was a Prophet. Allah says:
+
+وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِنِّي
+
+(And I endued you with love from Me)(20:39).
+
+Musa, peace be upon him, in the House of Fir'awn
+
+When Musa's mother became so worried and confused, it was inspired into her heart and mind what she should do, as Allah says:
+
+وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي ۖ إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ
+
+(And We inspired the mother of Musa (telling): "Suckle him, but when you fear for him, then cast him into the river and fear not, nor grieve. Verily, We shall bring him back to you, and shall make him one of (Our) Messengers.")
+
+Her house was on the banks of the Nile, so she took a box and made it into a cradle, and started to nurse her child. When someone came to her that she was afraid of, she would go and put him in that box and put it in the river, and she would tie it with a rope. One day someone that she was afraid of came to the house, so she went and put the child in that box and put it in the river, but she forgot to tie it. The water carried him away, past the house of Fir'awn, where some servant women picked the box up and took it to Fir'awn's wife. They did not know what was inside, and they were afraid that they would be in trouble if they opened it without her. When the box was opened, they saw it was a child with the most beautiful features. Allah filled her heart with love for him when she saw him; this was because she was blessed and because Allah wanted to honor her and cause her husband's doom. Allah says:
+
+فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا ۗ
+
+(Then the household of Fir'awn picked him up, that he might become for them an enemy and a (cause of) grief.) Allah says:
+
+إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ
+
+(Verily, Fir'awn, Haman and their armies were sinners.)
+
+وَقَالَتِ امْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِي وَلَكَ ۖ
+
+(And the wife of Fir'awn said: "A comfort of the eye for me and for you...") means, when Fir'awn saw him, he wanted to kill him, fearing that he was one of the Children of Israel. But his wife Asiyah bint Muzahim came to the child's defence and tried to endear him to Fir'awn, saying,
+
+قُرَّتُ عَيْنٍ لِي وَلَكَ
+
+(A comfort of the eye for me and for you.) Fir'awn said: "For you he may be, but not for me. And this was indeed the case: Allah guided her because of him, and destroyed him at his hands.
+
+عَسَىٰ أَنْ يَنْفَعَنَا
+
+(perhaps he may be of benefit to us,) This is indeed what happened in her case, for Allah guided her through him and caused her to dwell in Paradise because of him.
+
+أَوْ نَتَّخِذَهُ وَلَدًا
+
+(or we may adopt him as a son.) She wanted to take him and adopt him as a son, because she had no children from Fir'awn.
+
+وَهُمْ لَا يَشْعُرُونَ
+
+(And they perceived not.) means, they did not know what Allah planned for them when they picked him up, by His great wisdom and definitive proof.
+
+## Maarif ul Quran
+
+وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning. It does not mean the Wahy that is peculiar to prophets. This point has already been explained under Surah Taha.
+
+## Personal Reflections

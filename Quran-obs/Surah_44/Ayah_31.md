@@ -1,0 +1,199 @@
+---
+arabic_ayat: مِنۡ فِرۡعَوۡنَ​ؕ اِنَّهٗ كَانَ عَالِيًا مِّنَ الۡمُسۡرِفِيۡنَ‏
+sentence_translation: of Pharaoh. He was truly a tyrant, a transgressor.
+word_by_word:
+  1:
+    arabic: مِنۡ
+    translation: From
+    transliteration: min
+  2:
+    arabic: فِرۡعَوۡنَ​ؕ
+    translation: Firaun
+    transliteration: fir'ʿawna
+  3:
+    arabic: اِنَّهٗ
+    translation: Indeed, he
+    transliteration: innahu
+  4:
+    arabic: كَانَ
+    translation: was
+    transliteration: kāna
+  5:
+    arabic: عَالِيًا
+    translation: arrogant
+    transliteration: ʿāliyan
+  6:
+    arabic: مِّنَ
+    translation: among
+    transliteration: mina
+  7:
+    arabic: الۡمُسۡرِفِيۡنَ‏
+    translation: the transgressors
+    transliteration: l-mus'rifīna
+---
+
+## Context
+
+To understand **The Smoke** (Ad-Dukhan) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. Weeping of the Sky and the Earth فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْ‌ضُ "So, neither the sky and earth wept over them...
+
+## Tafsir Ibn Kathir
+
+And indeed We tried before them Fir'awn's people, when there came to them a noble Messenger (17)Saying: "Deliver to me the servants of Allah. Verily, I am to you a Messenger worthy of all trust. (18)"And exalt not yourselves against Allah. Truly, I have come to you with a manifest authority. (19)"And truly, I seek refuge with my Lord and your Lord, lest you should stone me. (20)"But if you believe me not, then keep away from me and leave me alone. (21)So he (Musa) called upon his Lord (saying): "These are indeed the people who are criminals. (22)(Allah said): "Depart you with My servants by night. Surely, you will be pursued. (23)"And leave the sea as it is (quiet and divided). Verily, they are a host to be drowned. (24)How many of gardens and springs that they (Fir'awn's people) left behin (25)And green crops (fields) and goodly places (26)And comforts of life wherein they used to take delight (27)Thus (it was)! And We made other people inherit them (28)And the heavens and the earth wept not for them, nor were they given respite (29)And indeed We saved the Children of Israel from the humiliating torment (30)From Fir'awn; verily, he was arrogant and was of the excessive (31)And We chose them above the nations (Al-'Alamin) with knowledge (32)And granted them signs in which there was a plain trial (33)
+
+The Story of Musa and Fir'awn, and how the Children of Israel were saved
+
+Allah tells us, 'before these idolators, We tested the people of Fir'awn, the copts of Egypt.'
+
+وَجَاءَهُمْ رَسُولٌ كَرِيمٌ
+
+(when there came to them a noble Messenger.) means, Musa, peace be upon him, the one to whom Allah spoke.
+
+أَنْ أَدُّوا إِلَيَّ عِبَادَ اللَّهِ ۖ
+
+(Deliver to me the servants of Allah.) This is like the Ayah:
+
+فَأَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَاكَ بِآيَةٍ مِنْ رَبِّكَ ۖ وَالسَّلَامُ عَلَىٰ مَنِ اتَّبَعَ الْهُدَىٰ
+
+(So let the Children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance!")(20:47)
+
+إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
+
+(Verily, I am to you a Messenger worthy of all trust.) means, 'what I convey to you is trustworthy.'
+
+وَأَنْ لَا تَعْلُوا عَلَى اللَّهِ ۖ
+
+(And exalt not yourselves against Allah.) means, 'and do not be too arrogant to follow His signs. Accept His proof and believe in His evidence.' This is like the Ayah:
+
+إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
+
+(Verily, those who scorn My worship they will surely enter Hell in humiliation!)(40:60)
+
+إِنِّي آتِيكُمْ بِسُلْطَانٍ مُبِينٍ
+
+(Truly, I have come to you with a manifest authority.) means, with clear and obvious proof. This refers to the clear signs and definitive evidence with which Allah sent him.
+
+وَإِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ أَنْ تَرْجُمُونِ
+
+(And truly, I seek refuge with my Lord and your Lord, lest you should stone me.) Ibn 'Abbas, may Allah be pleased with him, and Abu Salih said, "This refers to a verbal assault, which means insults."
+
+Qatadah said, "Meaning 'stoning' in the literal sense, so that the meaning is: 'I seek refuge with Allah, Who created me and you, from your making any harmful words or actions reach me.'"
+
+وَإِنْ لَمْ تُؤْمِنُوا لِي فَاعْتَزِلُونِ
+
+(But if you believe me not, then keep away from me and leave me alone.) means, 'then let us leave one another alone and live in peace until Allah judges between us.' After Musa, may Allah be pleased with him, had stayed among them for a long time, and the proof of Allah had been established against them, and that only increased them in disbelief and stubbornness, he prayed to his Lord against them, a prayer which was answered. Allah says:
+
+وَقَالَ مُوسَىٰ رَبَّنَا إِنَّكَ آتَيْتَ فِرْعَوْنَ وَمَلَأَهُ زِينَةً وَأَمْوَالًا فِي الْحَيَاةِ الدُّنْيَا رَبَّنَا لِيُضِلُّوا عَنْ سَبِيلِكَ ۖ رَبَّنَا اطْمِسْ عَلَىٰ أَمْوَالِهِمْ وَاشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ - قَالَ قَدْ أُجِيبَتْ دَعْوَتُكُمَا فَاسْتَقِيمَا
+
+(And Musa said: "Our Lord! You have indeed bestowed on Fir'awn and his chiefs splendor and wealth in the life of this world, our Lord! That they may lead men astray from Your path. Our Lord! Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment." Allah said: "Verily, the invocation of you both is accepted. So you both keep to the straight way.")(10:88-89) And Allah says here:
+
+فَدَعَا رَبَّهُ أَنَّ هَٰؤُلَاءِ قَوْمٌ مُجْرِمُونَ
+
+(So he (Musa) called upon his Lord (saying): "These are indeed the people who are criminals.") Whereupon Allah commanded him to bring the Children of Israel out from among them, without the command, consent or permission of Fir'awn. Allah said:
+
+فَأَسْرِ بِعِبَادِي لَيْلًا إِنَّكُمْ مُتَّبَعُونَ
+
+(Depart you with My servants by night. Surely, you will be pursued.) This is like the Ayah:
+
+وَلَقَدْ أَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي فَاضْرِبْ لَهُمْ طَرِيقًا فِي الْبَحْرِ يَبَسًا لَا تَخَافُ دَرَكًا وَلَا تَخْشَىٰ
+
+And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
+
+وَاتْرُكِ الْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُنْدٌ مُغْرَقُونَ
+
+(And leave the sea as it is (quiet and divided). Verily, they are a host to be drowned.) When Musa and the Children of Israel has crossed the sea, Musa wanted to strike it with his staff so that it would go back as it had been, and it would form a barrier between then and Fir'awn and prevent him from reaching them. But Allah commanded him to leave it as it was, quiet and divided, and gave him the glad tidings that they were a host to be drowned, and that he should not fear either being overtaken by Fir'awn or drowning in the sea. Ibn 'Abbas, may Allah be pleased with him, said:
+
+وَاتْرُكِ الْبَحْرَ رَهْوًا ۖ
+
+(And leave the sea as it is (quiet and divided).) means, leave it as it is and keep moving. Mujahid said:
+
+رَهْوًا
+
+(as it is) means, a dry path, as it is. 'Do not command it to go back; leave it until the last of them have entered it.' This was also the view of 'Ikrimah, Ar-Rabi' bin Anas, Ad-Dahhak, Qatadah, Ibn Zayd, Ka'b Al-Ahbar, Simak bin Harb and others.
+
+كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ - وَزُرُوعٍ
+
+(How many of gardens and springs that they left behind. And green crops) this refers to rivers and wells.
+
+وَمَقَامٍ كَرِيمٍ
+
+and goodly places, means, fine dwellings and beautiful places. Muja0hid and Sa 0d bin Jubayr said:
+
+وَمَقَامٍ كَرِيمٍ
+
+(and goodly places,) means elevated places.
+
+وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ
+
+(And comforts of life wherein they used to take delight!) means, a life which they were enjoying, where they could eat whatever they wanted and wear what they liked, with wealth and glory and power in the land. Then all of that was taken away in a single morning, they departed from this world and went to Hell, what a terrible abode!
+
+كَذَٰلِكَ ۖ وَأَوْرَثْنَاهَا قَوْمًا آخَرِينَ
+
+(Thus (it was)! And We made other people inherit them.) namely the Children of Israel.
+
+فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ
+
+(And the heavens and the earth wept not for them,) means, they had no righteous deeds which used to ascend through the gates of the heavens, which would weep for them when they died, and they had no places on earth where they used to worship Allah which would notice their loss. So they did not deserve to be given a respite, because of their disbelief, sin, transgression and stubbornness.
+
+Ibn Jarir recorded that Sa'id bin Jubayr said, "A man came to Ibn 'Abbas, may Allah be pleased with him, and said to him: 'O Abu Al-'Abbas, Allah says,
+
+فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا مُنْظَرِينَ
+
+(And the heavens and the earth wept not for them, nor were they given respite) – do the heavens and the earth weep for anybody' He, may Allah be pleased with him, said, 'Yes, there is no one who does not have a gate in the heavens through which his provision comes down and his good deeds ascend. When the believer dies, that gate is closed; it misses him and weeps for him, and the place of prayer on earth where he used to pray and remember Allah also weeps for him. But the people of Fir'awn left no trace of righteousness on the earth and they had no good deeds that ascended to Allah, so the heavens and the earth did not weep for them.'" Al-'Awfi reported something similar from Ibn 'Abbas, may Allah be pleased with him.
+
+وَلَقَدْ نَجَّيْنَا بَنِي إِسْرَائِيلَ مِنَ الْعَذَابِ الْمُهِينِ - مِنْ فِرْعَوْنَ ۚ إِنَّهُ كَانَ عَالِيًا مِنَ الْمُسْرِفِينَ
+
+(And indeed We saved the Children of Israel from the humiliating torment from Fir'awn; verily, he was arrogant and was of the excessive.) Here Allah reminds them of how He saved them from their humiliation and subjugation at the hands of Fir'awn, when they were forced to do menial tasks.
+
+مِنْ فِرْعَوْنَ ۚ إِنَّهُ كَانَ عَالِيًا
+
+(From Fir'awn; verily, he was arrogant) means, he was proud and stubborn. This is like the Ayah:
+
+إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ
+
+(Verily, Fir'awn exalted himself in the land)(28:4).
+
+فَاسْتَكْبَرُوا وَكَانُوا قَوْمًا عَالِينَ
+
+(but they behaved insolently and they were people self-exalting)(23:46). He was one of the excessive and held a foolish opinion of himself.
+
+وَلَقَدِ اخْتَرْنَاهُمْ عَلَىٰ عِلْمٍ عَلَى الْعَالَمِينَ
+
+(And We chose them above the nations (Al-'Alamin) with knowledge,) Mujahid said, "This means that they were chosen above those among whom they lived." Qatadah said, "They were chosen above the other people of their own time, and it was said that in every period there are people who are chosen above others." This is like the Ayah:
+
+قَالَ يَا مُوسَىٰ إِنِّي اصْطَفَيْتُكَ عَلَى النَّاسِ
+
+((Allah) said: "O Musa I have chosen you above men.")(7:144), which means, above the people of his time. This is also like the Ayah:
+
+وَاصْطَفَاكِ عَلَىٰ نِسَاءِ الْعَالَمِينَ
+
+(and (Allah has) chosen you (Maryam) above the women of the nations (Al-'Alamin).)(3:42), i.e., Maryam was chosen above the women of her time. For Khadijah, may Allah be pleased with her, is higher than her in status or is equal to her, as was Asiyah bint Muzahim, the wife of Fir'awn. And the superiority of 'A'ishah, may Allah be pleased with her, over all other women is like the superiority of Tharid over all other dishes.
+
+وَآتَيْنَاهُمْ مِنَ الْآيَاتِ
+
+(And granted them signs) means clear proofs and extraordinary evidence.
+
+مَا فِيهِ بَلَاءٌ مُبِينٌ
+
+(in which there was a plain trial.) means, an obvious test to show who would be guided by it.
+
+## Maarif ul Quran
+
+Weeping of the Sky and the Earth
+
+فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْ‌ضُ "So, neither the sky and earth wept over them... (44:29) ". This means they did not perform any righteous deeds on earth which would weep for them when they died, nor did any of their righteous deeds ascend through the gates of heaven, so that the sky would weep on their death. There are several ahadith which confirm that when a righteous person dies, the heaven and earth weep. Hafiz Abu Ya` la reports on the authority of Sayyidna Anas ؓ that the Prophet of Allah ﷺ said: "For every person there are two gates in the heaven/sky. Through one of them his sustenance descends, and through the other his deeds and his conversation ascend. When he dies, the gates remember him and weep. Then the Prophet ﷺ recited the following verse as an evidence of his statement: فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْ‌ضُ So, neither the sky and earth wept over them...(44:29) ". Similar reports are narrated on the authority of Sayyidna Ibn ` Abbas (Ibn Kathir). Sayyidna Shuraih Ibn ` Ubaid al-Hadrami ؓ narrates that the Holy Prophet ﷺ said: "If a believer dies away from home where there is no one to weep for him, the heaven and earth weep for him." On this occasion too, the Holy Prophet ﷺ recited the same verse (29), adding that neither the sky nor the earth weeps for a non-believer. (Ibn Jarir). Sayyidna ‘Ali ؓ also upholds that the heaven and earth weep for a righteous person. (Ibn Kathir).
+
+Some scholars interpret the verse metaphorically, not literally. They say that the sky and the earth do not really weep, in the primary sense of the word. The verse purports to say that their existence is so insignificant that when they were wiped out, it did not cause grief to anyone. In the light of the above narratives, the real weeping of the heaven and earth in this context appears to be preferable. If the literal or primary sense of an expression is possible, there is no need to interpret it metaphorically or figuratively. The narratives quoted above support our argument - that the verse must be interpreted in its basic sense, and not in the figurative sense. It may be objected that neither the heaven nor the earth has any sense so that they would weep in the primary sense in which we understand it. Its rebuttal is simple: Obviously, every member of the universe has some sense, to a higher or lower degree, as attested by the Qur'an وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ...And there is not a single thing that does not extol His purity and praise, but you do not understand their extolling... (17:44) ". Gradually, contemporary science - through its research and experiment - is now reaching the same conclusion. Of course, it is not necessary for the heavens and the earth to be weeping in the same way as human beings do. The way of their weeping would surely be different from humans but we are unaware of its reality.
+
+## Personal Reflections

@@ -1,0 +1,119 @@
+---
+arabic_ayat: "وَكَذٰلِكَ نُوَلِّىۡ بَعۡضَ الظّٰلِمِيۡنَ بَعۡضًاۢ بِمَا كَانُوۡا يَكۡسِبُوۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: This is how We make the wrongdoers ˹destructive˺ allies of one
+  another because of their misdeeds.
+word_by_word:
+  1:
+    arabic: وَكَذٰلِكَ
+    translation: And thus
+    transliteration: wakadhālika
+  2:
+    arabic: نُوَلِّىۡ
+    translation: We make friends
+    transliteration: nuwallī
+  3:
+    arabic: بَعۡضَ
+    translation: some (of)
+    transliteration: baʿḍa
+  4:
+    arabic: الظّٰلِمِيۡنَ
+    translation: the wrongdoers
+    transliteration: l-ẓālimīna
+  5:
+    arabic: بَعۡضًاۢ
+    translation: (to) others
+    transliteration: baʿḍan
+  6:
+    arabic: بِمَا
+    translation: for what
+    transliteration: bimā
+  7:
+    arabic: كَانُوۡا
+    translation: they used to
+    transliteration: kānū
+  8:
+    arabic: "يَكۡسِبُوۡنَ‏ \uFEFF\uFEFF"
+    translation: earn
+    transliteration: yaksibūna
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 129, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And thus We do make the wrongdoers supporters of one another, because of that which they used to earn (129) The Wrongdoers Are the Supporters of Each other Lexically, the word: (nuwalli) appearing in the first (129) of the three verses cited above can be translated either in the sense of joining up and bringing closer, or in the sense of setting on or imposing on.
+
+## Tafsir Ibn Kathir
+
+And thus We do make the wrongdoers supporters of one another, because of that which they used to earn (129)
+
+The Wrongdoers Are the Supporters of Each other
+
+Ma'mar said that Qatadah commented on this Ayah, "Allah makes the wrongdoers supporters for each other in the Fire by following one another into it." 'Abdur-Rahman bin Zayd bin Aslam commented on Allah's statement,
+
+وَكَذَٰلِكَ نُوَلِّي بَعْضَ الظَّالِمِينَ بَعْضًا
+
+(And thus We do make the wrongdoers supporters of one another.)
+
+"It refers to the wrongdoers of the Jinns and mankind." He then recited,
+
+وَمَن يَعْشُ عَن ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ
+
+(And whosoever turns away blindly from the remembrance of the Most Gracious (Allah), We appoint for him Shaytan to be a companion to him.)[43:36]
+
+He said next – concerning the meaning of the Ayah; "We appoint the wrongdoer of the Jinns over the wrongdoer of mankind." A poet once said, "There is no hand, but Allah's Hand is above it, and no wrongdoer but will be tested by another wrongdoer."
+
+The meaning of this honorable Ayah thus becomes: 'Just as We made this losing group of mankind supporters of the Jinns that misguided them, We also appoint the wrongdoers over one another, destroy them by the hands of one another, and take revenge from them with one another. This is the just recompense for their injustice and transgression.'
+
+## Maarif ul Quran
+
+Commentary
+
+Lexically, the word: (nuwalli) appearing in the first (129) of the three verses cited above can be translated either in the sense of joining up and bringing closer, or in the sense of setting on or imposing on. Narrations reported from leading authorities in Tafsir among the Sahabah and Tabi` in also carry the explanation of this word as based on these two meanings.
+
+The Basis of Human Groupings after Resurrection
+
+Early authorities Said ibn Jubayr and Qatadah and others have taken the first sense and, according to them, the verse means that, on the day of Qiyamah before Allah Ta` ala, the collective formations - that is, groupings and party alignments of people - will not be on racial or national or colour and language basis, instead of which, these groupings shall be on the basis of deeds and morals. A Muslim obedient to Allah Ta` ala, wherever he may be, shall be together with Muslims; and the disobedient disbeliever, wherever he may be, shall be together with disbelievers - whether their race, heredity, country, language, colour and social living may be way different.
+
+Then, even among Muslims, those good in deeds shall be with the righteous while the evil doers will be grouped up with evil doers and sinners. This is the sense of what has been said in Surah At-Takwir: وَإِذَا النُّفُوسُ زُوِّجَتْ that is, when people shall be grouped (like with like) the sense of which is that the people gathered before Allah Ta` la on the plains of Resurrection shall split in different groupings in terms of their deeds and morals.
+
+In his Tafsir of this verse, Sayyidna Faruq al-A'zam ؓ has said: ` The doers of one kind of deeds, good or bad, shall be grouped together. The good will go with the good to Jannah and the evil will be led with the evil to Jahannam.' To authenticate his explanation, Sayyidna Faruq al-A'zam ؓ cited proof from the verse: احْشُرُ‌وا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ of the Holy Qur'an (37:22) which deals with the same subject by saying that, on the day of Qiyamah, the command will go forth: 'Gather those who have been unjust, and their cohorts, (and take them to Jahannam).
+
+The gist of the explanation of this verse is that Allah Ta` ala will, by merging some of the unjust with some others, will make them one group, irrespective of how far apart they may be from each other in terms of their race and homeland.
+
+In addition to what has been stated above, it has also been clarified in another verse that, on the fateful day of Resurrection, the temporal grouping based on race, country, colour, language and other unifiers will break up root and branch: وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّ‌قُونَ ﴿14﴾. It means: When the Hour (of Qiyamah) is established, those united shall stand separated - 30:14).
+
+Deeds and Morals affect Collective Matters even in this World
+
+As for the severance of existing relations and affiliations, that is something which will come before everyone fully and clearly after all, but a minor sampling of this can be found everywhere in this mortal world as well. It goes without saying that a good person is temperamentally tuned to virtues and virtuous people. He is attached to them individually or collectively. This becomes his passport to ever-new avenues of good deeds which go on to make his determination firm. The same holds for doers of evil deeds. They too relate to their kind; to them they are attached and with them they keep company. And this negative company keeps contributing to their evil deeds and evil morals, as a result of which, avenues of good and prospects of better con-duct keep closing on him before his own eyes. This is his cash punishment for his evil deeds which he gets right here in this world.
+
+So, in a nutshell, we can say that there is a reward or punishment of good or bad deeds which will come in the 'Akhirah and there is a reward or punishment which comes within the life of this world in a way that a good person is blessed with colleagues who are equally good and honest and whose contribution to whatever is undertaken makes them rise and prosper together. In contrast, there is the person with evil deeds and evil intention who gets what he deserves. The colleagues he gets and the help and assistance he employs are no different than him.
+
+What is left of his misfortune, the evil group around him takes care of that when it pushes him into a far deeper abyss.
+
+As mentioned earlier, the Holy Prophet ﷺ said: When Allah Ta` ala is pleased with a ruler, He gives him good ministers and good staff who make his government well-managed and progress-prone - and when Allah Ta` ala is displeased with someone, he gets colleagues who are bad and so are the officials he must deal with. As a result, even if he wishes to do something good, he cannot get it done.
+
+An oppressor is punished at the hands of another oppressor
+
+The sense of the verse given above is in terms of its translation ac-cording to the first meaning mentioned earlier. As for the second meaning mentioned alongside, reported from Sayyidna ` Abdullah ibn ` Abbas, Sayyidna ` Abdullah ibn Zubayr, Sayyidna ibn Zayd, Malik ibn Dinar and others ؓ is a Tafsir according to which, ` Allah Ta` ala sets some unjust people (Zalim) over other unjust people and thus has one Zalim (oppressor) punished at the hands of another Zalim.'
+
+This approach to meaning is also correct and sound in its place, and is in accord with other statements of the Qur'an and Hadith. The Holy Prophet ﷺ is reported to have said in a Hadith: کَمَا تَکُونُوںَ کَذٰلِکَ یُؤمَّرُعَلَکم that is, as you shall be, so shall be the rulers set on you. If you are unjust and evil, your rulers will also be unjust and evil. And if you are good in your deeds and characters, Allah Ta` ala will make good, kind and just people your rulers.
+
+Sayyidna ` Abdullah ibn ` Abbas ؓ says: When Allah Ta` ala wishes well for a people, He appoints the best rulers and officials for them - and when He wishes otherwise for a people, He sets the worst rulers and officials over them. (Tafsir Al-Bahr AI-Muhit)
+
+According to Ruh al-Ma'ani, it is on the authority of this verse that Muslim jurists prove that: When people of a country, turn away from Allah Ta` ala and become involved in deeds of injustice and oppression, Allah Ta` ala sets oppressive rulers and officials over them and lets them be punished at their hands.
+
+Based on a narration by Sayyidna ` Abdullah ibn Masud ؓ Ibn Kathir has reported a decisive statement of the Holy Prophet ﷺ that is, whoever helps a Zalim (oppressor) in his Zulm, (injustice) then Allah Ta` ala sets that very Zalim on him to torment him, and it is at his hands that he gets his punishment.
+
+## Personal Reflections

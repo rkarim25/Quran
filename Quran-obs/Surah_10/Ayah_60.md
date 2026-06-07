@@ -1,0 +1,154 @@
+---
+arabic_ayat: "وَمَا ظَنُّ الَّذِيۡنَ يَفۡتَرُوۡنَ عَلَى اللّٰهِ الۡكَذِبَ يَوۡمَ الۡقِيٰمَةِ​ؕ\
+  \ اِنَّ اللّٰهَ لَذُوۡ فَضۡلٍ عَلَى النَّاسِ وَلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَشۡكُرُوۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: What do those who fabricate lies against Allah expect on Judgment
+  Day? Surely Allah is ever Bountiful to humanity, but most of them are ungrateful.
+word_by_word:
+  1:
+    arabic: وَمَا
+    translation: And what
+    transliteration: wamā
+  2:
+    arabic: ظَنُّ
+    translation: (will be the) assumption
+    transliteration: ẓannu
+  3:
+    arabic: الَّذِيۡنَ
+    translation: (of) those who
+    transliteration: alladhīna
+  4:
+    arabic: يَفۡتَرُوۡنَ
+    translation: invent
+    transliteration: yaftarūna
+  5:
+    arabic: عَلَى
+    translation: against
+    transliteration: ʿalā
+  6:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  7:
+    arabic: الۡكَذِبَ
+    translation: the lie
+    transliteration: l-kadhiba
+  8:
+    arabic: يَوۡمَ
+    translation: (on) the Day
+    transliteration: yawma
+  9:
+    arabic: الۡقِيٰمَةِ​ؕ
+    translation: (of) the Judgment
+    transliteration: l-qiyāmati
+  10:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  11:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  12:
+    arabic: لَذُوۡ
+    translation: (is) surely Full (of) Bounty
+    transliteration: ladhū
+  13:
+    arabic: فَضۡلٍ
+    translation: (is) surely Full (of) Bounty
+    transliteration: faḍlin
+  14:
+    arabic: عَلَى
+    translation: to
+    transliteration: ʿalā
+  15:
+    arabic: النَّاسِ
+    translation: the mankind
+    transliteration: l-nāsi
+  16:
+    arabic: وَلٰـكِنَّ
+    translation: but
+    transliteration: walākinna
+  17:
+    arabic: اَكۡثَرَهُمۡ
+    translation: most of them
+    transliteration: aktharahum
+  18:
+    arabic: لَا
+    translation: (are) not
+    transliteration: lā
+  19:
+    arabic: "يَشۡكُرُوۡنَ‏ \uFEFF\uFEFF"
+    translation: grateful
+    transliteration: yashkurūna
+---
+
+## Context
+
+To understand **Jonah** (Yunus) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 'Abdur-Rahman bin Zayd bin Aslam and others said: "This Ayah was revealed to criticize the idolators for what they used to make lawful and unlawful. Like the Bahirah, Sa'ibah and Wasilah." As Allah said:
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Say: "Tell me, what provision Allah has sent down to you! In the third verse (59), warning has been given to people who introduce their personal opinion in the serious matter of Halal (lawful) and Haram (unlawful).
+
+## Tafsir Ibn Kathir
+
+Say: "Tell me, what provision Allah has sent down to you! And you have made of it lawful and unlawful." Say: "Has Allah permitted you (to do so), or do you invent a lie against Allah (59)And what think those who invent a lie against Allah, on the Day of Resurrection Truly,Allah is full of bounty to mankind, but most of them are ungrateful (60)
+
+None can make Anything Lawful or Unlawful except Allah or Those Whom Allah has allowed to do so
+
+Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 'Abdur-Rahman bin Zayd bin Aslam and others said: "This Ayah was revealed to criticize the idolators for what they used to make lawful and unlawful. Like the Bahirah, Sa'ibah and Wasilah." As Allah said:
+
+وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا
+
+(And they assign to Allah a share of the tilth and cattle which He has created.)[6:136] Imam Ahmad recorded a narration from Malik bin Nadlah who said, "I came to Allah's Messenger ﷺ while in filthy clothes. He said,
+
+هَلْ لَكَ مَالٌ؟
+
+(Do you have wealth) I answered, 'Yes.' He said,
+
+مِنْ أَيِّ الْمَالِ؟
+
+(what kind of wealth?) I answered, 'All kinds; camels, slaves, horses, sheep.' So he said,
+
+إِذَا آَتَاكَ اللَّهُ مَالًا فَلْيُرَ عَلَيْكَ
+
+(If Allah gives you wealth, then let it be seen on you.) Then he said,
+
+هَلْ تُنْتَجُ إِبْلُكَ صِحَاحًا آذَانُهَا، فَتَعْمِدَ إِلَى مُوسًى فَتَقْطَعَ آذَانَهَا، فَتَقُولُ: هَذِهِ بُحْرٌ، وَتَشُقُّ جُلُودَهَا وَتَقُولُ: هَذِهِ صُرُمٌ، وَتُحَرِّمُهَا عَلَيْكَ وَعَلَى أَهْلِكَ؟
+
+(It is not that your camels are born with healthy ears, you take a knife and cut them, then say, "This is a Bahr, " tear its skin, then say, ' This is a Sarm, " and prohibit them for yourself and your family) I replied, ' Yes. ' He said,
+
+فَإِنَّ مَا آتَاكَ اللهُ لَكَ حِلٌّ، سَاعِدُ اللهِ أَشَدُّ مِنْ سَاعِدِكَ، وَمُوسَى الله أَحَدُّ مِنْ مُوسَاكَ
+
+(What Allah has given you is lawful. Allah's Forearm is stronger than your forearm, and Allah's knife is sharper then your knife.)"
+
+And he mentioned the Hadith in its complete form, and the chain for this Hadith is a strong, good chain.
+
+Allah criticized those who make lawful what Allah has made unlawful or vice verse. This is because they are based on mere desires and false opinions that are not supported with evidence or proof. Allah then warned them with a promise of the Day of Resurrection. He asked:
+
+وَمَا ظَنُّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ يَوْمَ الْقِيَامَةِ
+
+(And what think those who invent a lie against Allah, on the Day of Resurrection?) What do they think will happen to them when they return to Us on the Day of Resurrection Ibn Jarir said that Allah's statement:
+
+إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ
+
+(Truly, Allah is full of bounty to mankind,) indicated that the bounty is in postponing their punishment in this world. I (Ibn Kathir) say, the meaning could be that the Grace for people is in the good benefits that He made permissible for them in this world or in their religion. He also has not prohibited them except what is harmful to them in their world and the Hereafter.
+
+وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ
+
+(but most of them are ungrateful.) So they prohibited what Allah has bestowed upon them and made it hard and narrow upon themselves. They made some things lawful and others unlawful. The idolators committed these actions when they set laws for themselves. And so did the People of the Book when they invented innovations in their religion.
+
+## Maarif ul Quran
+
+In the third verse (59), warning has been given to people who introduce their personal opinion in the serious matter of Halal (lawful) and Haram (unlawful). They would, at will, declare something to be Halal and dub something to be Haram - without any authority of the Qur'an, and Sunnah. A severe warning of no less a punishment than that of the day of Qiyamah has been given to those who commit this crime (60). This tells us that the fact of something being Halal or Haram does not depend on human opinion. Instead of that, it is the special right and prerogative of Allah Ta` ala and His Messenger. Without their injunctions, it is not permissible to call something either حلال Halal or حرام Haram.
+
+## Personal Reflections

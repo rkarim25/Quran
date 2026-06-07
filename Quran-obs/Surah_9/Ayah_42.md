@@ -1,0 +1,161 @@
+---
+arabic_ayat: لَوۡ كَانَ عَرَضًا قَرِيۡبًا وَّسَفَرًا قَاصِدًا لَّاتَّبَعُوۡكَ وَلٰـكِنۡۢ
+  بَعُدَتۡ عَلَيۡهِمُ الشُّقَّةُ ​ ؕ وَسَيَحۡلِفُوۡنَ بِاللّٰهِ لَوِ اسۡتَطَعۡنَا
+  لَخَـرَجۡنَا مَعَكُمۡ ۚ يُهۡلِكُوۡنَ اَنۡفُسَهُمۡ​ ۚ وَاللّٰهُ يَعۡلَمُ اِنَّهُمۡ
+  لَـكٰذِبُوۡنَ‏
+sentence_translation: Had the gain been within reach and the journey shorter, they
+  would have followed you, but the distance seemed too long for them. And they will
+  swear by Allah, “Had we been able, we would have certainly joined you.” They are
+  ruining themselves. And Allah knows that they are surely lying.
+word_by_word:
+  1:
+    arabic: لَوۡ
+    translation: If
+    transliteration: law
+  2:
+    arabic: كَانَ
+    translation: it had been
+    transliteration: kāna
+  3:
+    arabic: عَرَضًا
+    translation: a gain
+    transliteration: ʿaraḍan
+  4:
+    arabic: قَرِيۡبًا
+    translation: near
+    transliteration: qarīban
+  5:
+    arabic: وَّسَفَرًا
+    translation: and a journey
+    transliteration: wasafaran
+  6:
+    arabic: قَاصِدًا
+    translation: easy
+    transliteration: qāṣidan
+  7:
+    arabic: لَّاتَّبَعُوۡكَ
+    translation: surely they (would) have followed you
+    transliteration: la-ittabaʿūka
+  8:
+    arabic: وَلٰـكِنۡۢ
+    translation: but
+    transliteration: walākin
+  9:
+    arabic: بَعُدَتۡ
+    translation: was long
+    transliteration: baʿudat
+  10:
+    arabic: عَلَيۡهِمُ
+    translation: for them
+    transliteration: ʿalayhimu
+  11:
+    arabic: الشُّقَّةُ ​ ؕ
+    translation: the distance
+    transliteration: l-shuqatu
+  12:
+    arabic: وَسَيَحۡلِفُوۡنَ
+    translation: And they will swear
+    transliteration: wasayaḥlifūna
+  13:
+    arabic: بِاللّٰهِ
+    translation: by Allah
+    transliteration: bil-lahi
+  14:
+    arabic: لَوِ
+    translation: If
+    transliteration: lawi
+  15:
+    arabic: اسۡتَطَعۡنَا
+    translation: we were able
+    transliteration: is'taṭaʿnā
+  16:
+    arabic: لَخَـرَجۡنَا
+    translation: certainly we (would) have come forth
+    transliteration: lakharajnā
+  17:
+    arabic: مَعَكُمۡ ۚ
+    translation: with you
+    transliteration: maʿakum
+  18:
+    arabic: يُهۡلِكُوۡنَ
+    translation: They destroy
+    transliteration: yuh'likūna
+  19:
+    arabic: اَنۡفُسَهُمۡ​ ۚ
+    translation: their own selves
+    transliteration: anfusahum
+  20:
+    arabic: وَاللّٰهُ
+    translation: and Allah
+    transliteration: wal-lahu
+  21:
+    arabic: يَعۡلَمُ
+    translation: knows
+    transliteration: yaʿlamu
+  22:
+    arabic: اِنَّهُمۡ
+    translation: (that) indeed, they
+    transliteration: innahum
+  23:
+    arabic: لَـكٰذِبُوۡنَ‏
+    translation: (are) surely liars
+    transliteration: lakādhibūna
+---
+
+## Context
+
+To understand **The Repentance** (At-Tawbah) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Had it been a near gain and an easy journey, they would have followed you, but the distance was long for them; and they would swear by Allah: "If we only could, we would certainly have come forth with you." They destroy… The fifth verse (42) mentions an excuse offered by those who did not participate in the Jihad because of negligence and lethargy.
+
+## Tafsir Ibn Kathir
+
+Had it been a near gain and an easy journey, they would have followed you, but the distance was long for them; and they would swear by Allah: "If we only could, we would certainly have come forth with you." They destroy themselves, and Allah knows that they are liars (42)
+
+Why Hypocrites would not join in Jihad
+
+Allah admonishes those who lagged behind and did not join the Prophet ﷺ for the battle of Tabuk, those who asked the Prophet for permission to remain behind, falsely pretending to have legitimate reasons to do so,
+
+لَوْ كَانَ عَرَضًا قَرِيبًا
+
+(Had it been a near gain), booty right in front of them, according to Ibn 'Abbas,
+
+وَسَفَرًا قَاصِدًا
+
+(and an easy journey), travel for only a short distance,
+
+لَّاتَّبَعُوكَ
+
+(they would have followed you.) But,
+
+وَلَٰكِن بَعُدَتْ عَلَيْهِمُ الشُّقَّةُ
+
+(the distance was long for them), to Ash-Sham,
+
+وَسَيَحْلِفُونَ بِاللَّهِ
+
+(and they would swear by Allah), when you return to them,
+
+لَوِ اسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ
+
+(If we only could, we would certainly have come forth with you), had not there been a valid excuse, we would have gone out with you,
+
+يُهْلِكُونَ أَنفُسَهُمْ وَاللَّهُ يَعْلَمُ إِنَّهُمْ لَكَاذِبُونَ
+
+(They destroy themselves, and Allah knows that they are liars.)
+
+## Maarif ul Quran
+
+The fifth verse (42) mentions an excuse offered by those who did not participate in the Jihad because of negligence and lethargy. It was rejected as unacceptable because they did not use the ability given by Allah to pick and choose the right thing to do in His way. Therefore, the excuse of not having that ability is not valid.
+
+## Personal Reflections

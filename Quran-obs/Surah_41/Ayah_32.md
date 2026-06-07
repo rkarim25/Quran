@@ -1,0 +1,123 @@
+---
+arabic_ayat: نُزُلًا مِّنۡ غَفُوۡرٍ رَّحِيۡمٍ‏
+sentence_translation: an accommodation from the All-Forgiving, Most Merciful ˹Lord˺.”
+word_by_word:
+  1:
+    arabic: نُزُلًا
+    translation: A hospitable gift
+    transliteration: nuzulan
+  2:
+    arabic: مِّنۡ
+    translation: from
+    transliteration: min
+  3:
+    arabic: غَفُوۡرٍ
+    translation: (the) Oft-Forgiving
+    transliteration: ghafūrin
+  4:
+    arabic: رَّحِيۡمٍ‏
+    translation: (the) Most Merciful
+    transliteration: raḥīmin
+---
+
+## Context
+
+To understand **Explained in Detail** (Fussilat) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, those who say: "Our Lord is Allah," and then they stand firm, on them the angels will descend (saying): "Fear not, nor grieve! لَكُمْ فِيهَا مَا تَشْتَهِي أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ نُزُلًا مِّنْ غَفُورٍ‌ رَّ‌حِيمٍ (And for you here is whatever your souls desire, and for you here is whatever you call for.
+
+## Tafsir Ibn Kathir
+
+Verily, those who say: "Our Lord is Allah," and then they stand firm, on them the angels will descend (saying): "Fear not, nor grieve! But receive the glad tidings of Paradise which you have been promised! (30)"We have been your friends in the life of this world and are (so) in the Hereafter. Therein you shall have (all) that your souls desire, and therein you shall have (all) for which you ask. (31)"An entertainment from the Oft-Forgiving, Most Merciful. (32)
+
+Glad Tidings to Those Who believe in Allah Alone and stand firm
+
+إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+
+(Verily, those who say: "Our Lord is Allah," and then they stand firm,) means, they do good deeds sincerely for the sake of Allah, and they obey Allah, doing what Allah has prescribed for them. Ibn Jarir recorded that Sa'id bin 'Imran said, "I read this Ayah to Abu Bakr As-Siddiq, may Allah be pleased with him:
+
+إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+
+(Verily, those who say: "Our Lord is Allah," and then they stand firm,) He said, 'Those are the ones who do not associate anything with Allah.'" Then he reported a narration of Al-Aswad bin Hilal, who said, "Abu Bakr As-Siddiq, may Allah be pleased with him, said, 'What do you say about this Ayah:
+
+إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+
+(Verily, those who say: "Our Lord is Allah," and then they stand firm,)?' They said:
+
+رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا
+
+("Our Lord is Allah," and then they stand firm,) 'They shun sin.' He said, 'You have not interpreted it improperly.' They say: 'Our Lord is Allah, then they stand firm and do not turn to any other god besides Him.'" This was also the view of Mujahid, 'Ikrimah, As-Suddi and others.
+
+Ahmad recorded that Sufyan bin 'Abdullah Ath-Thaqafi said, "I said, 'O Messenger of Allah, tell me something that I can adhere to.' He ﷺ said:
+
+قُلْ: رَبِّيَ اللهُ، ثُمَّ اسْتَقِمْ
+
+(Say, my Lord is Allah, then stand firm.) I said, 'O Messenger of Allah, what do you fear most for me?' The Messenger of Allah ﷺ took hold of the edge of his tongue and said,
+
+هٰذَا
+
+(This is.)" This was also recorded by At-Tirmidhi and Ibn Majah; At-Tirmidhi said, "Hasan Sahih."
+
+Muslim also recorded it in his Sahih, and An-Nasa'i recorded that Sufyan bin 'Abdullah Ath-Thaqafi said, "I said, 'O Messenger of Allah, tell me something about Islam that I will not have to ask anyone about it after you.' He ﷺ said:
+
+قُلْ: آمَنْتُ بِاللهِ ثُمَّ اسْتَقِمْ
+
+(Say: I believe in Allah, then stand firm.)" – then he mentioned the rest of the Hadith.
+
+تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ
+
+(on them the angels will descend). Mujahid, As-Suddi, Zayd bin Aslam and his [Zayd's] son said, "This means, at the time of death, and they will say,
+
+أَلَّا تَخَافُوا
+
+(Fear not). " Mujahid, 'Ikrimah and Zayd bin Aslam said, "This means not to fear "that which you will face in the Hereafter."
+
+وَلَا تَحْزَنُوا
+
+(nor grieve!) 'for what you have left behind of worldly things, children, family, wealth and debt, for we will take care of it for you.'
+
+وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ
+
+(But receive the glad tidings of Paradise which you have been promised!) So they give glad tidings of the end of bad things and the arrival of good things. This is like what is said in the Hadith narrated by Al-Bara', may Allah be pleased with him:
+
+إِنَّ الْمَلَائِكَةَ تَقُولُ لِرُوحِ الْمُؤْمِنِ: اخْرُجِي أَيَّتُهَا الرُّوحُ الطَّيِّـبَةُ فِي الْجَسَدِ الطَّيِّبِ كُنْتِ تَعْمُرِينَهُ، اخْرُجِي إِلىٰ رَوْحٍ وَرَيْحَانٍ وَرَبٍّ غَيْرِ غَضْبَانَ
+
+(The angels say to the soul of the believer, "Come out, O good soul from the good body in which you used to dwell, come out to rest, and provision and a Lord Who is not angry.") It was said that the angels will come down to them on the Day when they are brought out of their graves. Zayd bin Aslam said, "They will give him glad tidings when he dies, in his grave, and when he is resurrected." This was recorded by Ibn Abi Hatim, and this view reconciles all the opinions; it is a good view and it is true.
+
+نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۖ
+
+(We have been your friends in the life of this world and are (so) in the Hereafter.) means, the angels will say to the believers when death approaches: "We have been your friends, i.e., your close companions, in this world, protecting you and helping you by the command of Allah, and we will be with you in the Hereafter, keeping you from feeling lonely in your graves and when the Trumpet is blown; we will reassure you on the Day of Resurrection and will take you across the Sirat and bring you to the Gardens of delight."
+
+وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنْفُسُكُمْ
+
+(Therein you shall have (all) that your souls desire,) means, 'in Paradise you will have all that you wish for and that will delight you.'
+
+وَلَكُمْ فِيهَا مَا تَدَّعُونَ
+
+(and therein you shall have (all) for which you ask.) means, 'whatever you ask for, it will appear before you as you wish it to be.'
+
+نُزُلًا مِنْ غَفُورٍ رَحِيمٍ
+
+(An entertainment from the Oft-Forgiving, Most Merciful.) means, 'a welcoming gift and a blessing from the One Who has forgiven your sins and Who is Merciful and Kind towards you, Who has forgiven you, concealed your faults and been Kind and Merciful.'
+
+## Maarif ul Quran
+
+لَكُمْ فِيهَا مَا تَشْتَهِي أَنفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ نُزُلًا مِّنْ غَفُورٍ‌ رَّ‌حِيمٍ (And for you here is whatever your souls desire, and for you here is whatever you call for. - 41:31-32) In other words, ` all your desires' would be fulfilled whether you request or you don't.' The word used after that is ` nuzulan'1 meaning hospitality indicates that many the delights provided to you there will be such that even desire had not entered your heart, as happens to a guest, specially of a great personage, that many such things also are presented to him that the guest had not even imagined. (Mazhari)
+
+1. This which originally means ` a thing prepared by a host to be offered to him soon after his arrival'. That is why it is translated by us above as a ` welcome-gift'. But for the sake of brevity and in general usage, it is generally translated as ` hospitality'. Muhammad Taqi Usmani
+
+It is stated in a Hadith that the Holy Prophet ﷺ said that in Paradise, if the desire comes into your heart to eat the flesh of a flying bird you are looking at it, it would immediately fall in front of you completely cooked, ready to eat. Some narrations have it that the bird would not have been touched either by fire or smoke, but would come down already cooked. (Al-Bazzar, Al-Baihaqi - narrated by Ibn Masud - Mazhari)
+
+In another Hadith, the Holy Prophet ﷺ said that if a Mu'min in Paradise wishes to have a child born in his house, the conception, delivery, weaning, growing into being an adult - all this would take place in a moment. (Tirmidhi, Baihaqi, etc. - Mazhari)
+
+## Personal Reflections

@@ -1,0 +1,155 @@
+---
+arabic_ayat: جَنّٰتُ عَدۡنٍ تَجۡرِىۡ مِنۡ تَحۡتِهَا الۡاَنۡهٰرُ خٰلِدِيۡنَ فِيۡهَا​
+  ؕ وَذٰ لِكَ جَزَآءُ مَنۡ تَزَكّٰى‏
+sentence_translation: the Gardens of Eternity, under which rivers flow, where they
+  will stay forever. That is the reward of those who purify themselves.
+word_by_word:
+  1:
+    arabic: جَنّٰتُ
+    translation: Gardens
+    transliteration: jannātu
+  2:
+    arabic: عَدۡنٍ
+    translation: (of) Eden
+    transliteration: ʿadnin
+  3:
+    arabic: تَجۡرِىۡ
+    translation: flows
+    transliteration: tajrī
+  4:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  5:
+    arabic: تَحۡتِهَا
+    translation: underneath them
+    transliteration: taḥtihā
+  6:
+    arabic: الۡاَنۡهٰرُ
+    translation: the rivers
+    transliteration: l-anhāru
+  7:
+    arabic: خٰلِدِيۡنَ
+    translation: abiding forever
+    transliteration: khālidīna
+  8:
+    arabic: فِيۡهَا​ ؕ
+    translation: in it
+    transliteration: fīhā
+  9:
+    arabic: وَذٰ لِكَ
+    translation: And that
+    transliteration: wadhālika
+  10:
+    arabic: جَزَآءُ
+    translation: (is) the reward
+    transliteration: jazāu
+  11:
+    arabic: مَنۡ
+    translation: (for him) who
+    transliteration: man
+  12:
+    arabic: تَزَكّٰى‏
+    translation: purifies himself
+    transliteration: tazakkā
+---
+
+## Context
+
+To understand **Ta-Ha** (Taha) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+It was the result of their brief association with Sayyidna Musa (علیہ السلام) that Allah, in an instant, revealed to them the mysteries of their new faith so that they gave scarce heed to Pharaoh's threats. Thus with the adoption of the religion of Allah they attained a state of sainthood which is given to others after long and assiduous exertions. Sayyidna Ibn ` Abbas and ` Ubaid Ibn ` Umair ؓ said it was a divine marvel that the magicians who started the day as infidels became saints before it ended. (Ibn Kathir)
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, whoever comes to his Lord as a criminal, then surely, for him is Hell, wherein he will neither die nor live (74)But whoever comes to Him as a believer, and has done righteous good deeds, for such are the high ran… Revolutionary change in the lives of the magicians Surely whoever comes to his Lord as a sinner, for him there is Jahannam .:..
+
+## Tafsir Ibn Kathir
+
+Verily, whoever comes to his Lord as a criminal, then surely, for him is Hell, wherein he will neither die nor live (74)But whoever comes to Him as a believer, and has done righteous good deeds, for such are the high ranks (75)'Adn Gardens, under which rivers flow, wherein they will abide forever, and such is the reward of those who purify themselves (76)
+
+The Magicians admonish Fir'awn
+
+The clear intent of this is to be a completion of what the magicians admonished Fir'awn with. They warned him of the vengeance of Allah and His eternal and everlasting punishment. They also encouraged him to seek Allah's eternal and endless reward. They said,
+
+إِنَّهُ مَن يَأْتِ رَبَّهُ مُجْرِمًا
+
+(Verily, whoever comes to his Lord as a criminal,) This means, whoever meets Allah on the Day of Judgment while being a criminal.
+
+فَإِنَّ لَهُ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+
+(then surely, for him is Hell, wherein he will neither die nor live.) This is similar to Allah's statement,
+
+لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِي كُلَّ كَفُورٍ
+
+(Neither will it have a complete killing effect on them so that they die, nor shall its torment be lightened for them. Thus do We requite every disbeliever!)[35:36] Allah also said,
+
+وَيَتَجَنَّبُهَا الْأَشْقَى - الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ - ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+
+(But it will be avoided by the wretched, who will enter the great Fire. There he will neither die nor live.)(87:11-13)
+
+وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّاكِثُونَ
+
+(And they will cry: "O Malik (Keeper of Hell)! Let your Lord made an end of us." He will say: "Verily, you shall abide forever.")(43:77) Imam Ahmad bin Hanbal recorded that Abu Sa'id Al-Khudri said that the Messenger of Allah ﷺ said,
+
+أَمَّا أَهْلُ النَّارِ الَّذِينَ هُمْ أَهْلُهَا، فَإِنَّهُمْ لَا يَمُوتُونَ فِيهَا وَلَا يَحْيَوْنَ، وَلكِنْ أُنَاسٌ تُصِيبُهُمُ النَّارُ بِذُنُوبِهِمْ فَتُمِيتُهُمْ إِمَاتَةً حَتَّى إِذَا صَارُوا فَحْمًا أُذِنَ فِي الشَّفَاعَةِ فَجِيءَ بِهِمْ ضَبَائِرَ ضَبَائِرَ، فَبُثُّوا عَلَى أَنْهَارِ الْجَنَّةِ، فَيُقَالُ: يَا أَهْلَ الْجَنَّةِ أَفِيضُوا عَلَيْهِمْ، فَيَنْبُتُونَ نَبَاتَ الْحِبَّةِ تَكُونُ فِي حَمِيلِ السَّيْلِ
+
+(The dwellers of Hellfire, who are those who deserve it, they will not die in it, nor will they be living. Rather, they will be a people who will be punished by the Fire due to their sins. It will be gradually killing them and devouring them until they become burnt coals. Then, intercession will be allowed and they will be brought (out of Hell) group by group and they will be spread on the rivers of Paradise. It will then be said, "O people of Paradise, pour (water) over them." Then, they will start to grow like the growing of a seed on the muddy banks of a flowing river.) A man among the people said, "It is as if the Messenger of Allah lived in the desert." This is how Muslim recorded this narration in his Sahih.
+
+Concerning Allah's statement,
+
+وَمَن يَأْتِهِ مُؤْمِنًا قَدْ عَمِلَ الصَّالِحَاتِ
+
+(But whoever comes to Him (Allah) as a believer, and has done righteous good deeds,) whoever meets his Lord on the Day of Judgment as a believer in his heart, then verily, his intentions in his heart will be affirmed to be true by his statements and deeds.
+
+فَأُولَٰئِكَ لَهُمُ الدَّرَجَاتُ الْعُلَىٰ
+
+(for such are the high ranks,) Paradise, which has the highest levels, the most tranquil rooms and the nicest homes. Imam Ahmad reported from 'Ubadah bin As-Samit that the Prophet ﷺ said,
+
+الْجَنَّةُ مِائَةُ دَرَجَةٍ مَا بَيْنَ كُلِّ دَرَجَتَيْنِ كَمَا بَيْنَ السَّمَاءِ وَالْأَرْضِ، وَالْفِرْدَوْسُ أَعْلَاهَا دَرَجَةً، وَمِنْهَا تَخْرُجُ الْأَنْهَارُ الْأَرْبَعَةُ، وَالْعَرْشُ فَوْقَهَا، فَإِذَا سَأَلْتُمُ اللهَ فَاسْأَلُوهُ الْفِرْدَوْسَ
+
+(Paradise has one hundred levels and between each level is a distance like the distance between the sky and the earth. Al-Firdaws is the name of the highest of its levels. From it springs the four rivers and the Throne is above it. Therefore, when you ask Allah, then ask Him for Al-Firdaws.) This narration was also recorded by At-Tirmidhi.
+
+In the Two Sahihs it is recorded that the Messenger of Allah ﷺ said,
+
+إِنَّ أَهْلَ عِلِّيِّينَ لَيَرَوْنَ مَنْ فَوْقَهُمْ كَمَا تَرَوْنَ الْكَوْكَبَ الْغَابِرَ فِي أُفُقِ السَّمَاءِ لِتَفَاضُلِ مَا بَيْنَهُمْ - قَالُوا: يَا رَسُولَ اللهِ! تِلْكَ مَنَازِلُ الْأَنْبِيَاءِ قَالَ: - بَلىٰ، وَالَّذِي نَفْسِي بِيَدِهِ رِجَالٌ آمَنُوا بِاللهِ وَصَدَّقُوا الْمُرْسَلِينَ
+
+(Verily, the people of the 'Illiyyin will see those who are above them just as you see the fading star in the horizon of the sky, due to the different status of virtue between them.) The people said, "O Messenger of Allah, these are the dwellings of the Prophets." He replied, (Of course. And I swear by the One Whom my soul is in His Hand, (it is for) men who had faith in Allah and they believed the Messengers.)
+
+In the Sunan collections this narration is mentioned with the additional wording,
+
+وَإِنَّ أَبَا بَكْرٍ وَعُمَرَ لَمِنْهُمْ وَأَنْعَمَا
+
+(And verily Abu Bakr and 'Umar are of them and they will be most favored.) His saying,
+
+جَنَّاتُ عَدْنٍ
+
+(Adn Gardens,) meaning established as a residence. It is merely used here in reference to the high ranks mentioned previously.
+
+تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا
+
+(under which rivers flow, wherein they will abide forever,) meaning that they will abide in it for eternity.
+
+وَذَٰلِكَ جَزَاءُ مَن تَزَكَّىٰ
+
+(and such is the reward of those who purify themselves.) One who purifies himself from dirt, filth and associating partners with Allah. This is the person who worships Allah alone, without ascribing partners to Him, and he follows the Messengers in the good they came with all that they claim.
+
+## Maarif ul Quran
+
+Revolutionary change in the lives of the magicians
+
+إِنَّهُ مَن يَأْتِ رَ‌بَّهُ مُجْرِ‌مً---- وَذَٰلِكَ جَزَاءُ مَن تَزَكَّىٰ
+
+Surely whoever comes to his Lord as a sinner, for him there is Jahannam .:.. And whoever comes to Him as a believer ... for such people there are the highest ranks.... (20:74-76)
+
+These words which refer to the Islamic beliefs and the hereafter have been spoken by the magician who only recently became Muslims and who had not yet been instructed about the principles and the obligations of the new faith.
+
+It was the result of their brief association with Sayyidna Musa (علیہ السلام) that Allah, in an instant, revealed to them the mysteries of their new faith so that they gave scarce heed to Pharaoh's threats. Thus with the adoption of the religion of Allah they attained a state of sainthood which is given to others after long and assiduous exertions. Sayyidna Ibn ` Abbas and ` Ubaid Ibn ` Umair ؓ said it was a divine marvel that the magicians who started the day as infidels became saints before it ended. (Ibn Kathir)
+
+## Personal Reflections

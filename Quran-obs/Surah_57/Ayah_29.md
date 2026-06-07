@@ -1,0 +1,176 @@
+---
+arabic_ayat: لِّـئَلَّا يَعۡلَمَ اَهۡلُ الۡكِتٰبِ اَلَّا يَقۡدِرُوۡنَ عَلٰى شَىۡءٍ
+  مِّنۡ فَضۡلِ اللّٰهِ​ وَاَنَّ الۡفَضۡلَ بِيَدِ اللّٰهِ يُؤۡتِيۡهِ مَنۡ يَّشَآءُ​
+  ؕ وَاللّٰهُ ذُوۡ الۡفَضۡلِ الۡعَظِيۡمِ‏
+sentence_translation: ˹This is so˺ that the People of the Book ˹who deny the Prophet˺
+  may know that they do not have any control over Allah’s grace, and that all grace
+  is in Allah’s Hands. He grants it to whoever He wills. For Allah is the Lord of
+  infinite bounty.
+word_by_word:
+  1:
+    arabic: لِّـئَلَّا
+    translation: So that
+    transliteration: li-allā
+  2:
+    arabic: يَعۡلَمَ
+    translation: may know
+    transliteration: yaʿlama
+  3:
+    arabic: اَهۡلُ
+    translation: (the) People
+    transliteration: ahlu
+  4:
+    arabic: الۡكِتٰبِ
+    translation: (of) the Book
+    transliteration: l-kitābi
+  5:
+    arabic: اَلَّا
+    translation: that not
+    transliteration: allā
+  6:
+    arabic: يَقۡدِرُوۡنَ
+    translation: they have power
+    transliteration: yaqdirūna
+  7:
+    arabic: عَلٰى
+    translation: over
+    transliteration: ʿalā
+  8:
+    arabic: شَىۡءٍ
+    translation: anything
+    transliteration: shayin
+  9:
+    arabic: مِّنۡ
+    translation: from
+    transliteration: min
+  10:
+    arabic: فَضۡلِ
+    translation: (the) Bounty
+    transliteration: faḍli
+  11:
+    arabic: اللّٰهِ​
+    translation: (of) Allah
+    transliteration: l-lahi
+  12:
+    arabic: وَاَنَّ
+    translation: and that
+    transliteration: wa-anna
+  13:
+    arabic: الۡفَضۡلَ
+    translation: the Bounty
+    transliteration: l-faḍla
+  14:
+    arabic: بِيَدِ
+    translation: (is) in Allah's Hand
+    transliteration: biyadi
+  15:
+    arabic: اللّٰهِ
+    translation: (is) in Allah's Hand
+    transliteration: l-lahi
+  16:
+    arabic: يُؤۡتِيۡهِ
+    translation: He gives it
+    transliteration: yu'tīhi
+  17:
+    arabic: مَنۡ
+    translation: whom
+    transliteration: man
+  18:
+    arabic: يَّشَآءُ​ ؕ
+    translation: He wills
+    transliteration: yashāu
+  19:
+    arabic: وَاللّٰهُ
+    translation: And Allah
+    transliteration: wal-lahu
+  20:
+    arabic: ذُوۡ
+    translation: (is) the Possessor of Bounty
+    transliteration: dhū
+  21:
+    arabic: الۡفَضۡلِ
+    translation: (is) the Possessor of Bounty
+    transliteration: l-faḍli
+  22:
+    arabic: الۡعَظِيۡمِ‏
+    translation: the Great
+    transliteration: l-ʿaẓīmi
+---
+
+## Context
+
+To understand **The Iron** (Al-Hadid) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This is unanimously a Madani Surah, and a study of its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! لِّئَلَّا يَعْلَمَ أَهْلُ الْكِتَابِ (so that the People of the Book may know ....57:29) The negative particle la [ no ] is grammatically redundant [ but rhetorically it serves to emphasise the expression ].
+
+## Tafsir Ibn Kathir
+
+O you who believe! Have Taqwa of Allah, and believe in His Messenger, He will give you a double portion of His mercy, and He will give you a light by which you shall walk (straight). And He will forgive you. And Allah is Oft-Forgiving, Most Merciful (28)So that the People of the Scriptures may know that they have no power whatsoever over the grace of Allah, and that (His) grace is in His Hand to bestow it on whomsoever He wills. And Allah is the Owner of great bounty (29)
+
+The Believers of the People of the Scriptures will earn Double their Rewards
+
+Earlier we mentioned a Hadith that An-Nasa'i collected from Ibn 'Abbas that this Ayah is about the People of the Scriptures who believe in Islam, and that they will earn double their reward if they do so. There is an Ayah in Surat Al-Qasas to support this meaning. Also, there is a Hadith from Ash-Sha'bi from Abu Burdah from his father from Abu Musa Al-Ash'ari that the Messenger of Allah ﷺ said,
+
+ثَلَاثَةٌ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ: رَجُلٌ مِنْ أَهْلِ الْكِتَابِ آمَنَ بِنَبِيِّهِ وَآمَنَ بِي فَلَهُ أَجْرَانِ، وَعَبْدٌ مَمْلُوكٌ أَدَّىٰ حَقَّ اللهِ وَحَقَّ مَوَالِيهِ فَلَهُ أَجْرَانِ، وَرَجُلٌ أَدَّبَ أَمَتَهُ فَأَحْسَنَ تَأْدِيبَهَا، ثُمَّ أَعْتَقَهَا وَتَزَوَّجَهَا فَلَهُ أَجْرَانِ
+
+(Three will get their reward twice. A believer from the People of the Scriptures who has been a true believer in his Prophet and then believes in me, will get a double reward. A slave who fulfills Allah's rights and obligations as well as the duties of his master, will get a double reward. A person who has a slave-girl and he educates her properly and teaches her good manners properly (without violence) and then manumits and marries her, will get a double reward.) This Hadith is recorded in the Two Sahihs. Ad-Dahhak, 'Utbah bin Abi Hakim and others agreed with Ibn 'Abbas in this, and Ibn Jarir preferred it.
+
+Allah the Exalted said in another Ayah,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا وَيُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَيَغْفِرْ لَكُمْ ۗ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
+
+(O you who believe! If you have Taqwa of Allah, He will grant you a criterion, and will expiate for you your sins, and forgive you; and Allah is Owner of the great bounty.)(8:29)
+
+Sa'id bin 'Abdul-'Aziz said, 'Umar bin Al-Khattab asked a Jewish rabbi, 'What is the maximum a reward would be increased for you?' He replied, 'A Kifl (portion) which is about three hundred and fifty good merits.' So 'Umar said, 'Praise be to Allah who gave us two Kifls.' Then Sa'id mentioned Allah's saying:
+
+يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ
+
+(He will give you a double portion of His mercy,) Sa'id said, "And the two Kifls on Friday are similar to that." This was recorded by Ibn Jarir.
+
+This view has support from the Hadith that Imam Ahmad recorded from 'Abdullah bin 'Umar that the Messenger of Allah ﷺ said,
+
+مَثَلُكُمْ وَمَثَلُ الْيَهُودِ وَالنَّصَارَىٰ كَمَثَلِ رَجُلٍ اسْتَعْمَلَ عُمَّالًا فَقَالَ: مَنْ يَعْمَلُ لِي مِنْ صَلَاةِ الصُّبْحِ إِلَىٰ نِصْفِ النَّهَارِ عَلَىٰ قِيرَاطٍ قِيرَاطٍ؟ أَلَا فَعَمِلَتِ الْيَهُودُ، ثُمَّ قَالَ: مَنْ يَعْمَلُ لِي مِنْ صَلَاةِ الظُّهْرِ إِلَىٰ صَلَاةِ الْعَصْرِ عَلَىٰ قِيرَاطٍ قِيرَاطٍ؟ أَلَا فَعَمِلَتِ النَّصَارَىٰ، ثُمَّ قَالَ: مَنْ يَعْمَلُ لِي مِنْ صَلَاةِ الْعَصْرِ إِلَىٰ غُرُوبِ الشَّمْسِ عَلَىٰ قِيرَاطَيْنِ قِيرَاطَيْنِ؟ أَلَا فَأَنْتُمُ الَّذِينَ عَمِلْتُمْ، فَغَضِبَ النَّصَارَىٰ وَالْيَهُودُ وَقَالُوا: نَحْنُ أَكْثَرُ عَمَلًا وَأَقَلُّ عَطَاءً، قَالَ: هَلْ ظَلَمْتُكُمْ مِنْ أَجْرِكُمْ شَيْئًا؟ قَالُوا: لَا، قَالَ: فَإِنَّمَا هُوَ فَضْلِي أُوتِيهِ مَنْ أَشَاءُ
+
+(The parable of you and the Jews and Christians is that of a person who employed some laborers and asked them, "Who will work for me from the Dawn prayer until midday for one Qirat (a special weight of gold) each?" So, the Jews worked. The person asked, "Who will do the work for me from the Zuhr prayer to the time of the 'Asr prayer for one Qirat each?" So, the Christians worked. Then the person asked, "Who will do the work for me from 'Asr prayer until sunset for two Qirat each" You are those who did this work. The Jews and the Christians got angry and said, "We did more work, but got less wages." Allah said, "Have I been unjust to you with your reward?" They said, "No." So, Allah said, "Then it is My grace which I bestow on whomever I will.") Al-Bukhari collected this Hadith.
+
+Al-Bukhari recorded that Abu Musa said that the Prophet ﷺ said,
+
+مَثَلُ الْمُسْلِمِينَ وَالْيَهُودِ وَالنَّصَارَىٰ كَمَثَلِ رَجُلٍ اسْتَعْمَلَ قَوْمًا يَعْمَلُونَ لَهُ عَمَلًا يَوْمًا إِلَى اللَّيْلِ عَلَىٰ أَجْرٍ مَعْلُومٍ، فَعَمِلُوا إِلَىٰ نِصْفِ النَّهَارِ فَقَالُوا: لَا حَاجَةَ لَنَا فِي أَجْرِكَ الَّذِي شَرَطْتَ لَنَا، وَمَا عَمِلْنَا بَاطِلٌ، فَقَالَ لَهُمْ: لَا تَفْعَلُوا، أَكْمِلُوا بَقِيَّةَ عَمَلِكُمْ، وَخُذُوا أَجْرَكُمْ كَامِلًا، فَأَبَوا وَتَرَكُوا وَاسْتَأْجَرَ آخَرِينَ بَعْدَهُمْ فَقَالَ: أَكْمِلُوا بَقِيَّةَ يَوْمِكُمْ وَلَكُمُ الَّذِي شَرَطْتُ لَهُمْ مِنَ الْأَجْرِ، فَعَمِلُوا حَتّٰى إِذَا كَانَ حِينَ صَلَّوُا الْعَصْرَ قَالُوا: مَا عَمِلْنَا بَاطِلٌ، وَلَكَ الْأَجْرُ الَّذِي جَعَلْتَ لَنَا فِيهِ. فَقَالَ: أَكْمِلُوا بَقِيَّةَ عَمَلِكُمْ، فَإِنَّمَا بَقِيَ مِنَ النَّهَارِ شَيْءٌ يَسِيرٌ، فَأَبَوا. فَاسْتَأْجَرَ قَوْمًا أَنْ يَعْمَلُوا لَهُ بَقِيَّةَ يَوْمِهِمْ فَعَمِلُوا لَهُ بَقِيَّةَ يَوْمِهِمْ حَتّٰى غَابَتِ الشَّمْسُ، فَاسْتَكْمَلُوا أُجْرَةَ الْفَرِيقَيْنِ كِلَيْهِمَا، فَذٰلِكَ مَثَلُهُمْ وَمَثَلُ مَا قَبِلُوا مِنْ هٰذَا النُّورِ
+
+(The parable of the Muslims, Jews and Christians is that of a man who employed laborers to work for him from morning until night for a known wage. So, they worked until midday and said, 'We are not in need of the wages that you promised and our work was in vain.' So, the man said, 'Do not quit now, complete the rest of the work and yours will be the full wage I have fixed for it.' However, they refused and quit, and he had to hire another batch of workers. He said (to the second batch), 'Complete the work for the rest of the day and I will give you the same wage I promised the first batch.' So, they worked until the time of the 'Asr prayer and said, 'Whatever we have done is in vain and we forfeit the wages you promised us.' He said to them, 'Complete your day's work, for only a small part of the day remains.' However, they refused, and he employed another batch to work for the rest of the day, and they worked until sunset and received the wages of the two former batches. This is an example of them (i.e., the Jews and Christians) and of those who accepted this light (i.e., Islam).) Al-Bukhari was alone in recording it.
+
+Allah the Exalted said;
+
+لِئَلَّا يَعْلَمَ أَهْلُ الْكِتَابِ أَلَّا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِنْ فَضْلِ اللَّهِ ۙ
+
+(So that the People of the Scriptures may know that they have no power whatsoever over the grace of Allah,) meaning, so that they become sure that they cannot prevent what Allah gives, or give what Allah prevents,
+
+وَأَنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ
+
+(and that (His) grace is (entirely) in His Hand to bestow it on whomsoever He wills. And Allah is the Owner of great bounty.)
+
+This is the end of the Tafsir of Surat Al-Hadid, all praise is due to Allah, and all favors come from Him.
+
+## Maarif ul Quran
+
+لِّئَلَّا يَعْلَمَ أَهْلُ الْكِتَابِ (so that the People of the Book may know ....57:29) The negative particle la [ no ] is grammatically redundant [ but rhetorically it serves to emphasise the expression ]. This final verse states that the People of the Book need to know that faith in Prophet ` Isa (علیہ السلام) is not necessarily faith in the Prophet Muhammad ﷺ . In the circumstances, they do not deserve any Divine grace unless they embrace faith in the Last Prophet t. Allah, the Pure and Exalted, knows best!
+
+Alhamdulillah
+
+The Commentary on
+
+Surah Al-Hadid
+
+Ends here
+
+## Personal Reflections

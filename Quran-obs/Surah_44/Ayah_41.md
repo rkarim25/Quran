@@ -1,0 +1,115 @@
+---
+arabic_ayat: "يَوۡمَ لَا يُغۡنِىۡ مَوۡلًى عَنۡ مَّوۡلًى شَيۡــًٔا وَّلَا هُمۡ يُنۡصَرُوۡنَۙ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: the Day no kith or kin will be of benefit to another whatsoever,
+  nor will they be helped,
+word_by_word:
+  1:
+    arabic: يَوۡمَ
+    translation: (The) Day
+    transliteration: yawma
+  2:
+    arabic: لَا
+    translation: not
+    transliteration: lā
+  3:
+    arabic: يُغۡنِىۡ
+    translation: will avail
+    transliteration: yugh'nī
+  4:
+    arabic: مَوۡلًى
+    translation: a relation
+    transliteration: mawlan
+  5:
+    arabic: عَنۡ
+    translation: for
+    transliteration: ʿan
+  6:
+    arabic: مَّوۡلًى
+    translation: a relation
+    transliteration: mawlan
+  7:
+    arabic: شَيۡــًٔا
+    translation: anything
+    transliteration: shayan
+  8:
+    arabic: وَّلَا
+    translation: and not
+    transliteration: walā
+  9:
+    arabic: هُمۡ
+    translation: they
+    transliteration: hum
+  10:
+    arabic: "يُنۡصَرُوۡنَۙ‏ \uFEFF\uFEFF"
+    translation: will be helped
+    transliteration: yunṣarūna
+---
+
+## Context
+
+To understand **The Smoke** (Ad-Dukhan) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَـٰكِنَّ أَكْثَرَ‌هُمْ لَا يَعْلَمُونَ "We did not create them but with true purpose, yet most of them do not know.
+
+## Tafsir Ibn Kathir
+
+This World was created for a Wisdom
+
+Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. This is like the Ayah:
+
+وَمَا خَلَقْنَا السَّمَآءَ وَالاٌّرْضَ وَمَا بَيْنَهُمَا بَـطِلاً ذَلِكَ ظَنُّ الَّذِينَ كَفَرُواْ فَوَيْلٌ لِّلَّذِينَ كَفَرُواْ مِنَ النَّارِ
+
+(And We created not the heaven and the earth and all that is between them without purpose! That is the consideration of those who disbelieve! Then woe to those who disbelieve from the Fire!) (38:27)
+
+أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـكُمْ عَبَثاً وَأَنَّكُمْ إِلَيْنَا لاَ تُرْجَعُونَ - فَتَعَـلَى اللَّهُ الْمَلِكُ الْحَقُّ لاَ إِلَـهَ إِلاَّ هُوَ رَبُّ الْعَرْشِ الْكَرِيمِ
+
+(Did you think that We had created you in play, and that you would not be brought back to Us So Exalted be Allah, the True King: La ilaha illa Huwa, the Lord of the Supreme Throne!) (23:115-116) Then Allah says:
+
+إِنَّ يَوْمَ الْفَصْلِ مِيقَـتُهُمْ أَجْمَعِينَ
+
+(Verily, the Day of Judgement is the time appointed for all of them) This is the Day of Resurrection, when Allah will judge between all creatures, and He will punish the disbelievers and reward the believers.
+
+مِيقَـتُهُمْ أَجْمَعِينَ
+
+(is the time appointed for all of them) means, He will gather all of them, the first and the last of them.
+
+يَوْمَ لاَ يُغْنِى مَوْلًى عَن مَّوْلًى شَيْئاً
+
+(The Day when a near relative cannot avail a near relative in aught,) means, no relative will be able to help another relative. This is like the Ayah:
+
+فَإِذَا نُفِخَ فِى الصُّورِ فَلاَ أَنسَـبَ بَيْنَهُمْ يَوْمَئِذٍ وَلاَ يَتَسَآءَلُونَ
+
+(Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another.) (23:101)
+
+وَلاَ يَسْـَلُ حَمِيمٌ حَمِيماً يُبَصَّرُونَهُمْ
+
+(And no friend will ask a friend (about his condition). Though they shall be made to see one another) (70:10-11) which means, he will not ask his brother about how he is, even though he can see him with his own eyes.
+
+وَلاَ هُمْ يُنصَرُونَ
+
+(and no help can they receive,) means, no relative will help another, and no help will come to him from outside.
+
+إِلاَّ مَن رَّحِمَ اللَّهُ
+
+(Except him on whom Allah has mercy.) means, and nothing will be of any avail that Day except the mercy of Allah towards His creation.
+
+إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, He is the All-Mighty, the Most Merciful.) means, he is the Almighty, with immense mercy.
+
+## Maarif ul Quran
+
+مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَـٰكِنَّ أَكْثَرَ‌هُمْ لَا يَعْلَمُونَ "We did not create them but with true purpose, yet most of them do not know. (44:39) " In other words, every wise and thinking person should realise that there is a purpose and objective for creating this universe. The heavens and the earth and everything created in them manifest many realities. Examples are: (1) the manifestation of Divine power; (2) the possibility of the Hereafter. Obviously, the Supreme Creator Who drew out such huge bodies from the realm of non-existence into the realm of existence surely has the power to destroy them and re-create them; (3) the need for retribution (reward/punishment). If there is no retribution in the Hereafter, the very existence of the universe would be rendered purposeless or its purpose would be defeated. The wisdom underlying the creation of the universe is to make it dar-ul-imtihan (the domain of test-n-trial) and the Hereafter is the domain of reward and punishment. Otherwise, the outcome of both good and bad will necessarily be the same. This is far from Divine wisdom, or not in keeping with Divine wisdom; and (4) urging the thinking people to obey Allah and thank Him for having granted man this entire universe or creation as His great blessing
+
+## Personal Reflections

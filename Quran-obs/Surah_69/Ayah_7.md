@@ -1,0 +1,252 @@
+---
+arabic_ayat: سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٍ وَّثَمٰنِيَةَ اَيَّامٍۙ حُسُوۡمًا
+  ۙ فَتَرَى الۡقَوۡمَ فِيۡهَا صَرۡعٰىۙ كَاَنَّهُمۡ اَعۡجَازُ نَخۡلٍ خَاوِيَةٍ​ ۚ‏
+sentence_translation: which Allah unleashed on them non-stop for seven nights and
+  eight days, so that you would have seen its people lying dead like trunks of uprooted
+  palm trees.
+word_by_word:
+  1:
+    arabic: سَخَّرَهَا
+    translation: Which He imposed
+    transliteration: sakharahā
+  2:
+    arabic: عَلَيۡهِمۡ
+    translation: upon them
+    transliteration: ʿalayhim
+  3:
+    arabic: سَبۡعَ
+    translation: (for) seven
+    transliteration: sabʿa
+  4:
+    arabic: لَيَالٍ
+    translation: nights
+    transliteration: layālin
+  5:
+    arabic: وَّثَمٰنِيَةَ
+    translation: and eight
+    transliteration: wathamāniyata
+  6:
+    arabic: اَيَّامٍۙ
+    translation: days
+    transliteration: ayyāmin
+  7:
+    arabic: حُسُوۡمًا ۙ
+    translation: (in) succession
+    transliteration: ḥusūman
+  8:
+    arabic: فَتَرَى
+    translation: so you would see
+    transliteration: fatarā
+  9:
+    arabic: الۡقَوۡمَ
+    translation: the people
+    transliteration: l-qawma
+  10:
+    arabic: فِيۡهَا
+    translation: therein
+    transliteration: fīhā
+  11:
+    arabic: صَرۡعٰىۙ
+    translation: fallen
+    transliteration: ṣarʿā
+  12:
+    arabic: كَاَنَّهُمۡ
+    translation: as if they were
+    transliteration: ka-annahum
+  13:
+    arabic: اَعۡجَازُ
+    translation: trunks
+    transliteration: aʿjāzu
+  14:
+    arabic: نَخۡلٍ
+    translation: (of) date-palms
+    transliteration: nakhlin
+  15:
+    arabic: خَاوِيَةٍ​ ۚ‏
+    translation: hollow
+    transliteration: khāwiyatin
+---
+
+## Context
+
+To understand **The Reality** (Al-Haqqah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This too is one of the earliest surahs to be revealed at Makkah. Its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ (seven nights and eight consecutive days'...
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+الْحَاقَّةُ - مَا الْحَاقَّةُ - وَمَا أَدْرَاكَ مَا الْحَاقَّةُ - كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ - فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ - وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ - سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ - فَهَلْ تَرَىٰ لَهُمْ مِنْ بَاقِيَةٍ - وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ - فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً - إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ - لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
+
+(1. Al-Haqqah!)(2. What is Al-Haqqah?)(3. And what will make you know what Al-Haqqah is?)(4. Thamud and 'Ad denied the Qari'ah!)(5. As for Thamud, they were destroyed by the Taghiyah!)(6. And as for 'Ad, they were destroyed by a wind, Sarsar 'Atiyah!)(7. Which Allah imposed on them for seven nights and eight days Husum, so that you could see men lying toppled, as if they were trunks of date palms, Khawiyah!)(8. Do you see any remnants of them?)(9. And Fir'awn, and those before him, and the cities overthrown committed Al-Khati'ah.)(10. And they disobeyed their Lord's Messenger, so He seized them with a punishment that was Rabiyah.)(11. Verily, when the water rose beyond its limits, We carried you in the ship.)(12. That We might make it an admonition for you and that it might be retained by the retaining ears.)
+
+Warning concerning the Greatness of the Day of Judgement
+
+Al-Haqqah is one of the names of the Day of Judgement, because during it the promise and the threat will inevitably occur. Due to this, Allah has declared the greatness of this matter. So He says,
+
+وَمَا أَدْرَاكَ مَا الْحَاقَّةُ
+
+(And what will make you know what Al-Haqqah is?)
+
+Mention of the Destruction of the Nations
+
+Then Allah mentions the destruction of the nations that denied the Resurrection. He says,
+
+فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ
+
+(As for Thamud, they were destroyed by the Taghiyah!)
+
+It is the cry which will silence them, and the quake that will silence them. Qatadah said similar to this when he said, "At-Taghiyah is the shout." Mujahid said, "At-Taghiyah means the sins." This was also said by Ar-Rabi' bin Anas and bin Zayd. They said that it means transgression. After mentioning this, Ibn Zayd recited the following Ayat as proof for his statement,
+
+كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا
+
+(Thamud denied through their transgression.)(91:11) Then Allah says,
+
+وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ
+
+(And as for 'Ad, they were destroyed by a wind Sarsar) meaning, a cold wind. Qatadah, As-Suddi, Ar-Rabi' bin Anas and Ath-Thawri all said about,
+
+عَاتِيَةٍ
+
+('Atiyah) "This means severe blowing of the wind." Qatadah said, "It blew fiercely upon them until it pierced their hearts." Ad-Dahhak said,
+
+صَرْصَرٍ
+
+(Sarsar) "This means cold, and
+
+عَاتِيَةٍ
+
+('Atiyah) means, it blew fiercely upon them without any mercy or blessing." 'Ali and others said, "It blew fiercely upon their stored harvest until it was brought out worthless."
+
+سَخَّرَهَا عَلَيْهِمْ
+
+(Which Allah imposed on them) meaning, He made it overpower them.
+
+سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا
+
+(for seven nights and eight days Husum,) Husum means, complete, successive and unfortunately evil. Ibn Mas'ud, Ibn 'Abbas, Mujahid, 'Ikrimah, Ath-Thawri and others all said, "Husum means in succession." It has been reported that 'Ikrimah and Ar-Rabi' bin Khuthaym both said, "It means it was unfortunately evil upon them." This is similar to Allah's statement,
+
+فِي أَيَّامٍ نَحِسَاتٍ
+
+(in days of calamity)(41: 16) It has been said that it is that which people now call A'jaz (apparently used to mean evil devastation). It seems as though the people took this term from Allah's statement,
+
+فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ
+
+(so that you could see the people lying toppled, as if they were A'jaz (trunks) of date palms, Khawiyah!) Ibn 'Abbas said about,
+
+خَاوِيَةٍ
+
+(Khawiyah) "It means ruined." Others besides him said, "It means dilapidated." This means that the wind would cause one of them (palm tree) to hit the ground, and it will fall down dead on his head. Then his head would shatter and it would remain a lifeless corpse as if it were without branches, motionless. It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said,
+
+نُصِرْتُ بِالصَّبَا وَأُهْلِكَتْ عَادٌ بِالدَّبُورِ
+
+(I was helped by an easterly wind and the people of 'Ad were destroyed by a westerly wind.)
+
+فَهَلْ تَرَىٰ لَهُمْ مِنْ بَاقِيَةٍ
+
+(Do you see any remnants of them?) meaning, 'do you find any one of them left or anyone who even attributes himself to being from them?' Rather they are all gone, right down to the last of them, and Allah did not make for them any successors. Then Allah says,
+
+وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ
+
+(And Fir'awn and those before him committed (sin)) This has been recited with a Kasrah under the letter Qaf (in the word Qabalahu, as Qiblahu), which changes the meaning to those who were with him in his time, and they were his followers who were disbelieving Coptic people. Others recited it with a Fathah over the letter Qaf (as the word Qablahu), which means those nations before him who were similar to him. Concerning Allah's statement,
+
+وَالْمُؤْتَفِكَاتُ
+
+(the overthrown cities) those nations that rejected their Messengers.
+
+بِالْخَاطِئَةِ
+
+(committed Al-Khati'ah.) Al-Khati'ah means their rejection of what Allah revealed. Ar-Rabi' said,
+
+بِالْخَاطِئَةِ
+
+(committed Al-Khati'ah.) "This means disobedience." Mujahid said, "They committed errors." Thus, Allah says,
+
+فَعَصَوْا رَسُولَ رَبِّهِمْ
+
+(And they disobeyed their Lord's Messenger,) meaning they were all of the same type, they all denied the Messenger of Allah who was sent to them. As Allah says,
+
+كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ وَعِيدِ
+
+(Everyone of them denied the Messengers, so My threat took effect.) So whoever denies a Messenger, then verily, he denies all of the Messengers. This is as Allah says,
+
+كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ
+
+(The people of Nuh belied the Messengers)(26:105)
+
+كَذَّبَتْ عَادٌ الْمُرْسَلِينَ
+
+('Ad belied the Messengers.)(26:123)
+
+كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ
+
+(Thamud belied the Messengers.) However, only one Messenger came to every nation. Thus, Allah says here,(26:141)
+
+فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً
+
+(And they disobeyed their Lord's Messenger, so He seized them with a punishment that was Rabiyah.) Rabiyah means, great, severe and painful. Mujahid said, "Rabiyah means severe." As-Suddi said, "It means destructive."
+
+A Reminder about the Blessing of the Ship
+
+Then, Allah says,
+
+إِنَّا لَمَّا طَغَى الْمَاءُ
+
+(Verily, when the water rose beyond its limits,) meaning, it rose up over its shores by the leave of Allah and it overcame all that existed. Ibn 'Abbas and others said, "The water rising beyond its boundary means it increased abundantly." This happened due to the supplication of Nuh against his people when they denied him, opposed him and worshipped other than Allah.
+
+Therefore, Allah answered his supplication and the people of the earth were covered with the flood except for those who were with Nuh in the ship. Thus, are humans all from the loins of Nuh and his progeny. For this reason Allah reminds humanity of His blessing,
+
+إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ
+
+(Verily, when the water rose beyond its limits, We carried you in the ship.) meaning, a ship running along upon the surface of the water.
+
+لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً
+
+(That We might make it an admonition for you) The pronoun "it" here refers to the species of the object (ships) due to the general meaning alluding to this. Thus, the meaning is, 'We caused its type of creation (ships) to remain (in the earth) for you, so that you ride upon the currents of the water in the seas. ' This is as Allah says,
+
+وَجَعَلَ لَكُمْ مِنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْكَبُونَ - لِتَسْتَوُوا عَلَىٰ ظُهُورِهِ ثُمَّ تَذْكُرُوا نِعْمَةَ رَبِّكُمْ إِذَا اسْتَوَيْتُمْ عَلَيْهِ
+
+(and has appointed for you ships and cattle on which you ride; In order that you may mount on their backs, and then may remember the favor of your Lord when you mount thereon)(43:12-13) And Allah said,
+
+وَآيَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ - وَخَلَقْنَا لَهُم مِّن مِّثْلِهِ مَا يَرْكَبُونَ
+
+(And an Ayah for them is that We bore their offspring in the laden ship. And We have created for them of the like thereunto, on which they ride.)(36:41,42)
+
+Qatadah said, "Allah caused this ship to remain until the first people of this Ummah saw it." However, the first view (that it refers to all ships in general) is the most apparent. Allah continues saying,
+
+وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
+
+(and that it might be retained by the retaining ears.) meaning, that a receptive ear may understand and reflect upon this bounty. Ibn 'Abbas said, "This means an ear that is retentive and hearing." Qatadah said,
+
+أُذُنٌ وَاعِيَةٌ
+
+(by the retaining ears.) means, "An ear that Allah gives intelligence, so it benefits by what it hears from Allah's Book." Ad-Dahhak said,
+
+وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
+
+(and that it might be retained by the retaining ears.)(69:12) means, "An ear that hears it and retains it, meaning the person who has sound hearing, and correct intellect." And this is general concerning everyone who understands and retains.
+
+## Maarif ul Quran
+
+سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ (seven nights and eight consecutive days'... 69:7). According to some of the narratives, the punishment of windstorm started on Wednesday morning, and lasted till the following Wednesday evening. In this way, it makes up eight days and seven nights.
+
+The word husuman (in verse 7) is the plural of hasim and means 'cutting them off entirely' or 'causing them to perish completely'.
+
+The word مُؤْتَفِكَاتُ mu'tafikat (in verse 9) means 'adjacent to one another'. The towns of Sayyidna Lut Sodom and Gomorrah, are so called because they were adjacent to each other or because when the punishment overtook the disbelievers and criminals overthrowing their towns ], they were all jumbled up.1
+
+(1) Another possible meaning of mu'tafikat is 'overthrown' as mentioned by several exegetes. The translation in the text is based on this meaning. Muhammad Taqi Usmani
+
+## Personal Reflections

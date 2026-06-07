@@ -1,0 +1,127 @@
+---
+arabic_ayat: وَاِنۡ كَانُوۡا لَيَقُوۡلُوۡنَۙ‏
+sentence_translation: They certainly used to say,
+word_by_word:
+  1:
+    arabic: وَاِنۡ
+    translation: And indeed
+    transliteration: wa-in
+  2:
+    arabic: كَانُوۡا
+    translation: they used to
+    transliteration: kānū
+  3:
+    arabic: لَيَقُوۡلُوۡنَۙ‏
+    translation: say
+    transliteration: layaqūlūna
+---
+
+## Context
+
+To understand **Those who set the Ranks** (As-Saffat) 167, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+So, verily you and those whom you worshi (161)Cannot lead astray (162)Except those who are predestined to burn in Hell (163)And there is not one of us (angels) but has his known place (164)And verily, we (angels), we stand in rows (165)And verily, we (angels) indeed are those who glorify (166)And indeed they used to say (167)"If we had a reminder as had the men of old, (168)"We would have indeed been the chosen servants of Allah! After having provided proofs of the basic beliefs of Islam, these verses now mention the obstinacy of the disbelievers.
+
+## Tafsir Ibn Kathir
+
+So, verily you and those whom you worshi (161)Cannot lead astray (162)Except those who are predestined to burn in Hell (163)And there is not one of us (angels) but has his known place (164)And verily, we (angels), we stand in rows (165)And verily, we (angels) indeed are those who glorify (166)And indeed they used to say (167)"If we had a reminder as had the men of old, (168)"We would have indeed been the chosen servants of Allah! (169)But (now) they disbelieve therein, so they will come to know (170)
+
+No One believes what the Idolators say except Those Who are even more misguided than They
+
+Allah says, addressing the idolators:
+
+فَإِنَّكُمْ وَمَا تَعْبُدُونَ - مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ - إِلَّا مَنْ هُوَ صَالِ الْجَحِيمِ
+
+(So, verily you and those whom you worship cannot lead astray, except those who are predestined to burn in Hell!) meaning, 'the only ones who will believe what you say and follow your misguided ways of false worship are those who are more misguided than you and are created for Hell.'
+
+لَهُمْ قُلُوبٌ لَا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَا يُبْصِرُونَ بِهَا وَلَهُمْ آذَانٌ لَا يَسْمَعُونَ بِهَا ۚ أُولَٰئِكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ ۚ أُولَٰئِكَ هُمُ الْغَافِلُونَ
+
+(They have hearts wherewith they understand not, and they have eyes wherewith they see not, and they have ears wherewith they hear not (the truth). They are like cattle, nay even more astray; those! They are the heedless ones.)(7:179).
+
+This is the parable of the people who follow the belief and ideas of Shirk, disbelief and misguidance, as Allah says:
+
+إِنَّكُمْ لَفِي قَوْلٍ مُخْتَلِفٍ - يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+
+(Certainly, you have different ideas. Turned aside therefrom is he who is turned aside (by the decree of Allah).)(51:8-9) meaning, the one who is misled by it is the one who is turned aside.
+
+The Place of the Angels and Their Ranks glorify Allah
+
+Then Allah says, declaring the angels to be above the position attributed to them by those who disbelieved in them and told lies about them – that they are the daughters of Allah –
+
+وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ
+
+(And there is not one of us (angels) but has his known place;) meaning, each one has his own place in the heavens and in the places of worship, which he does not overstep. Ad-Dahhak said in his Tafsir:
+
+وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ
+
+"(And there is not one of us (angels) but has his known place;) Masruq used to narrate that 'A'ishah, may Allah be pleased with her, said, 'The Messenger of Allah ﷺ said:
+
+مَا مِنَ السَّمَاءِ الدُّنْيَا مَوْضِعٌ إِلَّا عَلَيْهِ مَلَكٌ سَاجِدٌ أَوْ قَائِمٌ
+
+(There is no place in the lower heaven without an angel standing or prostrating in it.) This is what Allah says:
+
+وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ
+
+(And there is not one of us (angels) but has his known place (or position))." It was reported that Ibn Mas'ud said, "In the heavens there is one heaven in which there is no space a hand span wide but there is the forehead or the foot of an angel on it. " Then he recited:
+
+وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ
+
+(And there is not one of us (angels) but has his known place;) Sa'id bin Jubayr similarly said:
+
+وَإِنَّا لَنَحْنُ الصَّافُّونَ
+
+(And we (angels), we stand in rows.) means, we stand in rows to worship, as we have already seen in the Ayah
+
+وَالصَّافَّاتِ صَفًّا
+
+(By those ranged in ranks (or rows)) Abu Nadrah said, "When the Iqamah had been given, 'Umar, may Allah be pleased with him, would turn to face the people and say: 'Make your rows straight, for Allah wants you to follow the ways of the angels.' Then he would say,
+
+وَإِنَّا لَنَحْنُ الصَّافُّونَ
+
+(And verily, we stand in rows;) 'Move back, O so-and-so, move forward, O so-and-so.' Then he would go forward and say 'Allahu Akbar'." This was recorded by Ibn Abi Hatim and Ibn Jarir.
+
+In Sahih Muslim it is narrated that Hudhayfah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said,
+
+فُضِّلْنَا عَلَى النَّاسِ بِثَلَاثٍ: جُعِلَتْ صُفُوفُنَا كَصُفُوفِ الْمَلَائِكَةِ،وَجُعِلَتْ لَنَا الْأَرْضُ مَسْجِدًا، وَتُرْبَتُهَا طَهُورًا
+
+(We have been favored above mankind in three things: our rows have been made like the rows of the angels; the whole earth has been made a place of prayer for us; and its soil is a means of purification for us.)"
+
+وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ
+
+(And verily, we indeed are those who glorify.) means, 'we stand in rows and glorify the Lord, praising Him, sanctifying Him and declaring Him to be above any faults or shortcomings. We are servants of Him and in need of Him, humbling ourselves before Him.'
+
+The Quraysh wished that They could have a Reminder as had the Men of old
+
+وَإِنْ كَانُوا لَيَقُولُونَ - لَوْ أَنَّ عِنْدَنَا ذِكْرًا مِنَ الْأَوَّلِينَ - لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ
+
+(And indeed they used to say: "If we had a reminder as had the men of old, we would have indeed been the chosen servants of Allah!") means, 'they used to wish – before you, O Muhammad, came to them – that they would have someone to remind them about Allah and what happened in earlier times, and to bring them the Book of Allah.' This is like the Ayat:
+
+وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ جَاءَهُمْ نَذِيرٌ لَيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى الْأُمَمِ ۖ فَلَمَّا جَاءَهُمْ نَذِيرٌ مَا زَادَهُمْ إِلَّا نُفُورًا
+
+(And they swore by Allah their most binding oath that if a warner came to them, they would be more guided than any of the nations (before them); yet when a warner came to them, it increased in them naught but flight (from the truth).)(35:42), and
+
+أَنْ تَقُولُوا إِنَّمَا أُنْزِلَ الْكِتَابُ عَلَىٰ طَائِفَتَيْنِ مِنْ قَبْلِنَا وَإِنْ كُنَّا عَنْ دِرَاسَتِهِمْ لَغَافِلِينَ - أَوْ تَقُولُوا لَوْ أَنَّا أُنْزِلَ عَلَيْنَا الْكِتَابُ لَكُنَّا أَهْدَىٰ مِنْهُمْ ۚ فَقَدْ جَاءَكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ وَهُدًى وَرَحْمَةٌ ۚ فَمَنْ أَظْلَمُ مِمَّنْ كَذَّبَ بِآيَاتِ اللَّهِ وَصَدَفَ عَنْهَا ۗ سَنَجْزِي الَّذِينَ يَصْدِفُونَ عَنْ آيَاتِنَا سُوءَ الْعَذَابِ بِمَا كَانُوا يَصْدِفُونَ
+
+(Lest you should say: "The Book was sent down only to two sects before us, and for our part, we were in fact unaware of what they studied." Or lest you should say: "If only the Book had been sent down to us, we would surely have been better guided than they." So now has come unto you a clear proof from your Lord, and a form of guidance and a mercy. Who then does more wrong than one who rejects the Ayat of Allah and turns away therefrom? We shall requite those who turn away from Our Ayat with an evil torment, because of their turning away.)(6:156-157) Allah says here:
+
+فَكَفَرُوا بِهِ ۖ فَسَوْفَ يَعْلَمُونَ
+
+(But they disbelieve therein, so they will come to know!) This is a definite and stern threat because of their disbelief in their Lord and their rejection of His Messenger ﷺ.
+
+## Maarif ul Quran
+
+Commentary
+
+After having provided proofs of the basic beliefs of Islam, these verses now mention the obstinacy of the disbelievers. It has been said that, before the blessed appearance of the Holy Prophet ﷺ ، these people used to crave for the coming of some prophet from Allah, so that they could follow him. But, when he did come, they started confronting him with a posture of obstinacy and hostility. After that, the Holy Prophet has been comforted that he should not worry about the pain these people cause to him. The time was coming very soon when he will prevail, and his oppressors will be defeated and punished. That this will unfold comprehensively in the Hereafter is already settled, but in the mortal world too, Allah Ta’ ala showed the spectacle that, in every Jihad from the battle of Badr up to the conquest of Makkah, His blessed rasul came out victorious and his adversaries, disgraced.
+
+## Personal Reflections

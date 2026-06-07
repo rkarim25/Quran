@@ -1,0 +1,107 @@
+---
+arabic_ayat: اِنَّ اللّٰهَ عٰلِمُ غَيۡبِ السَّمٰوٰتِ وَالۡاَرۡضِؕ اِنَّهٗ عَلِيۡمٌۢ
+  بِذَاتِ الصُّدُوۡرِ‏
+sentence_translation: Indeed, Allah is the Knower of the unseen of the heavens and
+  the earth. He surely knows best what is ˹hidden˺ in the heart.
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  3:
+    arabic: عٰلِمُ
+    translation: (is the) Knower
+    transliteration: ʿālimu
+  4:
+    arabic: غَيۡبِ
+    translation: (of the) unseen
+    transliteration: ghaybi
+  5:
+    arabic: السَّمٰوٰتِ
+    translation: (of) the heavens
+    transliteration: l-samāwāti
+  6:
+    arabic: وَالۡاَرۡضِؕ
+    translation: and the earth
+    transliteration: wal-arḍi
+  7:
+    arabic: اِنَّهٗ
+    translation: Indeed, He
+    transliteration: innahu
+  8:
+    arabic: عَلِيۡمٌۢ
+    translation: (is the) All-Knower
+    transliteration: ʿalīmun
+  9:
+    arabic: بِذَاتِ
+    translation: of what (is) in the breasts
+    transliteration: bidhāti
+  10:
+    arabic: الصُّدُوۡرِ‏
+    translation: of what (is) in the breasts
+    transliteration: l-ṣudūri
+---
+
+## Context
+
+To understand **Originator** (Fatir) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, Allah is the All-Knower of the Unseen of the heavens and the earth. When the people in Jahannam will plead with their Lord that they be delivered from its punishment, so that they could do good deeds then, and not do the bad ones they did earlier, at that time they will be told: أَوَلَمْ…
+
+## Tafsir Ibn Kathir
+
+Verily, Allah is the All-Knower of the Unseen of the heavens and the earth. Verily, He is the All-Knower of that is in the breasts (38)He it is Who has made you successors generations after generations in the earth, so whosoever disbelieves, on him will be his disbelief. And the disbelief of the disbelievers adds nothing but hatred of their Lord. And the disbelief of the disbelievers adds nothing but loss (39)
+
+Here Allah tells us that He knows the unseen in the heavens and earth, and that He knows all that is hidden and the secrets of the hearts. And He tells us that He will reward or punish everyone according to his deeds. Then Allah says:
+
+هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْضِ ۚ
+
+(He it is Who has made you successors generations after generations in the earth,) meaning, all people succeed one another, generation after generation. This is like the Ayah:
+
+وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ
+
+(and makes you inheritors of the earth, generations after generations)(27:62).
+
+فَمَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ
+
+(so whosoever disbelieves, on him will be his disbelief.) means, he and no one else will have to bear the consequences of that.
+
+وَلَا يَزِيدُ الْكَافِرِينَ كُفْرُهُمْ عِنْدَ رَبِّهِمْ إِلَّا مَقْتًا ۖ
+
+(And the disbelief of the disbelievers adds nothing but hatred of their Lord.) means, the longer they persist in their disbelief, the more Allah hates them, and the longer they persist in it, the more they and their families will lose on the Day of Resurrection. This is in contrast to the believers, for the longer they live and do good deeds, the higher their status in Paradise will be, the greater their reward, and the more beloved they will be to their Creator.
+
+## Maarif ul Quran
+
+When the people in Jahannam will plead with their Lord that they be delivered from its punishment, so that they could do good deeds then, and not do the bad ones they did earlier, at that time they will be told: أَوَلَمْ نُعَمِّرْ‌كُم مَّا يَتَذَكَّرُ‌ فِيهِ مَن تَذَكَّرَ‌ وَجَاءَكُمُ النَّذِيرُ‌ "Did We not give you an age in your life in which lesson could have been learnt by the one who wished to take lesson - 37) Sayyidna Ibn Husain Zain ul-` Abidin رضی اللہ تعالیٰ عنہ said, "It means the age of seventeen years." And Qatadah (رح) gave the age as eighteen years, meaning thereby the age of puberty. And the difference of seventeen and eighteen is possible in determining the age of puberty, as someone may reach puberty at the age of seventeen and someone else at, eighteen. In the Shari'ah, the age of puberty is the first line of demarcation after having crossed which a person is Divinely blessed with enough reason, so that one can understand what is good or bad in his or her case. Therefore, this address will be to disbelievers at large irrespective of their ages being long or short. However, the one who had a long lease of life, yet did not come to his senses, saw all sorts of physical proofs scattered around and heard the teachings of the prophets, still did not recognize the truth - so then, this one will be more blameworthy.
+
+In short, the person who saw nothing beyond the age of puberty, he too was given enough power of discrimination by nature that he could have used to distinguish between the true and the false. When he failed to do that, he too is deserving of censure and punishment. But, the person who was given long years to live, the warning of Allah stood served against him in a more conclusive degree. Then, if he could still not shake off his disbelief and disobedience, he would be more deserving of punishment and blame.
+
+Sayyidna Ali al-Murtada ؓ said, 'The age whereupon Allah Ta’ ala has asked His sinning servants to beware is that of sixty years.' Sayyidna Ibn ` Abbas ؓ ، according to one narration, has given it as forty years while, according to another narration, as sixty. He has said that this is the age when the argument and warrant of Allah stands served conclusively on an erring person who, then, is left with no room for making excuses. Ibn Kathir has given preference to the second Hadith of Sayyidna Ibn ` Abbas ؓ .
+
+From the presentation made above, it is clear that there is no contradiction in the narrations pointing out to the age of seventeen, eighteen and sixty. Though, someone at the age of seventeen/eighteen is able to distinguish between the true and the false. Therefore, one has been obligated with precepts of the Shari` ah from this benchmark this very age of puberty. But, the age of sixty is such a long period of time that, should one still fail to recognize the truth, there remains no room for making any more excuses. Against such a person, the argument of Allah stands firmly established. Therefore, the aggregate ages of people in this blessed ummah are destined to be between sixty and seventy years - as said in Hadith:
+
+اَعمَارُ اُمَّتِی مَا بَین السِّتِّینَ اِلَی السَّبعِین وَ اَقَلُّھُم مَّن یَّجُوز ذلِکَ
+
+The ages of my ummah will be in between sixty and seventy and there will be few of those who will exceed that - reported by al-Tirmidhi and Ibn Majah, Ibn Kathir.
+
+Towards the end of the verse (37), it was said: وَجَاءَكُمُ النَّذِيرُ‌ (And (furthermore) the warner had (also) come to you.). Given here is a hint that Allah Ta’ ala gives one from the age one attains puberty enough ability to rationalize and recognize at least his or her creator and master and then goes on to live a life the purpose of which is to seek His pleasure. To do only this much, human reason alone would have been sufficient. But, Allah Ta’ ala did not leave it simply at that. In fact, He sent His special people called: نَذِیر (nadhir) to help them reason it out. This word is usually translated as 'one who warns' or 'warner' in English (the later, though, not formally admissible in the language, but is still used in the absence of a suitable equivalent). In fact, a nadhir is a person who, by virtue of his mercy and compassion, asks his people to stay away from things that are likely to bring harm to them or cause their total ruination as a people and tries to instill the fear of such things in their hearts, lest it actually happens. In terms of its well-recognized meaning, it refers to the noble prophets علیہم السلام and to the ` Ulama' who carry out their mission as their deputies. The outcome of the verse is: 'We gave them reason to recognize the true from the false. Along with it, We also sent Our prophets who would guide them on the path of truth and keep them safe from the false.'
+
+And it has been reported from Sayyidna Ibn ` Abbas, ` Ikrimah and Imam Ja'far Baqir that nadhir means the gray hair of the old age. When they flare up, they give a message to human beings: Here comes the time to go! This statement too is not contradictory to the first one for gray hair might as well serve as the standard bearers of warning along with Anbiya' and ` Ulama'.
+
+And the truth of the matter is that all conditions faced by human beings after their age of puberty and all minor and major changes that take place in their persons and in that they are surrounded with are, all of them, heralds of warning for human beings.
+
+## Personal Reflections

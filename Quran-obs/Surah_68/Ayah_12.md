@@ -1,0 +1,145 @@
+---
+arabic_ayat: مَّنَّاعٍ لِّلۡخَيۡرِ مُعۡتَدٍ اَثِيۡمٍۙ‏
+sentence_translation: withholder of good, transgressor, evildoer,
+word_by_word:
+  1:
+    arabic: مَّنَّاعٍ
+    translation: A preventer
+    transliteration: mannāʿin
+  2:
+    arabic: لِّلۡخَيۡرِ
+    translation: of (the) good
+    transliteration: lil'khayri
+  3:
+    arabic: مُعۡتَدٍ
+    translation: transgressor
+    transliteration: muʿ'tadin
+  4:
+    arabic: اَثِيۡمٍۙ‏
+    translation: sinful
+    transliteration: athīmin
+---
+
+## Context
+
+To understand **The Pen** (Al-Qalam) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+So, do not obey the deniers (8)They wish that you should compromise with them, so they (too) would compromise with you (9)And do not obey every Hallaf Mahin (10)A Hammaz, going about with Namim (11)Hinderer of the good, transgressor, sinful (12)'Utul, and moreover Zanim (13)(He was so) because he had wealth and children (14)When Our Ayat are recited to him, he says: "Tales of the men of old! (And do not obey any contemptible one who swears much, a slanderer who goes about with calumnies, one who prevents good, [ and who is ] transgressor, sinful, harsh, [ and ] after all that, notorious,..
+
+## Tafsir Ibn Kathir
+
+So, do not obey the deniers (8)They wish that you should compromise with them, so they (too) would compromise with you (9)And do not obey every Hallaf Mahin (10)A Hammaz, going about with Namim (11)Hinderer of the good, transgressor, sinful (12)'Utul, and moreover Zanim (13)(He was so) because he had wealth and children (14)When Our Ayat are recited to him, he says: "Tales of the men of old! (15)We shall brand him on the snout (nose)(16)
+
+Prohibition of giving in to the Pressure of the Disbelievers and Their Suggestions, and that They like to meet in the Middle of the Path
+
+Allah says, 'just as We have favored you and given you the upright legislation and great (standard of) character,'
+
+فَلَا تُطِعِ الْمُكَذِّبِينَ - وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
+
+(So, do not obey the deniers. They wish that you should compromise with them, so they (too) would compromise with you.) Ibn 'Abbas said, "That you would permit them (their idolatry) and they also would permit you (to practice your religion)." Mujahid said,
+
+وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ
+
+(They wish that you should compromise with them, so they (too) would compromise with you.) "This means that you should be quiet about their gods and abandon the truth that you are upon." Then Allah says,
+
+وَلَا تُطِعْ كُلَّ حَلَّافٍ مَهِينٍ
+
+(And do not obey every Hallaf (one who swears much) Mahin (liar or worthless person).) This is because the liar, due to his weakness and his disgracefulness, only seeks protection in his false oaths which he boldly swears to while using Allah's Names, and he uses them (false oaths) all the time and out of place (i.e., unnecessarily). Ibn 'Abbas said, "Al-Mahin means the liar." Then Allah says,
+
+هَمَّازٍ
+
+(A Hammaz,) Ibn 'Abbas and Qatadah both said, "This is slander."
+
+مَشَّاءٍ بِنَمِيمٍ
+
+(going about with Namim,) This refers to the one who goes around among people instigating discord between them and carrying tales in order to corrupt relations between people when they are good and pleasant. It is confirmed in the Two Sahihs that Mujahid reported from Tawus that Ibn 'Abbas said, "The Messenger of Allah ﷺ once passed by two graves and he said,
+
+إِنَّهُمَا لَيُعَذَّبَانِ وَمَا يُعَذَّبَانِ فِي كَبِيرٍ، أَمَّا أَحَدُهُمَا فَكَانَ لَا يَسْتَتِرُ مِنَ الْبَوْلِ، وَأَمَّا الْآخَرُ فَكَانَ يَمْشِي بِالنَّمِيمَةِ
+
+(Verily, these two are being punished, and they are not being punished for something major. One of them was not careful about protecting himself from urine (when relieving himself). The other one used to spread Namimah.)"
+
+This Hadith has been recorded by the Group in their books through routes of transmission that are all on the authority of Mujahid.
+
+Imam Ahmad recorded that Hudhayfah said, "I heard the Messenger of Allah ﷺ saying,
+
+لَا يَدْخُلُ الْجَنَّةَ قَتَّاتٌ
+
+(The slanderer will not enter into Paradise.)" This Hadith has been reported by the Group except for Ibn Majah. Concerning Allah's statement,
+
+مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ أَثِيمٍ
+
+(Hinderer of good, transgressor, sinful,) it means, he refuses to give and withholds that which he has of good.
+
+مُعْتَدٍ
+
+(transgressor,) this means, in attaining that which Allah has made permissible for him, he exceeds the legislated bounds.
+
+أَثِيمٍ
+
+(sinful,) meaning, he delves into the forbidden things. Concerning Allah's statement,
+
+عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ
+
+('Utul, and moreover Zanim.) 'Utul means one who is cruel, harsh, strong, greedy and stingy. Imam Ahmad recorded from Al-Harithah bin Wahb that the Messenger of Allah ﷺ said,
+
+أَلَا أُنَبِّئُكُمْ بِأَهْلِ الْجَنَّةِ؟ كُلُّ ضَعِيفٍ مُتَضَعِّفٍ لَوْ أَقْسَمَ عَلَى اللهِ لَأَبَرَّهُ. أَلَا أُنَبِّئُكُمْ بِأَهْلِ النَّارِ؟ كُلُّ عُتُلٍّ جَوَّاظٍ مُسْتَكْبِرٍ
+
+(Shall I inform you of the people of Paradise? (They will be) every weak and oppressed person. When he swears by Allah, he fulfills his oath. Shall I inform you of the people of the Fire? Every 'Utul (cruel person), Jawwaz and arrogant person.)
+
+Al-Waki' said, "It ('Utul) is every Jawwaz, Ja'zari and arrogant person." Both Al-Bukhari and Muslim recorded this in their Two Sahihs, as well as the rest of the Group, except for Abu Dawud. All of its routes of transmission are by way of Sufyan Ath-Thawri and Shu'bah who both reported it from Sa'id bin Khalid.
+
+The scholars of Arabic language have said that Ja'zari means rude and harsh, while Jawwaz means greedy and stingy.
+
+Concerning the word Zanim, Al-Bukhari recorded from Ibn 'Abbas that he said concerning the Ayah,
+
+عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ
+
+('Utul (cruel), and moreover Zanim.) "A man from the Quraysh who stands out among them like the sheep that has had a piece of its ear cut off." The meaning of this is that he is famous for his evil just as a sheep that has a piece of its ear cut off stands out among its sister sheep. In the Arabic language the Zanim is a person who is adopted among a group of people (i.e., he is not truly of them). Ibn Jarir and others among the Imams have said this. Concerning Allah's statement,
+
+أَنْ كَانَ ذَا مَالٍ وَبَنِينَ - إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ
+
+((He was so) because he had wealth and children. When Our Ayat are recited to him, he says: "Tales of the men of old!") Allah is saying, 'this is how he responds to the favors that Allah has bestowed upon him of wealth and children, by disbelieving in Allah's Ayat and turning away from them while claiming that they are a lie that has been taken from the tales of the ancients.' This is similar to Allah's statement,
+
+ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا - وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا - وَبَنِينَ شُهُودًا - وَمَهَّدْتُ لَهُ تَمْهِيدًا - ثُمَّ يَطْمَعُ أَنْ أَزِيدَ - كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا - سَأُرْهِقُهُ صَعُودًا - إِنَّهُ فَكَّرَ وَقَدَّرَ - فَقُتِلَ كَيْفَ قَدَّرَ - ثُمَّ قُتِلَ كَيْفَ قَدَّرَ - ثُمَّ نَظَرَ - ثُمَّ عَبَسَ وَبَسَرَ - ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ - فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ - إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ - سَأُصْلِيهِ سَقَرَ - وَمَا أَدْرَاكَ مَا سَقَرُ - لَا تُبْقِي وَلَا تَذَرُ - لَوَّاحَةٌ لِلْبَشَرِ - عَلَيْهَا تِسْعَةَ عَشَرَ
+
+(Leave Me alone (to deal) with whom I created lonely (without any wealth and children etc.). And then granted him resources in abundance. And children to be by his side. And made life smooth and comfortable for him. After all that he desires that I should give more. Nay! Verily, he has been opposing Our Ayat. I shall oblige him to face a severe torment! Verily, he thought and plotted. So let him be cursed, how he plotted! And once more let him be cursed, how he plotted! Then he thought. Then he frowned and he looked in a bad tempered way. Then he turned back, and was proud. Then he said: "This is nothing but magic from that of old, this is nothing but the word of a human being!" I will cast him into Hellfire. And what will make you know what Hellfire is? It spares not (any sinner), nor does it leave (anything unburned)! Burning and blackening the skins! Over it are nineteen (angels as keepers of Hell).)[74:11-30] Then Allah said here,
+
+سَنَسِمُهُ عَلَى الْخُرْطُومِ
+
+(We shall brand him on the snout!) Ibn Jarir said, "We will make his matter clear and evident so that they will know him and he will not be hidden from them, just as the branding mark on the snouts (of animals)." Others have said,
+
+سَنَسِمُهُ
+
+(We shall brand him) This is the mark of the people of the Hell-fire; meaning, 'We will blacken his face on the Day of Judgement,' and the face has been referred to here as snout.
+
+## Maarif ul Quran
+
+لَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ ﴿10﴾ هَمَّازٍ مَّشَّاءٍ بِنَمِيمٍ ﴿11﴾ مَّنَّاعٍ لِّلْخَيْرِ‌ مُعْتَدٍ أَثِيمٍ ﴿12﴾ عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ ﴿13﴾
+
+(And do not obey any contemptible one who swears much, a slanderer who goes about with calumnies, one who prevents good, [ and who is ] transgressor, sinful, harsh, [ and ] after all that, notorious,.. _68:10-13)
+
+The word zanim refers to 'a person whose legitimate birth from a father is not proved'. The person referred to in this verse was of doubtful birth or his lineage was uncertain.
+
+The preceding verse prohibited any compromise with the unbelievers in general in matters of religion. The current verse prohibits specifically yielding to such mean leader of falsehood as Walid Ibn Mughirah, who possessed the base characteristics as listed in verses [ 10] to [ 13], the worst mischief-maker. [ As transmitted by Ibn Jarir on the authority of Ibn ` Abbas ؓ . Having described this person's bad manners and his arrogance in several verses that follow, verse [ 16] says:
+
+سَنَسِمُهُ عَلَى الْخُرْ‌طُومِ (We will soon brand him on the snout...68:16). That is, as, disbelievers, out of pride and false sense of power rejected the Divine Message in this world, Allah will disgrace and humiliate them on the Day of Resurrection so that the earlier and later generations will be able to see it. His nose has been described by way of reproach as khurtum (snout). This refers specifically to the long nose of a pig or a trunk of an elephant.
+
+لَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ ﴿10﴾ هَمَّازٍ مَّشَّاءٍ بِنَمِيمٍ ﴿11﴾ مَّنَّاعٍ لِّلْخَيْرِ‌ مُعْتَدٍ أَثِيمٍ ﴿12﴾ عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ ﴿13﴾
+
+(And do not obey any contemptible one who swears much, a slanderer who goes about with calumnies, one who prevents good, [ and who is ] transgressor, sinful, harsh, [ and ] after all that, notorious,.. _68:10-13)
+
+The word zanim refers to 'a person whose legitimate birth from a father is not proved'. The person referred to in this verse was of doubtful birth or his lineage was uncertain.
+
+The preceding verse prohibited any compromise with the unbelievers in general in matters of religion. The current verse prohibits specifically yielding to such mean leader of falsehood as Walid Ibn Mughirah, who possessed the base characteristics as listed in verses [ 10] to [ 13], the worst mischief-maker. [ As transmitted by Ibn Jarir on the authority of Ibn ` Abbas ؓ . Having described this person's bad manners and his arrogance in several verses that follow, verse [ 16] says:
+
+## Personal Reflections

@@ -1,0 +1,133 @@
+---
+arabic_ayat: وَمَنۡ يَّكۡسِبۡ اِثۡمًا فَاِنَّمَا يَكۡسِبُهٗ عَلٰى نَفۡسِهٖ​ؕ وَكَانَ
+  اللّٰهُ عَلِيۡمًا حَكِيۡمًا‏
+sentence_translation: And whoever commits a sin—it is only to their own loss. Allah
+  is All-Knowing, All-Wise.
+word_by_word:
+  1:
+    arabic: وَمَنۡ
+    translation: And whoever
+    transliteration: waman
+  2:
+    arabic: يَّكۡسِبۡ
+    translation: earns
+    transliteration: yaksib
+  3:
+    arabic: اِثۡمًا
+    translation: sin
+    transliteration: ith'man
+  4:
+    arabic: فَاِنَّمَا
+    translation: then only
+    transliteration: fa-innamā
+  5:
+    arabic: يَكۡسِبُهٗ
+    translation: he earns it
+    transliteration: yaksibuhu
+  6:
+    arabic: عَلٰى
+    translation: against
+    transliteration: ʿalā
+  7:
+    arabic: نَفۡسِهٖ​ؕ
+    translation: his soul
+    transliteration: nafsihi
+  8:
+    arabic: وَكَانَ
+    translation: And is
+    transliteration: wakāna
+  9:
+    arabic: اللّٰهُ
+    translation: Allah
+    transliteration: l-lahu
+  10:
+    arabic: عَلِيۡمًا
+    translation: All-Knowing
+    transliteration: ʿalīman
+  11:
+    arabic: حَكِيۡمًا‏
+    translation: All-Wise
+    transliteration: ḥakīman
+---
+
+## Context
+
+To understand **The Women** (An-Nisa) 111, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. In the event that these people choose not to repent despite the option given to them, the seventh verse (111) carries the assurance that this action of theirs brings no harm to Almighty Allah or His Messenger or to Muslims.
+
+## Tafsir Ibn Kathir
+
+And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. And whoever earns sin, he earns it only against himself. And Allah is Ever All-Knowing, All-Wise (110)And whoever earns a fault or a sin and then blames it on someone innocent, he has indeed burdened himself with falsehood and a manifest sin (111)Had not the grace of Allah and His mercy been upon you, a party of them would certainly have made a decision to mislead you, but they mislead none except their own selves, and no harm can they do to you in the least. Allah has sent down to you the Book, and the Hikmah, and taught you that which you knew not. And ever great is the grace of Allah unto you (112)
+
+The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People
+
+Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit. Allah said,
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)
+
+'Ali bin Abi Talhah said that Ibn 'Abbas commented about this Ayah, "Allah informs His servants of His forgiveness, forbearing generosity and expansive mercy. So whoever commits a sin, whether minor or major,
+
+ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) even if his sins were greater than the heavens, the earth and the mountains."
+
+Imam Ahmad recorded that 'Ali said, "Whenever I hear anything from the Messenger of Allah, Allah benefits me with whatever He wills of that. Abu Bakr told me, and Abu Bakr has said the truth, that the Messenger of Allah ﷺ said,
+
+مَا مِنْ مُسْلِمٍ يُذْنِبُ ذَنْبًا، ثُمَّ يَتَوَضَّأُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُ اللهَ لِذلِكَ الذَّنْبِ، إِلَّا غَفَرَ لَهُ
+
+(No Muslim commits a sin and then performs ablution, prays two Rak'ahs and begs Allah for forgiveness for that sin, but He forgives him.) He then recited these two Ayat,
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ
+
+(And whoever does evil or wrongs himself)[4:110], and,
+
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ
+
+(And those who, when they have committed Fahishah or wronged themselves with evil). [3:135]" Allah's statement,
+
+وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ
+
+(And whoever earns sin, he earns it only against himself.) is similar to His statement,
+
+وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+
+(And no bearer of burdens shall bear the burden of another). So no one will avail anyone else. Rather, every soul, and none else, shall carry its own burden. This is why Allah said,
+
+وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا
+
+(And Allah is Ever All-Knowing, All-Wise.) meaning, this occurs due to His knowledge, wisdom, fairness and mercy.
+
+وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ
+
+(and taught you that which you knew not.), before this revelation was sent down to you. Similarly, Allah said,
+
+وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا مَا كُنتَ تَدْرِي مَا الْكِتَابُ
+
+(And thus We have sent to you (O Muhammad ﷺ) a Ruh (a revelation, and a mercy) of Our command. You knew not what is the Book)[42:52] until the end of the Surah. Allah said,
+
+وَمَا كُنتَ تَرْجُو أَن يُلْقَىٰ إِلَيْكَ الْكِتَابُ إِلَّا رَحْمَةً مِّن رَّبِّكَ
+
+(And you were not expecting that the Book (this Qur'an) would be sent down to you, but it is a mercy from your Lord). [28:86] So Allah said;
+
+وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا
+
+(And ever great is the grace of Allah unto you (O Muhammad ﷺ)).
+
+## Maarif ul Quran
+
+In the event that these people choose not to repent despite the option given to them, the seventh verse (111) carries the assurance that this action of theirs brings no harm to Almighty Allah or His Messenger or to Muslims. The sad nemesis of a person's evil deed shall be faced by the person himself.
+
+## Personal Reflections

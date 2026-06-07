@@ -1,0 +1,585 @@
+---
+arabic_ayat: "اَلَّذِيۡنَ يَاۡكُلُوۡنَ الرِّبٰوا لَا يَقُوۡمُوۡنَ اِلَّا كَمَا يَقُوۡمُ\
+  \ الَّذِىۡ يَتَخَبَّطُهُ الشَّيۡطٰنُ مِنَ الۡمَسِّ​ؕ ذٰ لِكَ بِاَنَّهُمۡ قَالُوۡۤا\
+  \ اِنَّمَا الۡبَيۡعُ مِثۡلُ الرِّبٰوا​ ۘ​ وَاَحَلَّ اللّٰهُ الۡبَيۡعَ وَحَرَّمَ\
+  \ الرِّبٰوا​ ؕ فَمَنۡ جَآءَهٗ مَوۡعِظَةٌ مِّنۡ رَّبِّهٖ فَانۡتَهٰى فَلَهٗ مَا سَلَفَؕ\
+  \ وَاَمۡرُهٗۤ اِلَى اللّٰهِ​ؕ وَمَنۡ عَادَ فَاُولٰٓٮِٕكَ اَصۡحٰبُ النَّارِ​ۚ هُمۡ\
+  \ فِيۡهَا خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+sentence_translation: Those who consume interest will stand ˹on Judgment Day˺ like
+  those driven to madness by Satan’s touch. That is because they say, “Trade is no
+  different than interest.” But Allah has permitted trading and forbidden interest.
+  Whoever refrains—after having received warning from their Lord—may keep their previous
+  gains, and their case is left to Allah. As for those who persist, it is they who
+  will be the residents of the Fire. They will be there forever.
+word_by_word:
+  1:
+    arabic: اَلَّذِيۡنَ
+    translation: Those who
+    transliteration: alladhīna
+  2:
+    arabic: يَاۡكُلُوۡنَ
+    translation: consume
+    transliteration: yakulūna
+  3:
+    arabic: الرِّبٰوا
+    translation: '[the] usury'
+    transliteration: l-riba
+  4:
+    arabic: لَا
+    translation: not
+    transliteration: lā
+  5:
+    arabic: يَقُوۡمُوۡنَ
+    translation: they can stand
+    transliteration: yaqūmūna
+  6:
+    arabic: اِلَّا
+    translation: except
+    transliteration: illā
+  7:
+    arabic: كَمَا
+    translation: like
+    transliteration: kamā
+  8:
+    arabic: يَقُوۡمُ
+    translation: stands
+    transliteration: yaqūmu
+  9:
+    arabic: الَّذِىۡ
+    translation: the one who
+    transliteration: alladhī
+  10:
+    arabic: يَتَخَبَّطُهُ
+    translation: confounds him
+    transliteration: yatakhabbaṭuhu
+  11:
+    arabic: الشَّيۡطٰنُ
+    translation: the Shaitaan
+    transliteration: l-shayṭānu
+  12:
+    arabic: مِنَ
+    translation: with
+    transliteration: mina
+  13:
+    arabic: الۡمَسِّ​ؕ
+    translation: (his) touch
+    transliteration: l-masi
+  14:
+    arabic: ذٰ لِكَ
+    translation: That
+    transliteration: dhālika
+  15:
+    arabic: بِاَنَّهُمۡ
+    translation: (is) because they
+    transliteration: bi-annahum
+  16:
+    arabic: قَالُوۡۤا
+    translation: say
+    transliteration: qālū
+  17:
+    arabic: اِنَّمَا
+    translation: Only
+    transliteration: innamā
+  18:
+    arabic: الۡبَيۡعُ
+    translation: the trade
+    transliteration: l-bayʿu
+  19:
+    arabic: مِثۡلُ
+    translation: (is) like
+    transliteration: mith'lu
+  20:
+    arabic: الرِّبٰوا​ ۘ​
+    translation: '[the] usury'
+    transliteration: l-riba
+  21:
+    arabic: وَاَحَلَّ
+    translation: While has permitted
+    transliteration: wa-aḥalla
+  22:
+    arabic: اللّٰهُ
+    translation: Allah
+    transliteration: l-lahu
+  23:
+    arabic: الۡبَيۡعَ
+    translation: '[the] trade'
+    transliteration: l-bayʿa
+  24:
+    arabic: وَحَرَّمَ
+    translation: but (has) forbidden
+    transliteration: waḥarrama
+  25:
+    arabic: الرِّبٰوا​ ؕ
+    translation: '[the] usury'
+    transliteration: l-riba
+  26:
+    arabic: فَمَنۡ
+    translation: 'Then whoever '
+    transliteration: faman
+  27:
+    arabic: جَآءَهٗ
+    translation: comes to him
+    transliteration: jāahu
+  28:
+    arabic: مَوۡعِظَةٌ
+    translation: (the) admonition
+    transliteration: mawʿiẓatun
+  29:
+    arabic: مِّنۡ
+    translation: from
+    transliteration: min
+  30:
+    arabic: رَّبِّهٖ
+    translation: His Lord
+    transliteration: rabbihi
+  31:
+    arabic: فَانۡتَهٰى
+    translation: and he refrained
+    transliteration: fa-intahā
+  32:
+    arabic: فَلَهٗ
+    translation: then for him
+    transliteration: falahu
+  33:
+    arabic: مَا
+    translation: what
+    transliteration: mā
+  34:
+    arabic: سَلَفَؕ
+    translation: (has) passed
+    transliteration: salafa
+  35:
+    arabic: وَاَمۡرُهٗۤ
+    translation: and his case
+    transliteration: wa-amruhu
+  36:
+    arabic: اِلَى
+    translation: (is) with
+    transliteration: ilā
+  37:
+    arabic: اللّٰهِ​ؕ
+    translation: Allah
+    transliteration: l-lahi
+  38:
+    arabic: وَمَنۡ
+    translation: and whoever
+    transliteration: waman
+  39:
+    arabic: عَادَ
+    translation: repeated
+    transliteration: ʿāda
+  40:
+    arabic: فَاُولٰٓٮِٕكَ
+    translation: then those
+    transliteration: fa-ulāika
+  41:
+    arabic: اَصۡحٰبُ
+    translation: (are the) companions
+    transliteration: aṣḥābu
+  42:
+    arabic: النَّارِ​ۚ
+    translation: (of) the Fire
+    transliteration: l-nāri
+  43:
+    arabic: هُمۡ
+    translation: they
+    transliteration: hum
+  44:
+    arabic: فِيۡهَا
+    translation: in it
+    transliteration: fīhā
+  45:
+    arabic: "خٰلِدُوۡنَ‏ \uFEFF\uFEFF"
+    translation: will abide forever
+    transliteration: khālidūna
+---
+
+## Context
+
+To understand **The Cow** (Al-Baqarah) 275, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+2. The noble Companions, all of them, abandoned this ربا riba the moment its unlawfulness was revealed in the Qur'an. None of them had any difficulty or doubt in comprehending or explaining its meaning.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Those who eat Riba will not stand (on the Day of Resurrection) except like the standing of a person beaten by Shaytan leading him to insanity. The prohibition of ربا riba From these verses begins the description of the forbiddance of riba ربا and the injunctions relating to its unlawfulness.
+
+## Tafsir Ibn Kathir
+
+Those who eat Riba will not stand (on the Day of Resurrection) except like the standing of a person beaten by Shaytan leading him to insanity. That is because they say: "Trading is only like Riba," whereas Allah has permitted trading and forbidden Riba. So whosoever receives an admonition from his Lord and stops eating Riba, shall not be punished for the past; his case is for Allah (to judge); but whoever returns (to Riba), such are the dwellers of the Fire ـ they will Abide therein (275)
+
+The Punishment for Dealing with Riba (Interest and Usury)
+
+After Allah mentioned the righteous believers who give charity, pay Zakah and spend on their relatives and families at various times and conditions, He then mentioned those who deal in usury and illegally acquire people's money, using various evil methods and wicked ways. Allah describes the condition of these people when they are resurrected from their graves and brought back to life on the Day of Resurrection:
+
+الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ
+
+(Those who eat Riba will not stand (on the Day of Resurrection) except like the standing of a person beaten by Shaytan leading him to insanity.)
+
+This Ayah means, on the Day of Resurrection, these people will get up from their graves just as the person afflicted by insanity or possesed by a demon would. Ibn 'Abbas said, "On the Day of Resurrection, those who consume Riba will be resurrected while insane and suffering from seizures." Ibn Abi Hatim also recorded this and then commented, "This Tafsir was reported from 'Awf bin Malik, Sa'id bin Jubayr, As-Suddi, Ar-Rabi' bin Anas, Qatadah and Muqatil bin Hayyan." Al-Bukhari recorded that Samurah bin Jundub said in the long Hadith about the dream that the Prophet ﷺ had,
+
+فَأَتينَا عَلَى نَهْرٍ - حَسِبْتُ أَنَّهُ كَانَ يَقُولُ: أَحْمَرَ مِثْلَ الدَّمِ، وَإِذَا فِي النَّهْرِ رَجُلٌ سَابِحٌ يَسْبَحُ، وَإِذَا عَلَى شَطِّ النَّهْرِ رَجُلٌ قَدْ جَمَعَ عِنْدَهُ حِجَارَةً كَثِيرَةً، وَإِذَا ذَلِكَ السَّابِحُ يَسْبَحُ مَا يَسْبَحُ، ثُمَّ يَأْتِي ذَلِكَ الَّذِي قَدْ جَمَعَ الْحِجَارَةَ عِنْدَهُ، فَيَفْغَرُ لَهُ فَاهُ فَيُلْقِمُهُ حَجَرًا
+
+(We reached a river -the narrator said, "I thought he said that the river was as red as blood"- and found that a man was swimming in the river, and on its bank there was another man standing with a large collection of stones next to him. The man in the river would swim, then come to the man who had collected the stones and open his mouth, and the other man would throw a stone in his mouth.)
+
+The explanation of this dream was that the person in the river was one who consumed Riba.
+
+Allah's statement,
+
+ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا
+
+(That is because they say: "Trading is only like Riba," whereas Allah has permitted trading and forbidden Riba) indicates that the disbelievers claimed that Riba was allowed due to the fact that they rejected Allah's commandments, not that they equated Riba with regular trade. The disbelievers did not recognize that Allah allowed trade in the Qur'an, for if they did, they would have said, "Riba is trade." Rather, they said,
+
+إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا
+
+(Trading is only like Riba) meaning, they are similar, so why did Allah allow this, but did not allow that, they asked in defiance of Allah's commandments.
+
+Allah's statement,
+
+وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا
+
+(Whereas Allah has permitted trading and forbidden Riba) might be a continuation of the answer to the disbelievers' claim, who uttered it, although they knew that Allah decided that ruling on trade is different from that of Riba. Indeed, Allah is the Most Knowledgeable, Most Wise, Whose decision is never resisted. Allah is never asked about what He does, while they will be asked. He is knowledgeable of the true reality of all things and the benefits they carry. He knows what benefits His servants, so He allows it for them, and what harms them, so He forbids them from it. He is more merciful with them than the mother with her own infant.
+
+Thereafter, Allah said,
+
+فَمَن جَاءَهُ مَوْعِظَةٌ مِّن رَّبِّهِ فَانتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ
+
+(So whosoever receives an admonition from his Lord and stops eating Riba, shall not be punished for the past; his case is for Allah (to judge),) meaning, those who have knowledge that Allah made usury unlawful, and refrain from indulging in it as soon as they acquire this knowledge, then Allah will forgive their previous dealings in Riba,
+
+عَفَا اللَّهُ عَمَّا سَلَفَ
+
+(Allah has forgiven what is past.)
+
+On the day Makkah was conquered the Prophet ﷺ said,
+
+وَكُلُّ رِبًا فِي الْجَاهِلِيَّةِ مَوْضُوعٌ تَحْتَ قَدَمَيَّ هَاتَيْنِ، وَأَوَّلُ رِبًا أَضَعُ، رِبَا الْعَبَّاسِ
+
+(All cases of Riba during the time of Jahiliyyah (pre-Islamic period of ignorance) is annulled and under my feet, and the first Riba I annul is the Riba of Al-'Abbas (the Prophet's uncle).)
+
+We should mention that the Prophet ﷺ did not require the return of the interest that they gained on their Riba during the time of Jahiliyyah. Rather, he pardoned the cases of Riba that occured in the past, just as Allah said,
+
+فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ
+
+(shall not be punished for the past; his case is for Allah (to judge).)
+
+Sa'id bin Jubayr and As-Suddi said that,
+
+فَلَهُ مَا سَلَفَ
+
+(shall not be punished for the past) refers to the Riba one consumed before it was prohibited. Allah then said,
+
+وَمَنْ عَادَ
+
+(But whoever returns) meaning, deals in Riba after gaining knowledge that Allah prohibited it, then that warrants punishment, and in this case, the proof will have been established against such person. This is why Allah said,
+
+فَأُولَٰئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
+
+(such are the dwellers of the Fire ـ they will abide therein forever.)
+
+Abu Dawud recorded that Jabir said, "When
+
+الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ
+
+(Those who eat Riba will not stand (on the Day of Resurrection) except like a person beaten by Shaytan leading him to insanity) was revealed, the Messenger of Allah ﷺ said,
+
+مَنْ لَمْ يَذَرِ الْمُخَابَرَةَ فَلْيُؤْذِنْ بِحَرْبٍ مِنَ اللهِ وَرَسُولِهِ
+
+(Whoever does not refrain from Mukhabarah, then let him receive a notice of war from Allah and His Messenger.)"
+
+Al-Hakim also recorded this in his Mustadrak, and he said, "It is Sahih according to the criteria of Muslim, and he did not record it." Mukhabarah (sharecropping), farming land in return for some of its produce, was prohibited. Muzabanah, trading fresh dates still on trees with dried dates already on the ground, was prohibited. Muhaqalah, which refers to trading produce not yet harvested, with crops already harvested, was also prohibited. These were prohibited to eradicate the possibility that Riba might be involved, for the quality and equity of such items are only known after they become dry.
+
+The subject of Riba is a difficult subject for many scholars. We should mention that the Leader of the Faithful, 'Umar bin Al-Khattab, said, "I wished that the Messenger of Allah ﷺ had made three matters clearer for us, so that we could refer to his decision: the grandfather (regarding inheriting from his grandchildren), the Kalalah (those who leave neither descendants nor ascendants as heirs) and some types of Riba." 'Umar was refering to the types of transactions where it is not clear whether they involve Riba or not. The Shari'ah supports the rule that for any matter that is unlawful, then the means to it are also unlafwful, because whatever results in the unlawful is unlawful, in the same way that whenever an obligation will not be complete except with something, then that something is itself an obligation.
+
+The Two Sahihs recorded that An-Nu'man bin Bashir said that he heard the Messenger of Allah ﷺ say,
+
+إِنَّ الْحَلَالَ بَيِّنٌ وَإِنَّ الْحَرَامَ بَيِّنٌ، وَبَيْنَ ذَلِكَ أُمُورٌ مُشْتَبِهَاتٌ، فَمَنِ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ لِدِينِهِ وَعِرْضِهِ، وَمَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الْحَرَامِ، كَالرَّاعِي يَرْعَى حَولَ الْحِمَى يُوشِكُ أَنْ يَرْتَعَ فِيهِ
+
+(Both lawful and unlawful things are evident, but in between them there are matters that are not clear. So whoever saves himself from these unclear matters, he saves his religion and his honor. And whoever indulges in these unclear matters, he will have fallen into the prohibitions, just like a shepherd who grazes (his animals) near a private pasture, at any moment he is liable to enter it.)
+
+The Sunan records that Al-Hasan bin 'Ali said that he heard the Messenger of Allah ﷺ say,
+
+«دَعْ مَا يَرِيبُكَ إِلَى مَا لَا يَرِيبُكَ»
+
+(Leave that which makes you doubt for that which does not make you doubt.)
+
+Ahmad recorded that Sa'id bin Al-Musayyib said that 'Umar said, "The Ayah about Riba was one of the last Ayat to be revealed, and the Messenger of Allah ﷺ died before he explained it to us. So leave that which makes you doubt for that which does not make you doubt."
+
+Ibn Majah recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+الرِّبَا سَبْعُونَ حُوبًا، أَيْسَرُهَا أَنْ يَنْكِحَ الرَّجُلُ أُمَّهُ
+
+(Riba is seventy types, the least of which is equal to one having sexual intercourse with his mother.)
+
+Continuing on the subject of prohibiting the means that lead to the unlawful, there is a Hadith that Ahmad recorded in which 'A'ishah said, "When the Ayat in Surat Al-Baqarah about Riba were revealed, the Messenger of Allah ﷺ went out to the Masjid and recited them and also prohibited trading in alcohol." The Six collections recorded this Hadith, with the exception of At-Tirmidhi. The Two Sahihs recorded that the Messenger of Allah ﷺ said,
+
+لَعَنَ اللهُ الْيَهُودَ، حُرِّمَتْ عَلَيْهِمُ الشُّحُومُ فَجَمَلُوهَا فَبَاعُوهَا، وَأَكَلُوا أَثْمَانَهَا
+
+(May Allah curse the Jews! Allah forbade them to eat animal fat, but they melted it and sold it, eating its price.)
+
+Ali and Ibn Mas'ud narrated that the Messenger of Allah ﷺ said,
+
+لَعَنَ اللهُ آكِلَ الرِّبَا وَمُوكِلَهُ وَشَاهِدَيْهِ وَكَاتِبَهُ
+
+(May Allah curse whoever consumes Riba, whoever pays Riba, the two who are witnesses to it, and the scribe who records it.)
+
+They say they only have witnesses and a scribe to write the Riba contract when they want it to appear to be a legitimate agreement, but it is still invalid because the ruling is applied to the agreement itself, not the form that it appears in. Verily, deeds are judged by their intentions.
+
+## Maarif ul Quran
+
+The prohibition of ربا riba
+
+From these verses begins the description of the forbiddance of riba ربا and the injunctions relating to its unlawfulness. This issue is very important from different angles. On the one hand, there are the severe warnings of the Qur'an and Sunnah and on the other, it has been taken today as an integral part of the world economy. The desired liberation from it seems to be infested with difficulties. The problem is very detail-oriented and has to be taken up in all possible aspects.
+
+First of all we have to deliberate into the correct interpretation of these verses of the Qur'an and into what has been said in authentic ahadith and then determine what riba ربا is in the terminology of the Qur'an and Sunnah, what transactions it covers, what is the underlying wisdom behind its prohibition and what sort of harm it brings to society.
+
+The second aspect of riba ربا is intellectual and economic. Is it true that ربا riba guarantees the economic development of the world, so much so, that its suspension will categorically result in the destruction of trade and general economic activity? Or, this whole evil cycle is nothing but the brain-child of those heedless of Allah Almighty and the Hereafter. Otherwise, all economic problems can be solved without it as well. Going a step further, we can even say that the economic peace in the world depends on the elimination of riba ربا ، let alone the resolution of its problems. Riba ربا is the greatest cause of the economic maladies of the world.
+
+This second aspect involves the discussion of an economic problem under which come long debates which are not related to the interpretation of the Qur'an, therefore, we shall restrict ourselves to dealing with the first aspect only, which requires no less details either.
+
+Here we have a total of six verses which state the prohibition of riba ربا and set forth related injunctions. Out of these, the first sentence of the first verse points out to the sad end of those involved in riba ربا transactions and to the disgraceful and disheveled nature of their rising on the day of resurrection. It is said that those who consume riba ربا do not stand except like a man who has been driven crazy by the embrace of some satan or jinn. It appears in hadith that the word, la yaqumuna or 'do not stand' means the rising of the dead from their graves on the day of resurrection in the sense that the dealer in riba ربا ، when he rises from his grave, will rise like the mad man who has been driven crazy by some satan شیطان or jinn.
+
+The first thing we find out from this sentence is that a human being can faint or go mad under the influence of jinns and satans شیطان and the observations of those who have had such experience prove it. Hafiz Ibn Qaiyyim al-Jawziyyah (رح) has confirmed that physicians and philosophers have conceded that epilepsy, fainting or madness are caused by several different reasons, one of which, at times, could also be the input of jinns and satans شیطان . Those who reject this have no other argument in their favour except that obviously it is too far out to believe.
+
+The second point to be noted here is that the Qur'an does not say that the consumers of riba ربا will rise in a state of madness or insanity. Instead, it refers to a peculiar condition of lunacy or fit or stupefaction - as if someone has been embraced by Satan and driven crazy. Perhaps, this carries the hint that a person struck with lunacy or fit is, at times, found inactive and silent while usually these people will not be found in that dormant state. Instead, they would be identified by their ranting, raving and crazy doings as a result of the satanic touch.
+
+Perhaps, there might be yet another hint here. It is commonly noticed that human senses come to a flat nothing after fainting or insanity following a sickness; the very feeling of pain or punishment is just not there. But these people will not be found in that inert state. On the contrary, they would feel, with full sensitivity, the pain and the punishment like one shadowed by-a demon.
+
+Now, at this point, we have to look for certain compatibility in crime and punishment. When punishment comes from Allah Almighty, for a person or group, against a certain crime, it is certainly appropriate to the crime. Therefore, raising the consumers of riba ربا ، without sense, on the day of resurrection is perhaps indicative of a certain parallelism. Isn't it that the consumer of riba ربا is so drunk with his greed for money that he is neither kind to anyone poor, nor does he blush before anyone for what he does? Since he was really senseless during his lifetime in the world, he was raised on the day of resurrection in that same condition. Or, may be, he was so punished because, in the mortal world, he demonstrated his lack of reason as reason, that is, he declared riba ربا to be like trade; therefore, he was made to rise all deprived of his sanity.
+
+Also noteworthy here is the fact that the verse uses the expression ya'kuluna or 'eating' of riba ربا and, by application, means the taking and using of ربا riba. This may be in eating or clothing or housing and its furnishings. But, it was identified with the act of 'eating' because that which is eaten cannot possibly be retrieved, contrary to other type of uses where things can be taken back. Therefore, total possession and monopoly are expressed through the word, ` eating'. This metaphor is found, not only in the Arabic language, but in Urdu, Persian and several other languages (English: 'eat', or the stronger word, 'devour' ).
+
+After that, comes the second sentence, in which, giving the reason for this punishment of the consumers of ربا riba, it has been said that these people have committed two crimes. One: They consumed the prohibited (حرام haram) by dealing in ربا riba. Two: They took it to be lawful (حلال halal ) and, in reply to those who declared it to be حرام haram, they said that buying and selling is very much like ربا riba. Just as 'profit' is derived from ربا riba, so is profit derived from buying and selling. If ربا riba is حرام haram, trade should be حرام haram too, although it is not prohibited in the sight of anyone.
+
+Here, given the dictates of the situation, they might have said that ربا riba is also like trade so, when trade is حلال halal , ربا riba should be حلال halal too. But they, by changing the style of their statement, took a sort of mocking plunge at those who said that ربا riba was حرام haram, thereby telling them in effect - 'if you say ربا riba is حرام haram,, then you must say that trade is also حرام haram'.
+
+In the third sentence, in reply to what these people said, Allah Almighty negated their position by saying that these people regard ربا riba as equal to trade, although there is a world of difference between the two in accordance with the will and command of Allah Almighty. When He has made the one حلال halal and the other, حرام haram - how could they be equal?
+
+Keeping this reply in mind, we should note that the objection raised by those people (the defenders of ربا riba) was based on a purely rational argument. They were simply saying that since both activities aimed at earning profit, their governing injunction should also be one and the same. Praise be to Allah Almighty that He did not answer their rational doubt by a parallel rational explanation. Rather on the contrary, answering in His wisdom, He said that Allah Almighty is the absolute, sovereign master of all and He alone knows the harm and benefit, the good and bad of everything, most comprehensively. When He declares something to be حلال halal , and something else to be حرام haram, you should immediately realize that there must be some loss or harm or evil in that which has been declared حرام haram, even if one does or does not see through it. This is because the actual reality of this whole system, and the benefit and harm that lies therein, can only be encompassed by the same ` Alim العلیم (the Knower) and Khabir الخبیر (the Aware), from Whose reach of knowledge the minutest particle of the world cannot escape. The individuals or groups in this world can identify their expedient gains and their losses, but they just cannot claim to have encompassed the entire range of benefits and harms affecting the whole wide world. There are things that appear to be beneficial for a certain person or group but, when looked at in the perspective of the whole nation or country, the same things prove to be harmful.
+
+Following that, it is said in the third sentence that a person, who had collected some money before ربا riba was declared حرام haram, and who repented after ربا riba was declared حرام haram, and promised to himself that he would not go near it in the future, he then, will find that the amount so collected belonged to him based on the outward dictate of the Shari'ah. Now remains the inward affair, that of his sincere, heart-felt abstinence, or that of his possible hypocritical repentance, that will be retired as a matter between him and His Lord. If the repentance comes from the heart, it will be beneficial in the sight of Allah, otherwise it will pass into nothingness. Common people have no right to doubt about it. However, one who hears good counsel, yet elects to revert to the same erroneous pattern of word and deed, for such people Hell is the place to go since this act of eating ربا riba is a sin. And since their saying, that ربا riba is حلال halal like trade, is haft, they will, for that reason, live in Hell for ever.
+
+Some additional details about ربا Riba
+
+Since ربا riba has become the supporting pillar of the prevailing trading system today, it is commonly noticed that people are usually disposed to balk at the idea of its unlawfulness when confronted with its prohibition under the verses of the Book of Allah and the Traditions of the Holy Prophet ﷺ . Rather than understand and explain its real nature, they tend to diffuse the issue with excuses. I wish to state humbly that the issue has to be first analysed and discussed sanely by taking up each aspect in its proper setting, without which we are sure to end up confusing issues. There are three parts of this discussion:
+
+1. What is the real nature of ربا riba in the Qur'an and Sunnah, and what forms it does it cover?
+
+2. What is the wisdom behind the prohibition of this riba?
+
+3. Granted that ربا riba, no matter how evil it may be, has become a pillar of the economic system all over the contemporary world. Now if we were to abandon it, under injunctions of the Qur'an, how will the system of banking and trade run?
+
+To begin with, the word, ربا (Riba) is a well-known word in the Arabic language. This word was known, not only since the blessed appearance of the noble Prophet ﷺ ، but also during the time when Arabia was pagan and the Qur'an was not yet revealed. Moreover, the verses of Surah al-Nis-a' also tell us that the word ربا riba and its related dealings were equally well-known during the times of the Torah, where too, it was declared حرام haram (unlawful).
+
+It is obvious that ربا riba was known since ages in Arabia and its environs. Continuous transactions were being made as an established custom. When the Qur'an was revealed, it not only prohibited ربا riba but also gave the information that ربا riba was made unlawful for the community of Musa as well. How then, can the nature of this word be-come something so ambiguous that it starts presenting difficulties in understanding and explaining its meaning and applications?
+
+This is the reason why, in the year of Hijrah 8, when the verses of Surah al-Baqarah relating to the unlawfulness of ربا riba were revealed, there appears no report from the noble Companions anywhere which may indicate that they had to face any doubt in understanding the real nature of ربا riba, and that they had to go as far as to verify it with the Holy Prophet himself, something they did in other matters. On the contrary, just as they immediately acted upon the injunction prohibiting liquor the moment it was revealed, very similarly, they abandoned all ربا riba transactions the moment the injunction prohibiting ربا riba was revealed. The Muslims just cancelled all ربا riba amounts that non-Muslims owed to them on all their deals made before the prohibition. Then, the case of Muslims who did not wish to give ربا riba amounts they owed was brought to the court of the Amir of Makkah. He inquired the Holy Prophet ﷺ . The deciding injunction was revealed by Allah Almighty through the verses of Surah al-Baqarah which declared that it was also not permissible now to give or take ربا riba amounts that belonged to the previous times.
+
+Here the non-Muslims might have found the ground to question as to why should they suffer loss of money because of an injunction of Islamic law? Therefore, in order to offset that possibility, the Holy Prophet made it clear in his Address of the Last Hajj that this injunction of Islamic law affects, not only the non-Muslims, but also the Muslims in an equal degree. And the very first amount of ربا riba that was written off was the enormous amount which belonged to Sayyidna ` Abbas ؓ ، the respected uncle of the Holy Prophet ﷺ .
+
+In short, when ربا riba was prohibited, its meaning was no secret. It was a known practice. It was the same ربا riba as the Arabs used to give and take it and called it as such. The Qur'an made it حرام haram, and the Holy Prophet g enforced the ruling, not in the form of some moral teaching, but as the law of the land. However, he did include certain forms of transactions under ربا riba which were not generally held to he ربا riba. It was the determining of these very forms that posed difficulties for Sayyidna ` Urnar ؓ ، and here it was that the leading jurists of Islam differed; otherwise, the real ربا riba, which the Arabs knew by that very name, was never doubted or questioned by anybody as there was no reason to do so.
+
+Now let us find out what ربا riba the Arabs were used to. The renowned commentator, Ibn Jarir ؓ has reported from Sayyidna Mujahid that the ربا riba practised in pagan Arabia which was prohibited by the Qur'an consisted of giving loan for a fixed period and then taking a fixed increase over and above the principal. If the loan was not paid back on the fixed date, an extension of time was granted on condition that the ربا riba was to be further increased. The same information has been reported from Sayyidna Qatadah ؓ ، and from other leading commentators. (Tafsir Ibn Jarir, page 62, volume 3)
+
+Abu Hayyan al-Gharnati, the famous commentator from Andulusia (Spain) has, in his commentary - al-Bahr al-Muhit, reported the same form of ربا riba prevailing in pagan Arabia, that is, they advanced a loan, took their 'profit' on it, and if the time for repayment was to be extended beyond the first due date, they increased the amount of interest in that proportion. This was called ربا riba. These were the people of the same pagan Arabia who said that taking 'profit' when they give their money on loan should also be permissible similar to buying and selling where taking 'profit' is permissible. The Holy Qur'an declared this to be حرام haram and made it clear that the injunctions governing buying and selling were different.
+
+The same subject has been authentically narrated in all reliable books of Tafsir, such as, Tafsir Ibn Kathir, al-Tafsir al-Kabir and Ruh al-Ma` ani etc.
+
+Ibn al-` Arabi has said in Ahkam al-Qur'an:
+
+الربو فی اللغہ الرباوۃ و المردبہ فی الایہ کل زیادۃ لا یقابلھا عرض
+
+Lexically, ربا riba means increase, and in the verse, it means the increase against which there is nothing in exchange but a loan and its time.
+
+Imam al-Razi (رح) has said in his Tafsir that ربا riba takes two forms. It could be ربا riba in trading transactions, and in loans. This second form was what commonly prevailed in جاھلیہ Jahiliyyah or pagan Arabia. The known practice was that they would give their money on loan to someone for a fixed period of time and receive 'profit' against it every month. If the borrower failed to pay back at the appointed time, the time-limit was extended on condition that the amount of ربا riba was to be further increased. This was the ربا riba of the Age of Ignorance (Jahiliyyah جاھلیہ ) which was declared حرام haram (unlawful) by the Holy Qur'an.
+
+In Ahkam al-Qur'an, Imam al-Jassas (رح) defines ربا riba as follows:
+
+ھوالقرض المشروط فیہ الاجل وزیادہ مال علی المستقرض
+
+The loan given for a certain time on condition that the borrower will pay an increased amount above the principal.
+
+In hadith, the Holy Prophet ﷺ has defined ربا riba by saying:
+
+کل فرض جر نفعاً فھوربا
+
+The loan that draws profit is ربا riba.
+
+This hadith appears in al-Jami' al-Saghir and al-Azizi calls it hasan حسن .
+
+To sum up, the giving of loan and then taking 'profit' on it is ربا riba, which was widely known and practised during the جاھلیہ Jahiliyyah in Arabia, which was clearly declared حرام haram by the subject verse of the Holy Qur'an, and which was abandoned by the noble Companions the moment these verses were revealed, and the Holy Prophet ﷺ enforced its prohibition through his judgments in the legal suits. As there was no ambiguity in its connotation, nobody faced any doubt or difficulty in understanding the terms
+
+However, the Holy Prophet ﷺ did include some forms of buying and selling within the range of ربا riba which the Arabs did not take as ربا riba. For instance, in the buying and selling of six commodities on barter basis, he ruled that they be exchanged like for like, equal for equal, and hand-to-hand. Any deviation in measure, more or less, and any credit-oriented transaction with regard to these commodities will also fall within the purview of ربا riba. These six commodities are gold, silver, wheat, barley, dates and grapes.
+
+Under the same principle, the Holy Prophet ﷺ ، after the revelation of the verses of ربا riba, ruled that some forms of transactions in vogue known as al-inuzabanah57 and al-muhagalah58 come under ربا riba, and therefore, declared them to be حرام haram.
+
+(Ibn kathir with reference to Mustadrak Hakim,
+
+57-Al-muzabanah (4p) is the sale of fruit upon its tree by taking fruit already plucked on the basis of conjecture.
+
+58-Al-muhaqalah (4a, dI) is the sale of grains, such as wheat, chick-peas etc, still in the ears of their standing crop by taking dried and husked wheat or chick-peas on the basis of conjecture. Since conjecture has the possibility of things turning out less or more, it was prohibited.
+
+Here the question worth consideration was: Are these six commodities particular as such, or there are other commodities also which fall under the same injunction? If there are some, what shall be the the basis for including other commodities under the same rule? What forms shall be taken to have come under ربا riba? This was the difficulty faced by Sayyidna ` Umar ؓ because of which he said:
+
+اِن آیہ الربوا من آخر ما نزل من القرآن واِن النبی ﷺ قبض قبل اَن یبینۃ لنا فدعوا الربوا و الریبۃ
+
+The verse of ربا riba is among the last verses of the Qur'an. The Holy Prophet was taken away before he could make its details clear for us. So give up not only ربا riba but also all the doubtful transactions. (Ahkam al-Qur'an, Jassas, page 551 and Tafsir Ibn Kathir, with reference to Ibn Majah, page 328, volume 1).
+
+Here Sayyidna ` Umar ؓ is talking about the particular forms of buying and selling transactions, and their details, which were not taken as ربا riba in Jahiliyyah جاھلیہ . Bringing these under the category of ربا riba, the Holy Prophet ﷺ made them haram. As regards the main ربا riba, which was commonly known in Arabia and which was abandoned by the noble Companions ؓ and was enforced by the Holy Prophet ﷺ announcing its prohibition publicly during his Address of the Last Hajj, it was not possible at all that Sayyidna ` Umar ؓ would have faced any difficulty or doubt in understanding it. Moreover, when Sayyidna ` Umar ؓ did face doubt in certain forms of ربا riba, he resolved the problem by proposing that the forms where there is the least doubt of ربا riba should also be abandoned.
+
+But it is surprising that some of those who are slavishly impressed by the veneer of glamour, wealth and the interest-based trading system of today, have deduced from this saying of Sayyidna ` Umar ؓ that the sense of ربا riba had thus been left abstract and that there is room for personal opinion here, the error of which has already been proved by a lot of material before us. In Ahkam al-Qur'an احکام القرآن ، Ibn al-'Arabi has strongly refuted those who had used the words of Sayyidna ` Umar ؓ to classify the verses of ربا riba as abstract. He says:
+
+ان من زعم ان ھذا الایۃ مجملۃ فلم یفھم مقاطع الشریعۃ فان اللہ تعالیٰ ارسل رسولہ الی قوم ھو منھم بلغتھم وانزل علیہ تیسیرا منۃ بلسانہ و لسانھم والربا فی الٖلغۃ والمرادبہ فی الآیۃ کل زیادۃ لا یقابلھا عوض
+
+He who claimed that this verse is abstract did not understand the clear and confident affirmation of the Shari` ah because Allah Almighty sent His messenger to a people of whom he was one, sent him (speaking) in their language, revealed His Book to him so that they comprehend it easily in their language, and in their language the word ربا riba means 'increase"; and in the verse, it means the increase that has no financial consideration against it, (but simply time).
+
+Imam al-Razi (رح) has all of them that ربا riba is of two kinds - the riba on loans and the riba of taking more on barter. The first kind was well-known in جاھلیہ Jahiliyyah and people during those days used to transact it freely. The second kind is what comes through the hadith which rules that increase or decrease in the barter of certain commodities is also included under ربا riba.
+
+It appears in Ahkam al-Qur'an of al-Jassas that ربا riba is of two kinds - the ربا riba in buying and selling and the ربا riba without buying and selling. The ربا riba of جاھلیہ Jahiliyyah belonged to this very second kind. By definition it means the loan on which 'profit' is taken on the basis of time duration. Ibn Rushd has, in Bidayah al-Mujtahid, taken the same view, and has further proved the unlawfulness of the ربا riba of taking profit' on loans, on the authority of the Qur'an, the Sunnah and the consensus of the Muslim community.
+
+In Sharh Ma` ani al-Athar, Imam al-Tahawi (رح) has taken up this subject in great detail. He has said that the ربا riba mentioned in the Qur'an is, openly and clearly, the ربا riba that was given and taken on loans, and it was known as ربا riba in جاھلیہ Jahiliyyah . After that, it was through the statement of the Holy Prophet ﷺ ، and his Sunnah, that the other kind of ربا riba became known, and which was identified with increasing, decreasing or non-cash dealing in particular types of buying and selling activity. That this ربا riba is also haram stands proved by repeated ahadith of the Holy Prophet ﷺ . However, in the absence of fully clear details governing this kind of ربا riba some Companions of the Holy Prophet ﷺ faced difficulty and jurists differed.
+
+Shah Waliullah (رح) has said in.Hujjatullah al-balighah حُجَّۃُ البالغہ that these are two separate things. One is the ربا riba in real terms, and the other is that which is included in the prohibition of ربا riba. The ربا riba in real terms means something additional claimed over the principal in a transaction of loan. But the hadith has included in the prohibition a transaction of bartering certain commodities whereby an additional measure is claimed in exchange of the same commodity. When it appears in the hadith of Sahih al-Bukhari that لا ربا فی النسیہ : "There is no ربا riba except in nasi'ah { loan}", it simply means that the real and primary ربا riba , the one that is commonly understood and termed as ربا riba, is nothing but taking 'profit' on loans. Excepting this, all other kinds have been annexed with it by extending prohibition to all of them.
+
+Summing up the discussion
+
+1. ربا riba was already a known transaction before the revelation of the Qur'an. The taking of increase on loans given for a certain time was called ربا riba.
+
+2. The noble Companions, all of them, abandoned this ربا riba the moment its unlawfulness was revealed in the Qur'an. None of them had any difficulty or doubt in comprehending or explaining its meaning.
+
+3. In the barter transactions of six commodities it was declared by the Holy Prophet g that whenever any one of these is bartered with a similar commodity, both of them must be equal in weight or measure. Any increase or decrease in such transactions has been declared as included in the prohibition of ربا riba . This much was expressly told by the Holy Prophet ﷺ . But the question was whether this special type of prohibition is restricted to these six commodities alone or it extends to some other commodities also, and if it extends to some other commodities, on what basis one can identify those commodities. This question needed a deeper insight into the juristic issues involved, and the Muslim jurists came out with different suggestions to answer this question. It was this very question that agitated the mind of Sayyidna ` Umar ؓ . Since the Holy Prophet ﷺ had not stated these rules himself and because doubt lurked therein,. Sayyidna ` Umar ؓ regretfully wished how good it would have been if the Messenger of Allah had set the relevant rules himself which would have given them peace of mind in doubtful situations. Then he said that not only ربا riba, but also the very doubt of ربا riba , wherever it may be, should be avoided.
+
+4. It is certain that the real and primary ربا riba , which the Muslim jurists have called " ربا riba al-Qur'an" (the ربا riba of Qur'an) or " ربا riba al-Qard" (the ربا riba of loan), is exactly what was known and practised in Arabia, that is, claiming 'profit' on loan against the time allowed for repayment. Other kinds of ربا riba identified in hadith are all annexed to this very ربا riba and come under the injunction governing it. As regards the difference of opinion that rose in the community was exclusively related to this second type of ربا riba deals. The first kind of ربا riba is called ' ربا riba al-Qard فرض ' or "the ربا riba of Qur'an"; that it is categorically haram (forbidden) has never been disputed in the Muslim community.
+
+In short, the ربا riba of today which is supposed to be the pivot of human economy and features in discussions on the problem of interest, is nothing but this ربا riba, the unlawfulness of which stands proved on the authority of the seven verses of the Qur'an, of more than forty ahadith and of the consensus of the Muslim community.
+
+The second kind of ربا riba which occurs in buying and selling is neither common in practice, nor requires any discussion here.
+
+Upto this point, effort was made to clarify the meaning of ربا riba as contemplated in the Qur'an and Sunnah, which is the first step towards understanding the problem of interest.
+
+The Wisdom behind the Prohibition of ربا riba
+
+Now comes the second part of the discussion which relates, to the wisdom behind the prohibition of ربا riba and to the spiritual and economic harms of ربا riba transactions because of which Islam has declared it to be such a major sin.
+
+First of all, we should realize that there is nothing in the entire creation of the world which has no goodness or utility at all. Even in serpents, scorpions, wolves, lions, and in arsenic, that fatal poison, there are thousands of utilities for human beings. Is there anything in this vastness of nature which could really be called bad? Take theft, robbery, villainy, bribery - not one of these remains without this or that benefit. But, it is commonly recognized in every religion and community, in every school of thought, that things which have more benefits and less harms are called beneficial and useful. Conversely, things that cause more harm and less benefit are taken to be harmful and useless. Even the noble Qur'an, while declaring liquor and gambling to be hararn, proclaimed that they do hold some benefits for people, but the curse of sins they generate is far greater than the benefits they yield. Therefore, these cannot be called good or useful; on the contrary, taking these to be acutely harmful and destructive, it is necessary that they be avoided.
+
+The case of riba is not different. Here the consumer of ربا riba does have some temporal benefit apparently coming to him, but its curse in this world and in the Hereafter is much too severe as compared to this benefit.
+
+An intelligent person who compares things in terms of their profit and loss, harm and benefit can hardly include things of casual benefit with an everlasting loss in the list of useful things. Similarly, no sane and just person will say that personal and individual gain, which causes loss to the whole community or group, is useful. In theft, and in robbery, the gain of the gangster and the take of the thief is all too obvious, but it is certainly harmful for the entire community since it ruins its peace and sense of security. That is why no human being calls theft and robbery good.
+
+After these introductory remarks, let us look at the problem of ربا riba. A little deliberation will show that its spiritual and moral loss as compared to the casual or transitory profit earned by the ربا riba -consumer is so severe that it virtually takes away the great quality of being 'human' from him. Again, it should be borne in mind that the transitory gain that comes to him is restricted to his person only. As compared to this, the entire community, victimized by economic crisis, suffers great loss. But, strange are the affairs of the world. When something becomes the craze of the time, its drawbacks go out of sight. One looks for nothing but gains - no matter how small, mean and casual be those gains. Nobody cares 'to look at the harm lying under them - no matter how fatal and universal it may be.
+
+Custom and practice act like chloroform on human temperaments. They make them insensitive, There are very few individuals who would investigate into prevailing customs and practices and then try to understand how beneficial or harmful they are. Bad coming to worse, even if such harms are identified and people are openly warned of the dangers, the conformity to prevailing custom and practice is such that the right course is just not taken.
+
+ربا Riba has become an epidemic in modern times holding the entire world squeezed in its clutches. In fact, it has so reversed the very taste of human nature that the bitter has started tasting sweet. That which is the cause of economic ruin for the entire humanity is being dished out as the solution of economic ills. The situation is such that a thinker who raises his voice in protest is brushed aside as crazy.
+
+All this is what it is. But a physician of humanity must remain the physician he is. Should he, after having closely observed that epidemic has spread in an area and treatment has become ineffective, start thinking of telling people that there is just no disease around and everything is fine, he then becomes a killer of humanity robbing it of its potential. It is the duty of a really expert physician of human affairs, even at a time such as this, that he should continue telling people about the disease and its harmful effects and keep suggesting ways it could be cured.
+
+1. The prophets come to reform human society. Whether or not they will be heard is something they never worry about. If they had waited for people to hear and obey them, کفر kufr and shirk would have certainly filled the whole world. Incidentally, who believed in the kalimah لا إله إلا اللہ محمد رسول اللہ : "There is no God but Allah" when the Last of the Prophets ﷺ was ordained by Allah for its preaching and teaching?
+
+Although ربا riba is taken to be the backbone of contemporary economy, but the truth of the matter is, what some Western thinkers have themselves admitted, that it is no backbone of economics, rather on the contrary, it is a worm grown in and feeding on it.
+
+But it is regrettable that even theoreticians and scientists of today are unable to free themselves from the stranglehold of custom and practice and do some serious thinking in this direction. How is it that even the experience of hundreds of years fails to attract their attention towards the ultimate outcome of ربا riba or interest, which is nothing except that peoples and communities around the world suffer from want and hunger, become victims of many an economic crisis and the poor grow poorer. As compared to their fate, some capitalists take advantage of the wealth of the whole community, become its leeches sucking blood from the body of the community and helping themselves to grow and prosper. The gall of these intellectuals is indeed surprising. When this reality is presented before them, they would like to refute us by taking us to the market places of U.S.A. and E.E.C. so that we could observe the blessings of interest. They like us to be impressed by the prosperity they have acquired through it. In fact, this is like taking us to show the blessings of acts committed by some nation of man-eaters and telling us how chubby and flushed with 'health' they are in their residences and work-places. Then to top that assertion, effort is made to prove on this basis, that this act of theirs is the best of acts.
+
+However, in answer to that, any sane and just person would simply suggest that the 'blessings' of the act of man-eaters cannot be observed in the habitat of the man-eaters. One has to go to other habitats where lie dead bodies in thousands and thousands on whose blood and flesh these beasts have grown. Islam and the Shari'ah of Islam can never accept such an act as correct and useful, as a result of which, the humanity in general and the Muslim community in particular becomes a target of destruction while some individuals, or their groups, go on prospering.
+
+Economic Drawbacks of ربا riba or Interest
+
+If there was no other defect in ربا riba except that it results in the gain of some individuals and the loss of the whole humanity, that one and very defect would have been enough to justify its prohibition and hate-worthiness, although, it does have many other economic drawbacks and spiritual disasters.
+
+First of all, let us understand how ربا riba is the gain of particular individuals and the loss of a community in general. The hackneyed method of ربا riba practised by usurers was so crude that even a person of ordinary commonsense could see how it benefitted a particular person and harmed the community in general. But 'the new enlightenment' of today, or shall we call it 'the new darkness', by producing 'purified' liquor through mechanical processing and aging, by inventing new and fancy forms for theft and robbery, and by innovating novel covers for evil and immodesty, has made everybody so 'civilized' that watchers of the surface are unable to see the evil hidden behind. Very similar to this, in order to continue the practice of ربا riba or interest, individual money-lending counters have been replaced by joint stock companies called banks. Now, to throw dust in everybody's eyes, consumers are 'educated' that this modern method of ربا riba is good for the whole community because common people do not know how to run a business with their money, or cannot do so due to shortage of capital, so money they all have goes as deposit in banks and everyone of them manages to get, no matter how little, some profit in the name of interest. In addition to that, big businessmen are given the opportunity to borrow money on interest from banks, invest in big business and reap the benefits. Thus interest has been made to appear as some sort of 'blessing' which is reaching all individuals of the community!
+
+However, a little honesty will show that this is a grand deception which, by transforming dirty distilleries into posh hotels and hooker-dens into cinemas and night clubs, has been released to present poison as antidote, and the harmful as beneficial. Intelligent people have no problem in seeing through the deceptive covering placed on anti-moral crimes. They know it has inevitably increased crimes, spreading its poison more acutely than ever before. Similar is the case of ربا riba , the new form of which, by making the masses have a sip of an insignificant percentage of interest, has made them accomplices in their crime; while at the same time, they opened for themselves limitless opportunities to keep committing this crime.
+
+Who does not know that this insignificant percentage of interest doled out by 'saving' banks and post offices to clients cannot, by any means, take care of their living expenses. They are, therefore, forced to go for manual labour or seek a job. Business is something they hardly think of themselves, and if somebody does play with the idea for a while, the problem is that the capital of the entire community sits in the banks and the shape of things in business is such that a person with a small capital can hardly make an entry there unless he wishes to commit suicide. The reason is that banks can advance a major loan only to one who has sound credit and large business. One who has a million can get a loan of ten millions. He can run a business valued ten times more than his personal capital would allow. In contrast, the man with a small capital has little or no credit rating; the banks do not trust him enough to advance a loan ten times more than his worth. One who owns a thousand can hardly get an even thousand, let alone ten thousand. Take the case of a person who owns a hundred thousand and runs a business worth a million by using nine hundred thousand of bank money. Suppose he earns a profit of one per cent which means he has earned a ten per cent profit on his hundred thousand. In comparison, a person who uses his personal hundred thousand in business, will earn a profit of no more than one per cent on his hundred thousand, which would be hardly enough to cover even his operating expenses. Then there is yet another factor; the man with a large capital can buy raw material from the market at a price so low and discounted which the small capitalist cannot get. As a result, the man with a small capital is rendered helpless and needy. Should he, secretly pursued by his misfortune, put his foot into some such business already monopolized by big capitalists, they will then, taking him to be an unwelcome partner in their godhood, make the market collapse, even if it be at their cost, making the small capitalist lose all his capital and profit. This is why business gets monopolized by some individuals who happen to be big capitalists.
+
+Let us consider some other injuries caused by this interest-oriented economic system:
+
+1. First comes the great injustice inflicted on the community when a whole set of people are deprived of the opportunity to engage in real business, and are reduced to economic slavery of big capitalists, who elect to give them a 'profit' of their choice as some tip.
+
+2. Another loss that affects the whole country comes through the monopolization of market rates of commodities made possible by this system. They sell high and fill their coffers by emptying the pockets of the whole community. Worse still, they have the evil choice of stopping the sale of their holdings in order to further increase prices by design. If these selfish people were not allowed to feed on the combined capital of the community through the agency of banks, and if they were left with no other alternative but to run their business with their personal capital, things would be different. The small capitalist would have been saved from distress and these self-serving people would not be sitting as demigods on all trading options. The investors with a small capital, by showing profits in business ventures, would have given impetus to others. More and more businesses would come up managed by separate staffers giving livelihood to thousands of needy individuals besides making business profits fairly widespread, and of course, the general availability of merchandise in the market would be favourably affected. The reason is competition which motivates a businessman to reduce his margin of profit.
+
+In short, this Machiavellian method has infected nations and communities with a fatal disease, apart from the brain-washing it has done which makes the patient take disease as the cure.
+
+4. Now let us look at the third economic disaster engineered through bank interests. Here is a person with a capital of ten thousand and he goes in business worth a hundred thousand, the additional capital advanced by a bank as interest-bearing loan. If by chance, he is hit by loss, his capital sinks and he goes insolvent then the outcome is interesting. Just imagine that he bears only ten per cent of the loss, while the rest of the loss, that is ninety per cent, is absorbed by the whole community, whose money he had borrowed from the bank to invest in his business. Even if the bank writes off the loss as an interim measure, it is clear that the bank is the pocket of a nation, and the loss will ultimately hit the nation. The outcome is that the borrowing capitalist was the sole owner of the profit as far as the profit kept coming, leaving nothing or very little for the community. When came the loss, it was passed on to the whole community.
+
+Yet another economic drawback of ربا riba lies in the predicament of the borrower on interest when he is hit by a major loss. Once this happens he is unable to survive anymore. To begin with, he never had enough capital the loss of which he could cushion. The loss throws him into a double distress. Not only does he lose his profit and capital but also, at the same time, gets buried under the bank loan for the liquidation of which he has no means. As compared to this, should he lose his entire capital in an interest-free business, he would, at the most be-come penniless but, burdened with debt he definitely will not be.
+
+In 1954, the cotton business of Pakistan suffered, to use a word of the Qur'an, with the calamity of muhaq: destruction by loss). The Government rescued the businessmen at the cost of millions of rupees but nobody bothered to realize that all this was a curse of ربا riba or interest, for the simple reason that cotton dealers had invested mostly bank-borrowed capital in this business. Their own capital was insignificant. As Divine decree would have it, the cotton market fell so sharply that its price zoomed down from rupees one hundred and twenty-five to just ten rupees. The cotton traders were rendered incapable of returning money to cover bank margins. Left with no choice, the market was closed down and an SOS was sent to the Government. The Government stepped in and bought off the stocks, not at rupees ten, but at the raised price of ninety rupees. Thus it took upon itself the loss of millions and saved these traders from going insolvent. Whose money did the Government have? Naturally, it belonged to the same helpless poor nation, the Muslim ummah!
+
+In short, the naked result of banking business is that some individuals reap benefits out of the capital of the entire community and the loss, when it comes, is made to fall on the whole nation.
+
+The design for deception
+
+You have already seen how ربا riba and interest prey on communities and nations and how some individuals are promoted instead. Along with it, you would do well to discover yet another demonstration of evil genius. When the consumers of ربا riba realized, out of their own experience as well, what the Qur'an has said: يَمْحَقُ اللَّـهُ الرِّ‌بَا that is, earnings of interest have to suffer from the calamity of muhaq مْحَقُ , from loss and destruction, as a result of which one has to go insolvent - they established two permanent institutions: The Insurance and the Stock Exchange. They saw that losses in business occur for two reasons. One of these takes the form of natural calamity like the drowning or burning of a ship or some such mishap of some other nature. The other could be that market rates of stock in hand go lower than its purchase price. The capital invested in both these situations is the jointly owned capital of the community, not that of the individual capitalist, therefore, the loss of the community is higher, and that of the individual capitalist, minimal. But they did not stop at that. In order to shift even this minimal loss factor on to the shoulders of the community, they floated insurance companies which hold the capital of the community, just as banks do. When some natural calamity inflicts losses on these consumers of rib, they use the medium of insurance to shift, not just partial, but the entire loss to the jointly held capital of the community.
+
+People think that insurance companies are God's mercy as they rescue the sinking. But should they observe and think honestly, they would start seeing the same deception here too. Isn't it that their capital was formed by contributions from the community enticed by the promise of help in the event of unforeseen accidents. The truth is that the advantage of receiving large sums of money is derived by capitalists of higher rating, who would, on occasions, burn or bang their own car or get it stolen in order to buy a new one out of the insurance claim. At the probability rate of one or two percent there would be a couple of lucky fellows who might get some money because of accidental death.
+
+Then there is the second kind of institution, the stock exchange which served as a defensive shield against price slumps. This speculative contraption was used to spread out the ill-effects of deals over every individual of the community, transferring thereby the loss coming to them onto the community once again.
+
+This brief account, it is hoped, may have given you at least the idea that bank interest and the business it helps to flourish is the cause of want, hunger and economic incapacity of the entire humanity. Of course, some wealthy individuals have their wealth further increased through this method which results in the unmaking of the community and the making of some individuals who hold the key to the accumulated capital of the country or nation in their hands. Generally governments did notice this enormously disturbing phenomena but the cure they came up with was to increase the income tax rate for big capitalists, so much so that the maximum rate was set almost close to hundred per cent, which was all designed to funnel capital from them back into the national treasury.
+
+But, as a result of such laws and as everyone knows, factories and businesses started maintaining fictional or doctored accounts. In order to hide a lot of capital from the Government, money once again started going into private treasuries.
+
+To sum up, it is universally clear that concentration of wealth in the captivating hands of few individuals of a nation is highly injurious to the economic health of the country. This is why income tax rates are pushed so high, but experience bears out that this was no cure to the disease. Maybe the reason is that the disease was not correctly diagnosed, and the real cause remained undiscovered. This sort of treatment reminds one of the Persian line saying: 'you closed the door for safety without finding out that the enemy was sitting inside the house'.
+
+The reason why wealth concentrates in the hands of big capitalists is nothing but interest-oriented business and the unjust profiteering from national wealth by particular individuals. Unless we put an end to this in accordance with the teachings of Islam and unless we promote the practice that everyone goes in business with 'his' capital only, this disease cannot be cured.
+
+A doubt and its answer
+
+The question arises here when public money is deposited in banks some benefit does trickle on to people, no matter how little it may be. May be, the big capitalists did manage to extract more benefits out of it. But what would happen if this system of depositing money in the banks was not there? The whole thing will end up being what it was in old days when money used to stay in underground chests, which was of no immediate use to the owner, or to anybody else.
+
+The answer to this is that Islam has, on one hand, by declaring interest or ربا riba to be haram (unlawful), closed the door on the concentration of national wealth in the hands of a known few capitalists, while at the same time, it has, by imposing the obligation of the levy of زکاۃ zakah, compelled every owner of the above- threshold capital not to keep his capital frozen but invest it in business. Should a person hoard up his money or gold, and since زکاۃ zakah is a recurring obligation to pay, he will still be giving out the fortieth part of his holdings as زکاۃ zakah every year, as a result of which whatever he has will not be there anymore. Therefore, every sane person will have to put his capital in some useful enterprise, enjoy its benefits and allow others to share it with him and then, from the profit that he makes, he pays his زکاۃ zakah 'properly' as required.
+
+The obligation of zakah ensures progress in business
+
+We know that paying زکاۃ zakah properly has a great utility of its own. It aims to help the poor and the needy in the community. Similarly, this obligation is a wonderful method of persuading people to go in business, so that the economic status of Muslims is upgraded. It is clear when everybody realizes that frozen capital gets no profit, on the contrary, the fortieth part is invariably chiseled away at the end of each year, he will have to think of investing his money in some business. But his business will not follow the model of one man running a business on the strength of capital supplied by millions of people. That model works on interest. Since marketing money is haram, every wealthy person will seek to go in business on his own. And when it so happens that big capitalists are left with no choice but to engage in business supported by their personal capital, those with a small capital will not face the sort of difficulties in business take-offs that confronted them in the event they sought bank loans on interest to run a larger business. Thus the whole country will benefit by the universalization of business and its profits. When this happens, the poor and the needy in the country would certainly become beneficiaries of the system.
+
+Interest: The spiritual ills:
+
+Upto this point we were talking about the economic destructivity of interest. Now let us see how interest-oriented business so adversely affects the morals, and the spiritual potential of man:
+
+1. Sacrifice and generosity are great qualities in human morals. Giving comfort to others at the cost of personal discomfort is wonderful. Interest-loaded business invariably leads to the extinction of this emotional refinement. A compulsive consumer of interest would hardly bear to see somebody else rising up to his level with the help of personal effort and capital. That he would think of passing some benefit to somebody from his resources is a far cry.
+
+2. Rather than be merciful to the distressed, he is on the look out for an opportunity to take undue advantage of his distress.
+
+3. The constant devouring of interest results in increasing greed for money to limits where he is all intoxicated, not knowing good from bad - totally heedless of the sad end of what he is doing.
+
+Is it impossible to run a business without interest?
+
+A discussion of the nature of ربا riba and the ills it plants and promotes in this world and in the Hereafter has already appeared in some details. Now remains the third part relating to the solution of the problem. We have seen its economic and spiritual drawbacks and we know clearly that it has been strictly forbidden in the Qur'an and Sunnah. But the problem is that ربا riba, of all the things, is sitting solid as the sheet-anchor of business in contemporary society. This is the wheel on which runs world business. How can we get free from its hold? These are times when getting rid of the banking system would mean closing down all business.
+
+This can be answered by pointing out that a disease, once it spreads out and becomes an epidemic, certainly poses problems. Treatment does become difficult but useless it is not. Efforts made to correct the system do succeed finally. However, what is needed in the process is patience, steadfastness and courage. It is in the noble Qur'an itself that Allah Almighty has also said:
+
+وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَ‌جٍ
+
+Allah has not burdened you with any hardship in religion. (22:78)
+
+Therefore, there must be a way to avoid ربا riba in which there is no economic loss, doors of national and international business are not closed, and salvation from ربا riba is also achieved.
+
+To begin with, it is generally thought that, given the governing principles of banking as seen from the outside, banking system depends on ربا riba. Without it the banks just could not run. But, this thinking is categorically incorrect. The banking system could still survive as it is even without ربا riba. It could rather come out in better shape, beneficial and useful. However, in order to do so, it is necessary that a group of experts in Shari'ah and banking should, by consultation and cooperation, reconstruct its operating principles. With their proposals and projections, success will not remain far. When the day comes, the day when the banking system is run on the principle of Shari'ah, the whole world will, انشاء اللہ Inshallah, witness the real summum bonum, the great good of the nation and the community it brings in its wake. However, this is not the place to explain these principles and rules based on which the banking system could be run without ربا riba.59
+
+59. This humble writer had, in consultation with some ` ulama', prepared a draft proposal of interest-free banking way back, and this was approved by some experts as practical in present day perspective. There were some who even put this in practice but finally, it did not work due to apathy of businessmen, and of course, the non-availability of Government sanction. فَاِلٰی اللہ المشتکی
+
+ربا Riba is presently 'needed' for two reasons. If needed in business, that can be taken care of by amending the current banking rules. The second compulsion, why the poor and the needy get involved with ربا riba or interest, is that of their inevitable accidental needs. The best solution to this situation is already present in Islam in the form of زکاۃ zakah and obligatory صدقات sadaqat. But, because of heedlessness towards religion and the sources of its knowledge, even the system of زکاۃ zakah has been left inoperative (or ineffective). There is a countless number of Muslims who do not think of زکاۃ zakah, and for that matter, even salah. Those who do pay zakah, specially the gentlemen with large capital holdings, do not bother to calculate strictly and thus do not pay the full زکاۃ zakah amount due. Then there are those who do pay the full amount of زکاۃ zakah due, but their doing so is mechanical, sort of getting rid of it by taking it out of their pockets and be done with. Although the Divine injunction, does not simply call for the taking out of زکاۃ zakah , it rather bids that زکاۃ zakah be paid properly and paying properly can be accomplished correctly only when it is carried to those who deserve it and who are given proprietary rights over it. Now let us imagine how many Muslims there are who would take the trouble of finding the deserving and then arrange to have their زکاۃ zakah reach them? No matter how lacking in financial resources the Muslim ummah may be, but should it be that every زکاۃ zakah-obligated Muslim pays his زکاۃ zakah fully and properly, and adopts the correct method of so paying it by identifying the deserving and making sure that they receive it in their hands and as their possession, then no Muslim will ever need to get involved with interest-bearing borrowing. Of course, when it so happens that a just Islamic government comes into being and operates in accordance with rules laid down by the Shari` ah, and an Islamic
+
+Baytul-Mal is established under its aegis, and in which is deposited the زکاۃ zakah of الاموال الظاہرہ amwal zahirah of all Muslims, then this Baytul-Mal can take care of the need of everyone needy. Should a situation call for a larger loan, this can be given without interest. Similarly, the unemployed can be inducted into the work force by arranging to have them run small shops and stores or by engaging them into a unit of industry. True was the remark made by some European expert who said that Muslims, if they strictly followed the system of زکاۃ zakah they have, will soon find that there is nobody poor and distressed in their community.
+
+In short, just because practices of interest have spread out these days like some epidemic, it is incorrect to take for granted that abandonment of interest-based business would amount to economic suicide, and therefore, modern man is helpless when involved with interest-based dealings in business.
+
+This much is, however, conceded that such abandonment is surely difficult for one or many individuals unless a whole nation, or a determined major party, or an Islamic government itself resolves to accomplish this objective with full and consistent attention. But this phenomena cannot be taken as an excuse for justifying ربا riba in principle.
+
+What has been said here has two aims:
+
+1. Muslim groups and governments who can accomplish this task correctly should focus their attention in this direction to free Muslims, rather the whole world, from the accursed effects of interest.
+
+2. At least, all of us should start knowing what is right and correct in this respect. The disease should be recognized as a disease. Taking or giving interest is a sin but taking the haram to be halal is a much greater sin. At the least, this could be avoided. The practical sin does have some sort of outward benefit but this second sin against knowledge and belief, that effort be made to prove interest as halal, is greater than the first one. It is absurd and wasteful as well because there is hardly any financial loss in regarding interest as haram and confessing any involvement with it as sin. Doing so will close no business down. But the confession of a crime does become fruitful when one gets the توفیق tawfiq (God-given ability) to repent at some time when one could think of ways to avoid it.
+
+In the end, I present some ahadith of the Holy Prophet to further strengthen the statement of above-mentioned aims. These re-assert the same Qur'anic verses where ربا riba has been strongly prohibited and where warnings of severe punishment have been given to those involved in it. The purpose is to bring about, at least, a sense of awakening - the realization that a sin is a sin, and the concern that something should be done to abstain from it. Perhaps, the minimum change that can come out of this is not to make two sins out of one by treating the Haram as halal. Thus we shall be saved from seeing even highly righteous and observing Muslims who would spend nights in تھجد tahajjud (pre-dawn nafl Salah) and ذکر dhikr of Allah (remembrance of Allah), yet when they reach their store or factory in the morning, they would not even think that, by indulging in dealings of interest and gambling, they are committing some sin!
+
+## Personal Reflections

@@ -1,0 +1,167 @@
+---
+arabic_ayat: اَمۡ حَسِبۡتَ اَنَّ اَصۡحٰبَ الۡـكَهۡفِ وَالرَّقِيۡمِۙ كَانُوۡا مِنۡ
+  اٰيٰتِنَا عَجَبًا‏
+sentence_translation: Have you ˹O Prophet˺ thought that the people of the cave and
+  the plaque were ˹the only˺ wonders of Our signs?
+word_by_word:
+  1:
+    arabic: اَمۡ
+    translation: Or
+    transliteration: am
+  2:
+    arabic: حَسِبۡتَ
+    translation: have you thought
+    transliteration: ḥasib'ta
+  3:
+    arabic: اَنَّ
+    translation: that
+    transliteration: anna
+  4:
+    arabic: اَصۡحٰبَ
+    translation: (the) companions
+    transliteration: aṣḥāba
+  5:
+    arabic: الۡـكَهۡفِ
+    translation: (of) the cave
+    transliteration: l-kahfi
+  6:
+    arabic: وَالرَّقِيۡمِۙ
+    translation: and the inscription
+    transliteration: wal-raqīmi
+  7:
+    arabic: كَانُوۡا
+    translation: were
+    transliteration: kānū
+  8:
+    arabic: مِنۡ
+    translation: among
+    transliteration: min
+  9:
+    arabic: اٰيٰتِنَا
+    translation: Our Signs
+    transliteration: āyātinā
+  10:
+    arabic: عَجَبًا‏
+    translation: a wonder
+    transliteration: ʿajaban
+---
+
+## Context
+
+To understand **The Cave** (Al-Kahf) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs (9)When the young men fled for refuge to Al-Kahf. Kahf is a large mountainous cave or cavern.
+
+## Tafsir Ibn Kathir
+
+Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs (9)When the young men fled for refuge to Al-Kahf. They said: "Our Lord! Bestow on us mercy from Yourself, and facilitate for us our affair in the right way! (10)Therefore, We covered up their hearing in Al-Kahf for a number of years (11)Then We raised them up, that We might test which of the two parties was best at calculating the time period they tarried (12)
+
+The Story of the People of Al-Kahf
+
+Here Allah tells us about the story of the people of Al-Kahf in brief and general terms,then He explains it in more detail. He Says:
+
+أَمْ حَسِبْتَ
+
+(Do you think) – O Muhammad –
+
+أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا
+
+(that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs?) meaning, their case was not something amazing compared to Our power and ability, for the creation of the heavens and earth, the alternation of night and day and the subjugation of the sun, moon and heavenly bodies, and other mighty signs indicate the great power of Allah and show that He is able to do whatever He wills. He is not incapable of doing more amazing things than the story of the people of the Cave. Similarly, Ibn Jurayj reported Mujahid saying about,
+
+أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا
+
+(Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs?)
+
+Among Our signs are things that are more amazing than this. Al-'Awfi reported that Ibn 'Abbas said:
+
+أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا
+
+(Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs?)
+
+What I have given to you of knowledge, the Sunnah and the Book is far better than the story of the people of Al-Kahf and Ar-Raqim. Muhammad bin Ishaq said: "(It means) I have not shown My creatures a proof more amazing than the story of the people of the Al-Kahf and Ar-Raqim."
+
+Al-Kahf refers to a cave in a mountain, which is where the young men sought refuge. With regard to the word Ar-Raqim, Al-'Awfi reported from Ibn 'Abbas that it is a valley near Aylah. This was also said [in another narration] by 'Atiyah Al-'Awfi and Qatadah. Ad-Dahhak said: "As for Al-Kahf, it is a cave in the valley, and Ar-Raqim is the name of the valley." Mujahid said, "Ar-Raqim refers to their buildings." Others said it refers to the valley in which their cave was.
+
+Abdur-Razzaq recorded that Ibn 'Abbas said about Ar-Raqim: "Ka'b used to say that it was the town." Ibn Jurayj reported that Ibn 'Abbas said, "Ar-Raqim is the mountain in which the cave was." Sa'id bin Jubayr said, "Ar-Raqim is a tablet of stone on which they wrote the story of the people of the Cave, then they placed it at the entrance to the Cave."
+
+إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا
+
+((Remember) when the young men fled for refuge to Al-Kahf. They said: "Our Lord! Bestow on us mercy from Yourself, and facilitate for us our affair in the right way!")
+
+Here Allah tells us about those young men who fled from their people for the sake of their religion, fearing persecution. So they fled taking refuge in the cave of a mountain, where they hid from their people. When they entered the cave, they asked Allah to show mercy and kindness towards them,
+
+رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً
+
+(Our Lord! Bestow on us mercy from Yourself,) meaning, 'give us Your mercy and conceal us from our people.'
+
+وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا
+
+(and facilitate for us our affair in the right way.) means, direct our matter well, i.e., grant us a good end. As was reported in the Hadith:
+
+وَمَا قَضَيْتَ لَنَا مِنْ قَضَاءٍ فَاجْعَلْ عَاقِبَتَهُ رَشَدًا
+
+(Whatever You have decreed for us, make its consequences good).
+
+فَضَرَبْنَا عَلَىٰ آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا
+
+(Therefore, We covered up their hearing in the cave for a number of years.) meaning, 'We caused them to sleep when they entered the cave, and they slept for many years.'
+
+ثُمَّ بَعَثْنَاهُمْ
+
+(Then We raised them up) from that slumber, and one of them went out with his Dirhams (silver coins) to buy them some food, as it will be discussed in more detail below. Allah says:
+
+ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ أَيُّ الْحِزْبَيْنِ
+
+(Then We raised them up, that We might test which of the two parties) meaning, the two parties who disputed about them,
+
+أَحْصَىٰ لِمَا لَبِثُوا أَمَدًا
+
+(was best at calculating the time period that they tarried.) It was said that this refers to how long they stayed in the cave.
+
+## Maarif ul Quran
+
+Lexical Explanation
+
+Kahf is a large mountainous cave or cavern. If not large, it will be a ghar. The word: الرَّ‌قِيمِ (al-Raqim) literally denotes: اَلمَرقُوم (al-marqum) that is, something written. What does it mean at this place? The sayings of commentators differ about it. Dahhak, Sudiyy and Ibn Jubayr following the authority of Sayyidna ` Abdullah ibn ` Abbas ؓ declare it to mean a written tablet on which the ruler of the time had inscribed the names of the People of Kahf and had it fixed on the entrance to the Cave. For this reason, the People of Kahf are also called the People of al-Raqim (the inscribed ones). Qatadah, ` Atiyyah, ` Awfi and Mujhid have said that Raqim is the name of the valley adjoining the mountain in which the hollow cavern of the People of Kahf was located. Some others have identified this mountain itself as the Raqim. ` Ikrimah says, "I have heard Sayyidna ibn ` Abbas رضی اللہ تعالیٰ عنہما saying - I do not know whether Raqim is the name of some inscribed tablet or some town." Ka'b al-Alahbar and Wahb ibn Munabbih report from Sayyidna Ibn ` Abbas ؓ that Raqim is the name of a town near Ailah, that is, 'Aqabah, situated in the kingdom of the Romans.
+
+Fityah (فِتْيَةُ ) in verse 10 is the plural of: فَتٰی : fata, which means a young man.
+
+The expression: فَضَرَ‌بْنَا عَلَىٰ آذَانِهِمْ (translated as 'so, We veiled their hearing [ putting them to sleep ] ' - 11) literally means to plug ears to prevent someone from hearing. It is used to convey the sense of deep sleep. When sleeping, eyes close first but ears remain active. Sounds are heard. When sleep takes over completely, ears stop functioning. Later, when awake, ears resume their function first for sound startles the person sleeping who then comes out of his sleep.
+
+Commentary
+
+The story of the People of Kahf and Raqim
+
+There are a few subjects of study in this story. First of all, it needs to be determined whether People of Kahf and People of Raqim are two names of the same group, or these are two separate groups. Though, no clarification of this appears in any Sahih Hadith, but Imam al-Bukhari, in his Sahih, has given two separate chapter headings - Ashab al-Kahf and Ashab al-Raqim. Then, under Ashab al-Raqim, he mentions the well-known story of three persons being locked shut into a cave with no way out, which opened later through prayers, and which is there in details in all books of Hadith. From this innovative device of Imam al-Bukhari, it is gathered that, according to him, the People of Kahf are one group, and the appellation of the People of Raqim has been used for those three persons who had taken shelter in the cave at some earlier time. Then a huge rock from the mountain fell on the entrance to the cave and blocked it totally, making it impossible for them to come out. At that moment, it was with reference to whatever righteous deeds they each had done in life that the three of them supplicated before Allah: Our Lord, if we had done this thing for Your good pleasure, please open the passage for us. Following the prayer of the first person, the rock moved a little and light started coming in. By the prayer of the second one, it moved a little more. Then, by the prayer of the third one, the passage opened up fully.
+
+But, Hafiz ibn Hajar has made it clear in Sharh al-Bukhari that, in the light of Hadith reports, there is no clear-cut proof about the People of Raqim being the name for the three persons referred to above. What has happened here is that some narrators have added to the report of Sayyidna Nu` man ibn Bashir ؓ ، a reporter of the incident of the cave, by saying that Sayyidna Nu` man ibn Bashir while mentioning the story of the cave said, 'I heard the Holy Prophet ﷺ mentioning Raqim. He was relating the story of the three who got shut into the cave.' This addition appears in the report of al-Bazzar and al-Tabarani as quoted by Fath-al-Bari. But, to begin with, none of the reports from the usual narrators of this Hadith which are available in details in the six Sahihs and other books of Hadith have included this sentence of Sayyidna Nu` man ibn Bashir ؓ . Even the report of al-Bukhari itself does not have this sentence in it. Then, even within this sentence, it has not been made clear whether or not the Holy Prophet ﷺ had called those three persons who got shut into the cave by the name of the People of Raqim. In fact, the words are: 'he was mentioning Raqim.' Those three were mentioned as a corollary to this statement. As for the difference in the sayings of the Sahabah, 'Tabi` in and commentators in general concerning the meaning of Raqim, it is by itself a proof that there was no Hadith reported from the Holy Prophet ﷺ about the meaning of Raqim as determined by him. Otherwise, how was it possible that once the Holy Prophet ﷺ himself determines the meaning of a word, the Sahabah, Tabi` in and other commentators opt for some other saying contrary to it? Therefore, Hafiz ibn Hajar, the commentator of al-Bukhari, denies that the People of Kahf and the People of Raqim are two separate groups. According to him, the correct position is that both these names apply to one single group. The mention of three persons getting shut into a cave could have been made with the mention of Raqim. It does not necessarily follow from it that these very three persons were 'the Ashab al-Raqim' (the People of Raqim).
+
+Hafiz ibn Hajar has also clarified at this place that the very context of the story of the People of Kahf as described by the Qur'an tells us that the People of Kahf and Raqim are but one group. This is why the majority of commentators and Hadith experts agree that they both are one and the same.
+
+The second issue to be determined here is that of the details of the story. It has two parts. Part one is the spirit of the story, and the real objective. It provides an answer to the question asked by the Jews, and guidance and good counsel for Muslims as well. The second part deals with the historical and geographical aspects of the story. As for the delin-eation of the objective, it plays no role there, for instance: When and where did this event come to pass, who was the infidel king these people ran from and hid in the cave? What were his beliefs, what did he actually do to them because of which they were compelled to run and hide in the cave? How many were they? Exactly how long did they remain asleep? Are they still alive or are they dead?
+
+The Holy Qur'an, under its wise principles and unique methodology, has not related any story in all its detail and order throughout the Qur'an (with the sole exception of the story of Sayyidna Yusuf علیہ السلام) - a common method used in books of history. Instead, it has introduced only a part of each story that was appropriate to the occasion and was partic-ularly related to guiding and teaching human beings. (The reason for excluding the story of Sayyidna Yusuf (علیہ السلام) from the parameter of this method appears in the Tafsir of Surah Yusuf included in Volume V, pages 24, 25)
+
+The same method was used in relating the story of the People of Kahf. Here, the Qur’ an has described its particular parts that were relevant to the real objective. No mention was made of the remaining parts that were purely historical or geographical. Of course, mention was made of the number of the People of Kahf. The questions regarding the period of time they remained asleep were certainly alluded to, even an indication was released towards the answer but, along with it, an instruction was also given that it was not appropriate to investigate and debate such issues. These should be entrusted with Allah Ta` ala. This is the reason why the Holy Prophet ﷺ who was duty-bound to explain the meanings of the Holy Qur’ an never related those parts of the story in any Hadith. It is on the grounds of this Qur'anic methodology that great men among the Sahabah and Tabi` in have declared the essential policy guideline in such matters by saying:
+
+اَبھَمُوا مَآ اَبھَمَہُ اللہُ (الاتقان للسیوطی)
+
+What Allah has left undetermined, you too leave it undetermined. (a1-Itqan li-Suyuti)
+
+This approach and conduct of leading Sahabah and 'I'abi` in required that, in this Tafsir too, those parts of the story should be ignored as ignored by the Qur'an and Hadith. But, this is a time when historical and geographical breakthroughs are taken as great achievements. Therefore, later day scholars of Tafsir have described those parts as well in varying lengths. As far as Tafsir Ma` ariful-Qur'an is concerned, the parts of the story that have already been mentioned in the Qur'an will be covered under the explanation of its verses. The remaining historical and geographical parts of the story are being described here within the limits of their need. However, the truth of the matter is that, even after this description, the end result will remain the same - that is, it is impossible to arrive at a categorical decision in these matters. The reason is that writings in Islamic, and then Christian history, relating to this subject are so different, even contradictory, that one writer determines something in the light of his investigation, opinion and evidence while the other prefers something else.
+
+Events relating to hiding in caves to protect faith have been many and widespread
+
+One major reason for differences existing among historians lies in the great importance attached to monasticism by adherents to the faith brought by Sayyidna ` Isa (علیہ السلام) . As a result, there were several instances spread around different regions and countries of the world where some people took shelter in caves to devote themselves to the worship of Allah Ta’ ala living there for the rest of their lives. Now, where so ever some such event has occurred, it was not so far out for a historian to suspect it to be that of the People of Kahf.
+
+## Personal Reflections

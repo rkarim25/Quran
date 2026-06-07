@@ -1,0 +1,153 @@
+---
+arabic_ayat: وَيَسۡـــَٔلُوۡنَكَ عَنۡ ذِى الۡقَرۡنَيۡنِ​ ؕ قُلۡ سَاَ تۡلُوۡا عَلَيۡكُمۡ
+  مِّنۡهُ ذِكۡرًا ؕ‏
+sentence_translation: They ask you ˹O Prophet˺ about Ⱬul-Qarnain. Say, “I will relate
+  to you something of his narrative.”
+word_by_word:
+  1:
+    arabic: وَيَسۡـــَٔلُوۡنَكَ
+    translation: And they ask you
+    transliteration: wayasalūnaka
+  2:
+    arabic: عَنۡ
+    translation: about
+    transliteration: ʿan
+  3:
+    arabic: ذِى
+    translation: Dhul-qarnain
+    transliteration: dhī
+  4:
+    arabic: الۡقَرۡنَيۡنِ​ ؕ
+    translation: Dhul-qarnain
+    transliteration: l-qarnayni
+  5:
+    arabic: قُلۡ
+    translation: Say
+    transliteration: qul
+  6:
+    arabic: سَاَ تۡلُوۡا
+    translation: I will recite
+    transliteration: sa-atlū
+  7:
+    arabic: عَلَيۡكُمۡ
+    translation: to you
+    transliteration: ʿalaykum
+  8:
+    arabic: مِّنۡهُ
+    translation: about him
+    transliteration: min'hu
+  9:
+    arabic: ذِكۡرًا ؕ‏
+    translation: a remembrance
+    transliteration: dhik'ran
+---
+
+## Context
+
+To understand **The Cave** (Al-Kahf) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And they ask you about Dhul-Qarnayn. Verse 84 opens with the statement: يَسْأَلُونَكَ (They ask you).
+
+## Tafsir Ibn Kathir
+
+And they ask you about Dhul-Qarnayn. Say: "I shall recite to you something of his story. (83)Verily, We established him in the earth, and We gave him the means of everything (84)
+
+The Story of Dhul-Qarnayn
+
+Allah says to His Prophet ﷺ,
+
+وَيَسْأَلُونَكَ
+
+(And they ask you) O Muhammad ﷺ,
+
+عَن ذِي الْقَرْنَيْنِ
+
+(about Dhul-Qarnayn.) i.e., about his story. We have already mentioned how the disbelievers of Makkah sent word to the People of the Book and asked them for some information with which they could test the Prophet ﷺ. They (the People of the Book) said, 'Ask him about a man who traveled extensively throughout the earth, and about some young men who nobody knows what they did, and about the Ruh (the soul),' then Surat Al-Kahf was revealed.
+
+Dhul-Qarnayn had great Power
+
+إِنَّا مَكَّنَّا لَهُ فِي الْأَرْضِ
+
+(Verily, We established him in the earth,) means, 'We have given him great power, so that he had all that kings could have of might, armies, war equipment and siege machinery.' So he had dominion over the east and the west, all countries and their kings submitted to him, and all the nations, Arab and non-Arab, served him. Some of them said he was called Dhul-Qarnayn (the one with two horns) because he reached the two "Horns" of the sun, east and west, where it rises and where it sets.
+
+وَآتَيْنَاهُ مِن كُلِّ شَيْءٍ سَبَبًا
+
+(and We gave him the means of everything.) Ibn 'Abbas, Mujahid, Sa'id bin Jubayr, 'Ikrimah, As-Suddi, Qatadah, Ad-Dahhak and others said, "This means knowledge." Qatadah also said,
+
+وَآتَيْنَاهُ مِن كُلِّ شَيْءٍ سَبَبًا
+
+(and We gave him the means of everything.) "The different parts and features of the earth." Concerning Bilqis, Allah said,
+
+وَأُوتِيَتْ مِن كُلِّ شَيْءٍ
+
+(she has been given all things)[27:23], meaning all things that monarchs like her are given. Thus too was Dhul-Qarnayn: Allah gave him the means of all things, meaning the means and power to conquer all areas, regions and countries, to defeat enemies, suppress the kings of the earth and humiliate the people of Shirk. He was given all that a man like him would need. And Allah knows best.
+
+## Maarif ul Quran
+
+Commentary
+
+Verse 84 opens with the statement: يَسْأَلُونَكَ (They ask you). Who is asking? Related narratives show that they were the Quraysh of Makkah, those who were coached to ask three questions from the Holy Prophet ﷺ . The purpose was to test his prophethood and veracity. The questions were about Ruh (spirit), Ashab al-Kahf (People of Kahf) and Dhul-Qarnain. Two of these have already been answered. The story of the People of Kahf has appeared earlier in this Surah, 9-26. The question about 'Ruh' has appeared towards the later part of the previous Surah (Bani Isra'il 17:85). Who was Dhul-Qarnain and what happened to him? This is the third question. (Al-Bahr al-Muhit)
+
+Dhul-Qarnain: His identity, period and country and the reason why he was so named
+
+Why was he named Dhul-Qarnain? (the one having two horns) Regarding its reason, there are numerous sayings, and strong differences. Some said that he had two curly locks of hair, therefore, he was called Dhul-Qarnain. Some others said that he ruled countries of the East and West, therefore, he was named Dhul-Qarnain. There was someone who also said that he had marks on his head that resembled those of horns. It appears in some narratives that he had wound marks on both sides of his head, therefore, he was identified as Dhul-Qarnain. Allah knows best. But, this much already stands determined that the Qur’ an has certainly not given him the name of Dhul-Qarnain. In fact, this name came from the Jews. He may have been known by this name with them. Whatever part of the event of Dhul-Qarnain has been mentioned by the Holy Qur'an is no more than what is described below:
+
+He was a righteous and just king who reached the East and the West and conquered countries in between and ruled there justly. All sorts of means had been provided to him by Allah Ta` ala in order to help him achieve his objectives. On the route of his conquests, he traveled in three directions: to the far West, to the far East and then to the mountain range in the North. At the last mentioned place, he closed the pass in between two mountains by a wall cast in molten metal which made it possible for the people of the area to stay protected against the pillage of Gog and Magog."
+
+As for the question posed by the Jews to test the veracity and prophet-hood of the Holy Prophet ﷺ ، the answer given had left them satisfied.
+
+They did not ask any_ more questions, such as: Why was he given the name, Dhul-Qarnain? Which country did he come from? What period of time did he belong to? This tells us that the Jews themselves took such questions to be unnecessary and redundant. And it is obvious that the Qur'an mentions only that part of history or stories which relates to what is beneficial in the present life or in the life to come, or on which depends the understanding of something necessary. Therefore, neither did the Qur'an take these things up nor were there any details about it described in any authentic Hadith. And it was for the same reason that the most righteous forbears of Islam, the Sahabah and the Tabi` in also paid no particular attention to it. Now the thing that remains to be addressed is this matter of historical narratives or that of the present Torah and Injil. Then it is also evident that perennial interpolations and alterations have not left even the present Torah and Injil intact as revealed Scriptures. Their status can now be that of history at the most. As for ancient historical narratives, they are overwhelmingly filled with Isra'ili tales, that come from no authentic source, nor have they been found trustworthy in the sight of the learned of any time. Whatever the commentators have said in this mat-ter is a compendium of these very historical narratives. Therefore, there are countless differences in them. Europeans have given great importance to history in modern times. No doubt, they have carried out pains-taking research in this field. Through archaeological excavations and collection of inscriptions and artifacts, they have tried to reach the reality behind past events and in this process, they have come up with achievements not matched in earlier times. But, archaeological finds, inscriptions etc., can certainly help support an event but it is not possible to read a whole event through these. For it, therefore, historical narratives alone have become the basis. As for the validity of old historical narratives in these matters, we have just now learnt that their status is no more than that of a story. In their books, scholars of Tafsir, classical or modern, have reported these narratives in their historical status only - no Qur'anic objective depends on the element of their authenticity. Here too, that which is necessary is being written with the same status in view. A comprehensive research relating to this event appears in 'Qasas al-Qur'an' by Maulana Hifzur-Rahman (رح) . Readers with a taste for history may see it there.
+
+In some narratives, it appears that there have been four kings who ruled over the whole world - two believers, and two, disbelievers. The believing kings are Sayyidna Sulaiman (علیہ السلام) and Dhul-Qarnain while the disbelieving ones are Nimrod (Namrud) and Nebuchadnezzar (Bukht Nassar).
+
+About Dhul-Qarnain, it is a strange coincidence that several men have been famous in the world while bearing the same name. And it is equally strange that the title Sikandar (Alexander) is also attached with the Dhul-Qarnain of every period of time.
+
+Approximately three hundred years before Sayyidna Masih (علیہ السلام) ، there is a king known as Sikandar (Alexander). He is identified with the appellations of the Greek, the Macedonian, the Roman etc. He was the one who had Aristotle (Arastu) as his minister, who fought a war against Dara (Darius) and who conquered his country after killing him. This was the very last person to have become known in the world by the name Sikandar (Alexander). Stories relating to him are comparatively more famous around the world, so some people have also equated him with the Dhul-Qarnain mentioned in the Qur’ an. This is totally wrong because this person was a fire-worshipping polytheist. As for the Dhul-Qarnain mentioned by the Qur'an, he may not be a prophet for ` Ulama' have differed about his being a prophet. But, everyone unanimously agrees that he was a righteous believer - then, there is the textual authority of the Qur'an in its own right which bears testimony to it.
+
+Quoting Ibn ` Asakir, Hafiz Ibn Kathir has given his complete family tree in al-Bidayah wa an-Nihayah which ascends to Sayyidna Ibrahim (علیہ السلام) . He has said, this is the Sikandar who is recognized as the Greek, the Egyptian and the Macedonian, who founded the city of Iskandariyah (Alexandria) after his name and the Roman calendar dates back to his time. This Sikandar Dhul-Qarnain appeared after a long passage of time from the first one. This time has been identified as being more than two thousand years. He was the one who killed Dara (Darius), overpowered the Persian monarchy and conquered their country. But, this person was a polytheist. Declaring him to be the one mentioned in the Qur’ an is totally wrong. Ibn Kathir's own words are being quoted below:
+
+فاما ذولقرنین فھوا سکندر بن فیلبس بن مصریح بن برس بن مبطون بن رومی بن نعطی بن یونانبن یافث بن بونہ بن شرخون بن رومہ بن شرخط بن توفیل بن رومی بن لاصفر بن یقزبن العیص بن اسحٰق بن ابرٰھیم خلیل علیہ الصلوٰۃ والسلام ۔ کذا نسبہ الحافظ ابن عساکر فی تاریخہ المقدونی، الیونانی المصری بانی الاسکندریۃ الذی یؤرخ بایامہ الروم ، وکان متاٌخراً عن الاول بدھر طویل، وکان ھٰذی قبن المسیح بنحو من ثلثمایٔۃ سنۃ و کان ارسطا طالیس الفیلسوف وزیرہ و ھو الذی قتل دارا و اذل ملوک الفرس واوطاٌ ارضھم وانما نبھنا علیہ ، لان کثیرا من الناس یعتقد انھما واحد ، وان المذکور فی القران ھو الذی کان ارطاطلیس وزیرہ، فیقع بسبب ذلک خطاء کبیروفساد عریض طویل، فان الاوَّل کان عبداً مؤمنا صالحاوملکا عادلاً ، وکان وزیرہ الخضر، وقد کان بین زمانیھما ازید من الفی سنۃ، فاین ھذامن ھذا ؟ لا یستویان ولا یشتبھان الا علی غبی لا یعرف حقایٔق الامور (البدایۃ والنھایۃ ص 106/ج 2)
+
+First of all, this research of Imam ibn Kathir, the great scholar of Hadith and history, helps remove a misconception. It clarifies that this Iskandar, who lived three hundred years before Sayyidna Masih (علیہ السلام) who fought Dara (Darius) and the Persian kings, and who is the founder of Alexandria, is not the Dhul-Qarnain mentioned in the Qur’ an. This misconception seems to have affected some leading commentators as well. Abu Hayyan in al-Bahr al-Muhit and ` Allamah 'Alusi in Ruh al-Ma'ani have said that this very Dhul-Qarnain is the one mentioned in the Qur’ an.
+
+The second point emerges from the sentence of Ibn Kathir: وَ اَنَّہ کان نَبِیِّاً (he was a prophet). It shows that, in the sight of Ibn Kathir, the weightier opinion was that he was a prophet. Although, according to the majority of scholars, the weightier opinion is what Ibn Kathir has himself reported on the authority Abi al-Tufayl from Sayyidna Ali ؓ that he was neither a prophet nor an angel, rather was a righteous believer. Therefore, some ` Ulama have explained it by saying that the pronoun in: اَنَّہ کان (he was) reverts to Al-Khadir (علیہ السلام) and not to Dhul-Qarnain - which is closer in sense.
+
+This leaves us with a problem. The Qur’ an mentions Dhul-Qarnain. Who is he? Which period of time did he belong to? Regarding this, sayings of ` Ulama' differ. According to Ibn Kathir, his time was the time of Sayyidna Ibrahim (علیہ السلام) two thousand years before the time of Alexander, the Greek, the Macedonian. Al-Khadir (علیہ السلام) was his minister. Ibn Kathir has also reported from the early righteous elders in al-Bidayah wa an-Nihayah that Dhul-Qarnain went for Hajj traveling on foot. When Sayyidna Ibrahim (علیہ السلام) found out about his arrival, he went out of Makkah to greet him. It is said that Sayyidna Ibrahim (علیہ السلام) also prayed for him and passed out some good counsel to him. (Al-Bidayah, p. 108, v. 3) Tafsir Ibn Kathir reports from Adhraqi that he did tawaf with Sayyidna Ibrahim (علیہ السلام) and offered sacrifice.
+
+And Abu al-Raihan al-Bairuni has said in his book al-'Athar al-Baqiyah ` an al-Qurun al-Khaliyah that 'this Dhul-Qarnain mentioned in the Qur'an is Abu Bakr ibn Samma ibn ` Umar ibn Ifriqis al-Himyari, the one who conquered the East and West of the Earth. Tubba' al-Himyari al-Yamani has shown pride in his poetry that his grandfather, Dhul-Qarnain, was a believer. He says:
+
+قد کان ذوالقرنین جدی مسلماً ملکاً علافی الرض غیر مبعَّد
+
+بَلَغ المشارِقَ والمغارِبَ یَبتَغِی اسباب مُلکِ مَّن کَرِیمِ سَیِّدٖ
+
+Dhul-Qarnain, my grandfather, was a believing Muslim
+
+A king who conquered the non-believing Earth
+
+He reached the Easts and the Wests seeking
+
+Means of power from the noble Master.
+
+Abu Hayyan has reported this narrative in al-Bahr al-Muhit. Ibn Kathir has also mentioned it in al-Bidayah wa an-Nihayah. Ibn Kathir adds that 'this Dhul-Qarnain is the first Tubba' (the title of the kings of Yaman). He was among the Tababi'ah (plural of Tubba' ) of Yaman and this is the same person who had ruled in favour of Sayyidna (علیہ السلام) in the case of Bi'r Sab’ (seven wells) ' - (al-Bidayah, p. 105, v. 2). In all these narratives, irrespective of the difference regarding the elements of his identity, his time period has been identified as that of Sayyidna Ibrahim (علیہ السلام) .
+
+As for the detailed discussion relating to Dhul-Qarnain provided by Maulana Hifzur-Rahman in his book, Qasas a1-Qur'an, it can be stated in a nutshell. It can be said that the Dhul-Qarnain mentioned in the Qur'an is the king of Persia who is called Khorus by the Jews, Cyrus by the Greeks, Gorush by the Persians and Kai-Khusro by the Arabs. His period is said to be the period of Daniyal (Daniel) from among the prophets of Bani Isra'i1 - much later than the time of Sayyidna Ibrahim (علیہ السلام) . This brings it closer to the time of Iskandar al-Maqduni (Alexander, the Macedonian), the killer of Dara (Darius). But, the learned Maulana - like Ibn Kathir - has also strongly maintained that Alexander, the Macedonian who had Aristotle as his minister cannot be the Dhul-Qarnain. The former was a fire-worshipping polytheist while the later, a righteous believer.
+
+According to his research about the detailed description of Bani Isra'il falling into wrongdoing and rebellion twice, and of the respective punishment given to them twice, as in Surah Bani Isra'il (al-''Isra' ), the Qur’ an says on the occasion of the first transgression of Bani Isra'il: بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَا أُولِي بَأْسٍ شَدِيدٍ فَجَاسُوا خِلَالَ الدِّيَارِ‌ (We sent upon you some of Our servants having strong aggressive power, who combed through the houses - 17:5). Here, the men with 'strong aggressive power' are Nebuchadnezzar and his supporting troops who killed forty thousand - seventy thousand in some narratives - men from the Bani Isra'il in Baytul-Maqdis, while taking more than one hundred thousand of them driven like a flock of sheep to his city of Babel. After that, as regards the second statement of the Qur’ an: ثُمَّ رَ‌دَدْنَا لَكُمُ الْكَرَّ‌ةَ عَلَيْهِمْ (Then We gave you your turn to overpower them - 17:6), this event transpired at the hands of the same king, Kai-Khusraw (Khorus or Cyrus). He was a righteous believer. He con-fronted Nebuchadnezzar, secured the release of Bani Isra'il held as captives by him and rehabilitated them back into Palestine. He even went on to resettle and repopulate the city of Baytul-Maqdis that was ran-sacked earlier to the limit that he managed to have all treasures and major effects of Baytul-Maqdis carried away by Nebuchadnezzar from there returned back into the possession of Bani Isra'il. Thus, this person proved to be the savior of Bani Isra'il (the Jews).
+
+It is likely that of the questions the Jews of Madinah had set for the Quraysh of Makkah which they would ask the Holy Prophet ﷺ to test his prophethood, was this question about Dhul-Qarnain and that it had an underlying reason. This question was special since the Jews took him to be their savior and respected him.
+
+In short, Maulana Hifzur-Rahman has collected a sufficiently large number of evidences from the prophesies of the prophets of Bani Isra'il with reference to the present Old Testament as well as from historical narratives to present his research on this subject. Anyone who finds it imperative to proceed towards additional research may consult it. My purpose in reporting all these narratives was simply to bring into focus sayings of leading Muslim scholars, historians and commentators as they relate to the life and time of Dhul-Qarnain. To decide as to whose saying is weightier and worthier out of these is not part of my objective. The reason is that things not claimed by the Qur’ an nor explained by Hadith are things we have not been obligated to fix and clarify on our own for that responsibility does not rest on our shoulders. Thus, whichever saying turns out to be regarded as more weighty, worthy and sound, the aim of the Qur'an will stand achieved after all. Allah knows best. Let us now proceed to the explanation of the verses.
+
+Let us look at the first verse cited above: قُلْ سَأَتْلُو عَلَيْكُم مِّنْهُ ذِكْرً‌ا (I shall now recite to you a narration about him - 83). It prompts us to find out as to why the Holy Qur'an has elected to bypass the possible shorter expression ذِکرَہ dhikrahu (his narrations) at this place and has opted for two words: مِنہُ ذِکراً ('minhu dhikra' ) (some narration about him)? A little reflection would reveal that these two words have been used as indicators. They tell us that the Qur'an has not promised to narrate the entire story of Dhul-Qarnain in its historical setting. Instead, it has stated that it will mention it in part. This is evident from the use of the particle: مِن (min) and the nunnation (tanwin) of 'dhikra' - a distinct feature of Arabic grammar. As for the historical debate relating to the name, lineage and time period of Dhul-Qarnain reported earlier, the Holy Qur’ an has already said in advance that it has skipped it as something unnecessary.
+
+## Personal Reflections

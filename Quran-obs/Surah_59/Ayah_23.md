@@ -1,0 +1,266 @@
+---
+arabic_ayat: هُوَ اللّٰهُ الَّذِىۡ لَاۤ اِلٰهَ اِلَّا هُوَ​ۚ اَلۡمَلِكُ الۡقُدُّوۡسُ
+  السَّلٰمُ الۡمُؤۡمِنُ الۡمُهَيۡمِنُ الۡعَزِيۡزُ الۡجَـبَّارُ الۡمُتَكَبِّرُ​ؕ سُبۡحٰنَ
+  اللّٰهِ عَمَّا يُشۡرِكُوۡنَ‏
+sentence_translation: 'He is Allah—there is no god except Him: the King, the Most
+  Holy, the All-Perfect, the Source of Serenity, the Watcher ˹of all˺, the Almighty,
+  the Supreme in Might, the Majestic. Glorified is Allah far above what they associate
+  with Him ˹in worship˺!'
+word_by_word:
+  1:
+    arabic: هُوَ
+    translation: He
+    transliteration: huwa
+  2:
+    arabic: اللّٰهُ
+    translation: (is) Allah
+    transliteration: l-lahu
+  3:
+    arabic: الَّذِىۡ
+    translation: the One Who
+    transliteration: alladhī
+  4:
+    arabic: لَاۤ
+    translation: (there is) no
+    transliteration: lā
+  5:
+    arabic: اِلٰهَ
+    translation: god
+    transliteration: ilāha
+  6:
+    arabic: اِلَّا
+    translation: but
+    transliteration: illā
+  7:
+    arabic: هُوَ​ۚ
+    translation: He
+    transliteration: huwa
+  8:
+    arabic: اَلۡمَلِكُ
+    translation: the Sovereign
+    transliteration: l-maliku
+  9:
+    arabic: الۡقُدُّوۡسُ
+    translation: the Holy One
+    transliteration: l-qudūsu
+  10:
+    arabic: السَّلٰمُ
+    translation: the Giver of Peace
+    transliteration: l-salāmu
+  11:
+    arabic: الۡمُؤۡمِنُ
+    translation: the Giver of Security
+    transliteration: l-mu'minu
+  12:
+    arabic: الۡمُهَيۡمِنُ
+    translation: the Guardian
+    transliteration: l-muhayminu
+  13:
+    arabic: الۡعَزِيۡزُ
+    translation: the All-Mighty
+    transliteration: l-ʿazīzu
+  14:
+    arabic: الۡجَـبَّارُ
+    translation: the Irresistible
+    transliteration: l-jabāru
+  15:
+    arabic: الۡمُتَكَبِّرُ​ؕ
+    translation: the Supreme
+    transliteration: l-mutakabiru
+  16:
+    arabic: سُبۡحٰنَ
+    translation: Glory (be to)
+    transliteration: sub'ḥāna
+  17:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  18:
+    arabic: عَمَّا
+    translation: from what
+    transliteration: ʿammā
+  19:
+    arabic: يُشۡرِكُوۡنَ‏
+    translation: they associate (with Him)
+    transliteration: yush'rikūna
+---
+
+## Context
+
+To understand **The Exile** (Al-Hashr) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Bukhari and Muslim contain a tradition from Hadrat Sa'id bin Jubair to the effect "When I asked Hadrat Abdullah bin Abbas about Surah Al-Hashr, he replied that it was sent down concerning the battle against the Bani an-Nadir just as Surah Al-Anfal was sent down concerning the Battle of Badr.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. الْقُدُّوسُ The attribute Al-Quddus means 'the Most Pure from all defects', that is, Allah is the Being Who is free from all kinds of defect, deficiency and imperfection which are not in conformity to His Supreme status.
+
+## Tafsir Ibn Kathir
+
+Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. Such are the parables which We put forward to mankind that they may reflect (21)He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful (22)He is Allah, beside Whom La ilaha illa Huwa, Al-Malik, Al-Quddus, As-Salam, Al-Mu'min, Al-Muhaymin, Al-'Aziz, Al-Jabbar, Al-Mutakabbir. Glory be to Allah! Above all that they associate as partners with Him (23)He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir. To Him belong the Best Names. All that is in the heavens and the earth glorify Him. And He is the Almighty, the All-Wise (24)
+
+Asserting the Greatness of the Qur'an
+
+Allah the Exalted emphasizes the greatness of the Qur'an, its high status and of being worthy of making hearts humble and rent asunder upon hearing it, because of the true promises and sure threats that it contains,
+
+لَوْ أَنْزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ ۚ
+
+(Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah.)
+
+If this is the case with a mountain which is hard and huge, that if it was made able to comprehend and understand this Qur'an, will feel humble and crumble from fear of Allah the Exalted, then what about you – O mankind? Why do your hearts not feel softness and humbleness from the fear of Allah, even though you understand Allah's command and comprehend His Book? This is why Allah said,
+
+وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
+
+(Such are the parables which We put forward to mankind that they may reflect.) There is a Hadith of the Mutawatir grade that states that the Messenger of Allah ﷺ had someone make him a Minbar. Before that, he used to stand next to a tree trunk in the Masjid to deliver speeches. So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant. The tree trunk missed hearing the remembrance of Allah and the revelation that were being recited next to it. In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!"
+
+Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah, if it heard Allah's Speech and comprehended it, what about you – O mankind – who heard the Qur'an and understood it? Allah the Exalted said in another Ayah,
+
+وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ ۗ
+
+(And if there had been a Qur'an with which mountains could be moved, or the earth could be cloven asunder, or the dead could be made to speak.)(13:31)
+
+We mentioned the meaning of this Ayah as stating that, if there were a Qur'an that has these qualities, it would be this Qur'an. Allah the Exalted said in another Ayah,
+
+وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ
+
+(And indeed, there are stones out of which rivers gush forth, and indeed, there are of them (stones) which split asunder so that water flows from them, and indeed, there are of them which fall down for fear of Allah.)(2:74)
+
+Glorifying Allah the Exalted by mentioning His Names and Attributes
+
+Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, the All-Knower of the unseen and the seen. He is the Most Gracious, the Most Merciful.) Allah states that He Alone is worthy of worship, there is no Lord or God for the existence, except Him. All that is being worshipped instead of Allah are false deities. Allah is the All-Knower in the unseen and the seen, He knows all that pertains to the creations that we see, and those we cannot see. Nothing in heaven or on earth ever escapes His knowledge, no matter how great or insignificant, big or small, including ants in darkness. Allah's statement,
+
+هُوَ الرَّحْمَٰنُ الرَّحِيمُ
+
+(He is the Most Gracious, the Most Merciful.) was duly explained before at the very beginning of this Tafsir, so it is not necessary to repeat it here, and it asserts that Allah is the Owner of the wide encompassing mercy that entails all of His creation. He is Ar-Rahman and Ar-Rahim of this life and the Hereafter. Allah the Exalted said in other Ayat,
+
+وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ
+
+(And My mercy embraces all things.)(7:156),
+
+كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ ۖ
+
+(Your Lord has written (prescribed) mercy for Himself.)(6:54), and,
+
+قُلْ بِفَضْلِ اللَّهِ وَبِرَحْمَتِهِ فَبِذَٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ
+
+(Say: "In the bounty of Allah, and in His mercy; – therein let them rejoice." That is better than what (the wealth) they amass.)(10:58) Allah the Exalted said,
+
+هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ
+
+(He is Allah, beside Whom La ilaha illa Huwa, Al-Malik.) Al-Malik, meaning "The Owner and King of all things," Who has full power over them without resistance or hindrance. Allah's statement,
+
+الْقُدُّوسُ
+
+(Al-Quddus,) meaning "The Pure," according to Wahb bin Munabbih, while Mujahid and Qatadah said that Al-Quddus means "The Blessed." Ibn Jurayj said that Al-Quddus means "He Whom the honorable angels glorify."
+
+السَّلَامُ
+
+(As-Salam,) meaning "Free from any defects or shortcomings that lessen or decrease His perfect attributes and actions." Allah's statement,
+
+الْمُؤْمِنُ
+
+(Al-Mu'min,) means "Who has granted safety to His servants by promising that He will never be unjust to them, " according to Ad-Dahhak who reported it from Ibn 'Abbas. Qatadah said that Al-Mu'min means that "Allah affirms that His statements are true," while Ibn Zayd said that it means, "He attested to His faithful servants' having faith in Him." Allah's statement,
+
+الْمُهَيْمِنُ
+
+(Al-Muhaymin,) means, according to Ibn 'Abbas and others, "The Witness for His servants actions," that is, the Ever-Watcher over them. Allah said in similar Ayat,
+
+وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
+
+(And Allah is Witness over all things.)(58:6),
+
+ثُمَّ اللَّهُ شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ
+
+(and moreover Allah is Witness over what they used to do.)(10:46), and,
+
+أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ ۗ
+
+(Is then He (Allah) Who takes charge (guards) of every person and knows all that he has earned?)(13:33) Allah said,
+
+الْعَزِيزُ
+
+(Al-'Aziz,) meaning that "He is the Almighty, Dominant over all things." Therefore, His majesty is never violated, due to His might, greatness, irresistible power and pride. Allah said;
+
+الْجَبَّارُ الْمُتَكَبِّرُ
+
+(Al-Jabbar, Al-Mutakabbir), meaning "The Only One worthy of being the Compeller and Supreme." There is a Hadith in the Sahih Collection in which Allah said,
+
+الْعَظَمَةُ إِزَارِي، وَالْكِبْرِيَاءُ رِدَائِي، فَمَنْ نَازَعَنِي وَاحِدًا مِنْهُمَا عَذَّبْتُهُ
+
+(Might is My Izar and pride is My Rida; if anyone disputes any one of them with Me, then I will punish him.) Allah the Exalted said,
+
+سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ
+
+(Glory be to Allah! (High is He) above all that they associate as partners with Him.), then He said,
+
+هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ
+
+(He is Allah, Al-Khaliq, Al-Bari, Al-Musawwir.) Al-Khaliq refers to measuring and proportioning, Al-Bari refers to inventing and bringing into existence what He has created and measured. Surely, none except Allah is able to measure, bring forth and create whatever He wills to come to existence. Allah's statement,
+
+الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ
+
+(Al-Khaliq, Al-Bari, Al-Musawwir.) means, if Allah wills something, He merely says to it "be" and it comes to existence in the form that He wills and the shape He chooses,
+
+فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
+
+(In whatever form He willed, He put you together.)(82:8) Allah describing Himself as being Al-Musawwir, Who brings into existence anything He wills in the shape and form He decides.
+
+Al-Asma' Al-Husna
+
+Allah the Exalted said,
+
+لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ
+
+(To Him belong Al-Asma' Al-Husna (the Best Names).) We explained the meaning of this Ayah in the Tafsir of Surat Al-A'raf. The Two Sahihs recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+إِنَّ للهِ تَعَالَىٰ تِسْعَةً وَتِسْعِينَ اسْمًا، مِائَةً إِلَّا وَاحِدًا، مَنْ أَحْصَاهَا دَخَلَ الْجَنَّةَ، وَهُوَ وِتْرٌ يُحِبُّ الْوِتْرَ
+
+(Allah the Exalted has ninety-nine Names, one hundred less one; whoever then preserves them, will enter Paradise. Allah is Witr (One) and He likes the Witr.)
+
+Everything praises and glorifies Allah
+
+Allah's statement,
+
+يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ
+
+(All that is in the heavens and the earth glorify Him.) is similar to His other statement,
+
+تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
+
+(The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise. But you understand not their glorification. Truly, He is Ever Forbearing, Oft–Forgiving.)(17:44) Allah's statement,
+
+وَهُوَ الْعَزِيزُ
+
+(and He is Al-'Aziz) The Almighty, meaning, His greatness is never humbled,
+
+الْحَكِيمُ
+
+(Al-Hakim) the All-Wise, in His legislation and decrees.
+
+This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
+
+## Maarif ul Quran
+
+الْقُدُّوسُ The attribute Al-Quddus means 'the Most Pure from all defects', that is, Allah is the Being Who is free from all kinds of defect, deficiency and imperfection which are not in conformity to His Supreme status.
+
+الْمُؤْمِنُ The word mu'min, when applied to a human being, means a believer, but when this attribute is applied to Allah, it means the one who provides peace and safety, as explained by Ibn ` Abbas ؓ . It means that He provides safety and perfect peace to those who believe in Allah and His Messengers.
+
+الْمُهَيْمِنُ The attribute Al-Muhaimin, according to Ibn ` Abbas ؓ ، Mujhid and Qatadah means 'Guardian'. The Arabic lexicon Al-Qamus has explained that its route is 'hamn' which means to look after or take care of or watch over'. [ Mazhari ].
+
+الْعَزِيزُ The attribute Al-` Aziz means 'the Almighty'.
+
+الْجَبَّارُ‌ The attribute Al-Jabbar means the One who is dominant. It could also be derived from the word jabr, meaning to 'join broken bones' and thus we have the word jabirah, which refers to the bandage or plaster that is used in binding the broken bones. From this point of view, the attribute would mean that Allah is the Being Who sets aright every broken and useless things, matters or restores all losses and rectifies situations or mends every breakage.
+
+الْمُتَكَبِّرُ‌ The attribute Al-Mutakabbir [ the Lord of Greatness ] is derived from takabbur and that from kibriya' meaning 'greatness' which is one of the peculiar characteristics of Allah. It implies that every greatness is attributable only to Allah who is not in need of anyone. Whoever is in need cannot be great. Therefore, if this word is used for a person other than Allah, it is a defect and sin, because the claim of greatness by a person who is not actually great is false and tantamount to a claim of being a partner of Allah, the Besought of all, in one of His exclusive attributes. That is why the word Al-Mutakabbir, when attributed to Allah is an attribute of perfection, but in respect of others it is no more than a false claim.
+
+## Personal Reflections

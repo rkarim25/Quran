@@ -1,0 +1,228 @@
+---
+arabic_ayat: ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوۡحٍ​ؕ اِنَّهٗ كَانَ عَبۡدًا شَكُوۡرًا‏
+sentence_translation: ˹O˺ descendants of those We carried with Noah ˹in the Ark˺!
+  He was indeed a grateful servant.”
+word_by_word:
+  1:
+    arabic: ذُرِّيَّةَ
+    translation: Offsprings
+    transliteration: dhurriyyata
+  2:
+    arabic: مَنۡ
+    translation: (of one) who
+    transliteration: man
+  3:
+    arabic: حَمَلۡنَا
+    translation: We carried
+    transliteration: ḥamalnā
+  4:
+    arabic: مَعَ
+    translation: with
+    transliteration: maʿa
+  5:
+    arabic: نُوۡحٍ​ؕ
+    translation: Nuh
+    transliteration: nūḥin
+  6:
+    arabic: اِنَّهٗ
+    translation: Indeed, he
+    transliteration: innahu
+  7:
+    arabic: كَانَ
+    translation: was
+    transliteration: kāna
+  8:
+    arabic: عَبۡدًا
+    translation: a servant
+    transliteration: ʿabdan
+  9:
+    arabic: شَكُوۡرًا‏
+    translation: grateful
+    transliteration: shakūran
+---
+
+## Context
+
+To understand **The Night Journey** (Al-Isra) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+("... other than Me as (your) Wakil") means, 'you have no protector, supporter or god besides Me,' because Allah revealed to every Prophet that he should worship Him alone with no partner or associate. Then Allah says:
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And We gave Musa the Scripture and made it a guidance for the Children of Israel (saying): "Take none other than Me as (your) Wakil. Described in this verse is the event of Mi` raj (the Ascent to the heavens, or al-'Isra', the midnight journey of the Holy Prophet ﷺ which is a signal honor and distinctive miracle of our Messenger of Allah ﷺ).
+
+## Tafsir Ibn Kathir
+
+And We gave Musa the Scripture and made it a guidance for the Children of Israel (saying): "Take none other than Me as (your) Wakil. (2)"O offspring of those whom We carried (in the ship) with Nuh! Verily, he was a grateful servant. (3)
+
+Musa and how He was given the Tawrah
+
+When Allah mentions how He took His servant Muhammad ﷺ, on the Journey by Night, He follows it by mentioning Musa, His servant and Messenger who also spoke with Him. Allah often mentions Muhammad and Musa together, may the peace and blessings of Allah be upon them both, and he mentions the Tawrah and the Qur'an together. So after mentioning the Isra', He says:
+
+وَآتَيْنَا مُوسَى الْكِتَابَ
+
+(And We gave Musa the Scripture), meaning the Tawrah.
+
+وَجَعَلْنَاهُ
+
+(and made it), meaning the Scripture,
+
+هُدًى
+
+(a guidance), meaning a guide,
+
+لِّبَنِي إِسْرَائِيلَ أَلَّا تَتَّخِذُوا
+
+(for the Children of Israel (saying): "Take none...") means, lest they should take,
+
+مِن دُونِي وَكِيلًا
+
+("... other than Me as (your) Wakil") means, 'you have no protector, supporter or god besides Me,' because Allah revealed to every Prophet that he should worship Him alone with no partner or associate. Then Allah says:
+
+ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ
+
+(O offspring of those whom We carried (in the ship) with Nuh) by addressing the descendants of those who were carried in the ship with Nuh there is a reminder of the blessings, as if Allah is saying: 'O descendants of those whom We saved and carried in the ship with Nuh, follow in the footsteps of your father,
+
+إِنَّهُ كَانَ عَبْدًا شَكُورًا
+
+(Verily, he was a grateful servant). 'Remember the blessing I have granted you by sending Muhammad.' Imam Ahmad reported that Anas bin Malik said: "The Messenger of Allah ﷺ said:
+
+إِنَّ اللهَ لَيَرْضَى عَنِ الْعَبْدِ أَنْ يَأْكُلَ الْأَكْلَةَ أَوْ يَشْرَبَ الشَّرْبَةَ فَيَحْمَدَ اللهَ عَلَيْهَا
+
+(Allah will be pleased with His servant if, when he eats something or drinks something, he praises Allah for it.)" This was also recorded by Muslim, At-Tirmidhi and An-Nasa'i.
+
+Malik said about Zayd bin Aslam: "He used to praise Allah in all circumstances." In this context, Al-Bukhari mentioned the Hadith of Abu Zar'ah narrating from Abu Hurayrah, who said that the Prophet ﷺ said:
+
+أَنَا سَيِّدُ وَلَدِ آدَمَ يَوْمَ الْقِيَامَةِ
+
+(I will be the leader of the sons of Adam on the Day of Resurrection...) He quoted the Hadith at length, and in the Hadith, the Prophet ﷺ said:
+
+فَيَأْتُونَ نُوحًا فَيَقُولُونَ: يَا نُوحُ إِنَّكَ أَنْتَ أَوَّلُ الرُّسُلِ إِلَى أَهْلِ الْأَرْضِ، وَقَدْ سَمَّاكَ اللهُ عَبْدًا شَكُورًا، فَاشْفَعْ لَنَا إِلَى رَبِّكَ
+
+(They will come to Nuh and will say, 'O Nuh, you were the first of the Messengers sent to the people of earth, and Allah called you grateful servant, so intercede for us with your Lord.') And he quoted the Hadith in full.
+
+## Maarif ul Quran
+
+Commentary
+
+Described in this verse is the event of Mi` raj (the Ascent to the heavens, or al-'Isra', the midnight journey of the Holy Prophet ﷺ which is a signal honor and distinctive miracle of our Messenger of Allah ﷺ). The word: أَسْرَ‌ىٰ (asra) is a derivation from: اِسْرَ‌ىٰ (isra' ) which literally means to make someone travel at night. After that, the introduction of the word: لَيْلًا (lailan) also makes this sense very clear. Then, by placing this word as a common noun, the indication released was that during this event the time spent was that of a part of the night - not even that of the whole night. The journey from al-Masjid al-Haram to al-Masjid al-Aqsa mentioned in this verse is called al-'Isra' and the name of the journey from here to the seven heavens is al-Mi` raj. Isra' stands proved under the definitive textual authority of this verse and the Mi` raj finds mention in the verses of Surah an-Najm and is proved by Ahadith appearing in an uninterrupted succession. The word: بِعَبْدِهِ (bi'abdihi: His servant) used here for the Holy Prophet ﷺ is special. It shows that, in this magnificent setting of honor and welcome, when Allah Ta’ ala, on His own, elects to call someone His servant', a unique bond of love lies embedded therein and that this is the highest honor any man could ever have.
+
+This is similar to what has been said in another verse: عِبَادُ الرَّ‌حْمَـٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْ‌ضِ هَوْنًا (and the servants of Ar-Rahman [ the Most Merciful ] are those who walk on the Earth gently - al-Furqan, 25:63) where the objective is to increase the prestige of those who are acceptable with Him. From here, we also learn that the highest achievement man is capable of is to become a perfect servant of Allah - for, on this eve of special honour, the quality of ideal servitude, out of his many attributes of perfection, was chosen. Then, the presence of this expression yields yet another beneficial outcome in that no one gets the wrong impression of divinity from this wonderful journey by night which, from its beginning to the end, is full of extra-habitual miracles. This is something like what happened with the Christians who fell into deception over the event of Sayyidna ` Isa (علیہ السلام) being raised unto the heavens. For this reason, by saying - ('abd: servant), it was declared that, despite all those attributes, achievements and miracles, the Holy Prophet ﷺ was still a servant of Allah, not god.
+
+The Qur'an, Sunnah and 'Ijma' prove that the Mi` raj was physical.
+
+It is proved from the text of the Holy Qur'an, and from Ahadith coming in uninterrupted succession mentioned later that the entire journey of the Isra' and Mi` raj was not simply spiritual, instead, it was physical - like the journey of anyone else. The very first word of the Holy Qur'an in this Surah: سُبحَانَ (Subhan: Pure is He! ) carries a hint in this direction because this word is used to register wonder or introduce a great marvel. Had the Mi` raj been merely spiritual, just a matter of dream, what was there so unusual about it? As for a dream, every Muslim, even every human being, can see it and report that he or she went to the heavens, did this and did that.
+
+The second indication embedded in the word: عَبد ('abd: servant) also points out in the same direction because ` abd is no spirit all by itself, instead, it is the name of the combination of body and spirit.
+
+In addition to that, when the Holy Prophet ﷺ related the event of Mi` raj to Sayyidah Umm Hani ؓ ، she advised him not to mention it before anyone otherwise people would falsify it even more. Had this been the matter of a dream, what was there in it that needed to be falsified?
+
+After that, when he did tell people about it, the disbelievers of Makkah called it a lie and made fun of him, so much so that some neo-Muslims became apostates (murtadd) after hearing the news. If this would have been the matter of a dream, the likelihood of such reactions was least warranted. And that he had experienced some spiritual Mi` raj in the form of a dream, before this or after that, does not become contrary to it. According to the majority of Muslim scholars, the word: الرُّ‌ؤْيَا (ar-ru'ya) in the verse of the Qur'an: وَمَا جَعَلْنَا الرُّ‌ؤْيَا الَّتِي أَرَ‌يْنَاكَ (And We showed you the scene - 17:60) means: رُؤیۃ (ruyah: seeing). But, it has been expressed through the word: رؤیا (ru۔ ya, which is frequently used in the sense of seeing a dream). The reason for this expression could be that this thing has been called ru'ya in the sense of a simile. This is like someone seeing a dream. And if, ru’ ya is taken to mean dream itself, then, it is also not too far out to say that the event of Mi` raj, in addition to its being physical, also transpired, before or after it, in the form of a spiritual Mi` raj as a dream as well. Therefore, the saying, that it was a dream, reported from Sayyidna ` Abdullah ibn ` Abbas ؓ and Umm al-Mu'minin Sayyidah ` A'ishah ؓ is also correct in its place - but, it does not necessarily imply that physical Mi` raj did not take place.
+
+It appears in Tafsir al-Qurtubi that the Ahadith relating to the event of al-Isra' are recurrent and uninterrupted. Naqqash has reported related narratives from twenty Sahabah of the Holy Prophet ﷺ . Then, Qadi 'Iyad has given additional details in Al-Shifa' (Qurtubi).
+
+Irnam Ibn Kathir (رح) has, in his Tafsir, reported all these narratives and after applying the standard rules of scrutiny has mentioned the names of twentyfive Sahabah from whom these reports come. Their names are:
+
+1. Sayyidna ` Umar ibn al-Khattab,
+
+2. Sayyidna 'Ali al-Murtada,
+
+3. Sayyidna ` Abdullah ibn Mas’ ud,
+
+4. Sayyidna Abu Dharr al-Ghifari,
+
+5. Sayyidna Malik ibn Sa` sa` ah,
+
+6. Sayyidna Abu Hurairah,
+
+7. Sayyidna Abu Said al-Khudri,
+
+8. Sayyidna ` Abdullah ibn ` Abbas,
+
+9. Sayyidna Shaddad ibn Aws,
+
+10. Sayyidna Ubaiyy ibn Ka'b,
+
+11. Sayyidna ` Abd ar-Rahman ibn al-Quraz,
+
+12. Sayyidna Abu Hayyah (اَبُو حیہ),
+
+13. Sayyidna Abu Laila,
+
+14. Sayyidna ` Abdullah ibn ` Umar,
+
+15. Sayyidna Jabir ibn ` Abdullah,
+
+16. Sayyidna Hudhayfah ibn Yaman,
+
+17. Sayyidna Buraidah,
+
+18. Sayyidna Abu Ayyut al-Ansari,
+
+19. Sayyidna Abu 'Umamah,
+
+20. Sayyidna Samurah ibn Jundub,
+
+21. Sayyidna Abu al-Hamra',
+
+22. Sayyidna Suhayb al-Rumi,
+
+23. Sayyidah Umm Hani',
+
+24. Umm al-Mu'minin Sayyidah ` A'ishah,
+
+25. Sayyidah Asma' bint Abi Bakr, After that, Ibn Kathir said:
+
+فَحدِیث الاسراِء اجمع علیہ المسلمون و اعرض عنہ الزنادقۃ و الملحدون (ابن کثیر)
+
+As for the Hadith of al-Isra', there is a consensus of all Muslim on it. Only heretics and atheists have denied it. (Ibn Kathir)
+
+A brief account of Mi` raj - as reported by Ibn Kathir
+
+After having explained the present verse in his Tafsir along with a detailed background of relevant Ahadith, Imam Ibn Kathir (رح) has said: The truth of the matter is that the journey of Isra' came to pass when the Holy Prophet ﷺ was awake, not dreaming. From Makkah al-Mukarramah to Baitulmaqdis, the journey was covered on buraq (a special heavenly horse to ride). When he reached the gate of Baitulmaqdis, he tied the buraq close to the gate, entered the Masjid of Baitulmaqdis and offered two rak’ at of Tahiyyatul-masjid (prayer in honor of the Mosque) facing its orientation. After that, a staircase was brought which had steps to go up from below. Through this staircase, he went to the first heaven. After that, he went to the rest of the heavens. [ Only Allah knows the reality of this staircase - what it was and how did it work and things like that. In our day too, many kinds of stairs are in use. There are stairs that escalate automatically and there are elevators that take one up. Therefore, falling into any doubt or suspicion about this miraculous staircase is not right.] On every heaven, the resident angels greeted him and on every heaven, he met blessed prophets who were stationed on a particular heaven, such as, Sayyidna Musa (علیہ السلام) on the sixth heaven, and Sayyidna Ibrahim Khalilullah (علیہ السلام) on the seventh heaven. After that, he went beyond the stations of all these blessed prophets and reached a plain where he could hear the sound of the pen writing destinies. And he saw the Sidratul-muntaha, the Far Tree in Jannah, on which moths in gold and variegated colors were falling from above by the command of Allah and which was surrounded by angels of Allah. And it was at this place that the Holy Prophet ﷺ saw Sayyidna Jibra` il al-Amin in his real form with six hundred wings. And right there, he saw a flag in green that had the horizon all covered up. And he also saw al-Bayt al-Ma` mur (the well-attended House believed to be located in Jannah exactly above the Baytullah in Makkah) sitting by which was the founder of the Ka'bah, Sayyidna Ibrahim (علیہ السلام) with his back reclining against its wall. Seventy thousand angels enter this Bayt al-Ma` mur every day who shall be waiting for their turn to re-enter there right through the day of Qiyamah. And the Holy Prophet ﷺ saw the Jannah and the Jahannam with his own blessed eyes. At that time, first came the command that his people were being obligated with fifty prayers, then, these were reduced to five. This shows the importance and merit of Salah as being the foremost out of all acts of ` Ibadah.
+
+After that, he alighted back into Baytul-maqdis and, with him, so did the blessed prophets he had met on different heavens (as if) they had come to see him off as far as Baytul-maqdis. At that time, as it was time for Salah, he offered the prayer with all prophets. It is also probable that this Salah was the Salah of Fajr the same day. Ibn Kathir says that this event concerning the prayer with prophets led by the Holy Prophet ﷺ has come to pass, as held by some, before he went to the heavens. But, as obvious, this event took place after the return because it has been reported in the incident relating to his meeting with blessed prophets at different heavens that it was Sayyidna Jibra'il who introduced him to all prophets. Had this event relating to his leading the prayer passed earlier, no introduction was needed there - and, for that matter, it is obvious enough that the real purpose of this journey was to visit with the heavenly hosts. Doing that first appears to be more likely. Once he was done with the real mission, all prophets came to say good bye to him up to Baytul-maqdis and by making him the Imam of the prayer through a signal from Sayyidna Jibra'il, his precedence over others was demonstrated practically.
+
+After that, he departed from Baytul-maqdis riding buraq and reached Makkah al-Mu` azzamah while it was still dark. وَاللہ سبحانہ تعالیٰ اَعلَم (And Allah, the Pure and the High, knows best).
+
+The testimony of a non-Muslim about the event of Mi` raj
+
+It appears in Tafsir ibn Kathir that Hafiz Abu Nu'aym al-Isbahani, in his book, Dala'il al-Nubuwwah, has reported a narrative from Muhammad ibn Ka'b al-Qurazi on the authority of Muhammad ibn ` Amr al-Waqidi giving details of the event as follows:
+
+. The Scholars of Hadith say that Al-Waqidi is weak in Hadith narrations but a cautious Muhaddith like Imam Ibn Kathir has reported his narration for the reason that this matter is not connected with ` Aqa'id or Halal and Haram and in such historical matters his narration is trustworthy - Muhammad Shafi' eager to use this occasion to say things about the Holy Prophet ﷺ which show his insignificance. But, says Abu Sufyan: Nothing stopped me from doing that except that I may slip and say something which turns out to be a lie and I stand disgraced in the eyes of the Emperor and my own comrades keep taunting me for being a liar. Certainly, then it occurred to me that I should relate the event of Mi` raj before him. The Emperor would himself conclude from it that it was a lie. So, I said: I shall describe before you what he claims to have happened to him regarding which you will yourself realize that it was a lie. Hiraql asked: What event is that? Abu Sufyan said: This claimant of prophet-hood says that, one night, he left Makkah al-Mukarramah, reached this Masjid Baytul-maqdis of yours and, then, within that night, before dawn, he returned to us in Makkah al-Mukarramah!
+
+The Holy Prophet ﷺ sent Sayyidna Dihyah ibn Khalifah with a blessed letter from him to the Roman Emperor, Caesar. After that, he has given a detailed account of how Sayyidna Dihyah reached the Emperor, delivered the letter, and how intelligent he was in his mission (an event present in the Sahih of al-Bukhari as well as in all trustworthy books of Hadith). Towards the end of it, it has been reported that Hiraql, the Roman Emperor, once he had read the blessed letter, ordered that all Arab traders who were visiting the country at that time should be assembled together. He wanted to investigate into the background of the Holy Prophet ﷺ . The royal order was carried out. Abu Sufyan ibn Harb and those with him visiting Syria at that time with their famous trade caravan were presented before the Emperor. Details of the questions asked by the Emperor are present in the Sahih of al-Bukhari and Muslim, as well as elsewhere. Abu Sufyan was really
+
+At that time, the leading scholar of Elia' (Baytul-maqdis) was standing close to Hiraql, the Roman Emperor. He disclosed that he knew that night. The Emperor turned to him and inquired as to how did he come to know about it. He submitted that, as a matter of habit, he would not sleep at night until he had closed all gates of Baytul-maqdis. That night he habitually closed all gates but one which would not close despite his effort. He summoned his staff. They all tried but they too failed to close it. The panels of the gate remained simply unmoved from their place. It seemed as if they were trying to move some mountain. Rendered helpless, he called technicians and carpenters. They looked at the gate and decided that the weight of the building has come to rest on the panels of the gate. There was no way it could be closed before morning. When morning comes, they said, they will see how this could be fixed. Nonplussed, he returned leaving both panels of the gate ajar. As soon as it was morning, he came back to the gate where he noticed that someone had made a hole in the rock close to the gate of the Masjid which gave the impression that some animal was tied down there. At that time he had told his colleagues: Perhaps, Allah Ta` ala has caused this gate not to close today because some prophet was to come here. And then, he also stated that this blessed prophet has also offered his prayer in this Masjid of ours. Thereafter, he has described further details. (Ibn Kathir, p. 24, v. 3)
+
+The date of the event of a1-'Isra' and Mi` raj
+
+Imam al-Qurtubi (رح) has said in his Tafsir that the narratives of Hadith regarding the date of Mi` raj are quite different. According to Musa ibn 'Uqbah, this event came to pass six month before the Hijrah to Madinah. Sayyidah ` A'ishah ؓ says that Umm al-Mu'minin Sayyidah Khadijah ؓ had passed away before the injunction making Salah a Fard (obligation) was revealed. Imam Zuhri says that the event of the sad demise of Sayyidah Khadijah ؓ took place seven years after the call to the mission of prophet-hood.
+
+According to some Hadith narratives, the event of Mi` raj happened five years after the call to prophet-hood. Ibn Ishaq says that the event of Mi` raj took place at a time when Islam had spread throughout the tribes of Arabia generally. The outcome of all these narratives is that the event of Mi` raj dates back to several years before the Hijrah to Madinah.
+
+Al-Harbi says that the event of al-'Isra' and Mi` raj has happened during the night of the 27th of Rabi' ath-Thani, one year before Hijrah and Ibn al-Qasim adh-Dhahabi says that it took place eighteen months after the call to prophethood. Esteemed Muhaddithin (Hadith scholars) who have mentioned these different narratives have not followed it up with any decisive statement. And as commonly known, the 27th night of the month of Rajab is the Night of Mi` raj. وَاللہ سُبحَانہ تعالیٰ اعلَم (And Allah, the Pure and the High, knows best).
+
+Al-Masjid al-Haram and al-Masjid al-Aqsa
+
+Sayyidna Abu Dharr al-Ghifari says that he asked the Holy Prophet ﷺ : 'Which Masjid of this world comes first?' He said, 'Al-Masjid al-Haram.' Then he inquired, 'Which one after that?' He said, 'Al-Masjid al-Aqsa.' Then he tried to find out the intervening time difference between the two whereupon he said, 'Forty years.' After that, he added, ' (as for the order of these masajid, this is it) but, Allah Ta’ ala has made the entire Earth a masjid for us. Wherever comes the time of Salah, offer it right there.' (Reported by Muslim)
+
+Early Tafsir authority, Mujahid says that Allah Ta` ala has made the site of Baytullah two thousand years before He made the entire Earth and that its foundations reach as far down as the seventh (strata of) Earth and that al-Masjid al-Aqsa was made by Sayyidna Sulayman (علیہ السلام) . (Reported by an-Nasa'i with sound chains of authority from Sayyidna ` Abdullah ibn ` Umar) (Tafsir al-Qurtubi, p. 137, v. 4)
+
+And al-Masjid al-Haram is the name of the Mosque that stands around the Baytullah ash-Sharif while, on occasions, the entire Haram is also identified as al-Masjid al-Haram. In terms of this second sense, the dichotomy of those two reports - some hold that the Holy Prophet ﷺ left for the nocturnal journey, al-'Isra', from the home of Sayyidah Umm Hani' ؓ while others say that he departed from the section of Baytullah known as Hatim - stands removed. If we were to take al-Masjid al-Haram in its general sense, it is not far out to believe that he may have been there in the home of Sayyidah Umm Hani' ؓ first, then he walked over to the Hatim of Ka'bah and then began the journey of al-'Isra' from there. Allah knows best.
+
+AI-Masjid al-Aqsa and blessings of the Syrian environs
+
+The word: حَول - (hawl: environs) in the verse: بارکنا حولہ (the environs of which We have blessed) means the entire land of Syria. It appears in a Hadith that Allah Ta` ala has made the land from the ` Arsh (Divine Throne) to the river, Euphrates and, out of this, He has bestowed particular holiness on the land of Palestine. (Ruh al-Maani)
+
+The blessings it has are both religious and worldly. As for religious blessings, it has been the Qiblah of all past prophets, and their home, and the last resting place. And that its land is green, lush and verdant with streams, rivers and fruit farms etc. shows its worldly blessings.
+
+Sayyidna Mu` adh ibn Jabal reports that the Holy Prophet ﷺ said: Allah Ta’ ala says: 0 land of Syria, thou art My region chosen from many and I shall make My chosen servants reach thee. (Qurtubi) And it appears in a Hadith of the Musnad of Ahmad that the Imposter will traverse the whole Earth but he will not be granted access to four Mosques: (1) Masjid of Madinah, (2) Masjid of Makkah al-Mukarramah, (3) Al-Masjid al-Aqsa and (4) Masjid Tur.
+
+## Personal Reflections

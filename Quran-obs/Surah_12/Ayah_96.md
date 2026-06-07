@@ -1,0 +1,143 @@
+---
+arabic_ayat: "فَلَمَّاۤ اَنۡ جَآءَ الۡبَشِيۡرُ اَلۡقٰٮهُ عَلٰى وَجۡهِهٖ فَارۡتَدَّ\
+  \ بَصِيۡرًا ​ ؕۚ قَالَ اَلَمۡ اَقُل لَّـكُمۡ​ ۚ​ ۙ اِنِّىۡۤ اَعۡلَمُ مِنَ اللّٰهِ\
+  \ مَا لَا تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+sentence_translation: But when the bearer of the good news arrived, he cast the shirt
+  over Jacob’s face, so he regained his sight. Jacob then said ˹to his children˺,
+  “Did I not tell you that I truly know from Allah what you do not know?”
+word_by_word:
+  1:
+    arabic: فَلَمَّاۤ
+    translation: Then when
+    transliteration: falammā
+  2:
+    arabic: اَنۡ
+    translation: '[that]'
+    transliteration: an
+  3:
+    arabic: جَآءَ
+    translation: arrived
+    transliteration: jāa
+  4:
+    arabic: الۡبَشِيۡرُ
+    translation: the bearer of glad tidings
+    transliteration: l-bashīru
+  5:
+    arabic: اَلۡقٰٮهُ
+    translation: he cast it
+    transliteration: alqāhu
+  6:
+    arabic: عَلٰى
+    translation: over
+    transliteration: ʿalā
+  7:
+    arabic: وَجۡهِهٖ
+    translation: his face
+    transliteration: wajhihi
+  8:
+    arabic: فَارۡتَدَّ
+    translation: then returned (his) sight
+    transliteration: fa-ir'tadda
+  9:
+    arabic: بَصِيۡرًا ​ ؕۚ
+    translation: then returned (his) sight
+    transliteration: baṣīran
+  10:
+    arabic: قَالَ
+    translation: He said
+    transliteration: qāla
+  11:
+    arabic: اَلَمۡ
+    translation: Did not
+    transliteration: alam
+  12:
+    arabic: اَقُل
+    translation: I say
+    transliteration: aqul
+  13:
+    arabic: لَّـكُمۡ​ ۚ​ ۙ
+    translation: to you
+    transliteration: lakum
+  14:
+    arabic: اِنِّىۡۤ
+    translation: indeed, I
+    transliteration: innī
+  15:
+    arabic: اَعۡلَمُ
+    translation: '[I] know'
+    transliteration: aʿlamu
+  16:
+    arabic: مِنَ
+    translation: from
+    transliteration: mina
+  17:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  18:
+    arabic: مَا
+    translation: what
+    transliteration: mā
+  19:
+    arabic: لَا
+    translation: not
+    transliteration: lā
+  20:
+    arabic: "تَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    translation: you know
+    transliteration: taʿlamūna
+---
+
+## Context
+
+To understand **Joseph** (Yusuf) 96, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. Said in verse 96 is: فَلَمَّا أَن جَاءَ الْبَشِير that is, ` when this man with the good news reached Canaan' and put the shirt of Sayyidna Yusuf (علیہ السلام) over the face of his father, his eyesight returned and he became a sighted man.
+
+## Tafsir Ibn Kathir
+
+Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. He said: "Did I not say to you, 'I know from Allah that which you know not?' (96)They said: "O our father! Ask forgiveness (from Allah) for our sins, indeed we have been sinners. (97)He said: "I will ask my Lord for forgiveness for you, verily, He! Only He is the Oft-Forgiving, the Most Merciful. (98)
+
+Yahudha brings Yusuf's Shirt and Good News
+
+Ibn 'Abbas and Ad-Dahhak said;
+
+الْبَشِيرُ
+
+(good news) means information. Mujahid and As-Suddi said that the bearer of good news was Yahudha, son of Ya'qub. As-Suddi added, "He brought it (Yusuf's shirt) because it was he who brought Yusuf's shirt stained with the false blood. So he liked to erase that error with this good act, by bringing Yusuf's shirt and placing it on his father's face. His father's sight was restored to him." Ya'qub said to his children,
+
+أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
+
+(Did I not say to you, 'I know from Allah that which you know not'), that I know that Allah will return Yusuf to me and that,
+
+إِنِّي لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَا أَن تُفَنِّدُونِ
+
+(I do indeed feel the smell of Yusuf, if only you think me not senile.)
+
+Yusuf's Brothers feel Sorry and Regretful
+
+This is when Yusuf's brothers said to their father, with humbleness,
+
+يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ - قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي ۖ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+
+("O our father! Ask forgiveness (from Allah) for our sins, indeed we have been sinners." He said: "I will ask my Lord for forgiveness for you, verily, He! Only He is the Oft-Forgiving, the Most Merciful.")
+
+and He forgives those who repent to Him. 'Abdullah bin Mas'ud, Ibrahim At-Taymi, 'Amr bin Qays, Ibn Jurayj and several others said that Prophet Ya'qub delayed fulfilling their request until the latter part of the night.
+
+## Maarif ul Quran
+
+Said in verse 96 is: فَلَمَّا أَن جَاءَ الْبَشِير that is, ` when this man with the good news reached Canaan' and put the shirt of Sayyidna Yusuf (علیہ السلام) over the face of his father, his eyesight returned and he became a sighted man. The man who came with the good news was Yahuda, the same brother of Sayyidna Yusuf (علیہ السلام) who had brought his shirt from Egypt.
+
+The last sentence of the verse is: قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ مِنَ اللَّـهِ مَا لَا تَعْلَمُونَ (He [ Ya` qub ] said, 'Did I not tell you that I know from Allah what you do not know?' - 96) - that Yusuf is alive and we shall meet again.
+
+## Personal Reflections

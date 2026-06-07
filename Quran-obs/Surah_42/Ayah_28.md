@@ -1,0 +1,165 @@
+---
+arabic_ayat: وَهُوَ الَّذِىۡ يُنَزِّلُ الۡغَيۡثَ مِنۡۢ بَعۡدِ مَا قَنَطُوۡا وَيَنۡشُرُ
+  رَحۡمَتَهٗ​ ؕ وَهُوَ الۡوَلِىُّ الۡحَمِيۡدُ‏
+sentence_translation: He is the One Who sends down rain after people have given up
+  hope, spreading out His mercy. He is the Guardian, the Praiseworthy.
+word_by_word:
+  1:
+    arabic: وَهُوَ
+    translation: And He
+    transliteration: wahuwa
+  2:
+    arabic: الَّذِىۡ
+    translation: (is) the One Who
+    transliteration: alladhī
+  3:
+    arabic: يُنَزِّلُ
+    translation: sends down
+    transliteration: yunazzilu
+  4:
+    arabic: الۡغَيۡثَ
+    translation: the rain
+    transliteration: l-ghaytha
+  5:
+    arabic: مِنۡۢ
+    translation: after
+    transliteration: min
+  6:
+    arabic: بَعۡدِ
+    translation: after
+    transliteration: baʿdi
+  7:
+    arabic: مَا
+    translation: '[what]'
+    transliteration: mā
+  8:
+    arabic: قَنَطُوۡا
+    translation: they have despaired
+    transliteration: qanaṭū
+  9:
+    arabic: وَيَنۡشُرُ
+    translation: and spreads
+    transliteration: wayanshuru
+  10:
+    arabic: رَحۡمَتَهٗ​ ؕ
+    translation: His mercy
+    transliteration: raḥmatahu
+  11:
+    arabic: وَهُوَ
+    translation: And He
+    transliteration: wahuwa
+  12:
+    arabic: الۡوَلِىُّ
+    translation: (is) the Protector
+    transliteration: l-waliyu
+  13:
+    arabic: الۡحَمِيۡدُ‏
+    translation: the Praiseworthy
+    transliteration: l-ḥamīdu
+---
+
+## Context
+
+To understand **The Consultation** (Ash-Shuraa) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty. وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا (And He is the One who sends down rain after they have lost hope - 42:28) ".
+
+## Tafsir Ibn Kathir
+
+And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty. And as for the disbelievers, theirs will be a severe torment (26)And if Allah were to extend the provision for His servants, they would surely rebel in the earth, but He sends down by measure as He wills. Verily, He is, in respect of His servants, the Well-Aware, the All-Seer (27)And He it is Who sends down the rain after they have despaired, and spreads His mercy. And He is the Wali, Worthy of all praise (28)
+
+Allah accepts Repentance and responds to Supplications
+
+Here Allah reminds His servants that He accepts repentance. If they turn to Him and come back to Him, then by His kindness and generosity He forgives, overlooks and conceals (their sins), as He says:
+
+وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)(4:110) It was reported in Sahih Muslim that Anas bin Malik, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said:
+
+للهُ تَعَالَىٰ أَشَدُّ فَرَحًا بِتَوْبَةِ عَبْدِهِ - حِينَ يَتُوبُ إِلَيْهِ - مِنْ أَحَدِكُمْ كَانَتْ رَاحِلَتُهُ بِأَرْضِ فَلَاةٍ، فَانْفَلَتَتْ مِنْهُ، وَعَلَيْهَا طَعَامُهُ وَشَرَابُهُ، فَأَيِسَ مِنْهَا فَأَتَىٰ شَجَرَةً فَاضْطَجَعَ فِي ظِلِّهَا، قَدْ أَيِسَ مِنْ رَاحِلَتِهِ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذَا هُوَ بِهَا، قَائِمَةً عِنْدَهُ، فَأَخَذَ بِخِطَامِهَا، ثُمَّ قَالَ مِنْ شِدَّةِ الْفَرَحِ: اللّٰهُمَّ أَنْتَ عَبْدِي وَأَنَا رَبُّكَ، أَخْطَأَ مِنْ شِدَّةِ الْفَرَحِ
+
+(Allah is more pleased with the repentance of His servant than anyone of you who loses his riding beast in a barren land, and it was carrying his food and drink; he despairs of ever finding it, so he comes to a tree and lies down in its shade, having given up all hope of finding his riding beast; then whilst he is there like that, suddenly he sees it standing near him, so he takes hold of its reins and because of his great joy he says, "O Allah,You are my slave and I am Your Lord!" – i.e,. he makes a mistake because of his great joy.)"
+
+A similar report was also narrated in the Sahih from 'Abdullah bin Mas'ud, may Allah be pleased with him.
+
+وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(And He it is Who accepts repentance from His servants,) It was reported that Az-Zuhri said, concerning this Ayah, that Abu Hurayrah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said:
+
+للهُ أَشَدُّ فَرَحًا بِتَوْبَةِ عَبْدِهِ مِنْ أَحَدِكُمْ يَجِدُ ضَالَّتَهُ فِي الْمَكَانِ الَّذِي يَخَافُ أَنْ يَقْتُلَهُ فِيهِ الْعَطَشُ
+
+(Allah rejoices more over the repentance of His servant than one of you feels when he finds his lost camel in a place where he had feared that he would die of thirst.)" Hammam bin Al-Harith said, "Ibn Mas'ud was asked about a man who commits immoral sins with a woman and then marries her. He said, 'There is nothing wrong with that,' and recited:
+
+وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(And He it is Who accepts repentance from His servants)."
+
+وَيَعْفُو عَنِ السَّيِّئَاتِ
+
+(and forgives sins,) means, He will accept repentance in the future, and He forgives past sins.
+
+وَيَعْلَمُ مَا تَفْعَلُونَ
+
+(and He knows what you do.) means, He knows all your deeds and actions and words, yet He still accepts the repentance of those who repent to Him.
+
+وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(And He answers those who believe and do righteous good deeds,) As-Suddi said, "This means, He responds to them." This was also the view of Ibn Jarir: "It means that He answers their supplication for themselves, their companions and their brothers."
+
+وَيَزِيدُهُمْ مِنْ فَضْلِهِ
+
+(and gives them increase of His bounty.) means, He answers their supplications and gives them more besides. Qatadah said, narrating from Ibrahim An-Nakha'i Al-Lakhmi about the Ayah:
+
+وَيَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(And He answers those who believe and do righteous good deeds,) – (this means) they intercede for their brothers;
+
+وَيَزِيدُهُمْ مِنْ فَضْلِهِ
+
+(and gives them increase of His bounty.) – (this means) they intercede for their brothers' brothers.
+
+وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ
+
+(And as for the disbelievers, theirs will be a severe torment.) – having mentioned the believers and the great reward that is theirs, Allah then mentions the disbelievers and the severe, painful, agonizing torment that they will find with Him on the Day of Resurrection, the Day when they are brought to account.
+
+The Reason why Provision is not Increased
+
+وَلَوْ بَسَطَ اللَّهُ الرِّزْقَ لِعِبَادِهِ لَبَغَوْا فِي الْأَرْضِ
+
+(And if Allah were to extend the provision for His servants, they would surely rebel in the earth,) means, 'if We gave them more provision than they need, this would make them rebel and transgress against one another in an arrogant and insolent manner.'
+
+وَلَٰكِنْ يُنَزِّلُ بِقَدَرٍ مَا يَشَاءُ ۚ إِنَّهُ بِعِبَادِهِ خَبِيرٌ بَصِيرٌ
+
+(but He sends down by measure as He wills. Verily, He is, in respect of His servants, the Well-Aware, the All-Seer.) means, but He gives them provision according to what is in their best interests, and He knows best about that. So He makes rich those who deserve to be rich, and He makes poor those who deserve to be poor.
+
+وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِنْ بَعْدِ مَا قَنَطُوا
+
+(And He it is Who sends down the rain after they have despaired,) means, after the people have given up hope that rain will fall, He sends it down upon them at their time of need. This is like the Ayah:
+
+وَإِنْ كَانُوا مِنْ قَبْلِ أَنْ يُنَزَّلَ عَلَيْهِمْ مِنْ قَبْلِهِ لَمُبْلِسِينَ
+
+(And verily, before that (rain) – just before it was sent down upon them – they were in despair!)(30:49)
+
+وَيَنْشُرُ رَحْمَتَهُ
+
+(and spreads His mercy.) means, He bestows it upon all the people who live in that region. Qatadah said, "We were told that a man said to 'Umar bin Al-Khattab, may Allah be pleased with him, 'O Commander of the faithful, no rain has come and the people are in despair.' 'Umar, may Allah be pleased with him, said, 'Rain will be sent upon you,' and he recited:
+
+وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِنْ بَعْدِ مَا قَنَطُوا وَيَنْشُرُ رَحْمَتَهُ ۚ وَهُوَ الْوَلِيُّ الْحَمِيدُ
+
+(And He it is Who sends down the rain after they have despaired, and spreads His mercy. And He is the Protector, Worthy of all praise)." Meaning He is the One Who is in control of His creation, taking care of what will benefit them in this world and the Hereafter, and the consequences of all His decrees and actions are good, for which He is worthy of all praise.
+
+## Maarif ul Quran
+
+وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا (And He is the One who sends down rain after they have lost hope - 42:28) ". It is usual for Allah Almighty to send down rain whenever the earth is in severe need of water. But by saying "after they have lost hope", attention is being drawn towards the fact that sometimes Allah Almighty, in deviation from His usual norm, delays sending down rain so much that people begin losing hope. Apart from trial, such a happening is to warn that rain and famine are all in the power of Allah Ta’ ala; whenever He wants, He stops rain because of people's misdeeds, etc., so that people turn their attention towards His kindness, and display their humility and dependence. If rains had been subject to a strict time-table without any deviation, people would have considered rains to be purely subject to apparent causes, and would have become inattentive to Allah's Almighty's power. Here losing hope means losing hope in their contrivances because disappointment with Allah's kindness is kufr (infidelity).
+
+## Personal Reflections

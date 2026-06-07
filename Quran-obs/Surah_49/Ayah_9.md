@@ -1,0 +1,294 @@
+---
+arabic_ayat: وَاِنۡ طَآٮِٕفَتٰنِ مِنَ الۡمُؤۡمِنِيۡنَ اقۡتَتَلُوۡا فَاَصۡلِحُوۡا
+  بَيۡنَهُمَا​ۚ فَاِنۡۢ بَغَتۡ اِحۡدٰٮهُمَا عَلَى الۡاُخۡرٰى فَقَاتِلُوا الَّتِىۡ
+  تَبۡغِىۡ حَتّٰى تَفِىۡٓءَ اِلٰٓى اَمۡرِ اللّٰهِ ​ۚ فَاِنۡ فَآءَتۡ فَاَصۡلِحُوۡا
+  بَيۡنَهُمَا بِالۡعَدۡلِ وَاَقۡسِطُوۡا ؕ​ اِنَّ اللّٰهَ يُحِبُّ الۡمُقۡسِطِيۡنَ‏
+sentence_translation: And if two groups of believers fight each other, then make peace
+  between them. But if one of them transgresses against the other, then fight against
+  the transgressing group until they ˹are willing to˺ submit to the rule of Allah.
+  If they do so, then make peace between both ˹groups˺ in all fairness and act justly.
+  Surely Allah loves those who uphold justice.
+word_by_word:
+  1:
+    arabic: وَاِنۡ
+    translation: And if
+    transliteration: wa-in
+  2:
+    arabic: طَآٮِٕفَتٰنِ
+    translation: two parties
+    transliteration: ṭāifatāni
+  3:
+    arabic: مِنَ
+    translation: among
+    transliteration: mina
+  4:
+    arabic: الۡمُؤۡمِنِيۡنَ
+    translation: the believers
+    transliteration: l-mu'minīna
+  5:
+    arabic: اقۡتَتَلُوۡا
+    translation: fight
+    transliteration: iq'tatalū
+  6:
+    arabic: فَاَصۡلِحُوۡا
+    translation: then make peace
+    transliteration: fa-aṣliḥū
+  7:
+    arabic: بَيۡنَهُمَا​ۚ
+    translation: between both of them
+    transliteration: baynahumā
+  8:
+    arabic: فَاِنۡۢ
+    translation: But if
+    transliteration: fa-in
+  9:
+    arabic: بَغَتۡ
+    translation: oppresses
+    transliteration: baghat
+  10:
+    arabic: اِحۡدٰٮهُمَا
+    translation: one of them
+    transliteration: iḥ'dāhumā
+  11:
+    arabic: عَلَى
+    translation: 'on'
+    transliteration: ʿalā
+  12:
+    arabic: الۡاُخۡرٰى
+    translation: the other
+    transliteration: l-ukh'rā
+  13:
+    arabic: فَقَاتِلُوا
+    translation: then fight
+    transliteration: faqātilū
+  14:
+    arabic: الَّتِىۡ
+    translation: one which
+    transliteration: allatī
+  15:
+    arabic: تَبۡغِىۡ
+    translation: oppresses
+    transliteration: tabghī
+  16:
+    arabic: حَتّٰى
+    translation: until
+    transliteration: ḥattā
+  17:
+    arabic: تَفِىۡٓءَ
+    translation: it returns
+    transliteration: tafīa
+  18:
+    arabic: اِلٰٓى
+    translation: to
+    transliteration: ilā
+  19:
+    arabic: اَمۡرِ
+    translation: (the) command
+    transliteration: amri
+  20:
+    arabic: اللّٰهِ ​ۚ
+    translation: (of) Allah
+    transliteration: l-lahi
+  21:
+    arabic: فَاِنۡ
+    translation: Then if
+    transliteration: fa-in
+  22:
+    arabic: فَآءَتۡ
+    translation: it returns
+    transliteration: fāat
+  23:
+    arabic: فَاَصۡلِحُوۡا
+    translation: then make peace
+    transliteration: fa-aṣliḥū
+  24:
+    arabic: بَيۡنَهُمَا
+    translation: between them
+    transliteration: baynahumā
+  25:
+    arabic: بِالۡعَدۡلِ
+    translation: with justice
+    transliteration: bil-ʿadli
+  26:
+    arabic: وَاَقۡسِطُوۡا ؕ​
+    translation: and act justly
+    transliteration: wa-aqsiṭū
+  27:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  28:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  29:
+    arabic: يُحِبُّ
+    translation: loves
+    transliteration: yuḥibbu
+  30:
+    arabic: الۡمُقۡسِطِيۡنَ‏
+    translation: those who act justly
+    transliteration: l-muq'siṭīna
+---
+
+## Context
+
+To understand **The Rooms** (Al-Hujurat) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+As-Suddi said, "A man from Al-Ansar, whose name was 'Imran, had a wife called Umm Zayd. She wanted to visit her family, but her husband prevented her from visiting them by locking her in an upper room. So, none of her family could visit or see her. She sent someone to her family. They came, took her down from the room and wanted to take her away. Her husband was absent at the time, so his family called on their people. Their cousins came to help prevent the wife from going with her family. A push and shove situation occurred that led to them fighting using slippers. This Ayah was then revealed in their case, and the Messenger of Allah ﷺ sent someone to bring peace between them, and they both agreed to resort to the decision of Allah the Exalted." The statement of Allah the Exalted, next,
+
+The commentators have narrated several incidents as a background of the revelation of these verses. Among them is the clash that took place between two Muslim groups. It is not inconceivable that the totality of these incidents might have been the occasion of revelation.
+
+## Tafsir Summary
+
+And if two parties among the believers fall to fighting, then make peace between them both. In the foregoing verses the rights of the Prophet were set out.
+
+## Tafsir Ibn Kathir
+
+And if two parties among the believers fall to fighting, then make peace between them both. But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the command of Allah. Then if it complies, then make reconciliation between them justly, and be equitable. Verily, Allah loves those who are the equitable (9)The believers are but a brotherhood. So make reconciliation between your brothers, and have Taqwa of Allah that you may receive mercy (10)
+
+Making Peace between Disputing Muslims
+
+Allah commands making peace between Muslims that fight each other,
+
+وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا ۖ
+
+(And if two parties among the believers fall to fighting, then make peace between them both.) Therefore, Allah calls both opposing groups among Muslims, believers, although they are fighting each other. Al-Bukhari and other scholars relied on this Hadith as evidence that committing a sin does not nullify faith, no matter how major the sin is. This creed contradicts the creed of the Khawarij sect and those who accepted their idea, such as the Mu'tazilah sect. Al-Bukhari narrated that Al-Hasan said that Abu Bakrah said that the Messenger of Allah ﷺ gave a speech on the Minbar while Al-Hasan bin 'Ali was with him. He was repeatedly looking at Al-Hasan and then at the people; then said,
+
+إِنَّ ابْنِي هٰذَا سَيِّدٌ وَلَعَلَّ اللهَ تَعَالَىٰ أَنْ يُصْلِحَ بِهِ بَيْنَ فِئَتَيْنِ عَظِيمَتَيْنِ مِنَ الْمُسْلِمِينَ
+
+(Verily, this son of mine is a Sayyid (chief or master), and may Allah make peace between two great groups of Muslims through him.) What the Prophet ﷺ said, occurred. Al-Hasan brought peace between the people of Ash-Sham and 'Iraq, after they fought tremendous wars and frightening battles. Allah's statement,
+
+فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ ۚ
+
+(But if one of them outrages against the other, then fight you (all) against the one that which outrages till it complies with the command of Allah.) means, until the rebellious group refers to the commands of Allah and His Messenger ﷺ for judgement and they listen to and obey the truth. There is a Hadith in the Sahih in which Anas states that the Messenger of Allah ﷺ said,
+
+انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا
+
+(Help your brother, whether he is an oppressor or he is oppressed.) "I asked, 'O Allah's Messenger! It is right that I help him if he is oppressed, but how should I help him if he is an oppressor?' He ﷺ said,
+
+تَمْنَعُهُ مِنَ الظُّلْمِ فَذَاكَ نَصْرُكَ إِيَّاهُ
+
+(By preventing him from oppressing others; this is how you help him in this case.)"
+
+Sa'id bin Jubayr said that tribes of Aws and Khazraj once got in a scuffle using date tree branches and slippers. Allah revealed this honorable Ayah commanding them to make peace between them.
+
+As-Suddi said, "A man from Al-Ansar, whose name was 'Imran, had a wife called Umm Zayd. She wanted to visit her family, but her husband prevented her from visiting them by locking her in an upper room. So, none of her family could visit or see her. She sent someone to her family. They came, took her down from the room and wanted to take her away. Her husband was absent at the time, so his family called on their people. Their cousins came to help prevent the wife from going with her family. A push and shove situation occurred that led to them fighting using slippers. This Ayah was then revealed in their case, and the Messenger of Allah ﷺ sent someone to bring peace between them, and they both agreed to resort to the decision of Allah the Exalted." The statement of Allah the Exalted, next,
+
+فَإِنْ فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا ۖ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Then if it complies, then make reconciliation between them justly, and be equitable. Verily, Allah loves those who are the equitable.) means, be fair in your judgement regarding the dispute that occurred between them,
+
+إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+
+(Verily, Allah loves those who are the equitable.) Ibn Abi Hatim recorded, that 'Abdullah bin 'Amr said that the Messenger of Allah ﷺ said,
+
+إِنَّ الْمُقْسِطِينَ فِي الدُّنْيَا عَلَىٰ مَنَابِرَ مِنْ لُؤْلُؤٍ بَيْنَ يَدَيِ الرَّحْمٰنِ عَزَّ وَجَلَّ بِمَا أَقْسَطُوا فِي الدُّنْيَا
+
+(Verily, those who are equitable in this life, will be on podiums made of pearls before Ar-Rahman, the Exalted and Most Honored, on account of their fairness in this life.) An-Nasa'i collected this Hadith. Allah's statement,
+
+إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ
+
+(The believers are but a brotherhood.) means, all of them are brothers in Islam. The Messenger of Allah ﷺ said,
+
+الْمُسْلِمُ أَخُو الْمُسْلِمِ لَا يَظْلِمُهُ وَلَا يُسْلِمُهُ
+
+(The Muslim is the brother of the Muslim, he is not unjust with him nor does he forsake him.) In the Sahih,
+
+وَاللهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ
+
+(Allah helps the servant as long as the servant helps his brother.) Also in the Sahih:
+
+إِذَا دَعَا الْمُسْلِمُ لِأَخِيهِ بِظَهْرِ الْغَيْبِ قَالَ الْمَلَكُ: آمِينَ وَلَكَ بِمِثْلِهِ
+
+(If the Muslim invokes Allah for the benefit of his absent brother, the angel says afterwards, "Amin, and for you the same.") There are many Hadiths with this meaning, such as, in the Sahih,
+
+مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَوَاصُلِهِمْ كَمَثَلِ الْجَسَدِ الْوَاحِدِ، إِذَا اشْتَكَىٰ مِنْهُ عُضْوٌ تَدَاعَىٰ لَهُ سَائِرُ الْجَسَدِ بِالْحُمَّىٰ وَالسَّهَرِ
+
+(The parable of the believers in relation to the kindness, mercy and compassion they have for each other, is that of the body: when an organ of it falls ill, the rest of the body responds with fever and sleeplessness.) And also in Sahih.
+
+الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ يَشُدُّ بَعْضُهُ بَعْضًا
+
+(A believer to another believer is like a building whose different parts enforce each other.) The Prophet ﷺ then clasped his hands with the fingers interlaced.
+
+Allah's statement,
+
+فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ
+
+(So make reconciliation between your brothers,) refers to the two groups that fight each other,
+
+وَاتَّقُوا اللَّهَ
+
+(and have Taqwa of Allah) in all of your affairs,
+
+لَعَلَّكُمْ تُرْحَمُونَ
+
+(that you may receive mercy.) and this is a promise from Allah that He will grant mercy to those who fear and obey Him.
+
+## Maarif ul Quran
+
+Linkage
+
+In the foregoing verses the rights of the Prophet were set out. They also laid down the mannerism in which he should be treated. The verses prohibited any act that would annoy or hurt him. Now this set of verses [ 9-10] establishes the manners, mores, injunctions, and mutual rights and obligations to be observed in individual and social life. The common value of all these rules is to avoid causing any inconvenience to the members of the society.
+
+Occasion of Revelation
+
+The commentators have narrated several incidents as a background of the revelation of these verses. Among them is the clash that took place between two Muslim groups. It is not inconceivable that the totality of these incidents might have been the occasion of revelation. It is also possible that one of these incidents has been the cause of revelation and the other incidents, being similar, were also termed as the occasion of revelation.
+
+Although the immediate addressees of this verse are rulers and those in authority who have the means to fight and wage war, [ as stated by Abu Hayyan in Al-Bahr and preferred by ` Alusi in Ruh-ul-Ma` ani ] all Muslims are addressed in this verse indirectly to assist those in authority in this matter. Where there is no leader, 'amir, king or president, the rule is that the two warring parties should be advised, as far as possible, to cease war. If this is not possible, common people are ordered to stay away from both warring groups: they should neither oppose nor aid any one of them. ] Bayan-ul-Qur’ an ].
+
+'Related Issues and Injunctions
+
+There are several forms of mutual fighting between two Muslim parties: [ 1] both parties are subjects of a Muslim government; [ 2] neither of the parties is the subject of a Muslim government; [ 3] one of the parties his the subject of a Muslim government, but not the other. In the first case, it is compulsory for common Muslims to bring about an understanding between them and try to stop the mutual fighting. If they do not cease fighting by negotiations, then it is imperative for the Muslim ruler to take measures against them. If both parties cease fighting by the intervention of the Islamic government, then the laws of retaliation, retribution and blood-wit will apply. If they do not cease, then both parties will be treated like rebels. If one of the parties withdrew and the other persisted in oppression and transgression, then the persistent group will be treated like a rebel group. The obedient group will be designated as 'Adil" (just). The detailed laws pertaining to rebels may be perused in books of Islamic law. Briefly, the law comprehends the following: Before fighting, their weapons must be seized and confiscated. Then they must be arrested and kept in prison until they repent. Neither in the course of fighting nor after fighting should their children be enslaved. Their wealth should not be treated like the spoils of war. In fact, their wealth will be held in trust until they repent. After repentance their belongings will be returned to them. In the above verses, we come across the following directive:
+
+فَإِن فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا
+
+'...So if it comes back, seek reconciliation between them with fairness, and maintain justice.' [ 49:9]
+
+It means that if the belligerent party ceases fighting, then do not only stop fighting but also think about eliminating the cause of war and mutual dissatisfaction, so that the heart-burnings may come to an end. All enmity and hostilities will thus cease and an atmosphere of brotherhood may prevail for all times to come. Since these people have fought against the Muslim ruler, it was possible that they would not be treated by him equitably. Therefore, the Qur'an lays stress on setting things right between them equitably and justly, so that the rights of no one are violated [ Adapted from Bayan-ul-Qur’ an with reference to Hidayah ].
+
+Ruling
+
+If a very powerful group of Muslims revolts against the Muslim ruler, then it is necessary for the ruler to first hear out their complaint or cause of their dissatisfaction. If a doubt or a misunderstanding has arisen in their mind about some matter, it should be removed. If they show such cause on the basis of which it is permissible in Shari’ ah to oppose a Muslim leader or ruler, like unjust behavior on the part of the government, it is essential for the general body of Muslims to assist the group, so that the leader or ruler may refrain from his tyranny, provided that his tyranny is proved beyond any shadow of doubt (Ibn-ul-Humam; Mazhari). If they cannot show any clearly legitimate reason for their dissatisfaction, revolt, disobedience, and waging war against the Muslim ruler, it is permitted for Muslims to wage war against the rebels. Imam Shafi` i (رح) held that the Muslims should not initiate fight against the rebels unless they first start the fight [ Mazhari ]. This law applies when it is positively and unquestionably clear that the group is rebellious. However, if it is difficult to determine which group is rebellious and which is just, because each party has a valid Shari argument to justify its course of action, then the pros and cons of both parties may be weighed to determine the party that is "just" on the principle of probability. If the juristic argument of one party seems to someone more convincing, it is permitted for him to assist such a group. If someone cannot prefer the standpoint of any one of them, he should remain neutral, as it happened in the civil wars of the Battle of Camel and the Battle of Siffin when many noble Companions ؓ remained aloof.
+
+Conflicts of the Noble Companions ؓ
+
+Imam Abu Bakr Ibn-ul-` Arabi says that this verse of battle between Muslims covers all cases. It includes the case where both parties prepare for war on grounds of a principle of Shari’ ah. Civil wars of the noble Companions ؓ were of this nature. Qurtubi, quoting this view of Ibn-ul-` Arabi, explains the actual situation of the Battle of Camel and the Battle of Siffin and gives guidelines for later generations of Muslims to follow in the light of the battles of the blessed Companions ؓ . This author has dealt with this subject in "Ahkam-ul-Qur'an" in Arabic and his Urdu book "Maqame-Sahabah".The summary of the discussion given in that book with reference to Qurtubi (V.16, P.322) is as follows:
+
+It is not permitted to attribute categorically, and with certainty, to any of the Companions that he was absolutely wrong in his action, because each of them acted according to his own Ijtihad. Their objective was to seek the pleasure of Allah. The Companions ؓ are all our leaders, and it is enjoined upon us that we should hold back our tongue from talking about their mutual differences, and always speak the best things about them. Prophet's companionship is a highly honourable position which should not be violated. The Holy Prophet ﷺ has prohibited to revile them or talk bad about them, and informed us that they have been forgiven and that Allah is pleased with them. Besides, there is the Hadith regarding Sayyidna Talhah ؓ reaching us through several transmitting authorities that:
+
+انّ طلحہ شھید یمشی علی وجہ الارض
+
+"Talhah is a martyr walking on the face of the earth."
+
+If Sayyidna Talhah ؓ was committing a clear sin by going out to wage war against Sayyidna ` Ali, ؓ he could not attain the high status of a martyr. In the same way, if his act might be regarded as a failure to perform his duty on the basis of a clearly wrong interpretation, he would still not attain the status of martyrdom. Martyrdom is attained only when a person is killed in obedience of Allah. Therefore, it is necessary to construe the matter of the Companions ؓ in terms of the principle mentioned above.
+
+Another proof of this is available in authentic and well-established Ahaadith which are reported by Sayyidna ` Ali ؓ himself where the Holy Prophet ﷺ said: "The killer of Zubair is in Hell." Furthermore, Sayyidna ` Ali ؓ reports that the Prophet ﷺ said: "Give news to the killer of Sayyidah Safiyyah's ؓ عنہا son that he will be in Hell." In the light of this we need to believe that Sayyidna Zubair and Sayyidna Talhah ؓ were not sinners or disobedient to Allah in the position taken by them in the battle. Otherwise the Holy Prophet ﷺ would not have referred to Sayyidna Talhah ؓ as a martyr, nor would he predict about the killer of Zubair ؓ that he would be in Hell. Also, he is counted among the ten who were given the glad tidings of attaining Paradise. Traditions relating to this subject have almost reached the grade of continuity [ tawatur ] and the Traditions are referred to as ahadith mutawatir.
+
+Likewise the noble Companions ؓ ، who did not participate in the battles on either side, cannot be regarded as defaulters because their behaviour, conduct and attitude in this matter was also based on their ijtihad, and Allah maintained them thus. Therefore, it is not proper in any sense of the word to curse them, to taunt them, to hold them as sinners, and to neglect their virtues, their struggles and their great religious stations. Some of the scholars were posed the question: what is your view regarding the blood that was shed in the battles that took place among the blessed Companions ؓ ? They simply recited the following verse of the Qur'an:
+
+تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْأَلُونَ عَمَّا كَانُوا يَعْمَلُونَ ﴿134﴾
+
+'Those are a people who have passed away. For them what they earned, and for you what you earned. And you shall not be questioned as to what they have been doing. [ 2:134] '
+
+The same question was posed to another scholar. He replied: "Allah saved my hands from being soiled with that blood. Now I will not soil my tongue with it." He meant that he does not wish to make the mistake of categorically adjudging any one of the groups as the defaulter.
+
+` Allamah Ibn-Fuwarrak (رح) says:
+
+"Some of our colleagues feel that the example of the conflicts that took place between the noble Companions ؓ is like that of the episodes of conflict that occurred between Sayyidna Yusuf (علیہ السلام) and his brothers. They, despite their mutual differences, did not lose their status of wilayah and nubuwwah. The same principle applies to the matter of conflicts that occurred between the Companions."
+
+Sayyidna Muhasibi (رح) says: "As far as this bloodshed is concerned, it is difficult for us to say anything because there was a difference of opinion in this regard among the noble Companions ؓ themselves."
+
+When Hasan Al-Basri (رح) was asked the question concerning the wars between the noble Companions ؓ ، he replied:
+
+"Those were fights in which the Companions were present and we were not. They knew all the circumstances and we do not know them. The matter in which the Companions are unanimous, we follow; and the matter in which there is difference of opinion, we observe silence."
+
+Sayyidna Muhasibi (رح) says:
+
+"We concur with Hasan Al-Basri (رح) . We know that when the noble Companions meddled in any matter, they knew fully well why they were doing it. Our task is merely to follow them where they are unanimous, and where they differ we observe silence. We should not on our own introduce new ideas. We are assured that they must have exercised ijtihad and sought the pleasure of Allah. Therefore, in matters of religion they are all beyond doubt."
+
+## Personal Reflections

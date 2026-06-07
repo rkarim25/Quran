@@ -1,0 +1,193 @@
+---
+arabic_ayat: قَدۡ نَـعۡلَمُ اِنَّهٗ لَيَحۡزُنُكَ الَّذِىۡ يَقُوۡلُوۡنَ​ فَاِنَّهُمۡ
+  لَا يُكَذِّبُوۡنَكَ وَلٰـكِنَّ الظّٰلِمِيۡنَ بِاٰيٰتِ اللّٰهِ يَجۡحَدُوۡنَ‏
+sentence_translation: We certainly know that what they say grieves you ˹O Prophet˺.
+  It is not your honesty they question—it is Allah’s signs that the wrongdoers deny.
+word_by_word:
+  1:
+    arabic: قَدۡ
+    translation: Indeed
+    transliteration: qad
+  2:
+    arabic: نَـعۡلَمُ
+    translation: We know
+    transliteration: naʿlamu
+  3:
+    arabic: اِنَّهٗ
+    translation: that it
+    transliteration: innahu
+  4:
+    arabic: لَيَحۡزُنُكَ
+    translation: grieves you
+    transliteration: layaḥzunuka
+  5:
+    arabic: الَّذِىۡ
+    translation: what
+    transliteration: alladhī
+  6:
+    arabic: يَقُوۡلُوۡنَ​
+    translation: they say
+    transliteration: yaqūlūna
+  7:
+    arabic: فَاِنَّهُمۡ
+    translation: And indeed, they
+    transliteration: fa-innahum
+  8:
+    arabic: لَا
+    translation: (do) not
+    transliteration: lā
+  9:
+    arabic: يُكَذِّبُوۡنَكَ
+    translation: deny you
+    transliteration: yukadhibūnaka
+  10:
+    arabic: وَلٰـكِنَّ
+    translation: but
+    transliteration: walākinna
+  11:
+    arabic: الظّٰلِمِيۡنَ
+    translation: 'the wrongdoers '
+    transliteration: l-ẓālimīna
+  12:
+    arabic: بِاٰيٰتِ
+    translation: the Verses
+    transliteration: biāyāti
+  13:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  14:
+    arabic: يَجۡحَدُوۡنَ‏
+    translation: they reject
+    transliteration: yajḥadūna
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+33-73 In continuation of the same theme, the story of Prophet Abraham has been related to bring home to the pagan Arabs that the Mission of Prophet Muhammad, which they were opposing, was the same as that of Prophet Abraham (Allah's peace be upon them).
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+We know indeed the grief which their words cause you; it is not you that they deny, but it is the verses of Allah that the wrongdoers deny (33)Verily, (many) Messengers were denied before you, but with patience they bore the denial, and they were hurt, till Our help reached them, and none can alter the Words of Allah. About the statement: فَإِنَّهُمْ لَا يُكَذِّبُونَكَ (it is not you they are belying, rather, it is the signs of Allah they are denying) in the first verse (33), there is a related event, reported in Tafsir Mazhari on the authority of a narration by As-Suddiy, according to which, once Akhnas ibn Shuraiq and Abu Jahl, two chiefs o…
+
+## Tafsir Ibn Kathir
+
+We know indeed the grief which their words cause you; it is not you that they deny, but it is the verses of Allah that the wrongdoers deny (33)Verily, (many) Messengers were denied before you, but with patience they bore the denial, and they were hurt, till Our help reached them, and none can alter the Words of Allah. Surely, there has reached you the information about the Messengers (before you)(34)If their aversion is hard on you, then if you were able to seek a tunnel in the ground or a ladder to the sky, so that you may bring them a sign. And had Allah willed, He could have gathered them together upon true guidance, so be not you one of the ignorant (35)It is only those who listen, that will respond, but as for the dead, Allah will raise them up, then to Him they will be returned (36)
+
+Comforting the Prophet (ﷺ)
+
+Allah comforts the Prophet ﷺ in his grief over his people's denial and defiance of him,
+
+قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ
+
+(We know indeed the grief which their words cause you;) meaning, We know about their denial of you and your sadness and sorrow for them. Allah said in other Ayat,
+
+فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَاتٍ
+
+(So destroy not yourself in sorrow for them.)[35:8], and
+
+لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ
+
+(It may be that you are going to kill yourself with grief, that they do not become believers.)[26:3], and,
+
+فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ عَلَىٰ آثَارِهِمْ إِن لَّمْ يُؤْمِنُوا بِهَٰذَا الْحَدِيثِ أَسَفًا
+
+(Perhaps, you, would kill yourself in grief, over their footsteps (for their turning away from you), because they believe not in this narration.)[18:6] Allah's statement,
+
+فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ
+
+(it is not you that they deny, but it is the verses of Allah that the wrongdoers deny.) means, they do not accuse you of being a liar,
+
+وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ
+
+(but it is the Verses of Allah that the wrongdoers deny.)
+
+It is only the truth that they reject and refuse. Muhammad bin Ishaq mentioned that Az-Zuhri said that Abu Jahl, Abu Sufyan Sakhr bin Harb and Al-Akhnas bin Shurayq once came to listen to the Prophet ﷺ reciting the Qur'an at night, but these three men were not aware of the presence of each other. So they listened to the Prophet's recitation until the morning, and then left. They met each other on their way back and each one of them asked the others, "What brought you?" So they mentioned to each other the reason why they came. They vowed not to repeat this incident so that the young men of Quraysh would not hear of what they did and imitate them. On the second night, each one of the three came back thinking that the other two would not come because of the vows they made to each other. In the morning, they again met each other on their way back and criticized each other, vowing not to repeat what they did. On the third night, they again went to listen to the Prophet ﷺ and in the morning they again vowed not to repeat this incident. During that day, Al-Akhnas bin Shurayq took his staff and went to Abu Sufyan bin Harb in his house saying, "O Abu Hanzalah! What is your opinion concerning what you heard from Muhammad." Abu Sufyan said, "O Abu Tha'labah! By Allah, I have heard some things that I recognize and know their implications. I also heard some things whose meaning and implications were unknown to me." Al-Akhnas said, "And I the same, by He Whom you swore by!" Al-Akhnas left Abu Sufyan and went to Abu Jahl and asked him, "O Abu Al-Hakam! What is your opinion about what you heard from Muhammad. " Abu Jahl said, "We competed with Bani 'Abd Manaf (the Prophet's subtribe) and so we fed as they fed and gave away as they gave away. So, when we were neck and neck with them, just as two horses in a race, they said, 'There is a Prophet from among us, to whom revelation from the heaven comes.' So how can we ever beat them at that? By Allah we will never believe in him or accept what he says.' This is when Al-Akhnas left Abu Jahl and went away."
+
+Allah's statement,
+
+وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا
+
+(Verily, (many) Messengers were denied before you, but with patience they bore the denial, and they were hurt, till Our help reached them,)
+
+This comforts the Prophet's concern for those who denied and rejected him. Allah also commands the Prophet ﷺ to be patient, just as the mighty Messengers before him were. He also promised him victory, just as the previous Messengers were victorious and the good end was theirs, after the denial and harm their people placed on them. Then, victory came to them in this life, just as victory is theirs in the Hereafter. Allah said,
+
+وَلَا مُبَدِّلَ لِكَلِمَاتِ اللَّهِ
+
+(and none can alter the Words of Allah.)
+
+This refers to His decision that victory in this life and the Hereafter is for His believing servants. Allah said in other Ayat,
+
+وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ - إِنَّهُمْ لَهُمُ الْمَنصُورُونَ - وَإِنَّ جُندَنَا لَهُمُ الْغَالِبُونَ
+
+(And, verily, Our Word has gone forth of old for Our servants, the Messengers. That they verily would be made triumphant. And that Our hosts, they verily would be the victors.)[37:171-173], and,
+
+كَتَبَ اللَّهُ لَأَغْلِبَنَّ أَنَا وَرُسُلِي إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ
+
+(Allah has decreed: "Verily! It is I and My Messengers who shall be the victorious." Verily, Allah is All-Powerful, Almighty.)[58:21] Allah said;
+
+وَلَقَدْ جَاءَكَ مِن نَّبَإِ الْمُرْسَلِينَ
+
+(Surely, there has reached you the information about the Messengers (before you).) who were given victory and prevailed over the people who rejected them. And you (O Muhammad ﷺ), have a good example in them. Allah said next,
+
+وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ
+
+(If their aversion is hard on you,) and you cannot be patient because of their aversion,
+
+فَإِنِ اسْتَطَعْتَ أَن تَبْتَغِيَ نَفَقًا فِي الْأَرْضِ أَوْ سُلَّمًا فِي السَّمَاءِ
+
+(then if you were able to seek a tunnel in the ground or a ladder to the sky...)
+
+'Ali bin Abi Talhah reported that Ibn 'Abbas commented, "If you were able to seek a tunnel and bring them an Ayah, or go up a ladder in the sky and bring a better Ayah than the one I (Allah) gave them, then do that." Similar was reported from Qatadah, As-Suddi and others. Allah's statement,
+
+وَلَوْ شَاءَ اللَّهُ لَجَمَعَهُمْ عَلَى الْهُدَىٰ فَلَا تَكُونَنَّ مِنَ الْجَاهِلِينَ
+
+(And had Allah willed, He could have gathered them together upon true guidance, so be not you one of the ignorant.) is similar to His statement,
+
+وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَن فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا
+
+(And had your Lord willed, those on earth would have believed, all of them together) 'Ali bin Abi Talhah reported that Ibn 'Abbas said about Allah's statement,
+
+وَلَوْ شَاءَ اللَّهُ لَجَمَعَهُمْ عَلَى الْهُدَىٰ
+
+(And had Allah willed, He could have gathered them together upon true guidance,)
+
+"The Messenger of Allah ﷺ was eager that all people believe and be guided to follow him. Allah told him that only those whose happiness Allah has written in the first Dhikr will believe." Allah's statement,
+
+إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ
+
+(It is only those who listen, that will respond,) means, only those who hear the speech, comprehend and understand it, will accept your call, O Muhammad ﷺ! In another Ayah, Allah said;
+
+لِّيُنذِرَ مَن كَانَ حَيًّا وَيَحِقَّ الْقَوْلُ عَلَى الْكَافِرِينَ
+
+(That it may give warning to him who is living, and that the Word may be justified against the disbelievers.)[36:70]. Allah's statement,
+
+وَالْمَوْتَىٰ يَبْعَثُهُمُ اللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
+
+(but as for the dead, Allah will raise them up, then to Him they will be returned.) refers to the disbelievers because their hearts are dead. Therefore, Allah resembled them to dead corpses as a way of mocking and belittling them, saying,
+
+وَالْمَوْتَىٰ يَبْعَثُهُمُ اللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ
+
+(but as for the dead (disbelievers), Allah will raise them up, then to Him they will be returned (for their recompense).)
+
+## Maarif ul Quran
+
+Commentary
+
+About the statement: فَإِنَّهُمْ لَا يُكَذِّبُونَكَ (it is not you they are belying, rather, it is the signs of Allah they are denying) in the first verse (33), there is a related event, reported in Tafsir Mazhari on the authority of a narration by As-Suddiy, according to which, once Akhnas ibn Shuraiq and Abu Jahl, two chiefs of the Quraysh tribe met together. Akhnas asked Abu Jahl: 0 Abul-Hikam, (In Arabia, Abu Jahl was called Abul-Hikam - 'man of wisdom' - but because of his hostility to Islam, he became known as Abu-Jahl - 'man of ignorance' ), you and me are alone here. There is no third person listening to us. Tell me about Muhammad ibn ` Abdulluh. Tell me what you really think about him. Is he telling the truth or is he not?
+
+Swearing by Allah, Abu Jahl said: No doubt, Muhammad is true. He has never lied all his life. But, the problem is that the thought, that only a single branch of the tribe of Quraysh, the Banu Qusayy, is going to become the repository of all sorts of virtues and perfections while the rest of the tribe remains totally deprived, is something that we cannot take. It is too much. They have the flag in their hands. They have the important duty of providing water for the Hajj pilgrims in their hands. They are the custodians of the Ka'bah; its keys are in their hands. Now, if we are to accept that the station of prophethood also belongs to them, what the rest of the Quraysh will be left with?
+
+According to another narration reported from Najiyah ibn Ka'b, once Abu Jahl himself told the Holy Prophet ﷺ . We do not suspect you of lying nor do we belie you, but we do belie the Book or Religion which you have come up with. (Mazhari)
+
+Based on these narrations of Hadith, the verse can be taken in its real sense, that is, 'these disbelievers do not belie you, rather, they be-lie the signs of Allah.' And this verse could also be taken in the sense that these disbelievers, though belie you obviously but, in reality, the outcome of belying you is itself the belying of Allah and His signs - as it appears in Hadith, that the Holy Prophet ﷺ said: Whoever causes pain to me is liable to be judged as causing pain to Allah.
+
+## Personal Reflections

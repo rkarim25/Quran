@@ -1,0 +1,247 @@
+---
+arabic_ayat: وَمِنۡ اٰبَآٮِٕهِمۡ وَذُرِّيّٰتِهِمۡ وَاِخۡوَانِهِمۡ​ۚ وَاجۡتَبَيۡنٰهُمۡ
+  وَهَدَيۡنٰهُمۡ اِلٰى صِرَاطٍ مُّسۡتَقِيۡمٍ‏
+sentence_translation: And ˹We favoured˺ some of their forefathers, their descendants,
+  and their brothers. We chose them and guided them to the Straight Path.
+word_by_word:
+  1:
+    arabic: وَمِنۡ
+    translation: And from
+    transliteration: wamin
+  2:
+    arabic: اٰبَآٮِٕهِمۡ
+    translation: their fathers
+    transliteration: ābāihim
+  3:
+    arabic: وَذُرِّيّٰتِهِمۡ
+    translation: and their descendents
+    transliteration: wadhurriyyātihim
+  4:
+    arabic: وَاِخۡوَانِهِمۡ​ۚ
+    translation: 'and their brothers '
+    transliteration: wa-ikh'wānihim
+  5:
+    arabic: وَاجۡتَبَيۡنٰهُمۡ
+    translation: and We chose them
+    transliteration: wa-ij'tabaynāhum
+  6:
+    arabic: وَهَدَيۡنٰهُمۡ
+    translation: and We guided them
+    transliteration: wahadaynāhum
+  7:
+    arabic: اِلٰى
+    translation: to
+    transliteration: ilā
+  8:
+    arabic: صِرَاطٍ
+    translation: a path
+    transliteration: ṣirāṭin
+  9:
+    arabic: مُّسۡتَقِيۡمٍ‏
+    translation: straight
+    transliteration: mus'taqīmin
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And We bestowed upon him Ishaq and Ya'qub, each of them We guided, and before him, We guided Nuh and among his progeny Dawud, Sulayman, Ayyub, Yusuf, Musa, and Harun. In the six verses (84-89) appearing after that, there is a list of seventeen blessed prophets, some of whom are the forefathers of Sayyidna Ibrahim (علیہ السلام) while most are his progeny, with some being his brothers or nephews.
+
+## Tafsir Ibn Kathir
+
+And We bestowed upon him Ishaq and Ya'qub, each of them We guided, and before him, We guided Nuh and among his progeny Dawud, Sulayman, Ayyub, Yusuf, Musa, and Harun. Thus do We reward the good-doers (84)And Zakariyya, and Yahya and 'Isa and Iliyas, each one of them was of the righteous (85)And Isma'il and Al-Yasa', and Yunus and Lut, and each one of them We preferred above the 'Alamin (mankind and Jinns, of their times)(86)And also some of their fathers and their progeny and their brethren, We chose them, and We guided them to a straight path (87)This is the guidance of Allah with which He guides whomsoever He wills of His servants. But if they had joined in worship others with Allah, all that they used to do would have been of no benefit to them (88)They are those whom We gave the Book, Al-Hukm, and prophethood. But if they disbelieve therein, then, indeed We have entrusted it to a people who are not disbelievers therein (89)They are those whom Allah had guided. So follow their guidance. Say: "No reward I ask of you for this (the Qur'an). It is only a reminder for the 'Alamin (mankind and Jinns)(90)
+
+Ibrahim Receives the News of Ishaq and Ya'qub During His Old Age
+
+Allah states that after Ibrahim became old and he, and his wife, Sarah, lost hope of having children, He gave them Ishaq. The angels came to Ibrahim on their way to the people of Prophet Lut (to destroy them) and they delivered the good news of a child to Ibrahim and his wife. Ibrahim's wife was amazed at the news,
+
+قَالَتْ يَا وَيْلَتَىٰ أَأَلِدُ وَأَنَا عَجُوزٌ وَهَٰذَا بَعْلِي شَيْخًا إِنَّ هَٰذَا لَشَيْءٌ عَجِيبٌ - قَالُوا أَتَعْجَبِينَ مِنْ أَمْرِ اللَّهِ رَحْمَتُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ إِنَّهُ حَمِيدٌ مَّجِيدٌ
+
+(She said (in astonishment): "Woe unto me! Shall I bear a child while I am an old woman, and here is my husband, an old man? Verily! This is a strange thing!" They said: "Do you wonder at the decree of Allah? The mercy of Allah and His blessings be on you, O the family [of Ibrahim]. Surely, He (Allah) is All-Praiseworthy, All-Glorious.")[11:72-73]
+
+The angels also gave them the good news that Ishaq will be a Prophet and that he will have offspring of his own. In another Ayah, Allah said;
+
+وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِّنَ الصَّالِحِينَ
+
+(And We gave him the good news of Ishaq a Prophet from the righteous.)[37:112], which perfects this good news and completes the favor. Allah said,
+
+بِإِسْحَاقَ وَمِن وَرَاءِ إِسْحَاقَ يَعْقُوبَ
+
+(of Ishaq, and after him, of Ya'qub...)[11:71], meaning, this child will have another child in your lifetime, so that your eyes are comforted by him, just as your eyes will be comforted by his father. Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist. It was also expected that if an elderly couple had children, due to the child's weakness, he would have no offspring. This is why Allah delivered the good news of Ishaq and of his son Ya'qub, whose name literally means 'multiplying and having offspring'. This was a reward for Ibrahim who left his people and migrated from their land so that he could worship Allah alone. Allah compensated Ibrahim with better than his people and tribe when He gave him righteous children of his own, who would follow his religion, so that his eyes would be comforted by them. In another Ayah, Allah said;
+
+فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ اللَّهِ وَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا
+
+(So when he turned away from them and from those whom they worshipped besides Allah, We gave him Ishaq and Ya'qub, and each one of them We made a Prophet.)[19:49] Allah said here,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ كُلًّا هَدَيْنَا
+
+(And We bestowed upon him Ishaq and Ya'qub, each of them We guided,) Allah said;
+
+وَنُوحًا هَدَيْنَا مِن قَبْلُ
+
+(and before him, We guided Nuh...) meaning, We guided Nuh before and gave him righteous offspring, just as We guided Ibrahim and gave him righteous children.
+
+Qualities of Nuh and Ibrahim
+
+Each of these two Prophets had special qualities. When Allah caused the people of the earth to drown, except those who believed in Nuh and accompanied him in the ark, Allah made the offspring of Nuh the dwellers of the earth thereafter. Ever since that occurred, the people of the earth were and still are the descendants of Nuh. As for Ibrahim, Allah did not send a Prophet after him but from his descendants. Allah said in other Ayat,
+
+وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ
+
+(And We ordained among his (Ibrahim's) offspring prophethood and the Book.)[29:27],
+
+وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَاهِيمَ وَجَعَلْنَا فِي ذُرِّيَّتِهِمَا النُّبُوَّةَ وَالْكِتَابَ
+
+(And indeed, We sent Nuh and Ibrahim, and placed in their offspring Prophethood and the Book.)[57:26], and,
+
+أُولَٰئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ مِن ذُرِّيَّةِ آدَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَاهِيمَ وَإِسْرَائِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا إِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُ الرَّحْمَٰنِ خَرُّوا سُجَّدًا وَبُكِيًّا
+
+(Those were they unto whom Allah bestowed His grace from among the Prophets, of the offspring of Adam, and of those whom We carried (in the ship) with Nuh, and of the offspring of Ibrahim and Isra'il and from among those whom We guided and chose. When the verses of the Most Beneficent (Allah) were recited unto them, they fell down prostrating and weeping.)[19:58] Allah said in this honorable Ayah here,
+
+وَمِن ذُرِّيَّتِهِ
+
+(and among his progeny...) meaning, We guided from among his offspring,
+
+دَاوُودَ وَسُلَيْمَانَ
+
+(Dawud, Sulayman...) from the offspring of Nuh, according to Ibn Jarir. It is also possible that the Ayah refers to Ibrahim since it is about him that the blessings were originally mentioned here, although Lut is not from his offspring, for he was Ibrahim's nephew, the son of his brother Maran, the son of Azar. It is possible to say that Lut was mentioned in Ibrahim's offspring as a generalization. As Allah said,
+
+أَمْ كُنتُمْ شُهَدَاءَ إِذْ حَضَرَ يَعْقُوبَ الْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِن بَعْدِي قَالُوا نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ آبَائِكَ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ إِلَٰهًا وَاحِدًا وَنَحْنُ لَهُ مُسْلِمُونَ
+
+(Or were you witnesses when death approached Ya'qub? When he said unto his sons, "What will you worship after me?" They said, "We shall worship your God, and the God of your fathers, Ibrahim, Isma'il, Ishaq, One God, and to Him we submit.")[2:133].
+
+Here, Isma'il was mentioned among the ascendants of Ya'qub, although he was Ya'qub's uncle. Similarly Allah said,
+
+فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ - إِلَّا إِبْلِيسَ أَبَىٰ أَن يَكُونَ مَعَ السَّاجِدِينَ
+
+(So the angels prostrated themselves, all of them together. Except Iblis – he refused to be among those to prostrate.)[15:30-31].
+
+Allah included Iblis in His order to the angels to prostrate, and chastised him for his opposition, all because he was similar to them in that (order), so he was considered among them in general, although he was a Jinn. Iblis was created from fire while the angels were created from light. Mentioning 'Isa in the offspring of Ibrahim, or Nuh as we stated above, is proof that the grandchildren from a man's daughter's side are included among his offspring. 'Isa is included among Ibrahim's progeny through his mother, although 'Isa did not have a father. Ibn Abi Hatim recorded that Abu Harb bin Abi Al-Aswad said, "Al-Hajjaj sent to Yahya bin Ya'mar, saying, 'I was told that you claim that Al-Hasan and Al-Husayn are from the offspring of the Prophet ﷺ, did you find it in the Book of Allah? I read the Qur'an from beginning to end and did not find it.' Yahya said, 'Do you not read in Surat Al-An'am,
+
+وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ
+
+(and among his progeny Dawud, Sulayman...) until,
+
+وَيَحْيَىٰ وَعِيسَىٰ
+
+(and Yahya and 'Isa...) Al-Hajjaj said, 'Yes.' Yahya said, 'Is not 'Isa from the offspring of Ibrahim, although he did not have a father?' Al-Hajjaj said, 'You have said the truth.'"
+
+For example, when a man leaves behind a legacy, a trust, or gift to his "offspring" then the children of his daughters are included. But if a man gives something to his "sons", or he leaves a trust behind for them, then that would be particular to his male children and their male children. Allah's statement,
+
+وَمِنْ آبَائِهِمْ وَذُرِّيَّاتِهِمْ وَإِخْوَانِهِمْ
+
+(And also some of their fathers and their progeny and their brethren,)[6:87], mentions that some of these Prophets' ascendants and descendants were also guided and chosen. So Allah said,
+
+وَاجْتَبَيْنَاهُمْ وَهَدَيْنَاهُمْ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
+
+(We chose them, and We guided them to a straight path.)
+
+Shirk Eradicates the Deeds, Even the Deeds of the Messengers
+
+Allah said next,
+
+ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَن يَشَاءُ مِنْ عِبَادِهِ
+
+(This is the guidance of Allah with which He guides whomsoever He wills of His servants.) meaning, this occurred to them by Allah's leave and because He directed them to guidance. Allah said;
+
+وَلَوْ أَشْرَكُوا لَحَبِطَ عَنْهُم مَّا كَانُوا يَعْمَلُونَ
+
+(But if they had joined in worship others with Allah, all that they used to do would have been of no benefit to them.)
+
+This magnifies the serious danger of Shirk and the gravity of committing it. In another Ayah, Allah said;
+
+وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِن قَبْلِكَ لَئِنْ أَشْرَكْتَ لَيَحْبَطَنَّ عَمَلُكَ
+
+(And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
+
+'If' here does not mean that this would ever occur, as is similar in Allah's statement;
+
+قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ
+
+(Say: "If the Most Beneficent had a son, then I am the first of Allah's worshippers.")[43:81], and
+
+لَوْ أَرَدْنَا أَن نَّتَّخِذَ لَهْوًا لَّاتَّخَذْنَاهُ مِن لَّدُنَّا إِن كُنَّا فَاعِلِينَ
+
+(If We intended to take a pastime (a wife or a son, etc.) We could surely have taken it from Us, if We were going to do (that))[21:17], and,
+
+لَّوْ أَرَادَ اللَّهُ أَن يَتَّخِذَ وَلَدًا لَّاصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَاءُ سُبْحَانَهُ هُوَ اللَّهُ الْوَاحِدُ الْقَهَّارُ
+
+(If Allah willed to take a son, He could have chosen whom He pleased out of those whom He created. But glory be to Him! He is Allah, the One, the Compelling.)[39:4] Allah said,
+
+أُولَٰئِكَ الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ
+
+(They are those whom We gave the Book, Al-Hukm, and prophethood.)
+
+We bestowed these bounties on them, as a mercy for the servants, and out of our kindness for creation.
+
+فَإِن يَكْفُرْ بِهَا
+
+(But if they disbelieve therein...) in the prophethood, or the three things; the Book, the Hukm and the prophethood,
+
+هَٰؤُلَاءِ
+
+(They...) refers to the people of Makkah, according to Ibn 'Abbas, Sa'id bin Al-Musayyib, Ad-Dahhak, Qatadah, As-Suddi, and others.
+
+فَقَدْ وَكَّلْنَا بِهَا قَوْمًا لَّيْسُوا بِهَا بِكَافِرِينَ
+
+(then, indeed We have entrusted it to a people who are not disbelievers therein.)
+
+This Ayah means, if the Quraysh and the rest of the people of the earth - Arabs and non-Arabs, illiterate and the People of the Scripture - disbelieve in these bounties, then We have entrusted them to another people, the Muhajirun and Ansar, and those who follow their lead until the Day of Resurrection,
+
+لَّيْسُوا بِهَا بِكَافِرِينَ
+
+(who are not disbelievers therein.)
+
+They will not deny any of these favors, not even one letter. Rather, they will believe in them totally, even the parts that are not so clear to some of them. We ask Allah to make us among them by His favor, generosity and kindness. Addressing His servant and Messenger, Muhammad ﷺ, Allah said;
+
+أُولَٰئِكَ
+
+(They are...) the Prophets mentioned here, along with their righteous fathers, offspring and bretheren,
+
+الَّذِينَ هَدَى اللَّهُ
+
+(those whom Allah had guided.) meaning, they alone are the people of guidance,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(So follow their guidance.) Imitate them. This command to the Messenger ﷺ certainly applies to his Ummah, according to what he legislates and commands them. While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited,
+
+وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ
+
+(...And We bestowed upon him Ishaq and Ya'qub...) until,
+
+فَبِهُدَاهُمُ اقْتَدِهْ
+
+(...So follow their guidance.) He commented, "He (our Prophet, Muhammad ﷺ) was among them." In another narration, Mujahid added that Ibn 'Abbas said, "Your Prophet ﷺ was among those whose guidance we were commanded to follow." Allah's statement,
+
+قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا
+
+(Say: "No reward I ask of you for this.") means, I do not ask you for any reward for delivering the Qur'an to you, nor anything else,
+
+إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَالَمِينَ
+
+("It is only a reminder for the 'Alamin (mankind and Jinns).") so they are reminded by it and guided from blindness to clarity, from misguidance to guidance, and from disbelief to faith.
+
+## Maarif ul Quran
+
+In the six verses (84-89) appearing after that, there is a list of seventeen blessed prophets, some of whom are the forefathers of Sayyidna Ibrahim (علیہ السلام) while most are his progeny, with some being his brothers or nephews. On the one hand, described in these verses is their being Divinely guided, righteous in conduct and firm on the straight path, along with the fact that Allah Ta` ala has chosen and blessed has been stressed them to serve His religion. On the other hand, it has been stressed that, in return for the sacrifice of Sayyidna Ibrahim (علیہ السلام) who had disassociated himself from his father, community and country in the way of Allah, was it not that, much before the reward of eternal bliss in the Hereafter, Allah Ta` ala bestowed on him right here in this world too a community better than his own, a country better than his own - and blessed him with the supreme distinction that all prophets and messengers sent into the world after him upto the end of time were from among his progeny? A branch that originated from Sayyidna Ishaq (علیہ السلام) had prophets who appeared among the Bani 1sra'il. The other branch which originated from Sayyidna 1sma'il (علیہ السلام) saw the coming of the foremost and the Last among prophets, Sayyidna Muhammad al-Mustafa ﷺ from among them. They all were the progeny of Sayyidna Ibrahim (علیہ السلام) . This phenomena also punishment tells us that, though honour and salvation or disgrace and punishment really depend on one's personal deeds, but having a prophet or man of Allah (waliy) among forefathers, or having observing ` Alims of Din and men and women of righteous conduct among children, is also a great blessing as this too brings its benefits.
+
+Out of these seventeen prophets (علیہم السلام) identified in the cited verses Sayyidna Nuh (علیہ السلام) is the patriarch of Sayyidna Ibrahim (علیہ السلام) . The rest have been called their progeny: وَمِن ذُرِّ‌يَّتِهِ دَاوُودَ وَسُلَيْمَانَ (and, of his progeny, to Dawud and Sulayman ...). This poses two difficulties. The first could be about Sayyidna ` Isa (علیہ السلام) who, because of his father-less birth, is a progeny of Sayyidna Ibrahim (علیہ السلام) from the daughter's side, that is, not a paternal grandson, instead, is a grandson from the maternal side.
+
+If so, how would calling him his progeny would be correct? Most learned Muslim scholars and jurists have answered it by saying that progeny is inclusive of both paternal and maternal grandsons. It is from here that they prove that Sayyidna Hasan and Sayyidna Hussain ؓ stand included under the progeny of the Holy Prophet ﷺ .
+
+The second difficulty posed here relates to Sayyidna Lut (علیہ السلام) for he is not from among his children, but is a nephew. The answer is clear. In customary usage, referring nephew as son is very common.
+
+By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام) in these verses, two things have been made very clear. Firstly, there is the law for anyone who sacrifices whatever he holds dear in the way of Allah, on him or her Allah bestows right here in this mortal world what is better than what he or she has surrendered in the way of Allah. Secondly, the purpose is to make the disbelievers of Makkah hear this background of things in their situation so that they may be guided right. This amounts to telling them: You do not listen to what Our prophet, Muhammad al-Mustafa is telling you. If that is so, consider these you too revere as great. So, Ibrahim and his whole progeny have all been saying the same thing - that Allah is the only object worthy of worship. Associating anyone else with Him in ` Ibadah, or suggesting that someone else is a sharer in His exclusive attributes is what disbelief and straying is. This proves that they are, even in terms of what they themselves accept as established truth, subject to censure.
+
+## Personal Reflections

@@ -1,0 +1,144 @@
+---
+arabic_ayat: وَمَنۡ اَظۡلَمُ مِمَّنۡ ذُكِّرَ بِاٰيٰتِ رَبِّهٖ ثُمَّ اَعۡرَضَ عَنۡهَا​ؕ
+  اِنَّا مِنَ الۡمُجۡرِمِيۡنَ مُنۡتَقِمُوۡنَ‏
+sentence_translation: And who does more wrong than the one who is reminded of Allah’s
+  revelations then turns away from them? We will surely inflict punishment upon the
+  wicked.
+word_by_word:
+  1:
+    arabic: وَمَنۡ
+    translation: And who
+    transliteration: waman
+  2:
+    arabic: اَظۡلَمُ
+    translation: (is) more unjust
+    transliteration: aẓlamu
+  3:
+    arabic: مِمَّنۡ
+    translation: than (he) who
+    transliteration: mimman
+  4:
+    arabic: ذُكِّرَ
+    translation: is reminded
+    transliteration: dhukkira
+  5:
+    arabic: بِاٰيٰتِ
+    translation: of (the) Verses
+    transliteration: biāyāti
+  6:
+    arabic: رَبِّهٖ
+    translation: (of) his Lord
+    transliteration: rabbihi
+  7:
+    arabic: ثُمَّ
+    translation: then
+    transliteration: thumma
+  8:
+    arabic: اَعۡرَضَ
+    translation: he turns away
+    transliteration: aʿraḍa
+  9:
+    arabic: عَنۡهَا​ؕ
+    translation: from them
+    transliteration: ʿanhā
+  10:
+    arabic: اِنَّا
+    translation: Indeed, We
+    transliteration: innā
+  11:
+    arabic: مِنَ
+    translation: from
+    transliteration: mina
+  12:
+    arabic: الۡمُجۡرِمِيۡنَ
+    translation: the criminals
+    transliteration: l-muj'rimīna
+  13:
+    arabic: مُنۡتَقِمُوۡنَ‏
+    translation: (will) take retribution
+    transliteration: muntaqimūna
+---
+
+## Context
+
+To understand **The Prostration** (As-Sajdah) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection. 'Ata' bin Yasar, As-Suddi and others mentioned that this was revealed concerning 'Ali bin Abi Talib and 'Uqbah bin Abi Mu'it. Hence Allah has judged between them when He said:
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Is then he who is a believer like him who is rebellious? There are some crimes the punishment of which comes even within the mortal world much before the Hereafter.
+
+## Tafsir Ibn Kathir
+
+Is then he who is a believer like him who is rebellious? Not equal are they (18)As for those who believe and do righteous good deeds, for them are Gardens of Abode as an entertainment for what they used to do (19)And as for those who rebel, their abode will be the Fire, every time they wish to get away therefrom, they will be put back thereto, and it will be said to them: "Taste you the torment of the Fire which you used to deny. (20)And verily, We will make them taste of the near lighter torment prior to the greater torment, in order that they may return (21)And who does more wrong than he who is reminded of the Ayat of his Lord, then turns aside therefrom? Verily, We shall exact retribution from the criminals (22)
+
+The Believer and the Rebellious are not equal
+
+Allah tells us that in His justice and generosity, on the Day of Judgement He will not judge those who believed in His signs and followed His Messengers, in the same way as He will judge those who rebelled, disobeyed Him and rejected the Messengers sent by Allah to them. This is like the Ayat:
+
+أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَنْ نَجْعَلَهُمْ كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَاءَ مَا يَحْكُمُونَ
+
+(Or do those who earn evil deeds think that We shall hold them equal with those who believe and do righteous good deeds, in their present life and after their death? Worst is the judgement that they make.)(45:21),
+
+أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ
+
+(Shall We treat those who believe and do righteous good deeds as corruptors on earth Or shall We treat those who have Taqwa as the wicked?)(38:28)
+
+لَا يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ ۚ
+
+(Not equal are the dwellers of the Fire and the dwellers of the Paradise...)(59:20). Allah says:
+
+أَفَمَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا ۚ لَا يَسْتَوُونَ
+
+(Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection. 'Ata' bin Yasar, As-Suddi and others mentioned that this was revealed concerning 'Ali bin Abi Talib and 'Uqbah bin Abi Mu'it. Hence Allah has judged between them when He said:
+
+أَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(As for those who believe and do righteous good deeds,) meaning, their hearts believed in the signs of Allah, and they did as the signs of Allah dictate, i.e. righteous good deeds.
+
+فَلَهُمْ جَنَّاتُ الْمَأْوَىٰ
+
+(for them are Gardens of Abode) i.e., in which there are dwellings and houses and lofty apartments.
+
+نُزُلًا
+
+(as an entertainment) means, something to welcome and honor a guest,
+
+بِمَا كَانُوا يَعْمَلُونَ - وَأَمَّا الَّذِينَ فَسَقُوا
+
+(for what they used to do. And as for those who rebel,) means, those who disobeyed Allah, their dwelling place will be the Fire, and every time they want to escape from it, they will be thrown back in, as Allah says:
+
+كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا مِنْ غَمٍّ أُعِيدُوا فِيهَا
+
+(Every time they seek to get away therefrom, from anguish, they will be driven back therein)(22:22). Al-Fudayl bin 'Iyad said: "By Allah, their hands will be tied, their feet will be chained, the flames will lift them up and the angels will strike them.
+
+وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ
+
+(and it will be said to them: "Taste you the torment of the Fire which you used to deny.")" means, this will be said to them by way of rebuke and chastisement.
+
+وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الْأَدْنَىٰ دُونَ الْعَذَابِ الْأَكْبَرِ
+
+(And verily, We will make them taste of the near lighter torment prior to the greater torment,) Ibn 'Abbas said, "The near torment means diseases and problems in this world, and the things that happen to its people as a test from Allah to His servants so that they will repent to Him." Something similar was also narrated from Ubayy bin Ka'b, Abu Al-'Aliyah, Al-Hasan, Ibrahim An-Nakha'i, Ad-Dahhak, 'Alqamah, 'Atiyah, Mujahid, Qatadah, 'Abd Al-Karim Al-Jazari and Khusayf.
+
+وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ ثُمَّ أَعْرَضَ عَنْهَا ۚ
+
+(And who does more wrong than he who is reminded of the Ayat of his Lord, then turns aside therefrom) means, there is no one who does more wrong than the one whom Allah reminds of His signs and explains them to him clearly, then after that he neglects and ignores them, and turns away from them, forgetting them as if he does not know them. Qatadah said: "Beware of turning away from the remembrance of Allah, for whoever turns away from remembering Him will be the most misguided and the most in need, and the most guilty of sin." Allah says, warning the one who does that:
+
+إِنَّا مِنَ الْمُجْرِمِينَ مُنْتَقِمُونَ
+
+(Verily, We shall exact retribution from the criminals.) meaning, 'We shall avenge Ourselves on those who do that in the strongest possible terms.'
+
+## Maarif ul Quran
+
+There are some crimes the punishment of which comes even within the mortal world much before the Hereafter.
+
+The last sentence of the set of verses cited above reads:إِنَّا مِنَ الْمُجْرِ‌مِينَ مُنتَقِمُونَ (We have to take vengeance upon the sinners - 22). Obviously, the word: الْمُجْرِ‌مِينَ (al-mujrimin: the criminals) includes all kinds of criminals. Then, the word: اِنتِقَام (intiqam: revenge, retribution, return) is also general. It may be in the mortal world or in the Hereafter or in both. But, from some Hadith accounts it appears that there are three sins the punishment of which is experienced - before the Hereafter - right here in this world too. They are: (1) To strive against what is Right and True publicly with flags and slogans; (2) To disobey parents; (3) To help someone unjust or oppressive. (Reported by Ibn Jarir from Sayyidna Mu'dh Ibn Jabal ؓ .
+
+## Personal Reflections

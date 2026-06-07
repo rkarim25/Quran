@@ -1,0 +1,77 @@
+---
+arabic_ayat: فَعَقَرُوۡهَا فَقَالَ تَمَتَّعُوۡا فِىۡ دَارِكُمۡ ثَلٰثَةَ اَ يَّامٍ
+  ​ؕذٰ لِكَ وَعۡدٌ غَيۡرُ مَكۡذُوۡبٍ‏
+sentence_translation: But they killed her, so he warned ˹them˺, “You have ˹only˺ three
+  ˹more˺ days to enjoy life in your homes—this is an unfailing promise!”
+word_by_word:
+  1:
+    arabic: فَعَقَرُوۡهَا
+    translation: But they hamstrung her
+    transliteration: faʿaqarūhā
+  2:
+    arabic: فَقَالَ
+    translation: So he said
+    transliteration: faqāla
+  3:
+    arabic: تَمَتَّعُوۡا
+    translation: Enjoy (yourselves)
+    transliteration: tamattaʿū
+  4:
+    arabic: فِىۡ
+    translation: in
+    transliteration: fī
+  5:
+    arabic: دَارِكُمۡ
+    translation: your home(s)
+    transliteration: dārikum
+  6:
+    arabic: ثَلٰثَةَ
+    translation: (for) three
+    transliteration: thalāthata
+  7:
+    arabic: اَ يَّامٍ ​ؕ
+    translation: days
+    transliteration: ayyāmin
+  8:
+    arabic: ذٰ لِكَ
+    translation: That
+    transliteration: dhālika
+  9:
+    arabic: وَعۡدٌ
+    translation: (is) a promise
+    transliteration: waʿdun
+  10:
+    arabic: غَيۡرُ
+    translation: not
+    transliteration: ghayru
+  11:
+    arabic: مَكۡذُوۡبٍ‏
+    translation: (to) be belied
+    transliteration: makdhūbin
+---
+
+## Context
+
+To understand **Hud** (Hud) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation If we consider its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+"And O my people! In verse 65, it was said: تَمَتَّعُوا فِي دَارِ‌كُمْ ثَلَاثَةَ أَيَّامٍ "Enjoy yourselves in your homes for three days [ only ]." That is, when these people killed the she-camel associated with the miracle in flagrant contravention of the Di-vine command, then, something serious happened.
+
+## Tafsir Ibn Kathir
+
+"And O my people! This she-camel of Allah is a sign to you, so leave her to graze in Allah's land, and touch her not with evil, lest a near torment should seize you. (64)But they slaughtered her. So he said: "Enjoy yourselves in your homes for three days. This is a promise (a threat) that will not be belied. (65)So when Our commandment came, We saved Salih and those who believed with him by a mercy from Us, and from the disgrace of that Day. Verily, your Lord – He is the All-Strong, the All-Mighty (66)And As-Sayhah (awful cry) overtook the wrongdoers, so they lay (dead), prostrate in their homes (67)As if they had never lived there. No doubt! Verily, Thamud disbelieved in their Lord. So away with Thamud!) A discussion of this story has already preceded in Surat Al-A'raf and it is sufficient without having to be repeated here. Allah is the Giver of succes (68)
+
+## Maarif ul Quran
+
+In verse 65, it was said: تَمَتَّعُوا فِي دَارِ‌كُمْ ثَلَاثَةَ أَيَّامٍ "Enjoy yourselves in your homes for three days [ only ]." That is, when these people killed the she-camel associated with the miracle in flagrant contravention of the Di-vine command, then, something serious happened. As warned earlier, ` lest a near punishment should seize you - 64', the punishment did come upon them in a manner that they were given a respite of three days and told that they all will be destroyed on the fourth day.
+
+## Personal Reflections

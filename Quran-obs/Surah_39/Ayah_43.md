@@ -1,0 +1,134 @@
+---
+arabic_ayat: اَمِ اتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ شُفَعَآءَ​ ؕ قُلۡ اَوَلَوۡ كَانُوۡا
+  لَا يَمۡلِكُوۡنَ شَيۡـًٔـا وَّلَا يَعۡقِلُوۡنَ‏
+sentence_translation: Or have they taken others besides Allah as intercessors? Say,
+  ˹O Prophet,˺ “˹Would they do so,˺ even though those ˹idols˺ have neither authority
+  nor intelligence?”
+word_by_word:
+  1:
+    arabic: اَمِ
+    translation: Or
+    transliteration: ami
+  2:
+    arabic: اتَّخَذُوۡا
+    translation: have they taken
+    transliteration: ittakhadhū
+  3:
+    arabic: مِنۡ
+    translation: besides
+    transliteration: min
+  4:
+    arabic: دُوۡنِ
+    translation: besides
+    transliteration: dūni
+  5:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  6:
+    arabic: شُفَعَآءَ​ ؕ
+    translation: intercessors
+    transliteration: shufaʿāa
+  7:
+    arabic: قُلۡ
+    translation: Say
+    transliteration: qul
+  8:
+    arabic: اَوَلَوۡ
+    translation: Even though
+    transliteration: awalaw
+  9:
+    arabic: كَانُوۡا
+    translation: they were
+    transliteration: kānū
+  10:
+    arabic: لَا
+    translation: not
+    transliteration: lā
+  11:
+    arabic: يَمۡلِكُوۡنَ
+    translation: possessing
+    transliteration: yamlikūna
+  12:
+    arabic: شَيۡـًٔـا
+    translation: anything
+    transliteration: shayan
+  13:
+    arabic: وَّلَا
+    translation: and not
+    transliteration: walā
+  14:
+    arabic: يَعۡقِلُوۡنَ‏
+    translation: they understand
+    transliteration: yaʿqilūna
+---
+
+## Context
+
+To understand **The Troops** (Az-Zumar) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Have they taken as intercessors besides Allah? The time to sleep and the time to die: How is the soul exacted and what is the difference between the two In verse 42, it was said: اللَّـهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا (Allah fully takes away the souls [ of the people ] at the time of their death, and [ of ] those who do not die, in their sleep.).
+
+## Tafsir Ibn Kathir
+
+Have they taken as intercessors besides Allah? Say: "Even if they have power over nothing whatever and have no intelligence? (43)Say: "To Allah belongs all intercession. His is the sovereignty of the heavens and the earth. Then to Him you shall be brought back. (44)And when Allah Alone is mentioned, the hearts of those who believe not in the Hereafter are filled with disgust and when those besides Him are mentioned, behold, they rejoice (45)
+
+There is no Intercession except with Allah, and how the Idolators are filled with Disgust when Allah is mentioned alone
+
+Allah condemns the idolators for taking intercessors besides Allah, namely the idols and false gods whom they have taken on the basis of their own whims, with no evidence or proof. These idols are not able to do anything; they have no minds with which to think, and they cannot hear or see. They are inanimate and are much worse off than animals. Then Allah says: 'Say – O Muhammad – to these people who claim that those whom they have taken as intercessors with Allah, that intercession is of no avail except for the one with whom Allah is pleased and to whom He has granted permission to intercede. The whole matter rests with Him.'
+
+مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ
+
+(Who is he that can intercede with Him except with His permission?)(2:255).
+
+لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ
+
+(His is the sovereignty of the heavens and the earth.) means, He is the One Who is in control of all that.
+
+ثُمَّ إِلَيْهِ تُرْجَعُونَ
+
+(Then to Him you shall be brought back.) means, 'on the Day of Resurrection, then He will judge between you with His justice, and He will reward or punish each person according to his deeds.' Then Allah condemns the idolators further:
+
+وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ
+
+(And when Allah Alone is mentioned) means, when it is said there is no (true) God except Allah Alone,
+
+اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ
+
+(the hearts of those who believe not in the Hereafter are filled with disgust) Mujahid said, "Their hearts are filled with disgust means they recoil in horror." This is like the Ayah:
+
+إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ
+
+(Truly, when it was said to them: "La ilaha illa Allah," they puffed themselves up with pride.)(37:35) which means, they were too proud to follow it. Their hearts could not accept anything good, and whoever cannot accept good will accept evil. Allah says:
+
+وَإِذَا ذُكِرَ الَّذِينَ مِنْ دُونِهِ
+
+(and when those besides Him are mentioned,) meaning, the idols and false gods – this was the view of Mujahid –
+
+إِذَا هُمْ يَسْتَبْشِرُونَ
+
+(behold, they rejoice!) means, they feel happy.
+
+## Maarif ul Quran
+
+Commentary
+
+The time to sleep and the time to die: How is the soul exacted and what is the difference between the two
+
+In verse 42, it was said: اللَّـهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا (Allah fully takes away the souls [ of the people ] at the time of their death, and [ of ] those who do not die, in their sleep.). The word: تَوَفَّی (tawaffa) literally means to receive, to take back, exact. In this verse, Allah Ta’ ala has stated very clearly and emphatically that the spirits or souls (arwah) of living beings are under the free will and discretionary dispensation of Allah Ta’ ala at all times and under all conditions. He can seize, exact and take them back at will. And there is at least one manifestation of this absolutely autonomous dispensation that every living being sees and feels everyday when, once asleep, the ruh (spirit, soul) of a person is, so to say, taken away from the body, then, returned on rising from sleep, and ultimately, one such time is bound to come when this ruh stands seized, absolutely and conclusively, following which, this will never be returned.
+
+According to Tafsir Mazhari, the sense of 'taking the ruh away' is to sever its connection with the human body. There are occasions when it is totally severed, both outwardly and inwardly. This is what death is. Then, there are occasions when it is severed only outwardly while it remains active inwardly, the effect of which is that it is only the sense and volitional movement - being obvious signs of life - that are severed, however, the connection of ruh with the body remains active inwardly. Under this arrangement, one breathes and stays alive, however, the form it takes is that the human spirit (ruh) is made to turn its attention to a (panoramic) study of the universe of images ('Alam-ul-mithal), and whereby it is made to pass into a state of forgetfulness and suspension away from this universe, so that one can become fully at rest. And then, at times, even this inward connection is severed because of which the life of the body goes extinct, totally.
+
+In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sense of 'takes in full' (qabd) is used by way of ` umum-ul- majaz which covers both meanings. This difference of ruh (spirit, soul) being taken away both in death and sleep delineated earlier also finds support in a saying of Sayyidna ` Ali ؓ . He said that, at the time of sleep, the ruh of a person goes away from his body, but a beam or ray of ruh stays behind in the body due to which one remains alive - and it is through this 'beamed' connection that one sees a dream. Then this dream, in the event that it has been seen in the state the attention of the ruh was raptly turned towards the universe of images, is a true dream. But, if it was seen in a state when the ruh was returning back to the body, then, it becomes polluted with Shaitanic inputs, and that dream no more remains a true dream. And he also said that the ruh that comes out of the body of a person during the state of sleep returns to the body when one wakes up within a time that is much less than an eye would take to wink.
+
+## Personal Reflections

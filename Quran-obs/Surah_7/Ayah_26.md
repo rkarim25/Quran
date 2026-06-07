@@ -1,0 +1,173 @@
+---
+arabic_ayat: يٰبَنِىۡۤ اٰدَمَ قَدۡ اَنۡزَلۡنَا عَلَيۡكُمۡ لِبَاسًا يُّوَارِىۡ سَوۡاٰتِكُمۡ
+  وَرِيۡشًا​ ؕ وَلِبَاسُ التَّقۡوٰى ۙ ذٰ لِكَ خَيۡرٌ​ ؕ ذٰ لِكَ مِنۡ اٰيٰتِ اللّٰهِ
+  لَعَلَّهُمۡ يَذَّكَّرُوۡنَ‏
+sentence_translation: O children of Adam! We have provided for you clothing to cover
+  your nakedness and as an adornment. However, the best clothing is righteousness.
+  This is one of Allah’s bounties, so perhaps you will be mindful.
+word_by_word:
+  1:
+    arabic: يٰبَنِىۡۤ
+    translation: O Children
+    transliteration: yābanī
+  2:
+    arabic: اٰدَمَ
+    translation: (of) Adam
+    transliteration: ādama
+  3:
+    arabic: قَدۡ
+    translation: Verily
+    transliteration: qad
+  4:
+    arabic: اَنۡزَلۡنَا
+    translation: We have sent down
+    transliteration: anzalnā
+  5:
+    arabic: عَلَيۡكُمۡ
+    translation: to you
+    transliteration: ʿalaykum
+  6:
+    arabic: لِبَاسًا
+    translation: clothing
+    transliteration: libāsan
+  7:
+    arabic: يُّوَارِىۡ
+    translation: it covers
+    transliteration: yuwārī
+  8:
+    arabic: سَوۡاٰتِكُمۡ
+    translation: your shame
+    transliteration: sawātikum
+  9:
+    arabic: وَرِيۡشًا​ ؕ
+    translation: and (as) an adornment
+    transliteration: warīshan
+  10:
+    arabic: وَلِبَاسُ
+    translation: But the clothing
+    transliteration: walibāsu
+  11:
+    arabic: التَّقۡوٰى ۙ
+    translation: '(of) [the] righteousness '
+    transliteration: l-taqwā
+  12:
+    arabic: ذٰ لِكَ
+    translation: that
+    transliteration: dhālika
+  13:
+    arabic: خَيۡرٌ​ ؕ
+    translation: (is) best
+    transliteration: khayrun
+  14:
+    arabic: ذٰ لِكَ
+    translation: That
+    transliteration: dhālika
+  15:
+    arabic: مِنۡ
+    translation: (is) from
+    transliteration: min
+  16:
+    arabic: اٰيٰتِ
+    translation: (the) Signs
+    transliteration: āyāti
+  17:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  18:
+    arabic: لَعَلَّهُمۡ
+    translation: so that they may
+    transliteration: laʿallahum
+  19:
+    arabic: يَذَّكَّرُوۡنَ‏
+    translation: remember
+    transliteration: yadhakkarūna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+26-53 As the Message has been sent down by Allah (Who is the Creator of the heavens and the earth and everything in them), it should be followed, for it is like the rain He sends down to give life to the dead earth.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O Children of Adam! Mentioned in almost a section preceding the verses cited above was the event relating to Sayyidna 'Adam and Satan, the accursed.
+
+## Tafsir Ibn Kathir
+
+O Children of Adam! We have bestowed Libas (raiment) upon you to cover yourselves with, and as Rish (adornment); and the Libas (raiment) of Taqwa, that is better. Such are among the Ayat of Allah, that they may remember (26)
+
+Bestowing Raiment and Adornment on Mankind
+
+Allah reminds His servants that He has given them Libas and Rish. Libas refers to the clothes that are used to cover the private parts, while Rish refers to the outer adornments used for purposes of beautification. Therefore, the first type is essential while the second type is complimentary. Ibn Jarir said that Rish includes furniture and outer clothes. 'Abdur-Rahman bin Zayd bin Aslam commented on the Ayah,
+
+وَلِبَاسُ التَّقْوَىٰ
+
+(and the Libas (raiment) of Taqwa...) "When one fears Allah, Allah covers his errors. Hence the 'Libas of Taqwa' (that the Ayah mentions)."
+
+## Maarif ul Quran
+
+Commentary
+
+Mentioned in almost a section preceding the verses cited above was the event relating to Sayyidna 'Adam and Satan, the accursed. The first outcome of the satanic instigation was that the heavenly apparel of 'Adam and Hawwa came off leaving them coverless as a re-suit of which they began hiding their coverable body with leaves.
+
+In the first of the present verses (26), Allah Ta` ala has addressed all children of 'Adam and told them that the dress they wear is a great blessing the worth and value of which must be recognized by them. The address here is not to Muslims alone. It is to all children of Adam. This is a sharp pointer to the fact that the act of covering the coverable parts of the body and the wearing of dress is both a human need and a natural desire. Everyone abides by it without any distinction of religion or community. Then, giving its details, three kinds of clothings were mentioned.
+
+First of all, it was said: لِبَاسًا يُوَارِ‌ي سَوْآتِكُمْ (clothing that covers your shame). Here, the word: يُوَارِ‌ي (yuwari) is a derivation from: مُوَارَات (muwarat) which means to cover, hide or conceal. And the word: سَواٰۃ (sau'at) is the plural form of: سَوۃُ (sau'ah). This is applied to body parts the uncovering of which is taken, by nature, as bad and shameful by all human beings. The sense of the statement is that Allah has sent down for people dress with which they could cover their body parts the exposing of which is a matter of shame.
+
+After that, it was said: رِ‌يشًا (wa risha). The dress one uses for adornment and decency is called: رَیُش (Rish). The meaning is that just to cover up the cover-worthy body parts, even a simple set of clothing is enough. But, Allah has provided for you much more than simply clothing, He blessed you with dresses which make you look handsome, or decent, neat and civilized.
+
+At this place, the word used by the Holy Qur'an is: اَنزَلنَا (anzalna: We have sent down). It means to bestow or bless with. It is not necessary that it be sent down from the heavens ready to wear. This is like an-other expression: اَنزَلنَا حدِید (57:25). It means: ` We sent down the iron,' which is dug out of the earth as everyone can see. However, at both these places, by saying: اَنزَلنَا (anzalna : We have sent down), it was indicated that the way no human planning or artifice operates as active agent in what ` descends from the heavens,' so it is with the essential mother element of dress, cotton or wool etc., where human ingenuity has no role to play. That is simply a gift from the great creative power of Allah Ta` ala. But, human artifice does work in efforts to make out of these materials dresses to individual taste, temperament, and the need to stay safe against heat or chill. Even the way to that artifice is shown by Allah Ta` ala. Therefore, eyes that see reality see all this as nothing but Divine gift sent from the heavens.
+
+Two Uses of Dress
+
+Identified here are two uses of dress: (1) To cover the cover-worthy parts of the body سَتَر (satr), and (2) protection from hot and cold weather, and decor of the body. The first use has been placed first which indicates that the real purpose of human dress is to be able to cover the cover-worthy parts of the body سَتَر اَلعَورَہ (satr al-'awrah). This also happens to be its line of demarcation from animals. The dress given to animals has been naturally made a part of their body. The purpose it serves is either to protect from hot and cold weather, or beautify them. No elaborate arrangements have been made to cover up their سَتَر satr. Nevertheless, formations of particular body parts in their bodies have been so placed that they do not remain totally exposed. Some would have a screen of a tail and many others would have other obstructers of view.
+
+After having related the event concerning 'Adam and Hawwa' ('Adam and Eve) and how the Satan had instigated them, this mention of dress indicates that for human beings to be naked, or the exposure of their shame before others is a sign of abject disgrace and indecency at its worst. Moreover, it is an antecedent to all sorts of evils and disorders.
+
+The Modern Obsession for Nudity: The Tempter of 'Adam and Eve still Stalks
+
+So, the first attack of Satan came from this opening against human beings when their dress dropped off from where it belonged. Even today, when Satan wishes to confuse and waylay human beings through his accomplices, it always picks up a chic front like being trendy, hip, hot or cool and ends up pulling people out from homes into streets and alleys naked or just about. It would seem that what Satan has classified as modern advancement does not happen unless women are deprived of their sense of shame and modesty and made to parade around in the near-nude.
+
+After 'Iman, the First Duty is to Cover your Body Properly
+
+When Shaytan, sensing this weakness in human beings, made the first assault on their body cover, the Shari'ah of Islam acted smartly as it is responsible for the inculcation, protection and flowering of every good in its people that it took the issue so seriously that it enjoined the covering of human body as the first duty after 'Iman or faith. The Salah, the Sawm, and duties like those come after that.
+
+Sayyidna Faruq al-A` zam ؓ says that the Holy Prophet ﷺ said: When someone wears a new dress, he should recite the following Du` a while wearing it:
+
+اَلحَمدُ للہِ الَّذِی کَسَانِی مَا اُوَارِی بِہِ عَورَتِی وَاَتَجَمَّلُ بِہِ فی حَیَاتِی
+
+Praise be to Allah who gave me clothes with which I am to cover the cover-worthy parts of my body and look handsome with it in my life.
+
+The Great Reward of Giving the Old Dress as Sadaqah after Wearing the New One
+
+He also said: If a person who wears a new dress and gives away the old one as Sadaqah (charity) to anyone poor and needy, he comes under the protection and patronage of Allah Ta` ala in all states of his life and death. (Ibn Kathir from the Musnad of Ahmad)
+
+In this Hadith too, one is reminded of the two considerations in wearing a dress which is why Allah Ta` ala has created the human dress.
+
+Covering of Body is Natural and the Theory of Evolution is False
+
+The event of Sayyidna 'Adam (علیہ السلام) and the statement of the Qur'an make it clear that covering the body and using a dress is a natural desire and an inborn necessity of human beings which has been with them since the very beginning. Those who profess that the first man went around naked and it was only after having passed through stages of evolution that he invented the dress, they are patently false.
+
+The Ultimate Dress
+
+After having identified the dress of two kinds, that which covers the body properly and that which gives comfort and beauty, a third kind of dress was mentioned by saying: وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ‌ (And the dress of Taqwa [ fear of Allah ]! that is the best). In some readings (Qira'at) of the Qur'an, the word: لِبَاس (libas: dress) has been rendered with a fathah on the letter: سِین (sin) as: وَلِبَاسُ التَّقْوَىٰ. Thus, read with: اَنزَلنَا (anzalna), it will mean: We have sent down a third dress of Taqwa. But, in accordance with the well-known reading of it, it means that everyone knows the two dresses mentioned, however, there is a third kind of dress, that of Taqwa - and that is the best of all dresses. The dress of Taqwa, as ex plained by Sayyidna Ibn ` Abbas and ` Urwah ibn Zubayr ؓ means right conduct, good deed and fear of Allah. (Ruh a1-Ma'ani)
+
+The sense is that the way the visible physical dress of human beings serves the purpose of covering the cover-worthy parts of the body, protecting from hot and cold weather and giving beauty and embellishment - very similarly, there is a spiritual dress, that of right and be-coming conduct, good deed and fear of Allah. This libas or dress of Taqwa conceals human weaknesses and moral shortcomings. It delivers one from immediate hardships and ultimate losses. Therefore, it is the best of dresses one can wear.
+
+Present here is the hint that an evil-doing person who has no fear of Allah and does not care for acting right, must be disgraced ultimately, no matter how he covers up - as reported by Ibn Jarir from Sayyidna ` Uthman al-Ghani ؓ that the Holy Prophet ﷺ said: By Allah in whose hands rests the life of Muhammad, whatever a person does in secret, Allah Ta` ala wraps his deed like a sheet around him and announces it - the good of it, if the deed is good, and the evil of it, if the deed is evil. Wrapping like a sheet on the body means that it is visible to everyone. No matter how secretly one may do something, Allah Ta` ala makes its effects become evident on the face and the body. Then, to authenticate his statement, the Holy Prophet ﷺ recited this verse: وَرِ‌يشًا ۖ وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ‌ ۚ ذَٰلِكَ مِنْ آيَاتِ اللَّـهِ (... and dress that adorns. And the dress of Taqwa , that is the best. That is one of the signs of Allah).
+
+The Real Purpose of Physical Dress Too is to Achieve Taqwa
+
+The expression, ` Dress of Taqwa,' indicates that the purpose of physical dress which fulfills the function of covering the body properly, and helps beautify it as well, is really a way of achieving the ability to fear Allah, or Taqwa as in the Qur'an. This ability should manifest it-self in the way one dresses. The parts of the body which must be covered should be fully covered. It should be ensured that one's modesty stays concealed. Neither should it be allowed to remain naked, nor should the dress on the body be so tight-fitting through which body parts look like being naked. Then, this dress should not have the flair of pride and arrogance, instead, it should reflect modesty and humility. Then, it should not be extravagant either. The cloth material used should be tailored to need. And neither should the dress for women be masculine, nor the dress for men be feminine, which is odious and repugnant in the sight of Allah. Also, there should be no imitation in wearing a dress like others which is a sign of deviation from the established norms of one's community.
+
+Along with it, there is the crucial need to correct one's morals and deeds which is the real purpose of dress. At the end of the verse comes the invitation to understand: ذَٰلِكَ مِنْ آيَاتِ اللَّـهِ لَعَلَّهُمْ يَذَّكَّرُ‌ونَ (That is one of the signs of Allah, so that they may be receptive to advice).
+
+## Personal Reflections

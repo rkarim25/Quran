@@ -1,0 +1,307 @@
+---
+arabic_ayat: يٰۤـاَيُّهَا الَّذِيۡنَ اٰمَنُوۡا كُوۡنُوۡا قَوَّامِيۡنَ بِالۡقِسۡطِ
+  شُهَدَآءَ لِلّٰهِ وَلَوۡ عَلٰٓى اَنۡفُسِكُمۡ اَوِ الۡوَالِدَيۡنِ وَالۡاَقۡرَبِيۡنَ​
+  ؕ اِنۡ يَّكُنۡ غَنِيًّا اَوۡ فَقِيۡرًا فَاللّٰهُ اَوۡلٰى بِهِمَا​ فَلَا تَتَّبِعُوا
+  الۡهَوٰٓى اَنۡ تَعۡدِلُوۡا ​ۚ وَاِنۡ تَلۡوٗۤا اَوۡ تُعۡرِضُوۡا فَاِنَّ اللّٰهَ كَانَ
+  بِمَا تَعۡمَلُوۡنَ خَبِيۡرًا‏
+sentence_translation: O believers! Stand firm for justice as witnesses for Allah even
+  if it is against yourselves, your parents, or close relatives. Be they rich or poor,
+  Allah is best to ensure their interests. So do not let your desires cause you to
+  deviate ˹from justice˺. If you distort the testimony or refuse to give it, then
+  ˹know that˺ Allah is certainly All-Aware of what you do.
+word_by_word:
+  1:
+    arabic: ۞ يٰۤـاَيُّهَا
+    translation: O you
+    transliteration: yāayyuhā
+  2:
+    arabic: الَّذِيۡنَ
+    translation: who
+    transliteration: alladhīna
+  3:
+    arabic: اٰمَنُوۡا
+    translation: believe[d]
+    transliteration: āmanū
+  4:
+    arabic: كُوۡنُوۡا
+    translation: Be
+    transliteration: kūnū
+  5:
+    arabic: قَوَّامِيۡنَ
+    translation: custodians
+    transliteration: qawwāmīna
+  6:
+    arabic: بِالۡقِسۡطِ
+    translation: of justice
+    transliteration: bil-qis'ṭi
+  7:
+    arabic: شُهَدَآءَ
+    translation: (as) witnesses
+    transliteration: shuhadāa
+  8:
+    arabic: لِلّٰهِ
+    translation: to Allah
+    transliteration: lillahi
+  9:
+    arabic: وَلَوۡ
+    translation: even if
+    transliteration: walaw
+  10:
+    arabic: عَلٰٓى
+    translation: (it is) against
+    transliteration: ʿalā
+  11:
+    arabic: اَنۡفُسِكُمۡ
+    translation: yourselves
+    transliteration: anfusikum
+  12:
+    arabic: اَوِ
+    translation: or
+    transliteration: awi
+  13:
+    arabic: الۡوَالِدَيۡنِ
+    translation: the parents
+    transliteration: l-wālidayni
+  14:
+    arabic: وَالۡاَقۡرَبِيۡنَ​ ؕ
+    translation: and the relatives
+    transliteration: wal-aqrabīna
+  15:
+    arabic: اِنۡ
+    translation: if
+    transliteration: in
+  16:
+    arabic: يَّكُنۡ
+    translation: he be
+    transliteration: yakun
+  17:
+    arabic: غَنِيًّا
+    translation: rich
+    transliteration: ghaniyyan
+  18:
+    arabic: اَوۡ
+    translation: or
+    transliteration: aw
+  19:
+    arabic: فَقِيۡرًا
+    translation: poor
+    transliteration: faqīran
+  20:
+    arabic: فَاللّٰهُ
+    translation: for Allah
+    transliteration: fal-lahu
+  21:
+    arabic: اَوۡلٰى
+    translation: (is) nearer
+    transliteration: awlā
+  22:
+    arabic: بِهِمَا​
+    translation: to both of them
+    transliteration: bihimā
+  23:
+    arabic: فَلَا
+    translation: So (do) not
+    transliteration: falā
+  24:
+    arabic: تَتَّبِعُوا
+    translation: follow
+    transliteration: tattabiʿū
+  25:
+    arabic: الۡهَوٰٓى
+    translation: the desire
+    transliteration: l-hawā
+  26:
+    arabic: اَنۡ
+    translation: lest
+    transliteration: an
+  27:
+    arabic: تَعۡدِلُوۡا ​ۚ
+    translation: you deviate
+    transliteration: taʿdilū
+  28:
+    arabic: وَاِنۡ
+    translation: And if
+    transliteration: wa-in
+  29:
+    arabic: تَلۡوٗۤا
+    translation: you distort
+    transliteration: talwū
+  30:
+    arabic: اَوۡ
+    translation: or
+    transliteration: aw
+  31:
+    arabic: تُعۡرِضُوۡا
+    translation: refrain
+    transliteration: tuʿ'riḍū
+  32:
+    arabic: فَاِنَّ
+    translation: then indeed
+    transliteration: fa-inna
+  33:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  34:
+    arabic: كَانَ
+    translation: is
+    transliteration: kāna
+  35:
+    arabic: بِمَا
+    translation: of what
+    transliteration: bimā
+  36:
+    arabic: تَعۡمَلُوۡنَ
+    translation: you do
+    transliteration: taʿmalūna
+  37:
+    arabic: خَبِيۡرًا‏
+    translation: All-Aware
+    transliteration: khabīran
+---
+
+## Context
+
+To understand **The Women** (An-Nisa) 135, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+105-135 Resuming the theme of defense, the Muslims have been warned to be on their guard against their enemies.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! The real purpose of sending prophets and scriptures In this verse of Surah Al-Nisa', all Muslims have been instructed to uphold justice and be true when appearing as witnesses.
+
+## Tafsir Ibn Kathir
+
+O you who believe! Stand out firmly for justice, as witnesses to Allah, even though it be against yourselves, or your parents, or your kin, be he rich or poor, Allah is a better Protector to both. So follow not the lusts, lest you may avoid justice; and if you 'Talwū' or 'Tu'ridū', it, verily, Allah is Ever Well-Acquainted with what you do (135)
+
+Commanding Justice and Conveying the Witness for Allah
+
+Allah commands His believing servants to stand up for justice and fairness and not to deviate from it, right or left. They should not fear the blame of anyone or allow anyone to prevent them from doing something for the sake of Allah. They are also required to help, support and aid each other for Allah's sake. Allah's statement,
+
+شُهَدَاءَ لِلَّهِ
+
+(as witnesses to Allah) is similar to His statement,
+
+وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ
+
+(And establish the testimony for Allah)[65:2]. Testimony should be delivered precisely, for the sake of Allah, thus making the testimony correct, truly just, and free of alterations, changes or deletions. This is why Allah said,
+
+وَلَوْ عَلَىٰ أَنفُسِكُمْ
+
+(even though it be against yourselves,) meaning, give correct testimony, and say the truth when you are asked about it, even if harm will effect you as a consequence. Indeed, Allah shall make a way out and give relief for those who obey Him in every matter. Allah's statement,
+
+أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ
+
+(or your parents, or your kin,) means, even if you have to testify against your parents and kin, do not compromise for their sake. Rather, give the correct and just witness even if they are harmed in the process, for the truth presides above everyone and is preferred to everyone. Allah's statement,
+
+إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا
+
+(be he rich or poor, Allah is a better Protector to both.) means, do not favor someone (in your testimony) because he is rich, or feel pity for him because he is poor, for Allah is their caretaker, a better Protector of them than you, and has better knowledge of what is good for them. Allah's statement,
+
+فَلَا تَتَّبِعُوا الْهَوَىٰ أَن تَعْدِلُوا
+
+(So follow not the lusts, lest you may avoid justice;) means, let not desire, lust or the hatred you have against others, lure you into injustice in your affairs. Rather, stand for justice in all situations. Allah said;
+
+وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ
+
+(And let not the enmity and hatred of others make you avoid justice. Be just: that is nearer to piety)[5:8] when the Prophet ﷺ sent 'Abdullah bin Rawahah to collect the tax on the fruits and produce of the Jews of Khaybar, they offered him a bribe so that he would go easy on them. He said; "By Allah! I have come to you from the dearest of the creation to me (Muhammad), and you are more hated by me than an equivelent number of apes and swine. However, my love for him (the Prophet ﷺ) and hatred for you shall not prevent me from being just with you." On that, they said, "This (justice) is the basis which the heavens and earth were created. " We will mention this Hadith later in Surat Al-Ma'idah (chapter 5) Allah willing.
+
+Allah's statement afterwards,
+
+وَإِن تَلْوُوا أَوْ تُعْرِضُوا
+
+(and if you 'Talwū' or 'Tu'ridū') means, "Distort your testimony and change it", according to Mujahid and several others among the Salaf. 'Talwū', includes distortion and intentional lying. For instance, Allah said,
+
+وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُونَ أَلْسِنَتَهُم بِالْكِتَابِ
+
+(And verily, among them is a party who Yalwuna (distort) the Book with their tongues (as they read))[3:78]. 'Tu'ridū', includes hiding and withholding the testimony. Allah said,
+
+وَمَن يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ
+
+(Who hides it, surely, his heart is sinful)[2:283] The Prophet ﷺ said,
+
+خَيْرُ الشُّهَدَاءِ الَّذِي يَأْتِي بِشَهَادَتِهِ قَبْلَ أَنْ يُسْأَلَهَا
+
+(The best witness is he who discloses his testimony before being asked to do so.) Allah then warned,
+
+فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
+
+(Verily, Allah is Ever Well-Acquainted with what you do.) and will reward or punish you accordingly.
+
+## Maarif ul Quran
+
+The real purpose of sending prophets and scriptures
+
+In this verse of Surah Al-Nisa', all Muslims have been instructed to uphold justice and be true when appearing as witnesses. Besides, things which can become impediments to the establishment of justice or the availability of true evidence have been removed in a highly eloquent manner. A verse of Surah al-Ma` idah (Volume 3) which will follow immediately after the completion of Surah al-Nis-a' carries the same subject. In fact, their words are nearly common. Then, there is a verse in Surah al-Hadid which tells us that the important purpose of sending Sayyidna Adam (علیہ السلام) as the vice-regent of Allah in this world followed by other blessed prophets one after the other with the same status alongwith Scriptures and Missions was to see that justice prevails in the world with peace coming in its wake. The objective was to have every human being as a distinct individual adopt justice as his or her hallmark within his or her circle of influence of control. As for the chronically contumacious who would not take to the path of justice and fairness through good counsel, education and communication and continue being dogged in their contumacy, then, they will be the ones who have to be compelled to observe justice through legal process and due penalization and punishment.
+
+The words of this verse from Surah Al-Hadid (57:25) are as follows:
+
+لَقَدْ أَرْ‌سَلْنَا رُ‌سُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ
+
+We have sent Our messengers with clear signs and We have sent with them the Book and the Balance so that people stand firm with justice and we sent the iron in which there is great awe, and benefits for people.
+
+Thus we know that the system under which Prophets and Books were sent was basically aimed at establishing justice. The reference to sending down iron at the end of the verse hints towards the eventuality when the good counsel alone would not be enough to make people abide by justice. Instead, there would still be some compulsive miscreants who must be disciplined with the deterrent of iron, chains and bars and other weapons, in the best interest of establishing justice.
+
+Abiding by justice is not for the government alone.
+
+Now, we have before us the present verse Surah al-Nis-a' (4:135), and verse 8 of Surah al-Ma` idah (5) -
+
+كُونُوا قَوَّامِينَ لِلَّـهِ شُهَدَاءَ بِالْقِسْطِ وَلَا يَجْرِ‌مَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا اعْدِلُوا هُوَ أَقْرَ‌بُ لِلتَّقْوَىٰ وَاتَّقُوا اللَّـهَ إِنَّ اللَّـهَ خَبِيرٌ‌ بِمَا تَعْمَلُونَ
+
+Be steadfast for Allah as witnesses for justice. And malice against a people should not bid you to not doing justice. Do justice. That is nearer to Taqwa. And fear Allah. Surely, Allah is all-aware of what you do. (5:8)
+
+as well as the verse from Surah al-Hadid (57:25) cited immediately above. In these verses, it has been clearly stated that establishing, and maintaining justice and being steadfast on it is not simply the duty of governments and courts. The instruction has been given to every human being obligating him or her to fulfill the demands of justice by being personally firm about it and, at the same time, by making efforts that others too stay equally firm about seeing justice done. However, a certain level of justice does fall in the jurisdiction of government and its officials when the wicked, the rebellious and the contumacious challenge and confront the processes of justice by flouting it personally as well as by stopping others to carry out its dictates. On such occasions, penalization and punishment do become necessary. This enforcement of justice, obviously, can be done only by government which holds the reins of power in its hands.
+
+In the world today, leave alone the illiterate millions, even fairly educated people think that the dispensing of justice is the sole duty of governments and courts and the masses of people are not responsible for it. This attitude is one of the major reasons which has made the government and the people act as two confronting parties in every country and every state. As a result, a gulf of conflict divides the rulers and the ruled. Masses of people from every country demand and expect justice and fairness from their government but, strangely enough, are not themselves ready and eager to uphold justice. The outcome is all too visible everywhere in the world. Law stands on hold. Crime wave rides high. No doubt, we have law-making bodies in every country costing millions. When elections come, the furore created to elect representatives really shakes God's earth. Then, these elected few, being supposedly the cream of the whole country, go on to make laws with great concern and caution keeping in view the needs and sentiments of their electorate. Then, the law is put forth for public opinion. When favourable, the law is considered enforceable. Then, the whole machinery of the government with its countless departments and experienced personal goes about enforcing the law so made. Now, this is a window to the custom-ridden world we live in. We have to look afresh and aim higher. In order to do something like this, we have to shake off from the torpor of blind following, the following of self-promoting custodians of civilization, and we shall, then, realize that things are not as bright as we are being made to see.
+
+Compare the state of affairs for a hundred years from now, say 1857-1957. The data will confirm that with every increase in law-making, there increased the exhibition of popular will in law and a corresponding increase in the machinery of law enforcement. One kind of police sprouted out in many more kinds resulting in a more than matching increase in ever-escalating crimes causing people to remain far more deprived of justice. With this graph of conditions rising up, more disorder in the world started showing up.
+
+Belief in the Hereafter and the fear of God: The only guarantee of universal peace
+
+The world is waiting for someone sensitive and discerning who would cross over the barriers of customised routines and seriously consider the message brought by the Arabian messenger ﷺ and deliberate in the reality of things as they are. Peace in the world has never been achieved through penal codes, nor will it ever be. The guarantee of universal peace can be delivered by nothing but the belief in the Hereafter and the fear of God. This twosome is the channel through which all obligations of the ruler and the ruled, masses and the government merge together on a common platform. Everyone starts pulsating with the crucial sense of individual responsibility. When it comes to respecting and defending law, the masses of people cannot get away by saying that this was the job of the officials. It will be noticed that the verses of the Holy Qur'an dealing with the establish-ment of justice as cited above end with an exhortation to this very revolutionary article of faith.
+
+The present verse of Surah al-Nis-a' ends with the reminder: إِنَّ اللَّـهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرً‌ا (Allah is all-aware of what you do). At the end of the verse from Surah al-Ma` idah, first came the instruction to observe Tagwa, the fear of Allah, after which it was said: إِنَّ اللَّـهَ خَبِيرٌ‌ بِمَا تَعْمَلُونَ (Allah is aware of what you do). Then, at the end of Surah al-Hadid, it was said: إِنَّ اللَّـهَ قَوِيٌّ عَزِيزٌ (Allah is powerful, mighty).
+
+Seen together; these three verses do not rest at giving instructions to both officials and masses that they should not only uphold and establish justice personally but should also see that others too do that. These verses go further ahead through their concluding statements whereby they focus all attention to a decisive reality which has the potential to generate a great revolution in human life and its aspirations. This, in a few words, is the realization of the power and domain of Almighty Allah, the thought of having to be present before Him, and of reckoning, and of retribution. This was, gain in a nutshell, the secret behind the peace which prevailed in the less educated world a hundred years ago as compared with what we have in our day; and, in fact, it is the abandoning of such a valuable teaching that has deprived the modern progress-claiming, high-flying and satellite-borne world from the blessings of genuine peace on earth.
+
+It is in the best interest of the liberal people of the world to realize that science and its progress can take them to all sorts of frontiers - they can climb the skies, camp on stars and visit the depths of seas - but, the real end-product of all these high-tech equipments and efforts is something which they would fail to find on far away stars or in ever new inventions. This is still there for seekers to find. It is there, clear and true as ever, in the message brought by the Prophet ﷺ who appeared in Arabia, may our lives be ransomed for him and may the peace and blessings of Allah be upon him, within the message and teaching of his, that of believing in Allah and believing in the life-to come and its reckoning:
+
+أَلَا بِذِكْرِ‌ اللَّـهِ تَطْمَئِنُّ الْقُلُوبُ
+
+"Listen! Hearts rest at peace through the Dhikr (remembrance) of Allah." (13:28)
+
+Day by day, the astonishing discoveries of science do no more than confirm the most perfect power of Almighty Allah and go on to clearly demonstrate the state-of-the-art mastery of His creation which has no match. Before the skill and range of such creativity, every human claim to progress stands humbled - as the famous Persian line:
+
+چہ سود چوں دل دانا و چشم بینا نیست seems to ask: If you have no wisdom and no vision, what is the use of doing what you do?
+
+Recapitulating, we can say that the Holy Qur'an has, on the one hand, declared the establishment of justice and fairness as the very purpose of a universal order in the world while, on the other hand, it has proposed a unique system which - if adopted and put into practice - would metamorphose this very blood-thirsty and iniquitous world into a society of virtuous people which, in turn, would become Paradise now, instant and cash, much earlier than the promised Paradise of the Hereafter. In fact, one of the explanations given regarding the verse of the Qur'an: لِمَنْ خَافَ مَقَامَ رَ‌بِّهِ جَنَّتَانِ : And for one who fears the high station of his or her رَبّ Rabb (Lord), there will be two Paradises' is exactly what has been stated above. That is, the God-fearing will have two Paradises, one in the Hereafter and the other right here in this world. There is nothing Utopian about the idea. That it is feasible has been already demonstrated by the great harbinger of this message, the Holy Prophet of Islam, upon him the blessings of Allah, and peace. He has bequeathed this message to posterity, not as some unproven theory, but as a practical and functioning system. Then, after him, came al-Khulafa' al-Rashidun, the rightly-guided Caliphs and many more from among the rulers who followed the Sunnah of the noble Prophet ﷺ of Islam strictly. As and when they acted in accordance with the principles set for them, the lion and the lamb were seen drinking at the same water trough, an imaginary saying for the ideal climate of justice for all, the strong and the weak, the poor and the rich, the labourer and the capitalist. Totally eliminated was whatever difference there could be between human beings. Law was respected by every individual in bolted homes and in the darkness of nights. This is no fairy tale. These are facts of authentic history widely corroborated and confessed, even by open-minded non-Muslims.
+
+After understanding the essence of the Qur'anic system, detailed explanation of the verse is given below.
+
+Explanation
+
+The verse under reference opens with the words: كُونُوا قَوَّامِينَ بِالْقِسْطِ be upholders of justice). The word, قِسْطِ Qist, when it begins with Kasrah on Qaf, (the vowel point for i), it means justice and fairness. The true sense of justice and fairness is that every holder of a right should be given his or her due in full. Taken generally, it includes the rights of Allah (Huququllah) and all kinds of human rights as well. Inclusive in the thrust of the meaning of 'upholding justice' (qiyam bi l'qist) is that nobody shall inflict injustice on anybody; also that the perpetrator of injustice (zalim) shall be stopped from inflicting injustice (zulm) and the victim of injustice (mazlum) shall be supported; and also that appearing as witness shall not be avoided, if witness is needed to help the victim of injustice to have his or her usurped right back; and also that the witness shall be true and factual as it really is, whether for or against anyone; and also that those who hold the reins of authority and dispensation of justice in their hands shall treat both parties to the case before them, equally and equitably. There shall be no tilt of any sort toward any one of the two. Statements given by witnesses shall be heard carefully. Every effort possible shall be made to investigate the case. Then, finally, perfect justice shall be observed in the verdict.
+
+Impediments to Justice
+
+Though the two verses from Surah al-Nis-a' and Surah al-M-a'idah quoted earlier come from two different chapters, yet their subject is almost the common denominator between them. The only difference is that justice is normally impeded, obstructed or compromised by two things. Firstly, by love, kinship or friendship or link with someone which pushes the witness to testify in his favour so that he remains shielded against loss or that he profits by it. As for the judge or Qadi who is to give the verdict is affected by any such linkage, he would naturally have the urge to decide the case in favour of the party of his linkage. Secondly, justice is impeded by hostility towards someone which may take the witness to testify against him, while it could also become the cause of an unfavourable judgement given by the judge or Qadi. So, love and hate are passions which can cause one to move away from the path of justice and become involved with all sorts of injustice and oppression. These very two impediments have been removed in both the verses of Surah al-Nisa' and Surah al-Ma` idah. The instruction given in the verse of Surah al-Nisa' is about removing the impediment of kinship or nearness. It has been said there: أَوِ الْوَالِدَيْنِ وَالْأَقْرَ‌بِين (4:135 ( which means: even if your testimony goes against your parents or near relatives, say what is true and ignore the factor of such relationship when testifying the truth. And removed through the verse of Surah al-Ma` idah is the impediment of grudge, malice or enmity. So, there it was said: وَلَا يَجْرِ‌مَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَ‌بُ لِلتَّقْوَىٰ (And malice against a people should not bid you to not doing justice. Do justice. That is nearer to Taqwa - 5:2). As clear from the translation, it means that malice should not make one desert the path of justice and go about testifying or ruling against them.
+
+In addition to that, there is a slight difference between the form of address and the mode of expression appearing in these two verses. In Surah al-Nisa', it was said: قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّـهِ (...upholders of , justice, witnesses for Allah - 4:135) while the words from Surah al-Ma` idah are: قَوَّامِينَ لِلَّـهِ شُهَدَاءَ بِالْقِسْطِ (... be steadfast for Allah as witnesses for justice - 5:8). To explain, we can say that the first verse contains two instructions: Uphold justice and witness for Allah. As for the second verse, the same two things have been commanded but with a changed form of address, that is, 'be steadfast for Allah and witnesses for justice.'
+
+Most commentators say that this change in address shows .that both these things are two interpretations of the same reality. At one place, it was referred to as being steadfast with justice and witnesses for Allah, while at another, the word arrangement was: Steadfast for Allah and witnesses for justice. Moreover, worth noticing is the mode of expression adopted in both these verses where multiple-worded sentences such as كُونُوا قَوَّامِينَ لِلَّـهِ شُهَدَاءَ بِالْقِسْطِ or قَوَّامِينَ لِلَّـهِ have been preferred, although the command to do justice could have been given through the use of one single. word: اَقسِطوا : Aqsi tu: Do justice (as in Surah Al-Hujurat, 49:9). Actually, the choice of the longer sentence is there to indicate that being just and fair in a particular case accidentally does not liquidate one's responsibility wholly. The reason is that being able to do justice in one or the other case is a natural possibility which can apply even to the most evil and tyrannical ruler who may find himself having done justice in some case. So, by the use of the word, qawwamin (those who uphold and are steadfast), it has been established that upholding justice and fairness is a constant duty which must be observed at all times, under all conditions, for every friend or foe.
+
+Qur'anic Principles of Universal Justice
+
+Now, concluding our discussion about the meanings of verse 135 in conjunction with verse 8 of Surah a1-Ma` idah, it can be safely Said that the principles of universal justice by one and all enunciated through these two verses form part of the many distinctions of the glorious Qur'an. These can be better appreciated when seen through two major' aspects as given below:
+
+1. To begin with, officials and masses of people have all been alerted to the supreme subduing power of Almighty Allah and to the ultimate reckoning of the fateful Day of Retribution so that they could think, stop and deter or be prepared to face the consequences. In view of this, the masses themselves have to respect law, and the officials who are responsible for the enforcement of law, they too, have to keep the thought of Allah and Akhirah (God and the Hereafter) before them while enforcing law and thus be the servants and not the thoughtless masters of God's multitudes of people. They should make law a source of service to people and a source of betterment of the whole world, never causing their worries to increase, never engineering ways to condemn victims of injustice to. their grinding mills of red tape, never making them suffer from injustice multiplied with more injustices, and finally, never ever selling law for mean desires or paltry gains. By saying: Be steadfast for Allah - witnesses for Allah, both officials and masses have been exhorted to act for Allah and act with sincerity at its best.
+
+2. The second element of importance here is that the responsibility of establishing justice and fairness as a way of life has been placed on the shoulders of all human beings. As for the verses from Surah al-Nis-a' and Surah al-Ma` idah wherein, by saying: يَا أَيُّهَا الَّذِينَ آمَنُوا (0 those who believe), the entire Muslim community has been addressed. But, in Surah al-Hadid, by saying: لِيَقُومَ النَّاسُ بِالْقِسْطِ (so that mankind stands firm with justice - 57:25), this duty has been considered binding on all human beings. Similarly, by saying: وَلَوْ عَلَىٰ أَنفُسِكُمْ (even though against yourselves...), instruction has been given that justice is not something to be demanded from others only, instead, it should also be exacted from one's own self. It means that one should say nothing against what is true and just, even when one has to declare something against one's own self, even if such an action is likely to bring loss upon one's person, because this loss is insignificant, tiny and transitory. On the contrary, should someone elect to placate his self by flat lies, then he has bought for himself the severe punishment of the Day of Retribution.
+
+## Personal Reflections

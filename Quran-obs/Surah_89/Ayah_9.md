@@ -1,0 +1,242 @@
+---
+arabic_ayat: وَثَمُوۡدَ الَّذِيۡنَ جَابُوا الصَّخۡرَ بِالۡوَادِۙ‏
+sentence_translation: and Thamûd who carved ˹their homes into˺ the rocks in the ˹Stone˺
+  Valley;
+word_by_word:
+  1:
+    arabic: وَثَمُوۡدَ
+    translation: And Thamud
+    transliteration: wathamūda
+  2:
+    arabic: الَّذِيۡنَ
+    translation: who
+    transliteration: alladhīna
+  3:
+    arabic: جَابُوا
+    translation: carved out
+    transliteration: jābū
+  4:
+    arabic: الصَّخۡرَ
+    translation: the rocks
+    transliteration: l-ṣakhra
+  5:
+    arabic: بِالۡوَادِۙ‏
+    translation: in the valley
+    transliteration: bil-wādi
+---
+
+## Context
+
+To understand **The Dawn** (Al-Fajr) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. The word ` imad' and 'amud' means 'pillar'.
+
+## Tafsir Ibn Kathir
+
+Recitation of Surat Al-Fajr in the Prayer
+
+An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. Mu'adh made the prayer long, so the man went and prayed (alone) at the side of the Masjid, and then left. When Mu'adh was informed of this he said, "(He is) a hypocrite." He (Mu'adh) then informed the Messenger of Allah ﷺ of what happened. The Prophet ﷺ then asked the young man (about it) and he replied, "O Messenger of Allah! I came to pray with him, but he made the prayer too long for me. So I left him and prayed at the side of the Masjid. Then I went to feed my she-camel." The Messenger of Allah ﷺ then said,
+
+أَفَتَّانٌ يَا مُعَاذُ؟ أَيْنَ أَنْتَ مِنْ
+
+سَبِّحِ اسْمَ رَبِّكَ الاّعْلَى
+
+وَالشَّمْسِ وَضُحَاهَا
+
+وَالْفَجْرِ
+
+وَالَّيْلِ إِذَا يَغْشَىٰ
+
+(Are you causing trouble Mu'adh? Why don't you recite ('Glorify the Name of your Lord the Most High'), ('By the sun and its brightness'), ('By the dawn'), (and ('By the night as it envelops')?)
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful
+
+وَالْفَجْرِ - وَلَيَالٍ عَشْرٍ - وَالشَّفْعِ وَالْوَتْرِ - وَالَّيْلِ إِذَا يَسْرِ - هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ - أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ - إِرَمَ ذَاتِ الْعِمَادِ - الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ - وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ - وَفِرْعَوْنَ ذِي الْأَوْتَادِ - الَّذِينَ طَغَوْا فِي الْبِلَادِ - فَأَكْثَرُوا فِيهَا الْفَسَادَ - فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ - إِنَّ رَبَّكَ لَبِالْمِرْصَادِ
+
+(1. By the dawn;)(2. And by the ten nights,)(3. And by the even and the odd.)(4. And by the night when it departs.)(5. Is there (not) in them sufficient proofs for men of understanding!)(6. Saw you not how your Lord dealt with 'Ad?)(7. Iram of the pillars,)(8. The like of which were not created in the land?)(9. And Thamud, who hewed out rocks in the valley?)(10. And Fir'awn with Al-Awtad?)(11. Who did transgress beyond bounds in the lands.)(12. And made therein much mischief.)(13. So, your Lord poured on them different kinds of severe torment.)(14. Verily, your Lord is Ever Watchful.)
+
+The Explanation of Al-Fajr and What Comes After it
+
+Concerning Al-Fajr, it is well known that it is the morning. This was said by 'Ali, Ibn 'Abbas, 'Ikrimah, Mujahid and As-Suddi.
+
+It has been reported from Masruq and Muhammad bin Ka'b that Al-Fajr refers to the day of Sacrifice (An-Nahr) in particular, and it is the last of the ten nights. 'The ten nights' refers to the (first) ten days of Dhul-Hijjah. This was said by Ibn 'Abbas, Ibn Zubayr, Mujahid and others among the Salaf and the latter generations. It has been confirmed in Sahih Al-Bukhari from Ibn 'Abbas that the Prophet ﷺ said,
+
+مَا مِنْ أَيَّامٍ الْعَمَلُ الصَّالِحُ أَحَبُّ إِلَى اللهِ فِيهِنَّ مِنْ هٰذِهِ الْأَيَّامِ
+
+(There are no days in which righteous deeds are more beloved to Allah than these days.)
+
+meaning the ten days of Dhul-Hijjah. They said, "Not even fighting Jihad in the way of Allah" He replied,
+
+وَلَا الْجِهَادُ فِي سَبِيلِ اللهِ، إِلَّا رَجُلًا خَرَجَ بِنَفْسِهِ وَمَالِهِ ثُمَّ لَمْ يَرْجِعْ مِنْ ذلِكَ بِشَيْءٍ
+
+(Not even Jihad in the way of Allah; except for a man who goes out (for Jihad) with his self and his wealth, and he does not return with any of that.)
+
+Allah then says,
+
+وَالشَّفْعِ وَالْوَتْرِ
+
+(And by the even and the odd.)
+
+It has been mentioned in a Hadith that Al-Watr (the odd) is the day of 'Arafah because it falls on the ninth, and Ash-Shaf'i (the even) is the day of An-Nahr (sacrifice) because it falls on the tenth day. This was also said by Ibn 'Abbas, 'Ikrimah and Ad-Dahhaak. There are also other opinions about the explanation of these two words.
+
+Explanation of Night
+
+Concerning Allah's statement,
+
+وَالَّيْلِ إِذَا يَسْرِ
+
+(And by the night when it departs.) Al-'Awfi reported from Ibn 'Abbas that he said, "When it goes away." 'Abdullah bin Zubayr said,
+
+وَالَّيْلِ إِذَا يَسْرِ
+
+(And by the night when it departs.) "As some parts of it remove other parts of it." Mujahid, Abu Al-'Aliyah, Qatadah, and Malik who reported it from Zayd bin Aslam and Ibn Zayd, they all said;
+
+وَالَّيْلِ إِذَا يَسْرِ
+
+(And by the night when it departs.) "When it moves along."
+
+Concerning Allah's statement,
+
+هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ
+
+(There is indeed in them sufficient proofs for men with Hijr!)
+
+meaning, for he who possesses intellect, sound reasoning, understanding and religious discernment. The intellect has only been called Hijr because it prevents the person from doing that which is not befitting of him of actions and statement. From this we see the meaning of Hijr Al-Bayt because it prevents the person performing Tawaf from clinging the wall facing Ash-Sham. Also the term Hijr Al-Yamamah (the cage of the pigeon) is derived from this meaning (i.e., prevention). It is said, "Hajara Al-Hakim so-and-so (The judge passed a judgement preventing so-and-so)," when his judgement prevents the person from his liberty (i.e., of freely utilizing his wealth). Allah says,
+
+وَيَقُولُونَ حِجْرًا مَّحْجُورًا
+
+(And they will say: "Hijr Mahjur.")(25:22)
+
+All of these examples are different cases but their meanings are quite similar. The oath that is referred to here is about the times of worship and the acts of worship themselves, such as Hajj, Salah and other acts of worship that Allah's pious, obedient, servants who fear Him and are humble before Him, seeking His Noble Face, perform in order to draw nearer to Him.
+
+Mentioning the Destruction of 'Ad
+
+After mentioning these people, and their worship and obedience, Allah says,
+
+أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
+
+(Saw you not how your Lord dealt with 'Ad?)
+
+These were people who were rebellious, disobedient, arrogant, outside of His obedience, deniers of His Messengers and rejectors of His Scriptures. Thus, Allah mentions how He destroyed them, annihilated them and made them legends to be spoken of and an exemplary lesson of warning. He says,
+
+أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ - إِرَمَ ذَاتِ الْعِمَادِ
+
+(Saw you not how your Lord dealt with 'Ad? Iram of the pillars,)
+
+These were the first people of 'Ad. They were the descendants of 'Ad bin Iram bin 'Aws bin Sam bin Nuh. This was said by Ibn Ishaq. They are those to whom Allah sent His Messenger Hud. However, they rejected and opposed him. Therefore, Allah saved him and those who believed with him from among them, and He destroyed others with a furious, violent wind.
+
+سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ - فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ
+
+(Which Allah imposed on them for seven nights and eight days in succession, so that you could see men lying overthrown, as if they were hollow trunks of date palms! Do you see any remnants of them?)(69: 7-8)
+
+Allah mentioned their story in the Qur'an in more than one place, so that the believers may learn a lesson from their demise. Allah then says,
+
+إِرَمَ ذَاتِ الْعِمَادِ
+
+(Iram of the pillars.) This is an additional explanation that adds clarification who they actually were. Concerning His saying,
+
+ذَاتِ الْعِمَادِ
+
+(of the pillars.) is because they used to live in trellised houses that were raised with firm pillars. They were the strongest people of their time in their physical stature, and they were the mightiest people in power. Thus, Hud reminded them of this blessing, and he directed them to use this power in the obedience of their Lord Who had created them. He said,
+
+وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِن بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِي الْخَلْقِ بَسْطَةً ۖ فَاذْكُرُوا آلَاءَ اللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+
+(And remember that He made you successors after the people of Nuh and increased you amply in stature. So remember the graces from Allah so that you may be successful.)(7:69)
+
+Allah also said,
+
+فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً
+
+(As for 'Ad, they were arrogant in the land without right, and they said: "Who is mightier than us in strength?" See they not that Allah Who created them was mightier in strength than them.)(41:15)
+
+And Allah says here,
+
+الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
+
+(The like of which were not created in the land?)
+
+meaning, there had been none created like them in their land, due to their strength, power and their great physical stature. Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong.
+
+Concerning Allah's statement,
+
+الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
+
+(The like of which were not created in the land?)
+
+Ibn Zayd considered the pronoun of discussion here to refer to the pillars, due to their loftiness. He said, "They built pillars among the hills, the likes of which had not been constructed in their land before." However, Qatadah and Ibn Jarir considered the pronoun of discussion to refer to the tribe (of 'Ad), meaning that there was no tribe that had been created like this tribe in the land - meaning during their time. And this latter view is the correct position.
+
+The saying of Ibn Zayd and those who follow his view is a weak one, because if He intended that, He would have said "The like of which were not produced in the land." But He said:
+
+لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
+
+(The like of which were not created in the land?)
+
+Then Allah says,
+
+وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ
+
+(And Thamud, who hewed (Jabu) rocks in the valley?)
+
+meaning, they cut the rocks in the valley. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd. From this terminology it is said (in the Arabic language), "the hewing of leopard skin" when it is torn, and "The hewing of a garment" when it is opened. The word 'Jayb' (pocket or opening in a garment) also comes from Jabu. Allah says,
+
+وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ
+
+(And you hew in the mountains, houses with great skill.)(26:149)
+
+A Mention of Fir'awn
+
+Allah then says,
+
+وَفِرْعَوْنَ ذِي الْأَوْتَادِ
+
+(And Fir'awn with Al-Awtad)
+
+Al-'Awfi reported from Ibn 'Abbas that he said, "Al-Awtad are the armies who enforced his commands for him." It has also been said that Fir'awn used to nail their hands and their feet into pegs (Awtad) of iron that he would hang them from. A similar statement was made by Mujahid when he said, "He used to nail the people (up) on pegs." Sa'id bin Jubayr, Al-Hasan and As-Suddi all said the same thing.
+
+Allah said,
+
+الَّذِينَ طَغَوْا فِي الْبِلَادِ - فَأَكْثَرُوا فِيهَا الْفَسَادَ
+
+(Who did transgress beyond bounds in the lands. And made therein much mischief.)
+
+meaning, they rebelled, were arrogant, and went about making corruption in the land, and harming the people.
+
+فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
+
+(So, your Lord poured on them different kinds of severe torment.)
+
+meaning, He sent down a torment upon them from the sky and caused them to be overcome by a punishment that could not be repelled from the people who were criminals.
+
+The Lord is Ever Watchful
+
+Concerning Allah's statement,
+
+إِنَّ رَبَّكَ لَبِالْمِرْصَادِ
+
+(Verily, your Lord is Ever Watchful.)
+
+Ibn 'Abbas said, "He hears and He sees." This means that He watches over His creation in that which they do, and He will reward them in this life and in the Hereafter based upon what each of them strove for. He will bring all of the creation before Him and He will judge them with justice. He will requit each of them with that which he deserves, for He is far removed from injustice and tyranny.
+
+## Maarif ul Quran
+
+They are introduced here by the epithet: ذَاتِ الْعِمَادِ (the men of tall pillars)
+
+The word ` imad' and 'amud' means 'pillar'. The people of ` Ad are mentioned as the men of tall pillars because they were very tall in stature. They were a stronger and more powerful people than any other nations. The Qur'an describes them explicitly, thus:
+
+لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ (the like of whom were never created in the lands...89:8) The Qur'an made it clear that this nation was the tallest and the strongest in their physical stature, but the Qur'an did not state the exact measurement of the people because it was unnecessary [ for Qur'anic purposes ]. Therefore, that detail has been left out. Israelite traditions, however, narrate such incredible reports about their stature, height and power that are difficult to believe. It is reported from Sayyidna Ibn ` Abbas ؓ and Muqatil that they were six yards or eighteen feet [ 5.46] tall. This too seems to be derived from Israelite reports. And Allah knows best!
+
+Some commentators say that 'Iram' is the name of the 'paradise' which ` Ad's son Shaddad had built. The epithet 'possessor of tall pillars' [ translated above as 'men of tall pillars'] is used for him. The [ so-called paradise ] was a lofty structure standing on tall pillars built with gold and silver and studded with jewels, gems and other precious stones, so that people may prefer an instant and ready at hand paradise instead of Paradise of the Hereafter. When this magnificent palace was ready for use, and Shaddad, together with the leaders of his kingdom, wanted to enter, Divine punishment overtook them. They, together with the palaces, were completely destroyed. [ Qurtubi ]. In this interpretation, the verse refers to a specific punishment which descended upon the paradise built by ` Ad's son Shaddad. In the first interpretation, which the majority of the commentators prefer, it refers to all the punishments that descended upon the nation of ` Ad.
+
+## Personal Reflections

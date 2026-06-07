@@ -1,0 +1,289 @@
+---
+arabic_ayat: مَا كَانَ لِاَهۡلِ الۡمَدِيۡنَةِ وَمَنۡ حَوۡلَهُمۡ مِّنَ الۡاَعۡرَابِ
+  اَنۡ يَّتَخَلَّفُوۡا عَنۡ رَّسُوۡلِ اللّٰهِ وَ لَا يَرۡغَبُوۡا بِاَنۡفُسِهِمۡ عَنۡ
+  نَّـفۡسِهٖ ​ؕ ذٰ لِكَ بِاَنَّهُمۡ لَا يُصِيۡبُهُمۡ ظَمَاٌ وَّلَا نَصَبٌ وَّلَا مَخۡمَصَةٌ
+  فِىۡ سَبِيۡلِ اللّٰهِ وَلَا يَطَـُٔــوۡنَ مَوۡطِئًا يَّغِيۡظُ الۡكُفَّارَ وَلَا
+  يَنَالُوۡنَ مِنۡ عَدُوٍّ نَّيۡلاً اِلَّا كُتِبَ لَهُمۡ بِهٖ عَمَلٌ صَالِحٌ​ ؕ اِنَّ
+  اللّٰهَ لَا يُضِيۡعُ اَجۡرَ الۡمُحۡسِنِيۡنَۙ‏
+sentence_translation: It was not ˹proper˺ for the people of Medina and the nomadic
+  Arabs around them to avoid marching with the Messenger of Allah or to prefer their
+  own lives above his. That is because whenever they suffer from thirst, fatigue,
+  or hunger in the cause of Allah; or tread on a territory, unnerving the disbelievers;
+  or inflict any loss on an enemy—it is written to their credit as a good deed. Surely
+  Allah never discounts the reward of the good-doers.
+word_by_word:
+  1:
+    arabic: مَا
+    translation: Not
+    transliteration: mā
+  2:
+    arabic: كَانَ
+    translation: it was
+    transliteration: kāna
+  3:
+    arabic: لِاَهۡلِ
+    translation: (for) the people
+    transliteration: li-ahli
+  4:
+    arabic: الۡمَدِيۡنَةِ
+    translation: of the Madinah
+    transliteration: l-madīnati
+  5:
+    arabic: وَمَنۡ
+    translation: and who
+    transliteration: waman
+  6:
+    arabic: حَوۡلَهُمۡ
+    translation: were around them
+    transliteration: ḥawlahum
+  7:
+    arabic: مِّنَ
+    translation: of
+    transliteration: mina
+  8:
+    arabic: الۡاَعۡرَابِ
+    translation: the bedouins
+    transliteration: l-aʿrābi
+  9:
+    arabic: اَنۡ
+    translation: that
+    transliteration: an
+  10:
+    arabic: يَّتَخَلَّفُوۡا
+    translation: they remain behind
+    transliteration: yatakhallafū
+  11:
+    arabic: عَنۡ
+    translation: after
+    transliteration: ʿan
+  12:
+    arabic: رَّسُوۡلِ
+    translation: the Messenger
+    transliteration: rasūli
+  13:
+    arabic: اللّٰهِ
+    translation: of Allah
+    transliteration: l-lahi
+  14:
+    arabic: وَ لَا
+    translation: and not
+    transliteration: walā
+  15:
+    arabic: يَرۡغَبُوۡا
+    translation: they prefer
+    transliteration: yarghabū
+  16:
+    arabic: بِاَنۡفُسِهِمۡ
+    translation: their lives
+    transliteration: bi-anfusihim
+  17:
+    arabic: عَنۡ
+    translation: to
+    transliteration: ʿan
+  18:
+    arabic: نَّـفۡسِهٖ ​ؕ
+    translation: his life
+    transliteration: nafsihi
+  19:
+    arabic: ذٰ لِكَ
+    translation: That is
+    transliteration: dhālika
+  20:
+    arabic: بِاَنَّهُمۡ
+    translation: because [they]
+    transliteration: bi-annahum
+  21:
+    arabic: لَا
+    translation: (does) not
+    transliteration: lā
+  22:
+    arabic: يُصِيۡبُهُمۡ
+    translation: afflict them
+    transliteration: yuṣībuhum
+  23:
+    arabic: ظَمَاٌ
+    translation: thirst
+    transliteration: ẓama-on
+  24:
+    arabic: وَّلَا
+    translation: and not
+    transliteration: walā
+  25:
+    arabic: نَصَبٌ
+    translation: fatigue
+    transliteration: naṣabun
+  26:
+    arabic: وَّلَا
+    translation: and not
+    transliteration: walā
+  27:
+    arabic: مَخۡمَصَةٌ
+    translation: hunger
+    transliteration: makhmaṣatun
+  28:
+    arabic: فِىۡ
+    translation: in
+    transliteration: fī
+  29:
+    arabic: سَبِيۡلِ
+    translation: (the) way
+    transliteration: sabīli
+  30:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  31:
+    arabic: وَلَا
+    translation: and not
+    transliteration: walā
+  32:
+    arabic: يَطَـُٔــوۡنَ
+    translation: they step
+    transliteration: yaṭaūna
+  33:
+    arabic: مَوۡطِئًا
+    translation: any step
+    transliteration: mawṭi-an
+  34:
+    arabic: يَّغِيۡظُ
+    translation: that angers
+    transliteration: yaghīẓu
+  35:
+    arabic: الۡكُفَّارَ
+    translation: the disbelievers
+    transliteration: l-kufāra
+  36:
+    arabic: وَلَا
+    translation: and not
+    transliteration: walā
+  37:
+    arabic: يَنَالُوۡنَ
+    translation: they inflict
+    transliteration: yanālūna
+  38:
+    arabic: مِنۡ
+    translation: 'on'
+    transliteration: min
+  39:
+    arabic: عَدُوٍّ
+    translation: an enemy
+    transliteration: ʿaduwwin
+  40:
+    arabic: نَّيۡلاً
+    translation: an infliction
+    transliteration: naylan
+  41:
+    arabic: اِلَّا
+    translation: except
+    transliteration: illā
+  42:
+    arabic: كُتِبَ
+    translation: is recorded
+    transliteration: kutiba
+  43:
+    arabic: لَهُمۡ
+    translation: for them
+    transliteration: lahum
+  44:
+    arabic: بِهٖ
+    translation: in it
+    transliteration: bihi
+  45:
+    arabic: عَمَلٌ
+    translation: (as) a deed
+    transliteration: ʿamalun
+  46:
+    arabic: صَالِحٌ​ ؕ
+    translation: righteous
+    transliteration: ṣāliḥun
+  47:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  48:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  49:
+    arabic: لَا
+    translation: (does) not
+    transliteration: lā
+  50:
+    arabic: يُضِيۡعُ
+    translation: allow to be lost
+    transliteration: yuḍīʿu
+  51:
+    arabic: اَجۡرَ
+    translation: the reward
+    transliteration: ajra
+  52:
+    arabic: الۡمُحۡسِنِيۡنَۙ‏
+    translation: (of) the good-doers
+    transliteration: l-muḥ'sinīna
+---
+
+## Context
+
+To understand **The Repentance** (At-Tawbah) 120, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+It was neither befitting for the people of Al-Madinah and the bedouins of the neighborhood to remain behind Allah's Messenger nor to prefer their own lives to his life. The two verses cited above admonish those who missed to join the expedition of Tabuk for no valid reason.
+
+## Tafsir Ibn Kathir
+
+It was neither befitting for the people of Al-Madinah and the bedouins of the neighborhood to remain behind Allah's Messenger nor to prefer their own lives to his life. That is because they suffer neither Zama' nor Nasab, nor Makhmasah in the cause of Allah, nor did they take any step to raise the anger of disbelievers nor inflict any injury upon an enemy, but is written to their credit as a deed of righteousness. Surely, Allah wastes not the reward of the doers of good (120)
+
+Rewards of Jihad
+
+Allah, the Exalted and Most Honored, criticizes the people of Al-Madinah and the bedouins around it, who did not participate in the battle of Tabuk with the Messenger of Allah ﷺ. They sought to preserve themselves rather than comfort the Messenger ﷺ during the hardship that he suffered in that battle. They incurred a loss in their share of the reward, since,
+
+لَا يُصِيبُهُمْ ظَمَأٌ
+
+(they suffer neither 'Ẓama''), thirst,
+
+وَلَا نَصَبٌ
+
+(nor 'Naşab'), fatigue,
+
+وَلَا مَخْمَصَةٌ
+
+(nor 'Makhmaşah'), hunger,
+
+وَلَا يَطَئُونَ مَوْطِئًا يَغِيظُ الْكُفَّارَ
+
+(nor they take any step to raise the anger of disbelievers), by strategies of war that would terrify their enemy,
+
+وَلَا يَنَالُونَ
+
+(nor inflict), a defeat on the enemy,
+
+إِلَّا كُتِبَ لَهُم
+
+(but is written to their credit) as compensation for these steps that are not under their control, but a consequence of performing good deeds that earn them tremendous rewards,
+
+إِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ
+
+(Surely, Allah wastes not the reward of the doers of good.)
+
+Allah said in a similar Ayah,
+
+إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا
+
+(Certainly We shall not make the reward of anyone who does his (righteous) deeds in the most perfect manner to be lost)
+
+## Maarif ul Quran
+
+Commentary
+
+The two verses cited above admonish those who missed to join the expedition of Tabuk for no valid reason. They have also been told that they did what was not proper. Then the verses describe the merits of people who take part in Jihad and tell us about the great rewards they get for everything they do there. Included here is the causing of hurt or loss to the enemy and the using of a strategy that infuriates the adversary. All these are good deeds, and worthy of thawab (reward from Allah).
+
+## Personal Reflections

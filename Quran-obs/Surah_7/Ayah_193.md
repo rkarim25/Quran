@@ -1,0 +1,201 @@
+---
+arabic_ayat: وَاِنۡ تَدۡعُوۡهُمۡ اِلَى الۡهُدٰى لَا يَتَّبِعُوۡكُمۡ​ ؕ سَوَآءٌ عَلَيۡكُمۡ
+  اَدَعَوۡتُمُوۡهُمۡ اَمۡ اَنۡـتُمۡ صٰمِتُوۡنَ‏
+sentence_translation: And if you ˹idolaters˺ call upon them for guidance, they cannot
+  respond to you. It is all the same whether you call them or remain silent.
+word_by_word:
+  1:
+    arabic: وَاِنۡ
+    translation: And if
+    transliteration: wa-in
+  2:
+    arabic: تَدۡعُوۡهُمۡ
+    translation: you call them
+    transliteration: tadʿūhum
+  3:
+    arabic: اِلَى
+    translation: to
+    transliteration: ilā
+  4:
+    arabic: الۡهُدٰى
+    translation: the guidance
+    transliteration: l-hudā
+  5:
+    arabic: لَا
+    translation: not
+    transliteration: lā
+  6:
+    arabic: يَتَّبِعُوۡكُمۡ​ ؕ
+    translation: will they follow you
+    transliteration: yattabiʿūkum
+  7:
+    arabic: سَوَآءٌ
+    translation: (It is) same
+    transliteration: sawāon
+  8:
+    arabic: عَلَيۡكُمۡ
+    translation: for you
+    transliteration: ʿalaykum
+  9:
+    arabic: اَدَعَوۡتُمُوۡهُمۡ
+    translation: whether you call them
+    transliteration: adaʿawtumūhum
+  10:
+    arabic: اَمۡ
+    translation: or
+    transliteration: am
+  11:
+    arabic: اَنۡـتُمۡ
+    translation: you
+    transliteration: antum
+  12:
+    arabic: صٰمِتُوۡنَ‏
+    translation: remain silent
+    transliteration: ṣāmitūna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 193, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. In short, all the above acts or beliefs are different forms of 'Shirk' ~,.
+
+## Tafsir Ibn Kathir
+
+Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. It is the same for you whether you call them or you keep silent (193)Verily, those whom you call upon besides Allah are servants like you. So call upon them and let them answer you if you are truthful (194)Have they feet wherewith they walk? Or have they hands wherewith they hold? Or have they eyes wherewith they see? Or have they ears wherewith they hear? Say: "Call your (so-called) partners (of Allah) and then plot against me, and give me no respite (195)Verily, my protector is Allah Who has revealed the Book (the Qur'an), and He protects the righteous (196)And those whom you call upon besides Him (Allah) cannot help you nor can they help themselves (197)And if you call them to guidance, they hear not and you will see them looking at you, yet they see not. (198)
+
+Idols do not create, help, or have Power over Anything
+
+Allah admonishes the idolators who worshipped idols, rivals and images besides Him, although these objects were created by Allah, and neither own anything nor can they bring harm or benefit. These objects do not see or give aid to those who worship them. They are inanimate objects that neither move, hear, or see. Those who worship these objects are better than they are, for they hear see and have strength of their own. Allah said,
+
+أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْئًا وَهُمْ يُخْلَقُونَ
+
+(Do they attribute as partners to Allah those who created nothing but they themselves are created?) meaning, 'Do you associate with Allah others that neither create, nor have power to create anything?' Allah said in another Ayah,
+
+يَا أَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ لَن يَخْلُقُوا ذُبَابًا وَلَوِ اجْتَمَعُوا لَهُ وَإِن يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَّا يَسْتَنقِذُوهُ مِنْهُ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ - مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ
+
+(O mankind! A similitude has been coined, so listen to it (carefully): Verily, those on whom you call besides Allah, cannot create (even) a fly, even though they combine together for the purpose. And if the fly snatches away a thing from them, they will have no power to release it from the fly. So weak are (both) the seeker and the sought. They have not estimated Allah His rightful estimate. Verily, Allah is All-Strong, Almighty)[22:73-74].
+
+Allah states that if all false gods of the disbelievers gather their strength, they would not be able to create a fly. Rather, if the fly steals anything from them, no matter how insignificant, and flew away, they would not be able to retrieve it. Therefore, if an object is this weak, how can it be worshipped and invoked for provisions and aid? This is why Allah said,
+
+لَا يَخْلُقُ شَيْئًا وَهُمْ يُخْلَقُونَ
+
+(...who created nothing but they themselves are created?) these worshipped objects themselves were created and made. Prophet Ibrahim Al-Khalil proclaimed,
+
+أَتَعْبُدُونَ مَا تَنْحِتُونَ
+
+("Worship you that which you (yourselves) carve?")[37:95] Allah said next,
+
+وَلَا يَسْتَطِيعُونَ لَهُمْ نَصْرًا
+
+(No help can they give them) those who worship them,
+
+وَلَا أَنفُسَهُمْ يَنصُرُونَ
+
+(nor can they help themselves) nor are they able to aid themselves against those who seek to harm them. For instance, Allah's Khalil, peace be upon him, broke and disgraced the idols of his people, just as Allah said he did,
+
+فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ
+
+(Then he turned upon them, striking (them) with (his) right hand,)[37:93] and,
+
+فَجَعَلَهُمْ جُذَاذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+
+(So he broke them to pieces, (all) except the biggest of them, that they might turn to it.)[21:58]
+
+Mu'adh bin 'Amr ibn Al-Jamuh and Mu'adh bin Jabal, may Allah be pleased with both of them, were still young when they embraced Islam after the Messenger of Allah ﷺ came to Al-Madinah. So they were attacking the idols of the idolators at night, breaking, disfiguring them and using them as fuel for needy widows. They sought to give a lesson to their people to make them aware of their error. 'Amr bin Al-Jamuh, who was one of the chiefs of his people, had an idol that he used to worship and perfume. The two Mu'adhs used to go to that idol, turn it on its head and tarnish it with animal waste. When 'Amr bin Al-Jamuh would see what happened to his idol, he would clean it, perfume it and leave a sword next to it, saying, "Defend yourself." However, the two young men would repeat their actions, and he would do the same as before. Once, they took the idol, tied it to a dead dog and threw it in a well while tied to a rope! When 'Amr bin Al-Jamuh saw this, he knew that his religion was false and said, "By Allah! Had you been a god who has might, you would not end up tied to a dog on a rope!" 'Amr bin Al-Jamuh embraced Islam, and he was strong in his Islam. He was later martyred during the battle of Uhud, may Allah be pleased with him, give him pleasure. and grant him Paradise as his dwelling. Allah said,
+
+وَإِن تَدْعُوهُمْ إِلَى الْهُدَىٰ لَا يَتَّبِعُوكُمْ
+
+(And if you call them to guidance, they follow you not.)
+
+Allah says, these idols do not hear the calls of those who worship them. Therefore, the result is the same, whether calling the idols or shunning them. Ibrahim, peace be upon said,
+
+يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِي عَنكَ شَيْئًا
+
+("O my father! Why do you worship that which hears not, sees not and cannot avail you in anything?")[19:42]
+
+Next, Allah states that the idols were created, just as those who worship them. Rather, the people are better than the idols, because they are able to hear, see and exert harm. The idols, on the other hand, have no such powers. Allah said next,
+
+قُلِ ادْعُوا شُرَكَاءَكُمْ
+
+(Say: "Call your (so-called) partners (of Allah)) invoke the idols for aid against me and do not give me respite, even for an instant, and give it your best effort,
+
+إِنَّ وَلِيِّيَ اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ وَهُوَ يَتَوَلَّى الصَّالِحِينَ
+
+(Verily, my protector is Allah Who has revealed the Book (the Qur'an), and He protects the righteous.)
+
+Allah's support is sufficient and He will suffice for me, He is My supporter, I trust in Him and take refuge with Him. He is my protector, in this life and the Hereafter, and the protector of every righteous believer after me. Similarly, the people of Hud said,
+
+إِن نَّقُولُ إِلَّا اعْتَرَاكَ بَعْضُ آلِهَتِنَا بِسُوءٍ قَالَ إِنِّي أُشْهِدُ اللَّهَ وَاشْهَدُوا أَنِّي بَرِيءٌ مِّمَّا تُشْرِكُونَ - مِن دُونِهِ فَكِيدُونِي جَمِيعًا ثُمَّ لَا تُنظِرُونِ - إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ رَبِّي وَرَبِّكُم مَّا مِن دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّي عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
+
+("All that we say is that some of our gods have seized you with evil (madness). " Hud replied: "I call Allah to witness, and bear you witness that I am free from that which you ascribe [as partners in worship, with Him (Allah)]. So plot against me, all of you, and give me no respite. I put my trust in Allah, my Lord and your Lord! There is not a moving (living) creature but He has the grasp of its forelock. Verily, my Lord is on a path that is straight)[11:54-56].
+
+Ibrahim Al-Khalil proclaimed (to his people),
+
+أَفَرَأَيْتُم مَّا كُنتُمْ تَعْبُدُونَ - أَنتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ - فَإِنَّهُمْ عَدُوٌّ لِّي إِلَّا رَبَّ الْعَالَمِينَ - الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ
+
+(Do you observe that which you have been wershipping, You and your ancient fathers. Verily, they are enemies to me, save the Lord of all that exists. Who has created me, and it is He Who guides me.")[26:75-78]
+
+He also said to his father and his people,
+
+إِنَّنِي بَرَاءٌ مِّمَّا تَعْبُدُونَ - إِلَّا الَّذِي فَطَرَنِي فَإِنَّهُ سَيَهْدِينِ - وَجَعَلَهَا كَلِمَةً بَاقِيَةً فِي عَقِبِهِ لَعَلَّهُمْ يَرْجِعُونَ
+
+("Verily, I am innocent of what you warship. Except Him Who did create me; and verily, He will guide me." And he made it a legacy lasting among his offspring, that they may turn back (to Allah).)[43:26-28] Allah said here,
+
+إِنَّ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ
+
+(Verily, those whom you call upon besides Allah) until the end of the Ayah, reiterating what has been said earlier, but He uses direct speech this time,
+
+لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَا أَنفُسَهُمْ يَنصُرُونَ
+
+(cannot help you nor can they help themselves.) The Ayah,
+
+وَإِن تَدْعُوهُمْ إِلَى الْهُدَىٰ لَا يَسْمَعُوا وَتَرَاهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ
+
+(And if you call them to guidance, they hear not and you will see them looking at you, yet they see not.) is similar to another Ayah,
+
+إِن تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ
+
+(If you invoke (or call upon) them, they hear not your call.)[35:14]. Allah said next,
+
+وَتَرَاهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ
+
+(and you will see them looking at you, yet they see not.) meaning, they have eyes that stare as if they see, although they are solid. Therefore, the Ayah treated them as if they had a mind [saying, Tarahum, instead of Taraha], since they are made in the shape of humans with eyes drawn on them.
+
+## Maarif ul Quran
+
+In short, all the above acts or beliefs are different forms of 'Shirk' ~,. and the worst kind of ungratefulness to Allah, their Lord. The last sentence of this verse confirms misguidance of such people by saying:
+
+فَتَعَالَى اللَّـهُ عَمَّا يُشْرِ‌كُونَ
+
+"So far beyond is Allah than what they associate with Him."
+
+The above interpretation of this verse has made it clear that by referring to the Prophet 'Adam and Hawwa' (Eve) (علیہما السلام) in the first sentence of this verse, the children of 'Adam have been asked to follow him and show their gratefulness to Allah, while the rest of the verse speaks of the misguidance and perversion of their descendants who, instead of being grateful to their Lord ascribed partners to Him.
+
+This makes it clear that the Prophet 'Adam and Hawwa' (علیہما السلام) have nothing to do with those who ascribed partners with Allah. The verse refers to the generations coming after them who were ungrateful to Allah and involved themselves in Shirk. We have adopted this interpretation on the authority of Sayyidna Ibn ` Abbas ؓ reported by Ibn al-Mundhir and Ibn Abi Hatim, in Tafsir al-Durr al-Manthur. The story related by Tirmidhi and Hakim about 'Adam and Hawwa' being deceived by Shaitan has been taken by some scholars as an unauthentic Israelite report which is liable to be rejected. Many Mulhaddithin, the scholars in Hadith have, on the other hand, confirmed it. The above interpretation, however, clears away any possible doubt even if the story is taken to be authentic.
+
+The above verse has provided us with the following points of significant value.
+
+1. The men and women have been created in the same species in order that they may have a natural affinity and perfect understanding with each other, and discharge their duties towards the construction of a good society.
+
+Havoc caused by immodesty
+
+2. The rights and obligations assigned to the married couple basically aim at providing a peaceful environment at home. There are many social behaviours of modern age that are directly opposed to the above objective of creating a peaceful atmosphere. For example, the so called freedom of woman has caused havoc to social peace. The alarming number of divorces and serious altercations are mostly the result of free mixing of men and women in society. By experience we know that the growth of immodest practices in society is proportional to the destruction of social values and deprives man of peace at home and in the society.
+
+3. The third point refers to the naming of one's children. It is prohibited to give names to the children like ` Abdul Shams (The slave of the Sun) or ` Abd al ` Uzza (The slave of ` Uzza) which purport to assign them to entities other than Allah. Giving such names is prohibited even if parents do not really mean it. This practice is a great sin in Islam.
+
+4. The best way of offering our gratitude to Allah is to name our children after the good names of Allah and His Messenger. The Holy Prophet ﷺ has, therefore, recommended the names like ` Abd ur Raliman, and ` Abdullah etc.
+
+It is a pity that, one by one, we are depriving ourselves of all the Islamic manners and values. Firstly, we give our children non Islamic names simply following the fashion of the non-Islamic cultures. In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims. specially so, when we have worn the appearance of the non-Muslims, altogether. May Allah favour us with the real understanding of Islam and Islamic values.
+
+## Personal Reflections

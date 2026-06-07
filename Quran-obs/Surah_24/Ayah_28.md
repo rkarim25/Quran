@@ -1,0 +1,253 @@
+---
+arabic_ayat: فَاِنۡ لَّمۡ تَجِدُوۡا فِيۡهَاۤ اَحَدًا فَلَا تَدۡخُلُوۡهَا حَتّٰى يُؤۡذَنَ
+  لَـكُمۡ​ۚ وَاِنۡ قِيۡلَ لَـكُمُ ارۡجِعُوۡا فَارۡجِعُوۡا​ۚ هُوَ اَزۡكٰى لَـكُمۡ​ؕ
+  وَاللّٰهُ بِمَا تَعۡمَلُوۡنَ عَلِيۡمٌ‏
+sentence_translation: If you find no one at home, do not enter it until you have been
+  given permission. And if you are asked to leave, then leave. That is purer for you.
+  And Allah has ˹perfect˺ knowledge of what you do.
+word_by_word:
+  1:
+    arabic: فَاِنۡ
+    translation: But if
+    transliteration: fa-in
+  2:
+    arabic: لَّمۡ
+    translation: not
+    transliteration: lam
+  3:
+    arabic: تَجِدُوۡا
+    translation: you find
+    transliteration: tajidū
+  4:
+    arabic: فِيۡهَاۤ
+    translation: in it
+    transliteration: fīhā
+  5:
+    arabic: اَحَدًا
+    translation: anyone
+    transliteration: aḥadan
+  6:
+    arabic: فَلَا
+    translation: then (do) not
+    transliteration: falā
+  7:
+    arabic: تَدۡخُلُوۡهَا
+    translation: enter it
+    transliteration: tadkhulūhā
+  8:
+    arabic: حَتّٰى
+    translation: until
+    transliteration: ḥattā
+  9:
+    arabic: يُؤۡذَنَ
+    translation: permission has been given
+    transliteration: yu'dhana
+  10:
+    arabic: لَـكُمۡ​ۚ
+    translation: to you
+    transliteration: lakum
+  11:
+    arabic: وَاِنۡ
+    translation: And if
+    transliteration: wa-in
+  12:
+    arabic: قِيۡلَ
+    translation: it is said
+    transliteration: qīla
+  13:
+    arabic: لَـكُمُ
+    translation: to you
+    transliteration: lakumu
+  14:
+    arabic: ارۡجِعُوۡا
+    translation: Go back
+    transliteration: ir'jiʿū
+  15:
+    arabic: فَارۡجِعُوۡا​ۚ
+    translation: then go back
+    transliteration: fa-ir'jiʿū
+  16:
+    arabic: هُوَ
+    translation: it
+    transliteration: huwa
+  17:
+    arabic: اَزۡكٰى
+    translation: (is) purer
+    transliteration: azkā
+  18:
+    arabic: لَـكُمۡ​ؕ
+    translation: for you
+    transliteration: lakum
+  19:
+    arabic: وَاللّٰهُ
+    translation: And Allah
+    transliteration: wal-lahu
+  20:
+    arabic: بِمَا
+    translation: of what
+    transliteration: bimā
+  21:
+    arabic: تَعۡمَلُوۡنَ
+    translation: you do
+    transliteration: taʿmalūna
+  22:
+    arabic: عَلِيۡمٌ‏
+    translation: (is) All-Knower
+    transliteration: ʿalīmun
+---
+
+## Context
+
+To understand **The Light** (An-Nur) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+28-73 of Surah Al-Ahzab(of which this is the sequel) were sent down to strengthen the moral front, which at that time was the main target of the attack, vv.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! If a person asks permission from someone and he replies in the negative that he cannot meet at that time, then the caller should go back and not feel offended.
+
+## Tafsir Ibn Kathir
+
+O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them; that is better for you, in order that you may remember (27)And if you find no one therein, still enter not until permission has been given. And if you are asked to go back, go back, for it is purer for you. And Allah is All-Knower of what you do (28)There is no sin on you that you enter houses uninhabited, you have any interest in them. And Allah has knowledge of what you reveal and what you conceal (29)
+
+Seeking Permission and the Etiquette of Entering Houses
+
+This is the Islamic etiquette. Allah taught these manners (of seeking permission) to His believing servants and commanded them not to enter houses other than their own until they had asked permission, i.e., to ask for permission before entering and to give the greeting of Salam after asking. One should seek permission three times, and if permission is given, (he may enter), otherwise he should go away.
+
+It was reported in the Sahih that when Abu Musa asked 'Umar three times for permission to enter and he did not give him permission, he went away. Then 'Umar said, "Did I not hear the voice of 'Abdullah bin Qays asking for permission to enter? Let him come in." So they looked for him, but found that he had gone. When he came later on, 'Umar said, "Why did you go away?" He said, "I asked for permission to enter three times, but permission was not given to me, and I heard the Prophet ﷺ say,
+
+إِذَا اسْتَأْذَنَ أَحَدُكُمْ ثَلَاثًا فَلَمْ يُؤْذَنْ لَهُ فَلْيَنْصَرِفْ
+
+(If any one of you asks for permission three times and it is not given, then let him go away.)" 'Umar said, "You should certainly bring me evidence for this or I shall beat you!" So he went to a group of the Ansar and told them what 'Umar said. They said, "No one will give testimony for you but the youngest of us." So Abu Sa'id Al-Khudri went with him and told 'Umar about that. 'Umar said, "What kept me from learning that was my being busy in the marketplace."
+
+Imam Ahmad recorded a narration stating that Anas or someone else said that the Messenger of Allah ﷺ asked for permission to enter upon Sa'd bin 'Ubadah. He said:
+
+السَّلَامُ عَلَيْكَ وَرَحْمَةُ اللهِ
+
+(As-Salamu 'Alayka wa Rahmatullah) Sa'd said, "Wa 'Alaykas-Salam Wa Rahmatullah," but the Prophet ﷺ did not hear the returned greeting until he had given the greeting three times and Sa'd had returned the greeting three times, but he did not let him hear him [i.e., Sa'd responded in a low voice]. So the Prophet ﷺ went back, and Sa'd followed him and said, "O Messenger of Allah, may my father and mother be ransomed for you! You did not give any greeting but I responded to you, but I did not let you hear me. I wanted to get more of your Salams and blessings." Then he admitted him to his house and offered him some raisins. The Prophet ﷺ ate, and when he finished, he said,
+
+أَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلَائِكَةُ، وَأَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ
+
+(May the righteous eat your food, may the angels send blessings upon you and may those who are fasting break their fast with you.)
+
+It should also be known that the one who is seeking permission to enter should not stand directly in front of the door; he should have the door on his right or left, because of the Hadith recorded by Abu Dawud from 'Abdullah bin Busr, who said, "When the Messenger of Allah ﷺ came to someone's door, he would never stand directly in front of it, but to the right or left, and he would say,
+
+السَّلَامُ عَلَيْكُمْ، السَّلَامُ عَلَيْكُمْ
+
+(As-Salamu 'Alaykum, As-Salamu 'Alaykum.) That was because at that time the houses had no covers or curtains over their doorways." This report was recorded by Abu Dawud only.
+
+In the Two Sahihs, it is recorded that the Messenger of Allah ﷺ said:
+
+لَوْ أَنَّ امْرَءًا اطَّلَعَ عَلَيْكَ بِغَيْرِ إِذْنٍ فَخَذَفْتَهُ بِحَصَاةٍ فَفَقَأْتَ عَيْنَهُ، مَا كَانَ عَلَيْكَ مِنْ جُنَاحٍ
+
+(If a person looks into your house without your permission, and you throw a stone at him and it puts his eye out, there will be no blame on you.) The Group recorded that Jabir said, "I came to the Prophet ﷺ with something that was owed by my father and knocked at the door. He said,
+
+مَنْ ذَا؟
+
+(Who is that?) I said, "I am!" He said,
+
+أَنَا أَنَا
+
+(I? I?) as if he disliked it." He did not like it because this word tells you nothing about who is saying it, unless he clearly states his name or the name by which he is known, (nickname) otherwise everyone could call himself "Me", and it does not fulfill the purpose of asking permission to enter, which is to put people at their ease, as commanded in the Ayah. Al-'Awfi narrated from Ibn 'Abbas, "Putting people at ease means seeking permission to enter." This was also the view of others.
+
+Imam Ahmad recorded from Kaladah bin Al-Hanbal that at the time of the Conquest (of Makkah), Safwan bin Umayyah sent him with milk, a small gazelle, and small cucumbers when the Prophet ﷺ was at the top of the valley. He said, "I entered upon the Prophet ﷺ and I did not give the greeting of Salam nor ask for permission to enter. The Prophet ﷺ said,
+
+ارْجِعْ فَقُلْ: السَّلَامُ عَلَيْكُمْ أَأَدْخُلُ؟
+
+(Go back and say: "As-Salamu 'Alaykum, may I enter?") This was after Safwan had become Muslim." This was also recorded by Abu Dawud, At-Tirmidhi and An-Nasa'i. At-Tirmidhi said, "Hasan Gharib." Ibn Jurayj said that he heard 'Ata' bin Abi Rabah narrating that Ibn 'Abbas, may Alah be pleased with him, said, "There are three Ayat whose rulings people neglect. Allah says,
+
+إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ
+
+(Verily, the most honorable of you with Allah is the one who has the most Taqwa)(49:13),
+
+But (now) they say that the most honorable of them with Allah is the one who has the biggest house. As for seeking permission, the people have forgotten all about it." I said, "Should I seek permission to enter upon my orphan sisters who are living with me in one house?" He said, "Yes." I asked him to make allowances for me but he refused and said, "Do you want to see them naked?" I said, "No." He said, "Then ask for permission to enter." I asked him again and he said, "Do you want to obey Allah?" I said, "Yes." He said, "Then ask for permission."
+
+Ibn Jurayj said, "Ibn Tawus told me that his father said, 'There are no women whom I hate to see naked more than those who are my Mahrams.' He was very strict on this point." Ibn Jurayj narrated that Az-Zuhri said, "I heard Huzayl bin Shurahbil Al-Awdi Al-A'ma (say that) he heard Ibn Mas'ud say, 'You have to seek permission to enter upon your mothers.'"
+
+Ibn Jurayj said, "I said to 'Ata': 'Does a man have to seek permission to enter upon his wife?' He said, 'No, it can be understood that this is not obligatory, but it is better for him to let her know that he is coming in so as not to startle her, because she may be in a state where she does not want him to see her.'"
+
+Abu Ja'far bin Jarir narrated from the nephew of Zaynab – the wife of 'Abdullah bin Mas'ud – that Zaynab, may Allah be pleased with her, said, "When 'Abdullah came back from some errand and reached the door, he would clear his throat and spit, because he did not want to come suddenly and find us in a state he disliked." Its chain of narration is Sahih.
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا
+
+(O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them;)
+
+Muqatil bin Hayyan said: "During the Jahiliyyah, when a man met his friend, he would not greet him with Salam; rather he would say "Huyyita Sabahan" or "Huyyita Masa'an" [equivalent to "Good morning" or "Good evening"]. This was the greeting among the people at that time. They did not seek permission to enter one another's houses; a man might walk straight in and say, "I have come in," and so on. This was difficult for a man to bear, as he might be with his wife. So Allah changed all that by enjoining covering and chastity, making it pure and free of any sin or impropriety. So Allah said:
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا
+
+(O you who believe! Enter not houses other than your own, until you have asked permission and greeted those in them...) What Muqatil said is good. Allah said:
+
+ذَٰلِكُمْ خَيْرٌ لَّكُمْ
+
+(that is better for you,) meaning, seeking permission to enter in is better for you because it is better for both parties, the one who is seeking permission to enter and the people inside the house.
+
+لَعَلَّكُمْ تَذَكَّرُونَ
+
+(in order that you may remember.)
+
+فَإِن لَّمْ تَجِدُوا فِيهَا أَحَدًا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ
+
+(And if you find no one therein, still enter not until permission has been given.) This has to do with the way in which one deals with other people's property without their permission. If he wants to, he can give permission, and if he wants to he can refrain from giving permission.
+
+وَإِن قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا ۖ هُوَ أَزْكَىٰ لَكُمْ
+
+(And if you are asked to go back, go back, for it is purer for you.) means, if you are turned away at the door, before or after permission has been given,
+
+فَارْجِعُوا ۖ هُوَ أَزْكَىٰ لَكُمْ
+
+(go back, for it is purer for you.) means, going back is purer and better for you.
+
+وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
+
+(And Allah is All-Knower of what you do.) Qatadah said that one of the emigrants said: "All my life I tried to follow this Ayah, but if I asked for permission to enter upon one of my brothers and he asked me to go back, I could not do so happily, although Allah says,
+
+وَإِن قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا ۖ هُوَ أَزْكَىٰ لَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
+
+(And if you are asked to go back, go back, for it is purer for you. And Allah is All-Knower of what you do.)"
+
+وَإِن قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا
+
+(And if you are asked to go back, go back....) Sa'id bin Jubayr said, "This means, do not stand at people's doors."
+
+لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ
+
+(There is no sin on you that you enter houses uninhabited,) This Ayah is more specific than the one that comes before it, because it states that it is permissible to enter houses where there is nobody, if one has a reason for doing so, such as houses that are prepared for guests – if he has been given permission once, then this is sufficient. Ibn Jurayj said, "Ibn 'Abbas said:
+
+لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ
+
+(Enter not houses other than your own,) then this was abrogated and an exception was made, and Allah said:
+
+لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَّكُمْ
+
+(There is no sin on you that you enter houses uninhabited, (when) you have any interest in them.) This was also narrated from 'Ikrimah and Al-Hasan Al-Basri.
+
+## Maarif ul Quran
+
+Ruling
+
+If a person asks permission from someone and he replies in the negative that he cannot meet at that time, then the caller should go back and not feel offended. He should realize that every one's needs and circumstances are different, and at times it is beyond the control of persons to call in the visitor or to go out and meet him. Hence, his refusal to meet should be accepted with good grace. In the present verse the same thing is emphasized وَإِن قِيلَ لَكُمُ ارْ‌جِعُوا فَارْ‌جِعُوا هُوَ أَزْكَىٰ لَكُمْ that is, ` If it is said to you, "Go back" just go back, it is more decent for you - 24:28. Some people of the past ages are reported to have said ` I waited all my life wishing that I visit someone and seek permission to go in the house, and the host turns down my request asking me to go back so that I could be rewarded the grace of this Qur’ anic injunction by following it. But, alas, I could never get that blessing'.
+
+Ruling
+
+The Islamic jurisprudence has established a two-sided system of teaching the mannerism of social graces and of saving all from the troubles and inconvenience. The way visitors are advised in this verse that if their request for permission to go in is turned down, they should not feel offended, similarly, the other side of the coin is taught in a Hadith. The Holy Prophet ﷺ has said انّ لزورک علیک حقّا . (Surely your visitors have some rights to be observed by you). It means that one who comes to meet you he too has his right on you. His right is that you should call him in, pay him respect and listen to him. Do not refuse to meet him without any serious excuse or a genuine reason.'
+
+Ruling
+
+If one goes to meet someone and seeks permission to go in, but does not get an answer, then according to practice of the Holy Prophet ﷺ ، he should knock a second time, and still if there is no answer then he should knock a third time. If he does not get an answer the third time, then the injunction is, that he should go back. After knocking three times it becomes obvious that the inmate must have heard the knock, but presumably he is in a condition that he cannot answer, for instance, praying or in the toilet or taking shower. Alternatively, he does not want to meet at that time. In both the situations it is not advisable to keep on staying there or keep on knocking, as it will upset the host, which must be avoided. The real purpose of isti'dhan is to avoid any inconvenience to the host.
+
+Sayyidna Abu Musa Ash` ari ؓ has narrated that once the Holy Prophet ﷺ said that اذا استأذن احدکم ثلاثاً فلم یؤذن لہ فلیرجع that is, ` when someone seeks permission three times and does not get reply, he should go back' (Ibn Kathir quoting Sahih of Bukhari). And Masnad Ahmad has reported on authority of Sayyidna Anas ؓ that once the Holy Prophet ﷺ had gone to meet Sayyidna Sa'd Ibn ` Ubadah ؓ ، and said Assalamu ` Alaikum (السلام علیکم ) from outside to seek permission (Isti'dhan) to go in, according to his practice. Sayyidna Sa'd ؓ did reply the greeting but in a soft tone, so that the Holy Prophet ﷺ does not hear. He repeated the greeting a second time and then a third time. On each occasion Sayyidna Sa'd ؓ listened the greeting and replied in a soft tone. After that the Holy Prophet ﷺ went back. When Sayyidna Sa'd ؓ realized that, he ran after him and explained that he heard his voice every time and also replied but in a soft tone, so that the greeting words are spoken for him repeatedly by the blessed tongue, as they will bring good fortune to him. (the Holy Prophet ﷺ explained to him the way of sunnah that when there is no response from inside, the visitor should go back) After that Sayyidna Sa'd رضی اللہ تعالیٰ عنہ took the Holy Prophet ﷺ along with him to his house where he treated him with some refreshments, which the Holy Prophet ﷺ accepted graciously.
+
+This action of Sayyidna Sa'd ؓ was the result of overwhelming love and affection for the Holy Prophet ﷺ ، and at that moment he did not realize that the most exalted Messenger was waiting at his door and he should immediately go out and receive him with due respect. Instead, his mind was induced toward the thought that it would be of benefit to him if the blessed tongue would utter Assalamu ` Alaikum repeatedly. In any case this incident has established the issue that if there is no answer after seeking permission thrice, then according to practice of the Prophet ﷺ ، the visitor should go back. It is against the sunnah of the Holy Prophet ﷺ to keep on waiting there, which will be a cause of trouble for the inmate and tantamount to forcing the host to come out.
+
+Ruling
+
+The foregoing ruling relates to the situation when one has sought permission thrice by knocking and greetings. In that situation to keep on waiting there would cause trouble to the host. But if someone waits at the door of a scholar or a pious person without seeking permission or without informing him, in the hope that he would meet him when he would come out according to his convenience, such a waiting is not undesirable, rather it is a great respect shown by the caller. The Qur'an itself has advised people that to call the Holy Prophet ﷺ while he is inside, with the purpose of calling him out of the house is disrespect to him. People should wait for him outside until he comes out on his own according to his convenience. The related verse says وَلَوْ أَنَّهُمْ صَبَرُ‌وا حَتَّىٰ تَخْرُ‌جَ إِلَيْهِمْ لَكَانَ خَيْرً‌ا لَّهُمْ (And if they had patience until you come out to them, that would be better for them - 49:5). Sayyidna Ibn ` Abbas ؓ has said, ` Sometimes I keep on waiting the whole afternoon at the door of an Ansari companion until he would come out on his own, for asking about some Ahadith . Had I sought permission to go in, he would have definitely allowed me, but I regarded that against ethics. That is why I used to bear the trouble of waiting'. (Sahih a1-Bukhari).
+
+## Personal Reflections

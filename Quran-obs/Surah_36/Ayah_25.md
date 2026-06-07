@@ -1,0 +1,101 @@
+---
+arabic_ayat: اِنِّىۡۤ اٰمَنۡتُ بِرَبِّكُمۡ فَاسۡمَعُوۡنِؕ‏
+sentence_translation: I do believe in your Lord, so listen to me.”
+word_by_word:
+  1:
+    arabic: اِنِّىۡۤ
+    translation: Indeed, I
+    transliteration: innī
+  2:
+    arabic: اٰمَنۡتُ
+    translation: '[I] have believed'
+    transliteration: āmantu
+  3:
+    arabic: بِرَبِّكُمۡ
+    translation: in your Lord
+    transliteration: birabbikum
+  4:
+    arabic: فَاسۡمَعُوۡنِؕ‏
+    translation: so listen to me
+    transliteration: fa-is'maʿūni
+---
+
+## Context
+
+To understand **Ya Sin** (Ya-Sin) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And there came a man running from the farthest part of the town. The addressee here could be his own people where calling Allah Ta’ ala their Lord was to express a reality - though, they did not accept it.
+
+## Tafsir Ibn Kathir
+
+And there came a man running from the farthest part of the town. He said, "O my people! Obey the Messengers. (20)"Obey those who ask no wages of you, and who are rightly guided. (21)"And why should I not worship Him Who has created me and to Whom you shall be returned. (22)"Shall I take besides Him gods? If the Most Gracious intends me any harm, their intercession will be of no use for me whatsoever, nor can they save me. (23)"Then verily, I should be in plain error. (24)"Verily, I have believed in your Lord, so listen to me! (25)
+
+Quoting what reached him from Ibn 'Abbas, Ka'b Al-Ahbar and Wahb bin Munabbih – Ibn Ishaq reported that, "The people of the city resolved to kill their Messengers, then a man came running to them from the farthest part of the town, i.e., to help them against his people. They said, his name was Habib, and he used to work with ropes. He was a sickly man who suffered from leprosy, and he was very charitable, giving half of his earnings in charity, and his Fitrah (natural inclination) was sound." Shabib bin Bishr said, narrating from 'Ikrimah, from Ibn 'Abbas, may Allah be pleased with him, that the name of the man mentioned in Ya Sin was Habib An-Najjar, and he was killed by his people.
+
+قَالَ يَا قَوْمِ اتَّبِعُوا الْمُرْسَلِينَ
+
+(He said: "O my people! Obey the Messengers.") – he urged his people to follow the Messengers who had come to them.
+
+اتَّبِعُوا مَنْ لَا يَسْأَلُكُمْ أَجْرًا
+
+(Obey those who ask no wages of you,) means, 'for the Message which they convey to you, and they are rightly-guided in what they are calling you to, the worship of Allah Alone with no partner or associate.'
+
+وَمَا لِيَ لَا أَعْبُدُ الَّذِي فَطَرَنِي
+
+(And why should I not worship Him Who has created me) means, 'and what is there to stop me from sincerely worshipping the One Who has created me, and worshipping Him Alone, with no partner or associate?'
+
+وَإِلَيْهِ تُرْجَعُونَ
+
+(and to Whom you shall be returned.) means, 'on the Day of Resurrection, when He will requite you for your deeds: if they are good then you will be rewarded and if they are evil then you will be punished.'
+
+أَأَتَّخِذُ مِنْ دُونِهِ آلِهَةً
+
+(Shall I take besides Him gods?) This is a rhetorical question intended to rebuke and chastise.
+
+إِنْ يُرِدْنِ الرَّحْمَٰنُ بِضُرٍّ لَا تُغْنِ عَنِّي شَفَاعَتُهُمْ شَيْئًا وَلَا يُنْقِذُونِ
+
+(If the Most Gracious intends me any harm, their intercession will be of no use for me whatsoever, nor can they save me.) means, 'these gods whom you worship instead of Him possess no power whatsoever, if Allah wills me some harm,'
+
+فَلَا كَاشِفَ لَهُ إِلَّا هُوَ
+
+(none can remove it but He)(6:17). 'These idols can neither cause any harm nor bring any benefit, and they cannot save me from the predicament I am in.'
+
+إِنِّي إِذًا لَفِي ضَلَالٍ مُبِينٍ
+
+(Then verily, I should be in plain error.) means, 'if I were to take them as gods instead of Allah.'
+
+إِنِّي آمَنْتُ بِرَبِّكُمْ فَاسْمَعُونِ
+
+(Verily, I have believed in your Lord, so listen to me!) Ibn Ishaq said, quoting from what had reached him from Ibn 'Abbas, may Allah be pleased with him, Ka'b and Wahb, "He said to his people:
+
+إِنِّي آمَنْتُ بِرَبِّكُمْ
+
+('Verily, I have believed in your Lord) in Whom you have disbelieved,
+
+فَاسْمَعُونِ
+
+(so listen to me!)' means, listen to what I say." Or it may be that he was addressing the Messengers when he said:
+
+إِنِّي آمَنْتُ بِرَبِّكُمْ
+
+(Verily, I have believed in your Lord,) meaning, 'Who has sent you,'
+
+فَاسْمَعُونِ
+
+(so listen to me!) meaning, 'bear witness to that before Him.' This was narrated by Ibn Jarir, who said, "And others said that this was addressed to the Messengers, and he said to them: 'Listen to what I say and bear witness to what I say before my Lord, that I have believed in your Lord and have followed you.' This interpretation is more apparent, and Allah knows best. Ibn Ishaq said, quoting from what had reached him from Ibn 'Abbas, may Allah be pleased with him, Ka'b and Wahb, 'When he said that, they turned on him as one, and killed him at once, and he had no one to protect him from that.'" Qatadah said, "They started to stone him while he was saying, 'O Allah, guide my people for they do not know, and they kept stoning him until he died a violent death, and he was still praying for them.' May Allah have mercy on him."
+
+## Maarif ul Quran
+
+The addressee here could be his own people where calling Allah Ta’ ala their Lord was to express a reality - though, they did not accept it. Then, it could also be that this address is to the messengers and the purpose of saying: إِنِّي آمَنتُ بِرَ‌بِّكُمْ فَاسْمَعُونِ (listen to me) may be that they should hear what he was saying and bear witness before Allah that he was a believer.
+
+## Personal Reflections

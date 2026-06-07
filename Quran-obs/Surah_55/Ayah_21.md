@@ -1,0 +1,131 @@
+---
+arabic_ayat: فَبِاَىِّ اٰلَاۤءِ رَبِّكُمَا تُكَذِّبٰنِ‏
+sentence_translation: Then which of your Lord’s favours will you both deny?
+word_by_word:
+  1:
+    arabic: فَبِاَىِّ
+    translation: So which
+    transliteration: fabi-ayyi
+  2:
+    arabic: اٰلَاۤءِ
+    translation: (of the) favors
+    transliteration: ālāi
+  3:
+    arabic: رَبِّكُمَا
+    translation: (of) your Lord
+    transliteration: rabbikumā
+  4:
+    arabic: تُكَذِّبٰنِ‏
+    translation: will you both deny
+    transliteration: tukadhibāni
+---
+
+## Context
+
+To understand **The Beneficent** (Ar-Rahman) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… Allah created Different Types of Water مَرَ‌جَ الْبَحْرَ‌يْنِ يَلْتَقِيَانِ (He has set forth the two seas that meet together...55:19).
+
+## Tafsir Ibn Kathir
+
+He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the Lord of the two wests (17)Then which of the blessings of your Lord will you both deny (18)He has Maraja the two seas meeting together (19)Between them is a barrier which none of them can transgress (20)Then which of the blessings of your Lord will you both deny (21)Out of them both come out pearls and Al-Marjan (22)Then which of the blessings of your Lord will you both deny (23)And His are Al-Jawar Al-Munsha'at, in the seas like A'lam (24)Then which of the blessings of your Lord will you both deny (25)
+
+The Creation of Humans and Jinns
+
+Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire. This was said by Ad-Dahhak from Ibn 'Abbas. It was also said by 'Ikrimah, Mujahid, Al-Hasan and Ibn Zayd. Al-'Awfi reported from Ibn 'Abbas, "From the best part of the fire, from its smokeless flame." Imam Ahmad recorded that 'A'ishah said that Allah's Messenger ﷺ said,
+
+خُلِقَتِ الْمَلَائِكَةُ مِنْ نُورٍ، وَخُلِقَ الْجَانُّ مِنْ مَارِجٍ مِنْ نَارٍ، وَخُلِقَ آدَمُ مِمَّا وُصِفَ لَكُمْ
+
+(The angels were created from light, the Jinns from a smokeless flame of fire, and 'Adam from what was described to you.) Muslim also collected this Hadith. Allah's statement:
+
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+
+(Then which of the blessings of your Lord will you both deny) was explained above.
+
+Allah is the Lord of the Two Easts and the Two Wests
+
+Allah said,
+
+رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ
+
+((He is) the Lord of the two easts and the Lord of the two wests.) meaning the sunrise of summer and winter and the sunset of summer and winter. Allah said in another Ayah,
+
+فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ
+
+(So, I swear by the Lord of all the points of sunrise and sunset in the east and the west.)(70:40), referring to the different places from which the sun rises and then sets on people every day. Allah said in another Ayah,
+
+رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+
+(The Lord of the east and the west; none has the right to be worshipped but He. So take Him alone as a trustee.)(73:9), referring to the different places of sunrise and sunset and the benefits that this variation brings to the created, mankind and Jinns,
+
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+
+(Then which of the blessings of your Lord will you both deny?)
+
+Allah created Different Types of Water
+
+Allah said,
+
+مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ
+
+(He has Maraja the two seas), or let them loose, according to Ibn 'Abbas. Allah's statement,
+
+يَلْتَقِيَانِ
+
+(meeting together.) Ibn Zayd said, "He prevents them from meeting by the dividing barrier He placed between them to separate them." The two seas are the fresh and salty waters, the former coming from running rivers. We discussed this topic in Surat Al-Furqan when explaining Allah's statement;
+
+وَهُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَحْجُورًا
+
+(And it is He Who has let free the two seas: one palatable and sweet, and the other salty and bitter; and He has set a barrier and a complete partition between them.)(25:53) Allah said,
+
+بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ
+
+(Between them is a barrier which none of them can transgress.) meaning, He has placed a barrier of land between these two types of waters, so that they do not transgress upon each other, which would spoil the characteristics they were created with. Allah said,
+
+يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
+
+(Out of them both come out pearls and Al-Marjan.) pearls are well-known. As for Marjan they say it means small pearls. Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali. It was also said that it means large, precious pearls, this was mentioned by Ibn Jarir from some of the Salaf.
+
+Ibn Abi Hatim recorded from Ibn 'Abbas who said, "When it rains, the oysters in the sea open their mouths. What falls in them, the drops, turns into pearls." Its chain of narrators is Sahih.
+
+Since this type of adornment is a favor from Allah to the people of earth, He reminded them of it,
+
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+
+(Then which of the blessings of your Lord will you both deny?) Allah said,
+
+وَلَهُ الْجَوَارِ الْمُنْشَآتُ
+
+(And His are Al-Jawar Al-Munsha'at), meaning the ships that float,
+
+فِي الْبَحْرِ
+
+(in the seas), Mujahid said, "Whatever ship hoists a sail, it is from Munsha'at, if it does not hoist a sail, it is not from the Munsha'at."
+
+Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at meaning, "launched."
+
+كَالْأَعْلَامِ
+
+(like A'lam.) This means, they are like mountains with their great size, and it also refers to the trade and commercial services they make possible, transporting cargo from one area to another and from one province to another. Ships provide various benefits for people, including transporting different types of goods they need. Therefore,
+
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+
+(Then which of the blessings of your Lord will you both deny?)
+
+## Maarif ul Quran
+
+Allah created Different Types of Water
+
+مَرَ‌جَ الْبَحْرَ‌يْنِ يَلْتَقِيَانِ (He has set forth the two seas that meet together...55:19). Literally, the verb maraja means 'to let loose'. The word bahrain [ two seas or two types of waters ] refers to sweet and salty waters. Allah has created two types of waters. In some places the two seas meet together, the samples of which are available in every region of the world. However, where the sweet and salty waters meet, there is a distinct barrier between the sweet and salty waters. In some cases, the two types of waters are seen distinctly in higher or lower position. If the salty water overrides the sweet water, the characteristics of the sweet water will not be spoiled; nor will the characteristics of the salty water be affected in any way if the sweet water overrides it. Thus the Qur'an states: مَرَ‌جَ الْبَحْرَ‌يْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْ‌زَخٌ لَّا يَبْغِيَانِ He has set forth the two seas that meet together, while between them there is a barrier they do not transgress....55:20)
+
+## Personal Reflections

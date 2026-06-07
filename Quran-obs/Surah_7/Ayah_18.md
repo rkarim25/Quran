@@ -1,0 +1,139 @@
+---
+arabic_ayat: قَالَ اخۡرُجۡ مِنۡهَا مَذۡءُوۡمًا مَّدۡحُوۡرًا ​ؕ لَمَنۡ تَبِعَكَ مِنۡهُمۡ
+  لَاَمۡلَــٴَــنَّ جَهَنَّمَ مِنۡكُمۡ اَجۡمَعِيۡنَ‏
+sentence_translation: Allah said, “Get out of Paradise! You are disgraced and rejected!
+  I will certainly fill up Hell with you and your followers all together.”
+word_by_word:
+  1:
+    arabic: قَالَ
+    translation: (Allah) said
+    transliteration: qāla
+  2:
+    arabic: اخۡرُجۡ
+    translation: Get out
+    transliteration: ukh'ruj
+  3:
+    arabic: مِنۡهَا
+    translation: of it
+    transliteration: min'hā
+  4:
+    arabic: مَذۡءُوۡمًا
+    translation: disgraced
+    transliteration: madhūman
+  5:
+    arabic: مَّدۡحُوۡرًا ​ؕ
+    translation: and expelled
+    transliteration: madḥūran
+  6:
+    arabic: لَمَنۡ
+    translation: Certainly, whoever
+    transliteration: laman
+  7:
+    arabic: تَبِعَكَ
+    translation: follows you
+    transliteration: tabiʿaka
+  8:
+    arabic: مِنۡهُمۡ
+    translation: among them
+    transliteration: min'hum
+  9:
+    arabic: لَاَمۡلَــٴَــنَّ
+    translation: surely, I will fill
+    transliteration: la-amla-anna
+  10:
+    arabic: جَهَنَّمَ
+    translation: Hell
+    transliteration: jahannama
+  11:
+    arabic: مِنۡكُمۡ
+    translation: with you
+    transliteration: minkum
+  12:
+    arabic: اَجۡمَعِيۡنَ‏
+    translation: all
+    transliteration: ajmaʿīna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+(Allah) said (to Iblis): "Get out from this (Paradise), Madh'uman Madhura. The event relating to Sayyidna 'Adam (علیہ السلام) and the Shaytan has appeared earlier in Section four of Surah Al-Baqarah (Ma` ariful-Qur'an, English Translation, under verse 34).
+
+## Tafsir Ibn Kathir
+
+(Allah) said (to Iblis): "Get out from this (Paradise), Madh'uman Madhura. Whoever of them (mankind) will follow you, then surely, I will fill Hell with you all. (18)
+
+Allah emphasized His cursing, expelling, banishing and turning Shaytan away from the uppermost heights, saying;
+
+Ibn Jarir said, "As for Madh'um, it is disgraced." And he said, "Madhur is the distanced, that is, he is banished and expelled." 'Abdur-Rahman bin Zayd bin Aslam said, "We do not know of any who is Madh'uh and Madhmum except for one." Sufyan Ath-Thawri narrated from Abu Ishaq from At-Tamimi from Ibn 'Abbas,
+
+اخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا
+
+(Get out from this (Paradise), Madh'uman Madhura) "despised." 'Ali bin Abi Talhah reported that Ibn 'Abbas commented on,
+
+اخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا
+
+(Get out from this (Paradise), 'Madh'ūman Madhūra')[7:18]
+
+"Belittled and despised", while As-Suddi commented, "Hateful and expelled." Qatadah commented, "Cursed and despised", while Mujahid said, "Expelled and banished." Ar-Rabi' bin Anas said that 'Madh'um' means banished, while, 'Madhura' means belittled. Allah said,
+
+لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
+
+(Whoever of them (mankind) will follow you, then surely, I will fill Hell with you all.) This is similar to
+
+قَالَ اذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَاؤُكُمْ جَزَاءً مَّوْفُورًا - وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ وَعِدْهُمْ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا - إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ وَكَفَىٰ بِرَبِّكَ وَكِيلًا
+
+((Allah) said: "Go, and whosoever of them follows you, surely, Hell will be the recompense of you (all) an ample recompense. And gradually delude those whom you can among them with your voice, make assaults on them with your cavalry and your infantry, share with them wealth and children, and make promises to them." But Shaytan promises them nothing but deceit. "Verily, My servants – you have no authority over them. And All-Sufficient is your Lord as a Guardian.")[17:63-65]
+
+## Maarif ul Quran
+
+Commentary
+
+The event relating to Sayyidna 'Adam (علیہ السلام) and the Shaytan has appeared earlier in Section four of Surah Al-Baqarah (Ma` ariful-Qur'an, English Translation, under verse 34). Some aspects of the subject have been covered in comments given there. Answers to some others are being given here.
+
+How Long was the Respite given to Iblis?
+
+It was exactly at the time Iblis was under the wrath of Allah, he made a prayer, a strange prayer indeed. He asked for a lease of life until the day of Resurrection. The words in which Allah Ta` ala answered the prayer, as they appear in this verse, are no more than: إِنَّكَ مِنَ الْمُنظَرِ‌ينَ (Respite is given to you). From these words, given the nature of the question and the answer, it can be understood that this respite was given until the Resurrection as asked by him. But, what is not stated in this verse clearly is whether the giving of respite mentioned here is until the Resurrection as asked by Iblis, or is for some other duration. But, in another verse, the words: إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ ﴿38﴾ (Till the day of the appointed time - 15:38) appear at this place which, on the surface, seem to suggest that the respite till the day of Qiyamah as asked by Iblis was not given. Instead, given to him was a respite till a particular time which is preserved in Divine knowledge. The outcome is that the prayer of Iblis was answered - though not completely. He was given respite till a particular time and not till the day of Resurrection or Qiyamah.
+
+Reported in Tafsir Ibn Jarir is a narration from Suddiy which supports this view. The exact words of the report are:
+
+فلم ینظرہ الی یوم البعث و لکن انظرہ الی یوم الوقت المعلوم و ھو یوم ینفخ فی الصور النفخۃ الاولی فصعق من فی السموات و من فی الارض فمات،
+
+Allah Ta` ala did not give respite to Iblis till the day of Resurrection, instead, He has given him respite till a day the time of which is appointed and that is the day when the Horn will be blown the first time and whoever there is in the heavens or the earth shall be stunned, and dead.
+
+In summation, we can say that the Shaytan had actually asked for a respite in his prayer till the time when the second Horn will be blown and all the dead will be resurrected. This is what is called: یوم البعث (Yowm al-Ba’ th). If this prayer was answered as asked, it would have meant that Iblis was to be alive as based on his prayer while the facts on the ground would have been different: That would be a time when nothing will be alive except the One Being of the Eternally-Alive and the Self-Sustaining Hayy and Qaiyyum and that would be the time when the great promise of: كُلُّ مَنْ عَلَيْهَا فَانٍ ﴿26﴾ وَيَبْقَىٰ وَجْهُ رَ‌بِّكَ ذُو الْجَلَالِ وَالْإِكْرَ‌امِ ﴿27﴾ (All that is on it will perish and to remain there shall be the Face of your Lord, full of majesty, bounty and honour - 55:26-27) will stand immensely manifested. On that basis, Iblis was not to live to see that time. Therefore, his one prayer for respite till the Yowm al-Ba’ th was not granted, instead of which, the time of the respite was changed to Yowma yunfakhu fi as-sur, till the day blown is the Horn, and granted at that. The effect would be that death shall be the order of the day for the whole creation. Iblis will have his death as well. When all others are resurrected, he too shall stand resurrected.
+
+These details remove the possible doubt that could arise from the verse: كُلُّ مَنْ عَلَيْهَا فَانٍ ﴿26﴾ (All that is on it will perish -55:26) referred immediately above specially in relation with this prayer. The apparent contra-diction between the two thus stands resolved.
+
+The substance of this investigation is that Yowm al-Ba'th and Yowm al-Waqt al-Ma'lum are two separate days. Iblis had asked for respite till the Yowm al-Ba’ th. This was not granted wholly. Instead of that, a change was made and respite was given till the Yowm al-Waqt al-Ma'lum. Hadrat Maulana Ashraf ` Ali Thanavi (رح) ، in Bayan al-Qur'an, has preferred the view that these two are really two separate days. In fact, from the time of the blowing of the first Horn upto the entry into Paradise or Hell, it will be a long day with different things happening at different times in it. Based on these different happenings, that day could be attributed to every event which takes place therein. For instance, it could be called the day of the blowing of the Horn (صُور) and the day of perishing (فَنَا), as well as, the day of Resurrection (بعث) and the day of .Recompense (جزَا). This helps resolves all doubts and difficulties فَللہِ الحَمد .
+
+Can the Prayer of a Disbeliever be Acceptable?
+
+The question comes from the verse: وَمَا دُعَاءُ الْكَافِرِ‌ينَ إِلَّا فِي ضَلَالٍ (And the prayer of disbelievers is but in vain - 13:14), it is usually taken that the prayer made by a disbeliever is not answered. But, from this event concerning Iblis and the statement in the verse, this difficulty becomes obvious. The answer is that, in this mortal world, even the prayer of a disbeliever can be answered - so much so, that even the prayer of the foremost disbeliever, Iblis, was answered. But, in the Hereafter, the prayer of a disbeliever will not be answered. The verse quoted above relates to the Hereafter ('Akhirah). It has nothing to do with this mortal world.
+
+The Event of 'Adam and Iblis: The Rationale of Different Words
+
+This story appears in the Holy Qur'an at several places. The words used in relevant questions and answers differ everywhere, though the event is the same. The reason is that the subject remains the same when the main event is described. That the words remain exactly the same everywhere is not necessary. A narration could be based on meaning too. If the unity of subject and sense exists, variations in words do not deserve consideration.
+
+What made Iblis speak the way he did before Allah?
+
+The place where Iblis dared to speak was in the Most August conceivable Presence of the Master of all Honour where the awe and majesty of the occasion would not allow even angels and prophets and messengers to breathe. How did he do that? ` Ulama say that this was a somber and highly cutting manifestation of the Divine wrath that, because of the rejection of Iblis, his view was so obstructed (hijab) that he became blind to the grandeur and awe of Allah Ta` ala and irreverence came down to settle on him all over. (Abridged from Bayern al-Qur'an)
+
+The Assault of Shaytan is Multi-Dimensional, not simply Four-Sided
+
+In the present verse (17), Iblis is said to have identified four sides from which he planned to mislead the children of 'Adam, that is, the front, the rear and the right and the left. But, the purpose here is not to set up any limits. Instead, the sense is that this will be from all sides and directions. Therefore, the probability of his leading people astray from above and beneath the feet does not contradict it. Similarly, the saying of the Hadith that - Shaytan can enter the human body and move through the arteries and veins of blood and take command of the whole body - is also not contradictory to this.
+
+In the cited verses (13 18), the Shaytan has been commanded to leave the heavens twice. First, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (So, go. You are of the low.) and then, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (Get out of here, condemned ...). Here, the first saying is perhaps a proposal while the other is its implementation. (Abridged from Bayan a1-Qur'an)
+
+## Personal Reflections

@@ -1,0 +1,87 @@
+---
+arabic_ayat: وَّاَنِ اعۡبُدُوۡنِىۡ ​ؕ هٰذَا صِرَاطٌ مُّسۡتَقِيۡمٌ‏
+sentence_translation: but to worship Me ˹alone˺? This is the Straight Path.
+word_by_word:
+  1:
+    arabic: وَّاَنِ
+    translation: And that
+    transliteration: wa-ani
+  2:
+    arabic: اعۡبُدُوۡنِىۡ ​ؕ
+    translation: you worship Me
+    transliteration: uʿ'budūnī
+  3:
+    arabic: هٰذَا
+    translation: This
+    transliteration: hādhā
+  4:
+    arabic: صِرَاطٌ
+    translation: (is) a Path
+    transliteration: ṣirāṭun
+  5:
+    arabic: مُّسۡتَقِيۡمٌ‏
+    translation: Straight
+    transliteration: mus'taqīmun
+---
+
+## Context
+
+To understand **Ya Sin** (Ya-Sin) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+(It will be said): "And O you the criminals! In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ (Did I not direct you, 0 children of 'Adam, that you must not worship the Shaitan, (because) he is an open enemy for you,- 36:60).
+
+## Tafsir Ibn Kathir
+
+(It will be said): "And O you the criminals! Get you apart this Day. (59)"Did I not command you, O Children of Adam, that you should not worship Shaytan? Verily, he is a plain enemy to you. (60)"And that you should worship Me. That is the straight path. (61)"And indeed he did lead astray a great multitude of you. Did you not then understand? (62)
+
+The Isolation of the Disbelievers and Their Rebuke on the Day of Resurrection
+
+Allah tells us what the end of the disbelievers will be on the Day of Resurrection, when He commands them to get apart from the believers, i.e., to stand apart from the believers. This is like the Ayat:
+
+وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا مَكَانَكُمْ أَنْتُمْ وَشُرَكَاؤُكُمْ ۚ فَزَيَّلْنَا بَيْنَهُمْ ۖ
+
+(And the Day whereon We shall gather them all together, then We shall say to those who did set partners in worship with Us: "Stop at your place! You and your partners." Then We shall separate them)(10:28).
+
+وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ
+
+(And on the Day when the Hour will be established – that Day shall they be separated.)(30:14)
+
+يَوْمَئِذٍ يَصَّدَّعُونَ
+
+(On that Day they shall be divided)(30:43) which means, they will be divided into two separate groups.
+
+احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ - مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ
+
+((It will be said to the angels): "Assemble those who did wrong, together with their companions and what they used to worship, instead of Allah, and lead them on to the way of flaming Fire (Hell).")(37:22-23).
+
+أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَنْ لَا تَعْبُدُوا الشَّيْطَانَ ۖ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
+
+(Did I not command you, O Children of Adam, that you should not worship Shaytan? Verily, he is a plain enemy to you.) This is a rebuke from Allah to the disbelievers among the sons of Adam, those who obey the Shaytan even though he was a plain enemy to them, and they disobeyed Ar-Rahman Who created them and granted them provision. Allah says:
+
+وَأَنِ اعْبُدُونِي ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ
+
+(And that you should worship Me. That is the straight path.) meaning, 'I commanded you in the world to disobey the Shaytan, and I commanded you to worship Me, and this is the straight path, but you followed a different path and you followed the commands of the Shaytan.' Allah says:
+
+وَلَقَدْ أَضَلَّ مِنْكُمْ جِبِلًّا كَثِيرًا ۖ
+
+(And indeed he did lead astray a great multitude of you.) meaning, a large number of people. This was the view of Mujahid, Qatadah, As-Suddi and Sufyan bin 'Uyaynah.
+
+أَفَلَمْ تَكُونُوا تَعْقِلُونَ
+
+(Did you not then understand?) means, 'did you not have any understanding, when you went against the command of your Lord to worship Him alone, with no partner or associate, and you preferred to follow the Shaytan?'
+
+## Maarif ul Quran
+
+In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ (Did I not direct you, 0 children of 'Adam, that you must not worship the Shaitan, (because) he is an open enemy for you,- 36:60). In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn). But, the question remains that the disbelievers did not generally worship the Shaitan. They worshipped idols or other things. Therefore, how does this blame fall on them? The answer is that submitting before some entity in the absolute sense and to obey that entity in word and deed in everything and under all conditions is nothing but worship. Since these people always followed Shaitanic teachings, therefore, they were called the worshipers of the Shaitan - as said in Hadith that a person who, driven by love for money or spouse, starts doing everything that would increase wealth or please the spouse, even at the cost of the displeasure of Allah, is an obedient servant of the silver coin and the obedient servant of the spouse (Abd-ud-dirham, Abd-uz-zawjah).
+
+## Personal Reflections

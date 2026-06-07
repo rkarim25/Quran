@@ -1,0 +1,131 @@
+---
+arabic_ayat: "وَاِنۡ مِّنۡ قَرۡيَةٍ اِلَّا نَحۡنُ مُهۡلِكُوۡهَا قَبۡلَ يَوۡمِ الۡقِيٰمَةِ\
+  \ اَوۡ مُعَذِّبُوۡهَا عَذَابًا شَدِيۡدًا​ ؕ كَانَ ذٰ لِكَ فِى الۡـكِتٰبِ مَسۡطُوۡرًا‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: There is not a ˹wicked˺ society that We will not destroy or
+  punish with a severe torment before the Day of Judgment. That is written in the
+  Record.
+word_by_word:
+  1:
+    arabic: وَاِنۡ
+    translation: And not
+    transliteration: wa-in
+  2:
+    arabic: مِّنۡ
+    translation: (is) any
+    transliteration: min
+  3:
+    arabic: قَرۡيَةٍ
+    translation: town
+    transliteration: qaryatin
+  4:
+    arabic: اِلَّا
+    translation: but
+    transliteration: illā
+  5:
+    arabic: نَحۡنُ
+    translation: We
+    transliteration: naḥnu
+  6:
+    arabic: مُهۡلِكُوۡهَا
+    translation: (will) destroy it
+    transliteration: muh'likūhā
+  7:
+    arabic: قَبۡلَ
+    translation: before
+    transliteration: qabla
+  8:
+    arabic: يَوۡمِ
+    translation: (the) Day
+    transliteration: yawmi
+  9:
+    arabic: الۡقِيٰمَةِ
+    translation: (of) the Resurrection
+    transliteration: l-qiyāmati
+  10:
+    arabic: اَوۡ
+    translation: or
+    transliteration: aw
+  11:
+    arabic: مُعَذِّبُوۡهَا
+    translation: punish it
+    transliteration: muʿadhibūhā
+  12:
+    arabic: عَذَابًا
+    translation: with a punishment
+    transliteration: ʿadhāban
+  13:
+    arabic: شَدِيۡدًا​ ؕ
+    translation: severe
+    transliteration: shadīdan
+  14:
+    arabic: كَانَ
+    translation: That is
+    transliteration: kāna
+  15:
+    arabic: ذٰ لِكَ
+    translation: That is
+    transliteration: dhālika
+  16:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  17:
+    arabic: الۡـكِتٰبِ
+    translation: the Book
+    transliteration: l-kitābi
+  18:
+    arabic: "مَسۡطُوۡرًا‏ \uFEFF\uFEFF"
+    translation: written
+    transliteration: masṭūran
+---
+
+## Context
+
+To understand **The Night Journey** (Al-Isra) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And there is not a town (population) but We shall destroy it before the Day of Resurrection, or punish it with a severe torment. The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِمُ الْوَسِيلَةَ (seek the means of close ness to their Lord - 57) conveys the sense of that which is used as a means of reaching someone.
+
+## Tafsir Ibn Kathir
+
+And there is not a town (population) but We shall destroy it before the Day of Resurrection, or punish it with a severe torment. That is written in the Book (of Our decrees (58)
+
+The Destruction or Torment of all Disbelieving Towns before the Hour begins
+
+Here Allah tells us that He has decreed and it is written in 'Al-Lawh Al-Mahfuz' (The Preserved Tablet) which is with Him, that there is no town that He will not destroy by wiping out all its people or by punishing them,
+
+عَذَابًا شَدِيدًا
+
+(with a severe torment.) either by killing them or sending calamities upon them as He wills. This will be because of their sins, as Allah says of the past nations:
+
+وَمَا ظَلَمْنَاهُمْ وَلَٰكِن ظَلَمُوا أَنفُسَهُمْ
+
+(We wronged them not, but they wronged themselves.)[11:101]
+
+فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَاقِبَةُ أَمْرِهَا خُسْرًا
+
+(So it tasted the evil result of its affair (disbelief), and the consequence of its affair (disbelief) was loss.)[65:9]
+
+وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِ
+
+(And many a town (population) revolted against the command of its Lord and His Messengers;)[65:8] and many Ayat.
+
+## Maarif ul Quran
+
+Commentary
+
+The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِمُ الْوَسِيلَةَ (seek the means of close ness to their Lord - 57) conveys the sense of that which is used as a means of reaching someone. As for reaching Allah, the wasilah or means is to always keep the pleasure of Allah in sight when learning or doing anything while adhering to the injunctions of the Shari` ah strictly. Thus, the sense of the sentence is that all of them are seeking the closeness of Allah Ta’ ala through their righteous deeds.
+
+About the sentence which follows immediately after: يَرْ‌جُونَ رَ‌حْمَتَهُ وَيَخَافُونَ عَذَابَهُ (hope for His Mercy and fear His punishment - 57), Sahl ibn ` Abdullah said: Hope and Fear, that is, hoping for mercy from Allah as well as fearing Him are two different states one is in. When they stay at par, one keeps on course, correct and stable. And if any one of the two overcomes the other, one finds the equilibrium of his spiritual state subjected to disorder to the measure of that imbalance. (Qurtubi)
+
+## Personal Reflections

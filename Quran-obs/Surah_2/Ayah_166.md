@@ -1,0 +1,188 @@
+---
+arabic_ayat: اِذۡ تَبَرَّاَ الَّذِيۡنَ اتُّبِعُوۡا مِنَ الَّذِيۡنَ اتَّبَعُوۡا وَرَاَوُا
+  الۡعَذَابَ وَ تَقَطَّعَتۡ بِهِمُ الۡاَسۡبَابُ‏
+sentence_translation: ˹Consider the Day˺ when those who misled others will disown
+  their followers—when they face the torment—and the bonds that united them will be
+  cut off.
+word_by_word:
+  1:
+    arabic: اِذۡ
+    translation: When
+    transliteration: idh
+  2:
+    arabic: تَبَرَّاَ
+    translation: will disown
+    transliteration: tabarra-a
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: اتُّبِعُوۡا
+    translation: were followed
+    transliteration: ittubiʿū
+  5:
+    arabic: مِنَ
+    translation: '[from]'
+    transliteration: mina
+  6:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  7:
+    arabic: اتَّبَعُوۡا
+    translation: followed
+    transliteration: ittabaʿū
+  8:
+    arabic: وَرَاَوُا
+    translation: and they will see
+    transliteration: wara-awū
+  9:
+    arabic: الۡعَذَابَ
+    translation: the punishment
+    transliteration: l-ʿadhāba
+  10:
+    arabic: وَ تَقَطَّعَتۡ
+    translation: '[and] will be cut off'
+    transliteration: wataqaṭṭaʿat
+  11:
+    arabic: بِهِمُ
+    translation: for them
+    transliteration: bihimu
+  12:
+    arabic: الۡاَسۡبَابُ‏
+    translation: the relations
+    transliteration: l-asbābu
+---
+
+## Context
+
+To understand **The Cow** (Al-Baqarah) 166, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And of mankind are some who take (for worship) others besides Allah as rivals (to Allah). Towards the end of the preceding verse it was said that the punishment of the Hereafter is severe.
+
+## Tafsir Ibn Kathir
+
+And of mankind are some who take (for worship) others besides Allah as rivals (to Allah). They love them as they love Allah. But those who believe, love Allah more (than anything else). If only, those who do wrong could see, when they will see the torment, that all power belongs to Allah and that Allah is severe in punishment (165)When those who were followed disown (declare themselves innocent of) those who followed (them), and they see the torment, then all their relations will be cut off from them (166)And those who followed will say: "If only we had one more chance to return (to the worldly life), we would disown (declare ourselves as innocent from) them as they have disowned (declared themselves as innocent from) us. " Thus Allah will show them their deeds as regrets for them. And they will never get out of the Fire (167)
+
+The Condition of the Polytheists in this Life and the Hereafter
+
+In these Ayat, Allah mentions the condition of the polytheists in this life and their destination in the Hereafter. They appointed equals and rivals with Allah, worshipping them along with Allah and loving them, just as they love Allah. However, Allah is the only deity worthy of worship, Who has neither rival nor opponent nor partner. It is reported in the Sahihayn that 'Abdullah bin Mas'ud said: I said, "O Messenger of Allah! What is the greatest sin?" He said:
+
+أَنْ تَجْعَلَ للهِ نِدًّا وَهُوَ خَلَقَكَ
+
+(To appoint a rival to Allah while He Alone has created you.)
+
+Allah said:
+
+وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِّلَّهِ
+
+(But those who believe, love Allah more (than anything else))
+
+Because these believers love Allah, know His greatness, revere Him, believe in His Oneness, then they do not associate anything or anyone with Him in the worship. Rather, they worship Him Alone, depend on Him and they seek help from Him for each and every need.
+
+Then, Allah warns those who commit Shirk,
+
+وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا
+
+(If only, those who do wrong could see, when they will see the torment, that all power belongs to Allah.) if these people knew what they will face and the terrible punishment they are to suffer because of their disbelief and Shirk (polytheism), then they would shun the deviation that they live by.
+
+Allah mentions their false beliefs in their idols, and that those they followed will declare their innocence of them. Allah said:
+
+إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا
+
+(When those who were followed disown (declare themselves innocent of) those who followed (them).) the angels, whom they used to claim that they worshipped, declare their innocence of them in the Hereafter, saying:
+
+تَبَرَّأْنَا إِلَيْكَ مَا كَانُوا إِيَّانَا يَعْبُدُونَ
+
+(We declare our innocence (from them) before You. It was not us they worshipped.)(28:63), and:
+
+سُبْحَانَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم بَلْ كَانُوا يَعْبُدُونَ الْجِنَّ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ
+
+("Glorified be You! You are our Wali (Lord) instead of them. Nay, but they used to worship the Jinn; most of them were believers in them.")(34:41)
+
+The Jinn will also disown the disbelievers who worshipped them, and they will reject that worship. Allah said:
+
+وَمَنْ أَضَلُّ مِمَّن يَدْعُو مِن دُونِ اللَّهِ مَن لَّا يَسْتَجِيبُ لَهُ إِلَىٰ يَوْمِ الْقِيَامَةِ وَهُمْ عَن دُعَائِهِمْ غَافِلُونَ - وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+(And who is more astray than one who calls on (invokes) besides Allah, such as will not answer him till the Day of Resurrection, and who are (even) unaware of their calls (invocations) to them? And when mankind are gathered (on the Day of Resurrection), they (false deities) will become their enemies and will deny their worshipping.)(46:5-6) Allah said:
+
+وَاتَّخَذُوا مِن دُونِ اللَّهِ آلِهَةً لِّيَكُونُوا لَهُمْ عِزًّا - كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
+
+(And they have taken (for worship) alihah (gods) besides Allah, that they might give them honor, power and glory (and also protect them from Allah' punishment). Nay, but they (the so-called gods) will deny their worship of them, and become opponents to them (on the Day of Resurrection).)(19:81-82) Prophet Ibrahim said to his people:
+
+إِنَّمَا اتَّخَذْتُم مِّن دُونِ اللَّهِ أَوْثَانًا مَّوَدَّةَ بَيْنِكُمْ فِي الْحَيَاةِ الدُّنْيَا ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍ وَيَلْعَنُ بَعْضُكُم بَعْضًا وَمَأْوَاكُمُ النَّارُ وَمَا لَكُم مِّن نَّاصِرِينَ
+
+(You have taken (for worship) idols instead of Allah. The love between you is only in the life of this world, but on the Day of Resurrection, you shall disown each other, and curse each other, and your abode will be the Fire, and you shall have no helper.)(29:25) Allah said:
+
+وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا لَوْلَا أَنتُمْ لَكُنَّا مُؤْمِنِينَ - قَالَ الَّذِينَ اسْتَكْبَرُوا لِلَّذِينَ اسْتُضْعِفُوا أَنَحْنُ صَدَدْنَاكُمْ عَنِ الْهُدَىٰ بَعْدَ إِذْ جَاءَكُم بَلْ كُنتُم مُّجْرِمِينَ - وَقَالَ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا بَلْ مَكْرُ اللَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَا أَن نَّكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَندَادًا وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا الْعَذَابَ وَجَعَلْنَا الْأَغْلَالَ فِي أَعْنَاقِ الَّذِينَ كَفَرُوا هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا يَعْمَلُونَ
+
+(But if you could see when the Zalimun (polytheists and wrongdoers) will be made to stand before their Lord,how they will cast the (blaming) word one to another! Those who were deemed weak will say to those who were arrogant: "Had it not been for you, we should certainly have been believers!" And those who were arrogant will say to those who were deemed weak: "Did we keep you back from guidance after it had come to you? Nay, but you were Mujrimin (polytheists, sinners, disbelievers, criminals)." Those who were deemed weak will say to those who were arrogant: "Nay, but it was your plotting by night and day, when you ordered us to disbelieve in Allah and set up rivals to Him!" And each of them (parties) will conceal their own regrets (for disobeying Allah during this worldly life), when they behold the torment. And We shall put iron collars round the necks of those who disbelieved. Are they requited aught except what they used to do?)(34:31-33) Allah said:
+
+وَقَالَ الشَّيْطَانُ لَمَّا قُضِيَ الْأَمْرُ إِنَّ اللَّهَ وَعَدَكُمْ وَعْدَ الْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ وَمَا كَانَ لِيَ عَلَيْكُم مِّن سُلْطَانٍ إِلَّا أَن دَعَوْتُكُمْ فَاسْتَجَبْتُمْ لِي فَلَا تَلُومُونِي وَلُومُوا أَنفُسَكُم مَّا أَنَا بِمُصْرِخِكُمْ وَمَا أَنتُم بِمُصْرِخِيَّ إِنِّي كَفَرْتُ بِمَا أَشْرَكْتُمُونِ مِن قَبْلُ إِنَّ الظَّالِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
+
+(And Shaytan (Satan) will say when the matter has been decided: "Verily, Allah promised you a promise of truth. And I too promised you, but I betrayed you. I had no authority over you except that I called you, and you responded to me. So blame me not, but blame yourselves. I cannot help you, nor can you help me. I deny your former act in associating me (Satan) as a partner with Allah (by obeying me in the life of the world). Verily, there is a painful torment for the Zalimin (polytheists and wrongdoers).)(14:22)
+
+Allah then said:
+
+وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ
+
+(...and they see the torment, then all their relations will be cut off from them.) meaning, when they see Allah's torment, their power and means of salvation are all cut off, and they will have no way of making amends, nor will they find a way of escape from the Fire. 'Ata' reported that Ibn 'Abbas said about:
+
+وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ
+
+(then all their relations will be cut off from them.) "meaning the friendship." Mujahid reported a similar statement in another narration by Ibn Abu Najih.
+
+Allah said:
+
+وَقَالَ الَّذِينَ اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا مِنَّا
+
+(And those who followed will say: "If only we had one more chance to return (to the worldly life), we would disown (declare ourselves as innocent from) them as they have disowned (declared themselves as innocent from) us.")
+
+This Ayah means: 'If we only had a chance to go back to the life so that we could disown them (their idols, leaders, etc.) shun their worship, ignore them and worship Allah Alone instead.' But they utter a lie in this regard, because if they were given the chance to go back, they would only return to what they were prohibited from doing, just as Allah said. This is why Allah said:
+
+كَذَٰلِكَ يُرِيهِمُ اللَّهُ أَعْمَالَهُمْ حَسَرَاتٍ عَلَيْهِمْ
+
+(Thus Allah will show them their deeds as regrets for them.) meaning, their works will vanish and disappear. Similarly, Allah said:
+
+وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا
+
+(And We shall turn to whatever deeds they (disbelievers, polytheists, sinners) did, and We shall make such deeds as scattered floating particles of dust.)(25:23)
+
+Allah also said:
+
+مَّثَلُ الَّذِينَ كَفَرُوا بِرَبِّهِمْ أَعْمَالُهُمْ كَرَمَادٍ اشْتَدَّتْ بِهِ الرِّيحُ فِي يَوْمٍ عَاصِفٍ
+
+(The parable of those who disbelieved in their Lord is that their works are as ashes, on which the wind blows furiously on a stormy day.)(14:18), and:
+
+وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً
+
+(As for those who disbelieved, their deeds are like a mirage in a desert. The thirsty one thinks it to be water.)(24:39)
+
+This is why Allah said ـ at the end of the Ayah 2:167 above
+
+وَمَا هُم بِخَارِجِينَ مِنَ النَّارِ
+
+(And they will never get out of the Fire.)
+
+## Maarif ul Quran
+
+Towards the end of the preceding verse it was said that the punishment of the Hereafter is severe. How severe it will be is now the subject of the present verse.
+
+The severity of the punishment against which the polytheists have been warned will unfold itself when their leaders whom they followed will disown them as their votaries; and they both, the leaders and the led, will witness the punishment, and whatever bonds of leading and following may have existed between them would be snapped apart, very much like it happens in our mortal world when people share in the illegal but wriggle out when apprehended, so much so, that they would even go to the limit of refusing to recognize their accomplices!
+
+When the so-called 'people' of their leaders will see this turnabout of theirs, they will fret and fume but will be unable to do anything about it except wishing that there be a return for them to the mortal world where they could, at least, square up with their greasy leaders - 'May be this time they come back to us seeking our allegiance which would be a perfect time to say no to them and to distance ourselves from them and to do to them what they did to us.'
+
+But, what price are these dreams now? They are not going anywhere. They are stuck with 'their deeds which they see as remorse', and they all, the leaders and their followers, 'are not to come out from the Fire', since the punishment for shirk, the grave sin of associating partners with Allah, is to remain in the Fire for ever.
+
+## Personal Reflections

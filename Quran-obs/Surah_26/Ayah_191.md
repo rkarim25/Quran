@@ -1,0 +1,137 @@
+---
+arabic_ayat: وَاِنَّ رَبَّكَ لَهُوَ الۡعَزِيۡزُ الرَّحِيۡمُ‏
+sentence_translation: And your Lord is certainly the Almighty, Most Merciful.
+word_by_word:
+  1:
+    arabic: وَاِنَّ
+    translation: And indeed
+    transliteration: wa-inna
+  2:
+    arabic: رَبَّكَ
+    translation: your Lord
+    transliteration: rabbaka
+  3:
+    arabic: لَهُوَ
+    translation: surely, He
+    transliteration: lahuwa
+  4:
+    arabic: الۡعَزِيۡزُ
+    translation: (is) the All-Mighty
+    transliteration: l-ʿazīzu
+  5:
+    arabic: الرَّحِيۡمُ‏
+    translation: the Most Merciful
+    transliteration: l-raḥīmu
+---
+
+## Context
+
+To understand **The Poets** (Ash-Shu'ara) 191, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+When this Sign was shown in due course, they will themselves realize that what was being presented to them was the Truth." After this introduction, till verse 191, the same theme has been presented continuously, and it is said: "The whole earth abounds in such Signs as can guide a seeker after truth to Reality, but the stubborn and misguided have never believed even after seeing the Signs, whether these were the Signs of the natural phenomena or the miracles of the Prophets.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+They said: "You are only one of those bewitched! so they were seized by the torment of the Day of Canopy.
+
+## Tafsir Ibn Kathir
+
+They said: "You are only one of those bewitched! (185)"You are but a human being like us and verily, we think that you are one of the liars! (186)"So, cause a piece of the heaven to fall on us, if you are of the truthful! (187)He said: "My Lord is the Best Knower of what you do. (188)But they denied him, so the torment of the Day of Shadow (a gloomy cloud) seized them. Indeed that was the torment of a Great Day (189)Verily, in this is indeed a sign, yet most of them are not believers (190)And verily your Lord, He is indeed the All-Mighty, the Most Merciful (191)
+
+The Response of Shu'ayb's People, Their Disbelief in Him and the Coming of the Punishment Upon Them
+
+Allah tells us how his people responded, and how it was like the response of Thamud to their Messenger – for they were of like mind – when they said:
+
+إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ
+
+(You are only one of those bewitched!) meaning, 'you are one of those who are affected by witchcraft.'
+
+وَمَا أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَاذِبِينَ
+
+(You are but a human being like us and verily, we think that you are one of the liars!) means, 'we think you are deliberately lying to us in what you say, and Allah has not sent you to us.'
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ
+
+(So cause a piece of the heaven to fall on us,) Ad-Dahhak said: "One side of the heavens." Qatadah said: "A piece of the heaven." As-Suddi said: "A punishment from heaven." This is like what the Quraysh said, as Allah tells us:
+
+وَقَالُوا لَن نُّؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ الْأَرْضِ يَنبُوعًا
+
+(And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us)(17:90) until:
+
+أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِيَ بِاللَّهِ وَالْمَلَائِكَةِ قَبِيلًا
+
+(Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face.")(17:92)
+
+وَإِذْ قَالُوا اللَّهُمَّ إِن كَانَ هَٰذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَاءِ
+
+(And (remember) when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky....")(8:32). Similarly, these ignorant disbelievers said:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ
+
+(So, cause a piece of the heaven to fall on us, if you are of the truthful!)
+
+قَالَ رَبِّي أَعْلَمُ بِمَا تَعْمَلُونَ
+
+(He said: "My Lord is the Best Knower of what you do.") means, 'Allah knows best about you, and if you deserve that, He will punish you therewith, and He will not treat you unjustly.' So this is what happened to them – as they asked for – an exact recompense. Allah says:
+
+فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۚ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(But they denied him, so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. Allah made their punishment in the form of intense heat which overwhelmed them for seven days, and nothing could protect them from it. Then He sent a cloud to shade them, so they ran towards it to seek its shade from the heat. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls. Allah says:
+
+إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(Indeed that was the torment of a Great Day.) Allah has mentioned how they were destroyed in three places in the Qur'an, in each of which it is described in a manner which fits the context. In Surat Al-A'raf He says that the earthquake seized them, and they lay (dead), prostrate in their homes. This was because they said:
+
+لَنُخْرِجَنَّكَ يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ مِن قَرْيَتِنَا أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا
+
+("We shall certainly drive you out, O Shu'ayb, and those who have believed with you from our town, or else you (all) shall return to our religion.")(7:88)
+
+They had sought to scare the Prophet of Allah and those who followed him, so they were seized by the earthquake. In Surah Hud, Allah says:
+
+وَأَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ
+
+(And As-Sayhah seized the wrongdoers)(11:94). This was because they mocked the Allah's Prophet when they said:
+
+أَصَلَاتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ آبَاؤُنَا أَوْ أَن نَّفْعَلَ فِي أَمْوَالِنَا مَا نَشَاءُ ۖ إِنَّكَ لَأَنتَ الْحَلِيمُ الرَّشِيدُ
+
+("Does your Salah command that we give up what our fathers used to worship, or that we give up doing what we like with our property Verily, you are the forbearer, right-minded!")(11:87). They had said this in a mocking, sarcastic tone, so it was befitting that the Sayhah should come and silence them, as Allah says:
+
+فَأَخَذَتْهُمُ الصَّيْحَةُ
+
+(So As-Saihah overtook them)(15:73).
+
+وَأَخَذَتِ الَّذِينَ ظَلَمُوا الصَّيْحَةُ
+
+(And As-Saihah seized the wrongdoers)(11:94). And here, they said:
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ
+
+(So, cause a piece of the heaven to fall on us,) in a stubborn and obstinate manner. So, it was fitting that something they never thought would happen should befall them:
+
+فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۚ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ
+
+(so the torment of the Day of Shadow seized them. Indeed that was the torment of a Great Day.) Muhammad bin Jarir narrated from Yazid Al-Bahili: "I asked Ibn 'Abbas about this Ayah:
+
+فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+(so the torment of the Day of Shadow seized them.) He said: 'Allah sent upon them thunder and intense heat, and it terrified them [so they entered their houses and it pursued them to the innermost parts of their houses and terrified them further], and they ran fleeing from their houses into the fields. Then Allah sent upon them clouds which shaded them from the sun, and they found it cool and pleasant, so they called out to one another until they had all gathered beneath the cloud, then Allah sent fire upon them.' Ibn 'Abbas said, 'That was the torment of the Day of Shadow, indeed that was the torment of a Great Day.'"
+
+إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ - وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+
+(Verily, in this is an Ayah, yet most of them are not believers. And verily, your Lord, He is truly, the All-Mighty, the Most Merciful.)(26:8-9) meaning, He is All-Mighty in His punishment of the disbelievers, and Most Merciful towards His believing servants.
+
+## Maarif ul Quran
+
+فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ
+
+so they were seized by the torment of the Day of Canopy. - 26:189
+
+عَذَابُ يَوْمِ الظُّلَّةِ (the Torment of the Canopy), mentioned in this verse refers to an incident, which is this: Allah Ta’ ala sent down such an extreme heat on a people that they could not find comfort either inside the houses or outside. Then He sent down a mass of dark cloud over a nearby forest, under which there was a cool breeze. As the entire people were distressed due to excessive heat, they ran to take shelter under the cloud. When all of them assembled under the cover of the cloud, it rained fire instead of water. Thus the whole nation was burnt to ashes. (Ruh al-Ma’ ani)
+
+## Personal Reflections

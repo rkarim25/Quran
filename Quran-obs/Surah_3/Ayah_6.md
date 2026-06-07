@@ -1,0 +1,103 @@
+---
+arabic_ayat: هُوَ الَّذِىۡ يُصَوِّرُكُمۡ فِى الۡاَرۡحَامِ كَيۡفَ يَشَآءُ ​ؕ لَاۤ
+  اِلٰهَ اِلَّا هُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ‏
+sentence_translation: He is the One Who shapes you in the wombs of your mothers as
+  He wills. There is no god ˹worthy of worship˺ except Him—the Almighty, All-Wise.
+word_by_word:
+  1:
+    arabic: هُوَ
+    translation: He
+    transliteration: huwa
+  2:
+    arabic: الَّذِىۡ
+    translation: (is) the One Who
+    transliteration: alladhī
+  3:
+    arabic: يُصَوِّرُكُمۡ
+    translation: shapes you
+    transliteration: yuṣawwirukum
+  4:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  5:
+    arabic: الۡاَرۡحَامِ
+    translation: the wombs
+    transliteration: l-arḥāmi
+  6:
+    arabic: كَيۡفَ
+    translation: how(ever)
+    transliteration: kayfa
+  7:
+    arabic: يَشَآءُ ​ؕ
+    translation: He wills
+    transliteration: yashāu
+  8:
+    arabic: لَاۤ
+    translation: (There is) no
+    transliteration: lā
+  9:
+    arabic: اِلٰهَ
+    translation: god
+    transliteration: ilāha
+  10:
+    arabic: اِلَّا
+    translation: except
+    transliteration: illā
+  11:
+    arabic: هُوَ
+    translation: Him
+    transliteration: huwa
+  12:
+    arabic: الۡعَزِيۡزُ
+    translation: the All-Mighty
+    transliteration: l-ʿazīzu
+  13:
+    arabic: الۡحَكِيۡمُ‏
+    translation: the All-Wise
+    transliteration: l-ḥakīmu
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused. With the present Old and New testaments.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Truly, nothing is hidden from Allah, in the earth or in the heaven (5)He it is Who shapes you in the wombs as He wills. Verse 3 which follows carries the reported proof of the Oneness of Allah.
+
+## Tafsir Ibn Kathir
+
+Truly, nothing is hidden from Allah, in the earth or in the heaven (5)He it is Who shapes you in the wombs as He wills. None has the right to be worshipped but He, the Almighty, the All-Wise (6)
+
+Allah states that He has perfect knowledge in the heavens and earth and that nothing in them is hidden from His watch.
+
+هُوَ الَّذِي يُصَوِّرُكُمْ فِي الْأَرْحَامِ كَيْفَ يَشَاءُ
+
+(He it is Who shapes you in the wombs as He wills.) meaning, He creates you in the wombs as He wills, whether male or female, handsome or otherwise, happy or miserable.
+
+لَا إِلَٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ
+
+(La ilaha illa Huwa (none has the right to be worshipped but He), the Almighty, the All-Wise.) meaning, He is the Creator and thus is the only deity worthy of worship, without partners, and His is the perfect might, wisdom and decision. This Ayah refers to the fact that 'Isa, son of Mary, is a created servant, just as Allah created the rest of mankind. Allah created 'Isa in the womb (of his mother) and shaped him as He willed. Therefore, how could 'Isa be divine, as the Christians, may Allah's curses descend on them, claim? 'Isa was created in the womb and his creation changed from stage to stage, just as Allah said,
+
+يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِّن بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ
+
+(He creates you in the wombs of your mothers, creation after creation in three veils of darkness.)[39:6].
+
+## Maarif ul Quran
+
+Verse 3 which follows carries the reported proof of the Oneness of Allah. Briefly stated, it means that the principle of توحید tauhid as de-scribed in the Holy Qur'an is not something peculiar to the Qur'an or the Prophet of Islam. On the contrary, Allah Almighty has sent Scrip-tures such as the Torah and the Injil, and His prophets, in earlier times. And this was they all professed and this was they all brought as the message. When the Qur'an came, it simply confirmed their truth. It did not present any new claim which could pose problems for people in its understanding or acceptance.
+
+The last two verses further fortify the doctrine of توحید tauhid on the ground that the attributes of encompassing knowledge and unlimited power are strong proofs of His being the One who possesses the eternal, and all-encompassing knowledge and whose power controls every-thing, and that He is the only One who rightly deserves to be wor-shipped. Anyone having imperfect knowledge and limited power can-not be entrusted with this exalted station.
+
+(1.) Whenever the Holy Qur'an speaks of the 'Torah and the Injil' it refers to the original books revealed to the prophets Moses and Jesus (علیہ السلام) . This should not, therefore, be confused. With the present Old and New testaments.
+
+## Personal Reflections

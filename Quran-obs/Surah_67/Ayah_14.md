@@ -1,0 +1,110 @@
+---
+arabic_ayat: اَلَا يَعۡلَمُ مَنۡ خَلَقَؕ وَهُوَ اللَّطِيۡفُ الۡخَبِيۡرُ‏
+sentence_translation: How could He not know His Own creation? For He ˹alone˺ is the
+  Most Subtle, All-Aware.
+word_by_word:
+  1:
+    arabic: اَلَا
+    translation: Does not
+    transliteration: alā
+  2:
+    arabic: يَعۡلَمُ
+    translation: know
+    transliteration: yaʿlamu
+  3:
+    arabic: مَنۡ
+    translation: (the One) Who
+    transliteration: man
+  4:
+    arabic: خَلَقَؕ
+    translation: created
+    transliteration: khalaqa
+  5:
+    arabic: وَهُوَ
+    translation: And He
+    transliteration: wahuwa
+  6:
+    arabic: اللَّطِيۡفُ
+    translation: (is) the Subtle
+    transliteration: l-laṭīfu
+  7:
+    arabic: الۡخَبِيۡرُ‏
+    translation: the All-Aware
+    transliteration: l-khabīru
+---
+
+## Context
+
+To understand **The Sovereignty** (Al-Mulk) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, those who fear their Lord unseen, theirs will be forgiveness and a great reward (12)And whether you keep your talk secret or disclose it, verily, He is the All-Knower of what is in the breasts (13)Should not He Who has created know? وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُ‌جُومًا لِّلشَّيَاطِينِ (And We have decorated the nearest sky with lamps, and have made them devices to stone the devils, and We have prepared for them the punishment of Hell....67:5).
+
+## Tafsir Ibn Kathir
+
+Verily, those who fear their Lord unseen, theirs will be forgiveness and a great reward (12)And whether you keep your talk secret or disclose it, verily, He is the All-Knower of what is in the breasts (13)Should not He Who has created know? And He is the Most Kind and Courteous, All-Aware (14)He it is Who has made the earth subservient to you; so walk in the paths thereof and eat of His provision. And to Him will be the resurrection (15)
+
+The Reward of those Who fear their Lord unseen
+
+Allah informs of he who fears standing before his Lord, being frightened about matters between himself and Allah when he is not in the presence of other people. So he refrains from disobedience and he performs acts of obedience when no one sees him except Allah. Allah mentions that this person will have forgiveness and a great reward. This means that his sins will be remitted and he will be rewarded abundantly. This is similar to what has been confirmed in the Two Sahihs,
+
+سَبْعَةٌ يُظِلُّهُمُ اللهُ تَعَالىٰ فِي ظِلِّ عَرْشِهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ
+
+(There are seven people whom Allah the Exalted will shade in the shade of His Throne on the Day when there will be no shade except its shade.) Then he mentioned that among those people are:
+
+دَعَتْهُ امْرَأَةٌ ذَاتُ مَنْصِبٍ وَجَمَالٍ فَقَالَ: إِنِّي أَخَافُ اللهَ، وَرَجُلًا تَصَدَّقَ بِصَدَقَةٍ فَأَخْفَاهَا حَتّٰى لَا تَعْلَمَ شِمَالُهُ مَا تُنْفِقُ يَمِينُهُ
+
+(A man who is tempted by a beautiful woman of high social status, but he says: 'Verily, I fear Allah.' Another person from among them is a man who gives charity and he conceals it so that his left hand does not know what his right hand spent.) Then He says, while informing that He is aware of the innermost conscience and secrets,
+
+وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
+
+(And whether you keep your talk secret or disclose it, verily, He is the All-Knower of what is in the breasts.) meaning, that which occurs in the hearts (ideas, thoughts, etc.).
+
+أَلَا يَعْلَمُ مَنْ خَلَقَ
+
+(Should not He Who has created know?) This means, 'doesn't the Creator know?'
+
+وَهُوَ اللَّطِيفُ الْخَبِيرُ
+
+(And He is the Most Kind and Courteous, All-Aware (of everything).)
+
+Allah's Favor of subjugating the Earth to His Servants
+
+Then Allah mentions His favor to His creation in subjugating the earth to them, and making it subservient to them. This is by His making it a stable abode and dwelling place. He placed in it mountains and caused water springs to gush forth from it. He fashioned pathways, and placed useful things in it and places fertile for the growth of fruit and vegetation. Allah says,
+
+هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا
+
+(He it is Who has made the earth subservient to you; so walk in the paths thereof) meaning, travel wherever you wish throughout its regions and frequent its countrysides and all the areas of its domain in your various journeys to seek earnings and trade. And know that your efforts will not benefit you anything unless Allah makes matters easy for you. Allah continues to say,
+
+وَكُلُوا مِنْ رِزْقِهِ
+
+(and eat of His provision.) Thus, striving by using the means (to attain something) does not negate the necessity of depending upon Allah (At-Tawakkul). This is similar to what Imam Ahmad recorded from 'Umar bin Al-Khattab, that he heard the Messenger of Allah ﷺ say,
+
+لَوْأَنَّكُمْ تَتَوَكَّلُونَ عَلَى اللهِ حَقَّ تَوَكُّلِهِ، لَرَزَقَكُمْ كَمَا يَرْزُقُ الطَّيْرَ، تَغْدُو خِمَاصًا وَتَرُوحُ بِطَانًا
+
+(If you would trust in Allah as He truly should be trusted in, He would surely provide for you as He provides for the birds. They set out in the morning with empty stomachs and return in the evening with full stomachs.)
+
+At-Tirmidhi, An-Nasa'i and Ibn Majah all recorded this Hadith. At-Tirmidhi said, "Hasan Sahih." So this confirms that the bird searches morning and evening for its sustenance while depending upon Allah. For He is the Subduer, the Controller and the One Who causes everything.
+
+وَإِلَيْهِ النُّشُورُ
+
+(And to Him will be the resurrection.) meaning, the place of return on the Day of Judgement. Ibn 'Abbas, Mujahid, As-Suddi and Qatadah all said that Manakibiha (its paths) means its outermost borders, its roads and its regions.
+
+## Maarif ul Quran
+
+وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُ‌جُومًا لِّلشَّيَاطِينِ (And We have decorated the nearest sky with lamps, and have made them devices to stone the devils, and We have prepared for them the punishment of Hell....67:5). The word 'masabih' (translated above as 'lamps' ) stands for 'stars'. The fact that the sky is decorated with stars does not necessarily imply that they should be studded with them inside or under the sky. The decoration is available also to the situation when the stars are far below the sky in space as modern research has proved it by observation. This is not contradictory to the classical interpretation.
+
+The statement '[ We ] have made them [ stars ] devices to stone the devils' probably implies that some fiery matters originating from the stars are used to shoot at them, and the stars themselves remain intact in their position. Since this illuminated matter seems to the common people as 'falling stars'. [ Qurtubi ]. This further shows that devils who attempt to eavesdrop on celestial conversations for information are driven away before they can reach the stars. [ Qurtubi ]. Thus far evidence and proofs of Allah's consummate knowledge and power were adduced with reference to the various types of creation. In the verses that follow the subject of punishment for unbelievers and of re-ward for believers and the obedient is taken up, thus:
+
+وَلِلَّذِينَ كَفَرُ‌وا بِرَ‌بِّهِمْ عَذَابُ جَهَنَّمَ (And for those who disbelieve, there is the punishment of Jahannam ...67:6). The subject runs through seven verses. Thereafter, the subject of Divine knowledge and power is revisited.
+
+## Personal Reflections

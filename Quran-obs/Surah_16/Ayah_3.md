@@ -1,0 +1,89 @@
+---
+arabic_ayat: "خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِالۡحَـقِّ​ؕ تَعٰلٰى عَمَّا يُشۡرِكُوۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: He created the heavens and the earth for a purpose. Exalted
+  is He above what they associate with Him ˹in worship˺!
+word_by_word:
+  1:
+    arabic: خَلَقَ
+    translation: He created
+    transliteration: khalaqa
+  2:
+    arabic: السَّمٰوٰتِ
+    translation: the heavens
+    transliteration: l-samāwāti
+  3:
+    arabic: وَالۡاَرۡضَ
+    translation: and the earth
+    transliteration: wal-arḍa
+  4:
+    arabic: بِالۡحَـقِّ​ؕ
+    translation: in truth
+    transliteration: bil-ḥaqi
+  5:
+    arabic: تَعٰلٰى
+    translation: Exalted is He
+    transliteration: taʿālā
+  6:
+    arabic: عَمَّا
+    translation: above what
+    transliteration: ʿammā
+  7:
+    arabic: "يُشۡرِكُوۡنَ‏ \uFEFF\uFEFF"
+    translation: they associate
+    transliteration: yush'rikūna
+---
+
+## Context
+
+To understand **The Bee** (An-Nahl) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+He has created the heavens and the earth with truth. The word: خَصِیم (khasim) in verse 4 has been derived from: خُصُومۃ (khusumah) and means a quarrelsome person.
+
+## Tafsir Ibn Kathir
+
+He has created the heavens and the earth with truth. High is He, Exalted above all that they associate as partners with Him (3)He has created man from a Nutfah, then behold, this same (man) becomes an open opponent (4)
+
+Allah is the One Who has created the Heavens, the Earth, and Man
+
+Allah tells us about His creation of the upper realm, which is the heavens, and the lower realm, which is the earth, and everything in them. They have been created for a true purpose, not in vain, so that
+
+لِيَجْزِيَ الَّذِينَ أَسَاءُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أَحْسَنُوا بِالْحُسْنَى
+
+(He may requite those who do evil with that which they have done (i.e. punish them in Hell), and reward those who do good, with what is best (i.e. Paradise).)[53:31]
+
+Then He declares Himself to be above the Shirk of those who worship others besides Him. He is independent of His creation, alone with no partner or associate. For this reason He deserves to be worshipped Alone, without partners. Then He mentions how man has been created from a Nutfah, i.e., something that is insignificant, weak and has no value - but when man becomes independent and is able to fend for himself - then he begins to dispute with his Lord, may He be exalted, and disbelieves in Him and fights His Messengers. But man was created to be a servant, not an opponent, as Allah says:
+
+وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرًا فَجَعَلَهُ نَسَبًا وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا - وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ الْكَافِرُ عَلَىٰ رَبِّهِ ظَهِيرًا
+
+(And it is He Who has created man from water, and gave him descendants, and made Him kindred by marriage, and your Lord is capable (of all things). And they worship besides Allah, that which can neither profit them nor harm them; and the disbeliever is ever a helper (of Shaytan) against his Lord)(25:54-55). And;
+
+أَوَلَمْ يَرَ الْإِنسَانُ أَنَّا خَلَقْنَاهُ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ - وَضَرَبَ لَنَا مَثَلًا وَنَسِيَ خَلْقَهُ ۖ قَالَ مَن يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ - قُلْ يُحْيِيهَا الَّذِي أَنشَأَهَا أَوَّلَ مَرَّةٍ ۖ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
+
+(Does not man see that We have created him from Nutfah. Yet, behold he stands as an open opponent. And he puts forth for Us a parable, and forgets his own creation. He says: "Who will give life to these bones after they are rotten and have become dust?" Say: "He will give life to them Who created them the first time! And He is the knower of every creature!")(36:77-79).
+
+Imam Ahmad and Ibn Majah reported that Busr bin Jahhash said: "The Messenger of Allah spat in his palm, then he said,
+
+يَقُولُ اللهُ تَعَالَى: ابْنَ آدَمَ أَنَّى تُعْجِزُنِي وَقَدْ خَلَقْتُكَ مِنْ مِثْلِ هَذِهِ، حَتَّى إِذَا سَوَّيْتُكَ فَعَدَلْتُكَ مَشَيْتَ بَيْنَ بُرْدَيْكَ وَلِلْأَرْضِ مِنْكَ وَئِيدٌ، فَجَمَعْتَ وَمَنَعْتَ حَتَّى إِذَا بَلَغَتِ الْحُلْقُومَ قُلْتَ: أَتَصَدَّقُ، وَأَنَّى أَوَانُ الصَّدَقَةِ
+
+(Allah, may He be exalted, says: "O son of Adam, how could you be more powerful than I when I have created you from something like this, and when I have fashioned you perfectly and made you complete, you walk wearing your two garments and the earth makes a sound (beneath your feet). You collect money but do not give anything to anyone, then when the soul of a dying person reaches the throat, you say, 'I want to give in charity', but it is too late for charity.")
+
+## Maarif ul Quran
+
+Lexical Explanation
+
+The word: خَصِیم (khasim) in verse 4 has been derived from: خُصُومۃ (khusumah) and means a quarrelsome person. Al-An’ am is the plural of na'am, which are cattles such as the camel, goat and cow. (A1-Mufradat of Raghib al-Isfahan)
+
+The word: دِفْءٌ (difun) in verse 5 denotes what provides warmth, that is, wool which is used to make warm clothings. The word: تُرِیحُون (turihun) in verse 6 is a derivation from rawah, and: تَسْرَ‌حُونَ (tasrahun) in the same verse, from saralh. When the cattle are sent to graze, it is called sarah, and when they return home, it is called rawah. The expression: بِشِقِّ الْأَنفُسِ -(shiqqil-anfus) in verse 7 means personal hardship.
+
+## Personal Reflections

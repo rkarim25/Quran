@@ -1,0 +1,209 @@
+---
+arabic_ayat: وَدَاوٗدَ وَسُلَيۡمٰنَ اِذۡ يَحۡكُمٰنِ فِى الۡحَـرۡثِ اِذۡ نَفَشَتۡ فِيۡهِ
+  غَنَمُ الۡقَوۡمِ​ۚ وَكُنَّا لِحُكۡمِهِمۡ شٰهِدِيۡنَ ۙ‏
+sentence_translation: And ˹remember˺ when David and Solomon passed judgment regarding
+  the crops ruined ˹at night˺ by someone’s sheep, and We were witness to their judgments.
+word_by_word:
+  1:
+    arabic: وَدَاوٗدَ
+    translation: And Dawud
+    transliteration: wadāwūda
+  2:
+    arabic: وَسُلَيۡمٰنَ
+    translation: and Sulaiman
+    transliteration: wasulaymāna
+  3:
+    arabic: اِذۡ
+    translation: when
+    transliteration: idh
+  4:
+    arabic: يَحۡكُمٰنِ
+    translation: they judged
+    transliteration: yaḥkumāni
+  5:
+    arabic: فِى
+    translation: concerning
+    transliteration: fī
+  6:
+    arabic: الۡحَـرۡثِ
+    translation: the field
+    transliteration: l-ḥarthi
+  7:
+    arabic: اِذۡ
+    translation: when
+    transliteration: idh
+  8:
+    arabic: نَفَشَتۡ
+    translation: pastured
+    transliteration: nafashat
+  9:
+    arabic: فِيۡهِ
+    translation: in it
+    transliteration: fīhi
+  10:
+    arabic: غَنَمُ
+    translation: sheep
+    transliteration: ghanamu
+  11:
+    arabic: الۡقَوۡمِ​ۚ
+    translation: (of) a people
+    transliteration: l-qawmi
+  12:
+    arabic: وَكُنَّا
+    translation: and We were
+    transliteration: wakunnā
+  13:
+    arabic: لِحُكۡمِهِمۡ
+    translation: to their judgment
+    transliteration: liḥuk'mihim
+  14:
+    arabic: شٰهِدِيۡنَ ۙ‏
+    translation: witness
+    transliteration: shāhidīna
+---
+
+## Context
+
+To understand **The Prophets** (Al-Anbya) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Both the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ the goats of the people wandered therein grazing - 21:78).
+
+## Tafsir Ibn Kathir
+
+And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. And We subjected the mountains and the birds to glorify Our praises along with Dawud. And it was We Who were the doer (of all these things)(79)And We taught him the making of metal coats of mail (for battles), to protect you in your fighting. Are you then grateful (80)And to Sulayman (We subjected) the wind strongly raging, running by his command towards the land which We had blessed. And of everything We are the All-Knower (81)And of the Shayatin were some who dived for him, and did other work besides that; and it was We Who guarded them (82)
+
+Dawud and Sulayman and the Signs which They were given; the Story of the People whose Sheep pastured at Night in the Field
+
+(Abu) Ishaq narrated from Murrah from Ibn Mas'ud: "That crop was grapes, bunches of which were dangling." This was also the view of Shurayh. Ibn 'Abbas said: "Nafash means grazing." Shurayh, Az-Zuhri and Qatadah said: "Nafash only happens at night." Qatadah added, "[and] Al-Haml is grazing during the day."
+
+وَدَاوُودَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي الْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ
+
+(And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had pastured at night;)
+
+Ibn Jarir recorded that Ibn Mas'ud said: "Grapes which had grown and their bunches were spoiled by the sheep. Dawud (David) ruled that the owner of the grapes should keep the sheep. Sulayman (Solomon) said, 'Not like this, O Prophet of Allah!' [Dawud] said, 'How then' [Sulayman] said: 'Give the grapes to the owner of the sheep and let him tend them until they grow back as they were, and give the sheep to the owner of the grapes and let him benefit from them until the grapes have grown back as they were. Then the grapes should be given back to their owner, and the sheep should be given back to their owner.' This is what Allah said:
+
+فَفَهَّمْنَاهَا سُلَيْمَانَ
+
+(And We made Sulayman to understand (the case).)" This was also reported by Al-'Awfi from Ibn 'Abbas.
+
+فَفَهَّمْنَاهَا سُلَيْمَانَ ۚ وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا
+
+(And We made Sulayman to understand (the case); and to each of them We gave wisdom and knowledge.)
+
+Ibn Abi Hatim recorded that when Iyas bin Mu'awiyah was appointed as a judge, Al-Hasan came to him and found Iyas weeping. [Al-Hasan] said, "Why are you weeping?" [Iyas] said, "O Abu Sa'id, What I heard about judges among them a judge is he, who studies a case and his judgment is wrong, so he will go to Hell; another judge is he who is biased because of his own whims and desires, so he will go to Hell; and the other judge he who studies a case and gives the right judgement, so he will go to Paradise." Al-Hasan Al-Basari said: "But what Allah tells us about Dawud and Sulayman (peace be upon them both) and the Prophets and whatever judgements they made proves that what these people said is wrong. Allah says:
+
+وَدَاوُودَ وَسُلَيْمَانَ إِذْ يَحْكُمَانِ فِي الْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَاهِدِينَ
+
+(And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had pastured at night; and We were witness to their judgement.) Allah praised Sulayman but He did not condemn Dawud." Then he – Al-Hasan – said, "Allah enjoins three things upon the judges: not to sell thereby for some miserable price; not to follow their own whims and desires; and not to fear anyone concerning their judgements. " Then he recited:
+
+يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ
+
+(O Dawud! Verily, We have placed you as a successor on the earth; so judge you between men in truth and follow not your desire – for it will mislead you from the path of Allah.)[38:26]
+
+فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ
+
+(Therefore fear not men but fear Me)(5:44)
+
+وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا
+
+(and sell not My Ayat for a miserable price.)[5:44] I say: with regard to the Prophets (peace be upon them all), all of them were infallible and supported by Allah. With regard to others, it is recorded in Sahih Al-Bukhari from 'Amir bin Al-'As that the Messenger of Allah ﷺ said:
+
+إِذَا اجْتَهَدَ الْحَاكِمُ فَأَصَابَ، فَلَهُ أَجْرَانِ، وَإِذَا اجْتَهَدَ فَأَخْطَأَ، فَلَهُ أَجْرٌ
+
+(If the judge does his best, studies the case and reaches the right conclusion, he will have two rewards. If he does his best, studies the case and reaches the wrong conclusion, he will have one reward.)
+
+This Hadith refutes the idea of Iyas, who thought that if he did his best, studied the case and reached the wrong conclusion, he would go to Hell. And Allah knows best.
+
+Similar to story in the Qur'an is the report recorded by Imam Ahmad in his Musnad from Abu Hurayrah, who said that the Messenger of Allah ﷺ said:
+
+بَيْنَمَا امْرَأَتَانِ مَعَهُمَا ابْنَانِ لَهُمَا، إِذْ جَاءَ الذِّئْبُ فَأَخَذَ أَحَدَ الْابْنَيْنِ فَتَحَاكَمَتَا إِلَى دَاوُدَ، فَقَضَى بِهِ لِلْكُبْرَى، فَخَرَجَتَا فَدَعَاهُمَا سُلَيْمَانُ فَقَالَ: هَاتُوا السِّكِّينَ أَشُقُّهُ بَيْنَكُمَا: فَقَالَتِ الصُّغْرَى: يَرْحَمُكَ اللهُ هُوَ ابْنُهَا لَا تَشُقَّهُ، فَقَضَى بِهِ لِلصُّغْرَى
+
+(There were two women who each had a son. The wolf came and took one of the children, and they referred their dispute to Dawud. He ruled that the (remaining) child belonged to the older woman. They left, then Sulayman called them and said, "Give me a sword and I will divide him between the two of you." The younger woman said, "May Allah have mercy on you! He is her child, do not cut him up!" So he ruled that the child belonged to the younger woman).
+
+This was also recorded by Al-Bukhari and Muslim in their Sahihs. An-Nasa'i also devoted a chapter to this in the Book of Judgements.
+
+وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ
+
+(And We subjected the mountains and the birds to glorify Our praises along with Dawud.)
+
+This refers to the beauty of his voice when he recited his Book, Az-Zabur. When he recited it in a beautiful manner, the birds would stop and hover in the air, and would repeat after him, and the mountains would respond and echo his words. The Prophet ﷺ passed by Abu Musa Al-Ash'ari while he was reciting Qur'an at night, and he had a very beautiful voice, he stopped and listened to his recitation, and said:
+
+لَقَدْ أُوتِيَ هَذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(This man has been given one of the wind instruments (nice voices) of the family of Dawud.) He said: "O Messenger of Allah, if I had known that you were listening, I would have done my best for you."
+
+وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم مِّن بَأْسِكُمْ
+
+(And We taught him the making of metal coats of mail, to protect you in your fighting.) meaning, the manufacture of chain-armor. Qatadah said that before that, they used to wear plated armor; he was the first one to make rings of chain-armor. This is like the Ayah:
+
+وَأَلَنَّا لَهُ الْحَدِيدَ - أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ فِي السَّرْدِ
+
+(And We made the iron soft for him. Saying: "Make you perfect coats of mail, and balance well the rings of chain armor.")(34:10-11), meaning, do not make the pegs so loose that the rings (of chain mail) will shake, or make it so tight that they will not be able to move at all. Allah says:
+
+لِتُحْصِنَكُم مِّن بَأْسِكُمْ
+
+(to protect you in your fighting.) meaning, in your battles.
+
+فَهَلْ أَنتُمْ شَاكِرُونَ
+
+(Are you then grateful?) means, 'Allah blessed you when He inspired His servant Dawud and taught him that for your sake.'
+
+The Power of Sulayman is unparalleled
+
+وَلِسُلَيْمَانَ الرِّيحَ عَاصِفَةً
+
+(And to Sulayman (We subjected) the wind strongly raging,) means, 'We subjugated the strong wind to Sulayman.'
+
+تَجْرِي بِأَمْرِهِ إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا
+
+(running by his command towards the land which We had blessed.) meaning, the land of Ash-Sham (Greater Syria).
+
+وَكُنَّا بِكُلِّ شَيْءٍ عَالِمِينَ
+
+(And of everything We are the All-Knower.) He had a mat made of wood on which he would place all the equipment of his kingship; horses, camels, tents and troops, then he would command the wind to carry it, and he would go underneath it and it would carry him aloft, shading him and protecting him from the heat, until it reached wherever he wanted to go in the land. Then it would come down and deposit his equipment and entourage. Allah says:
+
+فَسَخَّرْنَا لَهُ الرِّيحَ تَجْرِي بِأَمْرِهِ رُخَاءً حَيْثُ أَصَابَ
+
+(So, We subjected to him the wind; it blew gently by his order whithersoever he willed.)(38:36)
+
+غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ
+
+(its morning was a month's (journey), and its afternoon was a month's)(34:12)
+
+وَمِنَ الشَّيَاطِينِ مَن يَغُوصُونَ لَهُ
+
+(And of the Shayatin were some who dived for him,) means, they dived into the water to retrieve pearls, jewels, etc., for him.
+
+وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ
+
+(and did other work besides that;) This is like the Ayah:
+
+وَالشَّيَاطِينَ كُلَّ بَنَّاءٍ وَغَوَّاصٍ - وَآخَرِينَ مُقَرَّنِينَ فِي الْأَصْفَادِ
+
+(And also the Shayatin, every kind of builder and diver. And also others bound in fetters.)(38:37-38).
+
+وَكُنَّا لَهُمْ حَافِظِينَ
+
+(and it was We Who guarded them.) means, Allah protected him lest any of these Shayatin did him any harm. All of them were subject to his control and domination, and none of them would have dared to approach him. He was in charge of them and if he wanted, he could set free or detain whomever among them he wished. Allah says:
+
+وَآخَرِينَ مُقَرَّنِينَ فِي الْأَصْفَادِ
+
+(And also others bound in fetters.)(38:38)
+
+## Maarif ul Quran
+
+Commentary
+
+نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ the goats of the people wandered therein grazing - 21:78). In Arabic language the word نَفَشَ (translated above as 'wandering and grazing' ) means an animal getting into a field at night and damaging it.
+
+## Personal Reflections

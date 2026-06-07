@@ -1,0 +1,138 @@
+---
+arabic_ayat: وَقَدۡ مَكَرَ الَّذِيۡنَ مِنۡ قَبۡلِهِمۡ فَلِلّٰهِ الۡمَكۡرُ جَمِيۡعًا​ؕ
+  يَعۡلَمُ مَا تَكۡسِبُ كُلُّ نَفۡسٍؕ وَسَيَـعۡلَمُ الۡـكُفّٰرُ لِمَنۡ عُقۡبَى الدَّارِ‏
+sentence_translation: Those ˹disbelievers˺ before them ˹secretly˺ planned, but Allah
+  has the ultimate plan. He knows what every soul commits. And the disbelievers will
+  soon know who will have the ultimate outcome.
+word_by_word:
+  1:
+    arabic: وَقَدۡ
+    translation: And certainly
+    transliteration: waqad
+  2:
+    arabic: مَكَرَ
+    translation: plotted
+    transliteration: makara
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: مِنۡ
+    translation: (were) from
+    transliteration: min
+  5:
+    arabic: قَبۡلِهِمۡ
+    translation: before them
+    transliteration: qablihim
+  6:
+    arabic: فَلِلّٰهِ
+    translation: but for Allah
+    transliteration: falillahi
+  7:
+    arabic: الۡمَكۡرُ
+    translation: (is) the plot
+    transliteration: l-makru
+  8:
+    arabic: جَمِيۡعًا​ؕ
+    translation: all
+    transliteration: jamīʿan
+  9:
+    arabic: يَعۡلَمُ
+    translation: He knows
+    transliteration: yaʿlamu
+  10:
+    arabic: مَا
+    translation: what
+    transliteration: mā
+  11:
+    arabic: تَكۡسِبُ
+    translation: earns
+    transliteration: taksibu
+  12:
+    arabic: كُلُّ
+    translation: every
+    transliteration: kullu
+  13:
+    arabic: نَفۡسٍؕ
+    translation: soul
+    transliteration: nafsin
+  14:
+    arabic: وَسَيَـعۡلَمُ
+    translation: and will know
+    transliteration: wasayaʿlamu
+  15:
+    arabic: الۡـكُفّٰرُ
+    translation: the disbelievers
+    transliteration: l-kufāru
+  16:
+    arabic: لِمَنۡ
+    translation: for whom
+    transliteration: liman
+  17:
+    arabic: عُقۡبَى
+    translation: (is) the final
+    transliteration: ʿuq'bā
+  18:
+    arabic: الدَّارِ‏
+    translation: the home
+    transliteration: l-dāri
+---
+
+## Context
+
+To understand **The Thunder** (Ar-Ra'd) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And verily, those before them did devise plots, but all planning is Allah's. In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ (And if We show you some of what We promise them, or We take you back to Us), it is to comfort and assure the Holy Prophet ﷺ that he has been given the good news that the promises Allah has made to him that Islam will have the final victory and disbelief and disbelievers will be disgraced shall come to pass definitely.
+
+## Tafsir Ibn Kathir
+
+And verily, those before them did devise plots, but all planning is Allah's. He knows what every person earns, and the disbelievers will know who gets the good end (final destination)(42)
+
+The Disbelievers plot, but the Believers gain the Good End
+
+Allah says,
+
+وَقَدْ مَكَرَ الَّذِينَ مِن قَبْلِهِمْ
+
+(And verily, those before them did devise plots,) against their Messengers, they wanted to expel them from their land, but Allah devised plots against the disbelievers and gave the good end to those who fear Him. Allah said in other Ayat,
+
+وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ
+
+(And (remember) when the disbelievers plotted against you to imprison you, or to kill you, or to get you out; they were plotting and Allah too was plotting; and Allah is the Best of those who plot.)[8:30], and,
+
+وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ - فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ
+
+(So they plotted a plot, and We planned a plan, while they perceived not. Then see how was the end of their plot! Verily, We destroyed them and their nation, all together.)[27:50-51] Allah said next,
+
+يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ
+
+(He knows what every person earns,) meaning, He alone knows all secrets and concealed thoughts and will reckon each person according to his work,
+
+(وَسَيَعْلَمُ الْكَافِرُ)
+
+and the Kafir (disbeliever) will know
+
+الْكُفَّارُ
+
+or the Kuffar (disbelievers) according to another way of reciting,
+
+لِمَنْ عُقْبَى الدَّارِ
+
+(who gets the good end.) who will earn the ultimate and final victory, they or the followers of the Messengers. Indeed, the followers of the Messengers will earn the good end in this life and the Hereafter, all thanks and praise is due to Allah.
+
+## Maarif ul Quran
+
+In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ (And if We show you some of what We promise them, or We take you back to Us), it is to comfort and assure the Holy Prophet ﷺ that he has been given the good news that the promises Allah has made to him that Islam will have the final victory and disbelief and disbelievers will be disgraced shall come to pass definitely. But, he is told, 'you should not concern yourself as to when this victory will finally come.' May be, this happens within his life time, and it is also possible that it comes after his departure from this mortal world. ` For your peace of heart, even this much is enough that you are continuously witnessing that We are causing the lands of the dis-believers to keep being sliced off their sides,' that is, these sides pass on under Muslim control whereby the land occupied by them keeps reducing in area. This causes well-being for Muslims and a day will come when the final phase of their victory shall stand completed. The command is in the very hands of Allah Ta` ala. There is no one who can avert this command. And He is the One swift at reckoning.
+
+## Personal Reflections

@@ -1,0 +1,186 @@
+---
+arabic_ayat: فَاِنۡ عَصَوۡكَ فَقُلۡ اِنِّىۡ بَرِىۡٓءٌ مِّمَّا تَعۡمَلُوۡنَ​ۚ‏
+sentence_translation: But if they disobey you, say, “I am certainly free of what you
+  do.”
+word_by_word:
+  1:
+    arabic: فَاِنۡ
+    translation: Then if
+    transliteration: fa-in
+  2:
+    arabic: عَصَوۡكَ
+    translation: they disobey you
+    transliteration: ʿaṣawka
+  3:
+    arabic: فَقُلۡ
+    translation: then say
+    transliteration: faqul
+  4:
+    arabic: اِنِّىۡ
+    translation: Indeed, I am
+    transliteration: innī
+  5:
+    arabic: بَرِىۡٓءٌ
+    translation: innocent
+    transliteration: barīon
+  6:
+    arabic: مِّمَّا
+    translation: of what
+    transliteration: mimmā
+  7:
+    arabic: تَعۡمَلُوۡنَ​ۚ‏
+    translation: you do
+    transliteration: taʿmalūna
+---
+
+## Context
+
+To understand **The Poets** (Ash-Shu'ara) 216, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+` Ashirah'o, عَشِيرَ‌ۃ means clan and by limiting it with 'aqrabin (the nearest people) it is used for close relatives. It is worth noting here that the mission of the Holy Prophet ﷺ as a messenger is universal to the whole Ummah, then what is the wisdom in making it special for the members of the clan? But if we look at it rather closely, we will notice in it an easy and effective way for preaching, which would have far-reaching effect. One's own family members having the privilege of closeness are also entitled to have precedence over others on initiating any act of virtue. By virtue of close mutual relations they know each other well and anyone with false claims would get exposed in no time. Conversely, the one having good reputation among the family members would be readily accepted and listened to. Once the close relatives throw their weight to support a good cause, it brings in unity and mutual help between them.
+
+## Tafsir Summary
+
+So, invoke not with Allah another god lest you should be among those who receive punishment (231)And warn your tribe of near kindred (214)And be kind and humble to the believers who follow you (215)Then if they disobey you, say: "I am innocent of what you do. And warn the nearest people of your clan, -26:214.
+
+## Tafsir Ibn Kathir
+
+So, invoke not with Allah another god lest you should be among those who receive punishment (231)And warn your tribe of near kindred (214)And be kind and humble to the believers who follow you (215)Then if they disobey you, say: "I am innocent of what you do. (216)And put your trust in the All-Mighty, the Most Merciful (217)Who sees you when you stand up (218)And your movements among those who fall prostrate (219)Verily, He, only He, is the All-Hearer, the All-Knower (220)
+
+The Command to Warn His Tribe of Near Kindred
+
+Here Allah commands (His Prophet ﷺ) to worship Him alone, with no partner or associate, and tells him that whoever associates others in worship with Him, He will punish them. Then Allah commands His Messenger ﷺ to warn his tribe of near kindred, i.e., those who were most closely related to him, and to tell them that nothing could save any of them except for faith in Allah. Allah also commanded him to be kind and gentle with the believing servants of Allah who followed him, and to disown those who disobeyed him, no matter who they were. Allah said:
+
+فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِّمَّا تَعْمَلُونَ
+
+(Then if they disobey you, say: "I am innocent of what you do.") This specific warning does not contradict the general warning; indeed it is a part of it, as Allah says elsewhere:
+
+لِتُنذِرَ قَوْمًا مَّا أُنذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ
+
+(In order that you may warn a people whose forefathers were not warned, so they are heedless.)(36:6),
+
+لِّتُنذِرَ أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا
+
+(that you may warn the Mother of the Towns and all around it)(42:7),
+
+وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُوا إِلَىٰ رَبِّهِمْ
+
+(And warn therewith those who fear that they will be gathered before their Lord)(6:51),
+
+لِتُبَشِّرَ بِهِ الْمُتَّقِينَ وَتُنذِرَ بِهِ قَوْمًا لُّدًّا
+
+(that you may give glad tidings to those who have Taqwa, and warn with it the most quarrelsome people.)(19:97),
+
+لِأُنذِرَكُم بِهِ وَمَن بَلَغَ
+
+(that I may therewith warn you and whomsoever it may reach)(6:19), and
+
+وَمَن يَكْفُرْ بِهِ مِنَ الْأَحْزَابِ فَالنَّارُ مَوْعِدُهُ
+
+(but those of the sects that reject it, the Fire will be their promised meeting place)(11:17).
+
+According to Sahih Muslim, [the Prophet ﷺ said:]
+
+وَالَّذِي نَفْسِي بِيَدِهِ، لَا يَسْمَعُ بِي أَحَدٌ مِنْ هَذِهِ الْأُمَّةِ يَهُودِيٌّ وَلَا نَصْرَانِيٌّ، ثُمَّ لَا يُؤْمِنُ بِي إِلَّا دَخَلَ النَّارَ
+
+(By the One in Whose Hand is my soul, no one from these nations – Jewish or Christian – hears of me then does not believe in me, but he will enter Hell.)
+
+Many Hadiths have been narrated concerning the revelation of this Ayah, some of which we will quote below:
+
+Imam Ahmad, may Allah have mercy on him, recorded that Ibn 'Abbas, may Allah be pleased with him, said: "When Allah revealed the Ayah,
+
+وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
+
+(And warn your tribe of near kindred.), the Prophet ﷺ went to As-Safa', climbed up and called out,
+
+يَا صَبَاحَاهُ
+
+(O people!) The people gathered around him, some coming of their own accord and others sending people on their behalf to find out what was happening. The Messenger of Allah ﷺ said:
+
+يَا بَنِي عَبْدِ الْمُطَّلِبِ، يَا بَنِي فِهْرٍ، يَااَبنِي لُؤَيٍّ، أَرَأَيْتُمْ لَوْ أَخْبَرْتُكُمْ أَنَّ خَيْلًا بِسَفْحِ هَذَا الْجَبَلِ تُريدُ أَنْ تُغِيرَ عَلَيْكُمْ صَدَّقْتُمُونِي؟
+
+(O Bani 'Abd Al-Muttalib, O Bani Fihr, O Bani Lu'ayy! What do you think, if I told you that there was a cavalry at the foot of this mountain coming to attack you – would you believe me?) They said, "Yes." He said:
+
+فَإِنِّي نَذِيرٌ لَكُمْ بَيْنَ يَدَي عَذَابٍ شَدِيدٍ
+
+(Then I warn you of a great punishment that is close at hand.) Abu Lahab said, "May you perish for the rest of the day! You only called us to tell us this?" Then Allah revealed:
+
+تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
+
+(Perish the two hands of Abu Lahab and perish he!)[111:1] This was also recorded by Al-Bukhari, Muslim, At-Tirmidhi and An-Nasa'i.
+
+Imam Ahmad recorded that 'A'ishah, may Allah be pleased with her said: "When the Ayah:
+
+وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
+
+(And warn your tribe of near kindred) was revealed, the Messenger of Allah ﷺ stood up and said:
+
+يَا فَاطِمَةُ ابْنَةُ مُحَمَّدٍ، يَا صَفِيَّةُ ابْنَةُ عَبْدِ الْمُطَّلِبِ، يَا بَنِي عَبْدِ الْمُطَّلِبِ، لَا أَمْلِكُ لَكُمْ مِنَ اللهِ شَيْئًا سَلُونِي مِنْ مَالِي مَا شِئْتُم
+
+(O Fatimah daughter of Muhammad, O Safiyyah daughter of 'Abd Al-Muttalib, O Bani 'Abd Al-Muttalib, I cannot help you before Allah. Ask me for whatever you want of my wealth.) This was recorded by Muslim. Imam Ahmad recorded that Qabisah bin Mukhariq and Zuhayr bin 'Amr said: "When the Ayah:
+
+وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ
+
+(And warn your tribe of near kindred.) was revealed, the Messenger of Allah ﷺ climbed on top of a rock on the side of a mountain and started to call out:
+
+يَا بَنِي عَبْدِ مَنَافٍ، إِنَّمَا أَنَا نَذِيرٌ، وَإِنَّمَا مَثَلِي وَمَثَلُكُمْ كَرَجُلٍ رَأَى الْعَدُوَّ فَذَهَبَ يَرْبَأُ أَهْلَهُ يَخْشَى أَنْ يَسْبِقُوهُ، فَجَعَلَ يُنَادِي وَيَهْتِفُ: يَا صَبَاحَاهُ
+
+(O Bani 'Abd Manaf, I am indeed a warner, and the parable of me and you is that of a man who sees the enemy so he goes to save his family, fearing that the enemy may reach them before he does.) And he started to call out, (O people!) It was also recorded by Muslim and An-Nasa'i. Allah's saying:
+
+وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ
+
+(And put your trust in the All-Mighty, the Most Merciful,) means, 'in all your affairs, for He is your Helper, Protector and Supporter, and He is the One Who will cause you to prevail and will make your word supreme.'
+
+الَّذِي يَرَاكَ حِينَ تَقُومُ
+
+(Who sees you when you stand up.) means, He is taking care of you. This is like the Ayah,
+
+وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا
+
+(So wait patiently for the decision of your Lord, for verily, you are under Our Eyes)(52:48) Ibn 'Abbas said that the Ayah,
+
+الَّذِي يَرَاكَ حِينَ تَقُومُ
+
+(Who sees you when you stand up.) means, "To pray." 'Ikrimah said: "He sees him when he stands and bows and prostrates." Al-Hasan said:
+
+الَّذِي يَرَاكَ حِينَ تَقُومُ
+
+(Who sees you when you stand up.) "When you pray alone." Ad-Dahhak said:
+
+الَّذِي يَرَاكَ حِينَ تَقُومُ
+
+(Who sees you when you stand up.) "When you are lying in bed and when you are sitting." Qatadah said:
+
+الَّذِي يَرَاكَ
+
+(Who sees you) "When you are standing, when you are sitting, and in all other situations."
+
+وَتَقَلُّبَكَ فِي السَّاجِدِينَ
+
+(And your movements among those who fall prostrate.) Qatadah said:
+
+الَّذِي يَرَاكَ حِينَ تَقُومُ - وَتَقَلُّبَكَ فِي السَّاجِدِينَ
+
+(Who sees you when you stand up. And your movements among those who fall prostrate.) "When you pray, He sees you when you pray alone and when you pray in congregation." This was also the view of 'Ikrimah, 'Ata' Al-Khurasani and Al-Hasan Al-Basri.
+
+إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+
+(Verily, He, only He, is the All-Hearer, the All-Knower.) He hears all that His servants say and He knows all their movements, as He says:
+
+وَمَا تَكُونُ فِي شَأْنٍ وَمَا تَتْلُو مِنْهُ مِن قُرْآنٍ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ
+
+(Neither you do any deed nor recite any portion of the Qur'an, nor you do any deed, but We are Witness thereof, when you are doing it)(10:61).
+
+## Maarif ul Quran
+
+وَأَنذِرْ‌ عَشِيرَ‌تَكَ الْأَقْرَ‌بِينَ ﴿214﴾
+
+And warn the nearest people of your clan, -26:214.
+
+` Ashirah'o, عَشِيرَ‌ۃ means clan and by limiting it with 'aqrabin (the nearest people) it is used for close relatives. It is worth noting here that the mission of the Holy Prophet ﷺ as a messenger is universal to the whole Ummah, then what is the wisdom in making it special for the members of the clan? But if we look at it rather closely, we will notice in it an easy and effective way for preaching, which would have far-reaching effect. One's own family members having the privilege of closeness are also entitled to have precedence over others on initiating any act of virtue. By virtue of close mutual relations they know each other well and anyone with false claims would get exposed in no time. Conversely, the one having good reputation among the family members would be readily accepted and listened to. Once the close relatives throw their weight to support a good cause, it brings in unity and mutual help between them. This way they develop a group of the family members on the basis of trust and sincerity and it becomes very easy to spend the daily life in an atmosphere of peace to follow the religious code. Then this homogeneous and sincere group works like a small power in preaching and spreading the precepts and code of religion to others. In another verse of the Holy Qur'an it is said قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارً‌ا (66:6) that is ` Save yourself and your family members from the fire of Jahannam'. Responsibility of saving one's dependent from the fire of Jahannam is placed on every member of the clan. This is an easy and simple way of reforming the conduct and morals. It is an everyday experience that in order to follow good conduct and morals and then to stick to them is only possible when the environment is favourable for that. If only one person in the entire household wishes to perform his prayers regularly, even that devotee will find it difficult to carry it out. In the present environment it has become difficult to abstain from the unlawful things not because it is not possible to keep away from them, but the reason is that when the whole fraternity is involved in a sin, it becomes very difficult for just one person to keep himself aloof. When this verse was revealed to Holy Prophet ﷺ ، he called out all the members of the family and conveyed to them the message of truth. Although they did not accept the truth at that time but gradually the family members started converting to Islam. When the uncle of Holy Prophet ﷺ Sayyidna Hamzah ؓ ، converted to Islam it provided great strength to the mission.
+
+## Personal Reflections

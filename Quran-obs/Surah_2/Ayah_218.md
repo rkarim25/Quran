@@ -1,0 +1,201 @@
+---
+arabic_ayat: "اِنَّ الَّذِيۡنَ اٰمَنُوۡا وَالَّذِيۡنَ هَاجَرُوۡا وَجَاهَدُوۡا فِىۡ\
+  \ سَبِيۡلِ اللّٰهِۙ اُولٰٓٮِٕكَ يَرۡجُوۡنَ رَحۡمَتَ اللّٰهِؕ وَاللّٰهُ غَفُوۡرٌ\
+  \ رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+sentence_translation: Surely those who have believed, emigrated, and struggled in
+  the Way of Allah—they can hope for Allah’s mercy. And Allah is All-Forgiving, Most
+  Merciful.
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  3:
+    arabic: اٰمَنُوۡا
+    translation: believed
+    transliteration: āmanū
+  4:
+    arabic: وَالَّذِيۡنَ
+    translation: and those who
+    transliteration: wa-alladhīna
+  5:
+    arabic: هَاجَرُوۡا
+    translation: emigrated
+    transliteration: hājarū
+  6:
+    arabic: وَجَاهَدُوۡا
+    translation: and strove
+    transliteration: wajāhadū
+  7:
+    arabic: فِىۡ
+    translation: in
+    transliteration: fī
+  8:
+    arabic: سَبِيۡلِ
+    translation: (the) way
+    transliteration: sabīli
+  9:
+    arabic: اللّٰهِۙ
+    translation: '(of) Allah '
+    transliteration: l-lahi
+  10:
+    arabic: اُولٰٓٮِٕكَ
+    translation: those
+    transliteration: ulāika
+  11:
+    arabic: يَرۡجُوۡنَ
+    translation: they hope
+    transliteration: yarjūna
+  12:
+    arabic: رَحۡمَتَ
+    translation: (for) Mercy
+    transliteration: raḥmata
+  13:
+    arabic: اللّٰهِؕ
+    translation: (of) Allah
+    transliteration: l-lahi
+  14:
+    arabic: وَاللّٰهُ
+    translation: And Allah
+    transliteration: wal-lahu
+  15:
+    arabic: غَفُوۡرٌ
+    translation: (is) Oft-Forgiving
+    transliteration: ghafūrun
+  16:
+    arabic: "رَّحِيۡمٌ‏ \uFEFF\uFEFF"
+    translation: Most Merciful
+    transliteration: raḥīmun
+---
+
+## Context
+
+To understand **The Cow** (Al-Baqarah) 218, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+The people continued talking about this matter, then Allah revealed to His Messenger ﷺ:
+
+Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved from their depressing thoughts after the Qur'an was revealed about this subject, they sought the reward of the fighters (in Allah's way). They said, "O Messenger of Allah! We wish that this incident be considered a battle for us, so that we gain the rewards of the Mujahidin." Then, Allah revealed:
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+They ask you concerning fighting in the Sacred Months. The second of the three verses under comment here proves that fighting is forbidden in Rajab, Dhul-Qa'dah, Dhul-Hijjah and Muharram, the four 'sacred' months.
+
+## Tafsir Ibn Kathir
+
+They ask you concerning fighting in the Sacred Months. Say, "Fighting therein is a great (transgression) but a greater (transgression) with Allah is to prevent mankind from following the way of Allah, to disbelieve in Him, to prevent access to Al-Masjid Al-Haram (at Makkah), and to drive out its inhabitants, and Al-Fitnah is worse than killing." And they will never cease fighting you until they turn you back from your religion (Islamic Monotheism) if they can. And whosoever of you turns back from his religion and dies as a disbeliever, then his deeds will be lost in this life and in the Hereafter, and they will be the dwellers of the Fire. They will abide therein forever (217)Verily, those who have believed, and those who have emigrated (for Allah's religion) and have striven hard in the way of Allah, all these hope for Allah's mercy. And Allah is Oft-Forgiving, Most-Merciful (218)
+
+The Nakhlah Military Maneuvers, and the Ruling on Fighting during the Sacred Months
+
+Ibn Abu Hatim reported that Jundub bin 'Abdullah said: Allah's Messenger ﷺ assembled a group of men under the command of Abu 'Ubaydah bin Jarrah. When he was about to march, he started crying for the thought of missing Allah's Messenger ﷺ. Consequently, the Messenger ﷺ relieved Abu 'Ubaydah from command, appointed 'Abdullah bin Jahsh instead, gave him some written instructions and commanded him not to read the instructions until he reached such and such area. He also said to 'Abdullah:
+
+لَا تُكْرِهَنَّ أَحَدًا عَلَى السَّيْرِ مَعَكَ مِنْ أَصْحَابِكَ.
+
+(Do not compel any of your men to continue marching with you thereafter.)
+
+When 'Abdullah read the instructions, he recited Istirja' [saying, 'Truly! to Allah we belong and truly, to Him we shall return'; and refer to (2:156)] and said, "I hear and obey Allah and His Messenger." He then told his companions the story and read the instructions to them, and two men went back while the rest remained. Soon after, they found Ibn Hadrami (one of the disbelievers of Quraysh) and killed him not knowing that that day was in Rajab or Jumadi (where Rajab is the Sacred Month). The polytheists said to the Muslims, "You have committed murder in the Sacred Month." Allah then revealed:
+
+يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ
+
+(They ask you concerning fighting in the Sacred Months. Say, "Fighting therein is a great (transgression)...")
+
+Abdul-Malik bin Hisham, who compiled the Sirah (life story of the Prophet ﷺ), related that Ziyad bin 'Abdullah Bakka'i said that Muhammad bin Ishaq bin Yasar Al-Madani wrote in his book on the Sirah, "Allah's Messenger ﷺ sent 'Abdullah bin Jahsh bin Riyab Al-Asadi in Rajab, after he (the Prophet ﷺ) came back from the first battle of Badr. The Prophet ﷺ sent eight people with him, all from among the Muhajirun and none from the Ansar. He also gave him some written instructions and ordered him not to read them until he marched for two days. 'Abdullah should then read the instructions and march to implement them, but should not force any of those who were with him to accompany him.
+
+The companions of 'Abdullah bin Jahsh were all from the Muhajirun, from the tribe of Banu 'Abd Shams bin 'Abd Manaf, there was Abu Hudhayfah bin 'Utbah bin Rabi'ah bin 'Abd Shams bin 'Abd Manaf. From their allies, there was 'Abdullah bin Jahsh, who was the commander of the army unit, and 'Ukkashah bin Mihsan from the tribe of Banu Asad bin Khuzaymah. From the tribe of Banu Nawfal bin 'Abd Manaf, there was 'Utbah bin Ghazwan bin Jabir, one of their allies. From the tribe of Banu Zuhrah bin Kilab, there was Sa'd bin Abu Waqqas. From Banu Ka'b, there were their allies: 'Adi bin 'Amr bin Ar-Rabi'ah not from the tribe of Ibn Wa'il; Waqid bin 'Abdullah bin 'Abd Manaf bin 'Arin bin Tha'labah bin Yarbu' from Banu Tamim; and Khalid bin Bukair from the tribe of Banu Sa'd bin Layth, Suhayl bin Bayda' from Banu Al-Harith bin Fihr was also among them. When 'Abdullah bin Jahsh marched for two days, he opened and read the (Prophet's) instructions, "When you read these instructions, march until you set camp at Nakhlah between Makkah and At-Ta'if. There, watch the movements of the caravan of Quraysh and collect news about them for us." When 'Abdullah bin Jahsh read the document, he said, "I hear and obey." He then said to his companions, "Allah's Messenger ﷺ has commanded me to march forth to Nakhlah to watch the movements of the caravan of Quraysh and to inform him about their news. He has prohibited me from forcing any of you (to go with me). So, those who seek martyrdom, they should march with me. Those who dislike the idea of martyrdom, let them turn back. Surely, I will implement the command of Allah's Messenger ﷺ." He and his companions continued without any of them turning back.
+
+Abdullah entered the Hijaz area (western Arabia) until he reached an area called Buhran, close to Furu'. There, Sa'd bin Abu Waqqas and 'Utbah bin Ghazwan lost the camel that they were riding in turns, and they went back to search for it while 'Abdullah bin Jahsh and the rest of his companions continued until they reached Nakhlah. Then, a caravan belonging to the Quraysh passed by carrying raisins, food stuff and some trade items for the Quraysh. 'Amr bin Hadrami, whose name was 'Abdullah bin 'Abbad, was in the caravan, as well as 'Uthman bin 'Abdullah bin Al-Mughirah and his brother Nawfal bin 'Abdullah from the tribe of Makhzum, and Al-Hakam bin Kaysan, a freed slave of Hisham bin Al-Mughirah. When they saw the Companions they were frightened, but when they saw 'Ukkashah bin Mihsan their fears subsided, since his head was shaved. They said, "These people seek the 'Umrah, so there is no need to fear them."
+
+The Companions conferred among themselves. That day was the last day in the (sacred) month of Rajab. They said to each other, "By Allah! If you let them pass, they will soon enter the Sacred Area and take refuge in it from you. If you kill them, you will kill them during the Sacred Month." They at first hesitated and did not like to attack them. They then began encouraging themselves and decided to kill whomever they could among the disbelievers and to confiscate whatever they had. Hence, Waqid bin 'Abdullah At-Tamimi shot an arrow at 'Amr bin Al-Hadrami and killed him. 'Uthman bin 'Abdullah and Al-Hakam bin Kaysan gave themselves up, while Nawfal bin 'Abdullah was able to outrun them in flight. Later on, 'Abdullah bin Jahsh and his companions went back to Allah's Messenger ﷺ in Al-Madinah with the caravan and the two prisoners.
+
+Ibn Ishaq went on: I was told that some members of the family of 'Abdullah bin Jahsh said that 'Abdullah said to his companions: "Allah's Messenger ﷺ will have one-fifth of what we have confiscated." This occurred before Allah required one-fifth for His Messenger from the war booty. So, 'Abdullah designated one-fifth of the caravan for Allah's Messenger ﷺ and divided the rest among his companions. Ibn Ishaq also stated that at first, when the Sariyah came back to Allah's Messenger ﷺ, he said to them:
+
+مَا أَمَرْتُكُمْ بِقِتَالٍ فِي الشَّهْرِ الْحَرَامِ
+
+(I have not commanded you to conduct warfare during the Sacred Month.)
+
+He left the caravan and the two prisoners alone and did not take any share of the war booty.
+
+When Allah's Messenger ﷺ did that, the soldiers from the attack were concerned and felt that they were destroyed, and their Muslim brethren criticized them for what they did. The Quraysh said that Muhammad ﷺ and his Companions violated the sanctity of the Sacred Month and shed blood, confiscated property and took prisoners during it. Those who refuted them among the Muslims who remained in Makkah replied that the Muslims had done that during the month of Sha'ban (which is not a sacred month). Meanwhile, the Jews were pleased about what happened to Allah's Messenger ﷺ. They said, ' Amr bin Hadrami was killed by Waqid bin 'Abdullah: 'Amr, means the war has started, Hadrami means the war has come, as for Waqid (bin 'Abdullah): the war has raged (using some of the literal meanings of these names to support their fortune-telling!)." But, Allah made all that turn against them.
+
+The people continued talking about this matter, then Allah revealed to His Messenger ﷺ:
+
+يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِندَ اللَّهِ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ
+
+(They ask you concerning fighting in the Sacred Months. Say, "Fighting therein is a great (transgression) but a greater (transgression) with Allah is to prevent mankind from following the way of Allah, to disbelieve in Him, to prevent access to Al-Masjid Al-Haram (at Makkah), and to drive out its inhabitants, and Al-Fitnah is worse than killing.)
+
+This Ayah means, 'If you had killed during the Sacred Month, they (disbelievers of Quraysh) have hindered you from the path of Allah and disbelieved in it. They also prevented you from entering the Sacred Mosque, and expelled you from it, while you are its people,
+
+أَكْبَرُ عِندَ اللَّهِ
+
+(...a greater (transgression) with Allah) than killing whom you killed among them. Also:
+
+وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ
+
+(...and Al-Fitnah is worse than killing.) means, trying to force the Muslims to revert from their religion and re-embrace Kufr after they had believed, is worse with Allah than killing.' Allah said:
+
+وَلَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ اسْتَطَاعُوا
+
+(And they will never cease fighting you until they turn you back from your religion (Islamic Monotheism) if they can.)
+
+So, they will go on fighting you with unrelenting viciousness.
+
+Ibn Ishaq went on: When the Qur'an touched this subject and Allah brought relief to the Muslims instead of the sadness that had befallen them, Allah's Messenger ﷺ took possession of the caravan and the two prisoners. The Quraysh offered to ransom the two prisoners, 'Uthman bin 'Abdullah and Hakam bin Kaysan. Allah's Messenger ﷺ said:
+
+لَا نَفْدِيكُمُوهُمَا حَتَّى يَقْدَمَ صَاحِبَانَا
+
+(We will not accept your ransom until our two companions return safely.) meaning Sa'd bin Abu Waqqas and 'Utbah bin Ghazwan, "For we fear for their safety with you. If you kill them, we will kill your people." Later on, Sa'd and 'Utbah returned safely and Allah's Messenger ﷺ accepted the Quraysh's ransom for their prisoners. As for Al-Hakam bin Kaysan, he became Muslim and his Islam strengthened. He remained with Allah's Messenger ﷺ until he was martyred during the incident at Bir Ma'unah (when the Prophet ﷺ sent seventy Companions to Najd to teach them Islam, but Banu Sulaim killed them all except two). As for 'Uthman bin 'Abdullah, he went back to Makkah and died there as a disbeliever.
+
+Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved from their depressing thoughts after the Qur'an was revealed about this subject, they sought the reward of the fighters (in Allah's way). They said, "O Messenger of Allah! We wish that this incident be considered a battle for us, so that we gain the rewards of the Mujahidin." Then, Allah revealed:
+
+إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ أُولَٰئِكَ يَرْجُونَ رَحْمَتَ اللَّهِ وَاللَّهُ غَفُورٌ رَّحِيمٌ
+
+(Verily, those who have believed, and those who have emigrated (for Allah's religion) and have striven hard in the way of Allah, all these hope for Allah's mercy. And Allah is Oft-Forgiving, Most Merciful.)
+
+Hence, Allah has greatly elevated their hopes of gaining what they had wished for.
+
+## Maarif ul Quran
+
+The injunction relating to fighting in the 'sacred' months:
+
+The second of the three verses under comment here proves that fighting is forbidden in Rajab, Dhul-Qa'dah, Dhul-Hijjah and Muharram, the four 'sacred' months. In the same way, there are several verses of the Holy Qur'an where fighting has been very clearly forbid-den during the sacred months, for instance:' ذَٰلِكَ الدِّينُ الْقَيِّمُ ۚ فَلَا تَظْلِمُوا فِيهِنَّ أَنفُسَكُمْ :'Four of them are sacred. That is the right religion' (9:36). Then there is the saying of the Holy Prophet ﷺ in the famous address of the Last Hajj: نھا اربعہ حُرم ثلات متوالیات و رجب مضر 'Four (months) from among them are sacred, out of which three are consecutive and the (fourth) is Rajab of Mudar'. These Qur'anic verses and hadith narrations prove that fighting is haram حرام prohibited in the four months mentioned and this forbiddance is good for ever.
+
+In this connection, ` Ata ibn Abi Rabah, a leading early exponent of Qur'anic exegesis declared on oath that this injunction is there to stay forever. Several others among the respected Successors (Tabi'in) regard this injunction as provenly un-abrogated, but in accordance with the ruling of the majority of Muslim jurists as stated by al-Jassas, this injunction is one of the abrogated ones as maintained by a consensus of jurists and fighting is no more forbidden in any month.
+
+Now comes the question as to which verse of the Holy Qur'an abrogates this injunction. Jurists have taken different positions in this respect. Some say the verse وَقَاتِلُوا الْمُشْرِ‌كِينَ كَافَّةً :'And fight the disbelievers, all of them' (9:36) abrogates it. Many others regard the verse فَاقْتُلُوا الْمُشْرِ‌كِينَ حَيْثُ وَجَدتُّمُوهُمْ :'Slay the disbelievers wherever you find them' (9:5) as its abrogator. They have taken the word: حَيْثُ here in the sense of 'anytime' meaning thereby that the disbelievers should be killed in whatever month or time they are found. Some have said that the abrogator of this injunction is the very conduct of the Holy Prophet ﷺ since he himself besieged the city of Ta'if during the 'sacred months' and it was during the 'sacred months' that he sent the noble Companion ` Amir al-Ash'ari ؓ on the military expedition of Awtas اوطاس . On these grounds, Jurists in general, regard this injunction as abrogated, al-Jassas calls it وھو قول فقھاء الأنصار : 'This is what the majority of the jurists says'.
+
+Ruh al-Ma` ani, under comments on this verse, and al-Baydawi, under the explanation of the first section of Surah al-Bara'ah have reported a consensus of the community on the abrogation of the forbiddance of fighting during the 'sacred months' (Bayan al-Qur'an).
+
+However, al-Tafsir al-Mazhari answers all these arguments by saying that the sanctity of the 'sacred months' is clearly present in the verse known as Ayah al-sayf or the Verse of the Sword, that is :
+
+إِنَّ عِدَّةَ الشُّهُورِ‌ عِندَ اللَّـهِ اثْنَا عَشَرَ‌ شَهْرً‌ا فِي كِتَابِ اللَّـهِ يَوْمَ خَلَقَ السَّمَاوَاتِ وَالْأَرْ‌ضَ مِنْهَا أَرْ‌بَعَةٌ حُرُ‌مٌ'
+
+The number of months, with God, is twelve (mentioned) in the book of Allah, the day that he created the heavens and the earth; four of them are sacred' (9:36).
+
+Of the verse relating to fighting, this verse was the last one to be revealed and the Address of the Last Hajj which was delivered only 80 days before the Holy Prophet ﷺ passed away clearly indicates the sanctity of the 'sacred months'. For this reason, the verses quoted cannot be regarded as abrogative of this injunction. Moreover, the siege of Ta'if did not take place in the month of Dhul-Qa'dah. It was in Shawwal, therefore, this too cannot be regarded as its abrogator. But, it can certainly be conceded that the absolute forbiddance of fighting in the 'sacred months' which seems to reflect from the verse referred to holds an exception whereby it would become permissible for Muslims to defend themselves, or counter attack the aggressor if disbelievers themselves start the fighting during these months. This much, then, can be termed as abrogated, which finds a clarification in the verse الشَّهْرُ‌ الْحَرَ‌امُ بِالشَّهْرِ‌ الْحَرَ‌امِ : The holy month for the holy month' (2:194).
+
+The gist of the discussion is that initiating a fight during these months is forbidden forever, but in the event that disbelievers mount an attack on Muslims, then Muslims are permitted to fight back in their defence. A1-Jassas has reported the narration of the blessed Companion Jabir ibn ` Abdullah ؓ who said that the Holy Prophet ﷺ did not fight in any of the 'sacred months' until such time that the initial fighting was started by the disbelievers.
+
+The evil consequences of Apostasy
+
+Towards the end of the verse (217), it has been said that the act of turning into an apostate after having become a Muslim shall be dealt with under the injunction: حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَ‌ةِ that is, they shall be those whose deeds have gone waste in this world and in the Hereafter.
+
+Here are some injunctions relating to the apostates:
+
+1. Some examples of 'deeds going waste in this world' are that the wife of an apostate goes out of the bond of marriage; if a relative of an apostate dies as Muslim, he gets no share in the inheritance; all obligations such as prayers and fasting fulfilled in one's state of Islam are reduced to nothing; for such a person funeral prayers are not offered and he or she is not buried in the graveyard meant for Muslims. 'Deeds going waste in the Hereafter' means that one gets no reward for acts of worship and enters the Hell to stay there forever.
+
+2. Should an apostate become a Muslim once again, at least this much is certain that he could hope to salvage himself away from Hell in the Hereafter, while during the remaining tenure of his life in the mortal world, the injunctions of Islam will be operative for him. But, there is a difference of opinion among jurists about what would happen to a person who has already done his Hajj - would it be obligatory on him, given the capability, to do it all over again, or would it not? Similarly, in the Hereafter, would the reward for his previous religious performances, such as prayers and fasting, revert back to him, or would they not? Imam Abu Hanifah (رح) says that it is obligatory on him to do his Hajj again and he does not subscribe to the opinion that he will be rewarded for his previous prayers and fasting while Imam Shafi` I شافعی (رح) differs on both issues.
+
+3. For one who is basically a disbeliever, the position is that the reward for his good deeds in a state of disbelief is held in abeyance. If there comes the time when he embraces Islam, he gets a matching reward for all such deeds, but in the event that he dies an infidel, everything goes waste. The Hadith statement: اسلمت علی ما اسلفت من خیر : 'You have embraced Islam with all the good deeds which you have performed earlier' means just this.
+
+4. In short, the fate of an apostate is worse than that of an original disbeliever. This is why Jizyah جزیہ can be accepted from an original disbeliever while a male apostate who does not return to Islam is killed. If the apostate is a woman, she is imprisoned for life. The reason is that their conduct insults Islam and the insult of such a binding authority deserves no less a punishment.
+
+## Personal Reflections

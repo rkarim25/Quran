@@ -1,0 +1,209 @@
+---
+arabic_ayat: "قُلۡ اِنِّىۡ نُهِيۡتُ اَنۡ اَعۡبُدَ الَّذِيۡنَ تَدۡعُوۡنَ مِنۡ دُوۡنِ\
+  \ اللّٰهِ​ؕ قُلْ لَّاۤ اَ تَّبِعُ اَهۡوَآءَكُمۡ​ۙ قَدۡ ضَلَلۡتُ اِذًا وَّمَاۤ اَنَا\
+  \ مِنَ الۡمُهۡتَدِيۡنَ‏ \uFEFF\uFEFF"
+sentence_translation: Say, ˹O Prophet,˺ “I have been forbidden to worship those you
+  invoke besides Allah.” Say, “I will not follow your desires, for I then would certainly
+  be astray and not one of those ˹rightly˺ guided.”
+word_by_word:
+  1:
+    arabic: قُلۡ
+    translation: Say
+    transliteration: qul
+  2:
+    arabic: اِنِّىۡ
+    translation: Indeed I
+    transliteration: innī
+  3:
+    arabic: نُهِيۡتُ
+    translation: '[I] am forbidden'
+    transliteration: nuhītu
+  4:
+    arabic: اَنۡ
+    translation: that
+    transliteration: an
+  5:
+    arabic: اَعۡبُدَ
+    translation: I worship
+    transliteration: aʿbuda
+  6:
+    arabic: الَّذِيۡنَ
+    translation: those whom
+    transliteration: alladhīna
+  7:
+    arabic: تَدۡعُوۡنَ
+    translation: you call
+    transliteration: tadʿūna
+  8:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  9:
+    arabic: دُوۡنِ
+    translation: besides
+    transliteration: dūni
+  10:
+    arabic: اللّٰهِ​ؕ
+    translation: Allah
+    transliteration: l-lahi
+  11:
+    arabic: قُلْ
+    translation: Say
+    transliteration: qul
+  12:
+    arabic: لَّاۤ
+    translation: Not
+    transliteration: lā
+  13:
+    arabic: اَ تَّبِعُ
+    translation: I follow
+    transliteration: attabiʿu
+  14:
+    arabic: اَهۡوَآءَكُمۡ​ۙ
+    translation: your (vain) desires
+    transliteration: ahwāakum
+  15:
+    arabic: قَدۡ
+    translation: certainly
+    transliteration: qad
+  16:
+    arabic: ضَلَلۡتُ
+    translation: I would go astray
+    transliteration: ḍalaltu
+  17:
+    arabic: اِذًا
+    translation: then
+    transliteration: idhan
+  18:
+    arabic: وَّمَاۤ
+    translation: and not
+    transliteration: wamā
+  19:
+    arabic: اَنَا
+    translation: I (would be)
+    transliteration: anā
+  20:
+    arabic: مِنَ
+    translation: from
+    transliteration: mina
+  21:
+    arabic: "الۡمُهۡتَدِيۡنَ‏ \uFEFF\uFEFF"
+    translation: the guided-ones
+    transliteration: l-muh'tadīna
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And thus do We explain the Ayat in detail, that the way of the criminals, may become manifest (55)Say: "I have been forbidden to worship those whom you invoke (worship) besides Allah." Say: "I will not follow your vain desires. In the verses cited above, the answer to disbelievers who were demanding that the Divine punishment should come to them posthaste was given in: وَهُوَ خَيْرُ‌ الْفَاصِلِينَ (He is the best decision-maker) while the mention of the perfect power of Almighty Allah was made in: وَاللَّـهُ أَعْلَمُ بِالظَّالِمِينَ (Allah knows the unjust best).
+
+## Tafsir Ibn Kathir
+
+And thus do We explain the Ayat in detail, that the way of the criminals, may become manifest (55)Say: "I have been forbidden to worship those whom you invoke (worship) besides Allah." Say: "I will not follow your vain desires. If I did, I would go astray, and I would not be one of the rightly guided. (56)Say: "I am on clear proof from my Lord, but you deny it. I do not have what you are hastily seeking (the torment). The decision is only for Allah, He declares the truth, and He is the best of judges. (57)Say: "If I had that which you are asking for impatiently (the torment), the matter would have been settled at once between you and I, but Allah knows best the wrongdoers. (58)And with Him are the keys of the Ghayb (all that is hidden), none knows them but He. And He knows whatever there is on the land and in the sea; not a leaf falls, but he knows it. There is not a grain in the darkness of the earth nor anything fresh or dry, but is written in a Clear Record (59)
+
+The Prophet (ﷺ) Understands What He Conveys; Torment is in Allah's Hands Not the Prophet's
+
+Allah says, just as We mentioned the clear signs that testify and direct to the path of guidance, all the while chastising useless arguments and defiance,
+
+كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ
+
+(And thus do We explain the Ayat in detail,) that is, whatever responsible adults need explained to them, in the affairs of life and religion,
+
+وَلِتَسْتَبِينَ سَبِيلُ الْمُجْرِمِينَ
+
+(That the way of the criminals may become manifest.) so that the path of the criminals who defy the Prophets is apparent and clear. This Ayah was also said to mean, so that you, O Muhammad ﷺ, are aware of the path of the criminals. Allah's statement,
+
+قُلْ إِنِّي عَلَىٰ بَيِّنَةٍ مِّن رَّبِّي
+
+(Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
+
+وَكَذَّبْتُم بِهِ
+
+(but you deny it.) meaning, but you disbelieve in the truth that came to me from Allah.
+
+مَا عِندِي مَا تَسْتَعْجِلُونَ بِهِ
+
+(I do not have what you are hastily seeking) meaning, the torment,
+
+إِنِ الْحُكْمُ إِلَّا لِلَّهِ
+
+(The decision is only for Allah,) for the ruling of this is with Allah. If He wills, He will punish you soon in response to your wish! If He wills, He will give you respite, out of His great wisdom. This is why Allah said,
+
+يَقُصُّ الْحَقَّ وَهُوَ خَيْرُ الْفَاصِلِينَ
+
+(He declares the truth, and He is the best of judges.) and the best in reckoning between His servants. Allah's statement,
+
+قُل لَّوْ أَنَّ عِندِي مَا تَسْتَعْجِلُونَ بِهِ لَقُضِيَ الْأَمْرُ بَيْنِي وَبَيْنَكُمْ
+
+(Say: "If I had that which you are asking for impatiently (the torment), the matter would have been settled at once between you and I,") means, if I have what you ask for, I will surely send down what you deserve of it,
+
+وَاللَّهُ أَعْلَمُ بِالظَّالِمِينَ
+
+(but Allah knows best the wrongdoers)
+
+Someone might ask about the meaning of this Ayah compared to the Hadith in the Two Sahihs, from 'A'ishah, may Allah be pleased with her, that she said to the Messenger, "O Allah's Messenger ﷺ! Have you encountered a day harder than the day (of the battle) of Uhud?" The Prophet ﷺ replied,
+
+لَقَدْ لَقِيتُ مِنْ قَوْمِكِ، وَكَانَ أَشَدَّ مَا لَقِيتُ مِنْهُمْ يَوْمَ الْعَقَبَةِ، إِذْ عَرَضْتُ نَفْسِي عَلَى ابْنِ عَبْدِ يَالِيلَ بْنِ عَبْدِ كُلَالٍ، فَلَمْ يُجِبْنِي إِلَى مَا أَرَدْتُ، فَانْطَلَقْتُ وَأَنَا مَهْمُومٌ عَلَى وَجْهِي، فَلَمْ أَسْتَفِقْ إِلَّا بِقَرْنِ الثَّعَالِبِ، فَرَفَعْتُ رَأْسِي، فَإِذَا أَنَا بِسَحَابَةٍ قَدْ ظَلَّلَتْنِي، فَنَظَرْتُ فَإِذَا فِيهَا جِبْرِيلُ عَلَيْهِ السَّلَامُ، فَنَادَانِي فَقَالَ: إِنَّ الله قَدْ سَمِعَ قَوْلَ قَوْمِكَ لَكَ، وَمَا رَدُّوا عَلَيْكَ، وَقَدْ بَعَثَ إِلَيْكَ مَلَكَ الْجِبَالِ، لِتَأْمُرَهُ بِمَا شِئْتَ فِيهِمْ، قَالَ: فَنَادَانِي مَلَكُ الْجِبَالِ وَسَلَّمَ عَلَيَّ، ثُمَّ قَالَ: يَا مُحَمَّدُ! إِنَّ اللهَ قَدْ سَمِعَ قَوْلَ قَوْمِكَ لَكَ، وَقَدْ بَعَثَنِي رَبُّكَ إِلَيْكَ، لِتَأْمُرَنِي بِأَمْرِكَ فِيمَا شِئْتَ، إِنْ شِئْتَ أَطْبَقْتُ عَلَيْهِمُ الْأَخْشَبَيْن
+
+فَقَالَ رَسُولُ اللهِ صلّى الله عليه وسلّم:
+
+بَلْ أَرْجُو أَنْ يُخْرِجَ اللهُ مِنْ أَصْلَابِهِمْ، مَنْ يَعْبُدُ اللهَ لَا يُشْرِكُ بِهِ شَيْئًا
+
+(Your people have troubled me alot and the worst trouble was on the day of 'Aqabah when I presented myself to Ibn 'Abd Yalil bin 'Abd Kulal, who did not respond to my call. So I departed, overwhelmed with severe sorrow, proceeded on and could not relax until I found myself at Qarn Ath-Tha'alib where I raised my head towards the sky to see a cloud unexpectedly shading me. I looked up and saw Jibril in it and he called me saying, 'Indeed Allah has heard what you said to the people and what they have responded to you. Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad! verily, Allah has heard how your people responded to you and He has sent me to you so that you could order me to do what you wish. If you like, I will let Al-Akhshabayn (two mountains to the north and south of Makkah) fall on them.' The Prophet ﷺ said, No, but I hope that Allah will let them generate offspring who will worship Allah Alone, and will worship none besides Him.)
+
+This is the wording of Muslim. Tormenting the disbelievers of Quraysh was offered to the Prophet ﷺ, but he chose patience and asked Allah for respite for them, so that Allah might let them generate offspring who will not associate anything with Him in worship. Therefore, how can we combine the meaning of this Hadith and the honorable Ayah,
+
+قُل لَّوْ أَنَّ عِندِي مَا تَسْتَعْجِلُونَ بِهِ لَقُضِيَ الْأَمْرُ بَيْنِي وَبَيْنَكُمْ وَاللَّهُ أَعْلَمُ بِالظَّالِمِينَ
+
+(Say: "If I had that which you are asking for impatiently (the torment), the matter would have been settled at once between you and I, but Allah knows best the wrongdoers.")
+
+The answer to this question is, Allah knows the best, that the Ayah states that if the punishment that they asked for was in the Prophet's hand at the time, he would have sent it on them as they asked. As for the Hadith, the disbelievers did not ask the Prophet ﷺ to send the torment down on them. Rather, the angel responsible for the mountains offered him the choice to let the two mountains to the north and south of Makkah close in on the disbelievers and crush them. The Prophet ﷺ did not wish that and asked for respite out of compassion for them.
+
+Only Allah Knows the Unseen
+
+Allah said next,
+
+وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ
+
+(And with Him are the keys of the Ghayb (all that is hidden), none knows them but He.)
+
+Al-Bukhari recorded that Salim bin 'Abdullah said that his father said that the Messenger of Allah ﷺ said,
+
+مَفَاتِيحُ الْغَيْبِ خَمْسٌ لَا يَعْلَمُهُنَّ إِلَّا اللهُ
+
+(The keys of the Unseen are five and none except Allah knows them:
+
+إِنَّ اللَّهَ عِندَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ وَيَعْلَمُ مَا فِي الْأَرْحَامِ وَمَا تَدْرِي نَفْسٌ مَّاذَا تَكْسِبُ غَدًا وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
+
+(Verily, Allah! With Him (Alone) is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs. No person knows what he will earn tomorrow, and no person knows in what land he will die. Verily, Allah is All-Knower, All-Aware)") [31:34]. Allah's statement,
+
+وَيَعْلَمُ مَا فِي الْبَرِّ وَالْبَحْرِ
+
+(And He knows whatever there is on the land and in the sea;) means, Allah's honored knowledge encompasses everything, including the creatures living in the sea and on land, and none of it, not even the weight of an atom on earth or in heaven, ever escapes His knowledge. Allah's statement,
+
+وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا
+
+(not a leaf falls, but He knows it.) means, He knows the movements of everything including inanimate things. Therefore, what about His knowledge of the living creatures, especially, those whom the Divine laws have been imposed upon such as mankind and the Jinns? In another Ayah, Allah said;
+
+يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ
+
+(Allah knows the fraud of the eyes, and all that the breasts conceal.)[40:19]
+
+## Maarif ul Quran
+
+The Linkage of Verses
+
+In the verses cited above, the answer to disbelievers who were demanding that the Divine punishment should come to them posthaste was given in: وَهُوَ خَيْرُ‌ الْفَاصِلِينَ (He is the best decision-maker) while the mention of the perfect power of Almighty Allah was made in: وَاللَّـهُ أَعْلَمُ بِالظَّالِمِينَ (Allah knows the unjust best). Next from here, there is a description of the encompassment of the Knowledge and Power of Allah Ta` ala on all conceivable data and destiny.
+
+## Personal Reflections

@@ -1,0 +1,275 @@
+---
+arabic_ayat: وَاَنَّ هٰذَا صِرَاطِىۡ مُسۡتَقِيۡمًا فَاتَّبِعُوۡهُ​ ۚ وَلَا تَتَّبِعُوۡا
+  السُّبُلَ فَتَفَرَّقَ بِكُمۡ عَنۡ سَبِيۡلِهٖ​ ؕ ذٰ لِكُمۡ وَصّٰٮكُمۡ بِهٖ لَعَلَّكُمۡ
+  تَتَّقُوۡنَ‏
+sentence_translation: Indeed, that is My Path—perfectly straight. So follow it and
+  do not follow other ways, for they will lead you away from His Way. This is what
+  He has commanded you, so perhaps you will be conscious ˹of Allah˺.”
+word_by_word:
+  1:
+    arabic: وَاَنَّ
+    translation: And that
+    transliteration: wa-anna
+  2:
+    arabic: هٰذَا
+    translation: this
+    transliteration: hādhā
+  3:
+    arabic: صِرَاطِىۡ
+    translation: (is) My path
+    transliteration: ṣirāṭī
+  4:
+    arabic: مُسۡتَقِيۡمًا
+    translation: straight
+    transliteration: mus'taqīman
+  5:
+    arabic: فَاتَّبِعُوۡهُ​ ۚ
+    translation: so follow it
+    transliteration: fa-ittabiʿūhu
+  6:
+    arabic: وَلَا
+    translation: And (do) not
+    transliteration: walā
+  7:
+    arabic: تَتَّبِعُوۡا
+    translation: follow
+    transliteration: tattabiʿū
+  8:
+    arabic: السُّبُلَ
+    translation: the (other) paths
+    transliteration: l-subula
+  9:
+    arabic: فَتَفَرَّقَ
+    translation: then they will separate
+    transliteration: fatafarraqa
+  10:
+    arabic: بِكُمۡ
+    translation: you
+    transliteration: bikum
+  11:
+    arabic: عَنۡ
+    translation: from
+    transliteration: ʿan
+  12:
+    arabic: سَبِيۡلِهٖ​ ؕ
+    translation: His path
+    transliteration: sabīlihi
+  13:
+    arabic: ذٰ لِكُمۡ
+    translation: That
+    transliteration: dhālikum
+  14:
+    arabic: وَصّٰٮكُمۡ
+    translation: (He) has enjoined on you
+    transliteration: waṣṣākum
+  15:
+    arabic: بِهٖ
+    translation: '[with it]'
+    transliteration: bihi
+  16:
+    arabic: لَعَلَّكُمۡ
+    translation: so that you may
+    transliteration: laʿallakum
+  17:
+    arabic: تَتَّقُوۡنَ‏
+    translation: become righteous
+    transliteration: tattaqūna
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 153, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+"And verily, this is My straight path, so follow it, and follow not (other) paths, for they will separate you away from His path. The Sixth Prohibition : Eating up the Property of the Orphan by False Means About the unlawfulness of devouring the property of the orphan by false means - the sixth command given in the second verse (152) - it was said: وَلَا تَقْرَ‌بُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ (And do not approach the property of the orphan except with the best possible conduct, until he reaches maturity).
+
+## Tafsir Ibn Kathir
+
+"And verily, this is My straight path, so follow it, and follow not (other) paths, for they will separate you away from His path. This He has ordained for you that you may have Taqwa. (153)
+
+The Command to Follow Allah's Straight Path and to Avoid All Other Path and to Avoid All Other paths
+
+Ali bin Abi Talhah reported that Ibn 'Abbas commented on Allah's statements,
+
+وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ
+
+(And follow not (other) paths, for they will separate you away from His path.), and,
+
+أَنْ أَقِيمُوا الدِّينَ وَلَا تَتَفَرَّقُوا فِيهِ
+
+((Saying) that you should establish religion and make no divisions in it.)[42:13], and similar Ayat in the Qur'an, "Allah commanded the believers to adhere to the Jama'ah and forbade them from causing divisions and disputes. He informed them that those before them were destroyed because of divisions and disputes in the religion of Allah." Similar was said by Mujahid and several others.
+
+Imam Ahmad bin Hanbal recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ drew a line with his hand (in the sand) and said,
+
+هَذَا سَبِيلُ اللهِ مُسْتَقِيمًا
+
+(This is Allah's path, leading straight.) He then drew lines to the right and left of that line and said,
+
+هَذِهِ السُّبُلُ لَيْسَ مِنْهَا سَبِيلٌ إِلَّا عَلَيْهِ شَيْطَانٌ يَدْعُو إِلَيْهِ
+
+(These are the other paths, on each path there is a devil who calls to it.) He then recited,
+
+وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ
+
+(And verily, this is My straight path, so follow it, and follow not (other) paths, for they will separate you away from His path.)[6:153]"
+
+Al-Hakim also recorded this Hadith and said; "Its chain is Sahih, but they did not record it."
+
+Imam Ahmad and 'Abd bin Humayd recorded (and this is the wording of Ahmad) that Jabir said; "We were sitting with the Prophet ﷺ when he drew a line in front of him and said,
+
+هَذَا سَبِيلُ اللهِ
+
+(This is Allah's path.) He also drew two lines to its right and two lines to its left and said,
+
+هَذِهِ سُبُلُ الشَّيْطَانِ
+
+(These are the paths of Shaytan.) He then placed his hand on the middle path and recited this Ayah;
+
+وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَتَّقُونَ
+
+And verily, this is My straight path, so follow it, and follow not (other) paths, for they will separate you away from His path. This He has ordained for you that you may have Taqwa.)
+
+Imam Ahmad, Ibn Majah, in the Book of the Sunnah in his Sunan, and Al-Bazzar collected this Hadith. Ibn Jarir recorded that a man asked Ibn Mas'ud, "What is As-Sirat Al-Mustaqim (the straight path)?" Ibn Mas'ud replied, "Muhammad ﷺ left us at its lower end and its other end is in Paradise. To the right of this Path are other paths, and to the left of it are other paths, and there are men (on these paths) calling those who pass by them. Whoever goes on the other paths will end up in the Fire. Whoever takes the Straight Path, will end up in Paradise." Ibn Mas'ud then recited the Ayah;
+
+وَأَنَّ هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِ
+
+(And verily, this is My straight path, so follow it, and follow not (other) paths, for they will separate you away from His path.)'"
+
+Imam Ahmad recorded that, An-Nawwas bin Sam'an said that the Messenger of Allah ﷺ said,
+
+ضَرَبَ اللهُ مَثَلًا صِرَاطًا مُسْتَقِيمًا، وَعَنْ جَنْبَي الصِّرَاطِ سُورَانِ فِيهِمَا أَبْوَابٌ مُفَتَّحَةٌ، وَعَلَى الْأَبْوَابِ سُتُورٌ مُرْخَاةٌ وَعَلَى بَابِ الصِّرَاطِ دَاعٍ يَدْعُو: يَا أَيَّهَا النَّاسُ هَلُمُّوا ادْخُلُوا الصِّرَاطَ الْمُسْتَقِيمَ جَمِيعًا وَلَا تَفَرَّقُوا وَدَاعٍ يَدْعُو مِنْ فَوْقِ الصِّرَاطِ فَإِذَا أَرَادَ الِإنْسَانُ أَنْ يَفْتَحَ شَيْئًا مِنْ تِلْكَ الْأَبْوَابِ قَالَ وَيْحَكَ لَا تَفْتَحْهُ فَإِنَّكَ إِنْ فَتَحْتَهُ تَلِجْهُ فَالصِّرَاطُ الإِسْلَامُ وَالسُّورَانِ حُدُودُ اللهِ وَالْأَبْوَابُ الْمُفَتَّحَةُ مَحَارِمُ اللهِ وَذَلِكَ الدَّاعِي عَلَى رَأْسِ الصِّرَاطِ كِتَابُ اللهِ، وَالدَّاعِي مِنْ فَوْقِ الصِّرَاطِ وَاعِظُ اللهِ فِي قَلْبِ كُلِّ مُسْلِمٍ
+
+(Allah has given a parable of the straight path, and on the two sides of this path, there are two walls containing door ways. On these door ways, there are curtains that are lowered down. on the gate of this path there is a caller heralding, 'O people! come and enter the straight path all together and do not divide. ' There is also another caller that heralds from above the path, who says when a person wants to remove the curtain on any of these doors, 'Woe to you! Do not open this door, for if you open it, you will enter it. The (straight) path is Islam, the two walls are Allah's set limits, the open doors lead to Allah's prohibitions, the caller on the gate of the path is Allah's Book (the Qur'an), while the caller from above the path is Allah's admonition in the heart of every Muslim.) At-Tirmidhi and An-Nasa'i also recorded this Hadith, and At-Tirmidhi said, "Hasan Gharib." Allah's statement,
+
+فَاتَّبِعُوهُ وَلاَ تَتَّبِعُواْ السُّبُلَ
+
+(so follow it, and follow not (other) paths...) describes Allah's path in the singular sense, because truth is one. Allah describes the other paths in the plural, because they are many and are divided. Allah said in another Ayah,
+
+اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ أُولَٰئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ
+
+(Allah is the Wali (Protector or Guardian) of those who believe. He brings them out from darknesses into light. But as for those who disbelieve, their supporters are Taghut (false deities), they bring them out from light into darknesses. Those are the dwellers of the Fire, and they will abide therein forever.)[2:257]
+
+## Maarif ul Quran
+
+The Sixth Prohibition : Eating up the Property of the Orphan by False Means
+
+About the unlawfulness of devouring the property of the orphan by false means - the sixth command given in the second verse (152) - it was said: وَلَا تَقْرَ‌بُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ (And do not approach the property of the orphan except with the best possible conduct, until he reaches maturity). The address here is to the guardians of orphaned children who are minors. The guardians have been told that they should treat the property of orphans as if it was fire. They should not go near it to take from it or eat of it unlawfully. What is said here appears in another verse of the Qur'an in the same words: وَلَا تَقْرَ‌بُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ (17:34) and also in Surah Al-Nis-a' (4:10): 'Surely, those who eat up the property of the orphans, unjustly, they only eat fire into their bellies, and they shall soon enter a blazing hell.)
+
+However, protecting the property of the orphan and investing it in a permissible business where the danger of loss does not customarily exist is fair enough, even necessary. Guardians of the orphaned children should do so.
+
+After that, specified was the limit until when the property of the orphan was to be guarded: حَتَّىٰ يَبْلُغَ أَشُدَّهُ (until he reaches maturity), that is, when the orphan reaches maturity, the responsibility of the guardian ends and his property should be entrusted to him.
+
+The word: أَشُدَّهُ (ashudd) really means strength. According to the majority of ` Ulama, it begins with puberty. When signs of puberty appear in a child, or when he reaches the age of full fifteen years, that will be the time, he will be considered legally mature.
+
+Still, after his having attained physical maturity, it will be seen whether or not he has acquired the ability to protect his property and spend out of it correctly and satisfactorily. If this ability is found in him, his property should be entrusted to him. If he does not seem to have that ability in him at that time, it is the responsibility of the guardian to keep protecting his property until the age of twenty five years. At any time during this period, whenever he picks up the ability to protect his property and manage his living through business or vocation, his property can be handed over to him. And if - even upto the age of twenty five years, such ability does not show up in him - then, according to Imam Abu Hanifah (رح) ، his property should, after all, be given to him, but this would be subject to the condition that this lack of ability on his part should have not reached the limits of insanity. And, according to some Imams, his property should not be entrusted in his hands even then, instead of which, the Qadi or Judge of an Islamic Court should entrust the responsibility of protecting his property to a trustworthy and responsible person.
+
+Once again, what has been said here is based on a statement of the Holy Qur'an appearing in another verse where it was said: فَإِنْ آنَسْتُم مِّنْهُمْ رُ‌شْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ (... if you perceive in them proper understanding, hand over to them their property - 4:6). It means: When the orphaned children become mature and you see in them the ability to protect their property by themselves and invest it gainfully, entrust the property to them. This verse has told us that becoming mature is not sufficient as justification for entrusting the property of the orphan to him, instead, it is conditioned by the ability to protect property and to in-vest it gainfully.
+
+The Seventh Prohibition : Weighing and Measuring Short
+
+The seventh command in this verse is to give full weight and full measure in all fairness. The word: بِالقِسطِ (bi al-qist), translated as ` in all fairness,' applies to a transaction in which the giver does not decrease anything from what is due to be received by the other party - and the receiver does not take anything more than what is due to come to him from the Over (Ruh al-Ma'ani).
+
+Weighing and measuring short in common give and take of things has been sternly forbidden by the Qur'an. Severe warning to those who do that appears in Surah Al-Mutaffifin (83).
+
+Commentator of the Qur'an, Sayyidna ` Abdullah ibn ` Abbas ؓ reports that, addressing those who weigh and measure in business, the Holy Prophet ﷺ said: Weighing and measuring is a line of duty being unfair in which has caused many communities before you to be destroyed by Divine punishment (so, be fully cautious in this matter). (Tafsir ibn Kathir)
+
+Officials and Workers who fall short in Set Duties come under this Qur'anic Ruling
+
+It should be borne in mind that weighing and measuring short called تَطفِیفُ "Tatfif' in the Qur'an is not simply restricted to weighing short and measuring less. In fact, falling short in giving the other person his right is also included under تَطفِیفُ ` Tatfif as illusrated by a report from Sayyidna ` Umar ؓ appearing in the Mu'atta' of Imam Malik (رح) . When Sayyidna ` Umar ؓ noticed someone making the required movements of his Salah short, he said: 'You made تَطفِیفُ ` Tatfif,' meaning thereby that he did not fulfill the right of Salah as it was due and obligatory. After having reported this incident, Imam Malik says: لِکُلِّ شَیءً وَفَاُء وَتَطفِیفُ that is, giving the full measure due, and giving short of it, applies to everything and not in weights and measures only.
+
+This tells us that an employee who does not discharge his duties as required, steals time or delays work; and a wage earner who falls short in delivering the service agreed to; and for that matter anyone - a minister of government or his peon, an assistant in an office, or a scholar or religious worker - shall all be included under the Qur'anic term, "Al-Mutaffifin," if they fall short in fulfilling the right of others due against them.
+
+After that, it was said: لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا (We do not obligate anyone beyond his capacity). In some narrations of Hadith, it has been explained as a hint of exception, that is, a person who does everything possible within his control to give full consideration to the need of giving full weight and measure as due and, in case, some insignificant increase or decrease takes place inadvertently, then, that would stand excused because that is beyond his power and control.
+
+According to Tafsir Mazhari, the addition of this sentence in between indicates that it is better to give a little more while fulfilling what is due so that there remains no doubt of being short in giving - as it was when the Holy Prophet ﷺ on a similar occasion, ordered a person weighing: زن وَ اَرجِح (zin wa arjih) that is, ` weigh and be liberal' (literally, weigh and tilt the balance in favour of the receiver). (Ahmad, Abu Dawud, and Tirmidhi following a narration of Sayyidna Suwayd ibn Qaiys)
+
+And this was the usual practice of the Holy Prophet ﷺ himself. Whenever he had a right of someone due against him, and when came the time for him to pay it back, he liked to pay more than what the right of the other person was. Then, there is a Hadith in Al-Bukhari based on a narration by Sayyidna Jabir ؓ in which the Holy Prophet ﷺ is reported to have said:
+
+` May the mercy of Allah Ta` ala be on the person who is lenient when selling by giving more than the due; and is also lenient by not taking more than the due - instead, accepts in good grace, even if it happens to be somewhat short of it.'
+
+But, this is an ethical rule - that one gives more when giving and, accepts less when taking, avoids a quarrel. There is nothing legal involved here which would compel one to do so. It is to point out to this very aspect that it was said in the Qur'an that "We do not obligate anyone beyond his capacity." In other words, giving the other person more than it was his due; and to be satisfied with any decrease in what was one's own due, was not a mandatory command because it is not easy for common people to do so.
+
+The Eighth Commandment :
+
+BE JUST - Doing Otherwise is حَرَام haram
+
+The verse says: وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْ‌بَىٰ (and when you speak, be just, even if there be a relative). It will be noticed that nothing particular has been mentioned at this place. Therefore, the majority of commentators hold the view that the statement includes everything said - whether it is a witness given in some case, or a judgment from a judge, or an order from a ruling official, or whatever different kinds of things said to each other. About all such things, the command of the Qur'an is that one should abide by the criterion of truth and justice when saying what one has to say - everywhere, on all occasions and under all conditions. As for the sense of abiding by truth and justice when appearing as a witness in some case, it is fairly obvious - that is, the witness should tell what he knows for certain - frankly and clearly - without adding or subtracting one word on his own, or injecting his guess or conjecture in it, or worrying about whom it would benefit and whom it would hurt. Similar is the situation of a judge who has to decide a case. He will examine witnesses according to the Islamic legal norms, take what they offer and look at them in conjunction with what stands proved through other kinds of approaches and, then, give his decision. Be it a witness, or be it a judgment, nothing should stop one from saying what is right, true and just - not friendship and love, not enmity and hostility, nothing. For this reason, added here was the sen-tence: وَلَوْ كَانَ ذَا قُرْ‌بَىٰ (even if there be a relative). It means: Even if the person, in whose case you are appearing as a witness, or a judge, be a relative of yours - even then, you should not let truth and justice slip out of your hands, neither in witness, nor in the judgment.
+
+The purpose in this verse is to stop false witness and unjust judgement. About false witness, Abu Dawud and Ibn Majah have reported the following saying of the Holy Prophet ﷺ
+
+` False witness is equal to Shirk'. He said it three times and, then, recited this verse:
+
+فَاجْتَنِبُوا الرِّ‌جْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ‌ - حُنَفَاءَ لِلَّـهِ غَيْرَ‌ مُشْرِ‌كِينَ بِهِ
+
+So, avoid the filth of idols, and avoid saying the false, being upright for Allah, without being associators (of partners) with Him - 22:30.
+
+Similarly, about deciding against truth and justice, there is a saying of the Holy Prophet ﷺ which has been reported by Abu Dawud on the authority of a narration by Sayyidna Buraydah ibn Husayb رضی اللہ تعالیٰ عنہ . It says:
+
+` There are three kinds of Qadis (judges): One of them would go to Jannah while the other two, to Jahannam. The one who arrived at the truth by investigating into the case according to the Shari` ah, then gave his decision in the light of the truth, he belongs in Jannah - and he who investigated and did find out the truth, but knowingly gave his judgement against it, his place is in Hell. And similarly, a Qadi who did not know, or fell short on investigation and deliberation, and gave a decision in that state of ignorance, he too will go to Jahannam.'
+
+The same subject has appeared in other verses of the Holy Qur'an more explicitly and emphatically, enjoining that there should be no trace or effect of friendship, kinship or any other relation based on mutual interest - or enmity and hostility - in witness, or judgment. For example, in Surah An-Nisa,' it was said:
+
+وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَ‌بِي
+
+( O those who believe, be upholder of justice - witnesses for Allah) 'even though against yourselves or the parents and the relatives.' - 4:135.
+
+In the same vein, there is another command given in Surah al-Ma'idah which says:
+
+وَلَا يَجْرِ‌مَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا
+
+(0 those who believe, be steadfast for Allah as witnesses for justice). 'And malice against a people should not bid you to not doing justice' - 5:8.
+
+It means that enmity with a people should not make you willing to witness or to judge against the dictate of justice. Finally, as for up-holding truth and justice in matters other than witness and judgment, such as, mutual conversations referred to earlier, the best policy is not to lie, not to speak ill of anyone behind his back, not to say anything which would hurt others, or cause physical or financial loss to anyone.
+
+The Ninth Command: To Fulfill the Covenant of Allah - i.e., Breach of Pledge is Haram
+
+The ninth command given in this verse is to fulfill the covenant of Allah and avoid breaking the solemn pledge given. It was said: وَ بِعَھدِ اللہِ اَوفوا (and fulfill the covenant of Allah). The 'covenant of Allah' could mean the pledge that was taken from every human being at the begin ning of life when all human beings were asked: الَستُ برَبِّکُمَ ('Am I not your Rabb, your Lord?' ). All of them said: بَلٰی ('Bala': yes), that is, 'there is no doubt that You are our Rabb, our Lord.' This pledge demands but that we do not disobey any command given by our Lord, our creator, cherisher, nurturer and caretaker. Consider everything He has asked to do at the level of the highest possible priority and take it to be the most important of all that we do. And as for things He has asked us not to do, we should not go even near them - even stay away from falling in doubts about them. Thus, the essence of this covenant is that we should obey Allah Ta'ala totally and perfectly.
+
+It is also possible that 'covenant' here means the particular pledges mentioned in the Qur'an on different occasions - out of which are these verses the Tafsir of which is before you (and in which ten injunctions have been described emphatically).
+
+` Ulama say that, in this pledge, included there is the fulfilling of vows (nadhr or mannat), a way through which one gives a pledge to Allah Ta` ala that he or she would do something. In another verse of the Holy Qur'an, this has also been mentioned more explicity by saying:
+
+يُوفُونَ بِالنَّذْرِ‌ that is, ` the righteous servants of Allah fulfill their nadhr (vow).
+
+In short, it can be said that this command is, though ninth in the series, but in terms of its reality, it encompasses all imperatives and prohibitions of Islamic legal injunctions.
+
+It will be noticed that, at the end of this second verse (152) too, there appears a sentence of persuasion, that is: ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَذَكَّرُ‌ونَ (This is what He has emphasized for you, so that you may observe the advice).
+
+Then comes the third verse (153) where the tenth injunction has been described as follows: وَأَنَّ هَـٰذَا صِرَ‌اطِي مُسْتَقِيمًا فَاتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّ‌قَ بِكُمْ عَن سَبِيلِهِ (And: This is My path [ headed ] straight. So, follow it, and do not follow the [ other ] ways, lest it should take you away from His way).
+
+In this verse, the word: ھٰذا (hadha: this) denotes the religion of Is-lam, or the Qur'an. Also possible is that the reference may be to Surah Al-An'am itself because, here too, the full range of the fundamentals of Islam - Tauhid, Risalah and principles governing injunctions of the Shari’ ah - find mention. As for the word: مُستَقیَماً (mustaqiman), it is a distinctive adjunct of this path of the religion of Islam and which has been used as an adverb in the syntactical arrangement to indicate that being مُستَقِیم 'mustaqim' (straight) is an integral attribute of Islam as a religion. After that, it was said: فَاتَّبِعُوہُ (So, follow it). It means: 'when you have come to know that the religion of Islam is My path, and that alone is the straight path, you have before you the only path headed towards the desired destination, therefore, this is the path you shall follow.
+
+After that, it was said: وَلَا تَتَّبِعُوا السُّبُلَ فَتَفَرَّ‌قَ بِكُمْ عَن سَبِيلِهِ (and do not follow the [ other ] ways, lest it should take you away from His way). The word: سُبُل (subul) is the plural form of sabil which also means ` way.' The sense of the statement is that the real and true way of reaching Allah Ta` ala, and achieving His pleasure (rids' ) is just one. But, people in this world have carved out different ways on their own depending on what they think it is, or should be. The advice being given is: You do not follow any of these ways because these ways are really not the ways to reach Allah and therefore, whoever walks these ways shall go astray far away from the path of Allah.
+
+It is said in Tafsir Mazhari that the purpose of sending the Qur'an and the Prophet of Islam ﷺ is to make people subordinate their ideas, intentions and proposals to the Qur'an and Sunnah and cast their lives into the blessed model offered by them. But, what is happening is that people are bent on molding the Qur'an and Sunnah into the frame of their ideas and proposals. As a result, an Ayah of the Qur'an, or a Hadith of the Prophet ﷺ which does not meet their fancy, or is found to be contrary to what they would like it to be, would become the target of their so-called interpretation until it fits into the mold of their desires. This is the starting point from where emerge other ways which lead people astray - ways which throw them in doubts and innovations in established religion (shubhat and bid` at). These are the ways from which people have been instructed to stay away in this verse.
+
+Based on a narration from Sayyidna ` Abdullah ibn Mas'ud ؓ there is a report in Musnad of Darimi which says: ` Once the Holy Prophet ﷺٍ drew a vertical line and said: "This is the path of Allah." Then, he drew other lines on its right and left and said: "These are سُبُل subul" (that is, the ways following which has been prohibited in this verse) and, then, he said: "Set upon every one of these ways there is a Shaytan who, after enticing people away from the straight path, welcomes them to this" (the ways under the charge of Shaytan, as shown in the drawing). After that, as proof, he recited this verse (153).'
+
+Then, once again towards the end of the verse, it was said: ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَتَّقُون (That is what He has emphasized for you, so that you may be God-fearing).
+
+This completes the Tafsir of these three verses and the ten prohibitions delineated therein. Finally, have a look at the significant style the Holy Qur'an employs when described at this place were ten injunctions. They do not appear here as ten Articles of Law, something modern law books would love to do. Instead of doing something like that, first it describes five injunctions, then says: ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَعقِلُون (That is what He has emphasized for you, so that you may understand). Then, after having described four more injunctions, it repeats the same sentence with the difference that it says: تَذَكَّرُ‌ونَ (observe the advice) in place of: (understand) at the end. And after that, described there is the last injunction in a separate Ayah (verse), and once again, repeated there is the same core sentence with the difference that said here is: تَتَّقُون (be God-fearing) in place of: تَذَكَّرُ‌ونَ (observe the advice) at the end.
+
+There are many elements of wisdom in this subtle style of the Holy Qur'an:
+
+First of all, the Holy Qur'an is not simply a coercive law like the usual laws of this world. In fact, it is a law which is genuinely generous and patronizing in the essential sense. That is why, with every law, suggestions are given which would make them come easy. Then, knowing Allah Ta` ala and having the concern for 'Akhirah are the most effective enforcers of law, in public or in private, and are the only solution human beings have in their problems with law. Therefore, at the end of all the three verses, introduced there are words which would steer human orientation away from the material world and fix it to-wards Allah. Ta` ala and the 'Akhirah.
+
+There are five injunctions described in the first verse (151), that is: (1) To avoid Shirk, (2) to avoid being disobedient to parents, (3) To avoid killing children, (4) To avoid shameful acts, and (5) to avoid killing unjustly. What is used at their end is the word: تَعقِلُون (understand) because the people of Jahiliyyah just did not think that there was anything wrong with them. Therefore, it was suggested that they would do well by forsaking their blind following of ancestral customs and their own whims, if they used a little reason.
+
+The second verse (152) describes four injunctions, that is: (1) Not to eat up the property of the orphan by false means, (2) not to weigh or measure short, (3) to be true and just in speech, and (4) to fulfill the covenant of Allah.
+
+These are things, even these ignorant ones knew to be necessary - some of them would even act likewise. But, mostly these were not heeded to. The only remedy of heedlessness is what is called: تَذکِرَہ (tazkirah: remembrance) that is, the remembrance of Allah and 'Akhirah. Therefore, at the end of this verse, the word used was: تَذَكَّرُ‌ونَ (observe the advice).
+
+The third verse (153) contains the instruction to follow the straight path and to avoid doing the contrary by following other ways. Since, there is nothing more authentic but the fear of Allah which would tear a human being away from the clutches of his misguiding thoughts and desires, therefore, at the end of it, said there was: لَعَلَّكُمْ تَتَّقُون ' (so that you may be God-fearing).
+
+Finally, at all these three places, the word used was: وَصِیَّہ ; (wasiyyah) which is an order to do something. Therefore, as cited earlier, some noble sahabah ؓ said: Whoever wishes to see the sealed will and testament of the Holy Prophet ﷺ let him recite these three verses.
+
+## Personal Reflections

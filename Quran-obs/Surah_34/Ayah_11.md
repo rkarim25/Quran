@@ -1,0 +1,152 @@
+---
+arabic_ayat: اَنِ اعۡمَلۡ سٰبِغٰتٍ وَّقَدِّرۡ فِى السَّرۡدِ وَاعۡمَلُوۡا صَالِحًـا
+  ؕ اِنِّىۡ بِمَا تَعۡمَلُوۡنَ بَصِيۡرٌ‏
+sentence_translation: 'instructing: “Make full-length armour, ˹perfectly˺ balancing
+  the links. And work righteousness ˹O family of David!˺. Indeed, I am All-Seeing
+  of what you do.”'
+word_by_word:
+  1:
+    arabic: اَنِ
+    translation: That
+    transliteration: ani
+  2:
+    arabic: اعۡمَلۡ
+    translation: make
+    transliteration: iʿ'mal
+  3:
+    arabic: سٰبِغٰتٍ
+    translation: full coats of mail
+    transliteration: sābighātin
+  4:
+    arabic: وَّقَدِّرۡ
+    translation: and measure precisely
+    transliteration: waqaddir
+  5:
+    arabic: فِى
+    translation: '[of]'
+    transliteration: fī
+  6:
+    arabic: السَّرۡدِ
+    translation: the links (of armor)
+    transliteration: l-sardi
+  7:
+    arabic: وَاعۡمَلُوۡا
+    translation: and work
+    transliteration: wa-iʿ'malū
+  8:
+    arabic: صَالِحًـا ؕ
+    translation: righteousness
+    transliteration: ṣāliḥan
+  9:
+    arabic: اِنِّىۡ
+    translation: Indeed, I Am
+    transliteration: innī
+  10:
+    arabic: بِمَا
+    translation: of what
+    transliteration: bimā
+  11:
+    arabic: تَعۡمَلُوۡنَ
+    translation: you do
+    transliteration: taʿmalūna
+  12:
+    arabic: بَصِيۡرٌ‏
+    translation: All-Seer
+    transliteration: baṣīrun
+---
+
+## Context
+
+To understand **Sheba** (Saba) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And indeed We bestowed grace on Dawud from Us (saying): "O you mountains! In the last sentence of verse 10 and the first sentence of verse 11, it was said: وَأَلَنَّا لَهُ الْحَدِيدَ أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ‌ فِي السَّرْ‌دِ (And We made the iron soft for him (saying to him) " Make coats of armour, and maintain balance in combining (their) rings,' - 34:10).
+
+## Tafsir Ibn Kathir
+
+And indeed We bestowed grace on Dawud from Us (saying): "O you mountains! Glorify with him! And you birds (also)! And We made the iron soft for him. (10)Saying: "Make you perfect coats of mail, and balance well the rings of chain armor [Sard], and work you (men) righteousness. Truly, I am All-Seer of what you do. (11)
+
+The Favors which Allah bestowed upon Dawud
+
+Here Allah tells us how He blessed His servant and Messenger Dawud (David), peace be upon him, and what He gave him of His great bounty, giving him both prophethood and kingship, and huge numbers of troops. And he blessed him with a mighty voice. Such that when he glorified Allah, the firm, solid, high mountains joined him in glorifying Allah, and the free-roaming birds, who go out in the morning and come back in the evening, stopped for him, and he was able to speak all languages.
+
+In the Sahih it is recorded that the Messenger of Allah ﷺ heard the voice of Abu Musa Al-Ash'ari, may Allah be pleased with him, reciting at night, and he stopped and listened to his recitation, then he said:
+
+لَقَدْ أُوتِيَ هٰذَا مِزْمَارًا مِنْ مَزَامِيرِ آلِ دَاوُدَ
+
+(This man has been given one of the sweet melodious voices of the Prophet Dawud.) Abu 'Uthman An-Nahdi said, "I never heard any cymbal, stringed instrument or chord that was more beautiful than the voice of Abu Musa Al-Ash'ari, may Allah be pleased with him."
+
+أَوِّبِي
+
+(Glorify) means, glorify Allah. This was the view of Ibn 'Abbas, Mujahid and others. The root of this word [Ta'wib] means to repeat or respond, so the mountains and birds were commanded to repeat after him.
+
+وَأَلَنَّا لَهُ الْحَدِيدَ
+
+(And We made the iron soft for him.) Al-Hasan Al-Basri, Qatadah, Al-A'mash and others said, "He did not need to heat it in the fire or beat it with a hammer; he could simply twist it in his hands, like a thread." Allah said:
+
+أَنِ اعْمَلْ سَابِغَاتٍ
+
+(Saying: "Make you perfect coats of mail..."), which means chain mail. Qatadah said, "He was the first person ever to make chain mail; before that, they used to wear plated armor."
+
+وَقَدِّرْ فِي السَّرْدِ
+
+(and balance well the rings of chain armor [Sard],) This is how Allah taught His Prophet Dawud, peace be upon him, to make coats of mail. Mujahid said concerning the Ayah:
+
+وَقَدِّرْ فِي السَّرْدِ
+
+(and balance well the rings of chain armor [Sard],) "Do not make the rivets too loose that the rings (of chain mail) will shake, or make them too tight that they will not be able to move at all, but make it just right." 'Ali bin Abi Talhah reported that 'Ibn 'Abbas said, "Sard refers to a ring of iron." Some of them said, "Chain mail is called Masrud if it is held together with rivets."
+
+وَاعْمَلُوا صَالِحًا ۖ
+
+and work you (men) righteousness. means, with regard to what Allah has given you of blessings.
+
+إِنِّي بِمَا تَعْمَلُونَ بَصِيرٌ
+
+(Truly, I am All-Seer of what you do.) means, watching you and seeing all that you do and say; nothing of that is hidden at all.
+
+## Maarif ul Quran
+
+In the last sentence of verse 10 and the first sentence of verse 11, it was said: وَأَلَنَّا لَهُ الْحَدِيدَ أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ‌ فِي السَّرْ‌دِ (And We made the iron soft for him (saying to him) " Make coats of armour, and maintain balance in combining (their) rings,' - 34:10). This is another miracle that iron was made soft for him. Early tafsir authorities - Hasan Basri, Qatadah, A'mash, and others - said that Allah Ta’ ala had, by way of a miracle, turned iron soft as wax for him. To make something out of it, he needed no fire, or hammer, or any other tools. The part of the statement appearing in verse 11 goes on to state that the iron was made soft for him so that he could easily make coats of mail with iron. In another verse, it has also been mentioned that Allah Ta’ ala had Himself taught him the making of coats of mail: وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَّكُمْ (And We taught him making of armour as dress for you - 21:80). And what appears later in this very verse وَقَدِّرْ‌ فِي السَّرْ‌دِ (and maintain balance in combining (their) rings) also leads to the final stage of training in this craft. The word: قَدِّرْ‌ (qaddir) is derived from: تَقدِیر (taqdir) which means making on a certain measure while the word: سَرد (sard) literally means to weave. The sense thus released is to make a coat of mail in a manner that its links come out balanced and proportionate without one being small and the other being big, so that it turns out strong as well as looks good when seen. This tafsir of: قَدِّرْ‌ فِي السَّرْ‌دِ (and maintain balance in combining (their) rings) has been reported from Sayyidna ` Abdullah Ibn ` Abbas ؓ . (Ibn Kathir)
+
+Special Note
+
+1. This also tells us that the consideration for apparent beauty in man-made things is desirable, since Allah Ta’ ala has given a particular instruction for it.
+
+2. Some early commentators take taqdir in: قَدِّرْ‌ فِي السَّرْ‌دِ (qaddir fi's-sard: and maintain balance in combining (their) rings) to mean that there should be a fixed measure of time devoted to this craft, lest most of the time is consumed in that single pursuit causing disruption in duties of 'ibadah and responsibilities of the office and state. In the light of this tafsir, we come to know that people in areas of industry and labor should also spare some time for ` ibadah and personal enrichment while remaining duly organized as far as the necessary management of time is concerned. (Ruh ul-Ma’ ani)
+
+The merit and grace of inventing, making and producing things
+
+The verse under study proves that making and manufacturing things of need is so significant that Allah Ta’ ala has taken it upon Himself to teach its mores to His great prophets. That Sayyidna Dawud (علیہ السلام) was trained to make coats of mail already stands proved from this very verse. Then, this is how Sayyidna Nuh (علیہ السلام) was inducted into boat building. He was told: وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا : "Build the boat before Us" [ literally, 'with Our Eyes' or 'under Our Eyes ] - 11:37. 'Build before Us' simply means 'build the way We tell you to.' That some other prophets were also taught the making of different things in a similar manner stands proved from some narrations of Hadith. There is a published book with the title of al-tibb al-nabawii attributed to Hadith authority, Hafiz Shamsuddin adh-Dhahabi. It contains a narration to the effect that the making of almost all important and necessary things in human life - such as, house-building, cloth-weaving, tree-planting, food-processing and wheel-based conveyances for transportation etc. - was taught by Allah Ta’ ala to His prophets (علیہم السلام) through the medium of wahy (revelation).
+
+It is a sin to take the labourers as low in rank
+
+In Arabia, different people used to go in different professions. No profession or occupation was considered low or disgraceful and no one was taken to be any better or worse on the basis of work, trade, or occupation, nor would brotherhoods and communities rise solely on the basis of occupation. The promotion of the idea of such communities as based on occupation and the attitude of taking some professions low and mean as such was alien there. This was a product of Hindu India. Having lived there with them, Muslims too were influenced by it.
+
+The wisdom of having Sayyidna Dawud (علیہ السلام) trained into the making of coat of mail
+
+From a narration of the Hadith authority, Hafiz Ibn ` Asakir, it has been reported in Tafsir Ibn Kathir that during the period of his rule, Sayyidna Dawud (علیہ السلام) used to visit bazaars and public places while in disguise and would ask people coming in from different sides as to what they thought about Dawud. Since, justice reigned in the kingdom of Sayyidna Dawud (علیہ السلام) ، people were living a good life, no one had any complaints against the government of the time, therefore, whoever he asked, the addressee would have words of praise for him and express his gratefulness for the prevailing equity and justice.
+
+It was for his education and grooming that Allah Ta’ ala sent an angel in the shape of a man. When Sayyidna Dawud (علیہ السلام) came out on his routine quest for truth, this angel met him. As usual with him, he put the same question to him. The angel said, 'Dawud is a very good man and as compared to everyone, he is doing better for himself and better for his people and subjects too. But, he has one habit which, if it were not there, he would have been perfect.' Sayyidna Dawud (علیہ السلام) asked, 'What habit is that?' The angel said, 'He takes the expenses on himself and his family from the property of Muslims, that is, from the Baytul-Mal (The Public Treasury of a Muslim State).'
+
+Hearing this, Sayyidna Dawud (علیہ السلام) made it a point to immediately turn to Allah subhanahu wa Ta’ ala with self-reproach, lamentation and prayer, saying, 'Teach me to do something for which I have to work with my own hands and support myself and my family with wages from it while working gratis (free, without compensation) to serve Muslims and run their state.' Allah Ta’ ala answered his prayer and taught him the art of making coats of mail and the honor, befitting a prophet, He bestowed on him was that iron was made wax for him so that it became unusually easy for him to earn his sustenance within a short period of time and thus use the rest of his time for ` Ibadah (worship) and obligations of state management.
+
+Ruling
+
+For a Khalifah (Muslim head of an Islamic state) of the time, or a king, or ruler who spends all his time in taking care of state affairs, it is permissible in the Shari’ ah of Islam that he takes his average living expenses from Baytul-Mal. But, should there be some other means of livelihood available, then, that would be more desirable - as it was with Sayyidna Sulayman (علیہ السلام) . Allah Ta’ ala had put the treasures of the whole world at his disposal. Gold, precious stones and everything needed was available to him in abundance. Then Allah Ta’ ala had also allowed him to expend whatever he wished from the holdings of the Baytul-Mal, and according to the verse: فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ‌ حِسَابٍ (So, do favour (to someone) or withhold (it) with no (requirement to give) account - 38:39), he was also given the assurance that he could spend in whatever manner he wished and that he did not have to account for it. But, this event came to pass because Allah Ta’ ala, in His wisdom, would have the noble prophets occupy a very high station and, it was after that, that Sayyidna Dawud (علیہ السلام) - despite being the ruler of an empire - used to earn his living with his own hands, and was always satisfied with it.
+
+` Ulama' (religious scholars) who serve the religious cause of education and communication (Ta'lim and Tabligh) without remuneration, and the Qadi (judge) and Mufti (juri-consult, Muslim jurist highly trained to deliver authenticated rulings on problems and issues for the benefit of the community at large) who spend their time in public service are also governed by the same injunction, that is, they can take their living expenses from the Baytul-Mal. But, should there be some other way to eke out a living - which does not hinder the ongoing religious service being performed - then, that would be better.
+
+Special Note
+
+From this conduct of Sayyidna Dawud (علیہ السلام) ، whereby he demonstrated the great concern he had to find out the informal, free and totally unfettered opinions of people about his ways of doing things, it is proved that one usually does not know his own shortcomings, therefore, this should be found out from others. The well-known jurist of Islam, Imam Malik (رح) also paid particular attention to find out what common people thought about him.
+
+## Personal Reflections

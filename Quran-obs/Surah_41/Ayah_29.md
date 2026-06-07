@@ -1,0 +1,179 @@
+---
+arabic_ayat: "وَقَالَ الَّذِيۡنَ كَفَرُوۡا رَبَّنَاۤ اَرِنَا الَّذَيۡنِ اَضَلّٰنَا\
+  \ مِنَ الۡجِنِّ وَالۡاِنۡسِ نَجۡعَلۡهُمَا تَحۡتَ اَقۡدَامِنَا لِيَكُوۡنَا مِنَ الۡاَسۡفَلِيۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: 'The disbelievers will ˹then˺ cry, “Our Lord! Show us those
+  jinn and humans who led us astray: we will put them under our feet so that they
+  will be among the lowest ˹in Hell˺.”'
+word_by_word:
+  1:
+    arabic: وَقَالَ
+    translation: And (will) say
+    transliteration: waqāla
+  2:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  3:
+    arabic: كَفَرُوۡا
+    translation: disbelieve
+    transliteration: kafarū
+  4:
+    arabic: رَبَّنَاۤ
+    translation: Our Lord
+    transliteration: rabbanā
+  5:
+    arabic: اَرِنَا
+    translation: Show us
+    transliteration: arinā
+  6:
+    arabic: الَّذَيۡنِ
+    translation: those who
+    transliteration: alladhayni
+  7:
+    arabic: اَضَلّٰنَا
+    translation: misled us
+    transliteration: aḍallānā
+  8:
+    arabic: مِنَ
+    translation: of
+    transliteration: mina
+  9:
+    arabic: الۡجِنِّ
+    translation: the jinn
+    transliteration: l-jini
+  10:
+    arabic: وَالۡاِنۡسِ
+    translation: and the men
+    transliteration: wal-insi
+  11:
+    arabic: نَجۡعَلۡهُمَا
+    translation: (so) we may put them
+    transliteration: najʿalhumā
+  12:
+    arabic: تَحۡتَ
+    translation: under
+    transliteration: taḥta
+  13:
+    arabic: اَقۡدَامِنَا
+    translation: our feet
+    transliteration: aqdāminā
+  14:
+    arabic: لِيَكُوۡنَا
+    translation: that they be
+    transliteration: liyakūnā
+  15:
+    arabic: مِنَ
+    translation: of
+    transliteration: mina
+  16:
+    arabic: "الۡاَسۡفَلِيۡنَ‏ \uFEFF\uFEFF"
+    translation: the lowest
+    transliteration: l-asfalīna
+---
+
+## Context
+
+To understand **Explained in Detail** (Fussilat) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And We have assigned for them intimate companions (in this world), who have made fair seeming to them, what was before them and what was behind them. لَا تَسْمَعُوا لِهَـٰذَا الْقُرْ‌آنِ وَالْغَوْا فِيهِ (Do not listen to this Qur'an, and make noiseduring its recitation, - 41:26) When all the efforts of the disbelievers failed in confronting the Holy Qur'an, they started doing such mischievous acts as mentioned in this verse.
+
+## Tafsir Ibn Kathir
+
+And We have assigned for them intimate companions (in this world), who have made fair seeming to them, what was before them and what was behind them. And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them. Indeed they (all) were the losers (25)And those who disbelieve say: "Listen not to this Qur'an, and make noise in the midst of its (recitation) that you may overcome. (26)But surely, We shall cause those who disbelieve to taste a severe torment, and certainly, We shall requite them the worst of what they used to do (27)That is the recompense of the enemies of Allah: the Fire. Therein will be for them the eternal home, a recompense for that they used to deny Our Ayat (28)And those who disbelieve will say: "Our Lord! Show us those among Jinn and men who led us astray, that we may crush them under our feet so that they become the lowest. (29)
+
+The intimate Companions of the Idolators make Evil Actions attractive to Them
+
+Allah tells us that He is the One Who send the idolators astray,and that this happens with His will and decree.He is the All-Wise in His actions, when He appoints for them close companions from among the devils of man and jinn
+
+فَزَيَّنُوا لَهُمْ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ
+
+(who have made fair seeming to them, what was before them and what was behind them.) means, they made their deeds attractive to them in the past. As far as the future is concerned, they only see themselves as doing good, as Allah says:
+
+وَمَنْ يَعْشُ عَنْ ذِكْرِ الرَّحْمَٰنِ نُقَيِّضْ لَهُ شَيْطَانًا فَهُوَ لَهُ قَرِينٌ - وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ السَّبِيلِ وَيَحْسَبُونَ أَنَّهُمْ مُهْتَدُونَ
+
+(And whosoever turns away blindly from the remembrance of the Most Gracious, We appoint for him a Shaytan to be a companion for him. And verily, they hinder them from the path, but they think that they are guided aright!)(43:36-37)
+
+وَحَقَّ عَلَيْهِمُ الْقَوْلُ
+
+(And the Word is justified against them) means, the Word of torment, just as it was justified against the nations of the past who did what they did, men and Jinn alike.
+
+إِنَّهُمْ كَانُوا خَاسِرِينَ
+
+(Indeed they (all) were the losers.) means, they are all equal in terms of loss and being doomed.
+
+How the disbelievers advised One Another not to listen to the Qur'an, and the Recompense for that
+
+وَقَالَ الَّذِينَ كَفَرُوا لَا تَسْمَعُوا لِهَٰذَا الْقُرْآنِ
+
+(And those who disbelieve say: "Listen not to this Qur'an...") means, they advised one another not to pay heed to the Qur'an or obey its commands.
+
+وَالْغَوْا فِيهِ
+
+(and make noise in the midst of its) means, when it is recited, do not listen to it. This was the view of Mujahid. "And make noise in the midst of its (recitation)" means whistling and trying to make the Messenger of Allah ﷺ confused when he recited Qur'an, which is what the Quraysh did.
+
+لَعَلَّكُمْ تَغْلِبُونَ
+
+(that you may overcome.) means, this is the practice of these ignorant disbelievers and those who follow in their footsteps, when they hear the Qur'an. Allah commanded us to be different from that, and said:
+
+وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمِعُوا لَهُ وَأَنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ
+
+(So, when the Qur'an is recited, listen to it, and be silent that you may receive mercy.)(7:204). Then Allah says:
+
+فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَابًا شَدِيدًا
+
+(But surely, We shall cause those who disbelieve to taste a severe torment,) meaning, in return for what they do when they hear the Qur'an.
+
+وَلَنَجْزِيَنَّهُمْ أَسْوَأَ الَّذِي كَانُوا يَعْمَلُونَ
+
+(and certainly, We shall requite them the worst of what they used to do.) means, for their evil deeds.
+
+ذَٰلِكَ جَزَاءُ أَعْدَاءِ اللَّهِ النَّارُ ۖ لَهُمْ فِيهَا دَارُ الْخُلْدِ ۖ جَزَاءً بِمَا كَانُوا بِآيَاتِنَا يَجْحَدُونَ - وَقَالَ الَّذِينَ كَفَرُوا رَبَّنَا أَرِنَا اللَّذَيْنِ أَضَلَّانَا مِنَ الْجِنِّ وَالْإِنْسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ الْأَسْفَلِينَ
+
+(That is the recompense of the enemies of Allah: the Fire. Therein will be for them the eternal home, a recompense for that they used to deny Our Ayat. And those who disbelieve will say: "Our Lord! Show us those among Jinn and men who led us astray, that we may crush them under our feet so that they become the lowest.") It was reported that 'Ali, may Allah be pleased with him, said, concerning the phrase,
+
+اللَّذَيْنِ أَضَلَّانَا
+
+(those who led us astray): "Iblis and the son of Adam who killed his brother." As-Suddi reported that 'Ali, may Allah be pleased with him, said; "Iblis is followed by everyone who commits Shirk and the son of Adam is followed by everyone who commits a major sin. So Iblis is the one who calls people to every evil thing, such as Shirk and lesser sins." As for the first son of Adam, it is as confirmed in the Hadith:
+
+مَا قُتِلَتْ نَفْسٌ ظُلْمًا إِلَّا كَانَ عَلَى ابْنِ آدَمَ الْأَوَّلِ كِفْلٌ مِنْ دَمِهَا،لِأَنَّهُ أَوَّلُ مَنْ سَنَّ الْقَتْلَ
+
+(No soul is wrongfully killed, but a share of the burden [of that sin] will be upon the first son of Adam, because he was the first one who set the precedent of killing another.)
+
+نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا
+
+(that we may crush them under our feet) means, 'make them beneath us in the torment, so that they will be punished more severely than us.'
+
+لِيَكُونَا مِنَ الْأَسْفَلِينَ
+
+(so that they become the lowest.) means, in the lowest level of Hell, as already mentioned in Al-A'raf, where the followers ask Allah to multiply the torment for their leaders:
+
+قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِنْ لَا تَعْلَمُونَ
+
+((Allah) said: "For each one there is double (torment), but you know not.")(7:38) i.e., Allah will give each of them the torment and punishment they deserve for their deeds. This is like the Ayah:
+
+الَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ اللَّهِ زِدْنَـهُمْ عَذَابًا فَوْقَ الْعَذَابِ بِمَا كَانُواْ يُفْسِدُونَ
+
+(Those who disbelieved and hinder (men) from the path of Allah, for them We will add torment to the torment because they used to spread corruption.)(16:88).
+
+## Maarif ul Quran
+
+Commentary
+
+لَا تَسْمَعُوا لِهَـٰذَا الْقُرْ‌آنِ وَالْغَوْا فِيهِ (Do not listen to this Qur'an, and make noiseduring its recitation, - 41:26) When all the efforts of the disbelievers failed in confronting the Holy Qur'an, they started doing such mischievous acts as mentioned in this verse. Sayyidna Ibn ` Abbas ؓ has stated that Abu Jahl got his people primed up and ready to make noises whenever Muhammad ﷺ recited the Qur'an, so that people might not find out what he is saying. Some have said that preparations were made to stop people from listening to the Qur'an by whistling, clapping and by making all sorts of noises during the recitation.
+
+It is Wajib (necessary) to listen quietly while Qur’ an is being recited; It is infidel's way not to remain quiet.
+
+It is learnt from the above verse that making noises with the intention of creating disturbance in the recitation of the Qur'an is a sign of disbelief. It is also known that to listen quietly to the recitation of the Qur'an is wajib (necessary) and a sign of faith. It has become a usual practice in our days that people put their radios (and cassette players) on where the Holy Qur'an is recited with loud voice, which can be heard in about every restaurant and place of gathering, while people go about their business never paying any attention to the Holy Qur'an. This practice presents a picture that was a sign of infidels. May Allah Almighty guide Muslims. They should either avoid the recitation of the Holy Qur'an at such places and on such occasions where people are unable to listen to it, or if they wish to benefit from the blessing of the recitation, they must listen to it quietly and attentively.
+
+## Personal Reflections

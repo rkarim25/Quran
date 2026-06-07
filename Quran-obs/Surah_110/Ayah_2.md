@@ -1,0 +1,152 @@
+---
+arabic_ayat: وَرَاَيۡتَ النَّاسَ يَدۡخُلُوۡنَ فِىۡ دِيۡنِ اللّٰهِ اَفۡوَاجًا ۙ‏
+sentence_translation: and you ˹O Prophet˺ see the people embracing Allah’s Way in
+  crowds,
+word_by_word:
+  1:
+    arabic: وَرَاَيۡتَ
+    translation: And you see
+    transliteration: wara-ayta
+  2:
+    arabic: النَّاسَ
+    translation: the people
+    transliteration: l-nāsa
+  3:
+    arabic: يَدۡخُلُوۡنَ
+    translation: entering
+    transliteration: yadkhulūna
+  4:
+    arabic: فِىۡ
+    translation: into
+    transliteration: fī
+  5:
+    arabic: دِيۡنِ
+    translation: (the) religion
+    transliteration: dīni
+  6:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  7:
+    arabic: اَفۡوَاجًا ۙ‏
+    translation: (in) multitudes
+    transliteration: afwājan
+---
+
+## Context
+
+To understand **The Divine Support** (An-Nasr) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nasr is a **Madinah** surah—revealed as the 114th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Hadrat Abdullah bin Abbas states that this is the last Surah of the Quran to be revealed, i. e. no complete Surah was sent down to the Holy Prophet after it. (Muslim Nasai, Tabarani, Ibn Abi Shaibah, Ibn Marduyah). According to Hadrat Abdullah bin Umar, this Surah was sent down on the occasion of the Farewell Pilgrimage in the middle of the Tashriq Days at Mina, and after it the Holy Prophet rode his she camel and gave his well known Sermon.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+The Virtues of Surat An-Nasr It has been mentioned previously that it (Surat An-Nasr) is equivalent to one-fourth of the Qur'an and that Surat Az-Zalzalah is equivalent to one-fourth of the Qur'an. Verse [ 110:2] وَرَ‌أَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّـهِ أَفْوَاجًا (And you see people entering Allah's [ approved ] religion in multitudes,) Before the conquest of Makkah there were many people who were almost convinced of the verity of the Holy Prophet Muhammad ﷺ and Islam, but there were several factors that were obstructing them to embrace the religion.
+
+## Tafsir Ibn Kathir
+
+The Virtues of Surat An-Nasr
+
+It has been mentioned previously that it (Surat An-Nasr) is equivalent to one-fourth of the Qur'an and that Surat Az-Zalzalah is equivalent to one-fourth of the Qur'an.
+
+An-Nasa'i recorded from 'Ubaydullah bin 'Abdullah bin 'Utbah that Ibn 'Abbas said to him, "O Ibn 'Utbah! Do you know the last Surah of the Qur'an that was revealed?" He answered, "Yes, it was
+
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ
+
+(When there comes the help of Allah and the Conquest.)(110:1)"
+
+He (Ibn 'Abbas) He (Ibn 'Abbas) said, "You have spoken truthfully."
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ - وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا - فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا
+
+(1. When there comes the help of Allah and the Conquest.)(2. And you see that the people enter Allah's religion in crowds.)(3. So, glorify the praises of your Lord, and ask His forgiveness. Verily, He is the One Who accepts the repentance and Who forgives.)
+
+This Surah Informs of the Completion of the Life of Allah's Messenger (ﷺ)
+
+Al-Bukhari recorded from Ibn 'Abbas that he said, "Umar used to bring me into the gatherings with the old men of (the battle of) Badr. However, it was as if one of them felt something in himself (against my attending). So he said, 'Why do you ('Umar) bring this (youth) to sit with us when we have children like him (i.e., his age)?' So 'Umar replied, 'Verily, he is among those whom you know.'
+
+Then one day he called them and invited me to sit with them, and I do not think that he invited me to be among them that day except to show them. So he said, 'What do you say about Allah's statement,
+
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ
+
+(When there comes the help of Allah and the Conquest.)?'
+
+Some of them said, 'We were commanded to praise Allah and seek His forgiveness when He helps us and gives us victory.' Some of them remained silent and did not say anything. Then he ('Umar) said to me, 'Is this what you say, O Ibn 'Abbas?' I said, 'No.' He then said, 'What do you say?' I said, 'It was the end of the life of Allah's Messenger ﷺ that Allah was informing him of. Allah said,
+
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ
+
+(When there comes the help of Allah and the Conquest.)
+
+which means, that is a sign of the end of your life.
+
+فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا
+
+(So, glorify the praises of your Lord, and ask His forgiveness. Verily, He is the One Who accepts the repentance and Who forgives.)'
+
+So, 'Umar bin Al-Khattab said, 'I do not know anything about it other than what you have said.'" Al-Bukhari was alone in recording this Hadith.
+
+Imam Ahmad recorded from Ibn 'Abbas that he said, "When
+
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ
+
+(When there comes the help of Allah and the Conquest.)
+
+was revealed, the Messenger of Allah ﷺ said,
+
+نُعِيَتْ إِلَيَّ نَفْسِي
+
+(My death has been announced to me.)
+
+And indeed he died during that year." Ahmad was alone in recording this Hadith.
+
+Al-Bukhari recorded that 'A'ishah said, "The Messenger of Allah ﷺ used to say often in his bowing and prostrating,
+
+سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي
+
+(Glory to You, O Allah, our Lord, and praise be to You. O Allah, forgive me.)
+
+He did this as his interpretation of the Qur'an (i.e., showing its implementation)." The rest of the group has also recorded this Hadith except for At-Tirmidhi.
+
+Imam Ahmad recorded from Masruq that 'A'ishah said, "The Messenger of Allah ﷺ used to often say towards the end of his life,
+
+سُبْحَانَ اللهِ وَبِحَمْدِهِ، أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ
+
+(Glory to Allah, and praise be unto Him. I seek Allah's forgiveness and I repent to Him.)
+
+And he ﷺ said,
+
+إِنَّ رَبِّي كَانَ أَخْبَرَنِي أَنِّي سَأَرَى عَلَامَةً فِي أُمَّتِي، وَأَمَرَنِي إِذَا رَأَيْتُهَا أَنْ أُسَبِّحَ بِحَمْدِهِ وَأَسْتَغْفِرَهُ، إِنَّهُ كَانَ تَوَّابًا، فَقَدْ رَأَيْتُهَا:
+
+إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ - وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا - فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا
+
+(Verily, my Lord has informed me that I will see a sign in my Ummah and He has commanded me that when I see it, I should glorify His praises and seek His forgiveness, for He is the One Who accepts repentance. And indeed I have seen it (i.e., the sign). (When there comes the help of Allah and the Conquest (Al-Fath). And you see that the people enter Allah's religion in crowds. So glorify the praises of your Lord, and ask His forgiveness. Verily, He is the One Who accepts the repentance and Who forgives.))" Muslim also recorded this Hadith.
+
+The meaning of Al-Fath here is the conquest of Makkah, and there is only one view concerning it. For indeed the different areas of the Arabs were waiting for the conquest of Makkah before they would accept Islam. They said, "If he (Muhammad ﷺ is victorious over his people, then he is a (true) Prophet." So when Allah gave him victory over Makkah, they entered into the religion of Allah (Islam) in crowds. Thus, two years did not pass (after the conquest of Makkah) before the peninsula of the Arabs was laden with faith. And there did not remain any of the tribes of the Arabs except that they professed (their acceptance) of Islam. And all praise and blessings are due to Allah.
+
+Al-Bukhari recorded in his Sahih that 'Amr bin Salamah said, "When Makkah was conquered, all of the people rushed to the Messenger of Allah ﷺ to profess their Islam. The various regions were delaying their acceptance of Islam until Makkah was conquered. The people used to say, 'Leave him and his people alone. If he is victorious over them he is a (true) Prophet.'"
+
+We have researched the war expedition for conquest of Makkah in our book As-Surah. Therefore, whoever wishes he may review it there. And all praise and blessings are due to Allah.
+
+Imam Ahmad recorded from Abu 'Ammar that a neighbor of Jabir bin 'Abdullah told him, "I returned from a journey and Jabir bin 'Abdullah came and greeted me. So I began to talk with him about the divisions among the people and what they had started doing. Thus, Jabir began to cry and he said, 'I heard the Messenger of Allah ﷺ saying,
+
+إِنَّ النَّاسَ دَخَلُوا فِي دِينِ اللهِ أَفْوَاجًا، وَسَيَخْرُجُونَ مِنْهُ أَفْوَاجًا
+
+(Verily, the people have entered into the religion of Allah in crowds and they will also leave it in crowds.)"
+
+This is the end of the Tafsir of Surat An-Nasr, and all praise and blessings are due to Allah.
+
+## Maarif ul Quran
+
+Verse [ 110:2] وَرَ‌أَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّـهِ أَفْوَاجًا (And you see people entering Allah's [ approved ] religion in multitudes,) Before the conquest of Makkah there were many people who were almost convinced of the verity of the Holy Prophet Muhammad ﷺ and Islam, but there were several factors that were obstructing them to embrace the religion. Some people were afraid of the Quraishite opposition, or they were hesitant for some other reason. The Conquest of Makkah removed those obstacles, and people entered the fold of Islam in throngs. Seven hundred people from Yemen embraced the religion, and joined the Holy Prophet ﷺ . On the way, they recited the call to prayer [ adhan ] and recited the Qur'an. In this way, the populace of Arabia embraced the religion of Islam and entered into its fold in droves.
+
+## Personal Reflections

@@ -1,0 +1,217 @@
+---
+arabic_ayat: وَ اِذَا رَاَ الَّذِيۡنَ اَشۡرَكُوۡا شُرَكَآءَهُمۡ قَالُوۡا رَبَّنَا
+  هٰٓؤُلَاۤءِ شُرَكَآؤُنَا الَّذِيۡنَ كُنَّا نَدۡعُوۡا مِنۡ دُوۡنِكَ​ۚ فَاَلۡقَوۡا
+  اِلَيۡهِمُ الۡقَوۡلَ اِنَّكُمۡ لَـكٰذِبُوۡنَ​ۚ‏
+sentence_translation: And when the polytheists see their associate-gods, they will
+  say, “Our Lord! These are our associate-gods that we used to invoke besides You.”
+  Their gods will throw a rebuttal at them, ˹saying,˺ “You are definitely liars.”
+word_by_word:
+  1:
+    arabic: وَ اِذَا
+    translation: And when
+    transliteration: wa-idhā
+  2:
+    arabic: رَاَ
+    translation: (will) see
+    transliteration: raā
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: اَشۡرَكُوۡا
+    translation: associated partners with Allah
+    transliteration: ashrakū
+  5:
+    arabic: شُرَكَآءَهُمۡ
+    translation: their partners
+    transliteration: shurakāahum
+  6:
+    arabic: قَالُوۡا
+    translation: They will say
+    transliteration: qālū
+  7:
+    arabic: رَبَّنَا
+    translation: Our Lord
+    transliteration: rabbanā
+  8:
+    arabic: هٰٓؤُلَاۤءِ
+    translation: these
+    transliteration: hāulāi
+  9:
+    arabic: شُرَكَآؤُنَا
+    translation: (are) our partners
+    transliteration: shurakāunā
+  10:
+    arabic: الَّذِيۡنَ
+    translation: those whom
+    transliteration: alladhīna
+  11:
+    arabic: كُنَّا
+    translation: we used to
+    transliteration: kunnā
+  12:
+    arabic: نَدۡعُوۡا
+    translation: invoke
+    transliteration: nadʿū
+  13:
+    arabic: مِنۡ
+    translation: besides You
+    transliteration: min
+  14:
+    arabic: دُوۡنِكَ​ۚ
+    translation: besides You
+    transliteration: dūnika
+  15:
+    arabic: فَاَلۡقَوۡا
+    translation: But they (will) throw back
+    transliteration: fa-alqaw
+  16:
+    arabic: اِلَيۡهِمُ
+    translation: at them
+    transliteration: ilayhimu
+  17:
+    arabic: الۡقَوۡلَ
+    translation: (their) word
+    transliteration: l-qawla
+  18:
+    arabic: اِنَّكُمۡ
+    translation: Indeed, you
+    transliteration: innakum
+  19:
+    arabic: لَـكٰذِبُوۡنَ​ۚ‏
+    translation: (are) surely liars
+    transliteration: lakādhibūna
+---
+
+## Context
+
+To understand **The Bee** (An-Nahl) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from heat and cold both. This has been answered by Imam Al-Qurtubi and other commentators by saying that the Holy Qur’ an has been revealed in the Arabic language, its first addressees are Arabs, therefore, it speaks by taking Arab habits and needs into account. Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. Yet another explanation for this has been given by Maulana Ashraf Ali Thanavi in Bayan al-Qur’ an by saying that in the beginning of this Surah, the Qur’ an had already said: لَكُمْ فِيهَا دِفْءٌ (and for you, there is provision against cold in them - 16:5). Thus, it was in view of this earlier mention of beating cold and having warmth that only protection from heat has been mentioned here.
+
+That historical lens is essential.
+
+## Tafsir Summary
+
+And on the Day when We resurrect a witness from each nation, then those who disbelieve will not be given leave, nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness.) 85. Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81).
+
+## Tafsir Ibn Kathir
+
+And on the Day when We resurrect a witness from each nation, then those who disbelieve will not be given leave, nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness.) 85. And once those who did wrong see the torment, it will not decrease for them, nor will they be given respite (84)And when those who associated partners with Allah see their partners, they will say: "Our Lord! These are our partners whom we used to call upon besides you." But they will throw back their statement at them (saying): "You indeed are liars! (85)And they will offer (their full) submission to Allah on that Day, and what they falsely invented will wander away from them (86)Those who disbelieved and tried to obstruct the path of Allah, for them We will add torment on top of the torment because of the corruption they spread (87)
+
+The Plight of the Idolators on the Day of Judgement
+
+Allah tells us about the predicament of the idolators on the Day when they will be resurrected in the realm of the Hereafter. He will raise a witness from every nation - that is - their Prophet, to testify about their response to the Message he conveyed from Allah.
+
+ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا
+
+(then, those who disbelieved will not be given leave.) meaning, they will not be allowed to offer any excuse, as Allah says:
+
+هَٰذَا يَوْمُ لَا يَنطِقُونَ - وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+
+(That will be a Day when they do not speak. And they will not be permitted to present any excuse)(77:35-36). Hence, Allah says:
+
+وَلَا هُمْ يُسْتَعْتَبُونَ - وَإِذَا رَأَى الَّذِينَ ظَلَمُوا
+
+(nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness. And once those who did wrong see) meaning those who associated others in worship with Allah,
+
+الْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ
+
+(the torment, it will not decrease for them,) meaning it will not be reduced for them even for a moment.
+
+وَلَا هُمْ يُنظَرُونَ
+
+(nor will they be given respite.) meaning, it will not be delayed for them, rather they will be taken quickly from the place of gathering, with no calling to account. Then Hell will be brought forth, pulled by seventy thousand ropes, each of which is held by seventy thousand angels, and a neck will stretch forth from Hell towards the people, and it will expel a gust of hot air. No one will be left but will fall to his knees. Then it (the neck that is stretched forth) will say, "I have been entrusted to deal with every stubborn, arrogant one who joined another god with Allah," and so and so, mentioning different types of people, as was reported in the Hadith. Then it will come down upon them and pick them up from where they are standing as a bird picks up a seed. Allah says:
+
+إِذَا رَأَتْهُم مِّن مَّكَانٍ بَعِيدٍ سَمِعُوا لَهَا تَغَيُّظًا وَزَفِيرًا - وَإِذَا أُلْقُوا مِنْهَا مَكَانًا ضَيِّقًا مُّقَرَّنِينَ دَعَوْا هُنَالِكَ ثُبُورًا - لَّا تَدْعُوا الْيَوْمَ ثُبُورًا وَاحِدًا وَادْعُوا ثُبُورًا كَثِيرًا
+
+(When it (Hell) sees them from a far place, they will hear its raging and its roaring. And when they are thrown into a narrow part of it, chained together, they will cry for destruction. Today, do not scream for one destruction, but scream repeatedly for destruction.)(25:12-14)
+
+وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا
+
+(And the guilty shall see the Fire and apprehend that they are about to fall into it. And they will find no way to avoid it.)(18:53)
+
+لَوْ يَعْلَمُ الَّذِينَ كَفَرُوا حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ النَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ - بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ
+
+(If only those who disbelieved knew (about the time) when they will not be able to protect their faces nor their backs from the Fire, and they have no help. Nay, it (the Fire) will come upon them all of a sudden and will perplex them, and they will have no power to avert it nor will they have any respite.)(21:39-40)
+
+The gods of the Idolators will disown Them at the Time when They need them most
+
+Then Allah tells us that their gods will disown them when they need them most. He says:
+
+وَإِذَا رَأَى الَّذِينَ أَشْرَكُوا شُرَكَاءَهُمْ
+
+(And when those who associated partners with Allah see their partners) meaning, those whom they used to worship in this world.'
+
+قَالُوا رَبَّنَا هَٰؤُلَاءِ شُرَكَاؤُنَا الَّذِينَ كُنَّا نَدْعُو مِن دُونِكَ ۖ فَأَلْقَوْا إِلَيْهِمُ الْقَوْلَ إِنَّكُمْ لَكَاذِبُونَ
+
+(they will say: "Our Lord! These are our partners whom we used to call upon besides you." But they will throw their statements back at them (saying): "You are indeed liars!") i.e., those gods will say to them, 'you are lying. We never commanded you to worship us.' Allah says:
+
+وَمَنْ أَضَلُّ مِمَّن يَدْعُو مِن دُونِ اللَّهِ مَن لَّا يَسْتَجِيبُ لَهُ إِلَىٰ يَوْمِ الْقِيَامَةِ وَهُمْ عَن دُعَائِهِمْ غَافِلُونَ - وَإِذَا حُشِرَ النَّاسُ كَانُوا لَهُمْ أَعْدَاءً وَكَانُوا بِعِبَادَتِهِمْ كَافِرِينَ
+
+(And who is more astray than one who calls upon others besides Allah, such as will not answer him till the Day of Resurrection, and who are (even) unaware of their invocations to them? And when the people are gathered (on the Day of Resurrection), they (false deities) will become their enemies and will deny their worship,)(46:5-6)
+
+وَاتَّخَذُوا مِن دُونِ اللَّهِ آلِهَةً لِّيَكُونُوا لَهُمْ عِزًّا - كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا
+
+(And they have taken gods besides Allah, that they might give them honor, power and glory. Nay, but they will deny their worship, and become their adversaries (on the Day of Resurrection).)(19:81-82) Al-Khalil [Ibrahim] said:
+
+ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ بَعْضُكُم بِبَعْضٍ
+
+(but on the Day of Resurrection, you will disown each other)[29:25] And Allah says:
+
+وَقِيلَ ادْعُوا شُرَكَاءَكُمْ
+
+(And it will be said (to them): "Call upon your partners")[28:64] And there are many other similar Ayat.
+
+Everything will surrender to Allah on the Day of Resurrection
+
+وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ
+
+(And they will offer (their full) submission to Allah on that Day,) Qatadah and 'Ikrimah said: "They will humble themselves and surrender on that Day," i.e., they will all surrender to Allah, there will not be anyone who does not hear and obey. As Allah says:
+
+أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا
+
+(How clearly will they see and hear, the Day when they will appear before Us!)[19:38] meaning, they will see and hear better than they have ever seen and heard before. And Allah says:
+
+وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ نَاكِسُو رُءُوسِهِمْ عِندَ رَبِّهِمْ رَبَّنَا أَبْصَرْنَا وَسَمِعْنَا
+
+(And if you only could see when the guilty hang their heads before their Lord (saying): "Our Lord! We have now seen and heard.")[32:12]
+
+وَعَنَتِ الْوُجُوهُ لِلْحَيِّ الْقَيُّومِ
+
+(And (all) faces shall be humbled before the Ever Living, the Sustainer.)[20:111] meaning, they will humble and submit themselves.
+
+وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ
+
+(And they will offer (their full) submission to Allah on that Day, and what they falsely invented will wander away from them.) The things that they used to worship which were all based on fabrications and lies, will all disappear, and they will have no helper or supporter, and no one to turn to.
+
+Those among the Idolators who corrupted Others will receive a Greater Punishment
+
+Then Allah tells us:
+
+الَّذِينَ كَفَرُوا وَصَدُّوا عَن سَبِيلِ اللَّهِ زِدْنَاهُمْ عَذَابًا
+
+(Those who disbelieved and tried to obstruct the path of Allah, for them We will add torment) meaning one punishment for their disbelief and another punishment for turning others away from following the truth, as Allah says:
+
+وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ
+
+(And they prevent others from him and they themselves keep away from him)[6:26] meaning they forbade others to follow him and they themselves shunned him, but:
+
+وَإِن يُهْلِكُونَ إِلَّا أَنفُسَهُمْ وَمَا يَشْعُرُونَ
+
+(they destroyed only themselves, while they do not realize it.)[6:26] This is evidence that there will be varying levels of punishment for the disbelievers, just as there will be varying degrees of Paradise for the believers, as Allah says:
+
+قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِن لَّا تَعْلَمُونَ
+
+(For each one there is double (torment), but you know not.)[7:38]
+
+## Maarif ul Quran
+
+Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from heat and cold both. This has been answered by Imam Al-Qurtubi and other commentators by saying that the Holy Qur’ an has been revealed in the Arabic language, its first addressees are Arabs, therefore, it speaks by taking Arab habits and needs into account. Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. Yet another explanation for this has been given by Maulana Ashraf Ali Thanavi in Bayan al-Qur’ an by saying that in the beginning of this Surah, the Qur’ an had already said: لَكُمْ فِيهَا دِفْءٌ (and for you, there is provision against cold in them - 16:5). Thus, it was in view of this earlier mention of beating cold and having warmth that only protection from heat has been mentioned here.
+
+## Personal Reflections

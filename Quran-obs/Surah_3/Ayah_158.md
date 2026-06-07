@@ -1,0 +1,104 @@
+---
+arabic_ayat: وَلَٮِٕنۡ مُّتُّمۡ اَوۡ قُتِلۡتُمۡ لَا اِلَى اللّٰهِ تُحۡشَرُوۡنَ‏
+sentence_translation: Whether you die or are martyred—all of you will be gathered
+  before Allah.
+word_by_word:
+  1:
+    arabic: وَلَٮِٕنۡ
+    translation: And if
+    transliteration: wala-in
+  2:
+    arabic: مُّتُّمۡ
+    translation: you die
+    transliteration: muttum
+  3:
+    arabic: اَوۡ
+    translation: or
+    transliteration: aw
+  4:
+    arabic: قُتِلۡتُمۡ
+    translation: are killed
+    transliteration: qutil'tum
+  5:
+    arabic: لَا اِلَى
+    translation: surely to
+    transliteration: la-ilā
+  6:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  7:
+    arabic: تُحۡشَرُوۡنَ‏
+    translation: you will be gathered
+    transliteration: tuḥ'sharūna
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 158, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! The saying of the hypocrites in verse 156 here is an extension of what was cited in verse 154 earlier: لَوْ كَانَ لَنَا مِنَ الْأَمْرِ‌ شَيْءٌ مَّا قُتِلْنَا هَاهُنَا :"If we had any say in the matter, we would have not…
+
+## Tafsir Ibn Kathir
+
+O you who believe! Be not like those who disbelieve and who say to their brethren when they travel through the earth or go out to fight: "If they had stayed with us, they would not have died or been killed," so that Allah may make it a cause of regret in their hearts. It is Allah that gives life and causes death. And Allah is All-Seer of what you do (156)And if you are killed or die in the way of Allah, forgiveness and mercy from Allah are far better than all that they amass (157)And whether you die or are killed, verily, unto Allah you shall be gathered (158)
+
+Prohibiting the Ideas of the Disbeleivers about Death and Predestination
+
+Allah forbids His believing servants from the disbelievers' false creed, seen in their statement about those who died in battle and during travel; "Had they abandoned these trips, they would not have met their demise." Allah said,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَكُونُوا كَالَّذِينَ كَفَرُوا وَقَالُوا لِإِخْوَانِهِمْ
+
+(O you who believe! Be not like those who disbelieve (hypocrites) and who say to their brethren), about their dead brethren,
+
+إِذَا ضَرَبُوا فِي الْأَرْضِ
+
+(when they travel through the earth) for the purpose of trading and otherwise,
+
+أَوْ كَانُوا غُزًّى
+
+(or go out to fight), participating in battles,
+
+لَّوْ كَانُوا عِندَنَا
+
+("If they had stayed with us,") in our area,
+
+مَا مَاتُوا وَمَا قُتِلُوا
+
+("they would not have died or been killed,") they would not have died while traveling or been killed in battle. Allah's statement,
+
+لِيَجْعَلَ اللَّهُ ذَٰلِكَ حَسْرَةً فِي قُلُوبِهِمْ
+
+(so that Allah may make it a cause of regret in their hearts.) means, Allah creates this evil thought in their hearts so that their sadness and the grief they feel for their loss would increase. Allah refuted them by saying,
+
+وَاللَّهُ يُحْيِي وَيُمِيتُ
+
+(It is Allah that gives life and causes death.) for the creation is under Allah's power, and the decision is His Alone. No one lives or dies except by Allah's leave, and no one's life is increased or decreased except by His decree.
+
+وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+(And Allah is All-Seer of what you do,) for His knowledge and vision encompasses all His creation and none of their affairs ever escapes Him. Allah's statement,
+
+وَلَئِن قُتِلْتُمْ فِي سَبِيلِ اللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌ مِّنَ اللَّهِ وَرَحْمَةٌ خَيْرٌ مِّمَّا يَجْمَعُونَ
+
+(And if you are killed or die in the way of Allah, forgiveness and mercy from Allah are far better than all that they amass.)[3:157], indicating that death and martyrdom in Allah's cause are a means of earning Allah's mercy, forgiveness and pleasure. This, indeed, is better than remaining in this life with its short lived delights. Furthermore, whoever dies or is killed will return to Allah, the Exalted and Most Honored, and He will reward him if he has done good deeds, or will punish him for his evil deeds. Allah said,
+
+وَلَئِن مُّتُّمْ أَوْ قُتِلْتُمْ لَإِلَى اللَّهِ تُحْشَرُونَ
+
+(And whether you die or are killed, verily, unto Allah you shall be gathered.)[3:158].
+
+## Maarif ul Quran
+
+The saying of the hypocrites in verse 156 here is an extension of what was cited in verse 154 earlier: لَوْ كَانَ لَنَا مِنَ الْأَمْرِ‌ شَيْءٌ مَّا قُتِلْنَا هَاهُنَا :"If we had any say in the matter, we would have not been killed here." Since there were chances that sincere Muslims may be affected by such doubt-creating devices used by hypocrites, Muslims were asked through these verses to remain unconcerned with such sayings and doings and adhere to the belief that the span of life and the time of death are ordained by Allah alone.
+
+## Personal Reflections

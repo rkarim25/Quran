@@ -1,0 +1,175 @@
+---
+arabic_ayat: "تَحِيَّتُهُمۡ يَوۡمَ يَلۡقَوۡنَهٗ سَلٰمٌ ۖۚ وَاَعَدَّ لَهُمۡ اَجۡرًا\
+  \ كَرِيۡمًا‏ \uFEFF\uFEFF"
+sentence_translation: Their greeting on the Day they meet Him will be, “Peace!” And
+  He has prepared for them an honourable reward.
+word_by_word:
+  1:
+    arabic: تَحِيَّتُهُمۡ
+    translation: Their greetings
+    transliteration: taḥiyyatuhum
+  2:
+    arabic: يَوۡمَ
+    translation: (on the) Day
+    transliteration: yawma
+  3:
+    arabic: يَلۡقَوۡنَهٗ
+    translation: they will meet Him
+    transliteration: yalqawnahu
+  4:
+    arabic: سَلٰمٌ ۖۚ
+    translation: (will be), "Peace
+    transliteration: salāmun
+  5:
+    arabic: وَاَعَدَّ
+    translation: and He has prepared
+    transliteration: wa-aʿadda
+  6:
+    arabic: لَهُمۡ
+    translation: for them
+    transliteration: lahum
+  7:
+    arabic: اَجۡرًا
+    translation: a reward
+    transliteration: ajran
+  8:
+    arabic: "كَرِيۡمًا‏ \uFEFF\uFEFF"
+    translation: noble
+    transliteration: karīman
+---
+
+## Context
+
+To understand **The Combined Forces** (Al-Ahzab) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! Sayyidna Ibn ` Abbas ؓ has stated that Salah from Allah is blessing, from angels it is prayer for forgiveness and from humans it is supplication.
+
+## Tafsir Ibn Kathir
+
+O you who believe! Remember Allah with much remembrance (41)And glorify His praises morning and Asila (42)He it is Who sends Salah on you, and His angels too, that He may bring you out from darkness into light. And He is Ever Most Merciful to the believers (43)Their greeting on the Day they shall meet Him will be "Salam (Peace!)" And He has prepared for them a generous reward (44)
+
+The Virtue of remembering Allah much
+
+Allah commands His believing servants to remember their Lord much, Who has bestowed upon them all kinds of blessings and favors, because this will bring them a great reward and a wonderful destiny.
+
+Imam Ahmad recorded that 'Abdullah bin Busr said: "Two bedouins came to the Messenger of Allah ﷺ and one of them said: 'O Messenger of Allah, which of the people is best?' He ﷺ said:
+
+مَنْ طَالَ عُمْرُهُ وَحَسُنَ عَمَلُهُ
+
+(The one whose life is long and whose deeds are good.)
+
+The other one said: 'O Messenger of Allah, the laws of Islam are too much for us. Teach me something that I can adhere to.' He ﷺ said,
+
+لَايَزَالُ لِسَانُكَ رَطْبًا بِذِكْرِ اللهِ تَعَالَى
+
+(Keep your tongue moist with the remembrance of Allah, may He be exalted.) At-Tirmidhi and Ibn Majah recorded the second part of this report. At-Tirmidhi said, "This Hadith is Hasan Gharib".
+
+Imam Ahmad recorded that 'Abdullah bin 'Amr, may Allah be pleased with him, said that the Messenger of Allah ﷺ said,
+
+مَا مِنْ قَوْمٍ جَلَسُوا مَجْلِسًا لَمْ يَذْكُرُوا اللهَ تَعَالَى فِيهِ إِلَّا رَأَوْهُ حَسْرَةً يَوْمَ الْقِيَامَةِ
+
+(No people sit together without mentioning Allah, but they will see that as regret on the Day of Resurrection.) 'Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, commented on the Ayah:
+
+اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا
+
+(Remember Allah with much remembrance.) "Allah did not enjoin any duty upon His servants without setting known limits and accepting the excuses of those who have a valid excuse – apart from Dhikr, for Allah has not set any limits for it, and no one has any excuse for not remembering Allah unless he is oppressed and forced to neglect it. Allah says:
+
+فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ
+
+(Remember Allah standing, sitting down, and (lying down) on your sides)(4:103). By night and by day, on land and on sea, when traveling and when staying home, in richness and in poverty, in sickness and in health, in secret and openly, in all situations and circumstances. And Allah says:
+
+وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا
+
+(And glorify His praises morning and Asila.) If you do this, He and His angels will send blessings upon you." There are very many Ayat, Hadiths and reports which encourage the remembrance of Allah, and this Ayah urges us to remember Him much. People such as An-Nasa'i and Al-Ma'mari and others have written books about the Adhkar to be recited at different times of the night and day.
+
+وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا
+
+(And glorify His praises morning and Asila) in the morning and in the evening. This is like the Ayah:
+
+فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ - وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
+
+(So glorify Allah, when you come up to the evening, and when you enter the morning. And His are all the praises and thanks in the heavens and the earth; and in the afternoon and when you come up to the time, when the day begins to decline.)(30:17-18).
+
+هُوَ الَّذِي يُصَلِّي عَلَيْكُمْ وَمَلَائِكَتُهُ
+
+(He it is Who sends Salah on you, and His angels too,) This is encouragement to remember Allah, i.e., He will remember you, so remember Him. This is like the Ayah:
+
+كَمَا أَرْسَلْنَا فِيكُمْ رَسُولًا مِنْكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُعَلِّمُكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ - فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ
+
+(Similarly, We have sent among you a Messenger of your own, reciting to you Our Ayat and purifying you, and teaching you the Book and the Hikmah, and teaching you that which you used not to know. Therefore remember Me. I will remember you, and be grateful to Me and never be ungrateful to Me)(2:151-152)
+
+The Prophet ﷺ said:
+
+يَقُولُ اللهُ تَعَالَى: مَنْ ذَكَرَنِي فِي نَفْسِهِ ذَكَرْتُهُ فِي نفْسِي، وَمَنْ ذَكَرَنِي فِي مَلَإٍ ذَكَرْتُهُ فِي مَلَإٍ خَيْرٍ مِنْهُ
+
+(Allah says: "Whoever remembers Me to himself, I will remember him to Myself, and whoever remembers Me in a gathering, I will remember him in a better gathering.")
+
+The Meaning of Salah
+
+Allah's Salah means that He praises His servant before the angels, as Al-Bukhari recorded from Abu Al-'Aliyah. This was recorded by Abu Ja'far Ar-Razi from Ar-Rabi' bin Anas from Anas. Others said: "Allah's Salah means mercy." It may be said that there is no contradiction between these two views. And Allah knows best.
+
+Salah from the angels means their supplication and seeking forgiveness for people, as Allah says:
+
+الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ - رَبَّنَا وَأَدْخِلْهُمْ جَنَّاتِ عَدْنٍ الَّتِي وَعَدْتَهُمْ وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ۚ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ - وَقِهِمُ السَّيِّئَاتِ ۚ
+
+(Those who bear the Throne and those around it glorify the praises of their Lord, and believe in Him, and ask forgiveness for those who believe (saying): "Our Lord! You comprehend all things in mercy and knowledge, so forgive those who repent and follow Your way, and save them from the torment of the blazing Fire! Our Lord! And make them enter the 'Adn Garden which you have promised them – and to the righteous among their fathers, their wives, and their offspring! Verily, You are the All-Mighty, the All-Wise. And save them from the sins.")(40:7-9)
+
+لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ
+
+(that He may bring you out from darkness into light.) means, by means of His mercy towards you, His praise of you and the supplication of His angels for you, He brings you forth from the darkness of ignorance and misguidance into the light of guidance and certain faith.
+
+وَكَانَ بِالْمُؤْمِنِينَ رَحِيمًا
+
+(And He is Ever Most Merciful to the believers.) means, in this world and in the Hereafter: in this world He guides them to the truth of which others are ignorant, and He shows them the path from which others have gone astray, those who call for disbelief and innovation, and their followers among the wrongdoers. His mercy towards them in the Hereafter means that He will save them from the greater terror (of the Day of Resurrection) and will command His angels to greet them with the glad tidings of Paradise and salvation from the Fire, which will only be because of His love for them and His kindness towards them.
+
+Imam Ahmad recorded that Anas, may Allah be pleased with him, said: "The Messenger of Allah ﷺ and a group of his Companions, may Allah be pleased with them, passed by a young child in the road. When his mother saw the people, she feared that her child may be crushed by the crowd, so she rushed forward, crying, 'My son, my son!' She ran and picked him up, and the people said, 'O Messenger of Allah, she would never throw her child in the Fire.' The Messenger of Allah ﷺ convincingly said:
+
+لَا، وَاللهِ لَايُلْقِي حَبِيبَهُ فِي النَّارِ
+
+(No, and Allah will not throw His beloved in the Fire.) Its chain of narrators meets the conditions of the Two Sahihs, although none of the authors of the Six Books recorded it. But in Sahih Al-Bukhari it is recorded from the Commander of the faithful 'Umar bin Al-Khattab, may Allah be pleased with him, that the Messenger of Allah ﷺ saw a woman among the prisoners of war picking up her child, clasping the child to her breast and nursing him. The Messenger of Allah ﷺ said:
+
+أَتُرَوْنَ هَذِهِ تُلْقِي وَلَدَهَا فِي النَّارِ وَهِيَ تَقْدِرُ عَلَى ذَلِكَ؟
+
+(Do you think that this woman would throw her child into the Fire even though she is (physically) able to do so?) They said, "No." The Messenger of Allah ﷺ said:
+
+فَوَاللهِ! للهُ أَرْحَمُ بِعِبَادِهِ مِنْ هَذِهِ بِوَلَدِهَا
+
+(By Allah, Allah is more merciful towards His servants than this woman is to her child.)
+
+تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌ ۚ
+
+(Their greeting on the Day they shall meet Him will be "Salam!") The apparent meaning – and Allah knows best – is that their greeting, from Allah on the Day that they meet Him, will be Salam, i.e., He will greet them with Salam, as He says elsewhere:
+
+سَلَامٌ قَوْلًا مِنْ رَبٍّ رَحِيمٍ
+
+((It will be said to them): Salam – a Word from the Lord, Most Merciful.)(36:58) Qatadah claimed that the meaning was that they would greet one another with Salam on the Day when they meet Allah in the Hereafter. This is like the Ayah:
+
+دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَامٌ ۚ وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+(Their way of request therein will be 'Glory to You, O Allah,' and 'Salam' will be their greetings therein! and the close of their request will be 'All praise is due to Allah, the Lord of all that exits.')(10:10)
+
+وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا
+
+(And He has prepared for them a generous reward.) means Paradise and everything in it of food, drink, clothing, dwellings, physical pleasure, luxuries and delightful scenes, such as no eye has seen, no ear has heard and has never entered the mind of man.
+
+## Maarif ul Quran
+
+Sayyidna Ibn ` Abbas ؓ has stated that Salah from Allah is blessing, from angels it is prayer for forgiveness and from humans it is supplication. The word Salah carries all the three meanings.
+
+تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُ سَلَامٌ (Their greeting, the Day they will meet Him, will be, "Salam" - 33:44). This is the explanation of the Salah that is sent to believers from-Allah. It means that the day they would meet Allah, they will be respectfully addressed by Him with the word, 'Salami i.e. (Assalamu ` alaykum) . The day of meeting Allah according to Imam Raghib, would be the Doomsday; some other leading exegetes say that it would be when they enter Paradise and they would receive Salam from Allah Ta’ ala as well as from the angels; and yet other scholars consider it to be the day of death when they would leave the whole world to be present before Allah as stated by Sayyidna ` Abdullah Ibn Masud ؓ that when the Angel of Death goes to a believer to extract the spirit of life out of him, he gives him a message that his Lord has sent to him Salam. The word 'meeting' is true in all the three cases. Therefore there can be no objection or contradiction in the traditions, because Salam from Allah Ta’ ala is sent on all the three occasions.
+
+Note
+
+This verse has proved that when Muslims meet each other, their greeting should be assalamu ` alaykum whether from the older to the younger or from the younger to the older.
+
+## Personal Reflections

@@ -1,0 +1,179 @@
+---
+arabic_ayat: وَاللّٰهُ فَضَّلَ بَعۡضَكُمۡ عَلٰى بَعۡضٍ فِى الرِّزۡقِ​ۚ فَمَا الَّذِيۡنَ
+  فُضِّلُوۡا بِرَآدِّىۡ رِزۡقِهِمۡ عَلٰى مَا مَلَـكَتۡ اَيۡمَانُهُمۡ فَهُمۡ فِيۡهِ
+  سَوَآءٌ​ ؕ اَفَبِنِعۡمَةِ اللّٰهِ يَجۡحَدُوۡنَ‏
+sentence_translation: And Allah has favoured some of you over others in provision.
+  But those who have been much favoured would not share their wealth with those ˹bondspeople˺
+  in their possession, making them their equals. Do they then deny Allah’s favours?
+word_by_word:
+  1:
+    arabic: وَاللّٰهُ
+    translation: And Allah
+    transliteration: wal-lahu
+  2:
+    arabic: فَضَّلَ
+    translation: has favored
+    transliteration: faḍḍala
+  3:
+    arabic: بَعۡضَكُمۡ
+    translation: some of you
+    transliteration: baʿḍakum
+  4:
+    arabic: عَلٰى
+    translation: over
+    transliteration: ʿalā
+  5:
+    arabic: بَعۡضٍ
+    translation: others
+    transliteration: baʿḍin
+  6:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  7:
+    arabic: الرِّزۡقِ​ۚ
+    translation: '[the] provision'
+    transliteration: l-riz'qi
+  8:
+    arabic: فَمَا
+    translation: But not
+    transliteration: famā
+  9:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  10:
+    arabic: فُضِّلُوۡا
+    translation: were favored
+    transliteration: fuḍḍilū
+  11:
+    arabic: بِرَآدِّىۡ
+    translation: would hand over
+    transliteration: birāddī
+  12:
+    arabic: رِزۡقِهِمۡ
+    translation: their provision
+    transliteration: riz'qihim
+  13:
+    arabic: عَلٰى
+    translation: to
+    transliteration: ʿalā
+  14:
+    arabic: مَا
+    translation: whom
+    transliteration: mā
+  15:
+    arabic: مَلَـكَتۡ
+    translation: possess
+    transliteration: malakat
+  16:
+    arabic: اَيۡمَانُهُمۡ
+    translation: their right hands
+    transliteration: aymānuhum
+  17:
+    arabic: فَهُمۡ
+    translation: so (that) they
+    transliteration: fahum
+  18:
+    arabic: فِيۡهِ
+    translation: (are) in it
+    transliteration: fīhi
+  19:
+    arabic: سَوَآءٌ​ ؕ
+    translation: equal
+    transliteration: sawāon
+  20:
+    arabic: اَفَبِنِعۡمَةِ
+    translation: Then is it the Favor
+    transliteration: afabiniʿ'mati
+  21:
+    arabic: اللّٰهِ
+    translation: of Allah
+    transliteration: l-lahi
+  22:
+    arabic: يَجۡحَدُوۡنَ‏
+    translation: they reject
+    transliteration: yajḥadūna
+---
+
+## Context
+
+To understand **The Bee** (An-Nahl) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And Allah honored some of you over others with wealth and properties. In the previous verses, by referring to major manifestations of His knowledge and power and blessings which descend on human beings, Allah Ta` ala has the natural proof of His Oneness (Tauhid).
+
+## Tafsir Ibn Kathir
+
+And Allah honored some of you over others with wealth and properties. Then, those who are so honored will by no means hand over their wealth and properties to those (captives of war) whom their right hands possess, so that they may be equal with them in that. Do they then deny the favor of Allah (71)
+
+There is a Sign and a Blessing in Matters of People's Livelihood
+
+Allah explains to the idolators the ignorance and disbelief involved in their claim that Allah has partners while also admitting that these partners are His servants. In their Talbiyah for Hajj, they used to say, "Here I am, there are no partners for You except Your own partner, You own him and everything he owns." Allah says, denouncing them: 'You would not accept for your servant to have an equal share in your wealth, so how is it that Allah would accept His servant to be His equal in divinity and glory? As Allah says elsewhere:
+
+ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَانُكُم مِّن شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ
+
+(He sets forth a parable for you from yourselves: Do you have partners among those whom your right hands possess (i.e. your servant) to share as equals in the wealth We have granted you, those whom you fear as you fear each other?)(30:28)
+
+Al-'Awfi reported that Ibn 'Abbas mentioned this Ayah, saying, "Allah is saying - 'If they did not want their servant to have a share with them in their wealth and wives, how can My servant have a share with Me in My power?' Thus Allah says:
+
+أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ
+
+(Do they then deny the favor of Allah?)" According to another report, Ibn 'Abbas said: "How can they accept for Me that which they do not accept for themselves?"
+
+أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ
+
+(Do they then deny the favor of Allah?) meaning, they assign to Allah a share of the tilth and cattle which He has created. They denied His blessings and associated others in worship with Him. Al-Hasan Al-Basri said: "Umar bin Al-Khattab wrote this letter to Abu Musa Al-Ash'ari: 'Be content with your provision in this world, for the Most Merciful has honored some of His servants over others in terms of provision as a test of both. The one who has been given plenty is being tested to see if he will give thanks to Allah and fulfill the duties which are his by virtue of his wealth...'" It was reported by Ibn Abi Hatim.
+
+## Maarif ul Quran
+
+Commentary
+
+In the previous verses, by referring to major manifestations of His knowledge and power and blessings which descend on human beings, Allah Ta` ala has the natural proof of His Oneness (Tauhid). By looking at it, even a person of ordinary commonsense would not accept that any created being can hold a share with Allah Ta’ ala in His attributes of knowledge and power, or in any of the others. In the present verse, this very subject of Tauhid has been brought into focus by citing the example of a case in mutual dealing.
+
+It is being said here that Allah Ta’ ala has not, in His infinite wisdom, and in view of His consideration for human good, made all human beings equals in terms of rizq or provision. Instead, He has given some of them preference over some others establishing different degrees therein. Someone was made so rich that he owns a lot of things, keeps a staff of all sorts of servers, spends as he wishes, and his servers too benefit through him. Then, someone was made to work for others who, far from spending on others, was cut out to receive his own expenditure from others. Then, someone was made to be somewhere in the middle, neither so rich as to spend on others, nor so poor and needy as to be dependent upon others even in the necessities of life.
+
+Everyone is aware of the outcome of this natural distribution that he who was given preference in provision and made rich and need-free would never accept to distribute his wealth among his slaves and servants in a way that they too become his equals in wealth.
+
+Understand the drive of this argument by applying this example on polytheists. They too accept that the idols and other created things they worship are, after all, created and owned by Allah Ta’ ala. If so, how can they suggest that the created and the owned become equals to their Creator and Master? Do such people see all these signs and hear all these words, yet go on to ascribe partners and equals to Allah, the necessary result of which is that they reject the blessings given by Allah? Because, if they had admitted that all these blessings have been given by Allah Ta` ala without the intervention of any self-carved idol, icon, human being and Jinn, then, how could they have equated these things with Allah Ta` ala?
+
+The same subject has been taken up in the following verse of Surah Ar-Rum: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ We have given for you an example from your own people. Have those who are your subjects become sharers with you in the provision given to you by Us whereby you are equal in it? (30:28)
+
+The outcome of this too is: When you do not like to let your servants and your slaves whom you own become equal to yourself, how can you like for Allah that He, and things created and owned by Him, become equal to Him?
+
+The Difference in Degrees of Economic Status is Mercy for Mankind
+
+This verse makes it clear that the presence of different degrees economic status among human beings - that someone is poor, another rich and yet another somewhere in the middle - is not accidental. It is as dictated by the wisdom of Allah Ta’ ala, as required by considerations for human good, and is mercy for mankind. If this state (of human society) were not to prevail and if all human beings were to become equal in wealth and possessions, it would have caused a breach of function in world order. Therefore, since the time the world became populated, all human beings have never been equal in terms of wealth and property, in any period, or age, nor can they be. Should such an equality were to be created compulsorily, it will take only a few days when disruption and disorder become openly visible through the entire spectrum of human dealings. Allah Ta’ ala has created human beings with varying degrees of temperaments as conditioned by intelligence, strength and functional ability. They have been further classified as low, high and average, a fact which cannot be rejected by any reasonable person. Similarly, it is also inevitable that there be different degrees in wealth and property as well so that every single person is rewarded in terms of individual capability. If the capable and the incapable were made equal, it wi11 discourage the capable. When the capable person has to stay at par with the in-capable in economic pursuits, what other motivation would compel him to go on striving and achieving excellence? The necessary outcome of such an approach will be no other but the demise of excellence acquired through functional capability.
+
+Qur'anic Injunctions Against Concentration of Wealth
+
+Whereas the Creator of the universe gave preference to some over others in physical and rational faculties, and established variance in pro-vision, wealth and property, subject to it, He has also established a strong system of economic equilibrium which aims that no particular group or party or a few individuals take over the treasures of wealth and centers of economic activity. This system also guards against the consequences of such a takeover which dries up the very field where capable people could thrive by utilizing their physical, intellectual and technical capabilities and advance economically. For this purpose, it was said in the Holy Qur’ an: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ. It means: (We made the law of distribution of wealth,) so that wealth does not come to be revolving among the rich from among you - Al-Hashar, 59:7.
+
+The widespread turbulence being experienced in the economic systems of the modern world is directly the result of bypassing this wise law given to us by Divine wisdom. On the one hand, there is the capitalist system in which some individuals or groups virtually take over the nerve centers of wealth through the medium of interest and gambling and go on to enslave the entire creation of Allah economically. They are rendered so helpless that they have no escape route left but to serve like slaves and work like dogs in order to get what they can to eke out a living, no matter how miserable. In a situation so sordid, it is a far cry that they would ever be able to step into the field of industry or trade despite having the best of capabilities for this purpose.
+
+As a reaction to this tyranny of capitalists, there rises a counter system in the name of socialism or communism. Their slogan is the removal of disparity between the rich and poor and the creation of equality between all. Masses of people already harassed by the injustices of the capitalist system go after the slogan. But, very soon, they discover that the slogan was nothing but deception. The dream of economic equality never came true. The poor person, despite poverty and hunger, had a certain human dignity, a certain right to do what he wished, but even that human dignity was snatched away by the system. In the communist system, the worth of a human person is no more than a part of its machines. Private ownership of property is simply out of question there. The factory worker owns nothing, not even the spouse and children. Everyone is a part of the state machine. When the machine starts, they have no choice but to start working on their jobs. Other than the so-called objectives of the state, the worker has no conscience or voice. The slightest grievance against the tyranny of the state and that unbearable labour on the job is counted as rebellion against the state the punishment for which is death. In short, hostility towards God and religion and adherence to bland materialism is the basic principle of communism.
+
+These are facts no communist can deny. The writings and doings of their commissars are proofs of this assertion for compiling relevant references to these amounts to making a regular book out of them.
+
+The Holy Qur'an has provided a system in between the two extremes of tyrannical capitalism and Quixotic communism keeping it free from excess and deficiency so that no individual or group could, despite there being a naturally placed dissimilarity in provision and wealth, go on to make the creation of Allah at large their slaves only to condemn them to ever rising prices of commodities and virtual famines. By declaring interest and gambling to be unlawful, it has demolished the foundations of illegitimate capitalism. Then, by making a categorical statement that the poor and needy have a right in the wealth of every Muslim, they were admitted as sharers, which is not supposed to be some favour done to them. In fact, it is the fulfillment of a duty. The verse: فِي أَمْوَالِهِمْ حَقٌّ مَّعْلُومٌ. (in their wealth, there is a known right for the asking and the deprived - Al-Ma’ arij, 70:24) proves it. After that, by distributing the en-tire property of a deceased person over individual inheritors of the family, it has eliminated the concentration of wealth. Natural streams, high seas and the self-growing produce of mountain forests were declared to be the common capital of the entire creation of Allah. No individual or group can take possession over them as something owned by them. This is not permissible. Contrary to this, in a capitalist system, these bless-ings are handled as something owned by capitalists only (under one or the other pretext).
+
+Since diversity and difference in intellectual and practical capabilities is a natural phenomena, and the pursuit of economic gains through them also depends on these very capabilities, therefore, diversity or dissimilarity in the ownership of wealth and property is also a dictate of wisdom. Whoever has the least sense of how things work in this world would find it hard to deny this truth. Even the champions of the slogan of equality could not go far enough with it. They had to abandon their claim of flat equality and were left with no choice but to introduce dissimilarity and incentive-oriented policy in national economy. On May 5, 1960, speaking before the Supreme Soviet, Nikita Khurshev said:
+
+'We are against the movement to eliminate difference in wages. We are openly against the efforts to establish equality in emoluments and to bring them at par. This is the teaching of Lenin. He taught that material motivations will be given full consideration in a socialist society.' (Soviet World, p.346)
+
+That the dream of economic equality had translated itself into its absence since the very early stages, but it did not take much time to witness that this absence of equality and the disparity between the rich and the poor in the communist state of Russia had gone much beyond the general run of capitalist countries. Lyon Sidov writes:
+
+'Perhaps, there is no developed capitalist country where the disparity in the wages of workers is as high as in Soviet Russia.'
+
+These few examples from the contemporary scene show how deniers were themselves compelled to confirm the truth of the verse: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ (And Allah has given some of you preference over others in provision - 71) and that (Allah does what He wills). As for comments under this verse, the purpose was limited to pointing out that the dissimilarity in provision and wealth is very natural and very much in accordance with considerations for human good. That which remains is the discussion of the Islamic Principles of Distribution of Wealth and how they distinctly differ from capitalism and communism both. Insha’ Allah, this will appear under comments on: نَحنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ (We have distributed among them their livelihood - Al-Zukhruf, 43:32) appearing in Ma` ariful-Qur’ an, Volume VII. An independent treatise on this subject entitled: 'Islam Ka Nizam-e-Taqsim-e-Daulat' written by this humble writer should also be sufficient for this purpose. [ This is also available in its Engish translation made by Professor Hasan Askari under the title: DISTRIBUTION OF WEALTH IN ISLAM from the publishers, Maktaba-e-Darul-Uloom, Korangi, Karachi, Pakistan ]
+
+## Personal Reflections

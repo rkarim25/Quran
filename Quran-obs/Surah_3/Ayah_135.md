@@ -1,0 +1,315 @@
+---
+arabic_ayat: وَالَّذِيۡنَ اِذَا فَعَلُوۡا فَاحِشَةً اَوۡ ظَلَمُوۡۤا اَنۡفُسَهُمۡ ذَكَرُوا
+  اللّٰهَ فَاسۡتَغۡفَرُوۡا لِذُنُوۡبِهِمۡ وَمَنۡ يَّغۡفِرُ الذُّنُوۡبَ اِلَّا اللّٰهُ
+   وَلَمۡ يُصِرُّوۡا عَلٰى مَا فَعَلُوۡا وَهُمۡ يَعۡلَمُوۡنَ‏
+sentence_translation: ˹They are˺ those who, upon committing an evil deed or wronging
+  themselves, remember Allah and seek forgiveness and do not knowingly persist in
+  sin—and who forgives sins except Allah?
+word_by_word:
+  1:
+    arabic: وَالَّذِيۡنَ
+    translation: And those
+    transliteration: wa-alladhīna
+  2:
+    arabic: اِذَا
+    translation: when
+    transliteration: idhā
+  3:
+    arabic: فَعَلُوۡا
+    translation: they did
+    transliteration: faʿalū
+  4:
+    arabic: فَاحِشَةً
+    translation: immorality
+    transliteration: fāḥishatan
+  5:
+    arabic: اَوۡ
+    translation: or
+    transliteration: aw
+  6:
+    arabic: ظَلَمُوۡۤا
+    translation: wronged
+    transliteration: ẓalamū
+  7:
+    arabic: اَنۡفُسَهُمۡ
+    translation: 'themselves '
+    transliteration: anfusahum
+  8:
+    arabic: ذَكَرُوا
+    translation: they remember
+    transliteration: dhakarū
+  9:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  10:
+    arabic: فَاسۡتَغۡفَرُوۡا
+    translation: then ask forgiveness
+    transliteration: fa-is'taghfarū
+  11:
+    arabic: لِذُنُوۡبِهِمۡ
+    translation: 'for their sins '
+    transliteration: lidhunūbihim
+  12:
+    arabic: وَمَنۡ
+    translation: and who
+    transliteration: waman
+  13:
+    arabic: يَّغۡفِرُ
+    translation: (can) forgive
+    transliteration: yaghfiru
+  14:
+    arabic: الذُّنُوۡبَ
+    translation: the sins
+    transliteration: l-dhunūba
+  15:
+    arabic: اِلَّا
+    translation: except
+    transliteration: illā
+  16:
+    arabic: اللّٰهُ 
+    translation: Allah
+    transliteration: l-lahu
+  17:
+    arabic: وَلَمۡ
+    translation: And not
+    transliteration: walam
+  18:
+    arabic: يُصِرُّوۡا
+    translation: they persist
+    transliteration: yuṣirrū
+  19:
+    arabic: عَلٰى
+    translation: 'on'
+    transliteration: ʿalā
+  20:
+    arabic: مَا
+    translation: what
+    transliteration: mā
+  21:
+    arabic: فَعَلُوۡا
+    translation: they did
+    transliteration: faʿalū
+  22:
+    arabic: وَهُمۡ
+    translation: while they
+    transliteration: wahum
+  23:
+    arabic: يَعۡلَمُوۡنَ‏
+    translation: know
+    transliteration: yaʿlamūna
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 135, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! Upto this point, the text describes qualities of character that relate to the fulfillment of human rights.
+
+## Tafsir Ibn Kathir
+
+O you who believe! Do not consume Riba doubled and multiplied, but fear Allah that you may be successful (130)And fear the Fire, which is prepared for the disbelievers (131)And obey Allah and the Messenger that you may obtain mercy (132)And march forth in the way (which leads to) forgiveness from your Lord, and for Paradise as wide as the heavens and the earth, prepared for the Muttaqin (the pious)(133)Those who spend (in Allah's cause) in prosperity and in adversity, who repress anger, and who pardon men; verily, Allah loves the Muhsinin (the good-doers)(134)And those who, when they have committed Fahishah (immoral sin) or wronged themselves with evil, remember Allah and ask forgiveness for their sins; and none can forgive sins but Allah, and do not persist in what (wrong) they have done, while they know (135)For such, the reward is forgiveness from their Lord, and Gardens with rivers flowing underneath (Paradise), wherein they shall abide forever. How excellent is this reward for the doers (of good)(136)
+
+Interest (Riba) is Prohibited
+
+Allah prohibits His believing servants from dealing in Riba and from requiring interest on their capital, just as they used to do during the time of Jahiliyyah. For instance, when the time to pay a loan comes, the creditor would say to the debtor, "Either pay now, or the loan will incur interest." If the debtor asks for deferment of the loan, the creditor would require interest and this would occur year after year until the little capital becomes multiplied many times. Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter. Allah also threatens them with the Fire and warns them against it, saying,
+
+وَاتَّقُوا النَّارَ الَّتِي أُعِدَّتْ لِلْكَافِرِينَ - وَأَطِيعُوا اللَّهَ وَالرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
+
+(And fear the Fire, which is prepared for the disbelievers. And obey Allah and the Messenger that you may obtain mercy.)[3:131-132].
+
+The Encouragment to Do Good for which Paradise is the Result
+
+Allah encourages His servants to perform righteous deeds and to rush to accomplish the acts of obedience. Allah said,
+
+وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ أُعِدَّتْ لِلْمُتَّقِينَ
+
+(And march forth in the way (which leads to) forgiveness from your Lord, and for Paradise as wide as the heavens and the earth, prepared for the Muttaqin (the pious))[3:133].
+
+Just as the Fire was prepared for the disbelievers. It was reported that the meaning of Allah's statement,
+
+عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ
+
+(as wide as the heavens and the earth) draws the attention to the spaciousness of Paradise. For instance, Allah said in another Ayah, while describing the couches of Paradise,
+
+بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ
+
+(lined with silk brocade)[55:54], so what about their outer covering? It was also said that Paradise is as wide as its length, because it is a dome under the Throne. The width and length of a dome or a circle are the same in distance. This is supported by what is found in the Sahih;
+
+إِذَا سَأَلْتُمُ اللهَ الْجَنَّـةَ فَاسْأَلُوهُ الْفِرْدَوْسَ، فَإِنَّهُ أَعْلَى الْجَنَّـةِ، وَأَوْسَطُ الْجَنَّةِ، وَمِنْهُ تَفَجَّرُ أَنْهَارُ الْجَنَّةِ، وَسَقْفُهَا عَرْشُ الرَّحْمَنِ
+
+(When you ask Allah for Paradise, ask Him for Al-Firdaws which is the highest and best part of Paradise. From it originate the rivers of Paradise, and above it is the Throne of the Most Beneficent (Allah).)
+
+This Ayah [3:133 above] is similar to Allah's statement in Surat Al-Hadid,
+
+سَابِقُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَاءِ وَالْأَرْضِ
+
+(Race with one another in hastening towards forgiveness from your Lord (Allah), and Paradise the width whereof is as the width of the heaven and the Earth)[57:21].
+
+Al-Bazzar recorded that Abu Hurayrah said that a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement,
+
+وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ
+
+(Paradise as wide as the heavens and the Earth)[3:133]; "Where is the Fire then?" The Prophet ﷺ said,
+
+أَرَأَيْتَ اللَّيْلَ إِذَا جَاءَ لَبِسَ كُلَّ شَيْءٍ، فَأَيْنَ النَّهَارُ؟
+
+(When the night comes, it overtakes everything, so where is the day?) The man said, "Where Allah wants it to be." The Prophet ﷺ said,
+
+وَكَذلِكَ النَّارُ تَكُونُ حَيْثُ شَاءَ اللهُ عَزَّ وَجَلَّ
+
+(Similarly, the Fire is where Allah wants it to be.) This Hadith has two possible meanings. First, when we do not see the night during the day, this does not mean that the day is not somewhere else, even though we cannot see it. Such is the case with Hell-fire, for it is where Allah wants it to be. The second meaning is that when the day overcomes this part of the world, the night overtakes the other part. Such is the case with Paradise, for it is in the utmost heights above the heavens and under the Throne. The width of Paradise is, as Allah stated,
+
+كَعَرْضِ السَّمَاءِ وَالْأَرْضِ
+
+(whereof is as the width of the heaven and the Earth)[57:21].
+
+The Fire, on the other hand, is in the lowest of lows. Therefore, Paradise being as wide as the heavens and Earth does not contradict the fact that the Fire exists wherever Allah wills it to be.
+
+Allah said, while describing the people of Paradise,
+
+الَّذِينَ يُنفِقُونَ فِي السَّرَّاءِ وَالضَّرَّاءِ
+
+(Those who spend (in Allah's cause) in prosperity and in adversity)[3:134], in hard times and easy times, while active (or enthusiastic) and otherwise, healthy or ill, and in all conditions, just as Allah said in another Ayah,
+
+الَّذِينَ يُنفِقُونَ أَمْوَالَهُم بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً
+
+(Those who spend their wealth (in Allah's cause) by night and day, in secret and in public)[2:274] These believers are never distracted from obeying Allah, spending on what pleases Him, being kind to His servants and their relatives, and other acts of righteousness. Allah said,
+
+وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ
+
+(who repress anger, and who pardon men;)[3:134] for when they are angry, they control their anger and do act upon it. Rather, they even forgive those who hurt them. Imam Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، وَلكِنَّ الشَّدِيدَ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ
+
+(The strong person is not he who is able to physically overcome people. The strong person is he who overcomes his rage when he is angry.)
+
+This Hadith is also recorded in the Two Sahihs. Imam Ahmad recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said,
+
+مَنْ أَنْظَرَ مُعْسِرًا أَوْ وَضَعَ لَهُ، وَقَاهُ اللهُ مِنْ فَيْحِ جَهَنَّمَ، أَلَا إِنَّ عَمَلَ الْجَنَّـةِ حَزْنٌ بِرَبْوَةٍ - ثَلَاثًا - أَلَا إِنَّ عَمَلَ النَّارِ سَهْلٌ بِسَهْوَةٍ. وَالسَّعِيدُ مَنْ وُقِيَ الْفِتَنَ، وَمَا مِنْ جَرْعَةٍ أَحَبُّ إِلَى اللهِ مِنْ جَرْعَةِ غَيْظٍ يَكْظِمُهَا عَبْدٌ، مَا كَظَمَهَا عَبْدٌ للهِ إِلَّا مَلَأَ جَوْفَهُ إِيمَانًا
+
+(He who gives time to a debtor or forgives him, then Allah will save him from the heat of Jahannam (Hell-fire). Behold! The deeds of Paradise are difficult to reach, for they are on top of a hill, while the deeds of the Fire are easy to find in the lowlands. The happy person is he who is saved from the tests. Verily, there is no dose of anything better to Allah than a dose of rage that the servant controls, and whenever the servant of Allah controls it, he will be internally filled with faith.)
+
+This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good.
+
+Imam Ahmad recorded that Sahl bin Mu'adh bin Anas said that his father said that the Messenger of Allah ﷺ said,
+
+مَنْ كَظَمَ غَيْظًا وَهُوَ قَادِرٌ عَلى أَنْ يُنْفِذَهُ دَعَاهُ اللهُ عَلى رُؤُوسِ الْخَلَائِقِ حَتَّى يُخَيِّرَهُ مِنْ أَيِّ الْحُورِ شَاءَ
+
+(Whoever controlled rage while able to act upon it, then Allah will call him while all creation is a witness, until He gives him the choice of any of the Huris (fair females with wide, lovely eyes - as mates for the pious) he wishes.)
+
+Abu Dawud, At-Tirmidhi and Ibn Majah collected this Hadith, which At-Tirmidhi said was "Hasan Gharib".
+
+Ibn Marduwyah recorded that Ibn 'Umar said that the Messenger of Allah ﷺ said,
+
+مَا تَجَرَّعَ عَبْدٌ مِنْ جَرْعَةٍ أَفْضَلَ أَجْرًا مِنْ جَرْعَةِ غَيْظٍ كَظَمَهَا ابْتِغَاءَ وَجْهِ اللهِ
+
+(There is not a dose of anything that the servant takes which is better than a dose of control of rage that he feels, when he does it seeking Allah's Face.) Ibn Jarir and Ibn Majah also collected this Hadith.
+
+Allah said,
+
+وَالْكَاظِمِينَ الْغَيْظَ
+
+(who repress anger) meaning, they do not satisfy their rage upon people. Rather, they refrain from harming them and await their rewards with Allah, the Exalted and Most Honored. Allah then said,
+
+وَالْعَافِينَ عَنِ النَّاسِ
+
+(and who pardon men;) They forgive those who treat them with injustice. Therefore, they do not hold any ill feelings about anyone in their hearts, and this is the most excellent conduct in this regard. This is why Allah said,
+
+وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
+
+(verily, Allah loves the Muhsinin (the good-doers)).
+
+This good conduct is a type of Ihsan [excellence in the religion]. There is a Hadith that reads,
+
+ثَلَاثٌ أُقْسِمُ عَلَيْهِنَّ: مَا نَقَصَ مَالٌ مِنْ صَدَقَةٍ، وَمَا زَادَ اللهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا، وَمَنْ تَوَاضَعَ للهِ رَفَعَهُ اللهُ
+
+(I swear regarding three matters: no charity shall ever decrease the wealth; whenever one forgives people, then Allah will magnify his honor; and he who is humble for Allah, then Allah will raise his rank.)
+
+Allah said,
+
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ
+
+(And those who, when they have committed Fahishah or wronged themselves with evil, remember Allah and ask forgiveness for their sins)[3:135].
+
+Therefore, if they commit an error they follow it with repentance and ask forgiveness. Imam Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+إِنَّ رَجُلًا أَذْنَبَ ذَنْبًا فَقَالَ: رَبِّ إِنِّي أَذْنَبْتُ ذَنْبًا فَاغْفِرْهُ، فَقَالَ اللهُ عَزَّ وَجَلَّ: عَبْدِي عَمِل ذَنْبًا فَعَلِمَ أَنَّ لَهُ رَبًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِهِ، قَدْ غَفَرْتُ لِعَبْدِي، ثُمَّ عَمِلَ ذَنْبًا آخَرَ فَقَالَ: رَبِّ إِنِّي عَمِلْتُ ذَنْبًا فَاغْفِرْهُ، فَقَالَ تَبَارَكَ وَتَعَالى: عَلِمَ عَبْدِي أَنَّ لَهُ ربًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِهِ، قَدْ غَفَرْتُ لِعَبْدِي، ثُمَّ عَمِلَ ذَنْبًا آخَرَ فَقَالَ: رَبِّ إِنِّي عَمِلْتُ ذَنْبًا فَاغْفِرْهُ لِي، فَقَالَ اللهُ عَزَّ وَجَلَّ: عَلِمَ عَبْدِي أَنَّ لَهُ ربًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِهِ، قَدْ غَفَرْتُ لِعَبْدِي، ثُمَّ عَمِلَ ذَنْبًا آخَرَ فَقَالَ: رَبِّ إِنِّي عَمِلْتُ ذَنْبًا فَاغْفِرْهُ لِي، فَقَالَ اللهُ عَزَّ وَجَلَّ: عَلِمَ عَبْدِي أَنَّ لَهُ ربًّا يَغْفِرُ الذَّنْبَ وَيَأْخُذُ بِهِ، أُشْهِدُكُمْ أَنِّي قَدْ غَفَرْتُ لِعَبْدِي فَلْيَعْمَلْ مَا شَاءَ
+
+(A man once committed an error and said, 'O Lord! I committed an error, so forgive me.' Allah said, 'My servant committed an error and knew that he has a Lord Who forgives or punishes for the error. I have forgiven My servant.' The man committed another error and said, 'O Lord! I committed an error, so forgive me.' Allah said, 'My servant knew that he has a Lord Who forgives or punishes for the sin. I have forgiven My servant.' The man committed another error and said, 'O Lord! I committed an error, so forgive me.' Allah said, 'My servant knew that he has a Lord Who forgives or punishes for the error. I have forgiven my servant.' He then committed another error and said, 'O Lord! I committed an error, so forgive me.' Allah said, 'My servant knew that he has a Lord Who forgives or punishes for the error. Bear witness that I have forgiven My servant, so let him do whatever he likes.') A similar narration was collected in the Sahih.
+
+Abdur-Razzaq recorded that Anas bin Malik said, "I was told that when the Ayah,
+
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ
+
+(And those who, when they have committed Fahishah or wronged themselves with evil, remember Allah and ask forgiveness for their sins,) was revealed, Iblis (Shayatan) cried." Allah's statement,
+
+وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ
+
+(and none can forgive sins but Allah), means that none except Allah forgives sins. Allah said,
+
+وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ
+
+(And do not persist in what (wrong) they have done, while they know), for they repent from their error, return to Allah before death, do not insist on error, and if they err again, they repent from it. Allah said here,
+
+وَهُمْ يَعْلَمُونَ
+
+(while they know) Mujahid and 'Abdullah bin 'Ubayd bin 'Umayr commented, "Whoever repents, then Allah will forgive him." Similarly, Allah said,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ
+
+(Know they not that Allah accepts repentance from His servants)[9:104], and,
+
+وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا
+
+(And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.)[4: 110] and there are several examples similar to this Ayah.
+
+Next, Allah said after this description,
+
+أُولَٰئِكَ جَزَاؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ
+
+(For such, the reward is forgiveness from their Lord)[3:136], as a reward for these qualities,
+
+مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
+
+(forgiveness from their Lord, and Gardens with rivers flowing underneath (Paradise)) carrying all kinds of drinks,
+
+خَالِدِينَ فِيهَا
+
+(wherein they shall abide forever) and ever,
+
+وَنِعْمَ أَجْرُ الْعَامِلِينَ
+
+(How excellent is this reward for the doers) Allah praises Paradise in this part of the Ayah.
+
+## Maarif ul Quran
+
+Upto this point, the text describes qualities of character that relate to the fulfillment of human rights. Following this, come qualities that relate to the rights of Allah where it has been said that true Muslims do not disobey Allah. Should they ever fall in sin under the compulsions of human weakness, they immediately turn to Allah, repent, seek His forgiveness and resolve to abstain from that sin in future.
+
+This character of true Muslims appears in the text in the following words:
+
+وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُ‌وا اللَّـهَ فَاسْتَغْفَرُ‌وا لِذُنُوبِهِمْ وَمَن يَغْفِرُ‌ الذُّنُوبَ إِلَّا اللَّـهُ وَلَمْ يُصِرُّ‌وا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ ﴿135﴾
+
+...and those who, when they happen to commit a shameful act or wrong themselves, remember Allah, then, seek forgiveness for their sins - and who is there to forgive sins except Allah? - and they do not persist in what they have done, knowingly.(135)
+
+The verse tells us that involvement in sin is caused by one's negligence in remembering Allah. So, the instruction is: If a sin has been committed, one should immediately turn to Allah, renew the zeal to obey Him and start remembering Him as He should be remembered.
+
+Another point of guidance here tells us that forgiveness of sins depends on two things:
+
+1. To regret past sins, seek pardon for these and to pray for forgiveness.
+
+2. To resolve fully not to go near them in future.
+
+May Allah Almighty bestow upon us the good fortune to become possessed with these supreme morals identified by the Holy Qur'an. Aamin.
+
+## Personal Reflections

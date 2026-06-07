@@ -1,0 +1,192 @@
+---
+arabic_ayat: اَجَعَلَ الۡاٰلِهَةَ اِلٰهًا وَّاحِدًا ۖۚ اِنَّ هٰذَا لَشَىۡءٌ عُجَابٌ‏
+sentence_translation: Has he reduced ˹all˺ the gods to One God? Indeed, this is something
+  totally astonishing.”
+word_by_word:
+  1:
+    arabic: اَجَعَلَ
+    translation: Has he made
+    transliteration: ajaʿala
+  2:
+    arabic: الۡاٰلِهَةَ
+    translation: the gods
+    transliteration: l-ālihata
+  3:
+    arabic: اِلٰهًا
+    translation: (into) one god
+    transliteration: ilāhan
+  4:
+    arabic: وَّاحِدًا ۖۚ
+    translation: (into) one god
+    transliteration: wāḥidan
+  5:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  6:
+    arabic: هٰذَا
+    translation: this
+    transliteration: hādhā
+  7:
+    arabic: لَشَىۡءٌ
+    translation: (is) certainly a thing
+    transliteration: lashayon
+  8:
+    arabic: عُجَابٌ‏
+    translation: curious
+    transliteration: ʿujābun
+---
+
+## Context
+
+To understand **The Letter "Saad"** (Sad) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Has he made the gods into One God. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah:
+
+When they said this, it indicated their ignorance and lack of understanding since they thought it was unlikely that the Qur'an would be revealed to the Messenger ﷺ and not to somebody else.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And they wonder that a warner has come to them from among themselves. The background of the revelation The background of the revelation of the initial verses of this Surah was that Abu Talib, the uncle of the Holy Prophet ﷺ was doing his best as his guardian, despite that he had not yet embraced Islam.
+
+## Tafsir Ibn Kathir
+
+And they wonder that a warner has come to them from among themselves. And the disbelievers say: "This is a sorcerer, a liar. (4)"Has he made the gods into One God. Verily, this is a curious thing! (5)And the leaders among them went about (saying): "Go on, and remain constant to your gods! Verily, this is a thing designed! (6)"We have not heard (the like) of this in the religion of these later days. This is nothing but an invention! (7)"Has the Reminder been sent down to him (alone) from among us?" Nay, but they are in doubt about My Reminder! Nay, but they have not tasted (My) torment (8)Or have they the treasures of the mercy of your Lord, the Almighty, the Real Bestower (9)Or is it that the dominion of the heavens and the earth and all that is between them is theirs If so, let them ascend up with means (10)They will be a defeated host like the Confederates of the old times (11)
+
+The Idolators were amazed at the Message, Tawhid and the Qur'an
+
+Allah tells us that the idolators wondered at the sending of the Messenger of Allah ﷺ as a bringer of glad tidings and a warner. This is like the Ayah:
+
+أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَا إِلَىٰ رَجُلٍ مِنْهُمْ أَنْ أَنْذِرِ النَّاسَ وَبَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِنْدَ رَبِّهِمْ ۗ قَالَ الْكَافِرُونَ إِنَّ هَٰذَا لَسَاحِرٌ مُبِينٌ
+
+(Is it a wonder for mankind that We have sent Our revelation to a man from among themselves (saying): "Warn mankind, and give good news to those who believe that they shall have with their Lord the rewards of their good deeds?" (But) the disbelievers say: "This is indeed an evident sorcerer!")(10:2). And Allah says here:
+
+وَعَجِبُوا أَنْ جَاءَهُمْ مُنْذِرٌ مِنْهُمْ ۖ
+
+(And they wonder that a warner has come to them from among themselves.) meaning, a human being like themselves.
+
+وَقَالَ الْكَافِرُونَ هَٰذَا سَاحِرٌ كَذَّابٌ - أَجَعَلَ الْآلِهَةَ إِلَٰهًا وَاحِدًا ۖ
+
+(And the disbelievers said: "This is a sorcerer, a liar. Has he made the gods into One God?") meaning, does he claim that the One Who is to worshipped is One and there is no god besides Him? The idolators – may Allah curse them – denounced that and were amazed at the idea of giving up Shirk, because they had learned from their forefathers to worship idols and their hearts were filled with love for that. When the Messenger ﷺ called them to rid their hearts of that and to worship Allah Alone, this was too much for them and they were astounded by it. They said:
+
+أَجَعَلَ الْآلِهَةَ إِلَٰهًا وَاحِدًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عُجَابٌ - وَانْطَلَقَ الْمَلَأُ مِنْهُمْ
+
+("Has he made the gods into One God? Verily, this is a curious thing!" And the leaders among them went about) meaning the chiefs and masters and nobles,
+
+امْشُوا
+
+((saying): "Go on...") meaning, 'persist in your religion,'
+
+وَاصْبِرُوا عَلَىٰ آلِهَتِكُمْ
+
+(and remain constant to your gods!), meaning, 'do not respond to Muhammad's call to Tawhid.'
+
+إِنَّ هَٰذَا لَشَيْءٌ يُرَادُ
+
+(Verily, this is a thing designed!) Ibn Jarir said, "The Tawhid to which Muhammad is calling you is something by which he wishes to gain power over you, and exalt his own position, so that he will have followers among you, but we will not respond to him."
+
+The Reason for the Revelation of These Ayat
+
+Abu Ja'far bin Jarir recorded that Ibn 'Abbas, may Allah be pleased with him, said, "When Abu Talib fell sick, some of the people of the Quraysh, including Abu Jahl, entered upon him and said, 'Your brother's son is insulting our gods; he does such and such and says such and such. Why don't you send for him and tell him not to do that?' So he sent for the Prophet ﷺ and he entered the house. There was space enough for one man to sit between them and Abu Talib, and Abu Jahl, may Allah curse him, was afraid that if [the Prophet ﷺ] were to sit beside Abu Talib he would be more lenient with him, so he jumped up and sat in that spot, and the Messenger of Allah ﷺ could find nowhere to sit near his uncle, so he sat by the door. Abu Talib said to him, 'O son of my brother, why are your people complaining about you and claiming that you insult their gods and say such and such?' They made so many complaints against him. Thereupon, he ﷺ said,
+
+يَا عَمِّ إِنِّي أُرِيدُهُمْ عَلَى كَلِمَةٍ وَاحِدَةٍ يَقُولُونَهَا تَدِينُ لَهُمْ بِهَا الْعَرَبُ، وَتُؤَدِّي إِلَيْهِمْ بِهَا الْعَجَمُ الْجِزْيَةَ
+
+(O uncle, all I want from them is one word which, if they say it, the Arabs will become their followers and the non-Arabs will pay Jizyah to them.) They were worried about what he said, so they said, 'One word? Yes, by your father, (we will say) ten words! What is it?' Abu Talib said, 'What word is it, O son of my brother?' He ﷺ said,
+
+لَا إِلَهَ إِلَّا اللهُ
+
+(La ilaha illallah.) They stood up in agitation, brushing down their clothes, saying,
+
+أَجَعَلَ الْآلِهَةَ إِلَٰهًا وَاحِدًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عُجَابٌ
+
+(Has he made the gods into One God. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah:
+
+بَلْ لَمَّا يَذُوقُوا عَذَابِ
+
+(Nay, but they have not tasted (My) torment!)" This is the wording of Abu Kurayb. Something similar was also recorded by Imam Ahmad and An-Nasa'i, and At-Tirmidhi said, "Hasan."
+
+مَا سَمِعْنَا بِهَٰذَا فِي الْمِلَّةِ الْآخِرَةِ
+
+(We have not heard (the like) of this in the religion of these later days.) means, 'we have not heard anything like this Tawhid to which Muhammad calls us in the religion of these later days.'
+
+Al-'Awfi reported that Ibn 'Abbas, may Allah be pleased with him, said, "We have not heard of this from the religion of these later days (meaning Christianity); if this Qur'an were true, the Christians would have told us about it."
+
+إِنْ هَٰذَا إِلَّا اخْتِلَاقٌ
+
+(This is nothing but an invention!) Mujahid and Qatadah said, "A lie." Ibn 'Abbas said, "A fabrication."
+
+أَأُنْزِلَ عَلَيْهِ الذِّكْرُ مِنْ بَيْنِنَا ۚ
+
+(Has the Reminder been sent down to him (alone) from among us?)
+
+They thought it unlikely that he would be singled out from among them to receive the Qur'an. This is like the Ayat:
+
+لَوْلَا نُزِّلَ هَٰذَا الْقُرْآنُ عَلَىٰ رَجُلٍ مِنَ الْقَرْيَتَيْنِ عَظِيمٍ
+
+(And they say: "Why is not this Qur'an sent down to some great man of the two towns?")(43:31). Allah said:
+
+أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُمْ مَعِيشَتَهُمْ فِي الْحَيَاةِ الدُّنْيَا ۚ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَاتٍ
+
+(Is it they who would portion out the mercy of your Lord? It is We Who portion out between them their livelihood in this world, and We raised some of them above others in ranks)(43:32).
+
+When they said this, it indicated their ignorance and lack of understanding since they thought it was unlikely that the Qur'an would be revealed to the Messenger ﷺ and not to somebody else.
+
+بَلْ لَمَّا يَذُوقُوا عَذَابِ
+
+(Nay, but they have not tasted (My) torment!) means, they say this because they have not yet tasted the punishment and vengeance of Allah. But they will come to know the consequences of what they say and what they rejected on the Day when they are herded into the fire of Hell. Then Allah points out that He is the One Who is in control of His Creation and Who does whatever He wills, Who gives whatever He wants to whomever He wants, and honors whomever He wants and humiliates whomever He wants, and guides whomever He wants and misguides whomever He wants, and sends the Ruh (Jibril) by His command upon whomsoever He wants among His servants, and seals the hearts of whomever He wants, so no one can guide him apart from Allah. His servants do not possess any power and have no control over His dominion, not even a speck of dust's weight; they do not possess even a thin membrane over a date stone. Allah says, denouncing them:
+
+أَمْ عِنْدَهُمْ خَزَائِنُ رَحْمَةِ رَبِّكَ الْعَزِيزِ الْوَهَّابِ
+
+(Or have they the treasures of the mercy of your Lord, the Almighty, the Real Bestower?) meaning, the Almighty Whose might cannot be overcome, the Bestower Who gives whatever He wills to whomsoever He wills. This Ayah is like the Ayah:
+
+أَمْ لَهُمْ نَصِيبٌ مِنَ الْمُلْكِ فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا - أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ ۖ فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا - فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ مَنْ صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا
+
+(Or have they a share in the dominion? Then in that case they would not give mankind even a speck on the back of a date stone. Or do they envy men for what Allah has given them of His bounty? Then, We had already given the family of Ibrahim the Book and Al-Hikmah, and conferred upon them a great kingdom. Of them were (some) who believed in him, and of them were (some) who averted their faces from him; and enough is Hell for burning (them).)(4:53-55).
+
+قُلْ لَوْ أَنْتُمْ تَمْلِكُونَ خَزَائِنَ رَحْمَةِ رَبِّي إِذًا لَأَمْسَكْتُمْ خَشْيَةَ الْإِنْفَاقِ ۚ وَكَانَ الْإِنْسَانُ قَتُورًا
+
+(Say: "If you possessed the treasure of the mercy of my Lord (wealth), then you would surely hold back for fear of (being exhausted), and man is ever miserly!")(17:100).
+
+This is after Allah tells us the story of how the disbeliever denied the sending of a human Messenger, as He tells us that the people of Salih, peace be upon him, said:
+
+أَأُلْقِيَ الذِّكْرُ عَلَيْهِ مِنْ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ - سَيَعْلَمُونَ غَدًا مَنِ الْكَذَّابُ الْأَشِرُ
+
+("Is it that the Reminder is sent to him alone from among us Nay, he is an insolent liar!" Tomorrow they will come to know who is the liar, the insolent one!)(54:25-26)
+
+أَمْ لَهُمْ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ فَلْيَرْتَقُوا فِي الْأَسْبَابِ
+
+(Or is it that the dominion of the heavens and the earth and all that is between them is theirs? If so, let them ascend up with means.) means, if they have that, then let them ascend up with means. Ibn 'Abbas, may Allah be pleased with him, Mujahid, Sa'id bin Jubayr, Qatadah and others said, "The ways to the heaven."
+
+Ad-Dahhak, said, "Then let them ascend into the seventh heaven." Then Allah says,
+
+جُنْدٌ مَا هُنَالِكَ مَهْزُومٌ مِنَ الْأَحْزَابِ
+
+(they will be a defeated host like the Confederates of the old times.) meaning, these hosts of disbelievers who are in false pride and opposition will be defeated and overwhelmed and disgraced, just as the Confederates of the old times were disgraced before them. This Ayah is like the Ayah:
+
+أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُنْتَصِرٌ - سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ
+
+(Or say they: "We are a great multitude, victorious?" Their multitude will be put to flight, and they will show their backs.)(54:44-45) – which is what happened on the day of Badr –
+
+بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَىٰ وَأَمَرُّ
+
+(Nay, but the Hour is their appointed time, and the Hour will be more grievous and more bitter.)(54:46)
+
+## Maarif ul Quran
+
+Commentary
+
+The background of the revelation
+
+The background of the revelation of the initial verses of this Surah was that Abu Talib, the uncle of the Holy Prophet ﷺ was doing his best as his guardian, despite that he had not yet embraced Islam. When he fell sick, the chiefs of the tribe of Quraish held a consultative meeting in which Abu Jahl, ` As Ibn Wa'il, Aswad Ibn Muttalib, Aswad Ibn ` Abd Yaghuth and several other chiefs participated. They discussed the situation they faced. Abu Talib was sick. If he were to pass away and they were to take some strong action against the Holy Prophet ﷺ to restrain his activities in favor of promoting his new faith, the people of Arabia will throw taunts at them and say, 'Here are these people who could do nothing against him while his uncle Abu Talib was alive while, now when he has died, they have stood up against him as their target. So, they came to the conclusion that they should decide this thing about Muhammad ﷺ while Abu Talib was still alive, so that he would stop speaking ill about their objects of worship.
+
+Accordingly, these people came to Abu Talib and said to him that his nephew spoke ill of their objects of worship. They appealed to his sense of justice, and asked him to tell his nephew that he was free to worship any god he liked, but say nothing against their objects of worship. The truth of the matter was that the Holy Prophet ﷺ himself did not say about these idols anything more than that they were insensate and lifeless. They were not their creators, nor their sustainers, and that nothing that could benefit or harm them was in their control. Abu Talib asked the Holy Prophet ﷺ to come in the meeting. To him, he said, 'My dear nephew, these people are complaining about you that you speak ill of their objects of worship. Leave them on their faith and, on your part, you keep worshiping your God.' People from the Quraish also kept making their comments following it.
+
+Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting them to something that is better for them?' Abu Talib said, 'What thing is that?' He said, 'I want them to say a particular kalimah (statement) by virtue of which the whole Arabia will be at their feet, and they will become masters of the non-Arab lands beyond it.' Thereupon, Abu Jahl said, 'Tell us. What that kalimah is? By your father, not simply one kalimah, we are ready to say ten of them.' To this he replied, 'Just say: لا إله إلا اللہ (la ilaha il-lal-lah: There is no god (worthy of worship) but Allah). Hearing this, all of them rose to leave saying, 'Are we supposed to leave all objects of worship we have, and take to just one? This is something very strange.' It was on this occasion that these verses of Surah Sad were revealed. (Tafsir Ibn Kathir, pp. 27, 28 v. 4)
+
+## Personal Reflections

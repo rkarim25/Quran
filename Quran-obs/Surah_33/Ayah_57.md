@@ -1,0 +1,196 @@
+---
+arabic_ayat: اِنَّ الَّذِيۡنَ يُؤۡذُوۡنَ اللّٰهَ وَرَسُوۡلَهٗ لَعَنَهُمُ اللّٰهُ فِى
+  الدُّنۡيَا وَالۡاٰخِرَةِ وَاَعَدَّ لَهُمۡ عَذَابًا مُّهِيۡنًا‏
+sentence_translation: Surely those who offend Allah and His Messenger are condemned
+  by Allah in this world and the Hereafter. And He has prepared for them a humiliating
+  punishment.
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  3:
+    arabic: يُؤۡذُوۡنَ
+    translation: annoy
+    transliteration: yu'dhūna
+  4:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  5:
+    arabic: وَرَسُوۡلَهٗ
+    translation: and His Messenger
+    transliteration: warasūlahu
+  6:
+    arabic: لَعَنَهُمُ
+    translation: Allah has cursed them
+    transliteration: laʿanahumu
+  7:
+    arabic: اللّٰهُ
+    translation: Allah has cursed them
+    transliteration: l-lahu
+  8:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  9:
+    arabic: الدُّنۡيَا
+    translation: the world
+    transliteration: l-dun'yā
+  10:
+    arabic: وَالۡاٰخِرَةِ
+    translation: and the Hereafter
+    transliteration: wal-ākhirati
+  11:
+    arabic: وَاَعَدَّ
+    translation: and prepared
+    transliteration: wa-aʿadda
+  12:
+    arabic: لَهُمۡ
+    translation: for them
+    transliteration: lahum
+  13:
+    arabic: عَذَابًا
+    translation: a punishment
+    transliteration: ʿadhāban
+  14:
+    arabic: مُّهِيۡنًا‏
+    translation: humiliating
+    transliteration: muhīnan
+---
+
+## Context
+
+To understand **The Combined Forces** (Al-Ahzab) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Verily, those who annoy Allah and His Messenger,) was revealed concerning those who make pictures or images.
+
+(Verily, those who annoy Allah and His Messenger,) was revealed about those who slandered the Prophet ﷺ over his marriage to Safiyyah bint Huyay bin Akhtab.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, those who annoy Allah and His Messenger, Allah has cursed them in this world and in the Hereafter, and has prepared for them a humiliating torment (57)And those who annoy believing men and women undeservedly, the… In verses previous to this, some peculiarities and distinctions of the Holy Prophet ﷺ were mentioned as an adjunct to which the command to observe Hijab was revealed while some injunctions of Hijab will also appear later on.
+
+## Tafsir Ibn Kathir
+
+Verily, those who annoy Allah and His Messenger, Allah has cursed them in this world and in the Hereafter, and has prepared for them a humiliating torment (57)And those who annoy believing men and women undeservedly, they bear the crime of slander and plain sin (58)
+
+Whoever annoys Allah and His Messenger صلی اللہ علیہ وسلم , is cursed in this World and the Hereafter
+
+Here, Allah warns and threatens those who annoy Him by going against His commands and doing that which He has forbidden, and who persist in doing so, and those who annoy His Messenger ﷺ by accusing him of having faults or shortcomings – Allah forbid. 'Ikrimah said that the Ayah:
+
+إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ
+
+(Verily, those who annoy Allah and His Messenger,) was revealed concerning those who make pictures or images.
+
+In The Two Sahihs, it is reported that Abu Hurayrah said: "The Messenger of Allah ﷺ said:
+
+يَقُولُ اللهُ عَزَّ وَجَلَّ: يُؤْذِينِي ابْنُ آدَمَ، يَسُبُّ الدَّهْرَ وَأَنَا الدَّهْرُ أُقَلِّبُ لَيْلَهُ وَنَهَارَهُ
+
+(Allah says: "The son of Adam annoys Me by inveighing against time, but I am time, for I cause the alternation of night and day.")" The meaning of this Hadith is that in the Jahiliyyah they used to say, "How bad time is, it has done such and such to us!" They used to attribute the deeds of Allah to time, and inveigh against it, but the One Who did that was Allah, may He be exalted. So, He forbade them from this. Al-'Awfi reported that Ibn 'Abbas said that the Ayah,
+
+إِنَّ الَّذِينَ يُؤْذُونَ اللَّهَ وَرَسُولَهُ
+
+(Verily, those who annoy Allah and His Messenger,) was revealed about those who slandered the Prophet ﷺ over his marriage to Safiyyah bint Huyay bin Akhtab.
+
+The Ayah appears to be general in meaning and to apply to all those who annoy him in any way, because whoever annoys him annoys Allah, just as whoever obeys him obeys Allah.
+
+The Threat to Those Who fabricate Slander
+
+وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا
+
+(And those who annoy believing men and women undeservedly,) means, they attribute to them things of which they are innocent, which they do not know and do not do.
+
+فَقَدِ احْتَمَلُوا بُهْتَانًا وَإِثْمًا مُبِينًا
+
+(they bear the crime of slander and plain sin.) This is the most serious slander, to tell or transmit things about the believing men and women that they have not done, in order to bring shame upon them and accuse them of shortcomings. Among those to whom the description most applies are those who disbelieve in Allah and His Messengers, followed by the Rafidites who accuse the Companions of shortcomings and faults of which Allah has stated that they are innocent, and describe them as the opposite of what Allah has said about them. Allah, may He be exalted, has told us that He is pleased with the Migrants and Ansar, and has praised them, but these foolish and ignorant people inveigh against them and accuse them of shortcomings, and say things about them that they did not do and could never have done. In reality, their hearts are misguided, for they condemn those who deserve praise and praise those who deserve condemnation.
+
+Abu Dawud recorded that Abu Hurayrah said that it was said: "O Messenger of Allah, what is backbiting (Ghibah)?" He said,
+
+ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ
+
+(It is when you mention something about your brother that he dislikes.) It was asked, "But what if what I say about my brother is true?" He said,
+
+إِنْ كَانَ فِيهِ مَا تَقُولُ فَقَدِ اغْتَبْتَهُ، وَإِنْ لَمْ يَكُنْ فِيهِ مَا تَقُولُ فَقَدْ بَهَتَّهُ
+
+(If it is true, then you have committed backbiting (Ghibah) about him, and if it is not true, then you have slandered him.) This was also recorded by At-Tirmidhi, who said, "Hasan Sahih."
+
+## Maarif ul Quran
+
+Commentary
+
+In verses previous to this, some peculiarities and distinctions of the Holy Prophet ﷺ were mentioned as an adjunct to which the command to observe Hijab was revealed while some injunctions of Hijab will also appear later on. In between, the present verse contains a command to do something for which all these peculiarities and distinctions have been instituted in his blessed person, that is, the recognition and expression of the greatness of the station of the Holy Prophet ﷺ as well as an invitation to imbibe into one's own self the virtues of reverence, love and obedience for him.
+
+The real purpose of the verse was to obligate Muslims to send Salah (durood) and Salam upon the Holy Prophet ﷺ . But the command was given in a manner that, first of all, Allah Ta'ala pointed out that He Himself and His angels perform the act of Salah for the Holy Prophet ﷺ . After that, common Muslims were ordered to follow suit. By doing so, it is indicated that the station of the Holy Prophet ﷺ is so high that the act asked to be done by common Muslims in his respect is something already done by Allah Ta’ ala Himself as well as angels with Him. Now then, common believers who are indebted to so many favours done to them by as their noble Prophet should certainly give high priority to making this act their essential concern. Then there is yet another good outcome of this modality of expression. It proves the great merit accredited to Muslims who send Salah and Salam as Allah Ta'ala makes them share in doing what Allah Ta’ ala Himself does and so do His angels.
+
+The Meaning of Salah (durood) and Sa1am
+
+The word: صَلوٰۃ (Salah) is used in the Arabic language to convey the sense of: Mercy (rahmah), prayer (du a' ) and praise (madh مدح and ثناء thana' ). The Salah attributed to Allah Ta'ala in the cited verse means His sending of mercy, but Salah from the angels denotes their prayer for him, and the sense of Salah (durood) from common believers is a combination of dua' (prayer) and thana' (praise). Most commentators have given these very meanings and Imam Al-Bukhari has reported from Abu-l-` Aliyah that the Salah of Allah Ta’ ala means the honor accorded to him and the praise showered on him before the angels. As for the honor bestowed on him by Allah Ta’ ala within this mortal world, it translates as the high rank he was blessed with when, on many an occasion, his mention was joined with the mention of Allah Ta’ ala in adhan (the initial call for prayers) and iqamah (the call announcing the immediate start of the prayer) and elsewhere, and that Allah Ta’ ala made the religion brought by him spread and prevail throughout the world, and that He enjoined upon all people to keep acting in accordance with the Shari’ ah brought by him right through the last day of al-Qiyamah and, along with it, He has undertaken to keep his Shari’ ah stand perennially protected. Then, as for the honor bestowed upon him in the Hereafter, it can be said that his station was made to be the most exalted of the entire creation and, at a time when no prophet or angel could dare intercede on behalf of anyone, it was right at that time that he was blessed with the celebrated station of intercession called: مقام محمود (Al-maqam-ul- mahmud: Praised Station).
+
+Given the interpretation that Allah's Sala in favour of the Holy Prophet ﷺ means praise, someone may raise a doubt that, according to the narrations of Hadith, Salah and Salam are also offered to the family and companions of the Holy Prophet ﷺ . If so, how can anyone other than him be made to share in the honor bestowed and praise done by Allah Ta’ ala? This doubt has been answered in Ruh-ul-Ma’ ani etc. by saying that the degrees of such honor and praise are many. The Holy Prophet ﷺ has it at its highest, while his family and companions and believers in general are included with him only to a certain degree.
+
+As for the word: سلام (Salam), it is an infinitive in the sense of اَلسلامہ (as-salamah) and means staying in peace. And السلامُ علیک (As-sala mu'alaik: conveniently taken as 'peace on you' ) means: May the state of peace and security from losses, defects and calamities be with you. And since, according to the rule of Arabic grammar, this is not the occasion to use the word: عَلٰی ([ ala: on, upon), but since the word 'Salam' implies praise, hence the word: عَلٰی (` ala) is appended with it.
+
+And some other early commentators have taken the word: Salam here to mean the sacred Being of Allah Taala, because Salam is among the beautiful names of Allah Ta’ ala. According to this view the sentence will mean that Allah is enough to take care of your security and well-being.
+
+The method of Salah and Salam
+
+There appears a Hadith in the Sahih of Bukhari and Muslim, as well as in other books of Hadith, where Sayyidna Ka'b Ibn 'Ujrah ؓ has been reported to have said: ' (When this verse was revealed), someone asked the Holy Prophet ﷺ (The verse orders us to do two things, Salah and salam.) We already know the method of saying salam, (being السلامُ علیکَ اَیُّھَا النَّبِیُّ that is, may peace and safety be on you. 0 Prophet) now tell us the method of Salah also." He said: Say these words:
+
+اللَّهُمَّ صَلِّ عَلَی مُحَمَّدٍ وَعَلَی آلِ مُحَمَّدٍ کَمَا صَلَّيْتَ عَلَی إِبْرَاهِيمَ وَعَلَی آلِ إِبْرَاهِيمَ إِنَّکَ حَمِيدٌ مَجِيدٌ
+
+اللَّهُمَّ بَارِکْ عَلَی مُحَمَّدٍ وَعَلَی آلِ مُحَمَّدٍ کَمَا بَارَکْتَ عَلَی إِبْرَاهِيمَ وَعَلَی آلِ إِبْرَاهِيمَ إِنَّکَ حَمِيدٌ مَجِيد
+
+"0 Allah, send mercy on Muhammad and on the progeny of Muhammad, as You sent mercy on Ibrahim and on the progeny of Ibrahim. Verily, You are Praised, Glorious. 0 Allah, send blessings on Muhammad and on the progeny of Muhammad as You sent blessings on Ibrahim and on the progeny of Ibrahim. Verily, You are Praised, Glorious."
+
+Some other words in this respect have also been reported in other narrations of Hadith.
+
+As for the reason why the noble Sahabah asked this question, perhaps it is that they had already been taught the method of offering their Salam in the تَشَھُّد : (tashahhud or saying of اَلتَّحِیَّت وَ رَحمَۃُ اللہِ وَ بَرَکَاتُہ، At-tahiyyat) where it is said: (as-salamu alaika aiyuhannabiyyu wa rahmatullahi wa barakatuh: Peace and safety on you, 0 Prophet, and the mercy of Allah and His blessings). Therefore, they did not like to determine, on their own, the precise words in the case of the saying of Salah. Instead of that, they wanted the exact words of saying the Salah to be determined by the Holy Prophet ﷺ himself. It is for this reason that صَلوٰط (Salah) has generally been adopted in these very words as part of the prescribed prayers, Namaz or Salah. But, it does not mean that the obligation of sending Salah (durud) is restricted to these specific words, because many different forms of Salah (durud), have been authentically reported from the Holy Prophet ﷺ himself. The requirement of sending Salah and Salam can be fulfilled by every such sentence that has the words of Salah and Salam in it. Then, it is also not necessary that those words should have been reported exactly as said by the Holy Prophet ﷺ . In fact, the obligation may be discharged and the reward of sending Salah may be achieved by any style of address that conveys the words of Salah and Salam. But, it is obvious that the exact words reported from the Holy Prophet ﷺ are certainly much more blessed and are the cause of bringing many more rewards. It was for this very reason that the noble Sahabah had asked the Holy Prophet ﷺ himself to determine the words of ; صَلوٰط (Salah).
+
+In the Qa'dah (sitting position) of the prescribed prayer (Salah or Namaz), the saying of the words of Salah and Salam exactly in the manner reported above is masnun (per Sunnah) right up to the last day of Qiyamah, (even though these words are meant to address the Holy Prophet ﷺ by saying ' Salam on you, 0 prophet' ) As for occasions outside the prescribed prayers (Salah or Namaz), these exact words should have been employed when the Holy Prophet ﷺ was addressed during his lifetime. When, after his departure from this mortal world, one has the good fortune of standing before the sacred Rawdah (the holy tomb) of the Holy Prophet ﷺ and submitting his Salam to him, then, there too, it is masnun to employ the form of second person: السلام علیک (as-salamu 'alaik). Other than that, wherever Salah and Salam is recited in absentia, then, the use of the third person form has been reported from the Sahabah, Tabi` in and the Imams of the Muslim Ummah for example:... (sallallahu 'alaihi wa sallam i.e. May Allah send mercy and peace to him.- as fully demonstrated by books of Hadith at large.
+
+The wisdom behind the aforesaid method of Salah and Salam
+
+The outcome of the method of Salah and Salam which stands proved from the blessed words spoken by him and demonstrated practically through his deeds is no other but that all of us in the Muslim Ummah should pray to Allah Ta’ ala for mercy, peace and safety for him. At this point, a question is worth noting. Is it not that the verse required us to personally fulfill the right of the Holy Prophet ﷺ that he be revered and honored, but the method proposed was that we pray to Allah? Embedded here is the hint that fulfilling the due right of honoring and obeying the Holy Prophet ﷺ was not within the power and control of any of us, therefore, it was made mandatory for us that we should supplicate before Allah Ta’ ala. (Ruh-ul- Ma’ ani)
+
+The injunctions of Salah and Salam
+
+In the last Qa'dah (sitting position) of the prescribed prayers, (namaz or Salah), the saying of درود شریف (Salah, that is, the noble durud) is Sunnah Mu'akkadah (emphasized Sunnah) according to the majority of the Imams. But, with Imam Shafi` i and Imam Ahmad Ibn Hanbal (رح) ، it is wajib (necessary). If abandoned, it becomes necessary, according to them, to make namaz or Salah all over again.
+
+Related Rulings
+
+1. When someone mentions the name of the Holy Prophet ﷺ ، or hears someone mentioning it, reciting the words of sending Salah (the noble durud) becomes wajib (obligatory) on him or her. This is a point of consensus among the majority of Muslim jurists. The reason is that there are warnings in Hadith against not reciting the noble durud when his blessed name is being referred. According to Jami' of Tirmidhi, the Holy Prophet ﷺ said: رَغِمَ اَنفُ رَجُلِ ذُکِرتُ عِندَہ، فَلَم یُصَلَّ عَلَیَّ : "Disgraced is the man before whom I am mentioned, yet he does not send Salah (Durud) on me". (Tirmidhi calls this Hadith 'Hasan', and Ibn-us- Sunni reports it with strong authorities).
+
+And in another Hadith it has been said: اَلبَخِیلُ مَن ذُکِرتُ عِندَہ، فَلَم یُصَلِّ عَلَیَّ “ A miser is he before whom I am mentioned yet he does not send Salam (Durud) on me". (reported by Tirmidhi who rated it as 'Hasan Sahih' ).
+
+2. If his blessed mention is made repeatedly in a single sitting, reciting the Salah (Durud) only once may discharge the obligation. But, the desirable (mustahabb) thing is to recite the noble Durud every time one makes his blessed mention himself, or hears someone else make it. Who can claim to mention the name of the Holy Prophet ﷺ more frequently than the scholars of the Hadith? Their function is nothing but to narrate the ahadith of the Holy Prophet ﷺ in which they have to mention his name repeatedly. Still, their consistent practice was to recite or write the Salam each and every time. All books of Hadith bear testimony to this fact. In doing so, they never bothered about this incidence of repetition of Salah and Salam which would increase the volume of the book in a sizable measure, because fairly often, there come very short ahadith in which his blessed name finds mention after every one or two lines - and at places, it appears more than once within one single line - still, these respected scholars and experts of Hadith never abandon or ignore Salah and Salam anywhere.
+
+3. The way it is Wajib (necessary) to say Salah and Salam vocally at the time one makes his blessed mention verbally, similarly, it is also wajib to write Salah and Salam with the pen when one uses it at the time of writing. In this case, there are people who would abbreviate its words and get away by writing صلعم (of which, "SAW" is a counterpart). This is not enough. One should write the full Salah and Salam (that is: ﷺ Sallallahu ` alaihi wa sallam).
+
+4. At the time his blessed mention is being made, the better, higher and more desirable choice is no other but that both Salah and Salam be recited and written. But, should someone take one of these, that is, only Salah or only Salam, as sufficient, then, it is no sin in the sight of the majority of Muslim jurists. Shaykh-ul-Islam Nawawi and others have declared it as makruh (reprehensible) to take only one as sufficient. Ibn Hajar Al-Haithami said that by Karahah (reprehensibility) they mean its being Khilaf-ul-awla (contrary to the 'preferred choice) which is known as Makruh Tanzihi (not desirable). And the consistent practice of the ` ulama' of the Muslim Ummah bears testimony to the fact that they invariably put these together while, on some occasions, they would go by only one as well.
+
+5. Using the word: صَلوٰۃ (Salah) for anyone other than prophets (علیہم السلام) is not permissible in the sight of the majority of ` Ulama'. In his Sunan, Imam Baihaqi has reported the fatwa of Sayyidna Ibn ` Abbas ؓ as follows:
+
+لَا یُصَلّٰی عَلٰی اَحَدِ اِلَّا عَلَی النَّبِّیِ ﷺ لٰکِن یدعیٰ للمُسلِمِین وَالمُسلِماَت بِالاِستِغفَار
+
+(Salah is not sent upon anyone except the Holy Prophet but prayer is made for Muslim men and Muslim women to seek forgiveness for them.)
+
+With Imam Shafi` i, using the word: صَلوٰۃ (Salah) for anyone other than a prophet is perennially Makruh (reprehensible, repugnant). Imam Abu Hanifah and his pupils also hold the same view. However, it is permissible that after saying Salah for the Holy Prophet ﷺ ، some other people are also included in the same sentence, like his family members ('Al آل ), Companions and all believers.
+
+And Imam Juwaini said that the rule about the word: صَلوٰۃ (Salah) is the same as the rule about the word: سلام (Salam), since it is not correct to use it for someone other than a prophet - except that one says السلام علیکم (as-salantu-` alaikum) as a greeting while addressing someone. This is permissible, and Masnun. But, saying or writing: (علیہ السلام) (alaihissalam) with the name of someone absent is not correct in the case of someone other than a prophet (Al-khasa is-ul-kubr, by Suyuti, v.2, p. 262)
+
+` Allamah Liqa'i has quoted Qadi ` Iyad saying: Major authentic scholars of the Muslim Ummah have gone by this view, and this is the view of Imam Malik, Sufyan and many Muslim jurists who hold that its use is not permissible for anyone other than a prophet. This is similar to the case of the use of اللہُ سبحانَہُ و تعالیٰ (Subhanahu wa Ta’ ala) which is particular to Almighty Allah. Thus, in the case of common Muslims - with the exception of prophets - there should be a prayer for forgiveness and pleasure from Allah. This is as it appears in the Qur'an: رَّ‌ضِيَ اللَّـهُ عَنْهُمْ وَرَ‌ضُوا عَنْهُ (Allah is pleased with them and they are pleased with Him - 5:119, 9:100, 98:8). (Ruh-ul- Ma’ ani)
+
+A detailed discussion about the injunctions of Salah and Salam appears in the treatise Tanqih-ul-kalam fi Ahkam-is-Salah was-salam written by this humble author. It was published as part of the commentary on Surah Al-Ahzab in the major work Ahkam-ul- Qur'an in Arabic.
+
+## Personal Reflections

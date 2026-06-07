@@ -1,0 +1,137 @@
+---
+arabic_ayat: وَيَسۡتَعۡجِلُوۡنَكَ بِالۡعَذَابِ​ؕ وَلَوۡلَاۤ اَجَلٌ مُّسَمًّى لَّجَآءَهُمُ
+  الۡعَذَابُؕ وَلَيَاۡتِيَنَّهُمۡ بَغۡتَةً وَّهُمۡ لَا يَشۡعُرُوۡنَ‏
+sentence_translation: They challenge you ˹O Prophet˺ to hasten the punishment. Had
+  it not been for a time already set, the punishment would have certainly come to
+  them ˹at once˺. But it will definitely take them by surprise when they least expect
+  it.
+word_by_word:
+  1:
+    arabic: وَيَسۡتَعۡجِلُوۡنَكَ
+    translation: And they ask you to hasten
+    transliteration: wayastaʿjilūnaka
+  2:
+    arabic: بِالۡعَذَابِ​ؕ
+    translation: '[with] the punishment'
+    transliteration: bil-ʿadhābi
+  3:
+    arabic: وَلَوۡلَاۤ
+    translation: And if not
+    transliteration: walawlā
+  4:
+    arabic: اَجَلٌ
+    translation: (for) a term
+    transliteration: ajalun
+  5:
+    arabic: مُّسَمًّى
+    translation: appointed
+    transliteration: musamman
+  6:
+    arabic: لَّجَآءَهُمُ
+    translation: surely (would) have come to them
+    transliteration: lajāahumu
+  7:
+    arabic: الۡعَذَابُؕ
+    translation: the punishment
+    transliteration: l-ʿadhābu
+  8:
+    arabic: وَلَيَاۡتِيَنَّهُمۡ
+    translation: But it will surely come to them
+    transliteration: walayatiyannahum
+  9:
+    arabic: بَغۡتَةً
+    translation: suddenly
+    transliteration: baghtatan
+  10:
+    arabic: وَّهُمۡ
+    translation: while they
+    transliteration: wahum
+  11:
+    arabic: لَا
+    translation: (do) not
+    transliteration: lā
+  12:
+    arabic: يَشۡعُرُوۡنَ‏
+    translation: perceive
+    transliteration: yashʿurūna
+---
+
+## Context
+
+To understand **The Spider** (Al-'Ankabut) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them. The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same.
+
+## Tafsir Ibn Kathir
+
+And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them. And surely, it will come upon them suddenly while they perceive not (53)They ask you to hasten on the torment. And verily, Hell, of a surety, will encompass the disbelievers (54)On the Day when the torment shall cover them from above them and from beneath their feet, and it will be said: "Taste what you used to do. (55)
+
+How the Idolators asked for the Torment to be hastened on
+
+Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly. This is like the Ayah,
+
+وَإِذْ قَالُوا اللَّهُمَّ إِنْ كَانَ هَٰذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِنَ السَّمَاءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(And when they said: "O Allah! If this is indeed the truth from You, then rain down stones on us from the sky or bring on us a painful torment.")(8:32). And Allah says here:
+
+وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ ۚ وَلَوْلَا أَجَلٌ مُسَمًّى لَجَاءَهُمُ الْعَذَابُ
+
+(And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them.) Were it not for the fact that Allah has decreed that the punishment should be delayed until the Day of Resurrection, the torment would have come upon them quickly as they demanded. Then Allah says:
+
+وَلَيَأْتِيَنَّهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ - يَسْتَعْجِلُونَكَ بِالْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ
+
+(And surely, it will come upon them suddenly while they perceive not! They ask you to hasten on the torment. And verily, Hell, of a surety, will encompass the disbelievers.) means, 'they ask you to hasten on the punishment, but it will undoubtedly befall them.'
+
+يَوْمَ يَغْشَاهُمُ الْعَذَابُ مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ أَرْجُلِهِمْ
+
+(On the Day when the torment (Hellfire) shall cover them from above them and from beneath their feet,) This is like the Ayah,
+
+لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍ ۚ
+
+(Theirs will be a bed of Hell, and over them coverings (of Hell-fire))(7:41).
+
+لَهُمْ مِنْ فَوْقِهِمْ ظُلَلٌ مِنَ النَّارِ وَمِنْ تَحْتِهِمْ ظُلَلٌ ۚ
+
+(They shall have coverings of Fire, above them and coverings (of Fire) beneath them)(39:16).
+
+لَوْ يَعْلَمُ الَّذِينَ كَفَرُوا حِينَ لَا يَكُفُّونَ عَنْ وُجُوهِهِمُ النَّارَ وَلَا عَنْ ظُهُورِهِمْ
+
+(If only those who disbelieved knew (the time) when they will not be able to ward off the Fire from their faces, nor from their backs)(21:39). The Fire will cover them from all sides, which is more effective as a physical punishment.
+
+وَيَقُولُ ذُوقُوا مَا كُنْتُمْ تَعْمَلُونَ
+
+(and it will be said: "Taste what you used to do.") This is a threat and a rebuke, which is a form of psychological punishment, as in the Ayah,
+
+يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ - إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ
+
+(The Day they will be dragged on their faces into the Fire (it will be said to them): "Taste you the touch of Hell!" Verily, We have created all things with a measurement.)(54:48-49)
+
+يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا - هَٰذِهِ النَّارُ الَّتِي كُنْتُمْ بِهَا تُكَذِّبُونَ - أَفَسِحْرٌ هَٰذَا أَمْ أَنْتُمْ لَا تُبْصِرُونَ - اصْلَوْهَا فَاصْبِرُوا أَوْ لَا تَصْبِرُوا سَوَاءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ
+
+(The Day when they will be pushed down by force to the fire of Hell, with a horrible, forceful pushing. This is the Fire which you used to deny. Is this magic or do you not see? Enter you therein (taste you therein its heat) and whether you are patient of it or impatient of it, it is all the same. You are only being requited for what you used to do.)(52:13-16)
+
+## Maarif ul Quran
+
+The status of the narrations of the People of the Book quoted by the commentators in their commentaries is also the same. The object of their reproduction in the commentaries is meant to highlight their historical position. They cannot be used for determining what is permitted (halal) and what is not permitted حَرَام (haram).
+
+مَا كُنتَ تَتْلُو مِن قَبْلِهِ مِن كِتَابٍ وَلَا تَخُطُّهُ بِيَمِينِكَ إِذًا لَّارْ‌تَابَ الْمُبْطِلُونَ (And you have never been reciting any book before this, nor have you been writing it with your right hand, had it been so, the people of falsehood would have raised doubts. - 29:48). That is Before the revelation of the Qur'an you could neither read nor write, rather you were unlettered (اُمِّی). If it was not so, and you were literate, then there could have been a possibility of doubt for the infidels to put the blame that you were repeating what you had read in, the earlier books, Torah and Injil, and it was not a new revelation sent down on you by way of prophethood.'
+
+It was a great honour and miracle for the Holy Prophet ﷺ to be unlettered
+
+Allah Ta’ ala had demonstrated so many evident and clear miracles to prove the prophethood of the Holy Prophet ﷺ ، and it was one of those miracles that He made him unlettered. Neither he could read anything nor could he write at all. Forty years of his life were spent in this fashion before the eyes of the people of Makkah. He did not have any acquaintance with the People of the Book wherefrom he could have learnt anything. In fact, there were no People of the Book living in Makkah. Suddenly, at the age of forty years, such a speech started flowing from his mouth that was a miracle not only in its theme and meaning, but also in the pinnacle of its eloquence.
+
+Some scholars have tried to prove that he was unlettered in the beginning, but later Allah Ta’ ala taught him how to read and write. In support of their contention they quote a hadith regarding the incident of Hudaibiyah, which says that when the agreement between the Holy Prophet ﷺ and the infidels of Makkah was being written, it was started by the Muslims with the words, مِن مُحَمَّدِ عبد اللہ وَ رسَوُلِہٖ - (From Muhammad, the slave of Allah and His messenger). On this the disbelievers of Makkah objected that his being the messenger of Allah was the real bone of contention, and if they had accepted him as a messenger of Allah, there would not have been any dispute among them. Therefore, they would not accept the words ` and His messenger' along with his name. Sayyidna Ali ؓ had written this agreement, so, the Holy Prophet ﷺ asked him to erase it, to which he declined out of respect and reverence for him. Then the Holy Prophet ﷺ took the paper in his own hand, and after erasing the words ` His messenger' wrote مِن مُحَمَّدِ بن عَبدَاللہِ (From Muhammad, the son of ` Abdullah).
+
+In this narration, the act of writing has been attributed to the Holy Prophet ﷺ which led some people to think that he knew how to write. But the correct position is that the act of writing was attributed to him in the narration as a colloquial expression. It is a fairly common idiom spoken quite widely that if someone gets something written by an ascribe, the writing is attributed to the former, even though he has not written it himself. The other possibility is that Allah Ta’ ala made him write this bit miraculously on this occasion. Also, by writing just a few words, one cannot be called a literate, but would still remain an unlettered. Furthermore, it would not be an honour for him to be labeled as literate, rather the honour is in him being an unlettered.
+
+## Personal Reflections

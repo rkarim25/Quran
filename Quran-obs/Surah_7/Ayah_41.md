@@ -1,0 +1,133 @@
+---
+arabic_ayat: لَهُمۡ مِّنۡ جَهَـنَّمَ مِهَادٌ وَّمِنۡ فَوۡقِهِمۡ غَوَاشٍ​ ؕ وَكَذٰلِكَ
+  نَجۡزِى الظّٰلِمِيۡنَ‏
+sentence_translation: Hell will be their bed; flames will be their cover. This is
+  how We reward the wrongdoers.
+word_by_word:
+  1:
+    arabic: لَهُمۡ
+    translation: For them
+    transliteration: lahum
+  2:
+    arabic: مِّنۡ
+    translation: of
+    transliteration: min
+  3:
+    arabic: جَهَـنَّمَ
+    translation: (the) Hell
+    transliteration: jahannama
+  4:
+    arabic: مِهَادٌ
+    translation: (is) a bed
+    transliteration: mihādun
+  5:
+    arabic: وَّمِنۡ
+    translation: and from
+    transliteration: wamin
+  6:
+    arabic: فَوۡقِهِمۡ
+    translation: over them
+    transliteration: fawqihim
+  7:
+    arabic: غَوَاشٍ​ ؕ
+    translation: coverings
+    transliteration: ghawāshin
+  8:
+    arabic: وَكَذٰلِكَ
+    translation: And thus
+    transliteration: wakadhālika
+  9:
+    arabic: نَجۡزِى
+    translation: We recompense
+    transliteration: najzī
+  10:
+    arabic: الظّٰلِمِيۡنَ‏
+    translation: the wrongdoers
+    transliteration: l-ẓālimīna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, those who belie Our Ayat and treat them with arrogance, for them the gates of the heavens will not be opened, and they will not enter Paradise until the Jamal goes through the eye of the needle. Mentioned first in the set of verses cited above (35-37) is a pledge taken from every human being in the world of spirits, before being born into the material world.
+
+## Tafsir Ibn Kathir
+
+Verily, those who belie Our Ayat and treat them with arrogance, for them the gates of the heavens will not be opened, and they will not enter Paradise until the Jamal goes through the eye of the needle. Thus do We recompense the criminals (40)Theirs will be Mihad from the Fire, and over them Ghawash. Thus do We recompense the wrongdoers (41)
+
+Doors of Heaven shall not open for Those Who deny Allah's Ayat, and They shall never enter Paradise
+
+Allah said,
+
+لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ
+
+(for them the gates of the heavens will not be opened,) meaning, their good deeds and supplication will not ascend through it, according to Mujahid, Sa'id bin Jubayr and Ibn 'Abbas, as Al-'Awfi and 'Ali bin Abi Talhah reported from him. Ath-Thawri narrated that, Layth said that 'Ata' narrated this from Ibn 'Abbas. It was also said that the meaning here is that the doors of the heavens will not be opened for the disbelievers' souls, according to Ad-Dahhak who reported this from Ibn 'Abbas. As-Suddi and several others mentioned this meaning. What further supports this meaning, is the report from Ibn Jarir that Al-Bara' said that the Messenger of Allah mentioned capturing the soul of the 'Fajir' (wicked sinner or disbeliever), and that his or her soul will be ascended to heaven. The Prophet ﷺ said,
+
+فَيَصْعَدُونَ بِهَا، فَلَا تَمُرُّ عَلَى مَلَأٍ مِنَ الْمَلَائِكَةِ إِلَّا قَالُوا مَا هَذِهِ الرُّوحُ الْخَبِيثَةُ؟ فَيَقُولُونَ: فُلَانٌ بِأَقْبَحِ أَسْمَائِهِ الَّتِي كَانَ يُدْعَى بِهَا فِي الدُّنْيَا، حَتَّى يَنْتَهَوا بِهَا إِلَى السَّمَاءِ فَيَسْتَفْتَحُونَ بَابَهَا لَهُ فَلَا يَفْتَحُ لَهُ
+
+(So they (angels) ascend it and it will not pass by a gathering of the angels, but they will ask, who's wicked soul is this' They will reply, 'The soul of so-and-so,' calling him by the worst names he was called in this life. When they reach the (lower) heaven, they will ask that its door be opened for the soul, but it will not be opened for it.)
+
+The Prophet ﷺ then recited,
+
+لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ
+
+(For them the gates of heaven will not be opened).
+
+This is a part of a long Hadith which was also recorded by Abu Dawud, An-Nasa'i and Ibn Majah.
+
+Ibn Jurayj commented on the Ayah,
+
+لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ
+
+(for them the gates of heaven will not be opened,) "(The gates of heaven) will not be opened for their deeds or souls." This explanation combines the two meanings we gave above, and Allah knows best. Allah's statement,
+
+وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ
+
+(and they will not enter Paradise until the Jamal goes through the eye of the needle.) refers to the male camel. Ibn Mas'ud said it is a male camel from the she camel. In another narration it refers to the spouse of the she camel. Mujahid and 'Ikrimah said that Ibn 'Abbas used to recite this Ayah this way, "Until the Jummal goes through the eye of the needle", whereas 'Jummal' is a thick rope. Allah's statement,
+
+لَهُم مِّن جَهَنَّمَ مِهَادٌ
+
+(Theirs will be Mihad from the Fire) means, beds, while;
+
+وَمِن فَوْقِهِمْ غَوَاشٍ
+
+(and over them Ghawash), means, coverings, according to Muhammad bin Ka'b Al-Qurazi. Similar was said by Ad-Dahhak bin Muzahim and As-Suddi. Allah said next,
+
+وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ
+
+(Thus do We recompense the wrongdoers.)
+
+## Maarif ul Quran
+
+Commentary
+
+Mentioned first in the set of verses cited above (35-37) is a pledge taken from every human being in the world of spirits, before being born into the material world. The pledge envisaged that they would, when the prophets of Allah come to them with Divine guidance and injunctions, listen to them in earnest and act accordingly. They were also told that those who abide by the pledge and fulfill what it entails, will have their salvation from sorrows and deserve eternal peace and comfort. And conversely, those who belie prophets or rebel against injunctions they bring shall have the eternal punishment of Jahannam waiting for them. The later set of verses presents what actually happened when different groups of human beings came into the world and started acting differently. Some of them threw the pledge behind their backs and settled to oppose it. Others held to it and acted righteously. The ultimate end of the two groups and the reward and punishment for them has been described in the later four verses (40-43).
+
+Mentioned in verses 40 and 41 are deniers and criminals, and in verses 42 and 43, the believers and God-fearing who fulfilled the pledge.
+
+In the first verse (40), it was said that those who belied the prophets of Allah and acted arrogantly against Divine guidance and 'Ayat, for them, the gates of heaven will not be opened.
+
+Reported in Al-Bahr Al-Muhit is a Tafsir of this verse from Sayyidna ` Abdullah ibn ` Abbas ؓ عنہما which says that the gates of heaven will be opened neither for them, nor for their prayers. It means that their prayer will not be answered and their deeds will be stopped from reaching the place where the deeds of the righteous servants of Allah are kept preserved, the name of which, according to the Qur'an, is: عِلِّيِّينَ (` Illiyyin) (Surah Al-Mutaffifin - 83:18-21). This subject has been referred to in yet another verse of the Qur'an where it is said: إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْ‌فَعُهُ , that is, ` one's good words are taken to Allah Ta` ala and one's good deed carries them' meaning that man's good deeds become the cause of Tayyib Kalimat (good words) reaching Allah Ta` ala.
+
+In a narration from Sayyidna ` Abdullah ibn ` Abbas and other Sahabah ؓ ، the Tafsir of the verse also says that the gates of heaven will not be opened for the spirits of deniers and disbelievers - and these spirits will be thrown down. This subject is supported by a Hadith of Sayyidna Bara' ibn ` Azib ؓ which has been reported in detail by Abu Dawud, Nasa'i, Ibn Majah and Imam Ahmad, a summary of which is given below.
+
+The Holy Prophet ﷺ went to a Janazah of some Ansari Companion. The grave was not ready yet, so he sat down on an open spot. The Companions ؓ sat around him, silent. He raised his head and said: When the time of death comes for a believing servant of Allah, angels with white, radiant faces come from the heaven with the shroud and fragrance of the heaven and sit down in front of the person to die. Then, comes the angel of death, ‘Izra’ il (علیہ السلام) and he addresses his Ruh (spirit, soul): 0 soul at peace, come out to receive the forgiveness and pleasure of your Rabb. Then, his Ruh comes out of the body, nice and easy, just like water coming out of a leather water-bag when opened. The angel of death receives his Ruh in his hands and entrusts it with the angels sitting there. These angels start moving out with the Ruh of the deceased. Wherever they meet a group of angels on their way, they are asked: Whose sacred Ruh is it? These angels introduce the Ruh of the deceased by his name and title with which he was known as a mark of respect in his life of the world. They tell him who he is, so and so, son of so and so. Then, comes the time when these angels reach the first heaven with the Ruh. They ask for the gate to be opened. The gate is opened. More angels join them from here until they reach as far as the seventh heaven. At that time, Allah Ta` ala says: Write down the record of the deeds of this servant of Mine in the ` Illiyyin and then send him back. The Ruh returns to the grave again. In the grave come angels who keep the account of deeds. They make him sit up, and ask him: ` Who is your Rabb?' and ` what is your religion?' He says: Allah Ta` ala is my Rabb and Islam is my religion. Then, comes the question: This pious person who has been sent for you – who is he? He says: He is the Rasul of Allah Ta` ala. Then comes a heavenly call: My servant is true. Roll out for him the carpet of Jannah. Dress him up in the apparel of Paradise. Open for him the door towards the Jannah. Through the door come the fragrance and breeze of Jannah and his good deed transformed into a handsome presence comes near him to help him become familiar and rested in company.
+
+In contrast, when the time of death comes for disbelievers and deniers, angels with dark and terrifying profile come from the heaven carrying a coarse piece of ragged rug and sit down in front of him. Then, the angel of death draws his Ruh out as if it were a thorny branch with wet wool wrapped round it and through it the thorny branch was to be pulled out. When this Ruh comes out, its stench is deadlier than the stench of a spoiled dead animal. The angels start moving out with the Ruh of the deceased. When other angels meet en-route, they ask: Whose evil Ruh is this? The angels tell them the worst of his name and title with which he was known in the world. They tell them that he is so and so, the son of so and so. Until they reach the first heaven and ask for the gate to be opened. The gate is not opened for him. The command comes to keep his record of deeds in Sijjin where the record of the disobedient ones is maintained. His Ruh is thrown away. The Ruh returns to the grave. The angels responsible for account-taking make him sit up. They ask him the same questions they had asked the believer. His answer to every question is nothing but: ھَاہُ ھَاہُ لَا اَدرِی ، I do not know). He is given the bed of Jahannam and the dress of Jahannam. In his grave, a door is opened toward the Jahannam through which he keeps receiving the heat and flames of Jahannam. His grave is made to become straightened on him. We seek the refuge of Allah from it.
+
+To sum up, it can be said that the spirits of deniers and disbelievers are taken upto the gate of the heaven. When the door does not open, they are thrown back from there. The verse: لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ (the gates of the heavens will not be opened for them -40) may also mean that it is at the time of death that the gates of the heavens are not opened for them.
+
+Towards the end of the verse, it was said: وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ (and they shall not enter the Paradise unless a camel enters into the eye of a needle). Here, the word: ' يَلِجَ (yalij) is from: وَلوُج (wuluj) which means to enter a narrow opening. Jamal is camel and Samm, the eye of a needle. The translation covers the meaning literally. The sense of the verse is that the camel is a big animal and its entry into the eye of a needle is functionally impossible. So, equally impossible is their entry into Paradise. The purpose is to state that the punishment of Hell for them is everlasting. Then, follow the words which describe the added severity of the punishment in Hell: لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ (For them there is a bed from the Jahannam, and over them there are coverings). The word: مِهَادٌ (mihad) means a place of rest, bed or floor and: غَوَاشٍ (ghawash) is the plural form of: (ghashiyah) which means something which covers. The sense is that for these people to rest, the bed and the top sheet will all come from Hell (an eloquent manner of putting the extreme severity of the punishment in everyday idiom). It will be noticed that at the end of the first verse, which mentions the deprivation from Paradise, it was said: وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ (And this is how We recompense the sinners). Then, in the second verse, which describes the punishment of Hell, it was said: وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ (And this is how We recompense the transgressors) because it is more severe than the former.
+
+## Personal Reflections

@@ -1,0 +1,105 @@
+---
+arabic_ayat: اَللّٰهُ يَصۡطَفِىۡ مِنَ الۡمَلٰٓٮِٕكَةِ رُسُلًا وَّمِنَ النَّاسِ​ؕ اِنَّ
+  اللّٰهَ سَمِيۡعٌۢ بَصِيۡرٌ ​ۚ‏
+sentence_translation: Allah selects messengers from both angels and people, for Allah
+  is truly All-Hearing, All-Seeing.
+word_by_word:
+  1:
+    arabic: اَللّٰهُ
+    translation: Allah
+    transliteration: al-lahu
+  2:
+    arabic: يَصۡطَفِىۡ
+    translation: chooses
+    transliteration: yaṣṭafī
+  3:
+    arabic: مِنَ
+    translation: from
+    transliteration: mina
+  4:
+    arabic: الۡمَلٰٓٮِٕكَةِ
+    translation: the Angels
+    transliteration: l-malāikati
+  5:
+    arabic: رُسُلًا
+    translation: Messengers
+    transliteration: rusulan
+  6:
+    arabic: وَّمِنَ
+    translation: and from
+    transliteration: wamina
+  7:
+    arabic: النَّاسِ​ؕ
+    translation: the mankind
+    transliteration: l-nāsi
+  8:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  9:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  10:
+    arabic: سَمِيۡعٌۢ
+    translation: (is) All-Hearer
+    transliteration: samīʿun
+  11:
+    arabic: بَصِيۡرٌ ​ۚ‏
+    translation: All-Seer
+    transliteration: baṣīrun
+---
+
+## Context
+
+To understand **The Pilgrimage** (Al-Hajj) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Allah chooses Messengers from angels and from men. مَا قَدَرُ‌وا اللَّـهَ حَقَّ قَدْرِ‌هِ (They did not recognize Allah in His true esteem - 22:74).
+
+## Tafsir Ibn Kathir
+
+Allah chooses Messengers from angels and from men. Verily, Allah is All-Hearer, All-Seer (75)He knows what is before them, and what is behind them. And to Allah return all matters (76)
+
+Allah chooses Messengers from the Angels and Messengers from Mankind
+
+Allah tells us that He chooses Messengers from His angels as He wills by His law and decree, and He chooses Messengers from mankind to convey His Message.
+
+إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
+
+(Verily, Allah is All-Hearer, All-Seer.) means, He hears all that His servants say, and He sees them and knows who among them is deserving of that, as He says:
+
+اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ
+
+(Allah knows best with whom to place His Message)(6:124)
+
+يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۗ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ
+
+(He knows what is before them, and what is behind them. And to Allah return all matters.) He knows what will happen to His Messengers and the Message He sent them with, for none of their affairs are hidden from Him. He says:
+
+عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
+
+("The All-Knower of the Ghayb (Unseen), and He reveals to none His Ghayb.")(72:26) until His saying;
+
+وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
+
+(and He keeps count of all things.)(72:28) So He, may He be glorified, is guarding them, and is Witness to what is said about them. He is protecting them and supporting them.
+
+يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ۚ وَاللَّهُ يَعْصِمُكَ مِنَ النَّاسِ
+
+(O Messenger! Proclaim which has been sent down to you from your Lord. And if you do not, then you have not conveyed His Message. Allah will protect you from mankind)(5:67).
+
+## Maarif ul Quran
+
+مَا قَدَرُ‌وا اللَّـهَ حَقَّ قَدْرِ‌هِ (They did not recognize Allah in His true esteem - 22:74). It means that these people are so foolish and ungrateful that they did not recognize the power of Allah Ta’ ala and place their helpless idols at the same level with Him.
+
+## Personal Reflections

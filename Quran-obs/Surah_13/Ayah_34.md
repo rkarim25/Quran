@@ -1,0 +1,173 @@
+---
+arabic_ayat: لَهُمۡ عَذَابٌ فِى الۡحَيٰوةِ الدُّنۡيَا​ وَلَعَذَابُ الۡاٰخِرَةِ اَشَقُّ​
+  ۚ وَمَا لَهُمۡ مِّنَ اللّٰهِ مِنۡ وَّاقٍ‏
+sentence_translation: For them is punishment in this worldly life, but the punishment
+  of the Hereafter is truly far worse. And none can shield them from Allah.
+word_by_word:
+  1:
+    arabic: لَهُمۡ
+    translation: For them
+    transliteration: lahum
+  2:
+    arabic: عَذَابٌ
+    translation: (is) a punishment
+    transliteration: ʿadhābun
+  3:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  4:
+    arabic: الۡحَيٰوةِ
+    translation: the life
+    transliteration: l-ḥayati
+  5:
+    arabic: الدُّنۡيَا​
+    translation: (of) the world
+    transliteration: l-dun'yā
+  6:
+    arabic: وَلَعَذَابُ
+    translation: and surely the punishment
+    transliteration: walaʿadhābu
+  7:
+    arabic: الۡاٰخِرَةِ
+    translation: (of) the Hereafter
+    transliteration: l-ākhirati
+  8:
+    arabic: اَشَقُّ​ ۚ
+    translation: (is) harder
+    transliteration: ashaqqu
+  9:
+    arabic: وَمَا
+    translation: And not
+    transliteration: wamā
+  10:
+    arabic: لَهُمۡ
+    translation: for them
+    transliteration: lahum
+  11:
+    arabic: مِّنَ
+    translation: against
+    transliteration: mina
+  12:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  13:
+    arabic: مِنۡ
+    translation: any
+    transliteration: min
+  14:
+    arabic: وَّاقٍ‏
+    translation: defender
+    transliteration: wāqin
+---
+
+## Context
+
+To understand **The Thunder** (Ar-Ra'd) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message. On the one hand, his opponents had been contriving different devices to defeat him and his Mission, and, on the other, his followers had been expressing a desire that by showing a miracle the disbelievers might be brought to the Right Way.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+For them is a torment in the life of this world, and certainly, harder is the torment of the Hereafter. In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ...
+
+## Tafsir Ibn Kathir
+
+For them is a torment in the life of this world, and certainly, harder is the torment of the Hereafter. And they have no defender (or protector) against Allah (34)The description of the Paradise which those who have Taqwa have been promised: Underneath it rivers flow, its provision is eternal and so is its shade; this is the end (final destination) of those who have Taqwa, and the end (final destination) of the disbelievers is Fire (35)
+
+Punishment of the Disbelievers and Reward of the Pious Believers
+
+Here, Allah mentions the punishment of the disbelievers and the reward of the righteous believers, after describing the Kufr and Shirk that the disbelievers indulge in,
+
+لَّهُمْ عَذَابٌ فِي الْحَيَاةِ الدُّنْيَا
+
+(For them is a torment in the life of this world,) by the hands of the believers, killing and capturing them,
+
+وَلَعَذَابُ الْآخِرَةِ
+
+(and certainly, the torment of the Hereafter.) which will come after they suffer humiliation in this life,
+
+أَشَقُّ
+
+(is harder) many times harder. The Messenger of Allah ﷺ said to those who agreed to Mula'anah,
+
+إِنَّ عَذَابَ الدُّنْيَا أَهْوَنُ مِنْ عَذَابِ الْآخِرَةِ
+
+(Surely, the torment of this life, is easier than the torment of the Hereafter.) Indeed, and just as the Messenger of Allah ﷺ stated, the torment of this life ends but the torment of the Hereafter is everlasting in a Fire that is seventy times hot than our fire, where there are chains whose thickness and hardness are unimaginable. Allah said in other Ayat,
+
+فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ - وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
+
+(So on that Day none will punish as He will punish. And none will bind as He will bind.)[89:25-26], and,
+
+وَأَعْتَدْنَا لِمَن كَذَّبَ بِالسَّاعَةِ سَعِيرًا - إِذَا رَأَتْهُم مِّن مَّكَانٍ بَعِيدٍ سَمِعُوا لَهَا تَغَيُّظًا وَزَفِيرًا - وَإِذَا أُلْقُوا مِنْهَا مَكَانًا ضَيِّقًا مُّقَرَّنِينَ دَعَوْا هُنَالِكَ ثُبُورًا - لَّا تَدْعُوا الْيَوْمَ ثُبُورًا وَاحِدًا وَادْعُوا ثُبُورًا كَثِيرًا - قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ الْخُلْدِ الَّتِي وُعِدَ الْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَاءً وَمَصِيرًا
+
+(And for those who deny the Hour, We have prepared a flaming Fire. When it (Hell) sees them from a far place, they will hear its raging and its roaring. And when they shall be thrown into a narrow place thereof, chained together, they will exclaim therein for destruction. Exclaim not today for one destruction, but exclaim for many destructions. Say: "Is that (torment) better, or the Paradise of Eternity promised for those who have Taqwa?" It will be theirs as a reward and as a final destination.)[25:11-15]
+
+Similarly He said;
+
+مَّثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ
+
+(The description of the Paradise which those who have Taqwa have been promised) meaning its description and qualities;
+
+تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ
+
+(Underneath it rivers flow,) these rivers flow in the various parts and grades of Paradise and wherever its people wish they flow and gush forth for them. Allah also said,
+
+مَّثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِّن مَّاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّارِبِينَ وَأَنْهَارٌ مِّنْ عَسَلٍ مُّصَفًّى ۖ وَلَهُمْ فِيهَا مِن كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ
+
+(The description of Paradise which those who have Taqwa have been promised (is that) in it are rivers of water the taste and smell of which are not changed, rivers of wine delicious to those who drink, and rivers of clarified honey, therein for them is every kind of fruit, and forgiveness.)[47:15] Allah said next,
+
+أُكُلُهَا دَائِمٌ وَظِلُّهَا
+
+(its provision is eternal and so is its shade) for Paradise has foods, fruits and drinks that never end or finish. It is recorded in the Two Sahihs that Ibn 'Abbas narrated in the Hadith about the Eclipse prayer that the Companions said, "O Allah's Messenger! While you were standing [in prayer], we saw you reach for something with your hand and then you brought it back." The Messenger ﷺ said,
+
+إِنِّي رَأَيْتُ الْجَنَّةَ - أَوْ أُرِيتُ الْجَنَّةَ - فَتَنَاوَلْتُ مِنْهَا عُنْقُودًا، وَلَوْ أَخَذْتُهُ لَأَكَلْتُمْ مِنْهُ مَا بَقِيَتِ الدُّنْيَا
+
+(I saw Paradise - or was shown Paradise - and reached for a cluster (of grapes or other fruit), and had I kept it, you would have eaten from it as long as this life remains.)
+
+Imam Muslim recorded that Jabir bin 'Abdullah said that the Messenger of Allah ﷺ said,
+
+يَأْكُلُ أَهْلُ الْجَنَّةِ وَيَشْرَبُونَ، وَلَا يَتَمَخَّطُونَ وَلَا يَتَغَوَّطُونَ، وَلَا يَبُولُونَ، طَعَامُهُمْ جُشَاءٌ كَرِيحِ الْمِسْكِ، وَيُلْهَمُونَ التَّسْبِيحَ وَالتَّقْدِيسَ كَمَا يُلْهَمُونَ النَّفَسَ
+
+(The people of Paradise eat and drink, and they do not need to blow their noses, or answer the call of nature, or urinate, for they pass the food excrements in belches, which smell like musk. They will be inspired to praise and glorify (Allah) as spontaneously as they breathe.) Imams Ahmad and An-Nasa'i recorded that Thumamah bin 'Uqbah said that he heard Zayd bin Arqam say, "A man from the People of the Scriptures came and said [to the Prophet ﷺ], 'O Abul-Qasim! You claim that the people of Paradise eat and drink?' The Prophet ﷺ said,
+
+نَعَمْ، وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ، إِنَّ الرَّجُلَ مِنْهُمْ لَيُعطَى قُوَّةَ مِائَةِ رَجُلٍ فِي الْأَكْلِ وَالشُّرْبِ وَالْجِمَاعِ وَالشَّهْوَةِ
+
+(Yes. By He in Whose Hand is Muhammad's life, a man among them will be given the strength of a hundred men in eating, drinking, sexual intercourse and appetite.) That man asked, 'He who eats and drinks needs to relieve the call of nature, but Paradise is pure [from feces and urine]?' The Prophet ﷺ said,
+
+تَكُونُ حَاجَةُ أَحَدِهِمْ رَشْحًا يَفِيضُ مِنْ جُلُودِهِمْ كَرِيحِ الْمِسْكِ فَيَضْمُرُ بَطْنُهُ
+
+(One of them (residents of Paradise) relieves the call of nature through a sweat that emanates from the skin, with the scent of musk, and the stomach becomes empty again.) Imam Ahmad and An-Nasa'i collected this Hadith. Allah said in other Ayat,
+
+وَفَاكِهَةٍ كَثِيرَةٍ - لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
+
+(And fruit in plenty, whose supply is not cut off nor are they out of reach.)[56:32-33], and,
+
+وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
+
+(And the shade thereof is close upon them, and the bunches of fruit thereof will hang low within their reach.)[76:14] The shade of Paradise is everlasting and never shrinks, just as Allah said,
+
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ لَّهُمْ فِيهَا أَزْوَاجٌ مُّطَهَّرَةٌ ۖ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا
+
+(But those who believe and do deeds of righteousness, We shall admit them to Gardens under which rivers flow, abiding therein forever. Therein they shall have pure mates, and We shall admit them to shades wide and ever deepening.)[4:57] Allah often mentions the description of Paradise and the description of the Fire together, to make Paradise appealing and warn against the Fire. This is why, after Allah mentioned the description of Paradise here, He next said,
+
+تِلْكَ عُقْبَى الَّذِينَ اتَّقَوا ۖ وَّعُقْبَى الْكَافِرِينَ النَّارُ
+
+(this is the end (final destination) of those who have Taqwa, and the end (final destination) of the disbelievers is Fire.) Allah said in another Ayah ,
+
+لَا يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ ۚ أَصْحَابُ الْجَنَّةِ هُمُ الْفَائِزُونَ
+
+(Not equal are the dwellers of the Fire and the dwellers of the Paradise. It is the dwellers of Paradise that will be successful.)[59:20]
+
+## Maarif ul Quran
+
+In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ... 33), the ignorance and irrationality of the disbelievers has been exposed by saying that these people are certainly short on sense when they equate inert idols with His pure Being, a Being that watches everyone and is the ultimate reckoner of everyone's deeds. Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
+
+## Personal Reflections

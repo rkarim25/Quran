@@ -1,0 +1,132 @@
+---
+arabic_ayat: اِنَّ الَّذِيۡنَ يَكۡفُرُوۡنَ بِاٰيٰتِ اللّٰهِ وَيَقۡتُلُوۡنَ النَّبِيّٖنَ
+  بِغَيۡرِ حَقٍّۙ وَّيَقۡتُلُوۡنَ الَّذِيۡنَ يَاۡمُرُوۡنَ بِالۡقِسۡطِ مِنَ النَّاسِۙ
+  فَبَشِّرۡهُمۡ بِعَذَابٍ اَ لِيۡمٍ‏
+sentence_translation: Indeed, those who deny Allah’s signs, kill the prophets unjustly,
+  and kill people who stand up for justice—give them good news of a painful punishment.
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  3:
+    arabic: يَكۡفُرُوۡنَ
+    translation: disbelieve
+    transliteration: yakfurūna
+  4:
+    arabic: بِاٰيٰتِ
+    translation: in (the) Signs (of)
+    transliteration: biāyāti
+  5:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  6:
+    arabic: وَيَقۡتُلُوۡنَ
+    translation: and they kill
+    transliteration: wayaqtulūna
+  7:
+    arabic: النَّبِيّٖنَ
+    translation: the Prophets
+    transliteration: l-nabiyīna
+  8:
+    arabic: بِغَيۡرِ
+    translation: without
+    transliteration: bighayri
+  9:
+    arabic: حَقٍّۙ
+    translation: right
+    transliteration: ḥaqqin
+  10:
+    arabic: وَّيَقۡتُلُوۡنَ
+    translation: and they kill
+    transliteration: wayaqtulūna
+  11:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  12:
+    arabic: يَاۡمُرُوۡنَ
+    translation: order
+    transliteration: yamurūna
+  13:
+    arabic: بِالۡقِسۡطِ
+    translation: '[with] justice'
+    transliteration: bil-qis'ṭi
+  14:
+    arabic: مِنَ
+    translation: among
+    transliteration: mina
+  15:
+    arabic: النَّاسِۙ
+    translation: the people
+    transliteration: l-nāsi
+  16:
+    arabic: فَبَشِّرۡهُمۡ
+    translation: then give them tidings
+    transliteration: fabashir'hum
+  17:
+    arabic: بِعَذَابٍ
+    translation: of a punishment
+    transliteration: biʿadhābin
+  18:
+    arabic: اَ لِيۡمٍ‏
+    translation: painful
+    transliteration: alīmin
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, those who disbelieve in the Ayat of Allah and kill the Prophets without right, and kill those men who order just dealings, then announce to them a painful torment (21)They are those whose works will be lost in th… In the earlier part of the Surah, the text mostly beamed at the Christians.
+
+## Tafsir Ibn Kathir
+
+Verily, those who disbelieve in the Ayat of Allah and kill the Prophets without right, and kill those men who order just dealings, then announce to them a painful torment (21)They are those whose works will be lost in this world and in the Hereafter, and they will have no helpers (22)
+
+Chastising the Jews for Their Disbelief and for Killing the Prophets and Righteous People
+
+This Ayah chastises the People of the Book for the transgression and prohibitions they committed by their denials in the past and more recent times, of Allah's Ayat and the Messengers. They did this due to their defiance and rejection of the Messengers, denial of the truth and refusal to follow it. They also killed many Prophets when they conveyed to them what Allah legislated for them, without cause or criminal behavior committed by these Prophets, for they only called them to the truth,
+
+وَيَقْتُلُونَ الَّذِينَ يَأْمُرُونَ بِالْقِسْطِ مِنَ النَّاسِ
+
+(And kill those men who order just dealings) thus, demonstrating the worst type of arrogance. Indeed, the Prophet ﷺ said,
+
+الْكِبْرُ بَطَرُ الْحَقِّ وَغَمْطُ النَّاسِ
+
+(Kibr (arrogance) is refusing the truth and degrading people)
+
+This is why when they rejected the truth and acted arrogantly towards the creation, Allah punished them with humiliation and disgrace in this life, and humiliating torment in the Hereafter. Allah said,
+
+فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+
+(then announce to them a painful torment) meaning, painful and humiliating,
+
+أُولَٰئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ وَمَا لَهُم مِّن نَّاصِرِينَ
+
+(They are those whose works will be lost in this world and in the Hereafter, and they will have no helpers.).
+
+## Maarif ul Quran
+
+In the earlier part of the Surah, the text mostly beamed at the Christians. In verse 20, 'those who have been given the Book' includes both Christians and Jews. Now, verses 21-22 here, talk about some of the unusual doings of Jews. Ruh al-Ma'ani while commenting on this verse reports a hadith from the Holy Prophet ﷺ as narrated by Ibn Abi Hatim ؓ . While explaining this verse, he said that Bani Isra'i1 slew forty three prophets at one and the same time. One hundred and seventy pious, elders stood up asking them to uphold justice. They slew them as well on the same day. (Bayan a1-Qura'n)
+
+In verse 21, 'those who disbelieve the verses of Allah' refers to Jews who did not believe in the Injil انجیل and the Qur'an. 'Slay the Prophets (علیہم السلام) unjustly means that they know that they are doing so without justice. 'Those who bid justice' are people who teach moderation in deeds and morals.
+
+Because of this whole set of their terrible deeds, verse 22 says that all their good deeds have gone waste both here and there, and when they are punished, they will find no one to assist them.
+
+## Personal Reflections

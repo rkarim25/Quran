@@ -1,0 +1,188 @@
+---
+arabic_ayat: وَاللّٰهُ خَلَقَ كُلَّ دَآبَّةٍ مِّنۡ مَّآءٍ ​ۚفَمِنۡهُمۡ مَّنۡ يَّمۡشِىۡ
+  عَلٰى بَطۡنِهٖ​ۚ وَمِنۡهُمۡ مَّنۡ يَّمۡشِىۡ عَلٰى رِجۡلَيۡنِ وَمِنۡهُمۡ مَّنۡ يَّمۡشِىۡ
+  عَلٰٓى اَرۡبَعٍ​ؕ يَخۡلُقُ اللّٰهُ مَا يَشَآءُ​ؕ اِنَّ اللّٰهَ عَلٰى كُلِّ شَىۡءٍ
+  قَدِيۡرٌ‏
+sentence_translation: And Allah has created from water every living creature. Some
+  of them crawl on their bellies, some walk on two legs, and some walk on four. Allah
+  creates whatever He wills. Surely Allah is Most Capable of everything.
+word_by_word:
+  1:
+    arabic: وَاللّٰهُ
+    translation: And Allah
+    transliteration: wal-lahu
+  2:
+    arabic: خَلَقَ
+    translation: created
+    transliteration: khalaqa
+  3:
+    arabic: كُلَّ
+    translation: every
+    transliteration: kulla
+  4:
+    arabic: دَآبَّةٍ
+    translation: moving creature
+    transliteration: dābbatin
+  5:
+    arabic: مِّنۡ
+    translation: from
+    transliteration: min
+  6:
+    arabic: مَّآءٍ ​ۚ
+    translation: water
+    transliteration: māin
+  7:
+    arabic: فَمِنۡهُمۡ
+    translation: Of them
+    transliteration: famin'hum
+  8:
+    arabic: مَّنۡ
+    translation: (is a kind) who
+    transliteration: man
+  9:
+    arabic: يَّمۡشِىۡ
+    translation: walks
+    transliteration: yamshī
+  10:
+    arabic: عَلٰى
+    translation: 'on'
+    transliteration: ʿalā
+  11:
+    arabic: بَطۡنِهٖ​ۚ
+    translation: its belly
+    transliteration: baṭnihi
+  12:
+    arabic: وَمِنۡهُمۡ
+    translation: and of them
+    transliteration: wamin'hum
+  13:
+    arabic: مَّنۡ
+    translation: (is a kind) who
+    transliteration: man
+  14:
+    arabic: يَّمۡشِىۡ
+    translation: walks
+    transliteration: yamshī
+  15:
+    arabic: عَلٰى
+    translation: 'on'
+    transliteration: ʿalā
+  16:
+    arabic: رِجۡلَيۡنِ
+    translation: two legs
+    transliteration: rij'layni
+  17:
+    arabic: وَمِنۡهُمۡ
+    translation: and of them
+    transliteration: wamin'hum
+  18:
+    arabic: مَّنۡ
+    translation: (is a kind) who
+    transliteration: man
+  19:
+    arabic: يَّمۡشِىۡ
+    translation: walks
+    transliteration: yamshī
+  20:
+    arabic: عَلٰٓى
+    translation: 'on'
+    transliteration: ʿalā
+  21:
+    arabic: اَرۡبَعٍ​ؕ
+    translation: four
+    transliteration: arbaʿin
+  22:
+    arabic: يَخۡلُقُ
+    translation: Allah creates
+    transliteration: yakhluqu
+  23:
+    arabic: اللّٰهُ
+    translation: Allah creates
+    transliteration: l-lahu
+  24:
+    arabic: مَا
+    translation: what
+    transliteration: mā
+  25:
+    arabic: يَشَآءُ​ؕ
+    translation: He wills
+    transliteration: yashāu
+  26:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  27:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  28:
+    arabic: عَلٰى
+    translation: 'on'
+    transliteration: ʿalā
+  29:
+    arabic: كُلِّ
+    translation: every
+    transliteration: kulli
+  30:
+    arabic: شَىۡءٍ
+    translation: thing
+    transliteration: shayin
+  31:
+    arabic: قَدِيۡرٌ‏
+    translation: (is) All-Powerful
+    transliteration: qadīrun
+---
+
+## Context
+
+To understand **The Light** (An-Nur) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Allah has created every moving creature from water. From the sky mountains (of clouds) having hail in them - 43.
+
+## Tafsir Ibn Kathir
+
+Allah has created every moving creature from water. Of them there are some that creep on their bellies, and some that walk on two legs, and some that walk on four. Allah creates what He wills. Verily, Allah is able to do all things (45)
+
+Allah's Power in His Creation of the Animals
+
+Allah mentions His complete and almighty power to create all the different kinds of animals with their various forms, colors and ways of moving and stopping, from one kind of water.
+
+فَمِنْهُم مَّن يَمْشِي عَلَىٰ بَطْنِهِ
+
+(Of them there are some that creep on their bellies,) like snakes and so on;
+
+وَمِنْهُم مَّن يَمْشِي عَلَىٰ رِجْلَيْنِ
+
+(and some that walk on two legs,) like humans and birds;
+
+وَمِنْهُم مَّن يَمْشِي عَلَىٰ أَرْبَعٍ
+
+(and some that walk on four,) like cattle and all kinds of animals. Allah says:
+
+يَخْلُقُ اللَّهُ مَا يَشَاءُ
+
+(Allah creates what He wills.) meaning by His power, because what He wills happens and what He does not will does not happen. So he says:
+
+إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+
+(Verily, Allah is able to do all things.)
+
+## Maarif ul Quran
+
+مِنَ السَّمَاءِ مِن جِبَالٍ فِيهَا
+
+From the sky mountains (of clouds) having hail in them - 43.
+
+Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mountains) for big masses of clouds, while hails are called Barad.
+
+## Personal Reflections

@@ -1,0 +1,120 @@
+---
+arabic_ayat: "لَا تَعۡتَذِرُوۡا قَدۡ كَفَرۡتُمۡ بَعۡدَ اِيۡمَانِكُمۡ​ ؕ اِنۡ نَّـعۡفُ\
+  \ عَنۡ طَآٮِٕفَةٍ مِّنۡكُمۡ نُـعَذِّبۡ طَآٮِٕفَةً ۢ بِاَنَّهُمۡ كَانُوۡا مُجۡرِمِيۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: Make no excuses! You have lost faith after your belief. If We
+  pardon a group of you, We will punish others for their wickedness.
+word_by_word:
+  1:
+    arabic: لَا
+    translation: (Do) not
+    transliteration: lā
+  2:
+    arabic: تَعۡتَذِرُوۡا
+    translation: make excuse
+    transliteration: taʿtadhirū
+  3:
+    arabic: قَدۡ
+    translation: verily
+    transliteration: qad
+  4:
+    arabic: كَفَرۡتُمۡ
+    translation: you have disbelieved
+    transliteration: kafartum
+  5:
+    arabic: بَعۡدَ
+    translation: after
+    transliteration: baʿda
+  6:
+    arabic: اِيۡمَانِكُمۡ​ ؕ
+    translation: your belief
+    transliteration: īmānikum
+  7:
+    arabic: اِنۡ
+    translation: If
+    transliteration: in
+  8:
+    arabic: نَّـعۡفُ
+    translation: We pardon
+    transliteration: naʿfu
+  9:
+    arabic: عَنۡ
+    translation: '[on]'
+    transliteration: ʿan
+  10:
+    arabic: طَآٮِٕفَةٍ
+    translation: a party
+    transliteration: ṭāifatin
+  11:
+    arabic: مِّنۡكُمۡ
+    translation: of you
+    transliteration: minkum
+  12:
+    arabic: نُـعَذِّبۡ
+    translation: We will punish
+    transliteration: nuʿadhib
+  13:
+    arabic: طَآٮِٕفَةً ۢ
+    translation: a party
+    transliteration: ṭāifatan
+  14:
+    arabic: بِاَنَّهُمۡ
+    translation: because they
+    transliteration: bi-annahum
+  15:
+    arabic: كَانُوۡا
+    translation: were
+    transliteration: kānū
+  16:
+    arabic: "مُجۡرِمِيۡنَ‏ \uFEFF\uFEFF"
+    translation: criminals
+    transliteration: muj'rimīna
+---
+
+## Context
+
+To understand **The Repentance** (At-Tawbah) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Abdullah bin 'Umar said, "During the battle of Tabuk, a man was sitting in a gathering and said, 'I have never seen like these reciters of ours! They have the hungriest stomachs, the most lying tongues and are the most cowardice in battle.' A man in the Masjid said, 'You lie. You are a hypocrite, and I will surely inform the Messenger of Allah ﷺ.' This statement was conveyed to the Messenger of Allah ﷺ and also a part of the Qur'an was revealed about it.'" 'Abdullah bin 'Umar said, "I have seen that man afterwards holding onto the shoulders of the Messenger's camel while stones were falling on him, declaring, 'O Allah's Messenger! We were only engaged in idle talk and jesting,' while the Messenger of Allah ﷺ was reciting,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+If you ask them (about this), they declare: "We were only talking idly and joking." Say: "Was it at Allah, and His Ayat and His Messenger that you were mocking (65)Make no excuse; you disbelieved after you had believed. Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا تَحْذَرُ‌ونَ (Allah is surely to bring out what you are afraid of) is the news that Allah will expose their conspiracy and mischief.
+
+## Tafsir Ibn Kathir
+
+If you ask them (about this), they declare: "We were only talking idly and joking." Say: "Was it at Allah, and His Ayat and His Messenger that you were mocking (65)Make no excuse; you disbelieved after you had believed. If We pardon some of you, We will punish others among you because they were criminals (66)
+
+The Hypocrites rely on False, Misguided Excuses
+
+Abdullah bin 'Umar said, "During the battle of Tabuk, a man was sitting in a gathering and said, 'I have never seen like these reciters of ours! They have the hungriest stomachs, the most lying tongues and are the most cowardice in battle.' A man in the Masjid said, 'You lie. You are a hypocrite, and I will surely inform the Messenger of Allah ﷺ.' This statement was conveyed to the Messenger of Allah ﷺ and also a part of the Qur'an was revealed about it.'" 'Abdullah bin 'Umar said, "I have seen that man afterwards holding onto the shoulders of the Messenger's camel while stones were falling on him, declaring, 'O Allah's Messenger! We were only engaged in idle talk and jesting,' while the Messenger of Allah ﷺ was reciting,
+
+أَبِاللَّهِ وَآيَاتِهِ وَرَسُولِهِ كُنتُمْ تَسْتَهْزِئُونَ
+
+("Was it at Allah, and His Ayat and His Messenger that you were mocking?")[9:65].'" Allah said,
+
+لَا تَعْتَذِرُوا قَدْ كَفَرْتُم بَعْدَ إِيمَانِكُمْ
+
+(Make no excuse; you disbelieved after you had believed.) on account of your statement and mocking,
+
+إِن نَّعْفُ عَن طَائِفَةٍ مِّنكُمْ نُعَذِّبْ طَائِفَةً
+
+(If We pardon some of you, We will punish others among you) for not all of you will be forgiven, some will have to taste the torment,
+
+بِأَنَّهُمْ كَانُوا مُجْرِمِينَ
+
+(because they were criminals), they were criminals because of this terrible, sinful statement.
+
+## Maarif ul Quran
+
+Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا تَحْذَرُ‌ونَ (Allah is surely to bring out what you are afraid of) is the news that Allah will expose their conspiracy and mischief. One such event came to pass while returning from the battle of Tabuk when some hypocrites had conspired to kill the Messenger of Allah. Allah Almighty informed him about the plan through angel Jibra'il (علیہ السلام) helping him to bypass the spot where the hypocrites were sitting in ambush. (Mazhari with reference to al-Baghawi)
+
+And Sayyidna ` Ibn ` Abbas ؓ says that Allah Ta` ala had in-formed the Holy Prophet al about the names of seventy hypocrites complete with their parentage and addresses. But, being the universal mercy, he did not disclose these before his people. (Mazhari)
+
+## Personal Reflections

@@ -1,0 +1,117 @@
+---
+arabic_ayat: اِنَّ الَّذِيۡنَ لَا يُؤۡمِنُوۡنَ بِالۡاٰخِرَةِ لَيُسَمُّوۡنَ الۡمَلٰٓٮِٕكَةَ
+  تَسۡمِيَةَ الۡاُنۡثٰى‏
+sentence_translation: Indeed, those who do not believe in the Hereafter label angels
+  as female,
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  3:
+    arabic: لَا
+    translation: (do) not
+    transliteration: lā
+  4:
+    arabic: يُؤۡمِنُوۡنَ
+    translation: believe
+    transliteration: yu'minūna
+  5:
+    arabic: بِالۡاٰخِرَةِ
+    translation: in the Hereafter
+    transliteration: bil-ākhirati
+  6:
+    arabic: لَيُسَمُّوۡنَ
+    translation: surely they name
+    transliteration: layusammūna
+  7:
+    arabic: الۡمَلٰٓٮِٕكَةَ
+    translation: the Angels
+    transliteration: l-malāikata
+  8:
+    arabic: تَسۡمِيَةَ
+    translation: name(s)
+    transliteration: tasmiyata
+  9:
+    arabic: الۡاُنۡثٰى‏
+    translation: (of) female
+    transliteration: l-unthā
+---
+
+## Context
+
+To understand **The Star** (An-Najm) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof. إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا (and conjecture is of no use in [ the matter on Truth....
+
+## Tafsir Ibn Kathir
+
+Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof. They follow but conjecture, and verily, conjecture is no substitute for the truth (28)Therefore withdraw from him who turns away from Our Reminder and desires nothing but the life of this world (29)That is what they could reach of knowledge. Verily, your Lord is He, Who knows best him who goes astray from His path, and He knows best him who receives guidance (30)
+
+Refuting the Claim of the Idolators that the Angels are Allah's Daughters
+
+Allah the Exalted admonishes the idolators for calling the angels female names and claiming that they are Allah's daughters. Allah is far removed from what they ascribe to Him. Allah the Exalted said in another Ayah,
+
+وَجَعَلُوا الْمَلَائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَٰنِ إِنَاثًا ۚ أَشَهِدُوا خَلْقَهُمْ ۚ سَتُكْتَبُ شَهَادَتُهُمْ وَيُسْأَلُونَ
+
+(And they make females the angels, who themselves are servants of the Most Gracious. Did they witness their creation? Their testimony will be recorded, and they will be questioned!)(43:19) Allah's statement here,
+
+وَمَا لَهُمْ بِهِ مِنْ عِلْمٍ ۖ
+
+(But they have no knowledge thereof.) meaning, they have no correct knowledge testifying to their statements. What they say is all lies, falsehood, fake and utter atheism,
+
+إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ ۖ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا
+
+(They follow but conjecture, and verily, conjecture is no substitute for the truth.) meaning, conjecture is of no benefit and never takes the place of truth. In a Hadith recorded in the Sahih, the Messenger of Allah ﷺ said,
+
+إِيَّاكُمْ وَالظَّنَّ، فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ
+
+(Beware of suspicion, for suspicion is the most lying speech.)
+
+The Necessity of turning away from the People of Misguidance
+
+Allah's statement,
+
+فَأَعْرِضْ عَنْ مَنْ تَوَلَّىٰ عَنْ ذِكْرِنَا
+
+(Therefore withdraw from him who turns away from Our Reminder), means, stay away from those who turn away from the Truth and shun them,
+
+وَلَمْ يُرِدْ إِلَّا الْحَيَاةَ الدُّنْيَا
+
+(and desires nothing but the life of this world.) meaning, whose aim and knowledge are concentrated on this life; this is the goal of those who have no goodness in them,
+
+ذَٰلِكَ مَبْلَغُهُمْ مِنَ الْعِلْمِ ۚ
+
+(That is what they could reach of knowledge.) meaning, seeking this life and striving hard in its affairs is the best knowledge they have acquired.
+
+There is also the reported supplication:
+
+اللّٰهُمَّ لَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا، وَلَا مَبْلَغَ عِلْمِنَا
+
+(O Allah! Make not this life the greatest of our concerns nor the best knowledge that we can attain.) Allah's statement,
+
+إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَىٰ
+
+(Verily, your Lord is He, Who knows best him who goes astray from His path, and He knows best him who receives guidance.) meaning, He is the Creator of all creatures and He knows whatever benefits His servants. Allah is the One Who guides whom He wills and misguides whom He wills, and all of this indicates His power, knowledge and wisdom. Certainly, He is Just and never legislates or decrees unjustly.
+
+## Maarif ul Quran
+
+Various Types of Zann
+
+إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا (and conjecture is of no use in [ the matter on Truth.... 53:28) The Arabic word ظَن Zann is used in several different senses, and one of them is baseless thoughts. This is the sense in which it is employed in the verse, because baseless thoughts were the cause of idolatry. And the verse purports to remove the cause. Zann is also used as the antonym of yaqin. Yaqin refers to assured or definitive knowledge about something that really exists, not the figment of someone's imagination. In this case, there is no room for any doubt or suspicion, as for instance knowledge gained from the Qur'an and Prophetic Traditions uninterruptedly reported by an indefinite number of people or by such a large number that it is impossible that they should agree upon falsehood. As opposed to this certain knowledge, zann is sometime used for the knowledge that is based on a proof, and not on baseless thoughts, but the proof is not so certain as may rule out other possibilities, as for example, injunctions based on general narratives of the Holy Prophet ﷺ . The first type of injunctions is referred to as qat'iyyat or yaqiniyyat and the second type is referred to as zanniyyat. This type of Zann is recognized by Shari` ah. There is ample evidence in Qur'an and Sunnah of its recognition. The entire Ummah concurs that it is obligatory to act upon it. The above verse when denouncing zann, refers to the first type of zann which connotes baseless thoughts. Thus there is no contradiction.
+
+## Personal Reflections

@@ -1,0 +1,246 @@
+---
+arabic_ayat: وَلَا تَسُبُّوا الَّذِيۡنَ يَدۡعُوۡنَ مِنۡ دُوۡنِ اللّٰهِ فَيَسُبُّوا
+  اللّٰهَ عَدۡوًاۢ بِغَيۡرِ عِلۡمٍ ​ؕ كَذٰلِكَ زَيَّنَّا لِكُلِّ اُمَّةٍ عَمَلَهُمۡ
+  ثُمَّ اِلٰى رَبِّهِمۡ مَّرۡجِعُهُمۡ فَيُنَبِّئُهُمۡ بِمَا كَانُوۡا يَعۡمَلُوۡنَ‏
+sentence_translation: ˹O believers!˺ Do not insult what they invoke besides Allah
+  or they will insult Allah spitefully out of ignorance. This is how We have made
+  each people’s deeds appealing to them. Then to their Lord is their return, and He
+  will inform them of what they used to do.
+word_by_word:
+  1:
+    arabic: وَلَا
+    translation: And (do) not
+    transliteration: walā
+  2:
+    arabic: تَسُبُّوا
+    translation: insult
+    transliteration: tasubbū
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those whom
+    transliteration: alladhīna
+  4:
+    arabic: يَدۡعُوۡنَ
+    translation: they invoke
+    transliteration: yadʿūna
+  5:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  6:
+    arabic: دُوۡنِ
+    translation: other than
+    transliteration: dūni
+  7:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  8:
+    arabic: فَيَسُبُّوا
+    translation: lest they insult
+    transliteration: fayasubbū
+  9:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  10:
+    arabic: عَدۡوًاۢ
+    translation: (in) enmity
+    transliteration: ʿadwan
+  11:
+    arabic: بِغَيۡرِ
+    translation: without
+    transliteration: bighayri
+  12:
+    arabic: عِلۡمٍ ​ؕ
+    translation: knowledge
+    transliteration: ʿil'min
+  13:
+    arabic: كَذٰلِكَ
+    translation: Thus
+    transliteration: kadhālika
+  14:
+    arabic: زَيَّنَّا
+    translation: We have made fair-seeming
+    transliteration: zayyannā
+  15:
+    arabic: لِكُلِّ
+    translation: to every
+    transliteration: likulli
+  16:
+    arabic: اُمَّةٍ
+    translation: community
+    transliteration: ummatin
+  17:
+    arabic: عَمَلَهُمۡ
+    translation: their deed
+    transliteration: ʿamalahum
+  18:
+    arabic: ثُمَّ
+    translation: Then
+    transliteration: thumma
+  19:
+    arabic: اِلٰى
+    translation: to
+    transliteration: ilā
+  20:
+    arabic: رَبِّهِمۡ
+    translation: their Lord
+    transliteration: rabbihim
+  21:
+    arabic: مَّرۡجِعُهُمۡ
+    translation: (is) their return
+    transliteration: marjiʿuhum
+  22:
+    arabic: فَيُنَبِّئُهُمۡ
+    translation: then He will inform them
+    transliteration: fayunabbi-uhum
+  23:
+    arabic: بِمَا
+    translation: about what
+    transliteration: bimā
+  24:
+    arabic: كَانُوۡا
+    translation: they used to
+    transliteration: kānū
+  25:
+    arabic: يَعۡمَلُوۡنَ‏
+    translation: do
+    transliteration: yaʿmalūna
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 108, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+The first of the present verses has been revealed concerning a particular event and provides guidance in a matter of principle, that is, what you are not permitted to do yourself, for that you cannot become the cause or channel either - both shall remain equally impermissible.
+
+Thereupon, came the Qur'anic injunction through which Muslims were prohibited from making any insulting statement against the false objects worshipped by disbelievers. Particularly worth noticing in this verse is that, just a verse earlier (106-107), the address was to the Holy Prophet ﷺ ، himself. Examples are: اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِن رَّ‌بِّكَ (Follow what has been revealed to you from your Lord) and: أَعْرِ‌ضْ عَنِ الْمُشْرِ‌كِين (and turn away from those who associate partners with Allah) and: مَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا (And We have not made you to stand guard over them) and: مَا أَنتَ عَلَيْهِم بِوَكِيلٍ (and you are not entrusted with their affairs). In all these grammatical forms, the Holy Prophet ﷺ was the addressee who was being asked to do or not to do something.
+
+## Tafsir Summary
+
+And insult not those whom they worship besides Allah, lest they insult Allah wrongfully without knowledge. The first of the present verses has been revealed concerning a particular event and provides guidance in a matter of principle, that is, what you are not permitted to do yourself, for that you cannot become the cause or channel either - both shall remain equally impermissible.
+
+## Tafsir Ibn Kathir
+
+And insult not those whom they worship besides Allah, lest they insult Allah wrongfully without knowledge. Thus We have made fair seeming to each people its own doings; then to their Lord is their return and He shall inform them of all that they used to do (108)
+
+The Prohibition of Insulting the False gods of the Disbelievers, So that they Do not Insult Allah
+
+Allah prohibits His Messenger ﷺ and the believers from insulting the false deities of the idolators, although there is a clear benefit in doing so. Insulting their deities will lead to a bigger evil than its benefit, for the idolators might retaliate by insulting the God of the believers, Allah, none has the right to be worshipped but He.
+
+'Ali bin Abi Talhah said that Ibn 'Abbas commented on this Ayah [6:108]; "They (disbelievers) said, 'O Muhammad! You will stop insulting our gods, or we will insult your Lord.' Thereafter, Allah prohibited the believers from insulting the disbelievers' idols,
+
+فَيَسُبُّوا اللَّهَ عَدْوًا بِغَيْرِ عِلْمٍ
+
+(lest they insult Allah wrongfully without knowledge.)"
+
+Abdur-Razzaq narrated that Ma'mar said that Qatadah said, "Muslims used to insult the idols of the disbelievers and the disbelievers would retaliate by insulting Allah wrongfully without knowledge. Allah revealed,
+
+وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِن دُونِ اللَّهِ
+
+(And insult not those whom they worship besides Allah.)"
+
+On this same subject – abandoning what carries benefit to avert a greater evil – it is recorded in the Sahih that the Messenger of Allah ﷺ said,
+
+مَلْعُونٌ مَنْ سَبَّ وَالِدَيْهِ
+
+(Cursed is he who insults his own parents!) They said, "O Allah's Messenger! And how would a man insult his own parents?" He said,
+
+يَسُبُّ أَبَا الرَّجُلِ فَيَسُبُّ أَبَاهُ وَيَسُبُّ أُمَّهُ فَيَسُبُّ أُمَّهُ
+
+(He insults a man's father, and that man insults his father, and insults his mother and that man insults his mother.) Allah's statement,
+
+كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ
+
+(Thus We have made fair seeming to each people its own doings;) means, as We made fair seeming to the idolators loving their idols and defending them, likewise We made fair seeming to every previous nation the misguidance they indulged in. Allah's is the most perfect proof, and the most complete wisdom in all that He wills and chooses.
+
+ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ
+
+(then to their Lord is their return,) gathering and final destination,
+
+فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ
+
+(and He shall then inform them of all that they used to do.) He will compensate them for their deeds, good for good and evil for evil.
+
+## Maarif ul Quran
+
+Commentary
+
+The first of the present verses has been revealed concerning a particular event and provides guidance in a matter of principle, that is, what you are not permitted to do yourself, for that you cannot become the cause or channel either - both shall remain equally impermissible.
+
+The Background of Revelation
+
+According to the background of revelation as narrated by Ibn Jarir, when Abu Talib, the respected uncle of the Holy Prophet ﷺ was on his death bed, the disbelieving chiefs of the tribe of Quraysh who, hostile and torturous to the Holy Prophet ﷺ always plotting to kill him, became alarmed at the eventuality of the death of Abu Talib which was likely to become an impediment to their nefarious designs.
+
+Because, they thought, if they were to kill Muhammad ﷺ after his protective uncle's death, that would go against the norms of their own self-respect and honour, for people would say that they were unable to do anything like that in the presence of Abu Talib, but when he died, they killed his helpless nephew. So, they decided to get together and go to Abu Talib to talk about the matter in a decisive manner.
+
+Every educated Muslim knows that Abu Talib, though he had not formally embraced Islam, loved the Holy Prophet ﷺ dearly, even respected him as a great bearer of the Divine message right from his heart, and always defended him against his enemies.
+
+So, the Quraysh chiefs formed a deputation who would go to see Abu Ta1ib. Included as members of the deputation were Abu Sufyan, Abu Jahl, ` Amr ibn al-` As and some others. The name of the person chosen to arrange for an appointment to meet with Abu Talib was Muttalib. He got his permission and escorted the deputation to him.
+
+To Abu Ta1ib, the deputation said: You are our elder, and a chief, and you know that your nephew, Muhammad ﷺ has been causing great pain to the idols we worship. We wish that you would talk to him and prevail on him that he should say nothing offensive against our idols, in which case, we shall make peace on the principle that he acts as he wishes on his faith, takes whoever he chooses as the object of his worship, against which, we shall raise no objection.
+
+Abu Talib called the Holy Prophet ﷺ to him and said: Here are the chiefs of your clan. The Holy Prophet ﷺ turned to the deputation and asked: What is your wish? They said: We wish that you leave us and our idols alone. Do not speak ill of them. We shall leave you and your object of worship alone. This will end our mutual hostility.
+
+The Holy Prophet ﷺ said: All right, you tell me, if I were to accept what you were saying, would you be ready to say a Kalimah (statement in words) by saying which you would become masters of the whole Arabia with even people from beyond subscribing to your authority?
+
+Abu Jahl said: You are talking about only one Kalimah. We are ready to say ten of them. Tell us what are they? The Holy Prophet said: لا إلہ إلا اللہ [ La Ilaha Illallah : There is no god (worthy of worship) but Allah ]. That infuriated all of them. Abu Talib said to the Holy Prophet ﷺ : 0 my nephew, say something other than this Kalimah because it has left your clansmen all confused.
+
+He said: As for me, I cannot say a Kalimah other than this. If they were to bring the sun down from the skies and put in my hands, even then I will not say a Kalimah other than this. His intention was to let them become totally disappointed.
+
+Thereupon, still in anger, they said: Either you stop speaking ill of our idols, the objects of our worship, or we too are going to start using insulting language against you, and also against that Being of which you claim to be the messenger. Revealed, thereupon, was the verse: وَلَا تَسُبُّوا الَّذِينَ يَدْعُونَ مِن دُونِ اللَّـهِ فَيَسُبُّوا اللَّـهَ عَدْوًا بِغَيْرِ‌ عِلْمٍ (And do not abuse those whom they invoke other than Allah, lest they abuse Allah transgressively without knowledge).
+
+“ لَا تَسُبُّوا " (la tasubbu) in this verse is a derivation from the word: سَبَّ (sabb) which means to abuse or use insulting language against someone (not in the sense of misuse, maltreatment or corrupt practice as currently used in American English which uses other alternates for hurling invectives - Tr.). The Holy Prophet ﷺ given his intrinsically high moral disposition, had already been abiding by this rule of conduct. Not even during his childhood, had his blessed speech ever been contaminated with an abusive word for any human being, rather not even for an animal. Perhaps, there may have been some hard word which escaped the lips of some from among the noble Companions which was overestimated as an invective by the disbelievers of Makkah, and which was used as a pretext by the chiefs of the Quraysh when their deputation brought this case up before the Holy Prophet g and gave the ultimatum that either he stops insulting their deities or they would start insulting theirs.
+
+Thereupon, came the Qur'anic injunction through which Muslims were prohibited from making any insulting statement against the false objects worshipped by disbelievers. Particularly worth noticing in this verse is that, just a verse earlier (106-107), the address was to the Holy Prophet ﷺ ، himself. Examples are: اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِن رَّ‌بِّكَ (Follow what has been revealed to you from your Lord) and: أَعْرِ‌ضْ عَنِ الْمُشْرِ‌كِين (and turn away from those who associate partners with Allah) and: مَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا (And We have not made you to stand guard over them) and: مَا أَنتَ عَلَيْهِم بِوَكِيلٍ (and you are not entrusted with their affairs). In all these grammatical forms, the Holy Prophet ﷺ was the addressee who was being asked to do or not to do something. After that, the form of address was changed in the present verse. It was turned away from the Holy Prophet ﷺ and was turned to Muslims in general. Said there was: لَا تَسُبُّوا (la tasubbu). The hint given thereby is that the Holy Prophet ﷺ who had never used abusive speech against anyone to start with, could not be directly addressed with the words of prohibition for that could make him disheartened. Therefore, the address was made general - and all Sahabah ؓ too started taking precaution in this matter. (As in Al-Bahr Al-Muhit)
+
+Related Considerations
+
+That idols have been mentioned in strong words in several verses of the Qur'an, and that those verses are not abrogated either for they are still recited, is a different matter.
+
+The answer is that such words wherever they appear in the verses of the Qur'an are there as a polemic or debating device to unfold some reality clearly. Intended at such places is no aggression, nor can a sensible person deduce from it such an intention to malign idols or to mock at disbelievers or to irritate them. This is an open difference in approach which is readily understood by those aware of the nuances of diction in any language. They know that the shortcoming or inadequacy of a person is called in question only to elucidate an issue in question. This is common practice in courts where no one challenges the statement being made before the Court as the throwing of invectives against someone. Similarly, narrated before physicians are the kind of defects and drawbacks people could have which, if described elsewhere would be taken as invectives hurled at someone. But, such statement made under medical need is not regarded as abusive talk by anyone.
+
+Thus, when the Qur'an describes the helplessness of idols in being devoid of sense and consciousness, knowledge and power, it uses a manner of speaking which would help the understanding to under-stand reality and expose the error or short-sightedness of those who do not. Hence, it was said: ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ ` Weak are, the seekers and weak, the sought (idols) 22:73.' And as it was said: إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّـهِ حَصَبُ جَهَنَّمَ (You, and what you worship, other than Allah, are but fuel for Hell - 21:98). Here too, the purpose is not to speak ill of someone. The purpose is to state the sad end of straying and error. Muslim jurists, may the mercy of Allah be upon them, have made it all clear by explaining: If anyone were to recite this verse too as a tool aimed at causing irritation for disbelievers, then, for him, this recitation at that time and for that purpose, shall be considered as included under this ` abusing which is prohibited,' and will, therefore, be impermissible - as is the case in the prohibition of the recitation of the Qur'an at times and places which are Makruh (reprehensible) and known to everyone. (Ruh al-Ma'ani).
+
+To sum up, it can be said that, no word which could be taken as abusive was ever said by the Holy Prophet ﷺ or had appeared in the Holy Qur'an, nor was there any apprehension that it could happen in the future. Of course, the probability that Muslims at large may fall into such impulsive action did exist, therefore, this verse stopped them from doing so. This event and the Qur'anic instruction based on it has provided access to a large body of significant knowledge, some examples of which are given below:
+
+Becoming the Cause or Agent of a Sin is also a Sin
+
+1. One of the principles thus deduced is: If doing something which is permissible intrinsically - in fact, even commendable in a certain degree - but, in the actual doing of it some corruption has to be accommodated, or as a result of which, people are let into sin, then, the doing of such a thing is also prohibited. The reason is that identifying false objects of worship, that is, the idols, is, at least, permissible after all - and if said under the need to uphold one's religious feelings, it may perhaps be even worthy of praise and reward - but, since this resulted in the apprehension that people would start speaking ill of Allah Jalla Sha'nuhu which, in turn, would make the degraders of idols the cause of this evil, therefore, prohibited was the act which was already permissible.
+
+2. Another example of this appears in Hadith where, addressing his Companions, the Holy Prophet ﷺ is reported to have said: No one should abuse (use insulting language against) his or her parents. The Companions submitted: Ya Rasul Allah, it is just not possible that one will abuse parents. He ﷺ said: Yes, one does not usually do that. But, when such a person abuses the parents of someone else and, as a consequence of it, the other person abuses his parents, then, the cause of his parents being so abused was this very son. So, he too is like one who has himself abused his parents.
+
+3. Yet another instance of a case of this nature came to pass during the blessed time of the Holy Prophet ﷺ . He said to Sayyidah ` A'ishah ؓ ، that the Baytullah (the Holy Ka'bah) had collapsed on its foundations in an accident during the Jahiliyyah. The Quraysh of Makkah reconstructed it before the advent of prophethood. In this structure, some details turned out to be against the initial Ibrahimi foundation. One of them was the part now known as حطیم Hatim. This too is part of the Baytullah. It was left out because of paucity of funds. Then, there were two doors of Baytullah, the Eastern and the Western - one for entry and the other for exit. The people of Jahiliyyah closed the Western door. The one door left was raised higher than the ground level so that entry into the Baytullah would depend on their will and permission and that no one could go there freely. The Holy Prophet ﷺ said: I wish I could demolish the present structure of Baytullah and make it like the structure raised by Sayyidna Ibrahim Khalilullah (علیہ السلام) . But, the danger is that your people, that is, the common Arabs, who have entered the fold of Islam just now, may fall a victim to some doubts at the sight of Baytullah being demolished, therefore, I have abandoned my intention.
+
+It goes without saying that raising the structure of Baytullah precisely on the foundations laid down by Sayyidna Ibrahim (علیہ السلام) was an act of obedience and a deed deserving of merit and reward. But, seeing the shadows of a danger lurking behind this intended action because of the ignorance of people around, he abandoned that idea. So, from this event too, there emerges the same principle that, should there be an apprehension of some evil or corruption necessarily resulting from what is permissible, even from what is otherwise an act of thawab or merit, then, that permissible or thawab-worthy act too becomes impermissible.
+
+But, there exists a strong doubt about this principle which has been reported from Abu Mansur in Ruh al-Ma'ani. The proposition posed is: Allah Ta` ala has made Jihad binding on Muslims - though, the inevitable outcome of killing is that, when a Muslim will start killing some non-Muslim, they would start killing Muslims - and killing Muslims is Haram (forbidden). Thus, given this principle, Jihad should also be prohibited. Then, the same will hold valid about our propagation of Islam and the recitation of the Qur'an, and about Adhan and Salah as well, all of which are subjected to mockery and ridicule by many among the disbelievers. If so, shall we surrender our right to worship and promote our religion?
+
+Answering this, Abu Mansur has himself said that this doubt has come up because of ignoring a necessary condition. That condition is that a permissible act which has been prohibited, because of the apprehension of something evil, should not be one of the basic objectives and necessary duties in Islam. Thus, speaking ill of false objects of worship does not relate to any objective of Islam. Similarly, no basic Islamic objective depends on making the structure of Baytullah conform precisely to the foundations laid out by Sayyidna Ibrahim (علیہ السلام) . Therefore, whenever there was the danger of some religious mal-situation cropping up by doing what was permissible, or even reward-worthy, such acts or intentions were abandoned. As for acts which are either the very Islamic objectives in themselves, or on them depends some Islamic objective, then, even if the wrongdoings of other people seem to be bringing visible corruption or evil in its wake, then, these objectives will never be surrendered or abandoned. Instead of that, effort will be made that such permissible acts should keep continuing in their place, and steps will be taken to block the spreading of evils and corrupting agents as far as possible.
+
+This is why two great men of Islamic history acted the way they did. Once Hasan al-Basri (رح) and Imam Muhammad Ibn Sirin (رح) ، went out to participate in the Salah for a Janazah. There, they noticed a gathering which had men as well as women. Seeing this Ibn Sirin returned back. But, Hadrat Hasan al-Basri (رح) said: Why should we leave doing what is necessary because of the false practice or ways of other people? The Salah of Janazah is Fard (obligatory). It cannot be abandoned because of this corrupting agent. Of course, effort will be made, as far as possible, that this evil is rooted out.
+
+This event too has been reported in Ruh al-Ma'ani.
+
+So, the substance of this principle which emerges from this verse comes to be: An act which is permissible in itself, even if it be an act of obedience and thawab - but, not be one of the religiously binding objectives, then, should doing it bring forth evil consequences, abandoning of that permissible act becomes Wajib (necessary). This is contrary to the case of the objectives of the Shari'ah which cannot be abandoned because of any impending evil or corruption.
+
+From this principle, the jurists of the Muslim community have deduced solutions to thousands of problems. Some examples of their juristic efforts are:
+
+1. If a person has a disobedient son and he knows that, should he ask him to do something, he would refuse to do it and even prefer to do against it, in which case, he will become liable to a grave sin, then, in such a situation, the father should not ask him to do or not to do something as an order, instead of which, he should say so in the mode of a good counsel - for example, he says to him, ` if such and such job could be done, that would be nice' - so that, in the eventuality of a refusal or reverse action, the son does not become liable to the sin of a new disobedience. (Khulasatul-Fatawa)
+
+2. The same rule holds good in matters where well-meaning advice is given to someone. If circumstantial indicators show that a person, rather than take advice, is more likely to take a worse course, as a result of which, he will sink deeper into sin, then, in such a situation, to give up advising is better. In his Sahih, Imam al-Bukhari has introduced a regular chapter on this subject:
+
+باب من ترک بعض الاختیار مخافۃ ان یقصر فھم بعض الناس فیقعوا فی اشد منہ
+
+There are occasions when things permissible, even those commendable, are abandoned lest they put common people in misunderstanding - subject to the condition that these acts are not from the core objectives of Islam.
+
+3. But, acts which are included under the objectives of Islam - whether Fard, Wajib or Sunnah al-Mu'akkadah (obligatory, necessary or emphasized Sunnah) or other kinds of Islamic hallmarks - if by observing them some people lacking in understanding start falling in misunderstanding, then, these acts will not be abandoned, rather, other methods will be used to remove the misunderstanding and misdoing of such people. Events which came to pass in early Islam prove that the disbelievers of Makkah were provoked because of Salah, the recitation of the Qur'an and the preaching of Islam. But, the standing hallmarks of Islam were never abandoned because of such adverse conditions. In fact, the very episode relating to Abu Jahl and the rest of Quraysh chiefs recounted under the Background of Revelation of the present verse has proved the point eloquently. The essence of the episode was that the chiefs from the disbelieving Quraysh tribe wished to give a guarantee of peace if the Holy Prophet ﷺ would abandon preaching Tauhid, that is, stop calling Allah One. The answer given by him was: I can never do that, even if they were to bring the sun and the moon and put them in my hands.
+
+In conclusion, the question as refined and resolved is: If, by doing what is included under Islamic objectives, some people fall a victim to misunderstanding or misdeed, such acts would never be abandoned. Of course, acts which are not included under Islamic objectives - and leaving them off does not compromise or kill any religious objective - then, such acts will be abandoned because of the apprehension that others might fall into misunderstanding or misdeed.
+
+## Personal Reflections

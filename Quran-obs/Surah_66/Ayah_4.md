@@ -1,0 +1,284 @@
+---
+arabic_ayat: اِنۡ تَتُوۡبَاۤ اِلَى اللّٰهِ فَقَدۡ صَغَتۡ قُلُوۡبُكُمَا​ۚ وَاِنۡ تَظٰهَرَا
+  عَلَيۡهِ فَاِنَّ اللّٰهَ هُوَ مَوۡلٰٮهُ وَجِبۡرِيۡلُ وَصَالِحُ الۡمُؤۡمِنِيۡنَ​ۚ
+  وَالۡمَلٰٓٮِٕكَةُ بَعۡدَ ذٰلِكَ ظَهِيۡرٌ‏
+sentence_translation: ˹It will be better˺ if you ˹wives˺ both turn to Allah in repentance,
+  for your hearts have certainly faltered. But if you ˹continue to˺ collaborate against
+  him, then ˹know that˺ Allah Himself is his Guardian. And Gabriel, the righteous
+  believers, and the angels are ˹all˺ his supporters as well.
+word_by_word:
+  1:
+    arabic: اِنۡ
+    translation: If
+    transliteration: in
+  2:
+    arabic: تَتُوۡبَاۤ
+    translation: you both turn
+    transliteration: tatūbā
+  3:
+    arabic: اِلَى
+    translation: to
+    transliteration: ilā
+  4:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  5:
+    arabic: فَقَدۡ
+    translation: so indeed
+    transliteration: faqad
+  6:
+    arabic: صَغَتۡ
+    translation: (are) inclined
+    transliteration: ṣaghat
+  7:
+    arabic: قُلُوۡبُكُمَا​ۚ
+    translation: your hearts
+    transliteration: qulūbukumā
+  8:
+    arabic: وَاِنۡ
+    translation: but if
+    transliteration: wa-in
+  9:
+    arabic: تَظٰهَرَا
+    translation: you backup each other
+    transliteration: taẓāharā
+  10:
+    arabic: عَلَيۡهِ
+    translation: against him
+    transliteration: ʿalayhi
+  11:
+    arabic: فَاِنَّ
+    translation: then indeed
+    transliteration: fa-inna
+  12:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  13:
+    arabic: هُوَ
+    translation: He
+    transliteration: huwa
+  14:
+    arabic: مَوۡلٰٮهُ
+    translation: (is) his Protector
+    transliteration: mawlāhu
+  15:
+    arabic: وَجِبۡرِيۡلُ
+    translation: and Jibreel
+    transliteration: wajib'rīlu
+  16:
+    arabic: وَصَالِحُ
+    translation: and (the) righteous
+    transliteration: waṣāliḥu
+  17:
+    arabic: الۡمُؤۡمِنِيۡنَ​ۚ
+    translation: believers
+    transliteration: l-mu'minīna
+  18:
+    arabic: وَالۡمَلٰٓٮِٕكَةُ
+    translation: and the Angels
+    transliteration: wal-malāikatu
+  19:
+    arabic: بَعۡدَ
+    translation: after
+    transliteration: baʿda
+  20:
+    arabic: ذٰلِكَ
+    translation: that
+    transliteration: dhālika
+  21:
+    arabic: ظَهِيۡرٌ‏
+    translation: (are his) assistants
+    transliteration: ẓahīrun
+---
+
+## Context
+
+To understand **The Prohibition** (At-Tahrim) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tahrim is a **Madinah** surah—revealed as the 107th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best. Some might say that they were two separate incidents. However, it is not likely that the Ayat were revealed about both incidents, if indeed they were two separate incidents. Allah knows best. A Hadith that Imam Ahmad collected in the Musnad mentions that 'A'ishah and Hafsah were the plotters. Imam Ahmad recorded that Ibn 'Abbas said, "I was eager to ask 'Umar about the two ladies among the wives of the Prophet ﷺ, about whom Allah said,
+
+I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at the door of the Masjid and called out at the top of my voice, 'The Messenger of Allah has not divorced his wives.' It was on this occasion that this Ayah was revealed,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. إِن تَتُوبَا إِلَى اللَّـهِ فَقَدْ صَغَتْ قُلُوبُكُمَا [ 0 two wives of the Prophet,] If both of you repent to Allah, then [ your conduct calls for it, because ] your hearts have diverted....66:4).
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ۖ تَبْتَغِي مَرْضَاتَ أَزْوَاجِكَ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ - قَدْ فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ ۚ وَاللَّهُ مَوْلَاكُمْ ۖ وَهُوَ الْعَلِيمُ الْحَكِيمُ - وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِ وَأَظْهَرَهُ اللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُ وَأَعْرَضَ عَنْ بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِ قَالَتْ مَنْ أَنْبَأَكَ هَٰذَا ۖ قَالَ نَبَّأَنِيَ الْعَلِيمُ الْخَبِيرُ - إِنْ تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِنْ تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ وَصَالِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ - عَسَىٰ رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ مُسْلِمَاتٍ مُؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا
+
+(1. O Prophet! Why do you forbid that which Allah has allowed to you, seeking to please your wives? And Allah is Oft-Forgiving, Most Merciful.)(2. Allah has already ordained for you (O men) the absolution from your oaths. And Allah is your Protector and He is the All-Knower, the All-Wise.)(3. And (remember) when the Prophet disclosed a matter in confidence to one of his wives, then she told it. And Allah made it known to him; he informed part thereof and left a part. Then when he told her thereof, she said: "Who told you this?" He said: "The All-Knower, the All-Aware has told me.")(4. If you two turn in repentance to Allah, your hearts are indeed so inclined; but if you help one another against him, then verily, Allah is his Protector, and Jibril, and the righteous among the believers; and after that the angels are his helpers.)(5. Maybe his Lord, if he divorces you, will give him instead of you, wives better than you - submitting, believers, obedient, turning to Allah in repentance, worshipping Allah sincerely, Sā'iḥāt, previously married, and virgins.)
+
+Allah censures His Prophet (ﷺ) for Prohibiting Himself from what He has allowed for Him
+
+In the Book of Vows, Al-Bukhari recorded that 'Ubayd bin 'Umayr said that he heard 'A'ishah claiming that Allah's Messenger ﷺ used to stay for a period in the house of Zaynab bint Jahsh and drink honey in her house. (She said) "Hafsah and I decided that when the Prophet ﷺ entered upon either of us, we would say, 'I smell Maghafir on you. Have you eaten Maghafir?' When he entered upon one of us, she said that to him. He replied (to her),
+
+لَا، بَلْ شَرِبْتُ عَسَلًا عِنْدَ زَيْنَبَ بِنْتِ جَحْشٍ وَلَنْ أَعُودَ لَهُ
+
+(No, but I drank honey in the house of Zaynab bint Jahsh, and I will never drink it again.)" Then the following was revealed;
+
+يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ۖ
+
+(O Prophet! Why do you fobid that which Allah has allowed to you?) up to,
+
+إِنْ تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ
+
+(If you both turn in repentance to Allah, your hearts are indeed so inclined;) in reference to 'A'ishah and Hafsah.
+
+وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا
+
+(And (remember) when the Prophet disclosed a matter in confidence to one of his wives,) which refers to this saying,
+
+بَلْ شَرِبْتُ عَسَلًا
+
+(But I have drunk honey.) Ibrahim bin Musa said that Hisham said that it also meant his saying,
+
+وَلَنْ أَعُودَ لَهُ وَقَدْ حَلَفْتُ فَلَا تُخْبِرِي بِذَلِكِ أَحَدًا
+
+(I will not drink it anymore, I have taken an oath to that. Therefore, do not inform anybody about it.)
+
+Al-Bukhari also recorded this Hadith in the Book of Divorce; then he said, "Al-Maghafir is a type of sap, and in Ar-Rimth (a type of citrus) its taste is sweet..."
+
+Al-Jawhari said, "The 'Urfut is a tree of the shrub variety, which secretes Maghfur."
+
+Muslim collected this Hadith from 'A'ishah in the Book of Divorce in his Sahih, and his wording is the same as Al-Bukhari in the Book of Vows.
+
+In the Book of Divorce, Al-Bukhari recorded that 'A'ishah said, "Allah's Messenger ﷺ liked sweets and honey. After performing the 'Asr prayer, he used to visit his wives, going close to them. So he went to Hafsah, daughter of 'Umar, and stayed with her more than his usual stay. I ('A'ishah) became jealous and asked about that. It was said to me, 'A woman of her family sent her a small vessel of honey as a gift, and she gave a drink to Allah's Messenger made from it.' I said, 'By Allah, we will contrive a plot against him.' I said to Sawdah bint Zam'ah, 'When the Messenger visits you and draws close to you, say to him, 'Have you eaten Maghafir?' And when he says to you, 'No', then ask him, 'What is this odor?' He will say to you, 'Hafsah has given me a drink of honey.' Then you should say to him, 'The honeybees might have eaten from Urfut, and I will also say the same to him. Safiyyah, you should also say this.' Sawdah later said, 'It was under compulsion that I had decided to state that which you told me; soon, by Allah, he was standing at my door.' So when Allah's Messenger ﷺ came near her, she said, 'O Messenger of Allah! Did you eat Maghafir?' He said, 'No.' She again said, 'Then what is this odor?' He said,
+
+سَقَتْنِي حَفْصَةُ شَرْبَةَ عَسَلٍ
+
+(Hafsah gave me honey to drink.) She said, 'The honeybees might have eaten from 'Urfut.')"
+
+A'ishah continued, "When he came to me I said the same to him. He then visited Safiyyah and she also said similar to him. When he again visited Hafsah, she said, 'O Messenger of Allah, should I not give you that (drink)?' He said,
+
+لَا حَاجَةَ لِي فِيهِ
+
+(I do not need it.) Sawdah said, 'By Allah! We have prevented him from drinking honey.' I said to her, 'Keep quiet!'" Muslim also recorded this Hadith, but this wording is from Al-Bukhari.
+
+In the narration of Muslim, 'A'ishah said, "The Messenger of Allah ﷺ used to hate to have a bad odor coming from him." This is why they suggested to him that he ate Maghafir, because it causes a bad odor. When he said,
+
+بَلْ شَرِبْتُ عَسَلًا
+
+(No, I had some honey.) They said that the bees ate from a tree that is called Al-'Urfut, which has Maghafir gum, suggesting that this is the reason behind the bad odor they claimed was coming from him.
+
+The latter narration, collected through 'Urwah from 'A'ishah, mentions that it was Hafsah who gave the Prophet ﷺ the honey.
+
+In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best. Some might say that they were two separate incidents. However, it is not likely that the Ayat were revealed about both incidents, if indeed they were two separate incidents. Allah knows best. A Hadith that Imam Ahmad collected in the Musnad mentions that 'A'ishah and Hafsah were the plotters. Imam Ahmad recorded that Ibn 'Abbas said, "I was eager to ask 'Umar about the two ladies among the wives of the Prophet ﷺ, about whom Allah said,
+
+إِنْ تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ
+
+(If you two turn in repentance to Allah your hearts are indeed so inclined;) Then I performed Hajj along with 'Umar, and on our way back from Hajj he went aside (to relieve himself). I also went aside along with him carrying a tumbler of water. When he finished and returned, I poured water on his hands from the tumbler and he performed ablution. I said, 'O Commander of the faithful! Who were the two ladies among the wives of the Prophet ﷺ, to whom Allah said,
+
+إِنْ تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ
+
+(If you two turn in repentance to Allah your hearts are indeed so inclined)?'
+
+‘Umar said, ‘I am astonished at your question, O Ibn ‘Abbas.''' - Az-Zuhri (a subnarrator) said that ‘Umar did not like the question, but he still answered it, saying that they were ‘A'ishah and Hafsah.
+
+"Then ‘Umar went on relating the story and said, ‘We, the people of Quraysh, used to have authority over our women. But when we came to live with the Ansar, we noticed that the Ansari women had the upper hand over their men, so our women started acquiring the habits of the Ansari women. At that time, I was residing at the house of Umayyah bin Zayd, in Al-’Awali. Once I got angry with my wife, and she talked back to me; I disliked her answering me back. She said, ‘Why do you dislike me talking back to you? By Allah, the wives of the Prophet ﷺ talk back to him, and some of them may not speak with him for the whole day, until nightfall.'
+
+Then I went to Hafsah and asked her, ‘Do you talk back to Allah's Messenger?' She said, ‘Yes.' I asked, ‘Does any of you keep Allah's Messenger angry all day long, until night?' She replied, ‘Yes.' I said, ‘Whoever among you does this is a ruined, losing person! Doesn't she fear that Allah may get angry for the anger of His Messenger and, thus, she will be ruined? Don't ask Allah's Messenger too many things, and don't retort him in any case. Demand from me whatever you like, and don't be tempted to imitate your neighbor, for she is more beautiful than you, and more beloved to Allah's Messenger than you.' He meant ‘A'ishah.
+
+I, and an Ansari neighbor of mine used to visit the Prophet ﷺ in turns. He used to go one day, and I another day. When I went I would bring him the news of what had happened that day regarding the revelation and when he went, he used to do the same for me.
+
+In those days it was rumored that the Ghassan (tribe) were preparing their horses to invade us. My companion went and returned to us at night and knocked at my door. I came out to him. He said that a grave thing happened. I asked him, ‘What is it? Have Ghassan come?' He replied that it was worse and more serious than that, adding that Allah's Messenger ﷺ had divorced all his wives. I said, ‘Hafsah is a ruined loser! I expected that would happen some day.'
+
+So I dressed myself and I performed the Subh prayer. I went to Hafsah and found her weeping. I asked her, ‘Has Allah's Messenger divorced all of you?' She replied, ‘I don't know. He is there alone in the upper room.' I went to the upper room and asked a black slave of the Prophet ﷺ to ask for his permission to see me, and the boy went in and then came out saying, ‘I mentioned you to him and he remained silent.' I then went out and came to the Minbar and found a group of people around it and some of them were weeping.
+
+I sat with them for some time, but could not endure the situation. So, I requested to the boy, ‘Will you get the permission for ‘Umar?' He went in and then came out saying, ‘I mentioned you to him, but he did not reply.' So, I went to Minbar and sat with the people who were sitting by the Minbar, but I could not bear the situation, so I went to the boy again and said, ‘Will you get the permission for ‘Umar?' He went in and brought the same reply as before. When I was leaving, behold, he called me saying, ‘Allah's Messenger has granted you permission.' So, I entered the Prophet's room, greeted him with the Salam and saw him lying on a mat without bedding on it, and the mat had left its mark on the body of the Prophet ﷺ.
+
+I said, ‘Have you divorced your wives, O Allah's Messenger?' He raised his eyes to me and replied no. I said, ‘Allahu Akbar. O Allah's Messenger! We, the people of Quraysh used to have the upper hand over our women. But when we came to Al-Madinah, we found a people whose women had the upper hand over them. Our women started learning this behavior from them. Once, I got angry with my wife, and she talked back to me. I disliked that behavior from her and she said, ‘Why do you dislike that I talk back to you? By Allah, the Prophet's wives talk back to him and one of them would ignore him the whole day, until the night.' I said to her, ‘Whoever does this among them is the ruined loser! Does she feel safe from Allah getting angry with her on account of His Messenger's anger? In that case, she would be ruined.' On that the Prophet ﷺ smiled.
+
+I then said, ‘O Allah's Messenger! I went to Hafsah and said to her, ‘Do not be tempted to imitate your companion (‘A'ishah) for she is more beautiful than you and more beloved to the Prophet.' The Prophet ﷺ smiled again. When I saw him smiling, I said, ‘Does the Messenger feel calm?' He said, ‘Yes.' So, I sat down and cast a glance at the room, and by Allah, I couldn't see anything of importance, except three hides. I said, ‘Invoke Allah, O Allah's Messenger, to make your followers prosperous, for the Persians and the Byzantines have been made prosperous and given worldly luxuries, even though they do not worship Allah.' The Prophet ﷺ sat upright and said,
+
+أَفِي شَكٍّ أَنْتَ يَا ابْنَ الْخَطَّابِ! أُولَئِكَ قَوْمٌ عُجِّلَتْ لَهُمْ طَيِّبَاتُهُمْ فِي الْحَيَاةِ الدُّنْيَا
+
+(O Ibn Al-Khattab! Do you have any doubt? These people have been given rewards of their good deeds in this world only.)
+
+I asked the Prophet ﷺ, 'Please beg Allah's forgiveness for me, O Allah's Messenger.' The Prophet ﷺ swore that he would not go to his wives for one month, because of his severe anger towards them, until Allah the Exalted and Most Honored censured him." Al-Bukhari, Muslim, At-Tirmidhi and An-Nasa'i also collected this Hadith using various chains of narration. Al-Bukhari and Muslim also collected it from Ibn 'Abbas, who said, "For a whole year, I was eager to ask 'Umar bin Al-Khattab about an Ayah. However, I hesitated out of respect for him. Once, he went on a Hajj trip and I accompanied him. On our way back, he stopped to relieve himself behind some trees of Arak. I stopped until he finished and then walked along with him and asked him, 'O Leader of the believers! Who are the two women who helped each other (or plotted) against the Prophet ﷺ?'" This is the narration that Al-Bukhari collected, while Muslim recorded that Ibn 'Abbas asked, "Who are the two women about whom Allah the Exalted said,
+
+وَإِنْ تَظَاهَرَا عَلَيْهِ
+
+(but if you help one another against him,)?" 'Umar replied, "A'ishah and Hafsah." Muslim mentioned the rest of the Hadith.
+
+Muslim also recorded that Ibn 'Abbas said that 'Umar bin Al-Khattab said to him, "When Allah's Messenger ﷺ stayed away from his wives, I entered the Masjid and found people striking the ground with pebbles. They said, 'Allah's Messenger has divorced his wives.' That occurred before Hijab was commanded. I said to myself, 'I must investigate this news today.'"
+
+So he mentioned the Hadith in which he went to 'A'ishah and Hafsah and admonished them. He then said, 'I went in and found Rabah, the servant of Allah's Messenger ﷺ, sitting on a window sill. I called, 'O Rabah, seek permission for me from Allah's Messenger.'"
+
+He then mentioned the story as we mentioned above. 'Umar continued, "I said, 'O Messenger of Allah, what trouble do you feel from your wives? If you have divorced them, verily Allah is with you, His angels, Jibril, Mikal, I, Abu Bakr and the rest of believers are with you.'
+
+Often, when I talked, all praise is due to Allah, I hoped that Allah would testify to the words that I uttered. And so the Ayat of option was revealed. Allah said,
+
+عَسَىٰ رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ
+
+(Maybe his Lord, if he divorces you, will give him in your place wives better than you,) and,
+
+وَإِنْ تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ وَصَالِحُ الْمُؤْمِنِينَ ۖ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ
+
+(but if you help one another against him, then verily, Allah is his Protector, and Jibril, and the righteous among the believers; and after that the angels are his helpers.)
+
+I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at the door of the Masjid and called out at the top of my voice, 'The Messenger of Allah has not divorced his wives.' It was on this occasion that this Ayah was revealed,
+
+وَإِذَا جَاءَهُمْ أَمْرٌ مِنَ الْأَمْنِ أَوِ الْخَوْفِ أَذَاعُوا بِهِ ۖ وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَىٰ أُولِي الْأَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ ۗ
+
+(When any matter pertaining to peace or alarm comes to them, they broadcast it; whereas, if they would refer it to the Messenger and those who have been entrusted with authority among them, those of them who are engaged in obtaining intelligence would indeed know (what to do with) it.)(4:83)
+
+It was I who understood (and properly investigated) this matter."
+
+Similar was said by Sa'id bin Jubayr, 'Ikrimah, Muqatil bin Hayyan, Ad-Dahhak and others. The Ayah,
+
+وَصَالِحُ الْمُؤْمِنِينَ
+
+(and the righteous among the believers;) refers to Abu Bakr and 'Umar. Al-Hasan Al-Basri added 'Uthman to them. Layth bin Abi Sulaym said from Mujahid:
+
+وَصَالِحُ الْمُؤْمِنِينَ
+
+(and the righteous among the believers;) includes 'Ali bin Abi Talib also.
+
+Al-Bukhari recorded that Anas said, "'Umar said, 'The wives of the Prophet ﷺ were all jealous for his affection, and I said to them,
+
+عَسَىٰ رَبُّهُ إِنْ طَلَّقَكُنَّ أَنْ يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِنْكُنَّ
+
+(Maybe his Lord, if he divorces you, will give him instead of you, wives better than you.)
+
+Thereafter, this Ayah was revealed.'" We mentioned before that 'Umar said statements that were confirmed by the Qur'an, such as about the revelation about Hijab [see 33:53] and the captive idolators after the battle of Badr [see 8:67]. 'Umar's suggestion to take the Station of Ibrahim as a place for prayer and Allah revealed this Ayah;
+
+وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى
+
+(And take you the Maqam (station) of Ibrahim as a place of prayer.)(2:125)
+
+Ibn Abi Hatim recorded that Anas said that 'Umar bin Al-Khattab said, "I heard news that the Mothers of the faithful had a dispute with the Prophet ﷺ. So I advised them, saying, 'Either stop bothering Allah's Messenger or Allah might provide him better wives than you. When I was talking to the last one among the Mothers of the faithful, she said, 'O 'Umar! Is it that the Messenger of Allah cannot advise his wives, so that you interfere between him and them?' I stopped upon hearing this from her, but Allah revealed:
+
+عَسَىٰ رَبُّهُ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُ أَزْوَاجًا خَيْرًا مِّنكُنَّ مُسْلِمَاتٍ مُّؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ سَائِحَاتٍ ثَيِّبَاتٍ وَأَبْكَارًا
+
+(Maybe his Lord, if he divorces you, will give him instead of you, wives better than you, Muslims, believers, obedient (to Allah), turning to Allah in repentance, worshipping Allah sincerely, Sā'iḥāt, previously married and virgins.)
+
+The wife mentioned here was Umm Salamah, and she is the one who advised 'Umar to stop interfering between the Prophet ﷺ and his wives, as is confirmed in Sahih Al-Bukhari. Allah's statement,
+
+مُسْلِمَاتٍ مُّؤْمِنَاتٍ قَانِتَاتٍ تَائِبَاتٍ عَابِدَاتٍ
+
+(Muslims, believers, obedient (to Allah), turning to Allah in repentance, worshipping Allah sincerely) is clear in its implications,while,
+
+سَائِحَاتٍ
+
+(Sā'iḥāt) means, fasting, according to Abu Hurayrah, 'A'ishah, Ibn 'Abbas, Ikrimah, Mujahid, Sa'id bin Jubayr, 'Ata', Muhammad bin ka'b Al-Qurazi, Abu Abdur-Rahman As-Sulami, Abu Malik,Ibrahim An-Nakhai, Al-Hasan, Qatadah, Ad-Dahhak, Ar-Rabi' bin Anas, As-Suddi, and others.
+
+## Maarif ul Quran
+
+إِن تَتُوبَا إِلَى اللَّـهِ فَقَدْ صَغَتْ قُلُوبُكُمَا [ 0 two wives of the Prophet,] If both of you repent to Allah, then [ your conduct calls for it, because ] your hearts have diverted....66:4). The reference here is made to two of his blessed wives who, as mentioned above in brief, contrived to draw the Holy Prophet ﷺ into swearing an oath and making the aforementioned promise to abstain from honey. Who are they? Bukhari and other collections of Traditions record a lengthy Tradition about this on the authority of Ibn ` Abbas ؓ who narrates that he was always on the look-out to enquire of Sayyidna ` Umar ؓ as to who were the two wives to whom reference had been made in the above verse. So, when Sayyidna ` Umar ؓ was on his way to pilgrimage, the former joined him. One day, in the course of the journey, the latter went to answer the call of nature. When he returned, the former had arranged water for the latter's ablution. He poured water on his hands. Whilst pouring the water for ablution, he enquired as to who were the two wives to whom reference is made in the dual verb اِن تَتُوبَآ (If both of you repent) Sayyidna ` Umar ؓ asked him in surprise: 'Do you not know who they were?' Ibn ` Abbas ؓ said: 'No!' Sayyidna ` Umar ؓ said they were Hafsah and 'A'ishah ؓ and then proceeded to recount a lengthy story related to this incident which also contained some incidents that took place earlier. The details of the incident are available in Tafsir Mazhari. This verse addresses the two blessed wives of the Holy Prophet ﷺ and requires them to turn to Allah as their hearts have deviated, albeit what they did, stem from their love for the Holy Prophet ﷺ ، but in the process they, in consultation with one another, adopted a way that hurt the Holy Prophet ﷺ . This is a sin for which repentance was necessary.
+
+وَإِن تَظَاهَرَ‌ا عَلَيْهِ فَإِنَّ اللَّـهَ هُوَ مَوْلَاهُ وَجِبْرِ‌يلُ (And if you back each other against him [ the Prophet ﷺ ], then Allah is his supporter, and Jibra'l (علیہ السلام) and righteous believers and, after all that, angels are his helpers....66:4). The current verse warns the wives that if they do not repent and please the Messenger of Allah ﷺ ، they will not cause any loss to him, because Allah is his Protector, and so are Jibril, every right-acting believer and, furthermore, the other angels too will come to his support, and it will be the wives themselves who will suffer loss.
+
+## Personal Reflections

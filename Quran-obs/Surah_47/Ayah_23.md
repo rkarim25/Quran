@@ -1,0 +1,159 @@
+---
+arabic_ayat: "اُولٰٓٮِٕكَ الَّذِيۡنَ لَعَنَهُمُ اللّٰهُ فَاَصَمَّهُمۡ وَاَعۡمٰٓى اَبۡصَارَهُمۡ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: These are the ones who Allah has condemned, deafening them and
+  blinding their eyes.
+word_by_word:
+  1:
+    arabic: اُولٰٓٮِٕكَ
+    translation: Those
+    transliteration: ulāika
+  2:
+    arabic: الَّذِيۡنَ
+    translation: (are) the ones
+    transliteration: alladhīna
+  3:
+    arabic: لَعَنَهُمُ
+    translation: Allah has cursed them
+    transliteration: laʿanahumu
+  4:
+    arabic: اللّٰهُ
+    translation: Allah has cursed them
+    transliteration: l-lahu
+  5:
+    arabic: فَاَصَمَّهُمۡ
+    translation: so He made them deaf
+    transliteration: fa-aṣammahum
+  6:
+    arabic: وَاَعۡمٰٓى
+    translation: and blinded
+    transliteration: wa-aʿmā
+  7:
+    arabic: "اَبۡصَارَهُمۡ‏ \uFEFF\uFEFF"
+    translation: their vision
+    transliteration: abṣārahum
+---
+
+## Context
+
+To understand **Muhammad** (Muhammad) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death. أُولَـٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّـهُ (Those are the ones whom Allah has cursed - 47:23) In other words, people who cause corruption in the land and break bonds of kinship have been cursed by Allah, that is, Allah has driven them away from His mercy.
+
+## Tafsir Ibn Kathir
+
+Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death. But it was better for them (20)Obedience and good words. And when the matter is resolved, then if they had been true to Allah, it would have been better for them (21)So would you perhaps, if you turned away, spread corruption on earth, and sever your ties of kinship (22)Such are the ones whom Allah has cursed, so that He has made them deaf and blinded their vision (23)
+
+The Situation of the True Believer and the Sick-Hearted when the Command for Jihad was revealed
+
+Allah mentions that the believers were hoping that Jihad would be legislated. But when Allah ordained it, many of the people turned back, as Allah says,
+
+أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ إِذَا فَرِيقٌ مِنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِمَنِ اتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
+
+(Have you not seen those who were told: "Restrain your hands (from fighting), establish the Salah, and give Zakah." But then when fighting was ordained for them, you find a party of them fearing the people as they fear Allah or more. They said: "Our Lord! Why have You decreed fighting upon us? If only You have postponed us for a short period." Say: "The enjoyment of this world is little. The Hereafter is far better for him who had Taqwa of (Allah), and you will not be dealt with unjustly, even as much as a thin thread (inside a date's pit).")(4:77)
+
+Similarly, Allah says here,
+
+وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ ۖ
+
+(Those who believe say: "Why is not a Surah sent down (for us)?") means, a Surah containing an order to fight. Then He says,
+
+فَإِذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ ۙ رَأَيْتَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يَنْظُرُونَ إِلَيْكَ نَظَرَ الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ ۖ
+
+(But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease looking at you with the look of one who is about to faint for fear of death.) meaning, due to their fear, terror, and cowardice concerning meeting the enemies. Allah then encourages them by saying,
+
+فَأَوْلَىٰ لَهُمْ - طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ ۚ
+
+(But it was better for them, obedience and good words.) which means that it would have been better for them to listen and obey in that present situation.
+
+فَإِذَا عَزَمَ الْأَمْرُ
+
+(When the matter (of fighting) is resolved.) which means when the situation becomes serious and the time of fighting truly arrives.
+
+فَلَوْ صَدَقُوا اللَّهَ
+
+(if they had been true to Allah,) meaning, by making their intentions sincerely for Him.
+
+لَكَانَ خَيْرًا لَهُمْ
+
+(it would have been better for them) Allah then says,
+
+فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ
+
+(So would you perhaps, if you turned away) meaning, from Jihad and you withdrew from it.
+
+أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+(spread corruption on earth, and sever your ties of kinship?) which means, would you then go back to your old practices of the time of ignorance: shedding blood and severing kinship ties? Allah then says,
+
+أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ
+
+(Such are the ones whom Allah has cursed, so He has made them deaf and blinded their vision.)
+
+This involves a general prohibition of spreading corruption on earth, and a specific prohibition of severing the ties of kinship. In fact, Allah has commanded the people to establish righteousness on earth, as well as to join the ties of kinship by treating the relatives well in speech, actions, and spending wealth in charity. Many authentic and sound Hadiths have been reported through numerous routes of transmission from Allah's Messenger in this regard. Al-Bukhari recorded from Abu Hurayrah, may Allah be pleased with him, that Allah's Messenger ﷺ said,
+
+خَلَقَ اللهُ تَعَالَىٰ الْخَلْقَ فَلَمَّا فَرَغَ مِنْهُ قَامَتِ الرَّحِمُ فَأَخَذَتْ بِحَقْوِ الرَّحْمٰنِ عَزَّ وَجَلَّ فَقَالَ: مَهْ، فَقَالَتْ: هٰذَا مَقَامُ الْعَائِذِ بِكَ مِنَ الْقَطِيعَةِ، فَقَالَ تَعَالَىٰ: أَلَا تَرْضَيْنَ أَنْ أَصِلَ مَنْ وَصَلَكِ وَأَقْطَعَ مَنْ قَطَعَكِ؟ قَالَتْ: بَلَىٰ، قَالَ: فَذَاكِ لَكِ
+
+(After Allah completed creating the creation, the womb stood up and pulled at the lower garment of the Most Merciful. He said, 'Stop that!' It replied, 'My stand here is the stand of one seeking refuge in you from severance of ties.' Allah said, 'Would it not please you that I join whoever joins you and sever whoever severs you?' It replied, 'Yes indeed!' He said, 'You are granted that!') Abu Hurayrah then added, "Read if you wish:
+
+فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+(So would you perhaps, if you turned away, spread corruption on earth, and sever your ties of kinship?)" Then Al-Bukhari recorded it with another wording which states that the Messenger of Allah ﷺ said,
+
+اقْرَءُوا إِنْ شِئْتُمْ
+
+فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ
+
+(Read if you wish: (So would you perhaps, if you turned away, spread corruption on earth, and sever your ties of kinship)?) Muslim also recorded it.
+
+Imam Ahmad recorded from Abu Bakrah, may Allah be pleased with him, that Allah's Messenger ﷺ said:
+
+مَا مِنْ ذَنْبٍ أَحْرَى أَنْ يُعَجِّلَ اللهُ تَعَالَىٰ عُقُوبَتَهُ فِي الدُّنْيَا، مَعَ مَا يَدَّخِرُ لِصَاحِبِهِ فِي الْآخِرَةِ، مِنَ الْبَغْيِ وَقَطِيعَةِ الرَّحِمِ
+
+(No sin deserves that Allah hasten its punishment in the worldly life, in addition to what He reserves in the Hereafter for those who commit it, more than injustice and severance of the ties of kinship.)
+
+This was also recorded by Abu Dawud, At-Tirmidhi, and Ibn Majah. At-Tirmidhi said, "This Hadith is Sahih." Imam Ahmad recorded from Thawban, may Allah be pleased with him, that Allah's Messenger ﷺ said,
+
+مَنْ سَرَّهُ النَّسَاءُ فِي الْأَجَلِ وَالزِّيَادَةُ فِي الرِّزْقِ،فَلْيَصِلْ رَحِمَهُ
+
+(Whoever likes for his life to be extended, and his provision increased, let him connect his ties of kinship.) Ahmad was alone in recording this narration, but it has a supporting narration in the Sahih.
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr, may Allah be pleased with him, that Allah's Messenger ﷺ said,
+
+إِنَّ الرَّحِمَ مُعَلَّقَةٌ بِالْعَرْشِ، وَلَيْسَ الْوَاصِلُ بِالْمُكَافِىءِ، وَلٰكِنِ الْوَاصِلُ الَّذِي إِذَا قُطِعَتْ رَحِمُهُ وَصَلَهَا
+
+(Verily, the womb is attached to the Throne. And connecting its ties does not mean dealing evenly (with the kinsfolk), but it rather means that if one's kinsfolk sever the ties, he connects them.) This Hadith was also recorded by Al-Bukhari.
+
+Ahmad also recorded from 'Abdullah bin 'Amr, may Allah be pleased with him, that Allah's Messenger ﷺ said,
+
+تُوضَعُ الرَّحِمُ يَوْمَ الْقِيَامَةِ لَهَا (حُجْنَةٌ كَحُجْنَةِ) الْمِغْزَلِ تَكَلَّمُ بِلِسَانٍ طَلِقٍ ذَلِقٍ، فَتَقْطَعُ مَنْ قَطَعَهَا وَتَصِلُ مَنْ وَصَلَهَا
+
+(The womb will be placed on the Day of Resurrection, curved like a spinning wheel, speaking with an eloquent fluent tongue, calling to severing whoever had severed it, and joining whoever had joined it.)
+
+Imam Ahmad recorded from 'Abdullah bin 'Amr, may Allah be pleased with him, that Allah's Messenger ﷺ said,
+
+الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمٰنُ، ارْحَمُوا أَهْلَ الْأَرْضِ يَرْحَمْكُمْ أَهْلُ السَّمَاءِ، وَالرَّحِمُ شُجْنَةٌ مِنَ الرَّحْمٰنِ، مَنْ وَصَلَهَا وَصَلَتْهُ وَمَنْ قَطَعَهَا بَتَّتْهُ
+
+(The merciful ones will be granted mercy from the Most Merciful. Have mercy on those on earth – the One above the heavens will then have mercy on you. And Ar-Rahim (the womb) is from Ar-Rahman, so whoever joins it, it joins him; and whoever severs it, it severs him.)
+
+Abu Dawud and At-Tirmidhi both recorded this Hadith and it has been reported with continuous chains of transmission. At-Trimidhi said, "Hasan Sahih." There are numerous other Hadiths in this regard.
+
+## Maarif ul Quran
+
+أُولَـٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّـهُ (Those are the ones whom Allah has cursed - 47:23) In other words, people who cause corruption in the land and break bonds of kinship have been cursed by Allah, that is, Allah has driven them away from His mercy. On the basis of this verse, Sayyidna ` Umar ؓ regarded the sale of ummul-walad unlawful. Ummul-walad is a term used in Islamic law for a female slave who has borne a child to her master, and who is consequently free at his death. Thus the sale of the mother would result in separating the child from the mother, and this would lead to severing kinship tie between mother and child which necessitates the curse of Allah. Therefore, the sale of ummul-walad was declared unlawful23.
+
+Law Relating to Cursing a Particular Person: The Issue of Cursing Yazid
+
+When ` Abdullah asked his father Imam Ahmad about the permissibility of cursing Yazid, the Imam replied: "Why should we not curse a person whom Allah has cursed in the Qur'an?" ` Abdullah said that he read the Qur'an in its entirety but he did not find Yazid is cursed anywhere. The father recited the present verse and said, Who could be worse than Yazid in breaking up relationships? He did not even care for the Holy Prophet's ﷺ relations.' However, majority of the Ummah hold the view that it is not permissible to curse any particular person unless we know for sure that he died in the state of disbelief. We can nevertheless use cursing phrase with general characteristics, such as curse of Allah be upon the liars, curse of Allah be upon the mischief-makers, and curse of Allah be upon the breaker of kinship ]. Ruh-ul-Ma’ ani on this occasion has discussed this issue elaborately.
+
+## Personal Reflections

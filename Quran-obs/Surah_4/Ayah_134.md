@@ -1,0 +1,148 @@
+---
+arabic_ayat: مَنۡ كَانَ يُرِيۡدُ ثَوَابَ الدُّنۡيَا فَعِنۡدَ اللّٰهِ ثَوَابُ الدُّنۡيَا
+  وَالۡاٰخِرَةِ​ ؕ وَكَانَ اللّٰهُ سَمِيۡعًاۢ بَصِيۡرًا‏
+sentence_translation: Whoever desires the reward of this world, then ˹let them know
+  that˺ with Allah are the rewards of this world and the Hereafter. And Allah is All-Hearing,
+  All-Seeing.
+word_by_word:
+  1:
+    arabic: مَنۡ
+    translation: Whoever
+    transliteration: man
+  2:
+    arabic: كَانَ
+    translation: '[is]'
+    transliteration: kāna
+  3:
+    arabic: يُرِيۡدُ
+    translation: desires
+    transliteration: yurīdu
+  4:
+    arabic: ثَوَابَ
+    translation: reward
+    transliteration: thawāba
+  5:
+    arabic: الدُّنۡيَا
+    translation: '(of) the world '
+    transliteration: l-dun'yā
+  6:
+    arabic: فَعِنۡدَ
+    translation: then with
+    transliteration: faʿinda
+  7:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  8:
+    arabic: ثَوَابُ
+    translation: (is the) reward
+    transliteration: thawābu
+  9:
+    arabic: الدُّنۡيَا
+    translation: (of) the world
+    transliteration: l-dun'yā
+  10:
+    arabic: وَالۡاٰخِرَةِ​ ؕ
+    translation: and the Hereafter
+    transliteration: wal-ākhirati
+  11:
+    arabic: وَكَانَ
+    translation: And is
+    transliteration: wakāna
+  12:
+    arabic: اللّٰهُ
+    translation: Allah
+    transliteration: l-lahu
+  13:
+    arabic: سَمِيۡعًاۢ
+    translation: All-Hearing
+    transliteration: samīʿan
+  14:
+    arabic: بَصِيۡرًا‏
+    translation: All-Seeing
+    transliteration: baṣīran
+---
+
+## Context
+
+To understand **The Women** (An-Nisa) 134, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And to Allah belongs all that is in the heavens and all that is in the earth. The third mention of these words embodies a statement of Allah's mercy which makes things work for people.
+
+## Tafsir Ibn Kathir
+
+And to Allah belongs all that is in the heavens and all that is in the earth. And verily, We have recommended to the People of the Scripture before you, and to you that you have Taqwa of Allah. But if you disbelieve, then unto Allah belongs all that is in the heavens and all that is in the earth, and Allah is Ever Rich (free of any needs), Worthy of all praise (131)And to Allah belongs all that is in the heavens and all that is in the earth. And Allah is Ever All-Sufficient as Disposer of affairs (132)If He wills, He can take you away, O people, and bring others. And Allah is Ever All-Potent over that (133)Whoever desires the rewards of this life, then with Allah is the reward of this worldly life and of the Hereafter. And Allah is Ever All-Hearer, All-Seer (134)
+
+The Necessity of Taqwa of Allah
+
+Allah states that He is the Owner of the heavens and earth and that He is the Supreme Authority over them. Hence Allah's statement,
+
+وَلَقَدْ وَصَّيْنَا الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ وَإِيَّاكُمْ
+
+(And verily, We have recommended to the People of the Scripture before you, and to you) meaning, We have recommended to you what We recommended to the People of Scriptures; Taqwa of Allah, by worshipping Him Alone without partners. Allah then said,
+
+وَإِن تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ
+
+(But if you disbelieve, then unto Allah belongs all that is in the heavens and all that is in the earth). In another Ayah, Allah said that Musa said to his people,
+
+إِن تَكْفُرُوا أَنتُمْ وَمَن فِي الْأَرْضِ جَمِيعًا فَإِنَّ اللَّهَ لَغَنِيٌّ حَمِيدٌ
+
+("If you disbelieve, you and all on the earth together, then verily, Allah is Rich (free of any need), Owner of all praise.")[14:8]. Allah said,
+
+فَكَفَرُوا وَتَوَلَّوا وَّاسْتَغْنَى اللَّهُ وَاللَّهُ غَنِيٌّ حَمِيدٌ
+
+(So they disbelieved and turned away. But Allah was not in need (of them). And Allah is Rich (free of any need), Worthy of all praise)[64:6] meaning, He is far too Rich than to need His servants, and worthy of all praise in all His decisions and commandments. The meaning of Allah's statement,
+
+وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَىٰ بِاللَّهِ وَكِيلًا
+
+(And to Allah belongs all that is in the heavens and all that is in the earth. And Allah is Ever All-Sufficient as a Disposer of affairs.)
+
+He has perfect watch over every soul, knowing what it deserves, He is the Watcher, and Witness of all things. Allah's statement,
+
+إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا النَّاسُ وَيَأْتِ بِآخَرِينَ وَكَانَ اللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا
+
+(If He wills, He can take you away, O people, and bring others. And Allah is Ever All-Potent over that.) means, He is able to take you away and replace you with other people if you disobey Him. In a similar Ayah, Allah said,
+
+وَإِن تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُم
+
+(And if you turn away, He will exchange you for some other people and they will not be your likes) Allah's statement,
+
+مَّن كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا فَعِندَ اللَّهِ ثَوَابُ الدُّنْيَا وَالْآخِرَةِ
+
+(Whoever desires the rewards of this life, then with Allah is the reward of this worldly life and of the Hereafter.) means, O those whose ultimate desire is this life, know that Allah owns the rewards of this life and the Hereafter. Therefore, if you ask Allah for both, He will enrich you, award you and suffice for you. As Allah said,
+
+فَمِنَ النَّاسِ مَن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ - وَمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ - أُولَٰئِكَ لَهُمْ نَصِيبٌ مِّمَّا كَسَبُوا
+
+(But of mankind there are some who say: "Our Lord! Give us in this world!" and for such there will be no portion in the Hereafter. And of them there are some who say: "Our Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!" For them there will be alloted a share for what they have earned),
+
+مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ
+
+(Whosoever desires (by his deeds) the reward of the Hereafter, We give him increase in his reward)[42:20], and
+
+مَّن كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَن نُّرِيدُ
+
+(Whoever desires the quick-passing (transitory enjoyment of this world), We readily grant him what We will for whom We like)[17:18] until,
+
+انظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ
+
+(See how We prefer one above another (in this world))[17:21]. So Allah said here,
+
+وَكَانَ اللَّهُ سَمِيعًا بَصِيرًا
+
+(And Allah is Ever All-Hearer, All-Seer.)
+
+## Maarif ul Quran
+
+The third mention of these words embodies a statement of Allah's mercy which makes things work for people. It means: Should one fear Allah and be obedient to Him, Allah will fulfill all his needs, because He is the owner of everything in this universe.
+
+## Personal Reflections

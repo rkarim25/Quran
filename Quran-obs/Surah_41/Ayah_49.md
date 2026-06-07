@@ -1,0 +1,129 @@
+---
+arabic_ayat: لَا يَسۡـَٔـمُ الۡاِنۡسَانُ مِنۡ دُعَآءِ الۡخَيۡرِ وَاِنۡ مَّسَّهُ
+  الشَّرُّ فَيَـُٔـوۡسٌ قَنُوۡطٌ‏
+sentence_translation: One never tires of praying for good. And if touched with evil,
+  they become desperate and hopeless.
+word_by_word:
+  1:
+    arabic: لَا
+    translation: (Does) not
+    transliteration: lā
+  2:
+    arabic: يَسۡـَٔـمُ
+    translation: get tired
+    transliteration: yasamu
+  3:
+    arabic: الۡاِنۡسَانُ
+    translation: man
+    transliteration: l-insānu
+  4:
+    arabic: مِنۡ
+    translation: of
+    transliteration: min
+  5:
+    arabic: دُعَآءِ
+    translation: praying
+    transliteration: duʿāi
+  6:
+    arabic: الۡخَيۡرِ
+    translation: (for) the good
+    transliteration: l-khayri
+  7:
+    arabic: وَاِنۡ
+    translation: but if
+    transliteration: wa-in
+  8:
+    arabic: مَّسَّهُ
+    translation: touches him
+    transliteration: massahu
+  9:
+    arabic: الشَّرُّ
+    translation: the evil
+    transliteration: l-sharu
+  10:
+    arabic: فَيَـُٔـوۡسٌ
+    translation: then he gives up hope
+    transliteration: fayaūsun
+  11:
+    arabic: قَنُوۡطٌ‏
+    translation: (and) despairs
+    transliteration: qanūṭun
+---
+
+## Context
+
+To understand **Explained in Detail** (Fussilat) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Man does not get tired of asking for good; but if an evil touches him, then he gives up all hope and is lost in despair (49)And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit); I think not that the Hour will be established. أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]?
+
+## Tafsir Ibn Kathir
+
+Man does not get tired of asking for good; but if an evil touches him, then he gives up all hope and is lost in despair (49)And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit); I think not that the Hour will be established. But if I am brought back to my Lord, surely there will be for me the best with Him. "Then, We verily will show to the disbelievers what they have done, and We shall make them taste a severe torment (50)And when We show favor to man, he turns away and becomes arrogant; but when evil touches him, then he has recourse to long supplications (51)
+
+Man is fickle when Ease comes to Him after Difficulty
+
+Allah tells us that man never gets bored of asking his Lord for good things, such as wealth, physical health, etc., but if evil touches him – i.e., trials and difficulties or poverty –
+
+فَيَئُوسٌ قَنُوطٌ
+
+(then he gives up all hope and is lost in despair.), i.e., he thinks that he will never experience anything good again.
+
+وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِنَّا مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِي
+
+(And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit)...") means, if something good happens to him or some provision comes to him after a period of difficulty, he says, 'this is because of me, because I deserve this from my Lord.'
+
+وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً
+
+(I think not that the Hour will be established.) means, he does not believe that the Hour will come. So when he is given some blessing, he becomes careless, arrogant and ungrateful, as Allah says:
+
+كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ - أَنْ رَآهُ اسْتَغْنَىٰ
+
+(Nay! Verily, man does transgress. Because he considers himself self-sufficient.)(96:6-7)
+
+وَلَئِنْ رُجِعْتُ إِلَىٰ رَبِّي إِنَّ لِي عِنْدَهُ لَلْحُسْنَىٰ
+
+(But if I am brought back to my Lord, surely there will be for me the best with Him.) means, 'if there is a Hereafter after all, then my Lord will be generous and kind to me just as He was in this world.' So he expects Allah to do him favors in spite of his bad deeds and lack of certain faith. Allah says:
+
+فَلَنُنَبِّئَنَّ الَّذِينَ كَفَرُوا بِمَا عَمِلُوا وَلَنُذِيقَنَّهُمْ مِنْ عَذَابٍ غَلِيظٍ
+
+(Then, We verily will show to the disbelievers what they have done, and We shall make them taste a severe torment.) Thus Allah threatens punishment and vengeance to those whose conduct and belief is like that.
+
+وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ
+
+(And when We show favor to man, he turns away and becomes arrogant;) means, he turns away from doing acts of obedience and is too proud to obey the commands of Allah. This is like the Ayah:
+
+فَتَوَلَّىٰ بِرُكْنِهِ
+
+(But [Fir'awn] turned away along with his hosts)(51:39).
+
+وَإِذَا مَسَّهُ الشَّرُّ
+
+(but when evil touches him,) means, difficulties,
+
+فَذُو دُعَاءٍ عَرِيضٍ
+
+(then he has recourse to long supplications.) means, he asks at length for one thing. Long supplications are those which are long on words and short on meaning. The opposite is concise speech which is brief but full of meaning. And Allah says:
+
+وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ ۚ
+
+(And when harm touches man, he invokes Us, lying on his side, or sitting or standing. But when We have removed his harm from him, he passes on as if he had never invoked Us for a harm that touched him!)(10:12)
+
+## Maarif ul Quran
+
+أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]? - 44) The original word used for non-Arabic in the text is a'jamiyy (with hamza before the letter 'ain) which is an Arabic term for ` ineloquent speech', while ` ajam' (without hamzah in its beginning) means any nation other than Arabs. Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi). The use of the word أَعْجَمِيٌّ ajamiyy in this verse means that if We had revealed the Qur'an in any language other than Arabic, then the Quraysh who are the first addressees of the Qur'an would have complained that they did not understand this Book and would have said wonderingly that the prophet is an ` Arab, but the book is ajamiyy which is ineloquent.
+
+قلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ (Say, "For those who believe, it is guidance and cure. - 44) Two attributes of The noble Qur'an are stated here. One is that Qur'an gives guidance - such guidance in all spheres of life as is beneficial and useful for human beings. The second attribute is that the Qur'an is cure. That it is a cure for spiritual ailments like kufr, shirk, arrogance, jealousy, greed, etc. is quite obvious, but is also cure for bodily ailments, as has been proved by experience of treating patients through Qur'anic prayers which has been successful.
+
+أُولَـٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ (Such people are being called from a distant place. - 44) This is a similitude. A person who understands what is being said, the Arabs say to him, اَنتَ تسمَعُ مِن قَرِیب (you are listening from a near place) and if a person does not understand the discourse, they say to him اَنتَ تُنَادٰی مِن بَعِید (you are being called from a distant place) (Qurtubi). The meaning is that since these people do not intend to listen and to understand the directions of the Qur'an, their ears are almost deaf and their eyes are blind, therefore teaching them the Qur'anic guidance is like calling someone from such a distant place that the voice does not reach his ears.
+
+## Personal Reflections

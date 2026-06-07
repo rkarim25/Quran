@@ -1,0 +1,138 @@
+---
+arabic_ayat: الَّذِيۡنَ يُوۡفُوۡنَ بِعَهۡدِ اللّٰهِ وَلَا يَنۡقُضُوۡنَ الۡمِيۡثَاقَۙ‏
+sentence_translation: ˹They are˺ those who honour Allah’s covenant, never breaking
+  the pledge;
+word_by_word:
+  1:
+    arabic: الَّذِيۡنَ
+    translation: Those who
+    transliteration: alladhīna
+  2:
+    arabic: يُوۡفُوۡنَ
+    translation: fulfill
+    transliteration: yūfūna
+  3:
+    arabic: بِعَهۡدِ
+    translation: the covenant
+    transliteration: biʿahdi
+  4:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  5:
+    arabic: وَلَا
+    translation: and not
+    transliteration: walā
+  6:
+    arabic: يَنۡقُضُوۡنَ
+    translation: they break
+    transliteration: yanquḍūna
+  7:
+    arabic: الۡمِيۡثَاقَۙ‏
+    translation: the contract
+    transliteration: l-mīthāqa
+---
+
+## Context
+
+To understand **The Thunder** (Ar-Ra'd) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… الَّذِينَ يُوفُونَ بِعَهْدِ اللَّـهِ (those who fulfill [ their ] pledge with Allah).
+
+## Tafsir Ibn Kathir
+
+Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient, seeking their Lord's Face, perform the Salah, and spend out of that which We have bestowed on them, secretly and openly, and repel evil with good, for such there is a good end (22)'Adn Gardens, which they shall enter and (also) those who acted righteously from among their fathers, and their wives, and their offspring. And angels shall enter unto them from every gate (saying)(23)"Salamun 'Alaykum (peace be upon you) for you persevered in patience! Excellent indeed is the final home! (24)
+
+Qualities of the Blessed Ones, which will lead to Paradise
+
+Allah states that those who have these good qualities, will earn the good, final home: victory and triumph in this life and the Hereafter,
+
+الَّذِينَ يُوفُونَ بِعَهْدِ اللَّهِ وَلَا يَنقُضُونَ الْمِيثَاقَ
+
+(Those who fulfill the covenant of Allah and break not the trust.) They are nothing like the hypocrites who when one of them makes a covenant, he breaks it; if he disputes, he is most quarrelsome; if he speaks, he lies; and if he is entrusted, he betrays his trust. Allah said next,
+
+وَالَّذِينَ يَصِلُونَ مَا أَمَرَ اللَّهُ بِهِ أَن يُوصَلَ
+
+(And those who join that which Allah has commanded to be joined) they are good to their relatives and do not sever the bond of kinship. They are also kind to the poor and the needy and generous in nature,
+
+وَيَخْشَوْنَ رَبَّهُمْ
+
+(and fear their Lord), in what they do or do not do of actions and statements. They remember that Allah is watching during all of this and are afraid of His terrifying reckoning in the Hereafter. Therefore, all their affairs are on the straight path and correct, whether they are active or idle, and in all of their affairs, including those that affect others,
+
+وَالَّذِينَ صَبَرُوا ابْتِغَاءَ وَجْهِ رَبِّهِمْ
+
+(And those who remain patient, seeking their Lord's Face,) They observe patience while staying away from sins and evil deeds, doing so while dedicating themselves to the service of their Lord the Exalted and Most Honored and seeking His pleasure and generous reward,
+
+وَأَقَامُوا الصَّلَاةَ
+
+(and perform the Salah), preserving its limits, times, bowing, prostration and humbleness, according to the established limits and rulings of the religion,
+
+وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ
+
+(and spend out of that which We have bestowed on them,) They spend on those whom they are obliged to spend on them, such as their spouses, relatives and the poor and needy in general,
+
+سِرًّا وَعَلَانِيَةً
+
+(secretly and openly,) They spend during all conditions and times, whether during the night or the day, secretly and openly,
+
+وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ
+
+(and repel evil with good) they resist evil with good conduct. When the people harm them they face their harm with good patience, forbearing, forgiveness and pardon. Allah said in another Ayah,
+
+ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ - وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ
+
+(Repel (the evil) with one which is better, then verily he, between whom and you there was enmity, (will become) as though he was a close friend. But none is granted it except those who are patient - and none is granted it except the owner of the great portion in this world.)[41:34-35] This is why Allah states here that those who have these good qualities, the blessed ones, will earn the final home, which He explained next,
+
+جَنَّاتُ عَدْنٍ
+
+('Adn Gardens), where, 'Adn, indicates continuous residence; they will reside in the gardens of everlasting life. Allah said next,
+
+وَمَن صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ
+
+(and (also) those who acted righteously from among their fathers, and their wives, and their offspring.) Allah will gather them with their loved ones, from among their fathers, family members and offspring, those who are righteous and deserve to enter Paradise, so that their eyes are comforted by seeing them. He will also elevate the grade of those who are lower, to the grades of those who are higher, a favor from Him out of His kindness, without decreasing the grade of those who are higher up (in Paradise). Allah said in another Ayah,
+
+وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ
+
+(And those who believe and whose offspring follow them in faith: to them shall We join their offspring.)[52:21] Allah said next,
+
+وَالْمَلَائِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍ - سَلَامٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ
+
+(And angels shall enter unto them from every gate (saying): "Salamun 'Alaykum (peace be upon you) for you persevered in patience! Excellent indeed is the final home!")
+
+The angels will enter on them from every direction congratulating them for entering Paradise. The angels will welcome them with the Islamic greeting and commend them for earning Allah's closeness and rewards, as well as, being admitted into the Dwelling of Peace, neighbors to the honorable Messengers, the Prophets and the truthful believers. Imam Ahmad recorded that 'Abdullah bin 'Amr bin Al-'As, may Allah be pleased with them both, narrated that the Messenger of Allah ﷺ said,
+
+هَلْ تَدْرُونَ أَوَّلَ مَنْ يَدْخُلُ الْجَنَّةَ مِنْ خَلْقِ اللهِ؟
+
+(Do you know who among Allah's creation will enter Paradise first?) They said, "Allah and His Messenger have more knowledge." He said,
+
+أَوَّلُ مَنْ يَدْخُلُ الْجَنَّةَ مِنْ خَلْقِ اللهِ الْفُقَرَاءُ الْمُهَاجِرُونَ الَّذِينَ تُسَدُّ بِهِمُ الثُّغُورُ، وَتُتَّقَى بِهِمُ الْمَكَارِهُ، وَيَمُوتُ أَحَدُهُمْ وَحَاجَتُهُ فِي صَدْرِهِ، لَا يَسْتَطِيعُ لَهَا قَضَاءً، فَيَقُولُ اللهُ تَعَالَى لِمَنْ يَشَاءُ مِنْ مَلَائِكَتِهِ: ائْتُوهُمْ فَحَيُّوهُمْ، فَتَقُولُ الْمَلَائِكَةُ: نَحْنُ سُكَّانُ سَمَائِكَ، وَخِيرَتُكَ مِنْ خَلْقِكَ، أَفَتَأْمُرُنَا أَنْ نَأْتِي هؤُلَاءِ وَنُسَلِّمَ عَلَيْهِمْ؟ فَيَقُولُ: إِنَّهُمْ كَانُوا عِبَادًا يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا، وَتُسَدُّ بِهِمُ الثُّغُورُ، وَتُتَّقَى بِهِمُ الْمَكَارِهُ، وَيَمُوتُ أَحَدُهُمْ وَحَاجَتُهُ فِي صَدْرِهِ لَا يَسْتَطِيعُ لَهَا قَضَاءً - قَالَ - : فَتَأْتِيهِمُ الْمَلَائِكَةُ عِنْدَ ذَلِكَ فَيَدْخُلُونَ عَلَيْهِمْ مِنْ كُلِّ بَابٍ
+
+(The first among Allah's creation to enter Paradise are the poor emigrants (in Allah's cause) with whom the outposts (of the land) are secured and the various afflictions are warded off. One of them would die while his need is still in his chest, because he was unable to satisfy it himself. Allah will say to whom He will among His angels, "Go to them and welcome them with the Salam." The angels will say, "We are the residence of Your heaven and the best of Your creation, do You command us to go to them and welcome them with the Salam?" Allah will say, "They are My servants who worshipped Me and did not associate anyone or anything with Me in worship. With them, the outposts were secured and the afflictions were warded off. One of them would die while his need is in his chest, unable to satisfy it." So the angels will go to them from every gate (of Paradise),) saying,
+
+سَلَامٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ
+
+(Salamun 'Alaykum (peace be upon you) for you persevered in patience! Excellent indeed is the final home!)"
+
+## Maarif ul Quran
+
+الَّذِينَ يُوفُونَ بِعَهْدِ اللَّـهِ (those who fulfill [ their ] pledge with Allah). It covers all promises and pledges taken by Allah Ta` ala from His servants, the very first of which was the Divine Covenant taken in eternity before an assembly of all spirits, that is: اَلَستُ بِرَبِّکُم (Am I not your Lord?) in answer to which, everyone had unanimously said: بَلٰی (Yes, why not? Surely, You are our Lord). Similarly, the different pledges taken by Allah Ta` ala regarding the obedience of Divine injunctions, fulfillment of assigned duties, abstinence from things impermissible as ordered by Allah have been mentioned in different verses of the Qur’ an.
+
+The second attribute mentioned here is: وَلَا يَنقُضُونَ الْمِيثَاقَ (and they do not break the covenant). It includes all covenants, including pledges between Allah and His servants which have been pointed out right here in the first sentence as: عَهْدِ اللَّـهِ (their pledges with Allah). Also included here are the pledges given by the people of a religious community to their prophet or messenger, as well as the contracts and pacts which one human being enters into with the other.
+
+Based on a narration by Sayyidna ` Awf ibn Malik ؓ ، Abu Dawud has reported that the Holy Prophet ﷺ took a pledge (Ahd and Bay'ah) from the noble Sahabah that they would not associate anyone with Allah, and perform Salah punctually five times every day, and obey their authorities, and would never stretch their hands for anything before any human being.
+
+People who were parties to this solemn pledge were so true to their word of honour that, should they happen to drop their whip from their hand while riding, they would never ask anyone to pick up and hand over that whip to them. Instead of that, they would get down from their mount and pick it up themselves.
+
+That the noble Sahabah did so was the result of the great feeling of love and the passionate desire to obey their master in their hearts. Otherwise, it was fairly obvious that he had never intended to stop them from making a request of this nature. This is very much like what happened when Sayyidna ` Abdullah ibn Masud ؓ was entering the Masjid on a certain occasion. He saw that the Holy Prophet ﷺ was addressing a gathering. It was only by chance that, at the time he was entering the Masjid, the words: 'Sit down' happened to have been uttered by the Holy Prophet ﷺ as part of his address. Sayyidna ` Abdullah ibn Masud ؓ knew that this never meant that anyone, no matter where, should sit down on the street, passage way, or a spot not suitable for the purpose. But, such was his passion for obedience that it did not allow him to take even one step forward from outside the Masjid gate where he was. Just as these words of his master struck his ears, he sat down right there.
+
+## Personal Reflections

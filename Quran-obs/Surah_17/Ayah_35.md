@@ -1,0 +1,127 @@
+---
+arabic_ayat: وَاَوۡفُوا الۡـكَيۡلَ اِذَا كِلۡتُمۡ وَزِنُوۡا بِالۡقِسۡطَاسِ الۡمُسۡتَقِيۡمِ​ؕ
+  ذٰ لِكَ خَيۡرٌ وَّاَحۡسَنُ تَاۡوِيۡلًا‏
+sentence_translation: Give in full when you measure, and weigh with an even balance.
+  That is fairest and best in the end.
+word_by_word:
+  1:
+    arabic: وَاَوۡفُوا
+    translation: And give full
+    transliteration: wa-awfū
+  2:
+    arabic: الۡـكَيۡلَ
+    translation: '[the] measure'
+    transliteration: l-kayla
+  3:
+    arabic: اِذَا
+    translation: when
+    transliteration: idhā
+  4:
+    arabic: كِلۡتُمۡ
+    translation: you measure
+    transliteration: kil'tum
+  5:
+    arabic: وَزِنُوۡا
+    translation: and weigh
+    transliteration: wazinū
+  6:
+    arabic: بِالۡقِسۡطَاسِ
+    translation: with the balance
+    transliteration: bil-qis'ṭāsi
+  7:
+    arabic: الۡمُسۡتَقِيۡمِ​ؕ
+    translation: the straight
+    transliteration: l-mus'taqīmi
+  8:
+    arabic: ذٰ لِكَ
+    translation: That
+    transliteration: dhālika
+  9:
+    arabic: خَيۡرٌ
+    translation: (is) good
+    transliteration: khayrun
+  10:
+    arabic: وَّاَحۡسَنُ
+    translation: and best
+    transliteration: wa-aḥsanu
+  11:
+    arabic: تَاۡوِيۡلًا‏
+    translation: (in) result
+    transliteration: tawīlan
+---
+
+## Context
+
+To understand **The Night Journey** (Al-Isra) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And come not near to the orphan's property except to improve it, until he attains the age of full strength. The prohibition of giving weights and measures short: Ruling Regarding the verse: أَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ (And give full measure when you measure - 35), Abu Hayyan says in Tafsir al-Bahr al-Muhit that the responsibility of giving full weight and measure in this verse has been placed on the seller (بَأِع : ba'i`) which tells us that it is the seller who is responsible for weighing, measuring and seeing that it is full as due.
+
+## Tafsir Ibn Kathir
+
+And come not near to the orphan's property except to improve it, until he attains the age of full strength. And fulfill (every) covenant. Verily, the covenant will be questioned about (34)And give full measure when you measure, and weigh with a balance that is straight. That is good (advantageous) and better in the end (35)
+
+The Command to handle the Orphan's Wealth properly and to be Honest in Weights and Measures
+
+وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُ
+
+(And come not near to the orphan's property except to improve it, until he attains the age of full strength.) meaning, do not dispose of the orphan's wealth except in a proper manner.
+
+وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ
+
+(but consume it [the orphan's property] not wastefully and hastily fearing that they should grow up, and whoever (among guardians) is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable (according to his labor).)[4:6] In Sahih Muslim it is recorded that the Messenger of Allah ﷺ said to Abu Dharr:
+
+يَا أَبَا ذَرٍّ إِنِّي أَرَاكَ ضَعِيفًا، وَإِنِّي أُحِبُّ لَكَ مَا أُحِبُّ لِنَفْسِي: لَا تَأَمَّرَنَّ عَلَى اثْنَيْنِ، وَلَا تَوَلَّيَنَّ مَالَ الْيَتِيمِ
+
+(O Abu Dharr, I see that you are weak (in adiministering), and I like for you that which I like for myself. Do not let yourself be appointed as Amir over two people, and do not let yourself be appointed as guardian of an orphan's property.)
+
+وَأَوْفُوا بِالْعَهْدِ
+
+(And fulfill (every) covenant.) meaning, everything that you promise people, and the covenants that you agree to, because the person who makes a covenant or a promise will be asked about it:
+
+إِنَّ الْعَهْدَ كَانَ مَسْئُولًا
+
+(Verily, the covenant will be questioned about.)
+
+وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ
+
+(And give full measure when you measure.) meaning, do not try to make it weigh less nor wrong people with their belongings.
+
+وَزِنُوا بِالْقِسْطَاسِ
+
+(and weigh with a balance) meaning scales,
+
+الْمُسْتَقِيمِ
+
+(that is straight.) meaning that which is not distorted nor that which will cause confusion.
+
+ذَٰلِكَ خَيْرٌ
+
+(that is good) for you, in your daily life and in your Hereafter. So Allah says:
+
+وَأَحْسَنُ تَأْوِيلًا
+
+(and better in the end.) meaning, with regard to your ultimate end in the Hereafter.
+
+ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
+
+(That is good (advantageous) and better in the end.) Sa'id narrated that Qatadah said that this means "Better in reward and a better end. " Ibn 'Abbas used to say: "O people, you are entrusted with two things for which the people who came before you were destroyed - these weights and measures."
+
+## Maarif ul Quran
+
+The prohibition of giving weights and measures short: Ruling
+
+Regarding the verse: أَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ (And give full measure when you measure - 35), Abu Hayyan says in Tafsir al-Bahr al-Muhit that the responsibility of giving full weight and measure in this verse has been placed on the seller (بَأِع : ba'i`) which tells us that it is the seller who is responsible for weighing, measuring and seeing that it is full as due.
+
+At the end of verse 35, it was said about the fulfillment of weight and measure: ذَٰلِكَ خَيْرٌ‌ وَأَحْسَنُ تَأْوِيلًا (That is good, and better in the end). As for making the weight and measure correct and even, two things have been said here: (1) Firstly, the rule is good. It means that it is intrinsically good. No normal and decent person is going to take weighing less and measuring short as something nice, neither religiously, nor rationally, nor naturally. (2) Secondly, it is better in the end. The end includes the consequent success of the Hereafter, reward of deeds and the blessing of Paradise as well as the happy outcome of the very life in this world. This is suggestive of the fact that no business can prosper until its goodwill stands recognized in the market - and that cannot happen without this commercial honesty.
+
+## Personal Reflections

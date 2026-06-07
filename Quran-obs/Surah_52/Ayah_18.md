@@ -1,0 +1,101 @@
+---
+arabic_ayat: "فٰكِهِيۡنَ بِمَاۤ اٰتٰٮهُمۡ رَبُّهُمۡ​ۚ وَوَقٰٮهُمۡ رَبُّهُمۡ عَذَابَ\
+  \ الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+sentence_translation: enjoying whatever their Lord will have granted them. And their
+  Lord will have protected them from the torment of the Hellfire.
+word_by_word:
+  1:
+    arabic: فٰكِهِيۡنَ
+    translation: Enjoying
+    transliteration: fākihīna
+  2:
+    arabic: بِمَاۤ
+    translation: in what
+    transliteration: bimā
+  3:
+    arabic: اٰتٰٮهُمۡ
+    translation: has given them
+    transliteration: ātāhum
+  4:
+    arabic: رَبُّهُمۡ​ۚ
+    translation: their Lord
+    transliteration: rabbuhum
+  5:
+    arabic: وَوَقٰٮهُمۡ
+    translation: and protected them
+    transliteration: wawaqāhum
+  6:
+    arabic: رَبُّهُمۡ
+    translation: their Lord
+    transliteration: rabbuhum
+  7:
+    arabic: عَذَابَ
+    translation: (from the) punishment
+    transliteration: ʿadhāba
+  8:
+    arabic: "الۡجَحِيۡمِ‏ \uFEFF\uFEFF"
+    translation: (of) Hellfire
+    transliteration: l-jaḥīmi
+---
+
+## Context
+
+To understand **The Mount** (At-Tur) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation From the internal evidence of the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, those who have Taqwa will be in Gardens and Delight (17)Enjoying in that which their Lord has bestowed on them, and (the fact that) their Lord saved them from the torment of the blazing Fire (18)"Eat and drink with happiness because of what you used to do. يَوْمَ تَمُورُ‌ السَّمَاءُ مَوْرً‌ا (...the Day when the sky will tremble, a horrible trembling, ...52:9) The lexicographical denotation of the word mawr is violent shaking, or movement caused by unrest.
+
+## Tafsir Ibn Kathir
+
+Verily, those who have Taqwa will be in Gardens and Delight (17)Enjoying in that which their Lord has bestowed on them, and (the fact that) their Lord saved them from the torment of the blazing Fire (18)"Eat and drink with happiness because of what you used to do. (19)They will recline on thrones Masfufah. And We shall marry them to Hur (fair females) with wide lovely eyes (20)
+
+Description of the Destination of the Happy
+
+Allah the Exalted described the destination of the happy ones,
+
+إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَنَعِيمٍ
+
+(Verily, those who have Taqwa will be in Gardens and Delight.) in contrast to the torment and punishment of the miserable;
+
+فَاكِهِينَ بِمَا آتَاهُمْ رَبُّهُمْ
+
+(Enjoying in that which their Lord has bestowed on them,) meaning, enjoying the various types of delight that Allah has granted them therein, such as various types of foods, drinks, clothes, dwelling places, mounts, and so forth,
+
+وَوَقَاهُمْ رَبُّهُمْ عَذَابَ الْجَحِيمِ
+
+(and (the fact that) their Lord saved them from the torment of the blazing Fire.) He saved them from the torment of the Fire, which is a bounty itself. Added to this blessing is the fact that they were entered into Paradise, which has delights that no eye has ever seen, no ear has ever heard, nor has a heart ever imagined. The statement of Allah the Exalted,
+
+كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ
+
+("Eat and drink with happiness because of what you used to do") is similar to another of His statements,
+
+كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ
+
+(Eat and drink at ease for that which you have sent on before you in days past!)(69:24) meaning this is the just reward for your deeds; surely, all this is a favor from Allah and a reward from Him. Allah the Exalted said,
+
+مُتَّكِئِينَ عَلَىٰ سُرُرٍ مَصْفُوفَةٍ ۖ
+
+(They will recline (with ease) on thrones Masfufah.) Ath-Thawri reported from Husayn, from Mujahid, from Ibn 'Abbas: "Thrones in howdahs." And the meaning of, (Masfufah) is they will be facing each other,
+
+عَلَىٰ سُرُرٍ مُتَقَابِلِينَ
+
+(Facing one another on thrones.)(37:44) Allah said next,
+
+وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ
+
+(And We shall marry them to Hur (fair females) with wide lovely eyes.) We made for them righteous spouses, beautiful wives from Al-Hur Al-'Ayn. We mentioned the description of Al-Hur Al-'Ayn in several other places in this Tafsir, and therefore, it is not necessary to repeat their description here.
+
+## Maarif ul Quran
+
+يَوْمَ تَمُورُ‌ السَّمَاءُ مَوْرً‌ا (...the Day when the sky will tremble, a horrible trembling, ...52:9) The lexicographical denotation of the word mawr is violent shaking, or movement caused by unrest. This verse describes the violent movement of the heavens on the Day of Resurrection.
+
+## Personal Reflections

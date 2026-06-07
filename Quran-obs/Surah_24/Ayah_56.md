@@ -1,0 +1,119 @@
+---
+arabic_ayat: وَاَقِيۡمُوا الصَّلٰوةَ وَ اٰ تُوا الزَّكٰوةَ وَاَطِيۡـعُوا الرَّسُوۡلَ
+  لَعَلَّكُمۡ تُرۡحَمُوۡنَ‏
+sentence_translation: Moreover, establish prayer, pay alms-tax, and obey the Messenger,
+  so you may be shown mercy.
+word_by_word:
+  1:
+    arabic: وَاَقِيۡمُوا
+    translation: And establish
+    transliteration: wa-aqīmū
+  2:
+    arabic: الصَّلٰوةَ
+    translation: the prayer
+    transliteration: l-ṣalata
+  3:
+    arabic: وَ اٰ تُوا
+    translation: and give
+    transliteration: waātū
+  4:
+    arabic: الزَّكٰوةَ
+    translation: zakah
+    transliteration: l-zakata
+  5:
+    arabic: وَاَطِيۡـعُوا
+    translation: and obey
+    transliteration: wa-aṭīʿū
+  6:
+    arabic: الرَّسُوۡلَ
+    translation: the Messenger
+    transliteration: l-rasūla
+  7:
+    arabic: لَعَلَّكُمۡ
+    translation: so that you may
+    transliteration: laʿallakum
+  8:
+    arabic: تُرۡحَمُوۡنَ‏
+    translation: receive mercy
+    transliteration: tur'ḥamūna
+---
+
+## Context
+
+To understand **The Light** (An-Nur) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And perform the Salah, and give the Zakah and obey the Messenger that you may receive mercy (56)Consider not that the disbelievers can escape in the land. Qurtubi has reported on authority of Abul ` Aliyah that the Holy Prophet ﷺ stayed in Makkah for ten years after commencement of revelation and declaration of prophethood, during which time there was a constant fear of the infidels and disbelievers.
+
+## Tafsir Ibn Kathir
+
+And perform the Salah, and give the Zakah and obey the Messenger that you may receive mercy (56)Consider not that the disbelievers can escape in the land. Their abode shall be the Fire – and worst indeed is that destination (57)
+
+The Command to Pray, Give the Zakah and Obey the Messenger (ﷺ); The Inability of the Disbelievers to Escape,and the Ultimate Destiny
+
+Allah commands His believing servants to establish prayer, which means worshipping Allah Alone with no partner or associate; to pay the Zakah, which is an act of kindness towards His poor and weak creatures; and by doing so to obey the Messenger of Allah ﷺ, i.e., to do as he commands them and to avoid what he forbids them, so that Allah will have mercy on them for that. No doubt, whoever does that, Allah will have mercy on him, as Allah says in another Ayah:
+
+أُولَٰئِكَ سَيَرْحَمُهُمُ اللَّهُ
+
+(Allah will have His mercy on them)(9:71)
+
+لَا تَحْسَبَنَّ
+
+(Consider not) means, 'do not think, O Muhammad,' that:
+
+الَّذِينَ كَفَرُوا
+
+(the disbelievers) meaning, those who opposed and denied you,
+
+مُعْجِزِينَ فِي الْأَرْضِ
+
+(can escape in the land.) means, that they can flee from Allah. No, Allah is able to deal with them and He will punish them most severely for that. Allah says:
+
+وَمَأْوَاهُمُ
+
+(Their abode) meaning, in the Hereafter,
+
+النَّارُ ۖ وَلَبِئْسَ الْمَصِيرُ
+
+(shall be the Fire – and worst indeed is that destination.) means, how terrible the consequences will be for the disbelievers, how evil a place to stay in and how awful a place to rest!
+
+## Maarif ul Quran
+
+Commentary
+
+Background of Revelation
+
+Qurtubi has reported on authority of Abul ` Aliyah that the Holy Prophet ﷺ stayed in Makkah for ten years after commencement of revelation and declaration of prophethood, during which time there was a constant fear of the infidels and disbelievers. Then after the Hijrah to Madina also there was a ceaseless danger of attacks from the disbelievers. So, someone asked the Holy Prophet ﷺ "Would a time come to us when we will be able to live in peace without wearing our weaponry?' The Holy Prophet ﷺ replied ` Yes, the time is coming very soon'. On that occasion these verses were revealed. (Qurtubi and Bahr). Sayyidna ` Abdullah Ibn 'Abbas ؓ ، has said that these verses relate the promise of Allah Ta’ ala, which He had made with the Ummah of Muhammad ﷺ before their creation in the Torah and the Injil. (Bahr Muhit)
+
+Allah Ta’ ala had made three promises to the Holy Prophet ﷺ ، that his Ummah will be made His vicegerent on earth and will rule over it, and His favourite religion Islam will be made victorious, and Muslims will be given so much power and grandeur that they will have no fear of any one. Allah Ta’ ala fulfilled His promise by conferring conquest over Makkah, Khaibar, Bahrain, and the whole of Yemen and the entire peninsula of Arabia even during the lifetime of the Holy Prophet ﷺ . Also he received jizyah, (capitation tax) from the Zoroastrians of Hajar and some Syrian territories. The kings and rulers of Rome, Egypt, Iskandria, Oman and Ethiopia sent gifts to the Holy Prophet ﷺ ، and gave him honour and respect. Then during his caliphate Sayyidna Abu Bakr ؓ crushed all the menacing uprisings. He also sent out Islamic armies to Persia, Syria and Egypt. Busra and Damascus also fell to Islamic State during this time.
+
+When the time of death of Sayyidna Abu Bakr ؓ approached nearer, Allah Ta’ ala put an inspiration in his heart to nominate Sayyidna ` Umar Ibn Khattab ؓ as his successor. When Sayyidna ` Umar Ibn Khattab ؓ took charge of the caliphate, it was so wonderful that the heavens had not witnessed such grand governance after the governance of the messengers. During his caliphate the entire land of Syria and Egypt and major part of Persia were overpowered. It was during his time that the grandeur of Caesar and Chosroes were vanished. After that period, during the caliphate of Sayyidna ` Uthman ؓ the Islamic victories extended from the East to the West. In the west up to Cyprus and Andalucia, and in the east up to China. Besides, ` Iraq, Khorasan and Ahwaz all fell to Islamic State during the time of third Caliph. What the Holy Prophet ﷺ has said according to a Sahih Hadith that he was shown the entire east and west of the earth by bringing them together, and that the rule of his Ummah will extend up to all those places which have been shown to him; this promise was fulfilled by Allah Ta’ ala even during the time of caliphate Sayyidna ` Uthman ؓ . (Ibn Kathir)
+
+According to another hadith the Holy Prophet ﷺ has said that caliphate will last for thirty years after him. Here, the word caliphate means the Rightly Guided Caliphate (Al-Khilafah-ar-Rashidah), which was run exactly on the footsteps of the Holy Prophet ﷺ . It lasted up to the time of Sayyidna ` Ali ؓ ، because this period of thirty years was finished after him.
+
+At this point Ibn Kathir has also reported a hadith from Sahih Muslim, that Sayyidna Jabir Ibn Samurah ؓ has said that he had heard the Holy Prophet ﷺ saying that his Ummah will continue ruling until the twelve caliphs last. After narrating this Ibn Kathir has commented that this hadith is pointing that there will be twelve upright caliphs in the Muslim Ummah, which is bound to happen. However, it is not necessary that all twelve come one after the other and there is no gap in between, rather it is more likely that they turn up with an interval of time. Out of this lot, four Rightly Guided Khulafa' had appeared one after the other immediately after the Holy Prophet ﷺ . The next was Sayyidna ` Umar Ibn ` Abdul ` Aziz (رح) who came after a gap of some time. A few others also appeared in different times after him and will continue to come until the last caliph Sayyidna Mahdiyy comes. There is no mention in the hadith of those twelve caliphs which the Shiites have determined. Rather some of them are those who have no connection with the caliphate at all. It is also not necessary that all of them would be of the same status, and during their time there would be complete peace and tranquility. This promise is related to rectitude and firmness of faith, the righteous deeds and total obedience, and any difference in their degree will naturally make difference in the power and control of authority. Islamic history spread over a period of 1400 years is a witness that in different times and different , countries whenever and wherever there was a just and righteous ruler, he has received his share from this promise of Allah based on the extent of righteous deeds he has performed. At another place, the Qur'an says إِنَّ حِزْبَ اللَّـهِ هُمُ الْغَالِبُونَ that is ` The people of Allah are the ones to prevail.'
+
+This verse is a proof of approval and esteem in the sight of Allah of the four rightly guided Khulafa'
+
+This verse is also a proof of the prophethood of the Holy Prophet ﷺ because the forecast he had made came true exactly in the manner he had predicted. The same way it is also a proof of acceptance and approval of the caliphate of AI-Khulafa' ar-Rashidin in the sight of Allah. It is for the simple reason that the promise Allah Ta’ ala had made with His Messenger and his Ummah was completely fulfilled during the lifetime of the four Sahabah. If the caliphate of the earlier caliphs is not regarded legitimate and true, as claimed by some Rawafd, then the Qur'anic promise has not been fulfilled as yet. Then the argument put forward by Rawafid that the Qur'anic promise will be fulfilled during the life of Sayyidna Mahdiyy is but ridiculous, as it will amount to saying that for full 1400 years the ` Ummah will live in disgrace and misery, and nearing the Dooms Day when he will get the rule, only that period is referred by this promise. The fact of the matter is that the conditions of faith and righteous deeds, on which this promise was made by Allah Ta’ ala, were present in these Sahabah to the perfection and in totality. In reality Allah's promise was fulfilled in totality in their lifetime only. After that neither the degree of faith and deeds was maintained at that level, nor the dignity of caliphate and governance could be retained.
+
+وَمَن كَفَرَ‌ فَأُولَـٰئِكَ هُمُ الْفَاسِقُونَ
+
+And whoever turns infidel after that, then such people are the transgressors - 24:55.
+
+The literal meaning of the word Kufr is thanklessness and in conventional sense it is the antonym of faith. In this verse there is room for taking either of the two meanings. Thus the meaning of the verse is that when Allah Ta’ ala fulfills His promise and bestows power, authority, peace and satisfaction to the Muslims, and stability to Islam, and after that someone turns apostate or avoids obeying the rules of the Islamic State, then such a person is a transgressor. In the first place he has lost the faith, and secondly, stopped obeying the rules and regulations of the Islamic State. Kufr and ingratitude are great sins in any situation, but after the establishment of Islamic rule, authority and grandeur the intensity of these sins is doubled. That is why it is emphasized by the words بَعْدَ ذَٰلِكَ (after that). Imam Baghawi (رح) has said that the scholars of Tafsir have explained that this Qur'anic sentence came true for the first time on those who assassinated the ruling caliph Sayyidna ` Uthman ؓ . When they committed this great sin, the referred graces of Allah Ta’ ala were reduced, and they were afflicted with fear and fright because of mutual killings and massacre. Despite the fact that they were like brothers to each other, they got involved in mutual killing. Baghawi has related on his own authority an address by Sayyidna ` Abdullah Ibn Salam ؓ ، which he delivered at the time of commotion against Sayyidna ` Uthman ؓ . The wordings of the address are as follows:
+
+"The angels of Allah had cordoned your city for security ever since the Holy Prophet ﷺ had come to Madinah, and this measure was continuing until today. By God, if you assassinate ` Uthman, these angels will go back, and will never return again. By god, whoever from you will kill him will present himself before Allah with his hands cut. He will be without his hands. And know that Allah's sword was in its sheath so far. By God, if this sword comes out of its sheath, it shall never go back in sheath again, because whenever a messenger is assassinated, seventy thousand people are killed in return and when a caliph is assassinated, then thirty five thousand persons are killed" (Mazhari).
+
+Hence, the sequence of mutual killing which had commenced with the Shahadah (martyrdom) of Sayyidna ` Uthman' ؓ has continued in the Ummah throughout. Similarly, the way assassins of ` Uthman ؓ acted against the blessings of Allah Ta’ ala and solidarity of Islam and were ungrateful to Him, the Rawafid and Khawarij did the same after that by grouping against the Guided Khulafa'. The incident of great sacrifice of Sayyidna Husain Ibn Ali ؓ also happened under the same sequence نسال اللہ الھدایہ و شکر نعمتۃ
+
+## Personal Reflections

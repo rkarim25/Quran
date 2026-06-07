@@ -1,0 +1,111 @@
+---
+arabic_ayat: وَيَزِيۡدُ اللّٰهُ الَّذِيۡنَ اهۡتَدَوۡا هُدًى​ؕ وَالۡبٰقِيٰتُ الصّٰلِحٰتُ
+  خَيۡرٌ عِنۡدَ رَبِّكَ ثَوَابًا وَّخَيۡرٌ مَّرَدًّا‏
+sentence_translation: And Allah increases in guidance those who are ˹rightly˺ guided.
+  And the everlasting good deeds are far better with your Lord in reward and in outcome. 
+word_by_word:
+  1:
+    arabic: وَيَزِيۡدُ
+    translation: And Allah increases
+    transliteration: wayazīdu
+  2:
+    arabic: اللّٰهُ
+    translation: And Allah increases
+    transliteration: l-lahu
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: اهۡتَدَوۡا
+    translation: accept guidance
+    transliteration: ih'tadaw
+  5:
+    arabic: هُدًى​ؕ
+    translation: (in) guidance
+    transliteration: hudan
+  6:
+    arabic: وَالۡبٰقِيٰتُ
+    translation: And the everlasting
+    transliteration: wal-bāqiyātu
+  7:
+    arabic: الصّٰلِحٰتُ
+    translation: good deeds
+    transliteration: l-ṣāliḥātu
+  8:
+    arabic: خَيۡرٌ
+    translation: (are) better
+    transliteration: khayrun
+  9:
+    arabic: عِنۡدَ
+    translation: near
+    transliteration: ʿinda
+  10:
+    arabic: رَبِّكَ
+    translation: your Lord
+    transliteration: rabbika
+  11:
+    arabic: ثَوَابًا
+    translation: (for) reward
+    transliteration: thawāban
+  12:
+    arabic: وَّخَيۡرٌ
+    translation: and better
+    transliteration: wakhayrun
+  13:
+    arabic: مَّرَدًّا‏
+    translation: (for) return
+    transliteration: maraddan
+---
+
+## Context
+
+To understand **Mary** (Maryam) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And Allah increases in guidance those who walk aright. ''And the everlasting virtues are better with your Lord in respect of reward and better in their return".
+
+## Tafsir Ibn Kathir
+
+And Allah increases in guidance those who walk aright. And the righteous good deeds that last are better with your Lord for reward and better for resort (76)
+
+Increasing Guidance of Those Who are guided
+
+After Allah mentions the extended time and respite that is allowed to those who are in misguidance, increasing them in misguidance, He informs of the increase in guidance of those who are rightly guided. Similarly He says,
+
+وَإِذَا مَا أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِ إِيمَانًا
+
+(And whenever there comes down a Surah, some of them say: "Which of you has had his faith increased by it?")[9:124] And the following Ayah also shows this. Concerning Allah's statement,
+
+وَالْبَاقِيَاتُ الصَّالِحَاتُ
+
+(And the righteous good deeds that last) Its explanation has already preceded in Surat Al-Kahf, along with a lengthy discussion concerning it and the related Hadiths.
+
+خَيْرٌ عِندَ رَبِّكَ ثَوَابًا
+
+((they) are better with your Lord for reward.) meaning the recompense and reward.
+
+وَخَيْرٌ مَّرَدًّا
+
+(and better for resort.) meaning in the final outcome, the result for its doer.
+
+## Maarif ul Quran
+
+وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ‌ عِندَ رَ‌بِّكَ ثَوَابًا وَخَيْرٌ‌ مَّرَ‌دًّا
+
+''And the everlasting virtues are better with your Lord in respect of reward and better in their return". - 19:76
+
+These words have been interpreted differently by different scholars as has been explained at some length in the commentary of Sarah Al-Kahf (سورۃ کھف). The more plausible interpretation, however, is that the words refer to submission to the commands of Allah and to good deeds, the benefits of which are everlasting.
+
+مَّرَ‌دًّا by means consequences, and the sense of this verse is that good deeds alone are the real wealth whose reward is great and whose result is eternal peace.
+
+## Personal Reflections

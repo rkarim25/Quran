@@ -1,0 +1,127 @@
+---
+arabic_ayat: وَاِذۡ قَالَ مُوۡسٰى لِقَوۡمِهٖۤ اِنَّ اللّٰهَ يَاۡمُرُكُمۡ اَنۡ تَذۡبَحُوۡا
+  بَقَرَةً ​ ؕ قَالُوۡآ اَتَتَّخِذُنَا هُزُوًۡا ​ؕ قَالَ اَعُوۡذُ بِاللّٰهِ اَنۡ
+  اَكُوۡنَ مِنَ الۡجٰـهِلِيۡنَ‏
+sentence_translation: And ˹remember˺ when Moses said to his people, “Allah commands
+  you to sacrifice a cow.” They replied, “Are you mocking us?” Moses responded, “I
+  seek refuge in Allah from acting foolishly!”
+word_by_word:
+  1:
+    arabic: وَاِذۡ
+    translation: And when
+    transliteration: wa-idh
+  2:
+    arabic: قَالَ
+    translation: said
+    transliteration: qāla
+  3:
+    arabic: مُوۡسٰى
+    translation: Musa
+    transliteration: mūsā
+  4:
+    arabic: لِقَوۡمِهٖۤ
+    translation: to his people
+    transliteration: liqawmihi
+  5:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  6:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  7:
+    arabic: يَاۡمُرُكُمۡ
+    translation: commands you
+    transliteration: yamurukum
+  8:
+    arabic: اَنۡ
+    translation: that
+    transliteration: an
+  9:
+    arabic: تَذۡبَحُوۡا
+    translation: you slaughter
+    transliteration: tadhbaḥū
+  10:
+    arabic: بَقَرَةً ​ ؕ
+    translation: a cow
+    transliteration: baqaratan
+  11:
+    arabic: قَالُوۡآ
+    translation: They said
+    transliteration: qālū
+  12:
+    arabic: اَتَتَّخِذُنَا
+    translation: Do you take us
+    transliteration: atattakhidhunā
+  13:
+    arabic: هُزُوًۡا ​ؕ
+    translation: (in) ridicule
+    transliteration: huzuwan
+  14:
+    arabic: قَالَ
+    translation: He said
+    transliteration: qāla
+  15:
+    arabic: اَعُوۡذُ
+    translation: I seek refuge
+    transliteration: aʿūdhu
+  16:
+    arabic: بِاللّٰهِ
+    translation: in Allah
+    transliteration: bil-lahi
+  17:
+    arabic: اَنۡ
+    translation: that
+    transliteration: an
+  18:
+    arabic: اَكُوۡنَ
+    translation: I be
+    transliteration: akūna
+  19:
+    arabic: مِنَ
+    translation: among
+    transliteration: mina
+  20:
+    arabic: الۡجٰـهِلِيۡنَ‏
+    translation: the ignorant
+    transliteration: l-jāhilīna
+---
+
+## Context
+
+To understand **The Cow** (Al-Baqarah) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Al-Baqarah (The Cow) has been so named from the story of the Cow occurring in this Surah ( 67-73 ).
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And (remember) when Musa said to his people: "Verily, Allah commands you that you slaughter a cow." They said, "Do you make fun of us?" He said, "I take Allah's refuge from being among Al-Jahilin (the ignorant or the foolish). According to Mirqat, a commentary on Mishkat, a man among the Israelites wanted to marry a girl, but her father refused.
+
+## Tafsir Ibn Kathir
+
+And (remember) when Musa said to his people: "Verily, Allah commands you that you slaughter a cow." They said, "Do you make fun of us?" He said, "I take Allah's refuge from being among Al-Jahilin (the ignorant or the foolish). (67)
+
+The Story of the murdered Israeli Man and the Cow
+
+Allah said, 'O Children of Israel! Remember how I blessed you with miracle of the cow that was the means for discovering the identity of the murderer, when the murdered man was brought back to life.'
+
+Ibn Abi Hatim recorded 'Ubaydah As-Salmani saying, "There was a man from among the Children of Israel who was impotent. He had substantial wealth, and only a nephew who would inherit from him. So his nephew killed him and moved his body at night, placing it at the doorstep of a certain man. The next morning, the nephew cried out for revenge, and the people took up their weapons and almost fought each other. The wise men among them said, 'Why would you kill each other, while the Messenger of Allah is still among you?' So they went to Musa and mentioned the matter to him and Musa said,
+
+إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا بَقَرَةً قَالُوا أَتَتَّخِذُنَا هُزُوًا قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ
+
+("Verily, Allah commands you that you slaughter a cow." They said, "Do you make fun of us?" He said, "I take Allah's refuge from being among Al-Jahilin (the ignorant or the foolish))."
+
+"Had they not disputed, it would have been sufficient for them to slaughter any cow. However, they disputed, and the matter was made more difficult for them, until they ended up looking for the specific cow that they were later ordered to slaughter. They found the designated cow with a man, only who owned that cow. He said, 'By Allah! I will only sell it for its skin's fill of gold.' So they paid the cow's fill of its skin in gold, slaughtered it and touched the dead man with a part of it. He stood up, and they asked him, 'Who killed you?' He said, 'That man,' and pointed to his nephew. He died again, and his nephew was not allowed to inherit him. Thereafter, whoever committed murder for the purpose of gaining inheritance was not allowed to inherit. Ibn Jarir reported something similar to that. Allah knows best.
+
+## Maarif ul Quran
+
+According to Mirqat, a commentary on Mishkat, a man among the Israelites wanted to marry a girl, but her father refused. The suitor was so incensed that he killed the father, and disappeared. It is mentioned in Ma` alim al-tanzil which says on the authority of Kalbi that Allah had not yet sent down any injunction with regard to man-slaughter. If it was so, this shows that the incident happened before the Torah was revealed. Anyhow, the Israelites requested Sayyidna Musa (علیہ السلام) to tell them how to trace the culprit. Under the commandment of Allah, he asked them to sacrifice a cow. As was their regular habit, they started raising all kinds of doubts and objections, of which the next verses give us the details.
+
+## Personal Reflections

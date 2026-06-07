@@ -1,0 +1,144 @@
+---
+arabic_ayat: فَرَاغَ اِلٰٓى اَهۡلِهٖ فَجَآءَ بِعِجۡلٍ سَمِيۡنٍۙ‏
+sentence_translation: Then he slipped off to his family and brought a fat ˹roasted˺
+  calf,
+word_by_word:
+  1:
+    arabic: فَرَاغَ
+    translation: Then he went
+    transliteration: farāgha
+  2:
+    arabic: اِلٰٓى
+    translation: to
+    transliteration: ilā
+  3:
+    arabic: اَهۡلِهٖ
+    translation: his household
+    transliteration: ahlihi
+  4:
+    arabic: فَجَآءَ
+    translation: and came
+    transliteration: fajāa
+  5:
+    arabic: بِعِجۡلٍ
+    translation: with a calf
+    transliteration: biʿij'lin
+  6:
+    arabic: سَمِيۡنٍۙ‏
+    translation: fat
+    transliteration: samīnin
+---
+
+## Context
+
+To understand **The Winnowing Winds** (Adh-Dhariyat) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. رَ‌اغَ إِلَىٰ أَهْلِهِ (Then he slipped off to his home - 51:26).
+
+## Tafsir Ibn Kathir
+
+Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. (25)Then he turned to his household, and brought out a roasted calf (26)And placed it before them (saying): "Will you not eat? (27)Then he conceived fear of them (when they ate not). They said: "Fear not." And they gave him glad tidings of a son having knowledge (28)Then his wife came forward with a loud voice; she smote her face, and said: "A barren old woman! (29)They said: "Even so says your Lord. Verily, He is the All-Wise, the All-Knower. (30)
+
+The Guests of the Prophet Ibrahim
+
+We mentioned this story before in Surah Hud and Al-Hijr. Allah said,
+
+هَلْ أَتَاكَ حَدِيثُ ضَيْفِ إِبْرَاهِيمَ الْمُكْرَمِينَ
+
+(Has the story reached you, of the honored guests of Ibrahim), whom Ibrahim honored and who,
+
+فَقَالُوا سَلَامًا ۖ قَالَ سَلَامٌ
+
+(they said: "Salaman!" He answered: "Salamun.")
+
+وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ
+
+(When you are greeted with a greeting, greet in return with what is better than it, or return it equally.)(4:86)
+
+So the Friend of Allah chose a better reply in return for their greeting, implementing Allah's command: Reciprocating the greeting with the term Salamun is stronger than the greeting using the term Salaman.
+
+The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of handsome young wonderfully graceful men. This is why Ibrahim said,
+
+قَوْمٌ مُنْكَرُونَ
+
+(You are a people unknown to me.) Allah the Exalted said,
+
+فَرَاغَ إِلَىٰ أَهْلِهِ
+
+(Then he turned to his household,) Ibrahim discretely went inside in haste,
+
+فَجَاءَ بِعِجْلٍ سَمِينٍ
+
+(and brought out a roasted calf.) from the best of his menu, And in another Ayah
+
+فَمَا لَبِثَ أَنْ جَاءَ بِعِجْلٍ حَنِيذٍ
+
+(And he hastened to entertain them with a roasted calf.)(11:69) means roasted on hot coals
+
+فَقَرَّبَهُ إِلَيْهِمْ
+
+(And placed it before them), brought it close to them,
+
+قَالَ أَلَا تَأْكُلُونَ
+
+(Saying, "Will you not eat?") Ibrahim said this polite and kind statement to his guests, and surely, this Ayah indicates proper manners for honoring guests. For he brought the food to his guests quickly, while they were unaware that it was being prepared for them. He did not first mention this favor to them by saying, "We will make food for you." Rather, he discretely had it prepared and placed before them. He prepared the best kind of food he had, a young, fat roasted calf. He did not place the food far from them and invite them to come close to it to eat. Rather, he placed it close to them and refrained from ordering them to eat. Instead he invited them using a kind and subtle invitation,
+
+أَلَا تَأْكُلُونَ
+
+(Will you not eat?) This statement is similar to one of us saying to a guest, "Would you be kind and generous to do such and such?" Allah the Exalted said,
+
+فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ
+
+(Then he conceived fear of them.) this Ayah is explained by Allah's statement,
+
+فَلَمَّا رَأَىٰ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً ۚ قَالُوا لَا تَخَفْ إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمِ لُوطٍ - وَامْرَأَتُهُ قَائِمَةٌ فَضَحِكَتْ
+
+(But when he saw their hands went not towards it, he mistrusted them, and felt a sense of fear of them. They said: "Fear not, we have been sent against the people of Lut." And his wife was standing (there), and she laughed.)(11:70-71), meaning, she was glad that the people of Lut would be destroyed on account of their rebellion and transgression against Allah, the Exalted. This is when the angels delivered the good news to her of a son, Ishaq, and Ya'qub after Ishaq,
+
+قَالَتْ يَا وَيْلَتَىٰ أَأَلِدُ وَأَنَا عَجُوزٌ وَهَٰذَا بَعْلِي شَيْخًا ۖ إِنَّ هَٰذَا لَشَيْءٌ عَجِيبٌ - قَالُوا أَتَعْجَبِينَ مِنْ أَمْرِ اللَّهِ ۖ رَحْمَتُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ ۚ إِنَّهُ حَمِيدٌ مَجِيدٌ
+
+(She said: "Woe unto me! Shall I bear a child while I am an old woman, and here is my husband an old man? Verily, this is a strange thing!" They said, "Do you wonder at the decree of Allah? The mercy of Allah and His blessings be on you, O family of the house. Surely, He (Allah) is All-Praiseworthy, All-Glorious.")(11:72-73) Allah said here;
+
+وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ
+
+(And they gave him glad tidings of a son having knowledge.) This news was as good to Ibrahim as it was to his wife, for this son would be theirs, and therefore, they both were getting some good news. Allah the Exalted said,
+
+فَأَقْبَلَتِ امْرَأَتُهُ فِي صَرَّةٍ
+
+(Then his wife came forward with a loud voice), She screamed loudly, according to Ibn 'Abbas, Mujahid, 'Ikrimah, Abu Salih, Ad-Dahhak, Zayd bin Aslam, Ath-Thawri and As-Suddi. She said when she shouted,
+
+يَا وَيْلَتَىٰ
+
+(Ah! Woe to me!)(25:28), then,
+
+فَصَكَّتْ وَجْهَهَا
+
+(she smote her face,) meaning, she struck herself upon her forehead, according to Mujahid and Ibn Sabit. Ibn 'Abbas said that she smacked her face just as women do when confronted with an amazing thing,
+
+وَقَالَتْ عَجُوزٌ عَقِيمٌ
+
+(and said: "A barren old woman!") meaning, "How can I give birth while I am an old woman? And even when I was young I was barren and could not have children,"
+
+قَالُوا كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُ هُوَ الْحَكِيمُ الْعَلِيمُ
+
+(They said: "Even so says your Lord. Verily, He is the All-Wise, the All-Knower"), 'He is the All-Knower of the honor that you are worthy of and He is the most Wise in His statements and decisions.'
+
+## Maarif ul Quran
+
+رَ‌اغَ إِلَىٰ أَهْلِهِ (Then he slipped off to his home - 51:26). Ragha is derived from rawgh which means to slip out quietly. In other words, Holy Prophet Ibrahim (علیہ السلام) discreetly went in the house in haste to arrange for meal for his guests, so that they do not sense it. Otherwise they would have stopped him.
+
+Rules of Entertaining Guests
+
+Ibn Kathir says that this verse indicates proper manners for entertaining guests: Holy Prophet Ibrahim (علیہ السلام) ، the host, did not first mention that he would make food for them. He slipped out quietly, and brought the food to his guests quickly, while they were unaware that it was being prepared for them. Rather, he discreetly had it prepared and placed before them. He prepared the best kind of food he had, a young, fat roasted calf. Moreover, he did not place the food far from them and invite them to come close to it to eat. Rather, he placed it close to them فَقَرَّ‌بَهُ إِلَيْهِمْ 'brought it close to them' and refrained from ordering them to eat. Instead he invited them politely, kindly and cordially to partake thus أَلَا تَأْكُلُونَ 'Would you not eat?' This statement in the form of a question is similar to one of us saying to a guest, 'Would you kindly partake of it - even if you are not hungry, at least for my sake?'
+
+## Personal Reflections

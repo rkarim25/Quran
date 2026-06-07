@@ -1,0 +1,205 @@
+---
+arabic_ayat: "وَ قَالُوۡا لَوۡلَا نُزِّلَ عَلَيۡهِ اٰيَةٌ مِّنۡ رَّبِّهٖ​ؕ قُلۡ اِنَّ\
+  \ اللّٰهَ قَادِرٌ عَلٰٓى اَنۡ يُّنَزِّلَ اٰيَةً وَّلٰـكِنَّ اَكۡثَرَهُمۡ لَا يَعۡلَمُوۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: They ask, “Why has no ˹other˺ sign been sent down to him from
+  his Lord?” Say, ˹O Prophet,˺ “Allah certainly has the power to send down a sign”—though
+  most of them do not know.
+word_by_word:
+  1:
+    arabic: وَ قَالُوۡا
+    translation: And they said
+    transliteration: waqālū
+  2:
+    arabic: لَوۡلَا
+    translation: Why (is) not
+    transliteration: lawlā
+  3:
+    arabic: نُزِّلَ
+    translation: sent down
+    transliteration: nuzzila
+  4:
+    arabic: عَلَيۡهِ
+    translation: to him
+    transliteration: ʿalayhi
+  5:
+    arabic: اٰيَةٌ
+    translation: a Sign
+    transliteration: āyatun
+  6:
+    arabic: مِّنۡ
+    translation: from
+    transliteration: min
+  7:
+    arabic: رَّبِّهٖ​ؕ
+    translation: his Lord
+    transliteration: rabbihi
+  8:
+    arabic: قُلۡ
+    translation: Say
+    transliteration: qul
+  9:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  10:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  11:
+    arabic: قَادِرٌ
+    translation: (is) Able
+    transliteration: qādirun
+  12:
+    arabic: عَلٰٓى
+    translation: '[on]'
+    transliteration: ʿalā
+  13:
+    arabic: اَنۡ
+    translation: to
+    transliteration: an
+  14:
+    arabic: يُّنَزِّلَ
+    translation: send down
+    transliteration: yunazzila
+  15:
+    arabic: اٰيَةً
+    translation: a Sign
+    transliteration: āyatan
+  16:
+    arabic: وَّلٰـكِنَّ
+    translation: but
+    transliteration: walākinna
+  17:
+    arabic: اَكۡثَرَهُمۡ
+    translation: most of them
+    transliteration: aktharahum
+  18:
+    arabic: لَا
+    translation: (do) not
+    transliteration: lā
+  19:
+    arabic: "يَعۡلَمُوۡنَ‏ \uFEFF\uFEFF"
+    translation: know
+    transliteration: yaʿlamūna
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And they said: "Why is not a sign sent down to him from his Lord?" Say: "Allah is certainly able to send down a sign, but most of them know not. About the statement: فَإِنَّهُمْ لَا يُكَذِّبُونَكَ (it is not you they are belying, rather, it is the signs of Allah they are denying) in the first verse (33), there is a related event, reported in Tafsir Mazhari on the authority of a narration by As-Suddiy, according to which, once Akhnas ibn Shuraiq and Abu Jahl, two chiefs of the Quraysh tribe met together.
+
+## Tafsir Ibn Kathir
+
+And they said: "Why is not a sign sent down to him from his Lord?" Say: "Allah is certainly able to send down a sign, but most of them know not. (37)There is not a moving creature on earth, nor a bird that flies with its two wings, but are Umam like you. We have neglected nothing in the Book, then unto their Lord they (all) shall be gathered (38)Those who reject Our Ayat are deaf and dumb in darkness. Allah sends astray whom He wills and He guides on the straight path whom He wills (39)
+
+The Idolators Ask for a Miracle
+
+Allah states that the idolators used to proclaim, "Why does not (Muhammad) bring an Ayah from his Lord," meaning, a miracle of their choice! They would sometimes say,
+
+لَن نُّؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ الْأَرْضِ يَنبُوعًا
+
+("We shall not believe in you, until you cause a spring to gush forth from the ground for us.")[17:90].
+
+قُلْ إِنَّ اللَّهَ قَادِرٌ عَلَىٰ أَن يُنَزِّلَ آيَةً وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+
+(Say: "Allah is certainly able to send down a sign, but most of them know not.")
+
+Certainly, Allah is able to send an Ayah (sign). But, He decided out of His wisdom to delay that, because if He sends an Ayah of their liking and they still do not believe, this will hasten their punishment as with the previous nations. Allah said in other Ayat,
+
+وَمَا مَنَعَنَا أَن نُّرْسِلَ بِالْآيَاتِ إِلَّا أَن كَذَّبَ بِهَا الْأَوَّلُونَ وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا وَمَا نُرْسِلُ بِالْآيَاتِ إِلَّا تَخْوِيفًا
+
+(And nothing stops Us from sending the Ayat but that the people of old denied them. And We sent the she-camel to Thamud as a clear sign, but they did her wrong. And We sent not the signs except to warn, and to make them afraid (of destruction).)[17:59], and,
+
+إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ
+
+(If We will, We could send down to them from the heaven a sign, to which they would bend their necks in humility)[26:4].
+
+The Meaning of Umam
+
+Allah said,
+
+وَمَا مِن دَابَّةٍ فِي الْأَرْضِ وَلَا طَائِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّا أُمَمٌ أَمْثَالُكُم
+
+(There is not a moving (living) creature on earth, nor a bird that flies with its two wings, but are Umam like you.)
+
+Mujahid commented, "Meaning, various species that have distinct names." Qatadah said, "Birds are an Ummah, humans are an Ummah and the Jinns are an Ummah." As-Suddi said that,
+
+إِلَّا أُمَمٌ أَمْثَالُكُم
+
+(but are Umam like you.) means, creations (or species). Allah's statement,
+
+مَّا فَرَّطْنَا فِي الْكِتَابِ مِن شَيْءٍ
+
+(We have neglected nothing in the Book,) means, the knowledge about all things is with Allah, and He never forgets any of His creatures, nor their sustenance, nor their affairs, whether these creatures live in the sea or on land. In another Ayah, Allah said;
+
+وَمَا مِن دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا كُلٌّ فِي كِتَابٍ مُّبِينٍ
+
+(And no moving creature is there on earth but its provision is due from Allah. And He knows its dwelling place and its deposit (in the uterus, grave, etc.). All is in a Clear Book.)[11:6], there is a record of their names, numbers, movements, and lack of movement. In another Ayah, Allah said;
+
+وَكَأَيِّن مِّن دَابَّةٍ لَّا تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ السَّمِيعُ الْعَلِيمُ
+
+(And so many a moving creature there is, that carries not its own provision! Allah provides for it and for you. And He is the All-Hearer, the All-Knower.)[29:60] Ibn Abi Hatim reported that Ibn 'Abbas said about the Ayah,
+
+ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ
+
+(then unto their Lord they (all) shall be gathered.) "Death gathers them." It was also said that the Day of Resurrection gathers them, for in another Ayah, Allah said;
+
+وَإِذَا الْوُحُوشُ حُشِرَتْ
+
+(And when the wild beasts shall be gathered together.)[81:5] 'Abdur-Razzaq recorded that Abu Hurayrah said about Allah's statement,
+
+إِلَّا أُمَمٌ أَمْثَالُكُم مَّا فَرَّطْنَا فِي الْكِتَابِ مِن شَيْءٍ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ
+
+(but are Umam like you. We have neglected nothing in the Book, then unto their Lord they (all) shall be gathered.)
+
+"All creatures will be gathered on the Day of Resurrection, the beasts, birds and all others. Allah's justice will be so perfect, that the un-horned sheep will receive retribution from the horned sheep. Allah will then command them, 'Be dust!' This is when the disbeliever will say,
+
+يَا لَيْتَنِي كُنتُ تُرَابًا
+
+("Woe to me! Would that I were dust!")" [78: 40]. And this was reported from the Prophet ﷺ in the Hadith about the Trumpet.
+
+The Disbelievers will be Deaf and Mute in Darkness
+
+Allah said,
+
+وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ
+
+(Those who reject Our Ayat are deaf and dumb in darkness.) due to their ignorance, little knowledge and minute comprehension. Their example is that of the deaf-mute who cannot hear nor speak, as well as being blinded by darkness. Therefore, how can such a person find guidance to the path or change the condition he is in? Allah said in other Ayat,
+
+مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ ذَهَبَ اللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَاتٍ لَّا يُبْصِرُونَ - صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ
+
+(Their parable is that of one who kindled a fire; then, when it illuminated all around him, Allah took away their light and left them in darkness. (So) they could not see. They are deaf, dumb, and blind, so they return not (to the right path))[2:17-18], and,
+
+أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُّجِّيٍّ يَغْشَاهُ مَوْجٌ مِّن فَوْقِهِ مَوْجٌ مِّن فَوْقِهِ سَحَابٌ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا وَمَن لَّمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِن نُّورٍ
+
+(Or like the darkness in a vast deep sea, overwhelmed with a great wave topped by a great wave, topped by dark clouds, darkness, one above another, if a man stretches out his hand, he can hardly see it! And he for whom Allah has not appointed light, for him there is no light.)[24:40] This is why Allah said here,
+
+مَن يَشَإِ اللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
+
+(Allah sends astray whom He wills and He guides on the straight path whom He wills.) for He does what He wills with His creatures.
+
+## Maarif ul Quran
+
+Commentary
+
+About the statement: فَإِنَّهُمْ لَا يُكَذِّبُونَكَ (it is not you they are belying, rather, it is the signs of Allah they are denying) in the first verse (33), there is a related event, reported in Tafsir Mazhari on the authority of a narration by As-Suddiy, according to which, once Akhnas ibn Shuraiq and Abu Jahl, two chiefs of the Quraysh tribe met together. Akhnas asked Abu Jahl: 0 Abul-Hikam, (In Arabia, Abu Jahl was called Abul-Hikam - 'man of wisdom' - but because of his hostility to Islam, he became known as Abu-Jahl - 'man of ignorance' ), you and me are alone here. There is no third person listening to us. Tell me about Muhammad ibn ` Abdulluh. Tell me what you really think about him. Is he telling the truth or is he not?
+
+Swearing by Allah, Abu Jahl said: No doubt, Muhammad is true. He has never lied all his life. But, the problem is that the thought, that only a single branch of the tribe of Quraysh, the Banu Qusayy, is going to become the repository of all sorts of virtues and perfections while the rest of the tribe remains totally deprived, is something that we cannot take. It is too much. They have the flag in their hands. They have the important duty of providing water for the Hajj pilgrims in their hands. They are the custodians of the Ka'bah; its keys are in their hands. Now, if we are to accept that the station of prophethood also belongs to them, what the rest of the Quraysh will be left with?
+
+According to another narration reported from Najiyah ibn Ka'b, once Abu Jahl himself told the Holy Prophet ﷺ . We do not suspect you of lying nor do we belie you, but we do belie the Book or Religion which you have come up with. (Mazhari)
+
+Based on these narrations of Hadith, the verse can be taken in its real sense, that is, 'these disbelievers do not belie you, rather, they be-lie the signs of Allah.' And this verse could also be taken in the sense that these disbelievers, though belie you obviously but, in reality, the outcome of belying you is itself the belying of Allah and His signs - as it appears in Hadith, that the Holy Prophet ﷺ said: Whoever causes pain to me is liable to be judged as causing pain to Allah.
+
+## Personal Reflections

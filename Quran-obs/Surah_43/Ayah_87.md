@@ -1,0 +1,187 @@
+---
+arabic_ayat: "وَلَٮِٕنۡ سَاَلۡـتَهُمۡ مَّنۡ خَلَقَهُمۡ لَيَقُوۡلُنَّ اللّٰهُ​ فَاَنّٰى\
+  \ يُؤۡفَكُوۡنَۙ‏ \uFEFF\uFEFF"
+sentence_translation: If you ask them ˹O Prophet˺ who created them, they will certainly
+  say, “Allah!” How can they then be deluded ˹from the truth˺?
+word_by_word:
+  1:
+    arabic: وَلَٮِٕنۡ
+    translation: And if
+    transliteration: wala-in
+  2:
+    arabic: سَاَلۡـتَهُمۡ
+    translation: you ask them
+    transliteration: sa-altahum
+  3:
+    arabic: مَّنۡ
+    translation: who
+    transliteration: man
+  4:
+    arabic: خَلَقَهُمۡ
+    translation: created them
+    transliteration: khalaqahum
+  5:
+    arabic: لَيَقُوۡلُنَّ
+    translation: they will certainly say
+    transliteration: layaqūlunna
+  6:
+    arabic: اللّٰهُ​
+    translation: Allah
+    transliteration: l-lahu
+  7:
+    arabic: فَاَنّٰى
+    translation: Then how
+    transliteration: fa-annā
+  8:
+    arabic: "يُؤۡفَكُوۡنَۙ‏ \uFEFF\uFEFF"
+    translation: are they deluded
+    transliteration: yu'fakūna
+---
+
+## Context
+
+To understand **The Ornaments of Gold** (Az-Zukhruf) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation It could not be known from any authentic tradition, but a study of its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Say: "If the Most Gracious had a son, then I am the first of the worshippers. I would have been the first to worship - 43:81) It does not mean that, God forbid, there is any possibility of Rahman (Allah) having offspring.
+
+## Tafsir Ibn Kathir
+
+Say: "If the Most Gracious had a son, then I am the first of the worshippers. (81)Glorified is the Lord of the heavens and the earth, the Lord of the Throne! Exalted be He from all that they ascribe (to Him)(82)So leave them (alone) to speak nonsense and play until they meet the Day of theirs which they have been promised (83)It is He Who is the only God in the heaven and the only God on the earth. And He is the All-Wise, the All-Knower (84)And Blessed be He to Whom belongs the kingdom of the heavens and the earth, and all that is between them, and with Whom is the knowledge of the Hour, and to Whom you (all) will be returned (85)And those whom they invoke instead of Him have no power of intercession – except for those who bear witness to the truth knowingly, and they know (86)And if you ask them who created them, they will surely say: "Allah." How then are they turned away (87)And his saying: "O my Lord! Verily, these are a people who believe not! (88)So turn away from them, and say: Salam (peace!) But they will come to know (89)
+
+Allah has no Offspring
+
+Allah says:
+
+قُلْ
+
+(Say) – 'O Muhammad' –
+
+إِنْ كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ
+
+(If the Most Gracious had a son, then I am the first of the worshippers.) meaning, 'if this were so, then I would worship Him on that basis, because I am one of His servants; I obey all that He commands me and I am not too arrogant or proud to worship Him.' This conditional phrase does not mean that what is described could happen nor that is possible as Allah says:
+
+لَوْ أَرَادَ اللَّهُ أَنْ يَتَّخِذَ وَلَدًا لَاصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَاءُ ۚ سُبْحَانَهُ ۖ هُوَ اللَّهُ الْوَاحِدُ الْقَهَّارُ
+
+(Had Allah willed to take a son, He could have chosen whom He willed out of those whom He created. But glory be to Him! He is Allah, the One, the Irresistible.)(39:4). Allah says here:
+
+سُبْحَانَ رَبِّ السَّمَاوَاتِ وَالْأَرْضِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ
+
+(Glorified is the Lord of the heavens and the earth, the Lord of the Throne! Exalted be He from all that they ascribe (to Him).) meaning, exalted and sanctified and glorified be the Creator of all things far above having any offspring, for He is Unique, One and Eternally Self-Sufficient. There is none equal to Him or like Him, and He does not have any offspring.
+
+فَذَرْهُمْ يَخُوضُوا
+
+(So leave them (alone) to speak nonsense) means, in their ignorance and misguidance,
+
+وَيَلْعَبُوا
+
+(and play) in their world,
+
+حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ
+
+(until they meet the Day of theirs which they have been promised.) which is the Day of Resurrection, i.e., then they will come to know what their end and destination will be on that Day.
+
+The Uniqueness of the Lord
+
+وَهُوَ الَّذِي فِي السَّمَاءِ إِلَٰهٌ وَفِي الْأَرْضِ إِلَٰهٌ ۚ
+
+(It is He Who is the only God in the heaven and the only God on the earth.) means, He is the God of those who are in the heavens and the God of those who are on earth; all of them worship Him and are humbled before Him.
+
+وَهُوَ الْحَكِيمُ الْعَلِيمُ
+
+(And He is the All-Wise, the All-Knower.) This Ayah is like the Ayah:
+
+وَهُوَ اللَّهُ فِي السَّمَاوَاتِ وَفِي الْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ
+
+(And He is Allah in the heavens and on the earth; He knows what you conceal and what you reveal, and He knows what you earn.)(6:3) which means, He is the One who is called Allah in the heavens and on the earth.
+
+وَتَبَارَكَ الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا
+
+(And Blessed be He to Whom belongs the kingdom of the heavens and the earth, and all that is between them,) means, He is their Creator and Sovereign, the One Who is controlling them with none to resist or oppose His rule. Blessed and exalted be He far above the notion of His having a child. He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
+
+وَعِنْدَهُ عِلْمُ السَّاعَةِ
+
+(and with Whom is the knowledge of the Hour,) means, no one knows when it will happen except Him.
+
+وَإِلَيْهِ تُرْجَعُونَ
+
+(and to Whom you (all) will be returned.) means, and each person will be requited for his deeds; if they are good, then he will be rewarded, and if they are bad, then he will be punished.
+
+The Idols have no Power of Intercession
+
+وَلَا يَمْلِكُ الَّذِينَ يَدْعُونَ مِنْ دُونِهِ
+
+(And those whom they invoke instead of Him have no power) means, the idols and false gods.
+
+الشَّفَاعَةَ
+
+(of intercession) means, they are not able to intercede for them.
+
+إِلَّا مَنْ شَهِدَ بِالْحَقِّ وَهُمْ يَعْلَمُونَ
+
+(except for those who bear witness to the truth knowingly, and they know.) This means, but the one who bears witness to the truth has knowledge and insight, so his intercession with Allah will avail, by His leave.
+
+The Idolators admit that Allah Alone is the Creator
+
+وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ
+
+(And if you ask them who created them, they will surely say: "Allah." How then are they turned away?) means, 'if you ask these idolators who associate others in worship with Allah,'
+
+مَنْ خَلَقَهُمْ لَيَقُولُنَّ اللَّهُ
+
+(who created them, they will surely say: "Allah.") means, they will admit that He Alone is the Creator of all things and He has no partner in that. Yet despite that they still worship others alongside Him who have nothing and are able to do nothing. This is the utmost foolishness and stupidity. Allah says:
+
+فَأَنَّىٰ يُؤْفَكُونَ
+
+(How then are they turned away?)
+
+The Prophet's Complaint to Allah
+
+وَقِيلِهِ يَا رَبِّ إِنَّ هَٰؤُلَاءِ قَوْمٌ لَا يُؤْمِنُونَ
+
+(And his saying: "O my Lord! Verily, these are a people who believe not!") means, Muhammad ﷺ said this; he complained to his Lord about his people who did not believe in him, and said, 'O Lord, these people do not believe.' This is like the Ayah:
+
+وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوْمِي اتَّخَذُوا هَٰذَا الْقُرْآنَ مَهْجُورًا
+
+(And the Messenger will say: "O my Lord! Verily, my people deserted this Qur'an.")(25:30). This is the view of Ibn Mas'ud, may Allah be pleased with him, Mujahid and Qatadah, and this is how Ibn Jarir interpreted it. Al-Bukhari said: "'Abdullah – meaning Ibn Mas'ud, may Allah be pleased with him – recited (Ayah 88 of Az-Zukhruf):
+
+(وَقَالَ الرَّسُولُ ياربِّ)
+
+(And the Messenger will say: "O my Lord!") Mujahid said concerning the Ayah:
+
+وَقِيلِهِ يَا رَبِّ إِنَّ هَٰؤُلَاءِ قَوْمٌ لَا يُؤْمِنُونَ
+
+(And his saying: "O my Lord! Verily, these are a people who believe not!") "Allah is stating what Muhammad said." Qatadah said, "These are the words of your Prophet ﷺ, when he complained about his people to his Lord."
+
+فَاصْفَحْ عَنْهُمْ
+
+(So turn away from them,) means, from the idolators.
+
+وَقُلْ سَلَامٌ
+
+(and say Salam (peace!)) means, 'do not respond to them in the same evil manner in which they address you; but try to soften their hearts and forgive them in word and deed.'
+
+فَسَوْفَ يَعْلَمُونَ
+
+(But they will come to know.) This is a warning from Allah for them. His punishment, which cannot be warded off, struck them, and His religion and His word was supreme. Subsequently Jihad and striving were prescribed until the people entered the religion of Allah in crowds, and Islam spread throughout the east and the west.
+
+And Allah knows best. This is the end of the Tafsir of Surat Az-Zukhruf.
+
+## Maarif ul Quran
+
+Commentary
+
+قُلْ إِن كَانَ لِلرَّ‌حْمَـٰنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ (Had there been a son for the Rahman,
+
+I would have been the first to worship - 43:81) It does not mean that, God forbid, there is any possibility of Rahman (Allah) having offspring. What is really being said is that the Holy Prophet t is not denying your beliefs due to enmity or obstinacy, but because they are illogical. If precise logical arguments could prove the existence of offspring of Allah, he would certainly have accepted it. But every intellectual argument contradicts this possibility, and therefore there is no question of accepting it. This tells us that it is lawful, rather desirable, to declare during a debate with erring people that if their claim had been proved by strong arguments, it would have been accepted, because such a manner of speech may sometimes soften the heart of the opponent and may persuade him to accept the truth.
+
+## Personal Reflections

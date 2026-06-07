@@ -1,0 +1,421 @@
+---
+arabic_ayat: اُدۡعُ اِلٰى سَبِيۡلِ رَبِّكَ بِالۡحِكۡمَةِ وَالۡمَوۡعِظَةِ الۡحَسَنَةِ​
+  وَجَادِلۡهُمۡ بِالَّتِىۡ هِىَ اَحۡسَنُ​ؕ اِنَّ رَبَّكَ هُوَ اَعۡلَمُ بِمَنۡ ضَلَّ
+  عَنۡ سَبِيۡلِهٖ​ وَهُوَ اَعۡلَمُ بِالۡمُهۡتَدِيۡنَ‏
+sentence_translation: Invite ˹all˺ to the Way of your Lord with wisdom and kind advice,
+  and only debate with them in the best manner. Surely your Lord ˹alone˺ knows best
+  who has strayed from His Way and who is ˹rightly˺ guided.
+word_by_word:
+  1:
+    arabic: اُدۡعُ
+    translation: Call
+    transliteration: ud'ʿu
+  2:
+    arabic: اِلٰى
+    translation: to
+    transliteration: ilā
+  3:
+    arabic: سَبِيۡلِ
+    translation: (the) way
+    transliteration: sabīli
+  4:
+    arabic: رَبِّكَ
+    translation: (of) your Lord
+    transliteration: rabbika
+  5:
+    arabic: بِالۡحِكۡمَةِ
+    translation: with the wisdom
+    transliteration: bil-ḥik'mati
+  6:
+    arabic: وَالۡمَوۡعِظَةِ
+    translation: and the instruction
+    transliteration: wal-mawʿiẓati
+  7:
+    arabic: الۡحَسَنَةِ​
+    translation: the good
+    transliteration: l-ḥasanati
+  8:
+    arabic: وَجَادِلۡهُمۡ
+    translation: and discuss with them
+    transliteration: wajādil'hum
+  9:
+    arabic: بِالَّتِىۡ
+    translation: in that
+    transliteration: bi-allatī
+  10:
+    arabic: هِىَ
+    translation: which
+    transliteration: hiya
+  11:
+    arabic: اَحۡسَنُ​ؕ
+    translation: (is) best
+    transliteration: aḥsanu
+  12:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  13:
+    arabic: رَبَّكَ
+    translation: your Lord
+    transliteration: rabbaka
+  14:
+    arabic: هُوَ
+    translation: He
+    transliteration: huwa
+  15:
+    arabic: اَعۡلَمُ
+    translation: (is) most knowing
+    transliteration: aʿlamu
+  16:
+    arabic: بِمَنۡ
+    translation: of who
+    transliteration: biman
+  17:
+    arabic: ضَلَّ
+    translation: has strayed
+    transliteration: ḍalla
+  18:
+    arabic: عَنۡ
+    translation: from
+    transliteration: ʿan
+  19:
+    arabic: سَبِيۡلِهٖ​
+    translation: His way
+    transliteration: sabīlihi
+  20:
+    arabic: وَهُوَ
+    translation: And He
+    transliteration: wahuwa
+  21:
+    arabic: اَعۡلَمُ
+    translation: (is) most knowing
+    transliteration: aʿlamu
+  22:
+    arabic: بِالۡمُهۡتَدِيۡنَ‏
+    translation: of the guided ones
+    transliteration: bil-muh'tadīna
+---
+
+## Context
+
+To understand **The Bee** (An-Nahl) 125, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Allah commands His Messenger Muhammad ﷺ to invite the people to Allah with Hikmah (wisdom). Ibn Jarir said: "That is what was revealed to him from the Book and the Sunnah."
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Invite to the way of your Lord with wisdom and fair preaching, and argue with them with that which is best. In the previous verses, by attesting to the veracity of the Holy Prophet ﷺ as prophet and messenger of Allah, the purpose was to induce his people to follow what he commanded them with and thus do their bounden duty towards their Divinely ordained rasul.
+
+## Tafsir Ibn Kathir
+
+Invite to the way of your Lord with wisdom and fair preaching, and argue with them with that which is best. Truly, your Lord best knows who has strayed from His path, and He best knows those who are guided (125)
+
+The Command to invite people to Allah with Wisdom and Good Preaching
+
+Allah commands His Messenger Muhammad ﷺ to invite the people to Allah with Hikmah (wisdom). Ibn Jarir said: "That is what was revealed to him from the Book and the Sunnah."
+
+وَالْمَوْعِظَةِ الْحَسَنَةِ
+
+(and fair preaching) meaning, with exhortation and stories of the events that happened to people that are mentioned in the Qur'an, which he is to tell them about in order to warn them of the punishment of Allah.
+
+وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ
+
+(and argue with them with that which is best.) meaning, if any of them want to debate and argue, then let that be in the best manner, with kindness, gentleness and good speech, as Allah says elsewhere:
+
+وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ
+
+(And do not argue with the People of the Book, unless it be with that which is best, except for those who purposefully do wrong.)[29:46] Allah commanded him to speak gently, as He commanded Musa and Harun to do when he sent them to Pharaoh, as He said:
+
+فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ
+
+(And speak to him mildly, perhaps he may accept admonition or fear (Allah))(20:44).
+
+إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ
+
+(Truly, your Lord best knows who has strayed from His path,) meaning, Allah already knows who is doomed (destined for Hell) and who is blessed (destined for Paradise). This has already been written with Him and the matter is finished, so call them to Allah, but do not exhaust yourself with regret over those who go astray, for it is not your task to guide them. You are just a warner, and all you have to do is convey the Message, and it is He Who will bring them to account.
+
+إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ
+
+(You cannot guide whom you love)[28:56]
+
+لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ
+
+(It is not up to you to guide them, but Allah guides whom He wills.)(2:272)
+
+## Maarif ul Quran
+
+Sequence of Verses
+
+In the previous verses, by attesting to the veracity of the Holy Prophet ﷺ as prophet and messenger of Allah, the purpose was to induce his people to follow what he commanded them with and thus do their bounden duty towards their Divinely ordained rasul. In the verses cited above, the Holy Prophet ﷺ himself is being taught how to fulfill the rights of his mission as a messenger of Allah and how to observe the related etiquette as due - the generality of which includes and covers all true believers.
+
+Commentary
+
+Da'wah and Tabligh: Principles and Curriculum
+
+Embedded in this verse (125) there lies a whole curriculum of Da'wah and Tabligh, its principles and rules of etiquette, within the frame of a few words. As in Tafsir al-Qurtubi, when Haram ibn Hayyan's (رح) time of death came near, his relatives asked him for some wasiyyah (order, parting advice, will). In reply, he said, "Wasiyyah? That people make for مَال mal (wealth, property, inheritance), which I do not have. But, I would still make a wasiyyah, that of the ayat of Allah, particularly that of the last verses of Surah an-Nahl - and I order you to stand firm on them." The verses mentioned here are the same as appear above.
+
+Literally, دَعوَہ : da'wah, means to call. The first duty of the blessed prophets is to call people towards Allah. After that, what they teach as prophets and messengers are explanations of this Da'wah. The Qur’ an mentioning a special attribute of the Holy Prophet ﷺ has called him: (one who invites people towards Allah):
+
+وَدَاعِيًا إِلَى اللَّـهِ بِإِذْنِهِ وَسِرَ‌اجًا مُّنِيرً‌ا
+
+And one who invites towards Allah with His permission whilst being a lamp, lighted. (al-Ahz, 33:46)
+
+يَا قَوْمَنَا أَجِيبُوا دَاعِيَ اللَّـهِ
+
+O our people, respond to the Caller of Allah (Prophet Muhammad ). (al-Ahgaf, 46:31)
+
+Calling people towards Allah دَعوَۃ اِلی اللہ : da'wah ilal-lah) has been made obligatory on the Muslim Ummah following in the footsteps of the Holy Prophet ﷺ . It was said in Surah 'Al-` Imran:
+
+وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ‌ وَيَأْمُرُ‌ونَ بِالْمَعْرُ‌وفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ‌
+
+And there has to be a group of people from among you who call towards the good... (3:104)
+
+And in another verse, it was said:
+
+وَمَنْ أَحْسَنُ قَوْلًا مِّمَّن دَعَا إِلَى اللَّـهِ
+
+And who is better in utterance than the one who called (people) towards Allah. (Ha Mim as-Sajdah/Fussilat, 41:33)
+
+While expressing the general sense, this word may take several forms, such as: دَعوَۃ اِلی اللہ (da'wah ilal-lah: Calling towards Allah), دَعوَۃ اِلی الخَیر (da'wah ila al-khair: Calling toward the good) and دَعوَۃ اِلی سَبِیلِ اللہ (da'wah ila sabilillah: Calling towards the way of Allah). However, the outcome is the same because calling towards Allah is actually calling towards His دین din and the Straight Path.
+
+The next phrase:إِلَىٰ سَبِيلِ رَ‌بِّكَ (ila sabili rabbik: to the way of your Lord) carries two nuances of expression. Here, by mentioning the special attribute of the Most Exalted Allah ۔ رَبّ 'Rabb' - and then by annexing it to the Holy Prophet ﷺ ، a hint has been given that the work of Da'wah is connected with the attribute of nurture, raising, training and education. Here, it is being suggested to the Holy Prophet ﷺ that the way Allah Ta` ala has nurtured him, he too should invite people using the mores of nurture and education. It should be a Da'wah in which due consideration is given to the nature and attending circumstances of the addressee and the ultimate approach has to be such as would not weigh heavy on the recipient, rather, should be as effective as is possible. The word: adz (da'wah) itself imparts this sense in that the mission of a prophet is not simply limited to conveying the injunctions of Allah and making people hear them. Instead, his mission is to invite people to implement these in their lives. And it is obvious that no one inviting someone to Allah would present his submission in a manner which causes distraction and aversion or in which the addressee has been maligned or mocked at.
+
+The expression: بِالْحِكْمَةِ (bil-hikmah: with wisdom) which follows immediately has been used in the Holy Qur'an for several meanings. At this place, some Tafsir authorities have taken: الْحِكْمَةِ (al-hikmah) to mean the Holy Qur’ an, some others explain it as the Qur'an and Sun-nah, still others call it the binding argument while Ruh al-Ma` ani has given the following Tafsir of 'al-hikmah' with reference to al-Bahr al-Muhit:
+
+انھا الکلام الصواب الواقع من النفس اجمل موقع
+
+It is sound speech which goes into one's heart. (Ru , al-Ma` ani)
+
+This Tafsir assimilates all above views. The author of Ruh al-Bayan has also carried almost the same sense in the following words:
+
+"Al-Hikmah means the insight through which one finds out the dictates of circumstances and talks as appropriate relatively, chooses such time and occasion as would not put a burden on the addressee, employs lenience where lenience is called for and firmness where firmness is in order. And where he thinks the addressee would be embarrassed by saying something frankly, there he should use hints to communicate, or employ a change of subject and approach in a way that neither embarrasses the addressee nor feeds him with the thought of sticking by his prejudice."
+
+The next word: الْمَوْعِظَةِ (al-maw` izah) or: وَعظ (wa’ z) literally means to say something in the spirit of wishing well in a manner that would make the heart of the addressee softened and arable, all tuned to accept it. Once this is done, it will be useful to talk about the reward and benefit of such acceptance, as well as, about the punishment and ill-effects of not accepting it. (Al-Qamus and a1-Mufradat of Raghib al-Isfahan)
+
+Later, by saying: الْحَسَنَةِ (al-hasanah: good), the sense conveyed is that the subject and treatment of this counsel should be such as would satisfy the heart of the addressee, removing doubts and apprehensions whereby the addressee comes to realize that you have no personal motive behind your approach and that you are addressing him only in the interest of the addressee and for his or her good.
+
+We may stay with the word: الْمَوْعِظَةِ (al-maw’ izah: counsel) for a while and say that it had already made it clear that this wishing well has to be in an effective manner. But, experience bears out that sometimes while wishing well for someone, the approach could become hurtful or insulting for the addressee. (Ruh al-Ma’ ani). In order that people would leave this kind of approach, the word: الْحَسَنَةِ (al-hasanah: good) was added.
+
+The word: جَادِلْ (jadil: argue) in the subsequent sentence: وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ (And are with them in the best of manners) has been derived from: مُجَادِلہ (mujadala). At this place, it means argumentation and debate and: بِالَّتِي هِيَ أَحْسَنُ (And argue with them in the best of manners) means that should there be, in the process of Da'wah, the need to engage in debate or exchange of arguments, then, that discussion should also be in the best of manners. It appears in Ruh al-Ma` ani that good manners require a gentle and soft approach in mutual submissions, arguments have to be such as would be easily understood by the addressee, arguments have to be supported by known premises so that they help remove the doubts of the addressee and shields him against falling into dogmatism. And there are other verses of the Qur’ an which bear witness to the fact that this approach of showing good manners in debate (al-ilhsan fi al-mujadalah) is not restricted to Muslims alone. About the people of the Book (Jews and Christians), the Qur’ an particularly says:
+
+وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ
+
+And do not are with the People of the Book except in a manner which is the best. (al ` Ankabut, 29:46)
+
+And in another verse, by giving the instruction of: قُولَا لَهُ قَوْلًا لَّيِّنًا (speak to him in gentle words ('Ta-Ha, 20:44) to Sayyidna Musa and Harun (علیہما السلام) ، it was also stressed that this was how they have to deal even with as rebellious an infidel as the Pharaoh.
+
+Da'wah: Principles and Etiquette
+
+To sum up, three things have been mentioned in verse 125 as necessary for Da'wah:
+
+1. Al-Hikmah (Wisdom)
+
+2. Al-Maw` izah al-Hasanah (Good Counsel)
+
+3. Al-Mujadalah - 'billati hiya alhsan' (Debate in the Best of Manners)
+
+Some commentators have said that these things are there because of three kinds of addressees. Inviting with wisdom is for people of knowledge and understanding. Inviting with good counsel is for common people. Argument and debate are for those who nurse doubts in their hearts, or simply refuse to accept anything said to them because of hostility and obstinacy.
+
+My mentor and master, Maulana Ashraf Thanavi (رح) has said in his Tafsir Bayan al-Qur’ an that it is far out to deduce from the context of the verse that the addressees of these three things are groups of three different kinds, separate from each other.
+
+In the light of the above what seems to be obvious here is that these rules of etiquette in Da'wah are to be used for everyone. The first thing to do in Da'wah is to wisely assess conditions surrounding the addressee and pick out the most appropriate thing to say in those terms. Then, what has to be said will certainly be said as a well-wisher, however, this empathy has to be strengthened by such evidences and proof as would satisfy the addressee. And the subject matter and the manner of presentation has to be kept soft and affectionate so that the addressee becomes certain about whatever is being said and starts feeling that this person is saying it in his interest and for his benefit, and that the speaker's purpose is not to embarrass him or belittle his status.
+
+However, the author of Ruh al-Ma'ani has made a subtle point at this place. According to him, the arrangement of the verse shows that there are really no more than two things in Da'wah: (1) Al-Hikmah (Wisdom) and (2) Al-Maw` izah (Good Counsel). The third thing: Al-Mujadalah (Argument, Debate) is just not included under the Principles of Da'wah. But, it can be conceded that it does come out handy once in a while in the path of Da'wah.
+
+The author of Ruh al-Ma` ani proves his point by saying: If these three things were to be the Principles of Da'wah, the exigency of the situation required that all three should have been enumerated with the help of conjunctions as: بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ وَالجِدَال الاَحسَن But, the Holy Qu'ran has elected to say al-Hikmah (Wisdom) and al-Maw` izah (Good Counsel) with conjunctive words in one single arrangement while, for al-Mujadalah, it has chosen to have a separate sentence: جَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ (And argue with them in the best of manners). This tells us that argument in matters of knowledge is not a basic element or condition of the Call to Allah (da'wah ilal-lah). Instead, it is an instruction concerning matters that come up in the path of Da'wah - an example of which appears in the next verse where patience has been enjoined because it is inevitable to observe patience over pains inflicted by people while in the path of Da'wah.
+
+In short, there are two principles of Da'wah - (1) Al-Hikmah (Wisdom) and (2) Al-Maw'izah (Good Counsel). No Da'wah - whether to the learned and the classes or to the masses of people - should remain with-out these two factors. However, one has to face the kind of people who are neck-deep into doubts and superstitions and more than ready to start a debate with the دَاعِی Da` i (the man of Da'wah), it is to meet such situations that a go ahead signal to engage in the exercise of Al-Mujadalah (argument, debate) has been given. But, by imposing the restriction of: بِالَّتِي هِيَ أَحْسَنُ (in the best of manners) along with it, it was made very clear that the Mujadalah devoid of this condition has no place and status in the Shari’ ah.
+
+The Prophetic Etiquette of Da'wah
+
+Inviting people towards Allah is, in fact, the mission and station of the blessed prophets, may peace be upon them all. The rightly-guided ` Ulama' of the Muslim community carry out this mission in their capacity of being their deputies. So, it is incumbent on them that they should learn its etiquette and methodology from them alone. A da'wah that does not follow those methods faithfully does not remain what da` wah really is. Instead, it turns into عَداوۃ ` adawah (enmity) and becomes the cause of subsequent confrontations and wars.
+
+An instruction of the Holy Qur'an given to Sayyidna Musa and Harun (علیہما السلام) in Surah Ta-Ha illustrates the principle observed by prophets in their Call: فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ‌ أَوْ يَخْشَىٰ (Speak to him in gentle words, maybe he takes to the advice or fears - 20:44). This is a principle no Caller to Truth دَاعِی الی الحق (da i ila al-Haqq) should ever lose sight of. Let him al-ways bear in mind that the Pharaoh was an infidel (kafir) known for his rebellion, one whose death was to come, as in ultimate Divine knowledge, while he was still a kafir. Now, when Allah Ta’ ala sends his man of the Call even to a disbelieving tyrant like the Pharaoh, He sends him with the instruction of talking to him gently. Today, the people we invite to Allah, to His Faith, they are not more astray than the Pharaoh. Then, none of us can claim to match Sayyidna Musa and Harun (علیہما السلام) as great guides and callers to the way of Allah. So, the right that Allah did not give to the two of his prophets - that they hurl hard talk on the addressee, throw taunts at him and insult him - where in the world did we get that right from?
+
+The Holy Qur’ an is full of the Da'wah and Tabligh of the noble prophets (علیہم السلام) and the contestations of disbelievers. Nowhere in there, we find that any messenger of Allah has ever responded with a single unpleasant word against those who threw taunts at them despite their being on the side of the Truth. Let us have a look at some relevant examples.
+
+The words spoken by two prophets, Sayyidna Nuh and Sayyidna Hud (علیہما السلام) in response to the confrontation and sharp accusations of their people are worth noticing. These can be seen in the seventh section of Surah al-A' raf from verses 59 to 67.
+
+Sayyidna Nuh (علیہ السلام) is the great prophet known for his high determination and long blessed years in this world. For nine hundred and fifty years he devoted his life to Da'wah, Tabligh, Reform and Enlightenment among his people. But, with the exception of a few, no one from among his people listened to him. Leave the rest, even his son and wife remained on the side of disbelievers. Had a modern day Reformer been in his place, imagine how he would have talked to such a people! Just imagine and then see what those people said in response to his Call in their interest and for their benefit. They said: إِنَّا لَنَرَ‌اكَ فِي ضَلَالٍ مُّبِينٍ "Indeed we see you in an obvious error" - al-A` raf, 7:60.
+
+On the other side, there is a prophet of Allah. He skips the option of chastizing his evil and contumacious people and this is what he elects to say:
+
+يَا قَوْمِ لَيْسَ بِي ضَلَالَةٌ وَلَـٰكِنِّي رَ‌سُولٌ مِّن رَّ‌بِّ الْعَالَمِينَ
+
+"O my people, there is no error in me, but I am a messenger from the Lord of the worlds" [ telling you what is good for you ] - al-A` raf, 7:61.
+
+The other messenger of Allah who came after him was Sayyidna Hud (علیہ السلام) . His people, despite having seen the messenger's miracles, chose to remain hostile. They said, "you have yet to come up with a proof for your claim and we are not the kind of people who would abandon their objects of worship (idols) just because you say so. The fact is that you have been irreverent in respect of our idols and that is why you have gone crazy."
+
+Having heard all this, Sayyidna Hud (علیہ السلام) responded by saying:
+
+قَالَ إِنِّي أُشْهِدُ اللَّـهَ وَاشْهَدُوا أَنِّي بَرِ‌يءٌ مِّمَّا تُشْرِ‌كُونَ
+
+"I make Allah my witness, and you witness that I have nothing to do with what you take as gods besides Him" - Hud, 11:54.
+
+And as in Surah al-A` raf, to him his people said:
+
+إِنَّا لَنَرَ‌اكَ فِي سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ
+
+"Indeed, we see you in foolishness, and we certainly believe you to be one of the liars" - 7:66.
+
+In response to these heart-rending words used against him by his people, the messenger of Allah, Sayyidna Hud, blessings and peace on him, does not even think of some sharp repartee, some derogatory counter comment, or say anything which would bring into focus their waywardness and their ugly penchant for attributing lies to Allah. He does nothing of that sort. Yet, he gives the answer and what an answer! He simply said:
+
+قَالَ يَا قَوْمِ لَيْسَ بِي سَفَاهَةٌ وَلَـٰكِنِّي رَ‌سُولٌ مِّن رَّ‌بِّ الْعَالَمِينَ
+
+"0 my people, there is no foolishness in me, but I am a messenger from the Lord of the worlds" - al-A` raf, 7:67.
+
+Sayyidna Shu'aib (علیہ السلام) ` invited his people to Allah in accordance with customary practice of prophets. They were addicted to the evil practice of weighing less and measuring short. When Sayyidna Shu'aib (علیہ السلام) asked them to refrain from it, his people made fun of him and asked him in biting contempt:
+
+قَالُوا يَا شُعَيْبُ أَصَلَاتُكَ تَأْمُرُ‌كَ أَن نَّتْرُ‌كَ مَا يَعْبُدُ آبَاؤُنَا أَوْ أَن نَّفْعَلَ فِي أَمْوَالِنَا مَا نَشَاءُ ۖ إِنَّكَ لَأَنتَ الْحَلِيمُ الرَّ‌شِيدُ
+
+They said, "0 Shu'aib, does your salah (prayer) command you that we should give up what our fathers used to worship or give up our free will in (spending) our wealth? You are provenly the man of wisdom and guidance" - Ind, 11:87.
+
+Here, they have said three things. They open with a taunt: This prayer that you make teaches you to do all those foolish things. Then they talk about their مَال mal - wealth, property, commercial interests: This is ours. We buy. We sell. at do you have to do with our financial matters? And for that matter, how does your God come into this? All this belongs to us and we have the right of spending it as we wish. The last sentence they say is loaded with black humour and angry sarcasm - you are certainly wise, guided-right!
+
+It seems as if the contemporary votaries of secular economy did not rise only in our time. They do have their forbears in the past whose theoretical assumptions were the same as is being dished out today by some Muslims carrying nothing but Muslim names. So, they would say that they were Muslims, they believed in Islam but when it comes to an economic order, they adopt socialism (or capitalism) for, as they would like to believe, this area is out of bounds for Islam.
+
+Returning to what his people said to Sayyidna Shu` aib (علیہ السلام) let us now see how the messenger of Allah responds to the sarcastic remarks made by his unjust people:
+
+قَالَ يَا قَوْمِ أَرَ‌أَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّ‌بِّي وَرَ‌زَقَنِي مِنْهُ رِ‌زْقًا حَسَنًا ۚ وَمَا أُرِ‌يدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَا أَنْهَاكُمْ عَنْهُ ۚ إِنْ أُرِ‌يدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ ۚ وَمَا تَوْفِيقِي إِلَّا بِاللَّـهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
+
+He said, "0 my people, tell me, if I am on a clear path from my Lord and He has provided me from Himself with a good provision, (should I still leave you unguided?) And I do not want to do in your absence what I prohibit for you. I want nothing but to set things right as far as I can. And what I am enabled to do is only with the help of Allah. In Him alone I have placed my trust and to Him alone I turn in humbleness" - Hud, 11:88
+
+Despite that Sayyidna Musa (علیہ السلام) ، when sent to the Pharaoh, had fully complied with the Divine instruction of talking to him gently, the response of the Pharaoh to Sayyidna Musa (علیہ السلام) came in the following words:
+
+قَالَ أَلَمْ نُرَ‌بِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِ‌كَ سِنِينَ ﴿18﴾ وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنتَ مِنَ الْكَافِرِ‌ينَ
+
+He said, " (You! ) Did we not raise you among us as a child, and you stayed among us for years of your life? And you did your deed which you did, and you were of the infidels " - ash-Shu` ara, 26:18, 19.
+
+Here, the Pharaoh has reminded Sayyidna Musa (علیہ السلام) of two favours done to him - that he raised him as a child and that he stayed with him for a number of years while older. Then he showed his displeasure over the incident in which a Copt got killed at the hands of Sayyidna Musa (علیہ السلام) ، though he had no intention of killing him. In his anger, he also said that he had become an infidel.
+
+At this place, the expression: اَنتَ مِنَ الکَافِرِینَ (anta min al-kafirin) could be taken in the literal sense, that is, one who is ungrateful, which would mean: we did favours to you and you killed one of our men, a demonstration of ungratefulness to favours done.' Then, it could also be given a technical meaning because the Pharaoh claimed to be god. So, whoever denied his godhead turned out to be a kafir (infidel).
+
+Now, at this juncture, let us hear the answer given by Sayyidna Musa (علیہ السلام) which is a masterpiece of prophetic manners and morals of Da'wah. Here, first of all, he goes ahead and makes a clean breast of what had happened to him. He had tried to disengage a Copt who was fighting an Israelite man. The punch he had employed to do that caused his death. So, this killing was not intentional. But, it was also not prompted by some religious exigency. In fact, even under the Law of Moses, that man was not deserving of being killed. Therefore, he began by confessing first and said:
+
+قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ
+
+I did it then, while I was of the astray (ignorant) " - ash-Shu` ara, 26:20.
+
+The sense is that the act had escaped him before he was blessed with the mission of a prophet and at a time when he was not aware of any Di-vine command about it. After that, he said:
+
+فَفَرَ‌رْ‌تُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَ‌بِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْ‌سَلِينَ
+
+"So I fled from you when I feared you. Then my Lord bestowed wisdom on me and made me of His messengers" - 26:21.
+
+After that, Sayyidna Musa (علیہ السلام) took up the reality of favours the Pharaoh was harping on. He told him that he was not right in doing that because this whole matter of bringing him up was the result of his own cruelty and oppression in that it was he who had a standing order in force, the order to kill Israelite children. His mother was, therefore, com-pelled to put him into the river until came the time when he reached his home. He said:
+
+وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَ‌ائِيلَ
+
+"And this is the favour you put on me - that you have enslaved the Children of Isra'il! - 26:22.
+
+After that, when the Pharaoh asked: وَمَا رَ‌بُّ الْعَالَمِينَ ("And what is the Lord of the worlds?" - 26:23), he replied by saying: رَ‌بُّ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَمَا بَيْنَهُمَا ("The Lord of the heavens and the earth and of whatever there is in between them" - 26:24). Thereupon, it was by way of mockery that the Pharaoh turned towards the audience and asked: ... أَلَا تَسْتَمِعُونَ ("Do you not hear?" - 26:25) [ meaning: You hear him, don't you? Hasn't he gone out of his mind?] Thereupon, Sayyidna Musa (علیہ السلام) added:
+
+رَ‌بُّكُمْ وَرَ‌بُّ آبَائِكُمُ الْأَوَّلِينَ
+
+"Your Lord and the Lord of your first forefathers" - 26:26
+
+Irritated, the Pharaoh said:
+
+إِنَّ رَ‌سُولَكُمُ الَّذِي أُرْ‌سِلَ إِلَيْكُمْ لَمَجْنُونٌ
+
+"Indeed, your messenger (who claims to have been) sent to you is a mad man" - 26:27.
+
+Even such a derogatory title given to Sayyidna Musa (علیہ السلام) did not lure him into a blow for blow response for he could have easily told the Pharaoh as to who was insane and who was sane. He just took no notice of it, in fact, went on to describe another attribute of Allah, the Lord of the worlds:
+
+رَ‌بُّ الْمَشْرِ‌قِ وَالْمَغْرِ‌بِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُمْ تَعْقِلُونَ
+
+"Lord of the East and the West and of whatever there is in between them, if you were to comprehend" -
+
+26:28.
+
+This is a lengthy dialogue taking place in the court of the Pharaoh between him and Sayyidna Musa (علیہ السلام) . It covers three sections of Surah ash-Shu` ara' (26). Look at this dialogue of Sayyidna Musa علیہ السلام from the beginning to the end. No emotions are betrayed here. No reply has been given to his bad words, nor is his hard talk matched by counter hard talk. Instead of all that, there is a continuous flow of statements to the effect of Allah Ta` ala's attributes of perfection along with the ongoing efforts of Tabligh.
+
+This is a brief sample of the confrontations in which the blessed prophets have stood up against their hostile and obstinate people. We can also say that it is a practical demonstration of 'arguing with the best of manners.'
+
+Besides argumentations, debates and intellectual confrontations when inevitable, models have been set by the blessed prophets in Da'wah and Tabligh on a standing basis. They have established wise principles in human communications as appropriate to different addressees and different occasions with the added considerations as dictated by wisdom or beneficial expediency. In short, the way and method put in practice by the blessed prophets in order to invite people to Allah (da'wah ilal-lah) and make it popular, effective and abiding as well is, in reality, the essence and spirit of Da'wah. As for its details, these are spread all over in the teachings of the Holy Prophet ﷺ . Let us have a look at some of these as representative samples.
+
+The Holy Prophet ﷺ was very particular about making sure that no burden is placed on the addressee whether in Da'wah and Tabligh or in good counsel and beneficial advice. As for the noble Sahabah, they held the Holy Prophet ﷺ very dear to their heart. About them, it could not be imagined that they would, God forbid, ever get bored with what he had to say. Yet, even for them, his customary practice was that he would not hold his teaching, counseling and advising sessions every day, rather limited it to some days of the week so that their occupation or business is not adversely affected or that it becomes some sort of burden on them.
+
+According to a narration of Sayyidna ` Abdullh ibn Masud ؓ reported in the Sahih of al-Bukhari, "The Holy Prophet ﷺ had his 'wa` z' sessions only on some days of the week lest we get bored - and he instructed others to do the same."
+
+Sayyidna Anas ؓ reports that the Holy Prophet ﷺ said:
+
+یَسِّرُو ولا تُعَسِّرُوا وَ بَزشِّر ‘ وا ولا تُنَفِّرُوا
+
+Make (things) easy and do not make (things) difficult and give (people) the good news (of mercy from Allah) and do not disappoint or alienate (them) - Sabih al Bukhari, Kitab al-` Ilm.
+
+Sayyidna ` Abdullah ibn ` Abbas ؓ says, 'you should become Rabbani, the people of your Rabb, people with wisdom, learning and law.' After reporting this saying in the Sahih al-Bukhari, the word: رَبَّانِی (Rabbani) has been explained as: A person who, keeping in sight the principles of Da'wah, Tabligh, education and training, starts with simple things first. When people get used to it, then he tells them about other imperatives which would have been difficult at the elementary stage. This person is a Divinely guided scholar (عَالِم رَبَّانِی). These days religious sermons and propagation efforts produce very little effect. The main reason is that workers in this field generally do not give due consideration to the principles and etiquette necessary in this area. Lengthy lectures, uncalled for sermonizings and insisting on people to do something without first finding out the conditions faced by the addressee have become their habit.
+
+When engaged in the mission of Invitation and Reformation, the Holy Prophet ﷺ made an extra effort to ensure that the addressee is not insulted or disgraced in any way. Therefore, when he would see someone involved with something bad or wrong, he would not address him directly. Instead, he used to beam his remarks at a public gathering, for example, he would say:
+
+مَا بَالُ اَقوَامِ یَّفعَلُونِ کَذَا
+
+What has happened to people that they do so?
+
+This used to be part of a public address. Naturally, the person who was supposed to hear it did hear it, was ashamed in his heart and went about getting rid of that drawback.
+
+It was the universal habit of noble prophets that they shielded the addressee from being embarrassed. Therefore, on occasions, they would attribute what was done by the addressee to their own selves and thus tried to set things right with their people. It appears in Surah Ya Sin: وَمَا لِيَ لَا أَعْبُدُ الَّذِي فَطَرَ‌نِي (What is the matter with me that I would not worship Him who created me? - 36:22). As for this emissary of the messenger, he was already devoted to his ` ibadah (worship) all the time as was his usual way. The purpose here was to make the addressee who was not so engaged hear the worth and value of turning to Allah in ` ibadah. But, as we see, he has attributed the shortcoming to his own person.
+
+And Da'wah means to call or bid someone to come close to the caller - definitely not to enumerate the person's shortcomings. Then, this act of calling can become effective only when there is some common ground between the caller and the called. For this reason, the Da'wah of the noble prophets علیہم السلام as in the Holy Qur'an mostly begins with the words: یا قومِ (ya qawmi: 0 my people) through which stress is placed first on the common factor of brotherly relations and then things aiming at their betterment are said. It amounts to saying - 'we are people of the same brotherhood, so let there be no hatred in between us' - and this is how they start the mission of reforming their society.
+
+In the letter of Da'wah sent by the Holy Prophet ﷺ to Hiraql, the Byzantine emperor, he began by calling the emperor: 'The Great Man of Byzantium.' This tribute of honour given to him was permissible because it contained a confession of the emperor's being great - though, for the people of Byzantine, not for him. After that, the manner in which the invitation to believe was given is being quoted below:
+
+يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّـهَ
+
+"0 people of the Book, come to a word common between us and you that we worship none but Allah" (as in Surah Al-` Imran, 3:64)
+
+Here, a common factor of unity was mentioned first. It was said that the belief in the Oneness of Allah (Tauhid) was the common bond between the two of them. After that came the reminder about the error of Christians.
+
+If we were to look into the teachings of the Holy Prophet ﷺ carefully, we will find similar rules of conduct in every field of Da'wah and public education. Unfortunately, in our time, we suffer from lack of concern for carrying the call to faith, working for the correction and betterment of people, bidding the Fair and forbidding the Unfair. Even those who are engaged in these pursuits have, (with valid exceptions) taken mere discussions, debates, accusations, name calling, berating and disgracing the adversary to be Da'wah and Tabligh. The truth of the matter is that all this, being contrary to the Sunnah, never turns out to be effective and beneficial - while these gentlemen continue to congratulate themselves for having done a great service to Islam. In reality, they are becoming the cause of making people scared of it.
+
+The Harmful Worldly and Other-Worldly Effects of Current Contestations
+
+We know from the Tafsir of the present verse (125) that the main objective of the Shari` ah of Islam is the Call to Allah (da'wah ilal-lah) which has two principles: (1) Al-Hikmah (Wisdom) and (2) Al-Maw` izah Al-Hasanah (Good Counsel). And if the unwelcome need of Al-Mujadalah (argument, debate, confrontation) stands imposed on some stray occasion, then, that too has been allowed with the restriction of being 'in the best of manners.' But, in reality, it is not a regular department of Da'wah. Instead, it is a via media to handle its negative aspect. The Holy Qur'an has resolved it by placing the restriction of: بِالَّتِي هِيَ أَحْسَنُ (in the best of manners). By doing so, it has told us that it should be in the best spirit of politeness, and with the attitude of a sympathizer and well-wisher. Argument should be formulated clearly as appropriate to the state of the addressee. Any approach which belittles or insults the addressee should be totally avoided. Similarly, for it to be the best, it is also necessary to be on guard lest it becomes harmful to the speaker him-self. In other words, it should not affect his morals adversely for there is the danger of his falling into envy, malice, arrogance, love for name, fame and power. These are major inward sins. In short, the kind of discussions, debates, polemics and confrontations we see today are such that it would take a very rare person, some man of Allah, to remain safe against their harmful effects, otherwise, it is extremely difficult to find refuge from it under normal circumstances.
+
+Imam al-Ghazali has said: The way liquor is 'the mother of evils' (umm-ul-khabaith) in that it is a grave sin by itself and also becomes the conduit of other grave sins. Similarly, when overpowering the addressee and demonstrating one's intellectual superiority over people becomes the objective, that too becomes 'the mother of evils' for one's inward state. As a result, many spiritual crimes crop up, for example: envy, malice, arrogance, backbiting, spying on the faults of others, being pleased with their discomfort and being unhappy with their gain, haughty rejection of Truth, the attitude of not considering the position of others with justice and moderation, instead, worrying about a rebuttal, no matter how askance their interpretations from the Qur’ an and Sunnah are.
+
+These are dangers. Even serious religious scholars are affected by them. But, the problem is compounded when the thing starts affecting their followers when the intellectual exercise could turn into a physical one in progressive proportions. Inna lillahi wa inna ilaihi rajiun. Imam Shafii, may the mercy of Allah be upon him, said:
+
+"Knowledge is a brotherhood of the learned. How do those who have turned knowledge into enmity could invite others to follow their religion? When their sole objective is to dominate over others, how could they be expected to practice mutual attachment, love and consideration? And for one what evil could be greater than that which drowns him in the morals of the hypocrites and deprives him of the morals of those who truly believe and fear Allah?"
+
+Imam al-Ghazali said that a person who devotes himself to the 'ilm of din and the da'wah of haqq revolves between two destinies. Either he, following correct principles and avoiding fatal dangers, achieves the eternal good; or, otherwise, if he falls down from this station, he slides into eternal misfortune. That he would remain hanging in between these two states is too far out to entertain - because, knowledge which is not beneficial is nothing but punishment. The Holy Prophet said:
+
+اَشدُّالنَّاسِ عَذَاباً یَّومَ القِیامۃِ عَالِمُ لَّم یَنفَعہُ اللہُ بِعِلمِہٖ
+
+On the day of Judgment, the person most severely punished, of all human beings, shall be an ` slim from whose knowledge A11ah has not given him any benefit.
+
+And in another Sahih Hadith, he said:
+
+فِی النَّارِ لا تَتَعَِلَّمُوا العِلمِ لِتُبَاھُوا بہِ العُلَمَآّء وَلِتُمِرُوا بہِ السُّفَھَآَء وَلِتَصرِفُوا بِہٖ وُجُوہَ النَّاس اِلَیکُم فَمَن فَعَلَ ذٰلِکَ فَھُوَ
+
+"Do not learn the 'Um (of din) to compete with the learned in pride and prestige nor to challenge the incompetent with it nor to make the faces of people turn towards you therewith. So whoever will do that, will be in the fire." (Ibn Majah, from the Hadith of Sayyidna Jabir with sound chains of authority as in Takhrij al-` Iraqi ` ala al-Ihya' )
+
+Therefore, the standing creed (maslak) of authorities among Muslim jurists and the people on Truth (haqq) in this matter was that they never considered disputation and confrontation in intellectual issues as permissible. In the mission of inviting people to the Truth, it is enough to alert anyone considered to be in error, politely and sympathetically as a well-wisher, presenting one's submission with necessary arguments. Then, should he accept, it is better. If otherwise, let him observe silence, totally avoiding altercation and adverse criticism. Let us turn to Imam Malik (رح) in this matter:
+
+کَانَ مَالِکُ عَّقُولُ المِرآُء وَالجدَالُ فِی العِلمِ یَذھبُ بنُورِ العِلم عَن قَلبِ العَبدِ – وَ قِیلَ لَہ : رَجُلۃ لَّہ عِلمُ بِالسُّنَّۃِ فَھَل یُجَادِلُ عَنھَا ؟ قَالَ : لَا وَلٰکِن یُّخبِرُ بِالسُّنَّۃِ فَاِن قُبِلَ مِنہُ وَ اِلَّا سکَتَ – (اوجچالمسالک شرح مؤطا ص 15)
+
+Imam Malik said: "Altercation and confrontation in al-` ilm (the knowledge of din) drives away the light of knowledge from the heart of a servant." Someone submitted: 'There is a person. who has the knowledge of Sunnah. Can he enter into debate for the protection of Sunnah?' He said, "No. But, he should inform the addressee about the Sunnah (as it is). Then, should he accept it, good - otherwise, let him observe silence." (Awjaz al-Masalik Sharb al-Muwatta, v. 1, page 15)
+
+Ineffectiveness of Contemporary Da'wah Work
+
+There are two reasons why the work of Da'wah (invitation) and Islah (reform) is not fully effective. (1) Firstly, because of the increase of corruption in our time and the abundance of حرام Haram things, hearts of people have become generally hard, and heedless of the Hereafter - and the very ability to accept truth has become weak and low. And there are some who find themselves suffering from the curse the foreboding of which was given by the Holy Prophet ﷺ . He had said that, by the later times, the hearts of many people will turn upside down, all reversed. The ability to know good from bad, and the distinction of permissible and impermissible will vanish from their heart.
+
+(2) Then, negligence towards the duties of bidding the Fair and forbidding the Unfair and inviting people to the true faith has become common. Not to say much about people at large, there is not much realization of its need even among the learned and the righteous. It is assumed that correcting one's own deed is just about enough whether their children, spouse, brother, friend remain smeared with all sorts of sins. The concern for their reform and betterment is as if no responsibility of theirs - although, the definite textual statements of the Holy Qur'an (nusus) are openly declaring that the betterment of one's children, family and relatives is his responsibility: قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارً‌ا (Protect yourselves and your families from a Fire... - at-Tabrim, 66/6). As for some people who do pay attention to this duty, they do not know the teachings of the Qur'an and the principles and manners of prophetic Da'wah. They take it easy, go by their impulse and say anything to anybody anytime without ever thinking about it. By doing so, they surmise, they have done their duty - although, this method of action, being contrary to the blessed practice of prophets, further alienates people from the Faith and from following its dictates.
+
+Of particular mention is the habit of finding faults with others, mocking at them or making fun of them all in the name of open criticism. Imam Shafi` i رحمۃ اللہ علیہ said:
+
+"When alerting someone to some mistake (the rule is:) If you talked to him privately, explained it politely, then, this is 'advice'; and if you disgraced him publicly, this is vice.”
+
+The publicizing of mutual defects has become so popular these days that negative advertising is being done as if it was some service rendered to the Faith. May Allah Ta'ala bless all of us the ability to serve our Faith with the best of insight into its Da'wah and its modalities.
+
+At this point ends our submission relating to Da'wah and its principles and etiquette.
+
+After that, we can move on to explain the last part of verse 125: إِنَّ رَ‌بَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ (Surely, your Lord knows best the one who strays from His way, and He knows best the ones who are on the right path). This statement has been made to comfort those who carry the Call of their Faith because one is naturally shocked when the addressee does not accept the truth presented despite that all rules of Da'wah have been observed. And there are occasions when this could produce another effect. When one sees no benefit coming out of Da'wah, he can become disappointed, even leave the work itself. Therefore, in this sentence, it was said:' Your duty is only to invite people to the Truth in accordance with its correct principles. Beyond that, its acceptance or rejection is something you have nothing to do with, nor is that one of your responsibilities. That falls in the domain of Allah alone. He knows who will remain astray and who will stand guided. You should not worry about it. Go on doing your duty. Do not lose hope. Do not despair.' This tells us that this sentence too is really a complement of the etiquette of Da'wah.
+
+## Personal Reflections

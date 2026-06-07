@@ -1,0 +1,313 @@
+---
+arabic_ayat: وَقَرۡنَ فِىۡ بُيُوۡتِكُنَّ وَلَا تَبَـرَّجۡنَ تَبَرُّجَ الۡجَاهِلِيَّةِ
+  الۡاُوۡلٰى وَاَقِمۡنَ الصَّلٰوةَ وَاٰتِيۡنَ الزَّكٰوةَ وَاَطِعۡنَ اللّٰهَ وَرَسُوۡلَهٗ
+  ؕ اِنَّمَا يُرِيۡدُ اللّٰهُ لِيُذۡهِبَ عَنۡكُمُ الرِّجۡسَ اَهۡلَ الۡبَيۡتِ وَيُطَهِّرَكُمۡ
+  تَطۡهِيۡرًا ۚ‏
+sentence_translation: Settle in your homes, and do not display yourselves as women
+  did in the days of ˹pre-Islamic˺ ignorance. Establish prayer, pay alms-tax, and
+  obey Allah and His Messenger. Allah only intends to keep ˹the causes of˺ evil away
+  from you and purify you completely, O  members of the ˹Prophet’s˺ family!
+word_by_word:
+  1:
+    arabic: وَقَرۡنَ
+    translation: And stay
+    transliteration: waqarna
+  2:
+    arabic: فِىۡ
+    translation: in
+    transliteration: fī
+  3:
+    arabic: بُيُوۡتِكُنَّ
+    translation: your houses
+    transliteration: buyūtikunna
+  4:
+    arabic: وَلَا
+    translation: and (do) not
+    transliteration: walā
+  5:
+    arabic: تَبَـرَّجۡنَ
+    translation: display yourselves
+    transliteration: tabarrajna
+  6:
+    arabic: تَبَرُّجَ
+    translation: (as was the) display
+    transliteration: tabarruja
+  7:
+    arabic: الۡجَاهِلِيَّةِ
+    translation: (of the times of) ignorance
+    transliteration: l-jāhiliyati
+  8:
+    arabic: الۡاُوۡلٰى
+    translation: the former
+    transliteration: l-ūlā
+  9:
+    arabic: وَاَقِمۡنَ
+    translation: And establish
+    transliteration: wa-aqim'na
+  10:
+    arabic: الصَّلٰوةَ
+    translation: the prayer
+    transliteration: l-ṣalata
+  11:
+    arabic: وَاٰتِيۡنَ
+    translation: and give
+    transliteration: waātīna
+  12:
+    arabic: الزَّكٰوةَ
+    translation: zakah
+    transliteration: l-zakata
+  13:
+    arabic: وَاَطِعۡنَ
+    translation: and obey
+    transliteration: wa-aṭiʿ'na
+  14:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  15:
+    arabic: وَرَسُوۡلَهٗ ؕ
+    translation: and His Messenger
+    transliteration: warasūlahu
+  16:
+    arabic: اِنَّمَا
+    translation: Only
+    transliteration: innamā
+  17:
+    arabic: يُرِيۡدُ
+    translation: Allah wishes
+    transliteration: yurīdu
+  18:
+    arabic: اللّٰهُ
+    translation: Allah wishes
+    transliteration: l-lahu
+  19:
+    arabic: لِيُذۡهِبَ
+    translation: to remove
+    transliteration: liyudh'hiba
+  20:
+    arabic: عَنۡكُمُ
+    translation: from you
+    transliteration: ʿankumu
+  21:
+    arabic: الرِّجۡسَ
+    translation: the impurity
+    transliteration: l-rij'sa
+  22:
+    arabic: اَهۡلَ
+    translation: (O) People
+    transliteration: ahla
+  23:
+    arabic: الۡبَيۡتِ
+    translation: (of) the House
+    transliteration: l-bayti
+  24:
+    arabic: وَيُطَهِّرَكُمۡ
+    translation: And to purify you
+    transliteration: wayuṭahhirakum
+  25:
+    arabic: تَطۡهِيۡرًا ۚ‏
+    translation: (with thorough) purification
+    transliteration: taṭhīran
+---
+
+## Context
+
+To understand **The Combined Forces** (Al-Ahzab) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his family (Ahl Al-Bayt) here, because they are the reason why this Ayah was revealed, and the scholars are unanimously agreed that they were the reason for revelation in this case, whether this was the only reason for revelation or there was also another reason, which is the correct view. Ibn Jarir recorded that 'Ikrimah used to call out in the marketplace:
+
+"It was revealed solely concerning the wives of the Prophet ﷺ." 'Ikrimah said: "Whoever disagrees with me that it was revealed solely concerning the wives of the Prophet ﷺ, I am prepared to meet with him and pray and invoke the curse of Allah upon those who are lying." So they alone were the reason for revelation, but others may be included by way of generalization.
+
+That historical lens is essential.
+
+## Tafsir Summary
+
+O wives of the Prophet! This concerns the observance of full hijab (purdah or veil).
+
+## Tafsir Ibn Kathir
+
+O wives of the Prophet! You are not like any other women. If you keep you have Taqwa, then be not soft in speech, lest he in whose heart is a disease should be moved with desire, but speak in an honorable manner (32)And stay in your houses, and do not Tabarruj yourselves like the Tabarruj of the times of ignorance, and perform the Salah, and give Zakah and obey Allah and His Messenger. Allah wishes only to remove the Ar-Rijs from you, O members of the family, and to purify you with a thorough purification (33)And remember, that which is recited in your houses of the Ayat of Allah and Al-Hikmah. Verily, Allah is Ever Most Courteous, Well-Acquainted with all things (34)
+
+Enjoining certain Manners so that the Mothers of the Believers may be an Example ; and the Prohibition of Tabarruj
+
+These are the good manners which Allah enjoined upon the wives of the Prophet ﷺ so that they would be an example for the women of the Ummah to follow. Allah said, addressing the wives of the Prophet ﷺ that they should fear Allah as He commanded them, and that no other woman is like them or can be their equal in virtue and status. Then Allah says:
+
+فَلَا تَخْضَعْنَ بِالْقَوْلِ
+
+(then be not soft in speech,) As-Suddi and others said, this means, do not be gentle in speech when addressing men. Allah says:
+
+فَيَطْمَعَ الَّذِي فِي قَلْبِهِ مَرَضٌ
+
+(lest he in whose heart is a disease should be moved with desire,) means, something unclean.
+
+وَقُلْنَ قَوْلًا مَعْرُوفًا
+
+(but speak in an honorable manner.) Ibn Zayd said: "Decent and honorable talk that is known to be good." This means that she should address non-Mahram men in a manner in which there is no softness, i.e., a woman should not address a non-Mahram man in the same way that she addresses her husband.
+
+وَقَرْنَ فِي بُيُوتِكُنَّ
+
+(And stay in your houses,) means, stay in your houses and do not come out except for a purpose. One of the purposes mentioned in Shari'ah is prayer in the Masjid, so long as the conditions are fulfilled, as the Messenger of Allah ﷺ said:
+
+لَا تَمْنَعُوا إِمَاءَ اللهِ مَسَاجِدَ اللهِ وَلْيَخْرُجْنَ وَهُنَّ تَفِلَاتٌ
+
+(Do not prevent the female servants of Allah from the Masjids of Allah, but have them go out without wearing fragrance.) According to another report:
+
+وَبُيُوتُهُنَّ خَيْرٌ لَهُنَّ
+
+(even though their houses are better for them.)
+
+وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ
+
+(and do not Tabarruj yourselves like the Tabarruj of the times of ignorance,) Mujahid said: "Women used to go out walking in front of men, and this was the Tabarruj of Jahiliyyah." Qatadah said:
+
+وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ
+
+(and do not Tabarruj yourselves like the Taburruj of the times of ignorance,) "When they go out of their homes walking in a shameless and flirtatious manner, and Allah, may He be exalted, forbade that." Muqatil bin Hayyan said:
+
+وَلَا تَبَرَّجْنَ تَبَرُّجَ الْجَاهِلِيَّةِ الْأُولَىٰ
+
+(and do not Tabarruj yourselves like the Tabarruj of the times of ignorance,) "Tabarruj is when a woman puts a Khimar on her head but does not tie it properly."
+
+So her necklaces, earrings and neck, and all of that can be seen. This is Tabarruj, and Allah addresses all the women of the believers with regard to Tabarruj.
+
+وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّهَ وَرَسُولَهُ ۚ
+
+(and perform the Salah, and give Zakah and obey Allah and His Messenger.) Allah first forbids them from evil, then He enjoins them to do good by establishing regular prayer, which means worshipping Allah alone with no partner or associate, and paying Zakah, which means doing good to other people.
+
+وَأَطِعْنَ اللَّهَ وَرَسُولَهُ
+
+(and obey Allah and His Messenger.) This is an instance of something specific being followed by something general.
+
+The Wives of the Prophet صلی اللہ علیہ وسلم are Members of His Household (Ahl Al-Bayt)
+
+إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+
+(Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his family (Ahl Al-Bayt) here, because they are the reason why this Ayah was revealed, and the scholars are unanimously agreed that they were the reason for revelation in this case, whether this was the only reason for revelation or there was also another reason, which is the correct view. Ibn Jarir recorded that 'Ikrimah used to call out in the marketplace:
+
+إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+
+(Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) "This was revealed solely concerning the wives of the Prophet." Ibn Abi Hatim recorded that Ibn 'Abbas said concerning the Ayah:
+
+إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ
+
+(Allah wishes only to remove Ar-Rijs from you, O members of the family,)
+
+"It was revealed solely concerning the wives of the Prophet ﷺ." 'Ikrimah said: "Whoever disagrees with me that it was revealed solely concerning the wives of the Prophet ﷺ, I am prepared to meet with him and pray and invoke the curse of Allah upon those who are lying." So they alone were the reason for revelation, but others may be included by way of generalization.
+
+Ibn Jarir narrated that Safiyyah bint Shaybah said: "'A'ishah, may Allah be pleased with her, said, 'The Prophet ﷺ went out one morning wearing a striped cloak of black camel's hair. Al-Hasan, may Allah be pleased with him, came and he wrapped him in the cloak with him. Then Al-Husayn, may Allah be pleased with him, came and he wrapped him in the cloak with him. Then Fatimah, may Allah be pleased with her, came and he wrapped her in the cloak with him. Then 'Ali, may Allah be pleased with him, came and he wrapped him in the cloak with him, then he ﷺ said:
+
+إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+
+(Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This was recorded by Muslim.
+
+In his Sahih, Muslim recorded that Yazid bin Hayyan said: "Husayn bin Sabrah, 'Umar bin Muslim and I went to Zayd bin Arqam, may Allah be pleased with him, and when we had sat down with him, Husayn said: 'You are so fortunate, O Zayd! You saw the Messenger of Allah and heard his speeches, and you went on military campaigns with him, and you prayed behind him. You are so fortunate, O Zayd! Tell us what you heard from the Messenger of Allah ﷺ.' He said, 'O son of my brother, by Allah, I have grown old and it has been a long time, and I have forgotten some of the things that I used to know from the Messenger of Allah ﷺ. Whatever I tell you, accept it, and whatever I do not tell you, do not worry about it.' Then he said, 'One day, the Messenger of Allah ﷺ stood up to address us by the well of Khumm, between Makkah and Al-Madinah, and he praised Allah and thanked Him, and he preached and reminded us. Then he said:
+
+أَمَّا بَعْدُ، أَلَا أَيُّهَا النَّاسُ! فَإِنَّمَا أَنَا بَشَرٌ يُوشِكُ أَنْ يَأْتِيَنِي رَسُولُ رَبِّي فَأُجِيبَ، وَأَنَا تَارِكٌ فِيكُمْ ثَقَلَيْنِ: أَوَّلُهُمَا كِتَابُ اللهِ تَعَالَى، فِيهِ الْهُدَى وَالنُّورُ فَخُذُوا بِكِتَابِ اللهِ وَاسْتَمْسِكُوا بِهِ
+
+(Thereafter! O people, I am merely a human being and soon the messenger of my Lord will come and I will answer him. I am leaving behind two things with you, the first of which is the Book of Allah in which is guidance and light, so seize the Book of Allah and hold fast to it.) He urged them to cling to the Book of Allah, then he said:
+
+وَأَهْلُ بَيْتِي أُذَكِّرُكُمُ اللهَ فِي أَهْلِ بَيْتِي، أُذَكِّرُكُمُ اللهَ فِي أَهْلِ بَيْتِي
+
+(And the members of my family (Ahl Al-Bayt): Remember Allah with regard to the members of my family, remember Allah with regard to the members of my family.) saying it three times.' Husayn said to him, 'Who are the members of his family (Ahl Al-Bayt), O Zayd? Are not his wives members of his family' He said, 'His wives are members of his family, but the members of his family are those who are not permitted to receive charity after he died.' He said, 'Who are they' He said, 'They are the family of 'Ali, the family of 'Aqil, the family of Ja'far and the family of 'Abbas, may Allah be pleased with them.' He said, 'Were all of these forbidden to receive charity after his death?' He said, 'Yes.'"
+
+This Commentary is from Zayd bin Arqam and is not Marfu'
+
+The Command to follow the Qur'an and Sunnah
+
+The one who ponders the meaning of the Qur'an will have no doubt that the wives of the Prophet ﷺ are included among those who are referred to in the Ayah:
+
+إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+
+(Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) The context clearly refers to them. Allah then says:
+
+وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ ۚ
+
+(And remember, that which is recited in your houses of the Ayat of Allah and Al-Hikmah.) meaning, 'act in accordance with that of the Qur'an and Sunnah which Allah revealed to His Messenger ﷺ in your houses.' This was the view of Qatadah and others. 'And remember this blessing with which you alone of all the people have been favored, that the revelation comes down in your houses and not those of other people.' 'A'ishah As-Siddiqah bint As-Siddiq, may Allah be pleased with them, was foremost among them with in this blessing and was the most fortunate, and the most favored with this mercy. For the revelation did not come to the Messenger of Allah ﷺ in the bed of any of his wives except hers, as he ﷺ stated. Some of the scholars, may Allah have mercy on them, said: "This was because he did not marry any other virgin besides her, and no man slept with her in her bed before him ﷺ, may Allah be pleased with her." So it was befitting that she should be singled out for this blessing and high status. But if his wives are members of his household, then this title is even more fitting for his own relatives.
+
+Ibn Abi Hatim recorded that Abu Jamilah said: "Al-Hasan bin 'Ali, may Allah be pleased with them both, was appointed as Khalifah when 'Ali was killed." He said: "While he was praying, a man leapt on him and stabbed him with a dagger." Husayn claimed that he heard that the one who stabbed him was a man from Banu Asad, and Al-Hasan, may Allah be pleased with him, was prostrating at the time. He said, "They claimed that he received the wound in his hip. He was ill as a result for many months, then he recovered. He ascended the Minbar and said: 'O people of 'Iraq! Have Taqwa of Allah concerning us, for we are your leaders and your guests, and we are members of the family (Ahl Al-Bayt) concerning whom Allah said:
+
+إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+
+(Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.)' He kept saying this until there was no one left in the Masjid who was not weeping and sobbing."
+
+إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا
+
+(Verily, Allah is Ever Most Courteous, Well-Acquainted with all things.) means, 'by His kindness towards you, you have reached this status, and by His knowledge of you and that you are qualified for that status, He has given this to you and singled you out for it.' Ibn Jarir, may Allah have mercy on him, said: "And remember how Allah blessed you by causing the Ayat of Allah and Al-Hikmah to be recited in your houses, so give thanks to Allah for that and praise Him.
+
+إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا
+
+(Verily, Allah is Ever Most Courteous, Well-Acquainted with all things.) means, 'He is kind towards you, for He has caused the Ayat of Allah and Al-Hikmah to be recited in your houses,' and Al-Hikmah means the Sunnah. And He is Well-Acquainted with you means, 'He chose you as wives for His Messenger.' Qatadah said:
+
+وَاذْكُرْنَ مَا يُتْلَىٰ فِي بُيُوتِكُنَّ مِنْ آيَاتِ اللَّهِ وَالْحِكْمَةِ ۚ
+
+(And remember, that which is recited in your houses of the Ayat of Allah and Al-Hikmah.) "He is reminding them of His favor." This was narrated by Ibn Jarir. 'Atiyah Al-'Awfi commented on the Ayah:
+
+إِنَّ اللَّهَ كَانَ لَطِيفًا خَبِيرًا
+
+(Verily, Allah is Ever Most Courteous, Well-Acquainted with all things.) "He knows when and where to reveal Al-Hikmah." This was recorded by Ibn Abi Hatim, then he said: "This was also narrated from Ar-Rabi' bin Anas from Qatadah. "
+
+## Maarif ul Quran
+
+The Second Instruction
+
+This concerns the observance of full hijab (purdah or veil). It was said: وَقَرْ‌نَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّ‌جْنَ تَبَرُّ‌جَ الْجَاهِلِيَّةِ الْأُولَىٰ (And remain in your homes, and do not display (your) beauty as it used to be displayed in the days of earlier ignorance - 33). Here, the expression: الْجَاهِلِيَّةِ الْأُولَىٰ (the days of earlier ignorance ) means the Jahiliyyah which prevailed in the world before the advent of Islam. Embedded in this expression is the hint that later than it there is to come yet another Jahiliyyah, a period of another ignorance in which a similar display of immodesty and disregard for proper covering of bodies would become rampant. That, probably, is the Jahiliyyah of modern times, something visible everywhere.
+
+In this verse, the essential injunction about hijab is that women stay at home (that is, do not go out without the need as admissible in the Shari'ah). Along with it, it was also said that they should not go out moving around in public without hijab, as it used to be the wont of women in the earlier period of Jahiliyyah. The word: تَبَرُّ‌جَ (tabarruj) essentially means manifestation or display and, at this place, it means the display of personal embellishment before non-Mahram men - as it appears in another verse: غَيْرَ‌ مُتَبَرِّ‌جَاتٍ بِزِينَةٍ (not displaying embellishment - An-Nur, 24:60).
+
+As said earlier, a full discussion of the hijab or pardah of women and the injunctions related with it will follow within this Surah. Our present comments shall remain restricted to the explanation of the cited verse. The verse tells us two things about hijab:
+
+(1) For women, the real thing desirable with Allah is that they should not go out of their homes. Their creation is an answer to whatever needs to be done at home. Let them stay involved in it. As for the real hijab desirable in the Shari'ah, it is a hijab that stands achieved by their staying at home, that is, the home becomes their veil or cover حجَاب بِالبُیُوت al-hijab-bil-buyut).
+
+(2) The other thing it tells us is: If a woman has to go out of the home to take care of some need, let her not go out with any display of embellishment. Instead, she should wear what covers her whole body, a burqa', or jilbab (women's gown, garment or cloak) - as in the verse of this very Surah Al-Ahzab: يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ (bring down over themselves part of their outer garments - 33:59), the details about which shall appear later, insha'Allah Ta’ ala.
+
+Occasions of need have been exempted from the obligation of 'staying in homes.'
+
+In the opening sentence of verse 33: وَقَرْ‌نَ فِي بُيُوتِكُنَّ ) (And remain in your homes), staying in homes was made obligatory (wajib) which apparently purports that it should be absolutely prohibited and Haram for a woman to go out of her home, but verse has, at the first place, already indicated through the use of the words: وَلَا تَبَرَّ‌جْنَ (And do not display your beauty) within this verse that going out as needed is not prohibited in an absolute sense. Instead, what is prohibited is going out in a manner which displays embellishment. Then, there is the injunction of: يُدْنِينَ عَلَيْهِنَّ مِن جَلَابِيبِهِنَّ (bring down over themselves part of their outer garments - 33:59) to appear later in Surah Al-Ahzab. This injunction is itself telling us that to a certain degree women do have the permission to go out of the home, of course on condition that they go out in hijab wearing an outer garment like burqa' etc.
+
+In addition to that, the Holy Prophet ﷺ has himself clarified that occasions of need are exempt from this injunction, as in a Hadith where, while addressing the blessed wives, he is reported to have said: قَد اُذِنَ لَکُنَّ اَن تخرُجنَ لِحَاجَتِکُنَ (You are permitted to go out for your needs - reported by Muslim). Then, the conduct of the Holy Prophet ﷺ after the revelation of the verse of hijab proves that women have the permission to go out of homes on occasions of need, as the going of the blessed wives with the Holy Prophet ﷺ for Hajj and ` Umrah stands confirmed on the authority of sound and authentic Ahadith. Similarly, their going with him in many battles stands proved. Then, there are many narrations of Hadith which also prove that the blessed wives ؓ used to go out of their homes to visit their parents, did their duty by calling on the sick among relatives and offering condolence on the death of someone among them. And during the blessed time of the Prophet ﷺ ، they also had the permission to go to the Masajid.
+
+And not only that it happened in the company of the Holy Prophet ﷺ or in his time alone, but even after his passing away, it is a confirmed fact that the all his blessed wives went for Hajj and ` Umrah - with the exception of Sayyidah Saudah ؓ and Sayyidah Zainab bint Jahsh ؓ etc. No reproach or disapproval (nakair) thereupon has been reported from any of the noble Sahabah. In fact, Sayyidna ` Umar ؓ sent the blessed wives of the Messenger of Allah for Hajj under arrangements specially made for them - he sent Sayyidna ` Uthman al-Ghani ؓ and Sayyidna ` Abd ur-Rahman Ibn al-'Awf ؓ with them to supervise and manage their pilgrimage. And as for the incidence of Ummul-Mu'minin Sayyidah Saudah and Sayyidah Zainab bint Jahsh ؓ not going for Hajj and ` Umrah after the passing away of the noble Prophet ﷺ ، it was not on the basis of this verse, instead, it was on the basis of a Hadith. That is, when on the occasion of the Last Hajj (Hajjatul-Wadaa), the Holy Prophet ﷺ helped his blessed wives perform their Hajj with him personally, the remark that he made on return was: ھٰذِہٖ ثُمَّ لُزُومُ الحُضُر (This is it. After that, should stick to the mats at home). The first word: ھٰذِہٖ (hadhihi: translated here as 'this is it' ) refers to this very Hajj and حُصُر (husur) is the plural form of حَصَیر (hasiir) which means a mat (of straw, a modest version of other floor spreads such as rug, carpet, daree etc.). In essence, the Hadith is saying: Your going out for this alone is done. After that, you stick to the mats of your homes necessarily without having to part therefrom. Sayyidah Saudah bint Zam'ah ؓ and Sayyidah Zainab bint Jahsh ؓ took this Hadith to mean: Your going out was permissible for this very Last Hajj. Beyond that, it is not.' The other blessed wives - including a jurist of the class of Sayyidah ` A'ishah ؓ - unanimously interpreted these words of the Holy Prophet ﷺ to mean that 'your going out of your homes is permissible for this kind of journey which aims at performing a recognized act of worship, otherwise you should stay at home' In gist, from the sense of the verse: وَقَرْ‌نَ فِي بُيُوتِكُنَّ (And remain in your homes - 33) - as supported by the indicators of the Qur'an, the practice of the Holy Prophet ﷺ and the consensus of the noble Sahabah - occasions of need are exempted which include religious obligations of Hajj and ` Umrah, taking care of the natural duties towards parents, visiting Mahram relatives in health and sickness and attending to other requirements of this nature. Similarly, if a woman has no arrangement for her living expenses, then, it is also permissible for her to go out in hijab in order to earn an honorable living. However, going out on occasions of need is subject to the condition that one does not go out to display personal embellishment. Instead, one should go out properly covered with burqa' or jilbab (full mantle or chadar).
+
+The offensive lapses of the Rawafid about the journey of Ummul-Mu'minin Sayyidah ` A'ishah ؓ to Basrah and the event of the battle of Jamal:
+
+It has been made amply clear in the previous paragraph that the sense of the imperative of وَقَرْ‌نَ فِي بُيُوتِكُنَّ 'remain in your homes' (33) as proved from the very indicators, rather, expressions of the Qur'an, as well as from the practice of the Holy Prophet ﷺ and after him from the consensus of the noble Sahabah, it is confirmed that occasions of need are exempt from it - which includes going for religious needs of Hajj and ` Umrah etc. Sayyidah ` A'ishah along with Sayyidah Umm Salamah and Sayyidah Safiyyah, may Allah be pleased with all of them, had gone for Hajj. There they heard about the martyrdom of Sayyidna ` Uthman ؓ and about the incidents of rebellion against him. They were intensely grieved. The apprehension of an ill-omened disorder counter to unity among Muslims was weighing heavy on their minds. Under these circumstances, Sayyidna Talhah, Zubair, Nu` man Ibn Bashir, Ka'b Ibn` Ujrah and some other noble Sahabah escaped from Madinah and reached Makkah al-Mu'azzamah because the killers of Sayyidna ` Uthman ؓ wanted to kill them too. These people were not with the rebels. In fact, they had tried to dissuade them from acting in that manner. So, as they were after them as well, these people saved their lives by escaping to Makkah al-Mu'azzamah. Once there, they presented themselves before Ummul-Mu'minin Sayyidah ` A'ishah ؓ and sought her good counsel. She advised them not to go to Madinah until such time the rebels are gathered around Sayyidna ` Ali ؓ and he is exercising restraint against taking Qisas (retaliation) from them, lest the situation is aggravated further. In this situation, they should go to live for a few days at a place where they find themselves safe and the Amir al-Mu'minin succeeds in controlling the law and order situation in Madinah. As for making whatever efforts they can, the best they can do is to try that these people converged around the Amir al-Mu'minin get scattered and he is enabled to exercise his authority to exact Qisas (retaliation) or revenge from them.
+
+To this, they agreed and thought of leaving for Basrah because at that time Muslim forces were converged there. Once their plan to go was firm, they also requested Ummul-Mu'minin Sayyidah ` A'ishah ؓ to stay at Basrah along with them until such time that the government resumes its normal function.
+
+And the fact of the power and dominance of the killers of Sayyidna ` Uthman ؓ ، as well as of the leaders of disorder, and the lack of Sayyidna 'Ali's ؓ power to enforce the Islamic legal punishment against them is something clearly proven from the report of Nahjul-Balaghah itself.(1) It should be borne in mind that Nahjul-Balaghah is regarded to be authentic by Shiites. It appears in Nahjul-Balaghah: 'To the noble Amir (Amir al-Mu'minin Sayyidna ` Ali), some of his companions and colleagues themselves said: If you punish the people who attacked ` Uthman ؓ ، it will be better. Thereupon, the noble Amir said: My brother, I am not unaware of this thing you are talking about. But, how can this be done when these very people are there all over Madinah - and your slaves and the Bedouins of the adjoining areas have also joined them. If, under these circumstances, I were to issue the orders for their punishment, how would these be implemented?
+
+(1) Nahjul-Balaghah is a compilation of the lectures of Sayyidna ` Ali ؓ held by the Shiites as authentic.
+
+On one side, Sayyidah ` A'ishah ؓ realized the helplessness of Sayyidna ` Ali ؓ in this matter while, on the other, she also knew that the hearts of Muslims were wounded in the face of the shahadah of Sayyidna ` Uthman ؓ . Moreover, the delay in taking the due revenge from his killers on the part of Sayyidna ` Ali ؓ was being watched as his helplessness while the killers of Sayyidna ` Uthman ؓ also used to participate in the meetings of the Amir al-Mu'minin. People who were not aware of his helplessness had found their reason for complaint against him as well. It was possible that this kind of complaint may trigger some other trial. Therefore, it was to exhort people to observe patience, to strengthen the hands of Amir al-Mu'minin for the purpose of stabilizing the rule of law in the state, to remove mutual complaints and to achieve the objective of making things work better among people that Sayyidah ` A'ishah ؓ decided to embark on the journey to Basrah. In this journey, her Mahram nephew, Sayyidna ` Abdullah Ibn Zubair ؓ and others were with her. She had herself stated the purpose of this journey before Sayyidna Qa` qa` ؓ as it would appear later. And it is also obvious that the mission of conciliation and betterment among believers at the time of such a terrible trial was really a significant religious service. If, for this purpose, the Ummul-Mu'minin ؓ took to the journey of Basrah while accompanied by her Mahrams and seated in a metal-framed camel litter, why would the Shiites and Rawafid raise such a dust storm about it and say that the Ummul-Mu'minin contravened the injunctions of the Qur'an? What justification is there for it?
+
+Later on the war-like situation, created by the mischief of the hypocrites and the agent provocateurs of disorder, was something even the thought of which had never crossed the mind of Sayyidah ` A'ishah ؓ . For the explanation of this verse, this much is enough. Onwards from here, this is not the occasion for going into the details of the event of the battle of Jamal. But, in order to make the reality clear in brief, a few lines follow.
+
+Circumstances that one confronts in this world at the time of mutual discord simply cannot be neglected by people of insight and experience. The same circumstances developed here too when the journey of Basrah undertaken by Sayyidah ` A'ishah ؓ in the company of the noble Sahabah who had come from Madinah was reported before Sayyidna ` Ali ؓ in a totally deformed manner by the hypocrites and the manipulators of disorder. The version they gave to him was that all those people were going to Basrah to join up with forces stationed there and from where they would come out to confront him. If he was the Amir of the time, they instigated, it was his duty to preempt this threat and stop them by going to where they were, lest the danger increases any further. There were noble Sahabah of the stature of Sayyidna Hasan and Husain ؓ ، ` Abdullah Ibn Ja'far and ` Abdullah Ibn ` Abbas رضی اللہ تعالیٰ عنہم who even differed with this line of action. The advice they gave was that he should not throw his forces against them until such time that he had the correct assessment of the prevailing situation before him. But, the majority present there was of those who had tendered the first option. Sayyidna ` Ali, also tilting towards the same option, came out with the armed forces, and along with him, came these wicked votaries of disorder and rebellion.
+
+When these gentlemen reached the environs of Basrah, they sent Sayyidna Qa` qa` ؓ to Ummul-Mu'minin Sayyidah ` A'ishah ؓ to find out the circumstances of her visit. They asked her, '0 Mother of the Believers, what was the reason that brought you here?' Sayyidah ` A'ishah ؓ said, اَی بُنَیَّ الاِصلَاحُ بَین النَّاس (My dear son, [ I am here to seek nothing but ] the betterment of relations between people) '. Then, she also called Sayyidna Talhah and Sayyidna Zubair ؓ in this meeting with Sayyidna Qa` qa`. He asked them, 'What do you want?' They submitted, 'We want nothing but that the Islamic legal punishment be enforced against the killers of ` Uthman ؓ .' In response, Sayyidna Qa'qa' ؓ explained by saying, 'This thing cannot be done until Muslim forces are organized and firmly established. Therefore, at this time, it is necessary that you take to a stance of conciliation.'
+
+These blessed souls submitted to the advice. Sayyidna Qa` qa` ؓ went to Sayyidna ` Ali ؓ and told him about it. He too was very pleased, and satisfied. Everyone decided to go back. For three days, they stayed on the camping grounds in a state that no one had any doubt about the forthcoming declaration of truce between the two parties. And, on the fourth day, this announcement was going to be made and a meeting between Sayyidna ` Ali and Sayyidna Talhah and Zubair ؓ was due to take place - in which these killers of Sayyidna ` Uthman ؓ were not included. This thing was too hard for them to take. They made a plan. They told their colleagues, 'First you go into the group around Sayyidah ` A'ishah ؓ and unleash a spate of killing and pillage so that she and her compatriots think that the pledge was broken from the side of Sayyidna Ali ؓ ، as a result of which, becoming victims of this misunderstanding, they would hurl themselves against the armed forces of Sayyidna ` Ali ؓ .' This shaitanic device engineered by them worked. So, when the attack on the group accompanying Sayyidah ` A'ishah ؓ came from the side of the agents of disorder who had infiltrated the forces of Sayyidna ` Ali ؓ ، they were excusable in taking this attack to have come from the forces of the Amir al-Mu'minin - and thus began their counter action in defence. When Sayyidna ` Ali ؓ saw this state of affairs, he had no option left but to fight. And the unintended mishap of mutual infighting that was to occur did occur. إِنَّا لِلَّـهِ وَإِنَّا إِلَيْهِ رَ‌اجِعُونَ ! It is exactly like this that this event has been reported by at-Tabari and other reliable historians from the narrations of Sayyidna ` Abdullah Ibn Ja'far, Sayyidna ` Abdullah Ibn ` Abbas and others ؓ (Ruh u1-Ma` ani).
+
+In short, as a result of the wickedness of the agent provocateurs of disorder, this event of fighting between two revered groups came to pass unconsciously. And when this fitnah subsided, these very two revered personalities were the ones who were intensely grieved over it. Sayyidah ` A'ishah ؓ ، when recalled this event, would weep so much that her scarf became all wet with her tears. Similarly, Sayyidna ` Ali b was also terribly shocked over this event. When, after the fitnah had subsided, he went to see the dead bodies of those killed, he beat his thighs with his hands and said, 'Would that, much before this happened, I were dead, forgotten, lost!'
+
+And according to some narrations, when Sayyidah ` A'ishah ؓ would recite the verse: وَقَرْ‌نَ فِي بُيُوتِكُنَّ And stay in your homes - 33) in the Holy Qur'an, she used to break into tears until her scarf would be all wet with tears. (Reported by ` Abdullah Ibn Ahmad in Zawa'iduz-Zuhd and Ibn ul-Mundhir and Ibn Abi Shaibah from Masruq, (Ruh ul-Ma` ani)
+
+That she wept on the recital of the cited verse was neither because the contravention of the command of 'staying in homes' was a sin in her sight nor because the journey was prohibited. Instead of all that, the serious and unwelcome event that came to pass was the cause of her natural grief. (All these narrations and the subject matter have been taken from Tafsir (Ruh ul-Ma` ani)
+
+The third, fourth and fifth instruction of the Qur'an to the blessed wives
+
+Two instructions have appeared in detail earlier. They related to the avoidance of addressing non-Mahram men softly and tenderly and of going out of homes unnecessarily. Now, the other three instructions are contained in the next sentence of verse 33: وَأَقِمْنَ الصَّلَاةَ وَآتِينَ الزَّكَاةَ وَأَطِعْنَ اللَّـهَ وَرَ‌سُولَهُ (and establish Salah, and pay Zakah, and obey Allah and His Messenger). These are a total of five instructions. For women, these are matters of great consequences.
+
+These five instructions apply to all Muslims universally
+
+At least in the case of the later instructions mentioned above, no one can presume that they could be special to the blessed wives. These are Salah, Zakah and Obedience to Allah and His Messenger. How can any Muslim anywhere be taken as exempted from these? As for the first two instructions which relate to the hijab or pardah of women, a little deliberation would make it clear that they too are not special to the blessed wives. In fact, the same injunction applies to all Muslim women. The only question that has to be answered is that the Holy Qur'an has said before these instructions,: لَسْتُنَّ كَأَحَدٍ مِّنَ النِّسَاءِ إِنِ اتَّقَيْتُنَّ (32) that is, the blessed wives are not like common women, if they take to Taqwa. This sentence apparently indicates to the speciality of the blessed wives. A clear answer to this doubt is that the speciality seen here does not mean that these injunctions are restricted to them, instead, it revolves round the care and concern to be observed in acting in accordance with them. In other words, it means that the blessed wives are not like common women, because the state of their dignity is the highest of all. Therefore, they should show the highest care and concern for following the injunctions made obligatory for all Muslim women. And Allah subhanahu wa Ta’ ala knows best.
+
+We now move to the last sentence of verse 33 which says: إِنَّمَا يُرِ‌يدُ اللَّـهُ لِيُذْهِبَ عَنكُمُ الرِّ‌جْسَ أَهْلَ الْبَيْتِ وَيُطَهِّرَ‌كُمْ تَطْهِيرً‌ا (Allah only intends to keep (all sorts of) filth away from you, 0 members of the family (of the prophet), and to make you pure through a perfect purification. - 33). In the verses previous to this, the instructions given to the blessed wives by addressing them directly were, though, not special to them in person, rather, the entire Muslim community is obligated with these injunctions, yet the blessed wives were addressed particularly for the reason that they, in consonance with their dignity and the sanctity of the home of the Prophet, would be showing added care and concern for deeds that match their two singularities. Given in this verse is the wisdom of this particular address, that is, by the special instruction of the betterment of deeds, Allah intends to bless the household of the Messenger of Allah with an ideal state of purity by removing everything counter to it.
+
+The word: الرِّ‌جْسَ (ar-rijs) has been used in the Qur'an for several meanings. At one place, ar-rijs has appeared in the sense of idols: فَاجْتَنِبُوا الرِّ‌جْسَ مِنَ الْأَوْثَانِ (So refrain from the filth of idols - 22:30) and on other occasions, it is used in the sense of sin in absolute terms and at times it is employed to carry the meaning of punishment or impurity or filth. The outcome is that everything which is legally or naturally (or rationally) considered detestable is ar-rijs. In the present verse, the word: الرِّ‌جْسَ arrijs) appears in this very general sense. (A1-Bahr u1-Muhit)
+
+## Personal Reflections

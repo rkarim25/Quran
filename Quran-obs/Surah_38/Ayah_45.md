@@ -1,0 +1,99 @@
+---
+arabic_ayat: وَاذۡكُرۡ عِبٰدَنَاۤ اِبۡرٰهِيۡمَ وَاِسۡحٰقَ وَيَعۡقُوۡبَ اُولِى الۡاَيۡدِىۡ
+  وَالۡاَبۡصَارِ‏
+sentence_translation: 'And remember Our servants: Abraham, Isaac, and Jacob—the men
+  of strength and insight.'
+word_by_word:
+  1:
+    arabic: وَاذۡكُرۡ
+    translation: And remember
+    transliteration: wa-udh'kur
+  2:
+    arabic: عِبٰدَنَاۤ
+    translation: Our slaves
+    transliteration: ʿibādanā
+  3:
+    arabic: اِبۡرٰهِيۡمَ
+    translation: Ibrahim
+    transliteration: ib'rāhīma
+  4:
+    arabic: وَاِسۡحٰقَ
+    translation: and Isaac
+    transliteration: wa-is'ḥāqa
+  5:
+    arabic: وَيَعۡقُوۡبَ
+    translation: and Ayyub
+    transliteration: wayaʿqūba
+  6:
+    arabic: اُولِى
+    translation: possessors
+    transliteration: ulī
+  7:
+    arabic: الۡاَيۡدِىۡ
+    translation: (of) strength
+    transliteration: l-aydī
+  8:
+    arabic: وَالۡاَبۡصَارِ‏
+    translation: and vision
+    transliteration: wal-abṣāri
+---
+
+## Context
+
+To understand **The Letter "Saad"** (Sad) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder.. The expression: أُولِي الْأَيْدِي وَالْأَبْصَارِ‌(translated as: men of strength and men of vision) literally means 'owners or possessors of hands and eyes.' The sense is that they devoted their physical and intellectual energies in remaining obedient to Allah Ta’ ala.
+
+## Tafsir Ibn Kathir
+
+And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder.. ()
+
+The Chosen and the Best among the Prophets
+
+Allah tells us about the virtues of His servants the Messengers and His Prophets:
+
+وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي الْأَيْدِي وَالْأَبْصَارِ
+
+(And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar.) meaning, righteous deeds, beneficial knowledge, strength in worship and insight. 'Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said:
+
+أُولِي الْأَيْدِي
+
+(Ulil-Aydi) "Of great strength and worship;
+
+وَالْأَبْصَارِ
+
+(wal-Absar) means, understanding of the religion." Qatadah and As-Suddi said, "They were given strength in worship and understanding of the religion."
+
+إِنَّا أَخْلَصْنَاهُمْ بِخَالِصَةٍ ذِكْرَى الدَّارِ
+
+(Verily, We did choose them by granting them the remembrance of the Abode.) Mujahid said, "This means: We made them strive for the Hereafter, and there is nothing else for them besides that." As-Suddi also said, "The remembrance of the Hereafter and striving for it." Malik bin Dinar said, "Allah removed the love of this world from their hearts, and singled them out for land remembrance of the Hereafter." Qatadah said, "They used to remind the people about the Abode of the Hereafter and to strive for it."
+
+وَإِنَّهُمْ عِنْدَنَا لَمِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ
+
+(And they are with Us, verily, of the chosen and the best!) means, they are among those who have been elected and chosen, and they are the best and the chosen ones.
+
+وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ ۖ وَكُلٌّ مِنَ الْأَخْيَارِ
+
+(And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best.) We have already discussed their characteristics and stories in detail in Surat Al-Anbiya', may peace be upon them, and there is no need to repeat it here.
+
+هَٰذَا ذِكْرٌ ۚ
+
+(This is a Reminder) means, a reminder to those who will be reminded. As-Suddi said, "This means the Holy Qur'an."
+
+## Maarif ul Quran
+
+Commentary
+
+The expression: أُولِي الْأَيْدِي وَالْأَبْصَارِ‌(translated as: men of strength and men of vision) literally means 'owners or possessors of hands and eyes.' The sense is that they devoted their physical and intellectual energies in remaining obedient to Allah Ta’ ala. When this is said, a hint is being released to the fact that the real end use of human body parts is no other but that they are spent or utilized in obedience to the Divine commands, and the those parts of the body that are not utilized in it, their existence or non-existence remains equal.
+
+## Personal Reflections

@@ -1,0 +1,169 @@
+---
+arabic_ayat: ذٰ لِكَ بِاَنَّ الَّذِيۡنَ كَفَرُوۡا اتَّبَعُوا الۡبَاطِلَ وَاَنَّ الَّذِيۡنَ
+  اٰمَنُوا اتَّبَعُوا الۡحَقَّ مِنۡ رَّبِّهِمۡ​ؕ كَذٰلِكَ يَضۡرِبُ اللّٰهُ لِلنَّاسِ
+  اَمۡثَالَهُمۡ‏
+sentence_translation: This is because the disbelievers follow falsehood, while the
+  believers follow the truth from their Lord. This is how Allah shows people their
+  true state ˹of faith˺.
+word_by_word:
+  1:
+    arabic: ذٰ لِكَ
+    translation: That
+    transliteration: dhālika
+  2:
+    arabic: بِاَنَّ
+    translation: (is) because
+    transliteration: bi-anna
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: كَفَرُوۡا
+    translation: disbelieve
+    transliteration: kafarū
+  5:
+    arabic: اتَّبَعُوا
+    translation: follow
+    transliteration: ittabaʿū
+  6:
+    arabic: الۡبَاطِلَ
+    translation: falsehood
+    transliteration: l-bāṭila
+  7:
+    arabic: وَاَنَّ
+    translation: and that
+    transliteration: wa-anna
+  8:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  9:
+    arabic: اٰمَنُوا
+    translation: believe
+    transliteration: āmanū
+  10:
+    arabic: اتَّبَعُوا
+    translation: follow
+    transliteration: ittabaʿū
+  11:
+    arabic: الۡحَقَّ
+    translation: (the) truth
+    transliteration: l-ḥaqa
+  12:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  13:
+    arabic: رَّبِّهِمۡ​ؕ
+    translation: their Lord
+    transliteration: rabbihim
+  14:
+    arabic: كَذٰلِكَ
+    translation: Thus
+    transliteration: kadhālika
+  15:
+    arabic: يَضۡرِبُ
+    translation: Allah presents
+    transliteration: yaḍribu
+  16:
+    arabic: اللّٰهُ
+    translation: Allah presents
+    transliteration: l-lahu
+  17:
+    arabic: لِلنَّاسِ
+    translation: to the people
+    transliteration: lilnnāsi
+  18:
+    arabic: اَمۡثَالَهُمۡ‏
+    translation: their similitudes
+    transliteration: amthālahum
+---
+
+## Context
+
+To understand **Muhammad** (Muhammad) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. Although the previous sentence has referred to faith and righteous deeds which includes faith in the messenger-ship of the Holy Prophet Muhammad ﷺ and the revelation that was sent down to him, this sentence specifies explicitly the fact that the actual basis of faith is to embrace all the teachings of the Last Holy Prophet ﷺ .
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ - وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَآمَنُوا بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ الْحَقُّ مِنْ رَبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّئَاتِهِمْ وَأَصْلَحَ بَالَهُمْ - ذَٰلِكَ بِأَنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ وَأَنَّ الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِنْ رَبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ لِلنَّاسِ أَمْثَالَهُمْ
+
+(1. Those who disbelieve and hinder (men) from the path of Allah, He will render their deeds vain.)(2. But those who believe and do righteous good deeds, and believe in that which is sent down to Muhammad – for it is the truth from their Lord – He expiates from them their sins and amends their Bal.)(3. That is because those who disbelieve follow falsehood, while those who believe follow the truth from their Lord. Thus does Allah set forth for mankind their parables.)
+
+The Reward of the Disbelievers and the Believers
+
+Allah says,
+
+الَّذِينَ كَفَرُوا
+
+(Those who disbelieve) meaning, in the Ayat of Allah.
+
+وَصَدُّوا
+
+(and hinder (men)) Others.
+
+عَنْ سَبِيلِ اللَّهِ أَضَلَّ أَعْمَالَهُمْ
+
+(from the path of Allah, He will render their deeds vain.) meaning, He renders their deeds vain and futile, and He denies them any rewards or blessings for them. This is similar to His saying,
+
+وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا
+
+(And We will approach what they have done of deeds and make them as dispersed dust.)(25:23) Allah then says,
+
+وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(And those who believe and do righteous good deeds,) Which means that their hearts and souls have believed, and their limbs and their hidden and apparent acts have complied with Allah's Law.
+
+وَآمَنُوا بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ
+
+(And believe in that which has been sent down to Muhammad) Adding this statement to the previous one is a method of adding a specific meaning to a general one. This provides proof that after Muhammad's advent, believing in him is a required condition for the true faith. Allah then says,
+
+وَهُوَ الْحَقُّ مِنْ رَبِّهِمْ
+
+(For it is the truth from their Lord.) which is a beautifully placed parenthetical clause. Thus, Allah says,
+
+كَفَّرَ عَنْهُمْ سَيِّئَاتِهِمْ وَأَصْلَحَ بَالَهُمْ
+
+(He expiates from them their sins and amends their Bal.)
+
+Ibn 'Abbas, said, "This means their matter." Mujahid said, "This means their affair." Qatadah and Ibn Zayd both said, "Their condition." And all of these are similar in meaning. It has been mentioned (from the Prophet ﷺ) in the Hadith of the responding to one who sneezes,
+
+يَهْدِيكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ
+
+(May Allah guide you and rectify your (Bal) affairs.) Then Allah says,
+
+ذَٰلِكَ بِأَنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ
+
+(That is because those who disbelieve follow falsehood,) meaning, 'We only invalidate the deeds of the disbelievers and overlook the sins of the righteous, and amend their affairs, because those who disbelieve follow falsehood.' Meaning, they choose falsehood over the truth.
+
+وَأَنَّ الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِنْ رَبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ اللَّهُ لِلنَّاسِ أَمْثَالَهُمْ
+
+(while those who believe follow the truth from their Lord. Thus does Allah set forth for the people their parables.) Thus He makes the consequence of their actions clear to them, and He shows them where they will end in their next life – and Allah knows best.
+
+## Maarif ul Quran
+
+وَآمَنُوا بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ
+
+…and believed in that which is revealed to Muhammad …(47:2)
+
+Although the previous sentence has referred to faith and righteous deeds which includes faith in the messenger-ship of the Holy Prophet Muhammad ﷺ and the revelation that was sent down to him, this sentence specifies explicitly the fact that the actual basis of faith is to embrace all the teachings of the Last Holy Prophet ﷺ .
+
+The word " بال (bal) in وَأَصْلَحَ بَالَهُمْ "…and will set aright their state of affairs..(47:2) " is sometimes used in the sense of state of affairs and condition, and at other times in the sense of heart. Here it could refer to both the senses. In the first sense, it means that Allah has set all their affairs aright, that is, He has set aright all their matters of this world and of the Hereafter. In the second sense, it would mean that Allah has improved their hearts. This also has the same implication, that is, corrected all their works, because correction of works is a logical result of improvement of heart, both being necessary to each other.
+
+## Personal Reflections

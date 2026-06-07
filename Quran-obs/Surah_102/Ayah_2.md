@@ -1,0 +1,201 @@
+---
+arabic_ayat: حَتّٰى زُرۡتُمُ الۡمَقَابِرَؕ‏
+sentence_translation: until you end up in ˹your˺ graves.
+word_by_word:
+  1:
+    arabic: حَتّٰى
+    translation: Until
+    transliteration: ḥattā
+  2:
+    arabic: زُرۡتُمُ
+    translation: you visit
+    transliteration: zur'tumu
+  3:
+    arabic: الۡمَقَابِرَؕ‏
+    translation: the graves
+    transliteration: l-maqābira
+---
+
+## Context
+
+To understand **The Rivalry in world increase** (At-Takathur) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Takathur is a **Makkah** surah—revealed as the 16th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ayah was revealed which says;
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. حَتَّىٰ زُرْ‌تُمُ الْمَقَابِرَ‌Verse [ 2] (until you reach the graves.) Here the words 'reaching the graves' mean 'to die and be buried in the graves', as the following Prophetic Hadith bears testimony to this interpretation.
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+أَلْهَاكُمُ التَّكَاثُرُ - حَتَّىٰ زُرْتُمُ الْمَقَابِرَ - كَلَّا سَوْفَ تَعْلَمُونَ - ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ - كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ - لَتَرَوُنَّ الْجَحِيمَ - ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ - ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
+
+(1. The mutual increase diverts you,)(2. Until you visit the graves.)(3. Nay! You shall come to know!)(4. Again nay! You shall come to know!)(4. Again nay! You shall come to know!)(5. Nay! If you knew with a sure knowledge.)(6. Verily, you shall see the blazing Fire!)(7. And again, you shall see it with certainty of sight!)(8. Then on that Day you shall be asked about the delights!)
+
+The Result of Loving the World and Heedlessness of the Hereafter
+
+Allah says that all are preoccupied by love of the world, its delights and its adornments, and this distracts you from seeking the Hereafter and desiring it. This delays you until death comes to you and you visit the graves, thus becoming its inhabitants.
+
+In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ayah was revealed which says;
+
+أَلْهَاكُمُ التَّكَاثُرُ
+
+(The mutual increase diverts you.)"
+
+He was referring to the Hadith in which the Prophet ﷺ said,
+
+لَوْ كَانَ لِابْنِ آدَمَ وَادٍ مِنْ ذَهَبٍ
+
+(If the Son of Adam had a valley of gold, he would desire another like it...)
+
+Imam Ahmad recorded from 'Abdullah bin Ash-Shikhkhir that he said, "I came to the Messenger of Allah ﷺ while he was saying,
+
+أَلْهَاكُمُ التَّكَاثُرُ
+
+يَقُولُ ابْنُ آدَمَ: مَالِي مَالِي، وَهَلْ لَكَ مِنْ مَالِكَ إِلَّا مَا أَكَلْتَ فَأَفْنَـيْتَ، أَوْ لَبِسْتَ فَأَبْلَيْتَ، أَوْ تَصَدَّقْتَ فَأَمْضَيْتَ؟
+
+((The mutual increase diverts you.)(The Son of Adam says, "My wealth, my wealth." But do you get anything (of benefit) from your wealth except for that which you ate and you finished it, or that which you clothed yourself with and you wore it out, or that which you gave as charity and you have spent it?)"
+
+Muslim, At-Tirmidhi and An-Nasa'i also recorded this Hadith. Muslim recorded in his Sahih from Abu Hurayrah that the Messenger of Allah ﷺ said,
+
+يَقُولُ الْعَبْدُ: مَالِي مَالِي، وَإِنَّمَا لَهُ مِنْ مَالِهِ ثَلَاثٌ: مَا أَكَلَ فَأَفْنَى، أَوْ لَبِسَ فَأَبْلَى، أَوْ تَصَدَّقَ فَأَمْضَى، وَمَا سِوَى ذَلِكَ فَذَاهِبٌ وَتَارِكُهُ لِلنَّاسِ
+
+(The servant says "My wealth, my wealth." Yet he only gets three (benefits) from his wealth: that which he eats and finishes, that which he eats and finishes, that which he wears until it is worn out, or that which he gives in charity and it is spent. Everything else other than that will go away and leave him for the people.)
+
+Muslim was alone in recording this Hadith.
+
+Al-Bukhari recorded from Anas bin Malik that the Messenger of Allah ﷺ said,
+
+يَتْبَعُ الْمَيِّتَ ثَلَاثَةٌ، فَيَرْجِعُ اثْنَانِ وَيَبْقَى مَعَهُ وَاحِدٌ: يَتْبَعُهُ أَهْلُهُ وَمَالُهُ وَعَمَلُهُ، فَيَرْجِعُ أَهْلُهُ وَمَالُهُ، وَيَبْقَى عَمَلُهُ
+
+(Three things follow the deceased person, and two of them return while one remains behind with him. The things which follow him are his family, his wealth and his deeds. His family and his wealth return while his deeds remain.)
+
+This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i. Imam Ahmad recorded from Anas that the Prophet ﷺ said,
+
+يَهْرَمُ ابْنُ آدَمَ وَيَبْقَى مِنْهُ اثْنَتَانِ: الْحِرْصُ وَالْأَمَلُ
+
+(The Son of Adam becomes old with senility, but yet two things remain with him: greed and hope.)
+
+Both of them (Al-Bukhari and Muslim) recorded this Hadith in the Two Sahihs.
+
+The Threat of seeing Hell and being questioned about the Delights
+
+كَلَّا سَوْفَ تَعْلَمُونَ - ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+
+(Nay! you shall come to know! Again nay! you shall come to know!)
+
+Al-Hasan Al-Basri said, "This is a threat after a threat." Ad-Dahhak said,
+
+كَلَّا سَوْفَ تَعْلَمُونَ
+
+(Nay! you shall come to know!) "Meaning, 'O you disbelievers.'
+
+ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+
+(Again nay! you shall come to know!) meaning, 'O you believers.'" Then Allah says,
+
+كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ
+
+(Nay! If you knew with a sure knowledge.) meaning, 'if you knew with true knowledge, you would not be diverted by rivalry for wealth away from seeking the abode of the Hereafter until you reach the graves.' Then Allah says,
+
+لَتَرَوُنَّ الْجَحِيمَ - ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ
+
+(Verily, you shall see the blazing Fire! And again you shall see it with certainty of sight!)
+
+This is the explanation of the previous threat which was in Allah's saying,
+
+كَلَّا سَوْفَ تَعْلَمُونَ - ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ
+
+(Nay! you shall come to know! Again nay! you shall come to know!)
+
+Thus, Allah threatens them with this situation, which is what the people of the Fire will see. It is a Fire, which if it exhaled one breath, every angel who is near (to Allah) and every Prophet who was sent would all fall down on their knees due to fear, awe and the sight of its horrors. This is based upon what has been reported in the narrations concerning it. Allah then says,
+
+ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ
+
+(Then on that Day you shall be asked about the delights!)
+
+meaning, 'on that Day you all will be questioned concerning your gratitude towards the favors that Allah blessed you with, such as health, safety, sustenance and other things. You will be asked did you return His favors by being thankful to Him and worshipping Him.'
+
+Ibn Jarir recorded that Al-Husayn bin 'Ali As-Suda'i narrated to him from Al-Walid bin Al-Qasim, who reported from Yazid bin Kaysan, who reported from Abi Hazim, who reported from Abu Hurayrah that he said, "Once while Abu Bakr and 'Umar were sitting, the Prophet ﷺ came to them and said,
+
+مَا أَجْلَسَكُمَا هٰهُنَا؟
+
+(What has caused you two to sit here?)
+
+They replied, "By He Who has sent you with the truth, nothing has brought us out of our houses except hunger.' The Prophet ﷺ said,
+
+وَالَّذِي بَعَثَنِي بِالْحَقِّ مَا أَخْرَجَنِي غَيْرُهُ
+
+(By He Who has sent me with the truth, nothing has brought me out other than this.) So they went until they came to the house of a man from the Ansar, and the woman of the house received them. The Prophet said ﷺ to her,
+
+أَيْنَ فُلَانٌ؟
+
+(Where is so-and-so?)
+
+She replied, 'He went to fetch some drinking water for us.' So the man came carrying his bucket and he said, 'Welcome. Nothing has visited the servants (of Allah) better than a Prophet who has visited me today.' Then he hung his bucket near a palm tree, and climbed it and returned to them with a cluster of dates. So the Prophet ﷺ said,
+
+أَلَا كُنْتَ اجْتَنَـيْتَ؟
+
+(Why didn't you pick (some of them)?)
+
+The man replied, 'I wanted you to choose with your own eyes.' Then he took a blade (to slaughter a sheep) and the Prophet ﷺ said,
+
+إِيَّاكَ وَالْحَلُوبَ
+
+(Do not slaughter one that gives milk.)
+
+So he slaughtered a sheep for them that day and they all ate. Then the Prophet ﷺ said,
+
+لَتُسْأَلُنَّ عَنْ هَذَا يَوْمَ الْقِيَامَةِ، أَخْرَجَكُمْ مِنْ بُيُوتِكُمُ الْجُوعُ، فَلَمْ تَرْجِعُوا حَتَّى أَصَبْتُمْ هَذَا، فَهَذَا مِنَ النَّعِيمِ
+
+(You will be asked about this on the Day of Judgement. Hunger caused you to come out of your homes and you did not return until you had eaten this meal. So this is from the delights.)"
+
+Muslim also recorded this Hadith.
+
+It has been confirmed in Sahih Al-Bukhari and the Sunans of At-Tirmidhi, An-Nasa'i and Ibn Majah from Ibn 'Abbas that the Messenger of Allah ﷺ said,
+
+نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالْفَرَاغُ
+
+(Two favors are treated unjustly by most people: health and free time.)
+
+This means that the people are lacking gratitude for these two favors. They do fulfill their obligations to them. Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
+
+Imam Ahmad recorded from Abu Hurayrah that the Prophet ﷺ said,
+
+يَقُولُ اللهُ عَزَّ وَجَلَّ - قال عفان: يَوْمَ الْقِيَامَةِ - : يَا ابْنَ آدَمَ، حَمَلْتُكَ عَلَى الْخَيْلِ وَالْإِبِلِ، وَزَوَّجْتُكَ النِّسَاءَ، وَجَعَلْتُكَ تَرْبَعُ وَتَرْأَسُ، فَأَيْنَ شُكْرُ ذَلِكَ؟
+
+(Allah the Mighty and Majestic says on the Day of Judgement, "O Son of Adam! I made you ride upon the horses and camels, I gave you women to marry, and I made you reside and rule (in the earth). So where is the thanks for that?")
+
+Ahmad was alone in recording this Hadith in this manner.
+
+This is the end of the Tafsir of Surat At-Takathur, and all praise and blessings are due to Allah.
+
+## Maarif ul Quran
+
+حَتَّىٰ زُرْ‌تُمُ الْمَقَابِرَ‌Verse [ 2] (until you reach the graves.) Here the words 'reaching the graves' mean 'to die and be buried in the graves', as the following Prophetic Hadith bears testimony to this interpretation. Referring to verse [ 2] of this Surah, the Messenger of Allah ﷺ said: حَتّٰی یِأتیکُم الموت "until death overtakes you" [ Ibn Kathir, from by Ibn Abi Hatim ]. The verse thus implies that many people are engrossed in acquiring worldly goods and racing each other in wealth and children etc. and remain neglectful of the Hereafter till death comes upon them, and then they are seized by the divine punishment. Sayyidna ` Abdullah Ibn Shikhkhir ؓ reports that one day he visited the Holy Prophet ﷺ while the latter was reciting Surah At-Takathur and was saying:
+
+یقُول ابن اٰدم مالی مالی و ھل لک من مالک الَّا ما اکلت فافنیت او لبست فابلیت اوتصدّقت فامضیت، وفی روایۃ لمسلم وما سویٰ ذلک فذاھب و تارکہ للناس
+
+"The Son of Adam says: 'My wealth, my wealth.' But you do not reap any benefit from your wealth except for that which you ate and you finished it, or that which you clothed yourself with and you wore it out, or that which you gave as charity and you have spent it."
+
+And in a narration by Muslim: "Everything else other than that will go away, and he will leave it for other people. (i.e. inheritors) " [ Ibn Kathlr and Qurtubi as transmitted by Muslim, Tirmidhl and Ahmad ].
+
+Imam Bukhari records from Sayyidna Anas ؓ عنہ that the Messenger of Allah ﷺ said:
+
+لو کان لابن آدم وادیاً من ذھب لا حبّ ان یکون لہ وادیان ولن یملاء فاہ اِلَّا التراب و یتوب اللہ علٰی من تاب۔
+
+"If the Son of 'Adam has a valley of gold, he would love to have two valleys, and nothing but the dust of grave will fill his mouth. And Allah accepts the repentance of him who turns to Him in penitence."
+
+Sayyidna 'Ubayy Ibn Ka` b ؓ ، referring to the Tradition quoted above, says, "We used to think that this was a part of the Qur'an until the first verse of Surah At-Takathur was revealed." It seems that the Holy Prophet ﷺ recited the verse and interpreted it in his own words. As a result, some of the Companions were under the impression that the Prophetic words were part of the Qur'an. Later on, when the Surah was recited in its entirety, it did not contain the Prophetic words. This made them realize that the Prophetic words were actually of explanatory nature, and not part of the Qur'an.
+
+## Personal Reflections

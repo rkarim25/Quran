@@ -1,0 +1,260 @@
+---
+arabic_ayat: "وَاِذَا رَاَيۡتَهُمۡ تُعۡجِبُكَ اَجۡسَامُهُمۡ​ ؕ وَاِنۡ يَّقُوۡلُوۡا\
+  \ تَسۡمَعۡ لِقَوۡلِهِمۡ​ ؕ كَاَنَّهُمۡ خُشُبٌ مُّسَنَّدَةٌ   ​ؕ يَحۡسَبُوۡنَ كُلَّ\
+  \ صَيۡحَةٍ عَلَيۡهِمۡ​ ؕ هُمُ الۡعَدُوُّ فَاحۡذَرۡهُمۡ​ ؕ قَاتَلَهُمُ اللّٰهُ​\
+  \ اَنّٰى يُـؤۡفَكُوۡنَ‏ \uFEFF\uFEFF"
+sentence_translation: When you see them, their appearance impresses you. And when
+  they speak, you listen to their ˹impressive˺ speech. But they are ˹just˺ like ˹worthless˺
+  planks of wood leaned ˹against a wall˺. They think every cry is against them. They
+  are the enemy, so beware of them. May Allah condemn them! How can they be deluded
+  ˹from the truth˺?
+word_by_word:
+  1:
+    arabic: ۞ وَاِذَا
+    translation: And when
+    transliteration: wa-idhā
+  2:
+    arabic: رَاَيۡتَهُمۡ
+    translation: you see them
+    transliteration: ra-aytahum
+  3:
+    arabic: تُعۡجِبُكَ
+    translation: pleases you
+    transliteration: tuʿ'jibuka
+  4:
+    arabic: اَجۡسَامُهُمۡ​ ؕ
+    translation: their bodies
+    transliteration: ajsāmuhum
+  5:
+    arabic: وَاِنۡ
+    translation: and if
+    transliteration: wa-in
+  6:
+    arabic: يَّقُوۡلُوۡا
+    translation: they speak
+    transliteration: yaqūlū
+  7:
+    arabic: تَسۡمَعۡ
+    translation: you listen
+    transliteration: tasmaʿ
+  8:
+    arabic: لِقَوۡلِهِمۡ​ ؕ
+    translation: to their speech
+    transliteration: liqawlihim
+  9:
+    arabic: كَاَنَّهُمۡ
+    translation: as if they (were)
+    transliteration: ka-annahum
+  10:
+    arabic: خُشُبٌ
+    translation: pieces of wood
+    transliteration: khushubun
+  11:
+    arabic: مُّسَنَّدَةٌ   ​ؕ
+    translation: propped up
+    transliteration: musannadatun
+  12:
+    arabic: يَحۡسَبُوۡنَ
+    translation: They think
+    transliteration: yaḥsabūna
+  13:
+    arabic: كُلَّ
+    translation: every
+    transliteration: kulla
+  14:
+    arabic: صَيۡحَةٍ
+    translation: shout
+    transliteration: ṣayḥatin
+  15:
+    arabic: عَلَيۡهِمۡ​ ؕ
+    translation: (is) against them
+    transliteration: ʿalayhim
+  16:
+    arabic: هُمُ
+    translation: They
+    transliteration: humu
+  17:
+    arabic: الۡعَدُوُّ
+    translation: (are) the enemy
+    transliteration: l-ʿaduwu
+  18:
+    arabic: فَاحۡذَرۡهُمۡ​ ؕ
+    translation: so beware of them
+    transliteration: fa-iḥ'dharhum
+  19:
+    arabic: قَاتَلَهُمُ
+    translation: May destroy them
+    transliteration: qātalahumu
+  20:
+    arabic: اللّٰهُ​
+    translation: Allah
+    transliteration: l-lahu
+  21:
+    arabic: اَنّٰى
+    translation: How
+    transliteration: annā
+  22:
+    arabic: "يُـؤۡفَكُوۡنَ‏ \uFEFF\uFEFF"
+    translation: are they deluded
+    transliteration: yu'fakūna
+---
+
+## Context
+
+To understand **The Hypocrites** (Al-Munafiqun) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Munafiqun is a **Madinah** surah—revealed as the 104th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH. [ Mazhari ] According to Muhammad Ibn Ishaq and most historians, the details of the incident is as follows: The Messenger of Allah received the news that the leader of Banul-Mustaliq, name, Harith Ibn Dirar, is preparing for a campaign against him Harith Ibn Dirar was the father of Sayyidna Juwairiah ؓ who later on embraced Islam and became one of the Holy wives of the Holy Prophet ﷺ . Harith Ibn Dirar ؓ himself later on embraced Islam.
+
+While the Holy Prophet ﷺ was on his journey, Sayyidna Zaid Ibn Arqam ؓ came near him again and again, and he was firm that since this hypocrite has called him a liar and embarrassed him in front of the entire nation. Allah would surely reveal verses to clear him and give the lie to the hypocrite. Suddenly Sayyidna Zaid Ibn Arqam ؓ noticed that the Holy Prophet ﷺ entered into the state that he experienced when he received revelation.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ - اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ - ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ - وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
+
+(1. When the hypocrites come to you, they say: "We bear witness that you are indeed the Messenger of Allah." Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are liars indeed.)(2. They have made their oaths a screen. Thus they hinder (others) from the path of Allah. Verily, evil is what they used to do.)(3. That is because they believed, and then disbelieved; therefore their hearts are sealed, so they understand not.)(4. And when you look at them, their bodies please you; and when they speak, you listen to their words. They are as blocks of wood propped up. They think that every cry is against them. They are the enemies, so beware of them. May Allah curse them! How are they denying the right path?)
+
+The Case of the Hypocrites and their Behavior
+
+Allah the Exalted states that the hypocrites pretended to be Muslims when they went to the Prophet ﷺ. In reality, they were not Muslims, but rather the opposite. This is why Allah the Exalted said,
+
+إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ
+
+(When the hypocrites come to you, they say: "We bear witness that you are indeed the Messenger of Allah.") meaning, 'when the hypocrites come to you, they announce this statement and pretend to believe in it.' Allah informs that there is no substance to their statement, and this is why He said,
+
+وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ
+
+(Allah knows that you are indeed His Messenger,) then said,
+
+وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
+
+(And Allah bears witness that the hypocrites are liars indeed.) meaning, their claims, even though it is true about the Prophet. But they did not believe inwardly in what they declared outwardly, and this is why Allah declared their falsehood about their creed. Allah's statement,
+
+اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ
+
+(They have made their oaths a screen. Thus they hinder (others) from the path of Allah.) meaning, the hypocrites shield themselves from Muslims when they falsely and sinfully swear to be what they are not in reality. Some Muslims were deceived because they did not know their falsehood, and thus, thought that they were Muslims. Some Muslims believed what hypocrites say and even imitated them in their outward behavior. However, inwardly, hypocrites seek the destruction of Islam and its people, and this is why trusting them might bring great harm to many people. This is why Allah said next,
+
+فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
+
+(Thus they hinder (others) from the path of Allah. Verily, evil is what they used to do.) Allah said,
+
+ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
+
+(That is because they believed, and then disbelieved; therefore their hearts are sealed, so they understand not.) meaning, He has decreed them to be hypocrites because they reverted from faith to disbelief and exchanged guidance for misguidance. Therefore, Allah stamped and sealed their hearts and because of it, they cannot comprehend the guidance, nor any goodness can reach their hearts. Truly, their hearts neither understand, nor attain guidance. Allah said,
+
+وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ
+
+(And when you look at them, their bodies please you; and when they speak, you listen to their words.) meaning, hypocrites have a graceful outer appearance and are eloquent. When one hears them speak, he will listen to their eloquent words, even though hypocrites are truly weak and feeble, full of fear, fright and cowardice. Allah's statement,
+
+يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ
+
+(They think that every cry is against them.) means, every time an incident occurs or something frightening happens, they think that it is headed their way. This is indicative of their cowardice, just as Allah said about them,
+
+أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ يَنْظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَىٰ عَلَيْهِ مِنَ الْمَوْتِ ۖ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُمْ بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ ۚ أُولَٰئِكَ لَمْ يُؤْمِنُوا فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا
+
+(Being miserly towards you then when fear comes, you will see them looking to you, their eyes revolving like (those of) one over whom hovers death; but when the fear departs, they will smite you with sharp tongues, miserly towards good. Such have not believed. Therefore Allah makes their deeds fruitless and that is ever easy for Allah.)(33:19)
+
+They are shapes that do not have much substance, and this is why Allah said,
+
+هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
+
+(They are the enemies, so beware of them. May Allah curse them! How are they denying the right path?) means, how they are being led astray to the misguidance, away from the guidance.
+
+Imam Ahmad recorded that Abu Hurayrah said that the Prophet ﷺ said,
+
+إِنَّ لِلْمُنَافِقِينَ عَلَامَاتٍ يُعْرَفُونَ بِهَا: تَحِيَّتُهُمْ لَعْنَةٌ وَطَعَامُهُمْ نُهْبَةٌ وَغَنِيمَتُهُمْ غُلُولٌ لَا يَقْرَبُونَ الْمَسَاجِدَ إِلَّا هَجْرًا، وَلَا يَأْتُونَ الصَّلَاةَ إِلَّا دَبْرًا، مُسْتَكْبِرِينَ لَا يَأْلَفُونَ وَلَا يُؤْلَفُونَ، خُشُبٌ بِاللَّيْلِ صُخُبٌ بِالنَّهَارِ - وفِي رِوَايَةٍ - سُخُبٌ بِالنَّهَارِ
+
+(Hypocrites have certain signs that they are known by. Their greeting is really a curse, their food is from stealing and the war booty they collect is from theft. They shun the Masjid and they do not come to the prayer but at its end. They are arrogant; it is neither easy for them to blend in, nor it is easy for people to blend with them. They are like pieces of wood by night and are noisy by day.)
+
+## Maarif ul Quran
+
+Commentary
+
+Background of Revelation
+
+The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH. [ Mazhari ] According to Muhammad Ibn Ishaq and most historians, the details of the incident is as follows: The Messenger of Allah received the news that the leader of Banul-Mustaliq, name, Harith Ibn Dirar, is preparing for a campaign against him Harith Ibn Dirar was the father of Sayyidna Juwairiah ؓ who later on embraced Islam and became one of the Holy wives of the Holy Prophet ﷺ . Harith Ibn Dirar ؓ himself later on embraced Islam.
+
+Nevertheless, when the Messenger of Allah ﷺ received the news about the campaign against him, he gathered a group of Muslims and went out to face them. Many hypocrites joined the Muslims to fight the jihad in the hope that they will receive a share in the spoils of war, because they, despite having disbelief in their hearts, were sure that Divine help will be on the Prophet’ s side, and he will attain victory.
+
+When the Messenger of Allah ﷺ reached Banul-Mustaliq’ s settlement, he faced Harith Ibn Dirar’ s army near a well that was known as Muraisi’. Therefore, the campaign is also known as the battle of Muraisi’. The combatants arrayed themselves and shot arrows at each other. Many of Banul-Mustaliq’ s men were killed and others fled; and some men and women were captured as prisoners of war. Some of their belongings fell into Muslim hands as spoils of war. Allah granted victory to the Holy Prophet ﷺ and the jihad came to an end.
+
+Co-operation on the basis of Tribal, Racial, National or Regional Bias is the Slogan of Pre-Islamic Paganism
+
+Whilst the Muslim army was still at the well of Muraisi’, an unpleasant scene broke out between a Muhajir (emigrant) and an Ansari (helper). They quarreled over the same water where the battle was fought. The Emigrant called their fellow-Emigrants for help, and the Helpers called the fellow-Helpers for help. Some individuals came forward to help their respective sides, and the dispute might have led to a fight between the Emigrants and the Helpers. When the Holy Prophet ﷺ came to know about this, he immediately went to the scene of dispute, and expressed his indignation, saying مَا بَالُ دَعوَی الجَاھِلِیَّۃِ “ What is this slogan of paganism [ that you call for defence on the basis of regional, racial and national bias ]?” دَعُوھَا فَاِنَّھَا مُنتِنَۃٌ “ Give up the slogan. It stinks.” He said that every Muslim should help another Muslim brother, whether oppressor or oppressed. Helping the oppressed is quite obvious, but helping the oppressor implies to stop him from oppression. In all matters it is necessary to find out who is the oppressed and help him and who is the oppressor and stop him from oppressing, even though he may be his own brother or father. The racial, lineal, regional or national pride and prejudice is a filthy slogan, and it gives out nothing but bad odour.
+
+The speech of the Messenger of Allah ﷺ brought the quarrel to an end, and the dispute was thus quelled. The two people involved in this dispute were Jahjah, the Emigrant, and Sinan Ibn Wabrah al-Juhani, the Helper. In this matter, the former was more on the wrong, and the latter was wounded. Sayyidna ‘Ubadah Ibn Samit ؓ explained to Sinan Jahjah ؓ . The oppressor and the oppressed thus became brothers.
+
+The hypocrites had joined the Muslims for greed of receiving a share from the spoils. Their leader was ‘Abdullah Ibn Ubayy. Like other hypocrites, he called himself a Muslim for mundane benefits, but concealed enmity in his heart against the Messenger of Allah ﷺ and the Muslims. When he came to know about the clash between the Muhajirs (Emigrants) and Ansar (the Helpers), he found this an ideal opportunity to cause friction among the Muslims. So he addressed an assembly in which there were hypocrites and a Muslim Zaid Ibn Arqam ؓ where he strongly provoked the Helpers with his fiery speech against the Emigrants, saying: “ You have brought all this on yourselves. You have let them settle in your land and share your wealth and property. They are fed on your breads until they became strong and now they rival you. If you do not realize the consequences of your helping them, they will make your life miserable. Therefore, in future you should abandon them and stop helping them with your property, and they would themselves disperse to other areas. By Allah, when we go back to Madinah the most honourable of the inhabitants of Madinah shall drive out the meanest of them from there.“ He termed his own group and the Ansar as ‘the honourable ones’, and [ God forbid!] the Holy Prophet ﷺ along with the muhajirin as ‘the meanest ones’. When Sayyidna Zaid Ibn Arqam ؓ heard his speech, he retorted instantly: “ By Allah, you are mean, low and despicable. The Messenger of Allah is successful by God-given honour, and by the love of the Muslims.
+
+Since ‘Abdullah Ibn Ubayy wanted to keep his hypocrisy under a veil, he concealed his intention under the cover of the vague expression of ‘the most honoured and meanest’. When Sayyidna Zaid Ibn Arqam ؓ made a sharp retort, he realized that his disbelief would be uncovered, he apologized to Sayyidna Zaid Ibn Arqam ؓ that he was merely joking and did not mean to do anything against the Messenger of Allah ﷺ .
+
+Sayyidna Zaid Ibn Arqam ؓ left the assembly and went to the Messenger of Allah ﷺ and reported to him the whole story about ‘Abdullah Ibn Ubayy. This news was very disturbing and trying for the Holy Prophet ﷺ . The colour of his blessed countenance changed. Sayyidna Zaid Ibn Arqam ؓ was a young Companion at the time. The Holy Prophet ﷺ asked him: “ Boy! Are you not perhaps lying?” Sayyidna Zaid Ibn Arqam ؓ made the same reply. After that, the news of Ibn Ubayy’ s fiery speech spread throughout the Muslim army. No one spoke anything but about this speech. On the other hand, the Helpers reproached Sayyidna Zaid Ibn Arqam ؓ . They said that he has accused the venerable leader of the nation (that is, Ibn Ubayy) and severed kinship ties with him. Sayyidna Zaid Ibn Arqam ؓ swore by Allah and said that in the entire tribe of Khazraj, Ibn Ubayy was the dearest person to him, but when he uttered the unpleasant words against the Messenger of Allah ﷺ ، he could not hold himself. “ Even if that were my father,” he went on, “ I would have certainly reported his speech to the Messenger of Allah ﷺ .”
+
+When Sayyidna ‘Umar ؓ heard the story, he said: “ O Allah’ s Messenger! Permit me to behead this hypocrite.” According to another narration, Sayyidna ‘Umar ؓ said: “ Permit ‘Abbad Ibn Bishr to cut off his head and present it to you.” The Messenger of Allah ﷺ said that if he were to permit them to do that, the news will spread among people that Muhammad ﷺ kills his own Comrades. As a result, he did not allow Ibn Ubayy to be killed. When this news about Sayyidna ‘Umar ؓ reached ‘Abdullah Ibn Ubayy’ s son who also bore the same name as his father’ s, ‘Abdullah, but he was a sincere Muslim, he immediately went up to the Messenger of Allah ﷺ and said: “ If you wish my father to be killed because of his speech, then allow me to kill him and bring his head to you before you arise from your assembly. The entire tribe of Khazraj is a witness to the fact that no one is more serving and obedient to my parents than myself. But I will not tolerate any of their mischief against Allah and His Messenger ﷺ . If you allow anyone else to kill my father and he kills him, then, I am afraid, when I see my father’ s killer walking freely, my tribal jealously may overcome me and I may be tempted to kill him, and that might be the cause of my punishment.” The Messenger of Allah ﷺ said: “ I do not have the intention of killing him, nor have I instructed anyone else to kill him.”
+
+After this incident, the Messenger of Allah ﷺ announced, at an unusual time against his normal habit, that he would immediately set out on his journey back to Madinah. So he mounted his she-camel Quswa’ and started his journey at an unusual time. When the general body of the blessed Companions had set out on the journey, the Holy Prophet ﷺ called ‘Abdullah Ibn Ubayy and asked him: “ Did you say this?” He took oath and denied everything that was imputed to him, and claimed that the boy, Zaid Ibn Arqam, was liar. ‘Abdullah Ibn Ubayy was the respectable chief of his people. All the people felt that may be Zaid Ibn Arqam ؓ was under some misconception, and Ibn Ubayy did not say it as was conveyed.
+
+In any case, the Messenger of Allah ﷺ accepted Ibn Ubayy’ s oath and explanation. The reproach of the people against Zaid Ibn Arqam ؓ was further aggravated. This embarrassed him and he hid himself from the people. Then the Messenger of Allah ﷺ travelled with the entire Muslim army the whole day and night and the next morning, until the bright sun was out. Then he, together with the army, halted in a place. They were all exhausted on account of the long and strenuous journey. As soon as they touched the ground, they fell into deep sleep.
+
+The narrator reports that the purpose of this unusually immediate and long journey was to close the chapter of the story of Ibn Ubayy, which had by and by spread among the entire Muslim community, and they talked about it all the time.
+
+After that, the Messenger of Allah ﷺ started the journey, in the course of which Sayyidna ‘Ubadah Ibn Samit ؓ suggested to Ibn Ubayy to approach the Holy Prophet ﷺ and admit his guilt before him who would pray Allah for his pardon and he would attain salvation. When he heard this suggestion, he turned his head away. No Qur’ anic verses pertaining to Ibn Ubayy were revealed until then, but when he turned himself away in haughty arrogance, Sayyidna ‘Ubadah Ibn Samit ؓ said: “ Certainly, the Qur’ an will reveal verses pertaining to your turning down the advice.”
+
+While the Holy Prophet ﷺ was on his journey, Sayyidna Zaid Ibn Arqam ؓ came near him again and again, and he was firm that since this hypocrite has called him a liar and embarrassed him in front of the entire nation. Allah would surely reveal verses to clear him and give the lie to the hypocrite. Suddenly Sayyidna Zaid Ibn Arqam ؓ noticed that the Holy Prophet ﷺ entered into the state that he experienced when he received revelation. He stared breathing heavily, his forehead dripped with perspiration and his mount, the she-camel, began to feel the weight of the revelation. Sayyidna Zaid Ibn Arqam ؓ sensed that some revelation was coming down regarding that matter. When that state of revelation was over, and, because his own mount was closer to the mount of the Holy Prophet ﷺ ، he held the ear of Zaid ؓ and said یا غُلَامُ صَدَّقَ اللہُ حَدِیثَکَ وَ نَزَلَت سُورَۃُ المُنافِقِینَ فِی اِبنِ اُبیٍّ مِن اَوَّلِھَا اِلٰی آخِرِھَا “ O Boy, Allah has confirmed the veracity of your statement, and the entire Surah Al-Munafiqun – from the beginning to the end – has been revealed in connection with Ibn Ubayy’ s incident.”
+
+This shows that Surah Al-Munafiqun was revealed in the course of the journey. According to Baghawi’ s narration, however, the Holy Prophet ﷺ had reached Madinah and Sayyidna Zaid Ibn Arqam ؓ was hiding himself in the house for fear of reprisal, when this Surah was revealed. And Allah knows best!
+
+According to another narration, when the Messenger of Allah ﷺ approached Madinah at the valley of Aqiq, ‘Abdullah, the son of the hypocrite ‘Abdullah Ibn Ubayy, who was faithful believe, went forward and searched through the throng of mounts and, finding his father’ s mount, made it sit. He placed his foot on its knees and said to his father: “ By Allah! You cannot enter Madinah unless the Messenger of Allah ﷺ permits you, and unless you clarify who are the most honourable inhabitants of Madinah that expel the meanest ones. Tell me who is the most hounourable one, the Messenger of Allah or you?” Passer-by were reproaching ‘Abdullah as to how unkindly he was treating his father. By then the mount of Allah’ s Messenger ﷺ came near. He inquired what was happening. People said that ‘Abdullah has barred his father’ s entry into Madinah unless Allah’ s Messenger ﷺ permits him. The Holy Prophet ﷺ saw that the hypocritical Ibn Ubbay declared to his son that he himself was the meanest of the citizens of Madinah, even meaner than children and women, and the Holy Prophet ﷺ the most honourable of them. At this, the Messenger of Allah ﷺ said to the son: Leave his way; let him enter.” The son then let him enter.
+
+Only this much is the story of the revelation of Surah Al-Munafiqun. At the beginning of the story, a concise reference was made to the campaign of Banul-Mustaliq where it was shown that the real person responsible for the campaign was Harith Ibn Dirar who at that time was not a Muslim but embraced Islam later. He was the father of Sayyidah Juwairiyah ؓ who too was not a Muslim but embraced Islam later, and became one of the noble wives of the Holy Prophet ﷺ .
+
+Musnad Ahmad, Abu Dawud and others record that when Banul-Mustaliq were defeated, spoils of war, together with prisoners of war, fell into Muslim hands. According to Islamic Law, all prisoners and spoils of war were distributed among the Mujahidin. Among the prisoners of war was Juwairiyah ؓ the daughter of Harith Ibn Dirar. She fell to the lot of Sayyidna Thabit Ibn Qais Ibn Shammas. He entered into the contract of kitabah to set her free in lieu of a specified sum of money.1
+
+(1) For fuller explanation of the contract of kitabah, see volume 6, pp.426-427 of this book under the commentary of Surah 24:33. (Muhammad Taqi Usmani)
+
+According to Sayyidah Juwairiyah’ s ؓ contract of kitabah, the sum specified was very large and she could not pay off the large sum of money to purchase her freedom. She came to the Holy Prophet ﷺ and said: “ I have embraced Islam and I bear witness that there is only One Allah and He has no partners, and that you are Allah’ s Messenger.” Then she went on to narrate her story: “ I fell to the lot of Thabit Ibn Qais Ibn Shammas, but we entered into the contract of kitabah and the sum specified in the contract is so large that I cannot manage. Please do help me.” The Holy Prophet ﷺ acceded to her request. In addition, he expressed his intention to emancipate her and marry her. For Sayyidah Juwairiyah ؓ ، this was a great boon. How could she refuse to accept this offer? She accepted the offer whole-heartedly and thus became one of the noble wives of the Holy Prophet ﷺ . The mother of the Faithful, Sayyidah Juwairiyah ؓ says that three days before the Holy Prophet ﷺ came for the campaign of Banul-Mustaliq ‘I saw in my dream that the moon arose in Yathrib and it came and fell in my lap. I did not narrate this dream to anyone at that time. Now I have seen its interpretation with my own eyes.’
+
+She was the daughter of the leader of her nation. When she became one of the wives of the Holy Prophet ﷺ ، it exerted a great influence on the entire tribe. One advantage that accrued to all women captured with her was that all of them were emancipated. They were relatives of the Mother of the Faithful. The Muslims set free all slave-girls related to her when they came to know of her joining the rank of the Mother of Faithful. About one hundred of them were emancipated with her. Her father saw a miracle of the Holy Prophet ﷺ and embraced Islam.
+
+The above story imparts guiding principles on important issues
+
+The circumstances, under which Surah Al-Munafiqun was revealed, indeed help us understand the basic interpretation of the Surah. Additionally, they bring out some important guiding principles related to moral or ethical, political and social issues. That is why the full story has been fully recounted here. The guiding principles derived from this story are given below:
+
+The foundation Stone of Islamic Polity: Establishment of Islamic Brotherhood which aims at Ending Colour, Racial and Linguistic Discriminations, and Indigenous-Alien Prejudices.
+
+The episode of the dispute that broke out between an Emigrant and a Helper, and each side calling their fellow-Emigrants and their fellow-Helpers respectively for help was the icon of paganism which the Holy Prophet ﷺ destroyed. He established the principle that all believers are brothers, regardless of their race, colour, language, or nationality. The bond of brotherhood the Holy Prophet ﷺ established between the Refugees and the Helpers had made them like real brothers. It is, however the ancient Shaitanic network to get people involved in mutual co-operation and help on this basis alone. This necessarily results in blocking out the Islamic concept of mutual co-operation based on race and nationalism taken place. In this way, the Shaitan causes friction among Muslims. In this instance also a similar situation would have developed if the Holy Prophet ﷺ did not arrive on the scene in time and quell the dispute and said to them that it was the stinking slogan of paganism and that they should give it up. He re-established them on the Qur’ anic principle of mutual co-operation وَتَعَاوَنُوا عَلَى الْبِرِّ‌ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ (And help each other in righteousness and piety, and do not help each other in sin and aggression…5:2). In other words, the standard for Muslims to help others or to receive help from others is good will, justice, fair play and equity. They should co-operate mutually on this basis, even though the others may belong to another race, ethnic group, or to another region. They should not unite in one conjoint to co-operate in sin and injustice, even though he may be father or brother. This is the just and rational foundation which Islam has laid, and the Messenger of Allah ﷺ himself took care of this every step of the way and commanded everyone to follow the principle. In his Farewell Address, he said that all customs of paganism are trampled under his feet. The idols of discrimination of Arab-non-Arab, white-black and indigenous-aliens have been broken. Islamic principle of mutual help and co-operation is Truth and Justice. All should apply it.
+
+Another lesson that stems from this story is that the enemies of Islam since time immemorial use nationalism and regionalism to cause friction, and break up the Muslim Community. Whenever the opportunity arises, they split them up.
+
+Alas, the Muslims have long forgotten this lesson, and the enemies have once more set up the same Shaitanic network to break up Islamic unity. The Muslims all over the world have put the religion and the religious principles into oblivion. As a result, they have become victims of civil wars. Their united front to fight disbelief has been smashed. The Muslim world is divided not only into Arabs and non-Arabs, but further divided into Egyptian, Syrian, Hijazi and Yemeni. In the Indo-Pak subcontinent, the Punjabis, Bengalis, Sindhis, Hindis, Pathans and Balochis are victims of mutual differences. To Allah we direct our complaint! The enemies of Islam are toying with our differences. As a result, they are overcoming us in all fields, and we are defeated everywhere. We have developed a slavish mentality and are forced to take refuge in them. Even today we can see with our open eyes Divine help and assistance coming to us, provided we adopt the Qur’ anic principles and the guidance of Allah’ s Messenger ﷺ ; provided we adhere to a strong Islamic brotherhood instead of showing a slavish devotion to the lifestyle of others; and provided we break down the idols of colour, race, language and region.
+
+The Noble Companions’ Unparalleled Adherence to Islamic Principles and their Lofty Station
+
+This incident further shows that though the Shaitan made some people raise the slogan of paganism temporarily, the ‘Iman was so engrossed in their hearts that the slightest admonition was sufficient to jolt them into repenting. They had such a high degree of love and reverence for Allah and His Messenger ﷺ that no relationship and sense of nationality could act as a barrier against it. An eloquent testimony of that is contained in the statement of Zaid Ibn Arqam ؓ . He himself was a member of the tribe of Khazraj and Ibn Ubayy was the leader of that tribe, and the former loved and venerated the latter most dearly, but he could not tolerate the provocative words uttered against the Refugee Muslims and Allah’ s Messenger ﷺ and complained to him about the hypocrites. The tribal-worshippers of the present age would never have dared to take the complaint of their leaders to the Holy Prophet ﷺ .
+
+The attitude of Ibn Ubayy’ s son ‘Abdullah in this incident makes it crystal clear that his real love and veneration was dedicated to Allah and His Messenger ﷺ . When he heard him utter words against them, he went to Allah’ s Messenger ﷺ and sought his consent to cut off his father’ s head. When the Holy Prophet ﷺ did not permit him, he made his father’ s mount sit, when he approached Madinah, blocked his way and forced him to admit that the Messenger of Allah ﷺ is ‘the most honourable’ and that he himself is ‘the meanest one’. He did not open the way for his father before the Holy Prophet’ s ﷺ permission.
+
+Besides, the idols of nation-worship and land-worship were broken to pieces in the battles of Badr, Uhud and Ahzab, which proved that all Muslims are brothers, no matter which nationality, country, colour or language group they belong to. Anyone who does not believe in Allah and his Messenger ﷺ is an enemy, even though he may be his own real brother or father.
+
+ھزار خویش کہ بیگا انہ از خدا باشد فدایٔے یک تنِ بیگانہ کآشنا باشد
+
+Thousand of relatives who are alien to Allah
+
+May be sacrificed to an alien who is faithful to Allah.
+
+Taking care of General Welfare of Muslims: Protecting them from misunderstanding
+
+Another point illustrated by this incident is that an act which is permissible in itself should be avoided if it may create a misunderstanding in the mind of a Muslim, or may provide an opportunity for the enemies to spread misunderstanding among them. Thus, despite the fact that Ibn Ubayy’ s hypocrisy was exposed openly, the Messenger of Allah ﷺ did not permit Sayyidna ‘Umer ﷺ to behead him when he sought his permission, because the enemies could create misunderstanding in the public minds that Muhammad ﷺ killed his own Comrades. But it should be noted that, as other traditions prove, such acts may be abandoned only when they are not from the basis objectives of Shariah, they cannot be abandoned for such an apprehension. Instead, attempts must be made to remove the danger and do the work dictated by the objectives of Shari’ ah.
+
+## Personal Reflections

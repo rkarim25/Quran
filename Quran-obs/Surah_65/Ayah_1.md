@@ -1,0 +1,418 @@
+---
+arabic_ayat: يٰۤاَيُّهَا النَّبِىُّ اِذَا طَلَّقۡتُمُ النِّسَآءَ فَطَلِّقُوۡهُنَّ
+  لِعِدَّتِهِنَّ وَاَحۡصُوا الۡعِدَّةَ ​ ۚ وَاتَّقُوا اللّٰهَ رَبَّكُمۡ​ ۚ لَا تُخۡرِجُوۡهُنَّ
+  مِنۡۢ بُيُوۡتِهِنَّ وَلَا يَخۡرُجۡنَ اِلَّاۤ اَنۡ يَّاۡتِيۡنَ بِفَاحِشَةٍ مُّبَيِّنَةٍ​
+  ؕ وَتِلۡكَ حُدُوۡدُ اللّٰهِ​ ؕ وَمَنۡ يَّتَعَدَّ حُدُوۡدَ اللّٰهِ فَقَدۡ ظَلَمَ
+  نَفۡسَهٗ​ ؕ لَا تَدۡرِىۡ لَعَلَّ اللّٰهَ يُحۡدِثُ بَعۡدَ ذٰ لِكَ اَمۡرًا‏
+sentence_translation: O Prophet! ˹Instruct the believers:˺ When you ˹intend to˺ divorce
+  women, then divorce them with concern for their waiting period, and count it accurately.
+  And fear Allah, your Lord. Do not force them out of their homes, nor should they
+  leave—unless they commit a blatant misconduct. These are the limits set by Allah.
+  And whoever transgresses Allah’s limits has truly wronged his own soul. You never
+  know, perhaps Allah will bring about a change ˹of heart˺ later. 
+word_by_word:
+  1:
+    arabic: يٰۤاَيُّهَا
+    translation: O
+    transliteration: yāayyuhā
+  2:
+    arabic: النَّبِىُّ
+    translation: Prophet
+    transliteration: l-nabiyu
+  3:
+    arabic: اِذَا
+    translation: When
+    transliteration: idhā
+  4:
+    arabic: طَلَّقۡتُمُ
+    translation: you divorce
+    transliteration: ṭallaqtumu
+  5:
+    arabic: النِّسَآءَ
+    translation: '[the] women'
+    transliteration: l-nisāa
+  6:
+    arabic: فَطَلِّقُوۡهُنَّ
+    translation: then divorce them
+    transliteration: faṭalliqūhunna
+  7:
+    arabic: لِعِدَّتِهِنَّ
+    translation: for their waiting period
+    transliteration: liʿiddatihinna
+  8:
+    arabic: وَاَحۡصُوا
+    translation: and keep count
+    transliteration: wa-aḥṣū
+  9:
+    arabic: الۡعِدَّةَ ​ ۚ
+    translation: (of) the waiting period
+    transliteration: l-ʿidata
+  10:
+    arabic: وَاتَّقُوا
+    translation: and fear
+    transliteration: wa-ittaqū
+  11:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  12:
+    arabic: رَبَّكُمۡ​ ۚ
+    translation: your Lord
+    transliteration: rabbakum
+  13:
+    arabic: لَا
+    translation: (Do) not
+    transliteration: lā
+  14:
+    arabic: تُخۡرِجُوۡهُنَّ
+    translation: expel them
+    transliteration: tukh'rijūhunna
+  15:
+    arabic: مِنۡۢ
+    translation: from
+    transliteration: min
+  16:
+    arabic: بُيُوۡتِهِنَّ
+    translation: their houses
+    transliteration: buyūtihinna
+  17:
+    arabic: وَلَا
+    translation: and not
+    transliteration: walā
+  18:
+    arabic: يَخۡرُجۡنَ
+    translation: they should leave
+    transliteration: yakhruj'na
+  19:
+    arabic: اِلَّاۤ
+    translation: except
+    transliteration: illā
+  20:
+    arabic: اَنۡ
+    translation: that
+    transliteration: an
+  21:
+    arabic: يَّاۡتِيۡنَ
+    translation: they commit
+    transliteration: yatīna
+  22:
+    arabic: بِفَاحِشَةٍ
+    translation: an immorality
+    transliteration: bifāḥishatin
+  23:
+    arabic: مُّبَيِّنَةٍ​ ؕ
+    translation: clear
+    transliteration: mubayyinatin
+  24:
+    arabic: وَتِلۡكَ
+    translation: And these
+    transliteration: watil'ka
+  25:
+    arabic: حُدُوۡدُ
+    translation: (are the) limits
+    transliteration: ḥudūdu
+  26:
+    arabic: اللّٰهِ​ ؕ
+    translation: (of) Allah
+    transliteration: l-lahi
+  27:
+    arabic: وَمَنۡ
+    translation: And whoever
+    transliteration: waman
+  28:
+    arabic: يَّتَعَدَّ
+    translation: transgresses
+    transliteration: yataʿadda
+  29:
+    arabic: حُدُوۡدَ
+    translation: (the) limits
+    transliteration: ḥudūda
+  30:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  31:
+    arabic: فَقَدۡ
+    translation: then certainly
+    transliteration: faqad
+  32:
+    arabic: ظَلَمَ
+    translation: he has wronged
+    transliteration: ẓalama
+  33:
+    arabic: نَفۡسَهٗ​ ؕ
+    translation: himself
+    transliteration: nafsahu
+  34:
+    arabic: لَا
+    translation: Not
+    transliteration: lā
+  35:
+    arabic: تَدۡرِىۡ
+    translation: you know
+    transliteration: tadrī
+  36:
+    arabic: لَعَلَّ
+    translation: Perhaps
+    transliteration: laʿalla
+  37:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  38:
+    arabic: يُحۡدِثُ
+    translation: will bring about
+    transliteration: yuḥ'dithu
+  39:
+    arabic: بَعۡدَ
+    translation: after
+    transliteration: baʿda
+  40:
+    arabic: ذٰ لِكَ
+    translation: that
+    transliteration: dhālika
+  41:
+    arabic: اَمۡرًا‏
+    translation: a matter
+    transliteration: amran
+---
+
+## Context
+
+To understand **The Divorce** (At-Talaq) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter, for it contains commandments about Talaq (divorce) itself. Hadrat \`Abdullah bin Mas\`ud has described it as Surah an-Nisa al-qusra also, i.e. the shorter Surah an-Nisa. Period of Revelation Hadrat Abdullah bin Masud has Pointed out, and the internal evidence of the subject matter of the Surah confirms the same, that it must have been sent down after those verses of surah Al-Baqarah in which commandments concerning divorce were given for the first time.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+(In the Name of Allah, the Most Gracious, the Most Merciful. The Status of Marriage and Divorce in Shari’ ah: The Wise Legal Framework In Ma’ ariful Qur’ an, Volume [ 1], p 573, in Surah Al-Baqarah, full details of the subject under similar heading are given.
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+(In the Name of Allah, the Most Gracious, the Most Merciful.
+
+يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+
+(1. O Prophet! When you divorce women, divorce them at their 'Iddah and count their 'Iddah. And have Taqwa of Allah, your Lord. And turn them not out of their homes nor shall they leave, except in case they are guilty of Fahishah Mubayyinah. And those are the set limits of Allah. And whosoever transgresses the set limits of Allah, then indeed he has wronged himself. You know not, it may be that Allah will afterward bring some new thing to pass.)
+
+There is a Period during which Divorced Women remain in Their Homes
+
+The Prophet ﷺ was addressed first in this Ayah, to honor him, even though his Ummah is also being addressed in Allah's statement,
+
+يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ
+
+(O Prophet! When you divorce women, divorce them at their 'Iddah)
+
+Al-Bukhari recorded that 'Abdullah bin 'Umar divorced his wife, during the lifetime of Allah's Messenger ﷺ, while she was menstruating. 'Umar bin Al-Khattab mentioned that to Allah's Messenger . Allah's Messenger ﷺ became angry and said,
+
+لِيُرَاجِعْهَا ثُمَّ يُمْسِكْهَا حَتّٰى تَطْهُرَ، ثُمَّ تَحِيضَ فَتَطْهُرَ، فَإِنْ بَدَا لَهُ أَنْ يُطَلِّقَهَا، فَلْيُطَلِّقْهَا طَاهِرًا قَبْلَ أَنْ يَمَسَّهَا، فَتِلْكَ الْعِدَّةُ الَّتِي أَمَرَ بِهَا اللهُ عَزَّ وَجَلَّ
+
+(Order him to take her back and keep her until she is clean from her menses, and then to wait until she gets her next period and becomes clean again. Then, if he wishes to divorce her, he can divorce her when she is clean from her menses, before he has sexual intercourse with her. This is the 'Iddah which Allah the Exalted and Most Honored has fixed.)
+
+Al-Bukhari recorded this Hadith in several parts of his Sahih. Muslim collected this Hadith and his narration uses these words,
+
+فَتِلْكَ الْعِدَّةُ الَّتِي أَمَرَ اللهُ أَنْ يُطَلَّقَ لَهَا النِّسَاءُ
+
+(This is the 'Iddah which Allah has fixed for the women being divorced.)
+
+In his Sahih, Muslim has recorded a Hadith which is a more appropriate version from a narration of Ibn Jurayj who said that Abu Az-Zubayr informed him that he heard 'Abdur-Rahman bin Ayman, the freed slave of 'Azzah, questioning 'Abdullah bin 'Umar. And Abu Az-Zubayr heard the question, "What about a man who divorces his wife while she is still on her menses?" 'Abdullah answered, "During the time of Allah's Messenger ﷺ, 'Abdullah bin 'Umar divorced his wife who was menstruating in the life time of Allah's Messenger ﷺ. So Allah's Messenger ﷺ said:
+
+لِيُرَاجِعْهَا
+
+(Let him take her back.) so she returned and he ﷺ said:
+
+إِذَا طَهُرَتْ فَلْيُطَلِّقْ أَوْ يُمْسِكْ
+
+(When she is pure, then either divorce or keep her.) 'Abdullah bin 'Umar said, "Allah's Messenger ﷺ recited this Ayah:
+
+يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ
+
+(O Prophet! When you divorce women, divorce them at their 'Iddah)
+
+And 'Abdullah (Ibn Mas'ud) commented on Allah's statement,
+
+فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ
+
+(divorce them at their 'Iddah) He said, "Purity without intercourse." Similar was reported from Ibn 'Umar, 'Ata', Mujahid, Al-Hasan, Ibn Sirin, Qatadah, Maymun bin Mihran and Muqatil bin Hayyan. It is also reported from 'Ikrimah and Ad-Dahhak.'Ali bin Abi Talhah reported from Ibn 'Abbas about the Ayah;
+
+فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ
+
+(divorce them at their 'Iddah), "He does not divorce her while she is on her menses nor while she is pure if he has had intercourse during that (purity). Rather, he leaves her until she has her menses and after the menses ends, then he divorces her once." And 'Ikrimah said about
+
+فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ
+
+(divorce them at their 'Iddah), "The 'Iddah is made up of cleanliness and the menstrual period." So he divorces her while it is clear that she is pregnant, or he does not due to having sex, or since he does not know if she is pregnant or not.
+
+This is why the scholars said that there are two types of divorce, one that conforms to the Sunnah and another innovated.
+
+The divorce that conforms to the Sunnah is one where the husband pronounces one divorce to his wife when she is not having her menses and without having had sexual intercourse with her after the menses ended. One could divorce his wife when it is clear that she is pregnant. As for the innovated divorce, it occurs when one divorces his wife when she is having her menses, or after the menses ends, has sexual intercourse with her and then divorces her, even though he does not know if she became pregnant or not. There is a third type of divorce, which is neither a Sunnah nor an innovation where one divorces a young wife who has not begun to have menses, the wife who is beyond the age of having menses, and divorcing one's wife before the marriage was consummated. Allah said,
+
+وَأَحْصُوا الْعِدَّةَ
+
+(and count their 'Iddah.) meaning, count for it and know its beginning and end, so that the 'Iddah does not become prolonged for the woman and she cannot get married again,
+
+وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ
+
+(And have Taqwa of Allah, your Lord.) in this matter.
+
+Spending and Housing is up to the Husband during the Revocable 'Iddah Period
+
+Allah said,
+
+لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ
+
+(And turn them not out of their homes nor shall they leave,) meaning, during the duration of the 'Iddah, she has the right to housing from her husband, as long as the 'Iddah period continues. Therefore, the husband does not have the right to force her out of her house, nor is she allowed to leave his house, because she is still tied to the marriage contract. Allah said,
+
+إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ
+
+(except in case they are guilty of Fahishah Mubayyinah.) meaning that the divorced wife is not to abandon her husband's house unless she commits Fahishah Mubayyinah, in which case, she vacates her husband's house. For example, Fahishah Mubayyinah implies adultery, according to 'Abdullah bin Mas'ud, Ibn 'Abbas, Sa'id bin Al-Musayyib, Ash-Sha'bi, Al-Hasan, Ibn Sirin, Mujahid, 'Ikrimah, Sa'id bin Jubayr, Abu Qilabah, Abu Salih, Ad-Dahhak, Zayd bin Aslam, 'Ata' Al-Khurasani, As-Suddi, Sa'id bin Hilal and others. Fahishah Mubayyinah implies disobeying her husband openly or when she abuses her husband's family in words and actions, according to Ubay bin Ka'b, Ibn 'Abbas, 'Ikrimah and others. Allah's statement,
+
+وَتِلْكَ حُدُودُ اللَّهِ ۚ
+
+(And those are the set limits of Allah.) means, these are from His legislation and prohibitions,
+
+وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ
+
+(And whosoever transgresses the set limits of Allah,) meaning, whoever violates these limits, transgresses them and implements anything else besides them,
+
+فَقَدْ ظَلَمَ نَفْسَهُ
+
+(then indeed he has wronged himself.) by doing so.
+
+The Wisdom of 'Iddah at the Husband's House
+
+Allah said,
+
+لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+
+(You know not, it may be that Allah will afterward bring some new thing to pass.) meaning, 'We commanded that the divorced wife remains in her husband's house during the 'Iddah period, so that the husband might regret his action and Allah decides that the husband feels in his heart for the marriage to continue.' This way, returning to his wife will be easier for him.
+
+Az-Zuhri said that 'Ubaydullah bin 'Abdullah said that Fatimah bint Qays said about Allah's statement,
+
+لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+
+(You know not, it may be that Allah will afterward bring some new thing to pass.) "Taking her back." Similar was said by Ash-Sha'bi, 'Ata', Qatadah, Ad-Dahhak, Muqatil bin Hayyan and Ath-Thawri.
+
+The Irrevocably Divorced Woman does not have a Right to Provisions and Accommodations from the Husband
+
+Here the view of the scholars of the Salaf and those who follow them is that housing is not obligatory in the case of the irrevocably divorced woman. They also relied on the Hadith of Fatimah bint Qays Al-Fihriyah when her husband Abu 'Amr bin Hafs divorced her the third and final time. He was away from her in Yemen at the time, and he sent her his decision to divorce her. He also sent some barley with his messenger, but she did not like the amount or method of compensation. He said, "By Allah I am not obligated to spend upon you." So, she went to Allah's Messenger ﷺ, who said,
+
+لَيْسَ لَكِ عَلَيْهِ نَفَقَةٌ
+
+(There is no obligation on him to spend on you.) Muslim added in his narration,
+
+وَلَا سُكْنَى
+
+(nor housing.) And he ordered her to finish her 'Iddah period in the house of Umm Sharik. He then said,
+
+تِلْكَ امْرَأَةٌ يَغْشَاهَا أَصْحَابِي، اعْتَدِّي عِنْدَ ابْنِ أُمِّ مَكْتُومٍ، فَإِنَّهُ رَجُلٌ أَعْمَىٰ تَضَعِينَ ثِيَابَكِ
+
+(She is a woman my Companions visit. Spend this period in the house of Ibn Umm Maktum, for he is a blind man; [he cannot see you if] you take off your garments.)
+
+Imam Ahmad collected this Hadith using another chain of narration. In his narration, the Messenger of Allah ﷺ said,
+
+انْظُرِي يَا بِنْتَ آلِ قَيْسٍ إِنَّمَا النَّفَقَةُ وَالسُّكْنَى لِلْمَرْأَةِ عَلَى زَوْجِهَا، مَا كَانَتْ لَهُ عَلَيْهَا رَجْعَةٌ، فَإِذَا لَمْ يَكُنْ لَهُ عَلَيْهَا رَجْعَةٌ فَلَا نَفَقَةَ وَلَا سُكْنَى،اخْرُجِي فَانْزِلِي عَلَى فُلَانَةَ
+
+(Look O daughter of the family of Qays! Spending and housing are required from the husband who can return to his wife. So if he does not have the right to return to her, then she does not have the right to spending and housing. So leave his house and go to so-and-so woman.) He then said,
+
+إِنَّهُ يُتَحَدَّثُ إِلَيْهَا، انْزِلِي عَلَى ابْنِ أُمِّ مَكْتُومٍ فَإِنَّهُ أَعْمَىٰ لَا يَرَاكِ
+
+(They speak to her. Therefore, go to Ibn Umm Maktum, for he is a blind man and cannot see you.)
+
+Abu Al-Qasim At-Tabarani recorded that 'Amir Ash-Sha'bi went to Fatimah bint Qays, sister of Ad-Dahhak bin Qays, from the tribe of Quraysh. Fatimah was married to Abu 'Amr bin Hafs bin Al-Mughirah, from Bani Makhzum. She said, "Abu 'Amr bin Hafs sent me his decision to divorce me while he was in an army that had gone to Yemen. I asked his friends to provide me with financial provisions and housing. They said, 'He did not send us anything for that, nor did he request it from us.' I went to Allah's Messenger ﷺ and said to him, 'O Allah's Messenger! Abu 'Amr bin Hafs divorced me, and I asked his friends to provide me with spending and housing and they said that he did not send them anything for that.' Allah's Messenger ﷺ said,
+
+إِنَّمَا السُّكْنَى وَالنَّفَقَةُ لِلْمَرْأَةِ إِذَا كَانَ لِزَوْجِهَا عَلَيْهَا رَجْعَةٌ، فَإِذَا كَانَتْ لَا تَحِلُّ لَهُ حَتّٰى تَنْكِحَ زَوْجًا غَيْرَهُ:فَلَا نَفَقَةَ لَهَا وَلَا سُكْنَى
+
+(Spending and housing are required from the husband for his divorced wife if he can return to her. If she is not permitted for him anymore, until she marries another husband, then he does not have to provide her with spending and housing.)" An-Nasa'i also recorded this narration.
+
+## Maarif ul Quran
+
+The Status of Marriage and Divorce in Shari’ ah: The Wise Legal Framework
+
+In Ma’ ariful Qur’ an, Volume [ 1], p 573, in Surah Al-Baqarah, full details of the subject under similar heading are given. The gist of the matter is that marriage and divorce in any given religion is not like a mutual transaction or contract similar to transactions in buying and selling or in loans and repayments, which the contracting parties may conclude as they wish. In all ages there has always been a consensus among followers of all religions that these contracts have a special sacred nature, for above ordinary contracts. Marriage and divorce must, of necessity, follow the sacred laws. The People of the Book, Jews and Christians, have a celestial religion and a heavenly book. Despite countless changes and distortions, they still retain the religious value of marriage, consider it sacrosanct and are unwilling to change its ceremonial rites. They maintain that traditional restrictions are binding. Idol-worshippers, who do not have any celestial book or religion, but do believe in the Supreme Being, like Hindus, Aryahs, Sikhs, Magi, Fire-worshippers and star-worshippers, all believe in the sacred nature of marriage and divorce and feel bound to fulfill their religious rites when getting married. All family laws are based on these principles of the various religions.
+
+Only the atheistic group, which rejects outright the existence of God or does not see the need for religion, feel that marriage and divorce are like any other commercial transaction like ‘hiring contract’. The purpose of marriage is no more than gratification of one’ s carnal desires. Alas, this theory seems to be gaining momentum throughout the world nowadays, which has made man to join the beastly queue. To Allah we belong and to Him we direct our complaint!
+
+The sacred law of Islam is a complete and chaste system of life. Islam has not treated marriage as a civil contract only, but has endowed it with the status of a kind of worship. The institution thus not only allows the satisfaction of carnal desires of husband and wife in a chaste manner, with which they are naturally endued, but it also hinds them in a wise and just system of mutual rights and obligations essential to the proper functioning of family life and solving the sociological problems like preserving the human race and upbringing of the children.
+
+Since the proper functioning of human race depends on the proper maintenance of marital relationship, Islam has focused attention on family issues most exhaustively. By a careful analysis of the Holy Qur’ an we notice that commercial contracts like sale, partnership, hiring and so on are though among the most important socio-economic problems, the Holy Qur’ an has restricted itself to setting down their basic principles, and the bye-laws are rarely ever touched upon in matters of marriage and divorce, on the other hand, not only the fundamental principles have been laid down, but their detailed laws have also been directly revealed by Allah in the Qur’ an and entrenched.
+
+These laws have been scattered in various Chapters, and Surah An-Nisa’ deals with them more elaborately. The current Surah, known as Surah An-Nisa’ As-Sughra or the Short Surah An-Nisa’ [ Qurtubi with reference to Bukhari ]
+
+According to the drift of Islamic teachings, when a man and a woman contract marriage, it should establish a permanent relationship for the whole lifetime. This will maintain stability of husband and wife in mundane, as well as, in religious affairs, and also in the up-bringing of the children born to this wedlock, so that their moral conduct is proper and upright. Therefore, Islam at every step of the way, guides marriage partners to avoid bitterness in their marital relationship, and even if it does arise, utmost efforts are made to remove it and to patch up differences and reconcile. However, despite all these attempts, it is possible in some cases that there remains no way out for the welfare of the estranged parties except to terminate this relationship. Religions that do not allow divorce cause hardship for their followers when faced with such complicated situations and lead to serious consequences. For that reason, Islam has, like the laws of marriage, laid down principles and rules for divorce as well. However, it has at the same time declared to its followers the guiding principle that, out of all permissible acts, divorce is the most detested one in the sight of Allah. [ narrated by Sayyidna ‘Abdullah Ibn ‘Umar ؓ ], meaning that people should avoid it as far as possible. They should use this provision only as a last resort, only when they are compelled to do it. Sayyidna ‘Ali ؓ has narrated that the Messenger of Allah ﷺ said تزوّجوا ولا تطلقوا فانّ الطّلاق یھتزّ منہ عرش الرّحمٰن Marry; do not divorce because divorce causes the Throne of the All-Merciful to shudder.) Sayyidna Abu Musa Ash’ ari ؓ narrates that the Messenger of Allah ﷺ said: “ Do not divorce women without their committing the evil act, because Allah does not love men who merely wish to experience the taste of sex, nor does He loves women who merely wish to experience the taste of sex.” [ Qurtubi vide Thalabi ]
+
+Sayyidna Mua’ dh Ibn Jabal ؓ narrates that the Messenger of Allah ﷺ said: “ Allah has created nothing on the face of the earth dearer to Him than emancipation of slaves, and Allah has created nothing on the face of earth more hateful to Him than divorce.” [ Qurtubi ]
+
+Nevertheless, Islam has though discouraged divorce and has advised its followers to avoid it as far as possible, it has allowed it in cases of necessity under special rules and regulations which require that if termination of marital relationship becomes necessary, it should be done in a fair and dignified manner. Divorce should not be taken as a means of satisfying anger and revenge.
+
+This Surah opens with the vocative expression يَا أَيُّهَا النَّبِيُّ ( O Prophet), which according to Imam Qurtubi, is generally used where the rule declared after that is intended to apply to the entire body of the believers. Where the injunction is exclusively meant for the person of the Holy Prophet ﷺ ، he is addressed as يَا أَيُّهَا رسُولُ ( O Messenger).
+
+In this context, the vocative expression يَا أَيُّهَا النَّبِيُّ Ya-ayyuhan-Nabiyu is singular and as such it required that the verb should be singular as well to comply with the Arabic grammatical rule of concordance, but we notice that the verb used is the second person plural thus إِذَا طَلَّقْتُمُ النِّسَاءَ ( O prophet, when you people divorce women).
+
+In terms of literary usage and rules of eloquence, there are two types of plural: plural of number and honorific plural. Plural of number applies to three or more persons, but often the plural may refer to one person only in which case it expresses respect or honour and is called honorific plural. In the light of this rule, the plural verb addresses the ‘prophet’ directly as a mark of respect and honour, and at the same time it indicates that the injunctions not restricted to him exclusively, but it applies to the entire body of believers.
+
+Some scholars, however, are of the view that a sentence is understood here in the following way: يَا أَيُّهَا النَّبِيُّ قُل لِّلمُؤمِنِینَ إِذَا طَلَّقْتُمُ النِّسَاءَ which means: O prophet, say to the believers that when they divorce their wives, they should observe the following:
+
+Rule [ 1]
+
+فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ (…divorce them at a time when the period of ‘iddah means to ‘count’ and in the terminology of Shri’ ah the term ‘iddah means to ‘count’ and in the terminology of Shari’ ah the term ‘iddah means the waiting period prescribed for a divorced woman before she can marry another man. There are two ways in which a woman’ s marriage may be terminated. [ 1] When her husband dies, in which case the period of waiting is four months and ten days. [ 2] Her marriage ends when the husband divorces her. In the case of a divorcee that is not pregnant, ‘iddah is three periods of menstruation according to Imam Abu Hanifah and other leading authorities. According to Imam Shafi’ i and other scholars, the waiting period for a divorcee is three tuhrs (i.e. three periods of purity after menses). However, there are no days or months fixed for her. Whenever her three menstrual cycles or clean cycles complete, her waiting period of divorce will be over. Women who do not menstruate, because they have not yet attained puberty, or because they have attained menopausal age, rule about them is forthcoming. Likewise, the rule for pregnant women is also forthcoming, in which case the waiting period for death and divorce is the same. The verse indicates that divorce should be given during tuhr (when woman is not in her menstruation period), so that ‘iddah may start from her immediate menstruation period. Conversely, if she is divorced during menses, ‘iddah will start from the next menses period, and she will have to wait for a longer time before her ‘iddah may start.
+
+Sahih of Bukhari and Muslim record that Sayyidna Ibn ‘umar ؓ divorced his wife while she was menstruating. When Sayyidna ‘Umar ؓ mentioned this to the Messenger of Allah ﷺ ، he became very indignant and said:
+
+لیراجعھا ثم یمسکھا حتّی تطھر ثم تحیض فتطھر ، فان بدا لہ فلیطلقھا طاھرًاقبل ان یمسّھا ، فتلک العدّہ الّتی امرھا اللہ تعالیٰ ان یطلّق بھا النّساء۔
+
+“ He must take her back and keep her till she is purified, then has another menstrual cycle and is purified. If it then seems proper for him to pronounce another divorce to her, he may do so when she is pure from the menstrual discharge before having conjugal relations with her, for that is the ‘iddah that Allah has commanded for the divorce of women.” [ Sahih Bukhari and Muslim as quoted by Mazhari ].
+
+This Hadith clarifies several points. [ 1] It is forbidden to divorce a woman while she is menstruating. [ 2] If a person does this, it is necessary for him to retract the divorce, provided that it is revocable as was in the case of Sayyidna Ibn ‘Umar ؓ . [ 3] If a husband wishes to divorce his wife during the clean-period, he must not have had conjugal relations with her. And [ 4] This is the interpretation of verse [ 1] of this Surah: فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ.
+
+From what is cited above the meaning of the verse is explained, in that if a husband wishes to pronounce divorce on his wife, he must do so before her waiting period can commence. Since, according to Imam Abu Hanifah, the waiting period will start with the menstrual cycle that follows the divorce, the meaning of the verse would be that in the clean period in which divorce is intended to be pronounced, no intercourse should take place, and that it should be pronounced towards the last part of the clean period before the start of the menstrual cycle. But since according to Imam Shafi’ i, the waiting-period starts with the clean-period, the phrase لِقِبَلِ عِدَّتُهُنَّ (before their waiting-period) implies: ‘Divorce them at the start of the clean-period’. This difference of opinion hinges on the differential interpretation of the word quru’ occurring in verse ثَلَاثَةَ قُرُ‌وءٍ [ 228] of Surah Baqarah. The details are available in Volume [ 1] of Ma’ ariful Qur’ an under [ 2:228]
+
+In sum: The first rule as derived from the verse under comments is that, according to unanimity of the Ummah, it is forbidden to pronounce divorce during the monthly courses. It should be pronounced in the interval between two monthly courses during which the husband and wife should not have had sexual intercourse. If they had intercourse during the interval, it is forbidden to pronounce the divorce. The reason for the prohibition in both cases is that the waiting-period of the wife will be unnecessarily prolonged and will cause her undue hardship. If she is divorced during her monthly course, it will not be counted. She will have to complete her days of menstruation and, according to the Hanafi school, the next clean-period or interval will not be counted either. When the second monthly course commences, her ‘iddah will start. This will obviously lengthen her period greatly. According to the Shafi’ i school, at least the rest of the menstrual days, which passed before the waiting-period, will be increased.
+
+This very first rule about divorce ensures that divorce is not a source of satisfying a fit to anger or revenge. It is rather an arrangement adopted as a last resort for the comfort of both the parties. It is necessary, therefore, to keep in mind from the very outset that the wife should not be unduly harmed by prolonging her waiting period.
+
+This procedure applies in the case of the women whose ‘iddah is calculated by menstrual cycles or clean cycles. It does not apply to women for whom waiting-period is not compulsory, as in the case of a woman who did not have privacy with her husband. If a man and a woman got married but they did not get together in privacy, ‘iddah is not necessary for her at all when she is divorced. Therefore, it is permissible to divorce such women during their monthly courses. Likewise, ‘iddah for a woman who does not menstruate on account of minority of age, or because she had attained menopausal age, is computed on monthly basis. Their ‘iddah is three months. Their menstrual or pure cycles are not taken into account. It is permissible to divorce them in any state, and even after having intercourse with them, as the forthcoming verses will clarify. [[ Mazhari ] paraphrased ]
+
+Rule [ 2]
+
+وَ اَحصُوا العِدَّۃَ (And count the period of ‘iddah…1) The word Ihsa’ means ‘to count’. The verse purports to say that the believers, men and women, should keep a careful count of the passing days of the waiting period, lest they forget the exact days and feel, before time, that the waiting-period is over. The responsibility of keeping count of the days has been imposed on both men and women, although only masculine form has been used here. Generally, when the Qur’ an imposes injunctions on men and women, it uses the masculine form but it includes women as well. Another reason for using masculine gender here may be that women are generally more heedless, and therefore, the responsibility has been put directly on the shoulders of men.
+
+Rule [ 3]
+
+لَا تُخْرِ‌جُوهُنَّ مِن بُيُوتِهِنَّ وَلَا يَخْرُ‌جْنَ (Do not expel them from their houses, nor should they go out…65:1). The construction in this verse contains the phrase بُيُوتِهِنَّ ‘their houses’, and implies that, so far as the residence of divorced women is due on men, they have a rightful claim in the home of their former husbands. Letting them reside there is no favour to them, but it is one of the basic rights of a wife that has been imposed upon the husband as an obligation. This verse shows that this right of her does not end with divorce, but continues till the completion of waiting-period. Expelling a woman from her house before the completion of the waiting-period is unjust and forbidden. Likewise, it is forbidden for women to leave their houses on their own, even though the husband may permit her to leave, because spending the waiting-period in their houses is not only the husband’ s right, but also the Divine right, in that Allah has imposed on a woman in her period of ‘iddah. This is the rule according to the Hanafi school.
+
+Rule [ 4]
+
+إِلَّا أَن يَأْتِينَ بِفَاحِشَةٍ مُّبَيِّنَةٍ (…unless they come up with a clearly shameless act…65:1). It is forbidden to expel divorcees from their homes when they are passing their period of ‘iddah. However, an exception is made in this part of the verse. The exception applies to a situation when they come up with a clearly shameless act, in which case they may be expelled. What is meant by ‘a clearly shameless act’? There are three views regarding this question:
+
+The first view is that ‘leaving husband’ s home on her own’ is in itself an act of committing an outright indecency. In this interpretation, the ‘exception’ is not meant as a real exception. It does not purport to allow women to leave the homes, but to emphasize its prohibition with greater force. Its example is as follows: ‘None shall do such-and-such certain work “ unless” he has lost his human quality’, or ‘Do not use obscene language against your mother “ unless” you wish to become out-and-out disobedient to your mother’. The first example of ‘exception’ does not purport to legalize the act, nor does the second example purport to legitimate it. Both examples eloquently emphasize prohibition of the acts. In brief, the injuction in the verse sets down that divorcees are not permitted to leave their husband’ s homes, unless they have reached the ultimate point of indecency and run away. Thus it does not allow to run away, but stresses its shamelessness and confirms its prohibition. This interpretation of ‘clearly shameless act’ is ascribed to Sayyidna ‘Abdullah Ibn ‘Umar ؓ ، Suddi, Ibn-us-Sa’ ib, an-Nakha’ i and others. Imam Abu Hanifah (رح) has also preferred this interpretation. [ Ruh-ul-Ma’ ani ]
+
+The second interpretation of the phrase فَاحِشَةٍ مُّبَيِّنَةٍ ‘a clearly shameless act’ is that it refers to ‘adultery’ in which case the use of ‘exception’ would be in its normal sense. If a divorced woman commits adultery and it is proved that she is guilty of the crime, she will have to be taken away from her home to implement the prescribed punishment of adultery. This interpretation is attributed to Qatadah, Hasan al-Basri, Sha’ bi, Zaid Ibn Aslam, Dahhak, ‘Ikrimah and others. Imam Abu Yusuf has preferred this interpretation.
+
+The third view about the phrase ‘a clearly shameless act’ is that it refers to the ‘use of abusive language’ or ‘quarreling’. The sense is that if the woman uses abusive language or its quarrelsome, it is permissible to evict her from her home of ‘iddah. This interpretation of the phrase is ascribed to Sayyidna Ibn ‘Abbas ؓ on the authority of several chains of transmitters. According to Sayyidna ‘Abdullah Ibn Mas’ ud ؓ and Ubayy Ibn Ka’ b ؓ ، the exceptive phase is read thus اِلَّا اَن یَفحَشَ. The apparent maning of this reading is ‘indecent speech’. This reading confirms the third interpretation. [ Ruh ]. In this case as well, the ‘exception’ is employed inits primary sense – in that if a divorced woman is obscene in words and actions, she can be evicted from her home of waiting-period.
+
+Thus far four rules of divorcing procedure have been set down. More rules are forthcoming, but between them there are a few sentences to stress upon the strict adherence to these rules and to exhort people to carefully refrain from their violation. It is a unique style of the Qur’ an that after every command or injunction, its violation is prevented by instilling Allah’ s awful reverence in the hearts, and by invoking concern about the Hereafter. Especially the relationship between husband and wife is so delicate that their mutual rights cannot be fulfilled merely by legislation. The only thing that can prevent spouses from violation of the rules in the fear of Allah and the Hereafter.
+
+وَتِلْكَ حُدُودُ اللَّـهِ ۚ وَمَن يَتَعَدَّ حُدُودَ اللَّـهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِ‌ي لَعَلَّ اللَّـهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرً‌ا
+
+(And these are the limits prescribed by Allah. And whoever exceeds the limits prescribed by Allah wrongs his own self. You do not know [ what will happen in future ]; it may be that Allah brings about a new situation thereafter…65:1)
+
+The phrase حُدُودَ اللَّـهِ (the limits prescribed by Allah) refers to the sacred laws set down by the Shari’ ah of Islam. The phrase وَمَن يَتَعَدَّ (And whoever exceeds the limits prescribed by Allah) implies ‘whoever violates the sacred laws’. The phrase فَقَدْ ظَلَمَ نَفْسَهُ (wrongs his own self) implies that he has not damaged Allah’ s sacred laws or the Shari’ ah. In fact, he has caused loss to himself. The loss could be religious, or it could be mundane. The religious loss means that he has sinned by violating the sacred laws, in consequence of which he will suffer in the Hereafter. The mundane loss means that any person who pronounces divorce in violation of the rules prescribed by the Shari’ ah will most probably end up with three pronouncements of divorce, after which it cannot be revoked and even a fresh marriage is not possible. Such a person regrets bitterly and suffers tremendous hardship in this very world, especially if he has children. Many people divorce their wives with the intention of causing harm to them. It may cause some harm to the wives but such cruel husbands will be liable to double punishment: firstly for breaking the sacred laws of Allah, and secondly for the cruelty exercised against women. Such a situation has been so eloquently versified by a Persian poet:
+
+پنداشت ستمگر جفا بر ما کرد بر گردن وے بماند و برما بگذشت
+
+The oppressor thinks that he has caused misery for us
+
+However, our misery comes to an end, but the liability of oppressor for good.
+
+لَا تَدْرِ‌ي لَعَلَّ اللَّـهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرً‌ا (You do not know; it may be that Allah brings about a new situation thereafter…65:1). These words signify that after estranged relations between the espouses, Allah may create a situation where the husband may recall the comforts he enjoyed in his wife’ s company, and realize the services offered by her in taking care of children and the home. On realizing this, he may be remorseful on what he did, retract the divorce and retain her as his wife. This is possible only if at the time of divorcing the limits prescribed by the Shari’ ah is kept in view and instead of making the divorce ba’ in, a revocable divorce is pronounced, in which case the husband has the right to retract it and retain the wife. Irrevocable divorce should not be resorted to unnecessarily because it terminates the marriage at once. Nor should three divorces should be pronounced, because after the third pronouncement, the husband does not have the right to retract, nor is it possible to renew the marriage contract, even if the divorced parties agree mutually.
+
+## Personal Reflections

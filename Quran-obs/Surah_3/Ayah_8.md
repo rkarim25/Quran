@@ -1,0 +1,291 @@
+---
+arabic_ayat: رَبَّنَا لَا تُزِغۡ قُلُوۡبَنَا بَعۡدَ اِذۡ هَدَيۡتَنَا وَهَبۡ لَنَا
+  مِنۡ لَّدُنۡكَ رَحۡمَةً ​ ۚ اِنَّكَ اَنۡتَ الۡوَهَّابُ‏
+sentence_translation: ˹They say,˺ “Our Lord! Do not let our hearts deviate after you
+  have guided us. Grant us Your mercy. You are indeed the Giver ˹of all bounties˺.
+word_by_word:
+  1:
+    arabic: رَبَّنَا
+    translation: Our Lord
+    transliteration: rabbanā
+  2:
+    arabic: لَا
+    translation: (Do) not
+    transliteration: lā
+  3:
+    arabic: تُزِغۡ
+    translation: deviate
+    transliteration: tuzigh
+  4:
+    arabic: قُلُوۡبَنَا
+    translation: our hearts
+    transliteration: qulūbanā
+  5:
+    arabic: بَعۡدَ
+    translation: after
+    transliteration: baʿda
+  6:
+    arabic: اِذۡ
+    translation: '[when]'
+    transliteration: idh
+  7:
+    arabic: هَدَيۡتَنَا
+    translation: You (have) guided us
+    transliteration: hadaytanā
+  8:
+    arabic: وَهَبۡ
+    translation: and grant
+    transliteration: wahab
+  9:
+    arabic: لَنَا
+    translation: (for) us
+    transliteration: lanā
+  10:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  11:
+    arabic: لَّدُنۡكَ
+    translation: Yourself
+    transliteration: ladunka
+  12:
+    arabic: رَحۡمَةً ​ ۚ
+    translation: mercy
+    transliteration: raḥmatan
+  13:
+    arabic: اِنَّكَ
+    translation: Indeed You
+    transliteration: innaka
+  14:
+    arabic: اَنۡتَ
+    translation: You
+    transliteration: anta
+  15:
+    arabic: الۡوَهَّابُ‏
+    translation: (are) the Bestower
+    transliteration: l-wahābu
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+It is He Who has sent down to you the Book. The previous verse mentioned 'those well-grounded in knowledge' who, in spite of their excellent knowledge, were not proud of their excellence.
+
+## Tafsir Ibn Kathir
+
+It is He Who has sent down to you the Book. In it are verses that are entirely clear, they are the foundations of the Book; and others not entirely clear. So as for those in whose hearts there is a deviation (from the truth) they follow (only) that which is not entirely clear thereof, seeking Al-Fitnah, and seeking its Ta'wil, but none knows its Ta'wil except Allah. And those who are firmly grounded in knowledge say: "We believe in it; all of it is from our Lord." And none receive admonition except men of understanding (7)(They say): "Our Lord! Let not our hearts deviate (from the truth) after You have guided us, and grant us mercy from You. Truly, You are the Bestower. (8)"Our Lord! Verily, it is You Who will gather mankind together on the Day about which there is no doubt. Verily, Allah never breaks His Promise. (9)
+
+The Mutashabihat and Muhkamat Ayat
+
+Allah states that in the Qur'an, there are Ayat that are Muhkamat, entirely clear and plain, and these are the foundations of the Book which are plain for everyone. And there are Ayat in the Qur'an that are Mutashabihat not entirely clear for many, or some people. So those who refer to the Muhkam Ayat to understand the Mutashabih Ayat, will have acquired the correct guidance, and vice versa. This is why Allah said,
+
+هُنَّ أُمُّ الْكِتَابِ
+
+(They are the foundations of the Book), meaning, they are the basis of the Qur'an, and should be referred to for clarification, when warranted,
+
+وَأُخَرُ مُتَشَابِهَاتٌ
+
+(And others not entirely clear) as they have several meanings, some that agree with the Muhkam and some that carry other literal indications, although these meaning might not be desired.
+
+The Muhkamat are the Ayat that explain the abrogating rulings, the allowed, prohibited, laws, limits, obligations and rulings that should be believed in and implemented. As for the Mutashabihat Ayat, they include the abrogated Ayat, parables, oaths, and what should be believed in, but not implemented.
+
+Muhammad bin Ishaq bin Yasar commented on,
+
+مِنْهُ آيَاتٌ مُّحْكَمَاتٌ
+
+(In it are verses that are entirely clear) as "Containing proof of the Lord, immunity for the servants and a refutation of opponents and of falsehood. They cannot be changed or altered from what they were meant for." He also said, "As for the unclear Ayat, they can (but must not) be altered and changed, and this is a test from Allah to the servants, just as He tested them with the allowed and prohibited things. So these Ayat must not be altered to imply a false meaning or be distorted from the truth."
+
+Therefore, Allah said,
+
+فَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ زَيْغٌ
+
+(So as for those in whose hearts there is a deviation) meaning, those who are misguided and deviate from truth to falsehood,
+
+فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ
+
+(they follow that which is not entirely clear thereof) meaning, they refer to the Mutashabih, because they are able to alter its meanings to conform with their false interpretation since the wordings of the Mutashabihat encompass such a wide area of meanings. As for the Muhkam Ayat, they cannot be altered because they are clear and, thus, constitute unequivocal proof against the misguided people. This is why Allah said,
+
+ابْتِغَاءَ الْفِتْنَةِ
+
+(seeking Al-Fitnah) meaning, they seek to misguide their following by pretending to prove their innovation by relying on the Qur'an – the Mutashabih of it – but, this is proof against and not for them. For instance, Christians might claim that ('Isa is divine because) the Qur'an states that he is Ruhullah and His Word, which He gave to Mary, all the while ignoring Allah's statements,
+
+إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ
+
+(He ['Isa] was not more than a servant. We granted Our favor to him.)[43:59], and,
+
+إِنَّ مَثَلَ عِيسَىٰ عِندَ اللَّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِن تُرَابٍ ثُمَّ قَالَ لَهُ كُن فَيَكُونُ
+
+(Verily, the likeness of 'Isa before Allah is the likeness of Adam. He created him from dust, then (He) said to him: "Be!" and he was.)[3:59].
+
+There are other Ayat that clearly assert that 'Isa is but one of Allah's creatures and that he is the servant and Messenger of Allah, among other Messengers.
+
+Allah's statement,
+
+وَابْتِغَاءَ تَأْوِيلِهِ
+
+(And seeking for its Ta'wil,) to alter them as they desire. Imam Ahmad recorded that 'A'ishah said, "The Messenger of Allah ﷺ recited,
+
+هُوَ الَّذِي أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ هُنَّ أُمُّ الْكِتَابِ وَأُخَرُ مُتَشَابِهَاتٌ
+
+(It is He Who has sent down to you the Book. In it are verses that are entirely clear, they are the foundations of the Book; and others not entirely clear,), until,
+
+أُولُو الْأَلْبَابِ
+
+(Men of understanding) and he said,
+
+فَإِذَا رَأَيْتُمُ الَّذِين يُجَادِلُونَ فِيهِ، فَهُمُ الَّذِينَ عَنَى اللهُ، فَاحْذَرُوهُم
+
+(When you see those who argue in it (using the Mutashabihat), then they are those whom Allah meant. Therefore, beware of them.)"
+
+Al-Bukhari recorded a similar Hadith in the Tafsir of this Ayah [3:7], as did Muslim in the book of Qadar (the Divine Will) in his Sahih, and Abu Dawud in the Sunnah section of his Sunan, from 'A'ishah; "The Messenger of Allah ﷺ recited this Ayah,
+
+هُوَ الَّذِي أَنزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُّحْكَمَاتٌ
+
+(It is He Who has sent down to you the Book. In it are verses that are entirely clear,) until,
+
+وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ
+
+(And none receive admonition except men of understanding.)
+
+He then said,
+
+فَإِذَا رَأَيْتِ الَّذِينَ يَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ فَأُولئِكَ الَّذِينَ سَمَّى اللهُ فَاحْذَرُوهُم
+
+(When you see those who follow what is not so clear of the Qur'an, then they are those whom Allah described, so beware of them.)"
+
+This is the wording recorded by Al-Bukhari.
+
+Only Allah Knows the True Ta'wil (Interpretation) of the Mutashabihat
+
+Allah said,
+
+وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهُ
+
+(But none knows its Ta'wil except Allah.)
+
+Similarly, as preceded in what has been reported from Ibn 'Abbas, "Tafsir is of four types: Tafsir that the Arabs know in their language; Tafsir that no one is excused of being ignorant of; Tafsir that the scholars know; and Tafsir that only Allah knows." Scholars of Qur'an recitation have different opinions about pausing at Allah's Name in this Ayah. This stop was reported from 'A'ishah, 'Urwah, Abu Ash-Sha'tha' and Abu Nahik.
+
+Some pause after reciting,
+
+وَالرَّاسِخُونَ فِي الْعِلْمِ
+
+(And those who are firmly grounded in knowledge) saying that the Qur'an does not address the people with what they cannot understand. Ibn Abi Najih said that Mujahid said that Ibn 'Abbas said, "I am among those who are firmly grounded in its Ta'wil interpretation." The Messenger of Allah ﷺ supplicated for the benefit of Ibn 'Abbas,
+
+اللَّهُمَّ فَقِّهْهُ فِي الدِّينِ وَعَلِّمْهُ التَّأْوِيلَ
+
+(O Allah! Bestow on him knowledge in the religion and teach him the Ta'wil (interpretation).)
+
+Ta'wil has two meanings in the Qur'an, the true reality of things, and what they will turn out to be. For instance, Allah said,
+
+وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ
+
+(And he said: "O my father! This is the Ta'wil of my dream aforetime!".)[12:100], and,
+
+هَلْ يَنظُرُونَ إِلَّا تَأْوِيلَهُ يَوْمَ يَأْتِي تَأْوِيلُهُ
+
+(Await they just for it's Ta'wil? On the Day (Day of Resurrection) it's Ta'wil is finally fulfillled.)(7:53) refers to the true reality of Resurrection that they were told about. If this is the meaning desired in the Ayah above (3:7), then pausing after reciting Allah's Name is warranted, because only Allah knows the true reality of things. In this case, Allah's statement,
+
+وَالرَّاسِخُونَ فِي الْعِلْمِ
+
+(And those who are firmly grounded in knowledge) is connected to His statement,
+
+يَقُولُونَ آمَنَّا بِهِ
+
+(say: "We believe in it") If the word Ta'wil means the second meaning, that is, explaining and describing, such as what Allah said,
+
+نَبِّئْنَا بِتَأْوِيلِهِ
+
+((They said): "Inform us of the Ta'wil of this")[12:36] meaning its explanation, then pausing after reciting,
+
+وَالرَّاسِخُونَ فِي الْعِلْمِ
+
+(And those who are firmly grounded in knowledge) is warranted. This is because the scholars have general knowledge in, and understand what they were addressed with, even though they do not have knowledge of the true reality of things. Therefore, Allah's statement,
+
+يَقُولُونَ آمَنَّا بِهِ
+
+(say: "We believe in it") describes the conduct of the scholars. Similarly, Allah said,
+
+وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
+
+(And your Lord comes, and the angels, in rows.)[89:22] means, your Lord will come, and the angels will come in rows.
+
+Allah's statement that the knowledgeable people proclaim,
+
+يَقُولُونَ آمَنَّا بِهِ
+
+(We believe in it) means, they believe in the Mutashabih.
+
+كُلٌّ مِّنْ عِندِ رَبِّنَا
+
+(all of it is from our Lord) meaning, both the Muhkam and the Mutashabih are true and authentic, and each one of them testifies to the truth of the other. This is because they both are from Allah and nothing that comes from Allah is ever met by contradiction or discrepancy. Allah said,
+
+أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا
+
+(Do they not then consider the Qur'an carefully? Had it been from other than Allah, they would surely have found therein many a contradiction.)[4:82].
+
+Allah said in his Ayah [3:7],
+
+وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ
+
+(And none receive admonition except men of understanding.) meaning, those who have good minds and sound comprehension, understand, contemplate and comprehend the meaning in the correct manner. Further, Ibn Al-Mundhir recorded in his Tafsir that Nafi' bin Yazid said, "Those firmly grounded in knowledge are those who are modest for Allah's sake, humbly seek His pleasure, and do not exaggerate regarding those above them, or belittle those below them."
+
+Allah said that they supplicate to their Lord,
+
+رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا
+
+(Our Lord! Let not our hearts deviate (from the truth) after You have guided us.) meaning, "Do not deviate our hearts from the guidance after You allowed them to acquire it. Do not make us like those who have wickedness in their hearts, those who follow the Mutashabih in the Qur'an. Rather, make us remain firmly on Your straight path and true religion."
+
+وَهَبْ لَنَا مِن لَّدُنكَ
+
+(And grant us from Ladunka) meaning, from You,
+
+رَحْمَةً
+
+(Mercy) with which You make our hearts firm, and increase in our Faith and certainty,
+
+إِنَّكَ أَنتَ الْوَهَّابُ
+
+(Truly, You are the Bestower)
+
+Ibn Abi Hatim and Ibn Jarir recorded that Umm Salamah said that the Prophet ﷺ used to supplicate,
+
+يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ
+
+(O You Who changes the hearts, make my heart firm on Your religion.)
+
+He then recited,
+
+رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ
+
+("Our Lord! Let not our hearts deviate (from the truth) after You have guided us, and grant us mercy from You. Truly, You are the Bestower.") The Ayah continues,
+
+رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ
+
+("Our Lord! Verily, it is You Who will gather mankind together on the Day about which there is no doubt") meaning, they say in their supplication: O our Lord! You will gather Your creation on the Day of Return, judge between them and decide over what they disputed about. Thereafter, You will reward or punish each according to the deeds they did in this life.
+
+## Maarif ul Quran
+
+Sequence
+
+The previous verse mentioned 'those well-grounded in knowledge' who, in spite of their excellent knowledge, were not proud of their excellence. Instead of that, they elected to have faith in what comes from their Lord. The present verse mentions yet another excellence of theirs - that they pray for steadfastness on the right path, not for any worldly gains, but for salvation in the life-to-come.
+
+Commentary
+
+The first verse (8) shows us that guidance and straying are from Allah alone. When Allah intends to guide someone, He makes his heart tilt towards what is good and right; and when He decides to let someone go astray, He turns his heart away from the straight path.
+
+This is just as it was said in a hadith of the Holy Prophet ﷺ There is no heart which is not there in between the two of Allah's fingers - He makes it firm on the truth as long as He wills, and turns it away from the truth when He wills.
+
+He is Allah, absolute in power. He does what He wills. Therefore, those who are concerned about how to remain firm in their faith, they go to the source - requesting and praying Allah for steadfastness. The Holy Prophet ﷺ always used to pray for it as it appears in a hadith: یامقلب القلوب ثبت قلوبنا علی دینک ( O reverser of hearts, make our hearts firm on the faith chosen by You). (Mazhari)
+
+## Personal Reflections

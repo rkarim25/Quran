@@ -1,0 +1,175 @@
+---
+arabic_ayat: وَقَالَ رَبُّكُمُ ادۡعُوۡنِىۡۤ اَسۡتَجِبۡ لَـكُمۡؕ اِنَّ الَّذِيۡنَ يَسۡتَكۡبِرُوۡنَ
+  عَنۡ عِبَادَتِىۡ سَيَدۡخُلُوۡنَ جَهَنَّمَ دَاخِرِيۡنَ‏
+sentence_translation: Your Lord has proclaimed, “Call upon Me, I will respond to you.
+  Surely those who are too proud to worship Me will enter Hell, fully humbled.”
+word_by_word:
+  1:
+    arabic: وَقَالَ
+    translation: And said
+    transliteration: waqāla
+  2:
+    arabic: رَبُّكُمُ
+    translation: your Lord
+    transliteration: rabbukumu
+  3:
+    arabic: ادۡعُوۡنِىۡۤ
+    translation: Call upon Me
+    transliteration: id'ʿūnī
+  4:
+    arabic: اَسۡتَجِبۡ
+    translation: I will respond
+    transliteration: astajib
+  5:
+    arabic: لَـكُمۡؕ
+    translation: to you
+    transliteration: lakum
+  6:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  7:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  8:
+    arabic: يَسۡتَكۡبِرُوۡنَ
+    translation: (are) proud
+    transliteration: yastakbirūna
+  9:
+    arabic: عَنۡ
+    translation: to
+    transliteration: ʿan
+  10:
+    arabic: عِبَادَتِىۡ
+    translation: worship Me
+    transliteration: ʿibādatī
+  11:
+    arabic: سَيَدۡخُلُوۡنَ
+    translation: will enter
+    transliteration: sayadkhulūna
+  12:
+    arabic: جَهَنَّمَ
+    translation: Hell
+    transliteration: jahannama
+  13:
+    arabic: دَاخِرِيۡنَ‏
+    translation: (in) humiliation
+    transliteration: dākhirīna
+---
+
+## Context
+
+To understand **The Forgiver** (Ghafir) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And your Lord said: "Call upon Me, I will answer you. The reality of du` a' (supplication) and its merits, levels and conditions of acceptance And your Lord has said, “ Call Me, I will respond to you.
+
+## Tafsir Ibn Kathir
+
+And your Lord said: "Call upon Me, I will answer you. Verily, those who scorn My worship they will surely enter Hell in humiliation! (60)
+
+The Command to call upon Allah
+
+By His grace and kindness, Allah encourages His servants to call upon Him, and He guarantees to respond. Sufyan Ath-Thawri used to say: "O You Who love most those who ask of You, and O You Who hate most those who do not ask of You, and there is no one like that apart from You, O Lord." This was recorded by Ibn Abi Hatim. Similarly; the poet said: "Allah hates not to be asked, and the son of Adam hates to be asked."
+
+Qatadah said that Ka'b Al-Ahbar said, "This Ummah has been given three things which were not given to any nation before, only to Prophets. When Allah sent a Prophet, He said to him, 'You are a witness over your nation.' But you have been made witnesses over mankind; it was said to the Prophets individually, 'Allah has not laid upon you any hardship in religion,' but He said to this entire Ummah:
+
+وَمَا جَعَلَ عَلَيْكُمْ فِي الدِّينِ مِنْ حَرَجٍ
+
+(and [Allah] has not laid upon you in religion any hardship)(22:78) and it was said to the Prophets individually; 'Call upon Me, I will answer you,' but it was said to this Ummah,
+
+ادْعُونِي أَسْتَجِبْ لَكُمْ
+
+(Call upon Me, I will answer you)." This was recorded by Ibn Abi Hatim.
+
+Imam Ahmad recorded that Al-Nu'man bin Bashir, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said:
+
+إِنَّ الدُّعَاءَ هُوَ الْعِبَادَةُ
+
+(Indeed the supplication is the worship.)" Then he recited,
+
+ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
+
+(And your Lord said: "Call upon Me, I will answer you. Verily, those who scorn My worship they will surely enter Hell in humiliation!"). This was also recorded by the Sunan compilers; At-Tirmdhi, An-Nasa'i, Ibn Majah, and Ibn Abi Hatim and Ibn Jarir. At-Tirmidhi said, "Hasan Sahih." It was also recorded by Abu Dawud, At-Tirmidhi, An-Nasa'i, and Ibn Jarir with a different chain of narration. Allah's saying:
+
+إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي
+
+(Verily, those who scorn My worship) means, 'those who are too proud to call on Me and single Me out,'
+
+سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
+
+(they will surely enter Hell in humiliation!) means, in disgrace and insignificance. Imam Ahmad recorded from 'Amr bin Shu'ayb from his father, from his grandfather that the Prophet ﷺ said:
+
+يُحْشَرُ الْمُتَكَبِّرُونَ يَوْمَ الْقِيَامَةِ أَمْثَالَ الذَّرِّ فِي صُوَرِ النَّاسِ، يَعْلُوهُمْ كُلُّ شَيْءٍ مِنَ الصَّغَارِ، حَتّٰى يَدْخُلُوا سِجْنًا فِي جَهَنَّمَ يُقَالُ لَهُ: بُولَسُ، تَعْلُوهُمْ نَارُ الْأنْيَارِ، يُسْقَوْنَ مِنْ طِينَةِ الْخَبَالِ، عُصَارَةِ أَهْلِ النَّارِ
+
+(The proud will be gathered on the Day of Resurrection like ants in the image of people, and everything will be stepping on them, humiliating them, until they enter a prison in Hell called Bulas. They will be fed flames of fire, and given for drink a paste of insanity dripping from the people the Fire.)"
+
+## Maarif ul Quran
+
+The reality of du` a' (supplication) and its merits, levels and conditions of acceptance
+
+In the last verse cited in this unit, it was said:
+
+وَقَالَ رَ‌بُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ۚ إِنَّ الَّذِينَ يَسْتَكْبِرُ‌ونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِ‌ينَ
+
+And your Lord has said, “ Call Me, I will respond to you. Definitely those who show arrogance against worshipping Me shall enter Jahannam, disgraced. - 40:60.
+
+Literally, du'a means to call, and it is frequently used to call for something needed. On occasions, the dhikr of Allah (acts devoted to His remembrance) is also referred to as du'a. This verse confers a special honor on the large community of the followers of the Holy Prophet ﷺ when they were ordered to make dua' with the assurance that it would be answered. And whoever does not make a prayer has been warned of punishment.
+
+Qatadah reports from Ka'b Ahbar that earlier this used to be peculiar to prophets, as they were the ones who were ordered by Allah Ta’ ala that they should make dua' and He would answer. Now, it is the distinction of the followers of the Holy Prophet ﷺ (popularly identified as Ummah Muhammadiyyah) that this order was universalized for his entire Ummah. (IbnKathir)
+
+Explaining this verse, Sayyidna Nu` man Ibn Bashir ؓ narrated a Hadith that the Holy Prophet ﷺ said: اِنَّ الدُّعَآء ھُو العِبَادۃ (Surely, prayer is worship on its own) and then supported it by reciting this verse: إِنَّ الَّذِينَ يَسْتَكْبِرُ‌ونَ عَنْ عِبَادَتِي ، (Definitely those who show arrogance against worshipping Me shall enter Jahannam, disgraced.) (reported by Imam Ahmad, Tirmidhi, Nasa'i, Abu Dawud and others - Ibn Kathir)
+
+It appears in Tafsir Mazhari that, if looked at under the rules of Arabic diction (confining of the predicate to the subject), the Hadith: اِنَّ الدُّعَآء ھُو العِبَادۃ ، could mean: 'dua' is the very name of 'ibadah' or worship, that is, every dua' is but ` ibadah. Then, by reversing the same rule (confining the subject to the predicate), it could also mean that every act of ` ibadah is itself nothing but a dua'. Both probabilities exist here. And at this place, the meaning is that dua' (prayer, supplication) and ` ibadah (worship, devotion) are, though separate from each other in terms of the literal sense, yet in terms of substantiation, they are unified, as every dua' is ` ibadah and every ` ibadah is dua'. The reason is that ` ibadah is the name of the attitude of showing one's utter modesty and abasement before someone, and it is all too obvious that showing one's utter helplessness before someone and extending one's hand before him with , the beggar's bowl is a matter of great disgrace - which is the very sense of` ibadah. Similarly, the outcome of every ` ibadah is also to ask Allah Ta’ ala for forgiveness and Jannah and that He blesses us with a perfect state of well being in this world and in the world to come. Therefore, it appears in a Hadith qudsi (a Hadith in which the Holy Prophet ﷺ conveys a saying from Allah that is not included in the Qur'an) that Allah Ta’ ala said: "One who is so engrossed in remembering Me that he does not have even the time to ask for what he needs, I shall give him more than those who ask (by fulfilling his needs without the asking) " (reported by al-Jazri in An-Nihayah) and in a narration appearing in Tirmidhi and Muslim, the words are: من شغلہ القرآن عن ذکری و مسٔلتی اعطیتہ افضل ما اعطی السأیٔلین ("One who is so engrossed in the recitation of the Qur'an that he does not have even the time to ask for what he needs, I shall give him even more than what those who ask ever get" ). This tells us that every ` ibadah brings the same benefit as is the benefit of dua'.
+
+And in the Hadith of 'Arafat, it appears that the Holy Prophet ﷺ said, "In ` Arafat, my du a' and the du a' of prophets before me is (the saying of): لا إله إلا اللہ وحده لا شريک له له الملک وله الحمد وهو علی کل شيئ قدير (la ilaha il-lal-lahu wahdahu la sharika lahu lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shai'in qadir: There is no god but Allah who is one. No one shares His godhead. To Him belongs the kingdom and to Him belongs all praise, and He is powerful over everything) (reported by Ibn Abi Shaibah - Mazhari).
+
+Here, عِبَادَہ ('ibadah: worship) and ذِکرُاللہ (dhikrullah: the dhikr or remembrance of Allah) has been called: دُعَا (dua': prayer, supplication).
+
+In this verse under study, those who abandon dua' in the sense of ` ibadah the warning of Jahannam given to them is in the eventuality of being too proud, that is, a person who, in his pride, considers himself in no need of making a dua' and actually abandons it, then, this is a sign of kufr (open infidelity), therefore, the warning of Jahannam became due against him. Otherwise, making of dua's, prayers and supplications as such is not fard (obligatory) or wajib (necessary). Leaving it off brings no sin. However, by a consensus of ` ulama', doing so is mustahabb (recommended) and is: اَفضَل (afdal: better, meritworthy) (Mazhari) and in accordance with clarifications in ahadith, it is a source of many a barakah (blessing).
+
+Merits of du'a'
+
+HADITH: The Holy Prophet ﷺ said, "There is nothing more deserving of regard by Allah Ta’ ala than dua"' - Tirmidhi, Ibn Majah and Hakim from Sayyidna Abu Hurairah ؓ .
+
+HADITH: The Holy Prophet ﷺ said, "dua' is the essence of ` ibadah" - Tirmidhi from Sayyidna Anas Ibn Malik ؓ .
+
+HADITH: The Holy Prophet ﷺ said, "Ask Allah Ta’ ala of His grace because Allah Ta’ ala likes being asked, and it is a great act of ` ibadah that one waits for ease while in hardship" - Tirmidhi from Sayyidna Ibn Masud ؓ .
+
+HADITH: The Holy Prophet ﷺ said, "Verily, one who does not pray to Allah in his needs, He becomes angry with him" - Tirmidhi from Sayyidna Abu Hurairah ؓ ، Ibn Hibban and Hakim.
+
+In Tafsir Mazhari, after having reported all these narrations, it has been said that the warning of Divine wrath on a person who does not make a dua' is applicable only when this abstention from asking is based on arrogance, and on taking oneself to be need free, as it stands proved from the words of this verse:إِنَّ الَّذِينَ يَسْتَكْبِرُ‌ونَ (Definitely those who show arrogance against worshipping Me shall enter Jahannam, disgraced. 40:60).
+
+HADITH: The Holy Prophet ﷺ said, "Do not be weary of dua', for nobody dies of making dua"' - Ibn Hibban and Hakim from Sayyidna Anas Ibn Malik ؓ .
+
+HADITH: The Holy Prophet ﷺ said, "dua' is a weapon of the believer, a pillar of the faith, and the light of the heavens and the earth" - Hakim in al-Mustadrak from Sayyidna Abu Hurairah ؓ .
+
+HADITH: The Holy Prophet ﷺ said, "If the gates of dua' are opened for someone (actually) the doors of mercy are. opened for him, and no dua' made before Allah Ta’ ala is appreciated more than that in which one asks of ` afiyah (well-being) from Him" - Tirmidhi and Hakim from Sayyidna Ibn ` Umar ؓ .
+
+The word: عافیت ('afiyah) appearing in the Hadith mentioned immediately earlier is a very comprehensive word (usually rendered in English as 'well-being' meaning a state of being healthy and happy, though somewhat outdated in contemporary usage). Apart from a good life, it includes other things like security from unwelcome happenings, trials and calamities as well as a satisfactory fulfillment of all needs in life.
+
+Ruling:
+
+Making du'a' for committing a sin or for severance of blood relationships is Haram (forbidden) - and, for that matter, such a dua' does not get to be accepted with Allah either - as in a Hadith from Sayyidna Abu Said al-Khudri ؓ .
+
+Du'a and the promise of acceptance
+
+In this verse, it has been promised that the dua' a servant makes is accepted. But, on occasions, one also sees that a dua' was made and it was not accepted. The answer to this appears in a Hadith of Sayyidna Abu Sa` id al-Khudri ؓ where the Holy Prophet ﷺ has been reported to have said, "Whatever a Muslim prays for before Allah, He would let him have it - subject to the condition that the du'a' made was not for something sinful or for the severance of relationships that Allah has enjoined to be kept intact. As for the acceptance of dua', it takes one of the three forms given here: (1) That one gets exactly what one asked for. (2) That in lieu of what one wanted to have, one was given a certain return or reward of the Hereafter. (3) That one did not, though, get what one wanted, but some hardship or calamity that was due to fall on one stood removed. (Musnad Ahmad - Mazhari)
+
+Conditions of the acceptance of dua'
+
+As for the present verse, it obviously seems to have no condition, almost to the extent that even being a Muslim is not a condition of dua'. Allah Ta’ ala accepts the dua' of a kafir (disbeliever) as well in this world to the extent that the dua' of Iblis to be allowed to live until the last day of Qiyamah was accepted. For dua', there is no condition of time, nor is there any condition that one must be with taharah (state of purity from pollutants) or wudu (ablution). But, there are trustworthy ahadith that identify a few things that preclude the chances of its acceptance. One must abstain from these. It appears in a Hadith from Sayyidna Abu Hurairah ؓ that the Holy Prophet ﷺ said, "...a man having been on a long journey is all disheveled and dust-coated and he stretches his hands upwards for dua' (saying): '0 my Lord! 0 my Lord!' while his food is haram (unlawful), his drink: haram, his dress: haram, and he himself was brought up on the haram - how then, could his du a' become worth accepting?" (Reported by Muslim)
+
+Similarly, if we were to say the words of dua' negligently, heedlessly, without paying any attention, the Hadith says something about that too - that such a dua' is also not accepted. (Tirmidhi from Sayyidna Abu Hurairah ؓ .
+
+## Personal Reflections

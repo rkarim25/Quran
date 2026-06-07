@@ -1,0 +1,209 @@
+---
+arabic_ayat: لَنۡ تَنَالُوا الۡبِرَّ حَتّٰى تُنۡفِقُوۡا مِمَّا تُحِبُّوۡنَ ؕ  وَمَا
+  تُنۡفِقُوۡا مِنۡ شَىۡءٍ فَاِنَّ اللّٰهَ بِهٖ عَلِيۡمٌ‏
+sentence_translation: You will never achieve righteousness until you donate some of
+  what you cherish. And whatever you give is certainly well known to Allah.
+word_by_word:
+  1:
+    arabic: لَنۡ
+    translation: Never
+    transliteration: lan
+  2:
+    arabic: تَنَالُوا
+    translation: will you attain
+    transliteration: tanālū
+  3:
+    arabic: الۡبِرَّ
+    translation: '[the] righteousness'
+    transliteration: l-bira
+  4:
+    arabic: حَتّٰى
+    translation: until
+    transliteration: ḥattā
+  5:
+    arabic: تُنۡفِقُوۡا
+    translation: you spend
+    transliteration: tunfiqū
+  6:
+    arabic: مِمَّا
+    translation: from what
+    transliteration: mimmā
+  7:
+    arabic: تُحِبُّوۡنَ ؕ 
+    translation: you love
+    transliteration: tuḥibbūna
+  8:
+    arabic: وَمَا
+    translation: And whatever
+    transliteration: wamā
+  9:
+    arabic: تُنۡفِقُوۡا
+    translation: you spend
+    transliteration: tunfiqū
+  10:
+    arabic: مِنۡ
+    translation: of
+    transliteration: min
+  11:
+    arabic: شَىۡءٍ
+    translation: a thing
+    transliteration: shayin
+  12:
+    arabic: فَاِنَّ
+    translation: then indeed
+    transliteration: fa-inna
+  13:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  14:
+    arabic: بِهٖ
+    translation: of it
+    transliteration: bihi
+  15:
+    arabic: عَلِيۡمٌ‏
+    translation: (is) All-Knowing
+    transliteration: ʿalīmun
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+The noble Companions ؓ ، who were the first addressees of the Qur'anic injunctions and the direct disciples of the Holy Prophet ﷺ really loved to carry out the injunctions of the Qur'an in letter and spirit. When this verse was revealed, each one of them surveyed as to what they loved most out of what they had. Consequently, requests started coming before the Holy Prophet ﷺ that these be spent in the way of Allah. Sayyidna Abu Talhah ؓ was the richest person among the انصار Ansar (the helping residents) of Madinah. He was the owner of a fruit farm located right across the mosque of the Holy Prophet ﷺ . It had a well called بیر حاء Bi'r Ha'. Now, in place of this farm, there is, in front of Bab al-Majidi, a building known as Istifa Manzil where pilgrims to Madinah stay. But, in a corner north-east from it, this Bi'r Ha' still exhists by the same name.l The Holy Prophet ﷺ used to visit this farm once in a while and drink water drawn from Bi'r Ha'. He liked the water from this well. This farm belonging to Sayyidna Talhah ؓ was very precious, fertile, and the dearest of all that he owned.
+
+## Tafsir Summary
+
+By no means shall you attain Al-Birr, unless you spend of that which you love; and whatever of good you spend, Allah knows it well (92) Al-Birr is Spending from the Best of One's Wealth In the previous verse (91), it was said that charity from disbelievers and deniers was not acceptable with Allah.
+
+## Tafsir Ibn Kathir
+
+By no means shall you attain Al-Birr, unless you spend of that which you love; and whatever of good you spend, Allah knows it well (92)
+
+Al-Birr is Spending from the Best of One's Wealth
+
+In his Tafsir, Waki' reported, that 'Amr bin Maymun said that
+
+لَن تَنَالُوا الْبِرَّ
+
+(By no means shall you attain Al-Birr) is in reference to attaining Paradise.
+
+Imam Ahmad reported that Anas bin Malik said, "Abu Talhah had more property than any other among the Ansar in Al-Madinah, and the most beloved of his property to him was Bayruha' garden, which was in front of the (Messenger's) Masjid. Sometimes, Allah's Messenger ﷺ used to go to the garden and drink its fresh water." Anas added, "When these verses were revealed,
+
+لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ
+
+(By no means shall you attain Al-Birr unless You spend of that which you love,)
+
+Abu Talhah said, 'O Allah's Messenger! Allah says,
+
+لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ
+
+(By no means shall you attain Al-Birr, unless you spend of that which you love;) No doubt, Bayruha' garden is the most beloved of all my property to me. So I want to give it in charity in Allah's cause, and I expect its reward and compensation from Allah. O Allah's Messenger! Spend it where Allah makes you think is feasible. ' On that, Allah's Messenger ﷺ said,
+
+بَخٍ بَخٍ، ذَاكَ مَالٌ رَابِحٌ، ذَاكَ مَالٌ رَابِحٌ، وَقَدْ سَمِعْتُ، وَأَنَا أَرَى أَنْ تَجْعَلَهَا فِي الْأَقْرَبِينَ
+
+(Well-done! It is profitable property, it is profitable property. I have heard what you have said, and I think it would be proper if you gave it to your kith and kin.)
+
+Abu Talhah said, 'I will do so, O Allah's Messenger.' Then Abu Talhah distributed that garden among his relatives and cousins."
+
+This Hadith was recorded in the Two Sahihs. They also recorded that 'Umar said, "O Messenger of Allah! I never gained possession of a piece of property more precious to me than my share in Khaybar. Therefore, what do you command me to do with it?" The Prophet ﷺ said,
+
+حَبِّسِ الْأَصْلَ وَسَبِّلِ الثَّمَرَةَ
+
+(Retain the land to give its fruits in Allah's cause.)
+
+## Maarif ul Quran
+
+Sequence of Verses
+
+In the previous verse (91), it was said that charity from disbelievers and deniers was not acceptable with Allah. In this verse, believers have been told about acceptable charity and the etiquette governing it.
+
+Commentary
+
+Let us first understand what بِرّ. : birr means and what it really signifies so that the whole sense of the verse becomes clear in our minds.
+
+The literal and real meaning of the word birr is the perfect fulfillment of someone's rights. It is also used in the sense of charity, performance of good deeds and nice conduct. The word: barr and barr بار is used for a person who fulfills, fully and totally, all rights due on him. The expression وَبَرًّ‌ا بِوَالِدَتِي (good to my mother - 19:32) and وَبَرًّ‌ا بِوَالِدَيْهِ (good to his father and mother - 19:14) has been used in the Qur'an in this very sense. It has been used there as a personal attribute of prophets who fulfilled the rights of their parents fully and perfectly.
+
+Theplural form of this very word برّ : barr is ابرار : abrar which has been used frequently in the Qur'an. It has been said:
+
+إِنَّ الْأَبْرَ‌ارَ‌ يَشْرَ‌بُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورً‌ا ﴿5﴾
+
+Surely the righteous shall drink of a cup the mixture of which is camphor - 76:5.
+
+Again at another place it is said:
+
+إِنَّ الْأَبْرَ‌ارَ‌ لَفِي نَعِيمٍ ﴿22﴾ عَلَى الْأَرَ‌ائِكِ يَنظُرُ‌ونَ ﴿23﴾
+
+Surely the righteous shall be in bliss, upon furnished thrones
+
+gazing 83:22, 23.
+
+Yet again there is:
+
+وَإِنَّ الْفُجَّارَ‌ لَفِي جَحِيمٍ ﴿14﴾
+
+And surely, the sinners shall be in hell ablaze - 82:14.
+
+The last verse above also tells us that the antonym of بِرّ :birr is فجور :fujur (disobedience, sinfulness).
+
+In al-Adab al-Mufrad of Imam al- Bukhari (رح) and in Ibn Majah and Musnad of Ahmad, it has been reported from Sayydna Abu Bakr ؓ that the Holy Prophet ﷺ said: 'Stick to speaking the truth because truth is a companion of بِرّ : birr (righteousness) and both these are in Paradise; and abstain from lying because that is a companion of fujur (sin) and both these are in Hell.'
+
+The verse 177 of Surah al-Baqarah (2) says:
+
+لَّيْسَ الْبِرَّ‌ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِ‌قِ وَالْمَغْرِ‌بِ وَلَـٰكِنَّ الْبِرَّ‌ مَنْ آمَنَ بِاللَّـهِ وَالْيَوْمِ الْآخِرِ‌ Righteousness is not that you turn your faces to the East and the West; but righteousness is that one believes in Allah and the last Day... 2:177.
+
+After giving a list of good deeds in this verse, all of them have been classed as بِرّ birr (righteousness). The subject verse also tells us that, of the wide range of righteous deeds, the most preferred form of righteousness is to spend the most cherished things in the way of Allah. The verse further tells us 'you can never claim to have righteousness unless you spend out of what you hold dear.' Thus the meaning is that the perfect fulfillment of the rights of Allah Almighty and a total - self-unburdening from it cannot come to pass unless we spend in the way of Allah what we hold dear to our hearts. This very perfect fulfillment of due rights has also been translated as 'perfect good' or 'excellence in doing good' or 'the great merit'. To sum up, the sense here is that entering the ranks of the 'abrar' (the righteous) depends on sacrificing in the way of Allah that which one holds dear.
+
+The enthusiastic obedience of ha-bah
+
+The noble Companions ؓ ، who were the first addressees of the Qur'anic injunctions and the direct disciples of the Holy Prophet ﷺ really loved to carry out the injunctions of the Qur'an in letter and spirit. When this verse was revealed, each one of them surveyed as to what they loved most out of what they had. Consequently, requests started coming before the Holy Prophet ﷺ that these be spent in the way of Allah. Sayyidna Abu Talhah ؓ was the richest person among the انصار Ansar (the helping residents) of Madinah. He was the owner of a fruit farm located right across the mosque of the Holy Prophet ﷺ . It had a well called بیر حاء Bi'r Ha'. Now, in place of this farm, there is, in front of Bab al-Majidi, a building known as Istifa Manzil where pilgrims to Madinah stay. But, in a corner north-east from it, this Bi'r Ha' still exhists by the same name.l The Holy Prophet ﷺ used to visit this farm once in a while and drink water drawn from Bi'r Ha'. He liked the water from this well. This farm belonging to Sayyidna Talhah ؓ was very precious, fertile, and the dearest of all that he owned. After the revelation of this verse, he presented himself before the Holy Prophet ﷺ and said: 'I hold Bi'r Ha' the dearest of all that I own. I wish to 'spend' it in the way of Allah. I request you to use it for whatever purpose you like.' He ﷺ said: 'That farm is a high-yield property. I think it is appropriate that you distribute it among your kith and kin.' Sayyidna Abu Talhah ؓ ، accepting the suggestion made by the Holy Prophet ﷺ distributed it among his relatives and cousins (al-Bukhri and Muslim). This hadith also tells us that charity is not restricted to spending on the poor and the needy, but it is equally charitable and meritorious to give it to one's own family and relatives.
+
+1. This building and.well have now been demolished due to the extension of the Mosque. (Translator)
+
+Sayyidna Zayd ibn Haritha ؓ came with a horse and said that he loved it more than anything else he owned and that he wanted to 'spend' it in the way of Allah. The Holy Prophet ﷺ accepted it. But, after having taken it from him, he gave it to his son Sayyidna Usamah ؓ . Zayd ibn Haritha was somewhat disappointed about that thinking that his charity has found its way back into his own home. But, the Holy Prophet ﷺ comforted him by saying: 'Allah Almighty has accepted this charity of yours'. (Tafsir Mazhari vide Ibn Jarir, and others)
+
+Sayyidna ` Umar ؓ also, had a bond-maid he liked most. He freed her for the sake of Allah.
+
+Similarly, Sayyidna ` Abdullah ibn ` Umar ؓ had a bond-maid he loved. He freed her in the name of Allah.
+
+In short, the gist of the verse under reference is that the complete fulfillment of the rights of Allah, the perfect good and excellence in doing good can be achieved only when a person spends something out of his dearest belongings in the way of Allah. Worthy of our attention and retention are some of the following aspects highlighted in this verse:
+
+The word birr in this verses is inclusive of all charity, obligatory, or voluntary:
+
+1. First of all, this verse motivates spending in the way of Allah. Some commentators take this to mean obligatory charity such as zakah while others take this to be voluntary (Nafl: supererogatory) charity. But, according to a consensus of respected researchers in the field, it has been established that its sense is general and includes both obligatory and voluntary charities. Then there are the recorded actions of the noble Companions, as cited above, which bear witness that these charitable initiatives taken by them were voluntary.
+
+Therefore, the sense of the verse is that you give in the way of Allah whatever it may be, the obligatory zakah or the voluntary charity, but that perfect excellence and merit will blossom out from them only-when you spend in the way of Allah what you like and love. Not, that you pick out the spare, the useless or worthless things as if you were trying to get rid of the burden of charity and as if it was some sort of punitive_ tax on you. This subject has been taken up more clearly in an-other verse of the Qur'an which is as follows:
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَ‌جْنَا لَكُم مِّنَ الْأَرْ‌ضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنفِقُونَ وَلَسْتُم بِآخِذِيهِ إِلَّا أَن تُغْمِضُوا فِيهِ
+
+0 those who believe, spend of the the good things you have earned and of what We have brought forth for you from the earth and do not opt for a bad thing spending only from there while you are not going to accept it at all unless you close your eyes to it... - 2:267.
+
+So, the outcome is that picking out the bad and the useless to give in charity is unacceptable; contrary to that is the acceptable charity which earns full merit and which is nothing but what is spent out of one's dear belongings.
+
+Moderation in charity:
+
+2. The second ruling comes out of the hint made in the word t:,. (from what) in the verse. That is, the purpose is not to spend away everything one likes and loves en masse in the way of Allah. Instead, the purpose is to spend whatever has to be spent from the good things. Spending in this way will bring the full reward of charity.
+
+In charity, what counts is sincerity:
+
+3. The third ruling is that spending the cherished is not tied to spending something of high value. Instead, by spending what one likes and holds dear, no matter how small it may be in quantity or cost, one would still become deserving of this 'birr' or righteousness. Hasan al-Basri (رح) says, 'Whoever spends sincerely for the good pleasure of Allah, even if that be a single date-fruit alone, that too is good enough to make one deserving of the great merit and perfect righteousness promised in the verse.'
+
+Alternative for those who have nothing to spend:
+
+4. On the outside, it appears from the verse that poor people who do not have much to spend will remain deprived of the great good and righteousness mentioned here. It is because it has been said in the verse that this great good cannot be achieved without spending one's cherished belonging while the poor and the needy just do not have anything through which they could reach the station of righteousness. But, a little deliberation would show that the verse does not mean that those who wish to have the great good and the great merit cannot achieve that by any means other than that of spending out of their cherished possessions. Contrary to that, the fact is that this great good can be achieved by some other means as well, such as, ` Ibadah, Dhikr, Tilawah of the Qur'an and abundance of nawafil. Therefore, the poor and the needy can also become the recipients of this great good through other means as it has been clearly explained in Hadith narrations.
+
+What is meant by things you love?
+
+5. This is the fifth question. Another verse of the Qur'an tells us that something liked and loved means that the thing is working for him and that he needs it, not that it be spare and useless. The Holy Qur'an says: وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا 'which means that "the favoured servants of Allah feed the poor although they need it themselves." (76:08) Similarly, in yet another verse, this subject has been further clarified as follows: وَيُؤْثِرُ‌ونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ They (the favoured servants of Allah) prefer others over their ownselves even though they themselves are in need. (59:09)
+
+Spending the extra and the spare too is not devoid of merit:
+
+6. The sixth ruling given in this verse is that entry into the fold of perfect good, great merit and ranks of the righteous depends on spending one's cherished possessions in the way of Allah. But, it does not necessarily follow that there is just no merit in store for one who does spend out of what is extra to his needs. On the contrary, as it is said towards the end of the verse:`) وَمَا تُنفِقُوا مِنْ خَيْرٍ‌ فَإِنَّ اللَّـهَ بِهِ عَلِيمٌ that is, And whatsoever you spend, Allah is fully aware of it,' the sense of the text in the verse is that while the achievement of the perfect good and entry into the ranks of the righteous, no doubt, depends on spending cherished possessions specially; however, no charity is devoid of merit irrespective of whether one spends the cherished or the extra. But, what is certainly undesirable and prohibited is getting into the habit of always picking out the extra and the bad to spend in the way of Allah. But, a person who not only spends good things he likes in charity but also gives away things which are extra to his needs; e.g., left-over food or used clothing, defective utensils or articles in use, does commit no sin by including these in his acts of charity. He would definitely earn a re-ward for those too. As far as spending of cherished possessions is concerned, he would thereupon achieve the great good and find his entry into the ranks of the righteous as well.
+
+Also stated in this last sentence of the verse is that Allah is fully aware of the real quality of what man spends and knows whether or not it is dear to him, and if he is spending it for the good pleasure of Allah, or for pretense and publicity. The mere verbal claim by some-body that he is spending what he cherishes in the way of Allah is not enough for this purpose. Keeping vigil over him is the One, the all-Knowing, the all-Aware who is cognizant of the secrets of the heart - He is watching and knows what is the true worth of the spending in His way.
+
+## Personal Reflections

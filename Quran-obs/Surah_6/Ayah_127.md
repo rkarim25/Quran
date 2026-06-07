@@ -1,0 +1,115 @@
+---
+arabic_ayat: لَهُمۡ دَارُ السَّلٰمِ عِنۡدَ رَبِّهِمۡ​ وَهُوَ وَلِيُّهُمۡ بِمَا كَانُوۡا
+  يَعۡمَلُوۡنَ‏
+sentence_translation: They will have the Home of Peace with their Lord, Who will be
+  their Guardian because of what they used to do.
+word_by_word:
+  1:
+    arabic: ۞ لَهُمۡ
+    translation: For them
+    transliteration: lahum
+  2:
+    arabic: دَارُ
+    translation: (will be) home
+    transliteration: dāru
+  3:
+    arabic: السَّلٰمِ
+    translation: (of) [the] peace
+    transliteration: l-salāmi
+  4:
+    arabic: عِنۡدَ
+    translation: with
+    transliteration: ʿinda
+  5:
+    arabic: رَبِّهِمۡ​
+    translation: their Lord
+    transliteration: rabbihim
+  6:
+    arabic: وَهُوَ
+    translation: And He
+    transliteration: wahuwa
+  7:
+    arabic: وَلِيُّهُمۡ
+    translation: (will be) their protecting friend
+    transliteration: waliyyuhum
+  8:
+    arabic: بِمَا
+    translation: because
+    transliteration: bimā
+  9:
+    arabic: كَانُوۡا
+    translation: (of what) they used to
+    transliteration: kānū
+  10:
+    arabic: يَعۡمَلُوۡنَ‏
+    translation: do
+    transliteration: yaʿmalūna
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 127, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And this is the path of your Lord leading straight. In the second verse (127), it was said: لَهُمْ دَارُ‌ السَّلَامِ عِندَ رَ‌بِّهِمْ (For them there is the Abode of Peace with their Lord).
+
+## Tafsir Ibn Kathir
+
+And this is the path of your Lord leading straight. We have detailed Our Ayat for a people who take heed (126)For them will be the abode of peace with their Lord. And He will be their Wali because of what they used to do (127)
+
+After Allah mentioned the way of those who were themselves led to stray from His path and who hindered others from it, He emphasized the honor of the guidance and religion of truth that He sent His Messenger with. Allah said next,
+
+وَهَٰذَا صِرَاطُ رَبِّكَ مُسْتَقِيمًا
+
+(And this is the path of your Lord leading straight.) that is, Islam, that We have legislated for you, O Muhammad, by revealing this Qur'an to you, is Allah's straight path.
+
+قَدْ فَصَّلْنَا الْآيَاتِ
+
+(We have detailed Our Ayat...) We have explained the Ayat and made them clear and plain,
+
+لِقَوْمٍ يَذَّكَّرُونَ
+
+(for a people who take heed) those who have sound comprehension and understand what Allah and His Messenger convey to them,
+
+لَهُمْ دَارُ السَّلَامِ
+
+(For them will be the abode of peace) Paradise,
+
+عِندَ رَبِّهِمْ
+
+(with their Lord.) on the Day of Resurrection. Allah described Paradise as 'the abode of peace', because its residents are safe due to their access to the straight path, which conforms to the way of the Prophets. And just as their way was not wicked, they earned the abode of peace [which is free from all wickedness].
+
+وَهُوَ وَلِيُّهُم
+
+(And He will be their Wali) Protector, Supporter and Helper,
+
+بِمَا كَانُوا يَعْمَلُونَ
+
+(because of what they used to do,) As reward for their good deeds, Allah has favored them and been generous with them, and awarded them Paradise.
+
+## Maarif ul Quran
+
+In the second verse (127), it was said: لَهُمْ دَارُ‌ السَّلَامِ عِندَ رَ‌بِّهِمْ (For them there is the Abode of Peace with their Lord). It means that the people who have been mentioned above, people who see and hear the Qur'anic words of advice with an open mind and who, as an inevitable result, accept the advice and guidance, then, it is for them that there is that reward of Darus-Salam, present and preserved, waiting. Here, the word: دَارُ‌ (dar) means home or abode and: سَلَامِ (salam) means peace and security from all calamities, catastrophies and hardships. Therefore, Darus-Salam can be the description of a home where none of these, or sorrow or pain of any kind, can find entry. And that, as obvious, could only be Paradise.
+
+And Sayyidna ` Abdullah ibn ` Abbas ؓ said: Salam is the name of Allah Jalla Sha'nuhu. And the Dar of As-Salam means the ` Dar' (home, house or abode) of Allah. It is evident that the abode of Allah is a place of peace. Therefore, the meaning essentially remains the same, that is, a home where total and all-inclusive peace reigns. By calling Jannah (Paradise) Darus-Salam, the indication given is that Jannah alone is the place where one sheds off all pain, anxiety and distaste, and enjoys total bliss, something never acquired by the highest of the high in this mortal world, nor even by the greatest of the great prophets or messengers - because this state of life in the mortal world is not the proper locale of perfect and eternal peace and pleasure.
+
+It has been stated in this verse that, for those who have the good fortune of accepting the advice, there is Darus-Salam' with their Lord. Now, the expression - ` with their Lord' - could also mean that this Darus-Salam' cannot be cashed instantly here in the mortal world, rather, they will get it when they go to their Lord on the Day of Qiyamah. And it could also mean that the promise of Darus-Salam' cannot be false. The most gracious Rabb is its guarantor. It lies safe with Him. Then, right here, there is yet another indication towards the fact that no one can ever imagine the blessings of this ` Darus-Salam' within the limitations of this frame of existence. Only the Rabb, with whom lies this treasure, knows it.
+
+Moreover, in the light of the second meaning given above, the actual getting of this ` Darus-Salam' does not seem to hinge upon the coming of Qiyamah (The Last Day) and 'Akhirah (Hereafter). In fact, it is also possible that the most gracious Rabb would make anyone He wills its fortunate recipient within the life of this world - whether by making them totally immune to and protected against all calamities and hardships, as has been the case is some examples of past prophets and men of Allah, or, by making the blessings of the 'Akhirah appear before their eyes with a touch of the real, their very eyes were attuned to the real thing in a manner that it helped them perceive the pains of the transitory world as something insignificant and not worthy of much notice. For such people, even stockpiles of suffering are reduced to a blade of grass.
+
+That the forthcoming rewards to be received as against the hard-ships of the mortal world would make them welcome these hardships as something delectable is not a proposition too far out. Think of the eternal blessings of the 'Akhirah. They are certainly great as they can be. Then, think of the fleeting comforts of this mortal world. Their very thought thrills. Man slaves for them, yet takes his slavery with a smile and a sigh of relief. Man sacrifices the bliss of his freedom and exchanges it with worldly comforts through recommendations and bribes, goes for the hard labour of job or work which cuts through his sleep and rest, even does it with zest and enthusiasm, and then, is happy and grateful about it - because he sees before his eyes the pas-sage of thirty one days of the month which will bring to him the taste and pleasure of the salary he has earned. That pleasure makes every bitterness of this slavery in work tasteful and pleasing. According to one of the possible explanations (Tafsir) of the Qur'anic verse: وَلِمَن خَافَ مقامَ رَبِّہِ جَنَّتٰن those who fear Allah Ta` ala shall have two Paradises, the one in the 'Akhirah and the other in the mortal world. To begin with, Paradise in the world means that one finds the help of Allah with him in everything he does. What he does seems to be becoming easy for him - and, even if he has to face a passing phase of difficulty, extra-effort, or even failure, that appears welcome to him in anticipation of the lasting blessings of the 'Akhirah, something which turns even this painful experience into a state of comfort.
+
+To sum up, it can be said that the reference in this verse, of Darus-Salam' for good people being with their Rabb, is a promise which is certain and determined for the Akhirah, and it is also possible that they may be given a taste of the Darus-Salam' in this world as well.
+
+At the conclusion of the verse (127), it was said: وَهُوَ وَلِيُّهُم بِمَا كَانُوا يَعْمَلُونَ ; (and He is their Guardian by virtue of what they used to do). It means that, because of their good deeds, Allah Ta` ala becomes their guardian, care-taker and helper. Everything hard they face becomes easy on them.
+
+## Personal Reflections

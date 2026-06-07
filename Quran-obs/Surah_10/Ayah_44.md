@@ -1,0 +1,125 @@
+---
+arabic_ayat: اِنَّ اللّٰهَ لَا يَظۡلِمُ النَّاسَ شَيۡــًٔا وَّلٰـكِنَّ النَّاسَ اَنۡفُسَهُمۡ
+  يَظۡلِمُوۡنَ‏
+sentence_translation: Indeed, Allah does not wrong people in the least, but it is
+  people who wrong themselves.
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  3:
+    arabic: لَا
+    translation: (does) not
+    transliteration: lā
+  4:
+    arabic: يَظۡلِمُ
+    translation: wrong
+    transliteration: yaẓlimu
+  5:
+    arabic: النَّاسَ
+    translation: the people
+    transliteration: l-nāsa
+  6:
+    arabic: شَيۡــًٔا
+    translation: (in) anything
+    transliteration: shayan
+  7:
+    arabic: وَّلٰـكِنَّ
+    translation: but
+    transliteration: walākinna
+  8:
+    arabic: النَّاسَ
+    translation: the people
+    transliteration: l-nāsa
+  9:
+    arabic: اَنۡفُسَهُمۡ
+    translation: wrong themselves
+    transliteration: anfusahum
+  10:
+    arabic: يَظۡلِمُوۡنَ‏
+    translation: wrong themselves
+    transliteration: yaẓlimūna
+---
+
+## Context
+
+To understand **Jonah** (Yunus) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And if they belie you, say: "For me are my deeds and for you are your deeds! In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
+
+## Tafsir Ibn Kathir
+
+And if they belie you, say: "For me are my deeds and for you are your deeds! You are innocent of what I do, and I am innocent of what you do! (41)And among them are some who listen to you, but can you make the deaf to hear – even though they apprehend not (42)And among them are some who look at you, but can you guide the blind – even though they see not (43)Truly, Allah wrongs not mankind in aught; but mankind wrong themselves (44)
+
+The Command to be Free and Clear from the Idolators
+
+Allah said to His Prophet ﷺ: 'If these idolators belie you, then be clear from them and their deeds.'
+
+فَقُل لِّي عَمَلِي وَلَكُمْ عَمَلُكُمْ
+
+(Say: "For me are my deeds and for you are your deeds!") Similarly, Allah said:
+
+قُلْ يَا أَيُّهَا الْكَافِرُونَ - لَا أَعْبُدُ مَا تَعْبُدُونَ
+
+(Say: "O you disbelievers! I worship not that which you worship.")[109:1-2] to the end of the Surah. Ibrahim Al-Khalil (the Friend) and his followers said to the idolators among their people:
+
+إِنَّا بُرَآءُ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ اللَّهِ
+
+(Verily, we are free from you and whatever you worship besides Allah)[60:4] Allah then said:
+
+وَمِنْهُم مَّن يَسْتَمِعُونَ إِلَيْكَ
+
+(And among them are some who listen to you,)
+
+They listen to your beautiful talk and to the Glorious Qur'an. They listen to your truthful, eloquent and authentic Hadiths that are useful to the hearts, the bodies and their faith. This is indeed a great benefit and is sufficient. But guiding the people to the truth is not up to you or to them. You cannot make the deaf hear. Therefore you cannot guide these people except if Allah wishes.
+
+وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ
+
+(And among them are some who look at you,)
+
+They look at you and at what Allah has given you in terms of dignity, noble personality and great conduct. There is in all of this clear evidence of your prophethood to those who have reason and insight. Other people also look but they do not receive guidance like them. Believers look at you with respect and dignity while disbelievers regard you with contempt.
+
+وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا
+
+(And when they see you, they treat you only in mockery.)[25:41]
+
+Then Allah announces that He is never unjust with anyone. He guides whomever He wills and opens the eyes of the blind, makes the deaf hear and removes neglect from the hearts. At the same time He lets others go astray, moving away from faith. He does all of that yet He is always Just, for He is the Ruler and has full authority over His kingdom. He does whatever He wills without any restrictions. No one can question Him as to what He does while he will question everyone else. He is Omniscient, All-Wise, and All-Just. So Allah said:
+
+إِنَّ اللَّهَ لَا يَظْلِمُ النَّاسَ شَيْئًا وَلَٰكِنَّ النَّاسَ أَنفُسَهُمْ يَظْلِمُونَ
+
+(Truly, Allah wrongs not mankind in aught; but mankind wrong themselves.)
+
+In the Hadith narrated by Abu Dharr, he states that the Prophet ﷺ related that His Lord, Exalted and High is He, said:
+
+يَا عِبَادِي! إِنِّي حَرَّمْتُ الظُّلْمَ عَلَى نَفْسِي وَجَعَلْتُهُ بَيْنَكُمْ مُحَرَّمًا فَلَا تَظَالَمُوا
+
+(O My servant! I have prohibited oppression for Myself and made it prohibited for you, so do not oppress one another...) Until He said at the end of the Hadith:
+
+يَا عِبَادِي! إِنَّمَا هِيَ أَعْمَالُكُمْ أُحْصِيهَا لَكُمْ، ثُمَّ أُوفِيكُمْ إِيَّاهَا، فَمَنْ وَجَدَ خَيْرًا فَلْيَحْمَدِ اللهَ، وَمَنْ وَجَدَ غَيْرَ ذَلِكَ فَلَا يَلُومَنَّ إِلَّا نَفْسَهُ
+
+(O My servants! It is but your deeds that I reckon for you and then recompense you for. So let him who finds good (in the Hereafter) praise Allah. And let him who finds other than that blame no one but himself.) The complete version was recorded by Muslim.
+
+## Maarif ul Quran
+
+In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth. And what is there, after truth, but error?), that is, ` this is the Sacred Being whose attributes of perfection have just been mentioned. Once you have found the Truth, there remains nothing else to find except error and straying. In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
+
+important note
+
+In relation to issues of religious beliefs embedded in this verse, it must be borne in mind that the statement: مَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (What is there, after truth, but error?) proves that there is no intermediary link between truth and error. What is not the truth will be included in error and straying. There can be no such thing that is neither truth nor error. And it is also not possible that two opposite things could be the truth. This is an established rule in the sight of the majority of scholars in the Muslim Ummah. However, difference exists among ` Ulama' regarding minor and subsidiary juristic issues. In the view of some of them, both sides would be considered as on truth in Ijtihad-based issues and, according to the majority of them, there is consensus on the view that the taking of contra-position in Ijtihad-based problems cannot be termed as error and straying.
+
+## Personal Reflections

@@ -1,0 +1,201 @@
+---
+arabic_ayat: تَنَزَّلُ عَلٰى كُلِّ اَفَّاكٍ اَثِيۡمٍۙ‏
+sentence_translation: They descend upon every sinful liar,
+word_by_word:
+  1:
+    arabic: تَنَزَّلُ
+    translation: They descend
+    transliteration: tanazzalu
+  2:
+    arabic: عَلٰى
+    translation: upon
+    transliteration: ʿalā
+  3:
+    arabic: كُلِّ
+    translation: every
+    transliteration: kulli
+  4:
+    arabic: اَفَّاكٍ
+    translation: liar
+    transliteration: affākin
+  5:
+    arabic: اَثِيۡمٍۙ‏
+    translation: sinful
+    transliteration: athīmin
+---
+
+## Context
+
+To understand **The Poets** (Ash-Shu'ara) 222, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about. The reports that have been narrated about this are all Mursal and cannot be relied on. And Allah knows best. But this exception could include the poets of the Ansar and others. It even includes those poets of the Jahiliyyah who indulged in condemning Islam and its followers, then repented and turned to Allah, and gave up what they used to do and started to do righteous deeds and remember Allah much, to make up for the bad things that they had previously said, for good deeds wipe out bad deeds. So they praised Islam and its followers in order to make up for their insults, as [the poet] 'Abdullah bin Az-Zab'ari said when he became Muslim:
+
+(Ridicule them in verse, and Jibril is with you.) Imam Ahmad recorded that Ka'b bin Malik said to the Prophet ﷺ, "Allah has revealed what He revealed about the poets. The Messenger of Allah ﷺ said:
+
+That historical lens is essential.
+
+## Tafsir Summary
+
+Shall I inform you upon whom the Shayatin descend (221)They descend on every lying, sinful person (Athim)(222)Who gives ear, and most of them are liars (223)As for the poets, the astray follow them (234)See you not that they speak about every subject in their poetry (225)And that they say what they do not do (226)Except those who believe and do righteous deeds, and remember Allah much and vindicate themselves after they have been wronged. And warn the nearest people of your clan, -26:214.
+
+## Tafsir Ibn Kathir
+
+Shall I inform you upon whom the Shayatin descend (221)They descend on every lying, sinful person (Athim)(222)Who gives ear, and most of them are liars (223)As for the poets, the astray follow them (234)See you not that they speak about every subject in their poetry (225)And that they say what they do not do (226)Except those who believe and do righteous deeds, and remember Allah much and vindicate themselves after they have been wronged. And those who do wrong will come to know by what overturning they will be overturned (227)
+
+Refutation of the Fabrications of the Idolators
+
+Here Allah addresses those idolators who claimed that what was brought by the Messenger ﷺ was not the truth but was merely something that he had made up by himself, or that it came to him in visions from the Jinn. Allah stated that His Messenger was above their claims and fabrications, and that what he had brought did indeed come from Allah, and that it was a revelation and inspiration, brought down by a noble, trustworthy and mighty angel. It did not come from the Shayatin, because they have no desire for anything like this Noble Qur'an – they descend upon those who are like them, the lying fortune-tellers. Allah says:
+
+هَلْ أُنَبِّئُكُمْ
+
+(Shall I inform you) meaning, shall I tell you,
+
+عَلَىٰ مَن تَنَزَّلُ الشَّيَاطِينُ - تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ
+
+(upon whom the Shayatin descend? They descend on every lying, sinful person (Athim)) meaning, one whose speech is lies and fabrication.
+
+أَثِيمٍ
+
+(Athim) means, whose deeds are immoral. This is the person upon whom the Shayatin descend, fortune-tellers and other sinful liars. The Shayatin are also sinful liars.
+
+يُلْقُونَ السَّمْعَ
+
+(Who gives ear,) means, they try to overhear what is said in the heavens, and they try to hear something of the Unseen, then they add to it a hundred lies and tell it to their human comrades, who then tell it to others. Then the people believe everything they say because they were right about the one thing which was heard from the heavens. This was stated in an authentic Hadith recorded by Al-Bukhari from 'A'ishah, may Allah be pleased with her, who said, "The people asked the Prophet ﷺ about fortune-tellers, and he said:
+
+إِنَّهُمْ لَيْسُوا بِشَيْءٍ
+
+(They are nothing.) They said: "O Messenger of Allah, they say things that come true." The Prophet ﷺ said:
+
+تِلْكَ الْكَلِمَةُ مِنَ الْحَقِّ يَخْطَفُهَا الْـجِنِّـيُّ فَيُقَرْقِرُهَا فِي أُذُنِ وَلِيِّهِ كَقَرْقَرَةِ الدَّجَاجِ، فَيَخْلِطُونَ مَعَهَا أَكْثَرَ مِنْ مِائَةِ كَذْبَةٍ
+
+(That is a word of truth which the Jinn snatches, then he gabbles it like the clucking of a chicken into the ear of his friend, but he mixes it with more than one hundred lies.) Al-Bukhari also recorded that Abu Hurayrah said, "The Prophet ﷺ said:
+
+إِذَا قَضَى اللهُ الْأَمْرَ فِي السَّمَاءِ ضَرَبَتِ الْمَلَائِكَةُ بِأَجْنِحَتِهَا خُضْعَانًا لِقَوْلِهِ، كَأَنَّهَا سِلْسِلَةٌ عَلَى صَفْوَانٍ، فَإِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا: مَاذَا قَالَ رَبُّكُمْ؟ قَالُوا (لِلَّذِي قَالَ): الْحَقَّ، وَهُوَ الْعَلِيُّ الْكَبِيرُ، فَيَسْمَعُهَا مُسْتَرِقُو السَّمْعِ، وَمُسْتَرِقُو السَّمْعِ هَكَذَا بَعْضُهُمْ فَوْقَ بَعْضٍ - وَصَفَ سُفْيَانُ بِيَدِهِ، فَحَرَّفَهَا وَبَدَّدَ بَيْنَ أَصَابِعِهِ - فَيَسْمَعُ الْكَلِمَةَ فَيُلْقِيهَا إِلَى مَنْ تَحْتَهُ، ثُمَّ يُلْقِيهَا الْآخَرُ إِلَى مَنْ تَحْتَهُ، حَتَّى يُلْقِيَهَا عَلَى لِسَانِ السَّاحِرِ أَوِ الْكَاهِنِ، فَرُبَّمَا أَدْرَكَهُ الشِّهَابُ قَبْلَ أَنْ يُلْقِيَهَا، وَرُبَّمَا أَلْقَاهَا قَبْلَ أَنْ يُدْرِكَهُ، فَيَكْذِبُ مَعَهَا مِائَةَ كَذْبَةٍ، فَيُقَالُ: أَلَيْسَ قَدْ قَالَ لَنَا يَوْمَ كَذَا وَكَذَا: كَذَا وَكَذَا؟ فَيُصَدَّقُ بِتِلْكَ الْكَلِمَةِ الَّتِي سُمِعَتْ مِنَ السَّمَاءِ
+
+(When Allah decrees a matter in heaven, the angels beat their wings in submission to His decree, a chain beating on a rock. And when the fear in their hearts subsides, they say: "What is it that your Lord has said?" They say: "The truth. And He is the Most High, the Most Great." Then when the Jinn who are listening out, one above the other) – and Sufyan illustrated this with a gesture, holding his hand vertically with his fingers outspread – (when they hear this, they throw it down from one to another, until it is passed to the fortune-teller or soothsayer. The shooting star may strike the Jinn before he passes it on, or he may pass it on before he is struck, and he adds to it one hundred lies, thus it is said: "Did he not tell us that on such and such a day, such and such would happen?" So they believe him because of that one thing which was heard from the heavens.) This was recorded by Al-Bukhari.
+
+Al-Bukhari recorded from 'A'ishah, may Allah be pleased with her, that the Prophet ﷺ said:
+
+إِنَّ الْمَلَائِكَةَ تَحَدَّثُ فِي الْعَنَانِ - وَالْعَنَانُ: الْغَمَامُ - بِالْأَمْرِ (يَكُونُ) فِي الْأَرْضِ، فَتَسْمَعُ الشَّيَاطِينُ الْكَلِمَةَ، فَتَقُرُّهَا فِي أُذُنِ الْكَاهِنِ كَمَا تُقَرُّ الْقَارُورَةُ، فَيَزِيدُونَ مَعَهَا مِائَةَ كَذْبَةٍ
+
+(The angels speak in the clouds about some matter on earth, and the Shayatin overhear what they say, so they tell it to the fortune-teller, gurgling into his ear like (a liquid poured) from a glass bottle, and he adds to it one hundred lies.)
+
+Refutation of the Claim That the Prophet (ﷺ) Was a Poet
+
+وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ
+
+(As for the poets, the astray ones follow them.) 'Ali bin Abi Talhah reported from Ibn 'Abbas that this means: "The disbelievers follow the misguided among mankind and the Jinn." This was also the view of Mujahid, 'Abdur-Rahman bin Zayd bin Aslam, and others. 'Ikrimah said, "Two poets would ridicule one another in verse, with one group of people supporting one and another group supporting the other. Hence Allah revealed the Ayah,
+
+وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ
+
+(As for the poets, the erring ones follow them.)
+
+أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ
+
+(See you not that they speak about every subject in their poetry?) 'Ali bin Abi Talhah reported from Ibn 'Abbas that this means: "They indulge in every kind of nonsense." Ad-Dahhak reported that Ibn 'Abbas said, "They engage in every kind of verbal art." This was also the view of Mujahid and others.
+
+وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ
+
+(And that they say what they do not do.) Al-'Awfi reported that Ibn 'Abbas said that at the time of the Messenger of Allah ﷺ, two men, one from among the Ansar and one from another tribe, were ridiculing one another in verse, and each one of them was supported by a group of his own people, who were the foolish ones, and Allah said:
+
+وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ - أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ - وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ
+
+(As for the poets, the erring ones follow them. See you not that they speak about every subject in their poetry? And that they say what they do not do.)
+
+What is meant here is that the Messenger ﷺ, to whom this Qur'an was revealed, was not a soothsayer or a poet, because his situation was quite obviously different to theirs, as Allah says:
+
+وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنبَغِي لَهُ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُّبِينٌ
+
+(And We have not taught him poetry, nor is it suitable for him. This is only a Reminder and a plain Qur'an.)(36:69),
+
+إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ - وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ - وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ - تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ
+
+(That this is verily, the word of an honored Messenger. It is not the word of a poet, little is that you believe! Nor is it the word of a soothsayer, little is that you remember! This is the Revelation sent down from the Lord of all that exits.)(69:40-43)
+
+The Exception of the Poets of Islam
+
+إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(Except those who believe and do righteous deeds,) Muhammad bin Ishaq narrated from Yazid bin 'Abdullah bin Qusayt, that Abu Al-Hasan Salim Al-Barrad, the freed servant of Tamim Ad-Dari said: "When the Ayah –
+
+وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ
+
+(As for the poets, the erring ones follow them.) was revealed, Hassan bin Thabit, 'Abdullah bin Rawahah and Ka'b bin Malik came to the Messenger of Allah ﷺ, weeping, and said: "Allah knew when He revealed this Ayah that we are poets. The Prophet ﷺ recited to them the Ayah,
+
+إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(Except those who believe and do righteous deeds,) and said:
+
+أَنْتُم
+
+((This means) you.)
+
+وَذَكَرُوا اللَّهَ كَثِيرًا
+
+(and remember Allah much). He said:
+
+أَنْتُم
+
+((This means) you.)
+
+وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا
+
+(and vindicate themselves after they have been wronged.) He said:
+
+أَنْتُم
+
+((This means) you.) This was recorded by Ibn Abi Hatim and Ibn Jarir from the narration of Ibn Ishaq.
+
+But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about. The reports that have been narrated about this are all Mursal and cannot be relied on. And Allah knows best. But this exception could include the poets of the Ansar and others. It even includes those poets of the Jahiliyyah who indulged in condemning Islam and its followers, then repented and turned to Allah, and gave up what they used to do and started to do righteous deeds and remember Allah much, to make up for the bad things that they had previously said, for good deeds wipe out bad deeds. So they praised Islam and its followers in order to make up for their insults, as [the poet] 'Abdullah bin Az-Zab'ari said when he became Muslim:
+
+"O Messenger of Allah, indeed my tongue will try to make up for things it said when I was bad – When I went along with the Shaytan during the years of misguidance, and whoever inclines towards his way is in a state of loss."
+
+Similarly, Abu Sufyan bin Al-Harith bin 'Abd Al-Muttalib was one of the most hostile people towards the Prophet ﷺ, even though he was his cousin, and he was the one who used to mock him the most. But when he became Muslim, there was no one more beloved to him than the Messenger of Allah ﷺ. He began to praise the Messenger of Allah ﷺ where he had mocked him, and take him as a close friend where he had regarded him as an enemy.
+
+وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا
+
+(and vindicate themselves after they have been wronged.) Ibn 'Abbas said, "They responded in kind to the disbelievers who used to ridicule the believers in verse." This was also the view of Mujahid, Qatadah and several others. It was also recorded in the Sahih that the Messenger of Allah ﷺ said to Hassan:
+
+اهْجُهُم
+
+(Ridicule them in verse.) Or he said:
+
+هاجِهِمْ وَجِبْرِيلُ مَعَكَ
+
+(Ridicule them in verse, and Jibril is with you.) Imam Ahmad recorded that Ka'b bin Malik said to the Prophet ﷺ, "Allah has revealed what He revealed about the poets. The Messenger of Allah ﷺ said:
+
+إِنَّ الْمُؤْمِنَ يُجَاهِدُ بِسَيْفِهِ وَلِسَانِهِ، وَالَّذِي نَفْسِي بِيَدِهِ! لَكَأَنَّ مَا تَرْمُونَهُمْ بِهِ نَضْحُ النَّـبْلِ
+
+(The believer wages Jihad with his sword and with his tongue, By the One in Whose Hand is my soul, it is as if you are attacking them with arrows.)
+
+وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ
+
+(And those who do wrong will come to know by what overturning they will be overturned.) This is like the Ayah,
+
+يَوْمَ لَا يَنفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ
+
+(The Day when their excuses will be of no profit to wrongdoers)(40:52). According to the Sahih, the Messenger of Allah ﷺ said:
+
+إِيَّاكُمْ وَالظُّلْمَ، فَإِنَّ الظُّلْمَ ظُلُمَاتٌ يَوْمَ الْقِيَامَةِ
+
+(Beware of wrongdoing, for wrongdoing will be darkness on the Day of Resurrection.) Qatadah bin Di'amah said concerning the Ayah –
+
+وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ
+
+(And those who do wrong will come to know by what overturning they will be overturned.) this refers to the poets and others.
+
+This is the end of the Tafsir Surat Ash-Shu'ara'. Praise be to Allah, Lord of the worlds.
+
+## Maarif ul Quran
+
+وَأَنذِرْ‌ عَشِيرَ‌تَكَ الْأَقْرَ‌بِينَ ﴿214﴾
+
+And warn the nearest people of your clan, -26:214.
+
+` Ashirah'o, عَشِيرَ‌ۃ means clan and by limiting it with 'aqrabin (the nearest people) it is used for close relatives. It is worth noting here that the mission of the Holy Prophet ﷺ as a messenger is universal to the whole Ummah, then what is the wisdom in making it special for the members of the clan? But if we look at it rather closely, we will notice in it an easy and effective way for preaching, which would have far-reaching effect. One's own family members having the privilege of closeness are also entitled to have precedence over others on initiating any act of virtue. By virtue of close mutual relations they know each other well and anyone with false claims would get exposed in no time. Conversely, the one having good reputation among the family members would be readily accepted and listened to. Once the close relatives throw their weight to support a good cause, it brings in unity and mutual help between them. This way they develop a group of the family members on the basis of trust and sincerity and it becomes very easy to spend the daily life in an atmosphere of peace to follow the religious code. Then this homogeneous and sincere group works like a small power in preaching and spreading the precepts and code of religion to others. In another verse of the Holy Qur'an it is said قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارً‌ا (66:6) that is ` Save yourself and your family members from the fire of Jahannam'. Responsibility of saving one's dependent from the fire of Jahannam is placed on every member of the clan. This is an easy and simple way of reforming the conduct and morals. It is an everyday experience that in order to follow good conduct and morals and then to stick to them is only possible when the environment is favourable for that. If only one person in the entire household wishes to perform his prayers regularly, even that devotee will find it difficult to carry it out. In the present environment it has become difficult to abstain from the unlawful things not because it is not possible to keep away from them, but the reason is that when the whole fraternity is involved in a sin, it becomes very difficult for just one person to keep himself aloof. When this verse was revealed to Holy Prophet ﷺ ، he called out all the members of the family and conveyed to them the message of truth. Although they did not accept the truth at that time but gradually the family members started converting to Islam. When the uncle of Holy Prophet ﷺ Sayyidna Hamzah ؓ ، converted to Islam it provided great strength to the mission.
+
+## Personal Reflections

@@ -1,0 +1,150 @@
+---
+arabic_ayat: وَلَا يَزَالُ الَّذِيۡنَ كَفَرُوۡا فِىۡ مِرۡيَةٍ مِّنۡهُ حَتّٰى تَاۡتِيَهُمُ
+  السَّاعَةُ بَغۡتَةً اَوۡ يَاۡتِيَهُمۡ عَذَابُ يَوۡمٍ عَقِيۡمٍ‏
+sentence_translation: Yet the disbelievers will persist in doubt about this ˹revelation˺
+  until the Hour takes them by surprise, or the torment of a terminating Day comes
+  to them.
+word_by_word:
+  1:
+    arabic: وَلَا
+    translation: And not
+    transliteration: walā
+  2:
+    arabic: يَزَالُ
+    translation: will cease
+    transliteration: yazālu
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: كَفَرُوۡا
+    translation: disbelieve
+    transliteration: kafarū
+  5:
+    arabic: فِىۡ
+    translation: (to be) in
+    transliteration: fī
+  6:
+    arabic: مِرۡيَةٍ
+    translation: doubt
+    transliteration: mir'yatin
+  7:
+    arabic: مِّنۡهُ
+    translation: of it
+    transliteration: min'hu
+  8:
+    arabic: حَتّٰى
+    translation: until
+    transliteration: ḥattā
+  9:
+    arabic: تَاۡتِيَهُمُ
+    translation: comes to them
+    transliteration: tatiyahumu
+  10:
+    arabic: السَّاعَةُ
+    translation: the Hour
+    transliteration: l-sāʿatu
+  11:
+    arabic: بَغۡتَةً
+    translation: suddenly
+    transliteration: baghtatan
+  12:
+    arabic: اَوۡ
+    translation: or
+    transliteration: aw
+  13:
+    arabic: يَاۡتِيَهُمۡ
+    translation: comes to them
+    transliteration: yatiyahum
+  14:
+    arabic: عَذَابُ
+    translation: (the) punishment
+    transliteration: ʿadhābu
+  15:
+    arabic: يَوۡمٍ
+    translation: (of) a Day
+    transliteration: yawmin
+  16:
+    arabic: عَقِيۡمٍ‏
+    translation: barren
+    transliteration: ʿaqīmin
+---
+
+## Context
+
+To understand **The Pilgrimage** (Al-Hajj) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And those who disbelieved, will not cease to be in doubt about it until the Hour comes suddenly upon them, or there comes to them the torment of Yawm 'Aqim (55)The sovereignty on that Day will be that of Allah. مِن رَّ‌سُولٍ وَلَا نَبِيٍّ (any messenger and any prophet - 22:52) This shows that the words Rasul رَّ‌سُولٍ and Nabi carry different meanings, though there is no consensus as to the precise nature of the difference.
+
+## Tafsir Ibn Kathir
+
+And those who disbelieved, will not cease to be in doubt about it until the Hour comes suddenly upon them, or there comes to them the torment of Yawm 'Aqim (55)The sovereignty on that Day will be that of Allah. He will judge between them. So those who believed and did righteous good deeds will be in Gardens of Delight (56)And those who disbelieved and denied Our Ayat, for them will be a humiliating torment (in Hell)(57)
+
+The Disbelievers will remain in Doubt and Confusion
+
+Allah tells us that the disbelievers will remain in doubt concerning this Qur'an. This was the view of Ibn Jurayj and was the view favored by Ibn Jarir.
+
+حَتَّىٰ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً
+
+(until the Hour comes suddenly upon them,) Mujahid said: "By surprise." Qatadah said:
+
+بَغْتَةً
+
+(suddenly) means, the command of Allah will catch the people unaware. Allah never seizes a people except when they are intoxicated with pride, enjoying a life of luxury, and they think that the punishment will never come upon them, but Allah does not punish anyone except the evildoers.
+
+أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ
+
+(or there comes to them the torment of Yawm 'Aqim.) Mujahid said, "Ubay bin Ka'b said: 'Yawm 'Aqim means the day of Badr.'" 'Ikrimah and Mujahid said: "Yawm 'Aqim means the Day of Resurrection, following which there will be no night." This was also the view of Ad-Dahhak and Al-Hasan Al-Basri. Allah says:
+
+الْمُلْكُ يَوْمَئِذٍ لِّلَّهِ يَحْكُمُ بَيْنَهُمْ
+
+(The sovereignty on that Day will be that of Allah. He will judge between them.) This is like the Ayat:
+
+مَالِكِ يَوْمِ الدِّينِ
+
+(The Only Owner of the Day of Recompense)(1:4)
+
+الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَٰنِ ۚ وَكَانَ يَوْمًا عَلَى الْكَافِرِينَ عَسِيرًا
+
+(The sovereignty on that Day will be the true (sovereignty), belonging to the Most Gracious (Allah), and it will be a hard Day for the disbelievers.)(25:26)
+
+فَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(So those who believed and did righteous good deeds) means, their hearts believed in Allah and His Messenger ﷺ, and they acted in accordance with what they knew; their words and deeds were in harmony.
+
+فِي جَنَّاتِ النَّعِيمِ
+
+(in Gardens of Delight.) means, they will enjoy eternal bliss which will never end or fade away.
+
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا
+
+(And those who disbelieved and denied Our Ayat,) means, their hearts rejected and denied the truth; they disbelieved in it and resisted the Messengers and were too proud to follow them.
+
+فَأُولَٰئِكَ لَهُمْ عَذَابٌ مُّهِينٌ
+
+(for them will be a humiliating torment.) means, in recompense for arrogantly turning away from the truth.
+
+إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
+
+(Verily, those who scorn My worship they will surely enter Hell in humiliation!)[40:60]
+
+## Maarif ul Quran
+
+Commentary
+
+مِن رَّ‌سُولٍ وَلَا نَبِيٍّ (any messenger and any prophet - 22:52) This shows that the words Rasul رَّ‌سُولٍ and Nabi carry different meanings, though there is no consensus as to the precise nature of the difference. For our purpose it is enough to understand that Nabi نَبِيٍّ is a person whom Allah Ta’ ala designates with a mission to reform his people and who receives revelations from Him. He may receive a Scripture and a code of laws or he may be commanded to convey the message of an earlier Book and code of laws. Sayyidna Musa (علیہ السلام) and ` Isa' (علیہ السلام) belong to the first category, whereas Sayyidna Harun (علیہ السلام) ، who was directed to propagate the teachings of Torah and the Mosaic Laws, falls in the second category. On the other hand a Rasul رَّ‌سُولٍ is a person who receives from Allah Ta’ ala a Scripture and a code of laws. Thus every رَّ‌سُولٍ Rasul is necessarily a Nabi also, but every Nabi is not a Rasul. These distinctions are applicable to human beings only. That an angel who carries wahy from Allah Ta’ ala is also named as Rasul does not contradict this position. This subject has already been discussed in detail in Surah Maryam in the beginning of this volume.
+
+أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ (The Shaitan cast (doubts) about what he recited - 22:52) In this verse the word تَمَنَّىٰ has been used as a synonym for قَرَأَ thus أُمْنِيَّتِهِ would mean قِرَأت (recitation). This verse explains that the disputes raised by the disbelievers in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of disbelievers. This explanation of the verse is quite clear and straight-forward, and has been adopted by many commentators including Abu Hayyan in his Bahr-ul-Muhit. However, some books of traditions have reported here an incident which is not proved by authentic sources. The incident is known as حَدِیث الٖغرانیق (hadith-ulgharaniq). Some scholars have held that it is invented by some heretics and enemies of Islam. But even those who believe this tradition to be worthwhile have taken pains to remove the doubts, which the words raise about the categorical and undisputed laws of Qur'an and Sunnah. The plain and simple meaning of the verse has been explained above and the alleged incident in no way affects this meaning. Making this incident as a part and parcel of the commentary on this verse, thereby creating unnecessary doubts, and then attempting to answer those doubts is an exercise in futility and absolutely undesirable وَاللہُ سبحانَہُ و تعالیٰ اَعلَم .
+
+## Personal Reflections

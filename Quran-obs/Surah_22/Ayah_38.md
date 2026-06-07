@@ -1,0 +1,105 @@
+---
+arabic_ayat: اِنَّ اللّٰهَ يُدٰفِعُ عَنِ الَّذِيۡنَ اٰمَنُوۡٓا​ ؕ اِنَّ اللّٰهَ لَا
+  يُحِبُّ كُلَّ خَوَّانٍ كَفُوۡرٍ‏
+sentence_translation: Indeed, Allah defends those who believe. Surely Allah does not
+  like whoever is deceitful, ungrateful.
+word_by_word:
+  1:
+    arabic: ۞ اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  3:
+    arabic: يُدٰفِعُ
+    translation: defends
+    transliteration: yudāfiʿu
+  4:
+    arabic: عَنِ
+    translation: defends
+    transliteration: ʿani
+  5:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  6:
+    arabic: اٰمَنُوۡٓا​ ؕ
+    translation: believe
+    transliteration: āmanū
+  7:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  8:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  9:
+    arabic: لَا
+    translation: (does) not
+    transliteration: lā
+  10:
+    arabic: يُحِبُّ
+    translation: like
+    transliteration: yuḥibbu
+  11:
+    arabic: كُلَّ
+    translation: every
+    transliteration: kulla
+  12:
+    arabic: خَوَّانٍ
+    translation: treacherous
+    transliteration: khawwānin
+  13:
+    arabic: كَفُوۡرٍ‏
+    translation: ungrateful
+    transliteration: kafūrin
+---
+
+## Context
+
+To understand **The Pilgrimage** (Al-Hajj) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Truly, Allah defends those who believe. The previous verses contain an account of how the infidels of Makkah prevented the Holy Prophet ﷺ and his companions from entering the Haram and the Holy Mosque to perform ` Umrah when, having put on ihram, they had reached as far as Hudaibiyah, a place not far from Makkah.
+
+## Tafsir Ibn Kathir
+
+Truly, Allah defends those who believe. Verily, Allah likes not any treacherous ingrate (38)
+
+Good News of Allah's Defence for the Believers
+
+Here Allah tells us that He defends His servants who put their trust in Him and turn to Him in repentance; He protects them from the the worst of evil people and the plots of the sinners; He protects them, guards them and supports them, as He tells us elsewhere:
+
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ
+
+(Is not Allah sufficient for His servant?)(39:36)
+
+وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ ۚ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا
+
+(And whosoever puts his trust in Allah, then He will suffice him. Verily, Allah will accomplish his purpose. Indeed Allah has set a measure for all things)(65:3).
+
+إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ
+
+(Verily, Allah likes not any treacherous ingrate) means, He does not like any of His servants who bear these characteristics, i.e., treachery in covenants and promises whereby a person does not do what he says, and ingratitude is to deny the blessings, whereby one does not acknowledge or appreciate them.
+
+## Maarif ul Quran
+
+Commentary
+
+The previous verses contain an account of how the infidels of Makkah prevented the Holy Prophet ﷺ and his companions from entering the Haram and the Holy Mosque to perform ` Umrah when, having put on ihram, they had reached as far as Hudaibiyah, a place not far from Makkah. In this verse Allah Ta’ ala consoled the Muslims with the promise that He would deprive the infidels of their power to harm them anymore.
+
+This incident took place in the year 6 A.H. and thereafter the power and the morale of the infidels suffered continuous decline until in the year 8 A.H. the Muslims conquered Makkah. The following verses describe this event in detail.
+
+## Personal Reflections

@@ -1,0 +1,190 @@
+---
+arabic_ayat: فَمَنۡ تَابَ مِنۡۢ بَعۡدِ ظُلۡمِهٖ وَاَصۡلَحَ فَاِنَّ اللّٰهَ يَتُوۡبُ
+  عَلَيۡهِؕ اِنَّ اللّٰهَ غَفُوۡرٌ رَّحِيۡمٌ‏
+sentence_translation: But whoever repents after their wrongdoing and mends their ways,
+  Allah will surely turn to them in forgiveness. Indeed, Allah is All-Forgiving, Most
+  Merciful.
+word_by_word:
+  1:
+    arabic: فَمَنۡ
+    translation: But whoever
+    transliteration: faman
+  2:
+    arabic: تَابَ
+    translation: repented
+    transliteration: tāba
+  3:
+    arabic: مِنۡۢ
+    translation: from
+    transliteration: min
+  4:
+    arabic: بَعۡدِ
+    translation: after
+    transliteration: baʿdi
+  5:
+    arabic: ظُلۡمِهٖ
+    translation: his wrongdoing
+    transliteration: ẓul'mihi
+  6:
+    arabic: وَاَصۡلَحَ
+    translation: and reforms
+    transliteration: wa-aṣlaḥa
+  7:
+    arabic: فَاِنَّ
+    translation: then indeed
+    transliteration: fa-inna
+  8:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  9:
+    arabic: يَتُوۡبُ
+    translation: will turn in forgiveness
+    transliteration: yatūbu
+  10:
+    arabic: عَلَيۡهِؕ
+    translation: to him
+    transliteration: ʿalayhi
+  11:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  12:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  13:
+    arabic: غَفُوۡرٌ
+    translation: (is) Oft-Forgiving
+    transliteration: ghafūrun
+  14:
+    arabic: رَّحِيۡمٌ‏
+    translation: Most Merciful
+    transliteration: raḥīmun
+---
+
+## Context
+
+To understand **The Table Spread** (Al-Ma'idah) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. And whoever repents after his transgression and corrects himself, then Allah shall relent towards him.
+
+## Tafsir Ibn Kathir
+
+And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. And Allah is All-Powerful, All-Wise (38)But whosoever repents after his crime and does righteous good deeds, then verily, Allah will pardon him. Verily, Allah is Oft-Forgiving, Most Merciful (39)Know you not that to Allah (Alone) belongs the dominion of the heavens and the earth! He forgives whom He wills and He punishes whom He wills. And Allah is able to do all things (40)
+
+The Necessity of Cutting off the Hand of the Thief
+
+Allah commands and decrees that the hand of the thief, male or female be cut off. During the time of Jahiliyyah, this was also the punishment for the thief, and Islam upheld this punishment. In Islam, there are several conditions that must be met before this punishment is carried out, as we will come to know, Allah willing. There are other rulings that Islam upheld after modifying these rulings, such as that of blood money for example.
+
+When Does Cutting the Hand of the Thief Become Necessary?
+
+In is recorded in the Two Sahihs that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَعَنَ اللهُ السَّارِقَ يَسْرِقُ الْبَيْضَةَ فَتُقْطَعُ يَدُهُ، وَيَسْرِقُ الْحَبْلَ فَتُقْطَعُ يَدُهُ
+
+(May Allah curse the thief who steals an egg and as a result his hand is cut off, and who steals rope and as a result his hand is cut off.)
+
+Al-Bukhari and Muslim recorded that 'A'ishah said that the Messenger of Allah ﷺ said,
+
+تُقْطَعُ يَدُ السَّارِقِ فِي رُبْعِ دِينَارٍ فَصَاعِدًا
+
+(The hand of the thief shall be cut off if he steals a quarter of a Dinar or more.)
+
+Muslim recorded that 'A'ishah, may Allah be pleased with her, said that the Messenger of Allah ﷺ said,
+
+لَا تُقْطَعُ يَدُ السَّارقِ إِلَّا فِي رُبْعِ دِينارٍ فَصَاعِدًا
+
+(The hand of the thief shall only be cut off if he steals a quarter of a Dinar or more.)
+
+This Hadith is the basis of the matter since it specifies (that the least amount of theft that deserves cutting the hand) is a quarter of a Dinar.
+
+So this Hadith fixes the value. And saying that it is three Dirhams is not a contradiction. This is because the Dinar in question was equal to twelve Dirhams, so three Dirhams equalled a fourth of a Dinar. So in this way it is possible to harmonize these two views. This opinion was reported from 'Umar bin Al-Khattab, 'Uthman bin 'Affan, 'Ali bin Abi Talib - may Allah be pleased with them - and it is the view of 'Umar bin 'Abdul-'Aziz, Al-Layth bin Sa'd, Al-Awza'i, and Ash-Shafi'i and his companions. This is also the view of Imam Ahmad bin Hanbal and Ishaq bin Rahwayh in one of the narrations from him, as well as Abu Thawr, and Dawud bin 'Ali Az-Zahari, may Allah have mercy upon them.
+
+As for Imam Abu Hanifah and his students Abu Yusuf, Muhammad and Zufar, along with Sufyan Ath-Thawri, they said that the least amount of theft that deserves cutting off the hand is ten Dirhams, whereas a Dinar was twelve Dirhams at that time. The first ruling is the correct one, that the least amount of theft is one forth of a Dinar or more. This meager amount was set as the limit for cutting the hand, so that the people would refrain from theft, and this is a wise decision to those who have sound comprehension. Hence Allah's statement,
+
+جَزَاءً بِمَا كَسَبَا نَكَالًا مِّنَ اللَّهِ وَاللَّهُ عَزِيزٌ حَكِيمٌ
+
+(as a recompense for that which both committed, a punishment by way of example from Allah. And Allah is All-Powerful, All-Wise.)
+
+This is the prescribed punishment for the evil action they committed, by stealing the property of other people with their hands. Therefore, it is fitting that the tool they used to steal the people's wealth be cut off as punishment from Allah for their error.
+
+وَاللَّهُ عَزِيزٌ
+
+(And Allah is All-Powerful,) in His torment,
+
+حَكِيمٌ
+
+(All-Wise.) in His commands, what he forbids, what He legislates and what He decrees.
+
+Repentance of the Thief is Acceptable
+
+Allah said next,
+
+فَمَن تَابَ مِن بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+
+(But whosoever repents after his crime and does righteous good deeds, then verily, Allah will pardon him. Verily, Allah is Oft-Forgiving, Most Merciful.)
+
+Therefore, whoever repents and goes back to Allah after he commits theft, then Allah will forgive him.
+
+Imam Ahmad recorded that 'Abdullah bin 'Amr said that a woman committed theft during the time of the Messenger of Allah ﷺ and those from whom she stole brought her and said, "O Allah's Messenger! This woman stole from us." Her people said, "We ransom her." The Messenger of Allah ﷺ said,
+
+اقْطَعُوا يَدَهَا
+
+(Cut off her hand.) They said, "We ransom her with five hundred Dinars." The Prophet ﷺ said,
+
+اقْطَعُوا يَدَهَا
+
+(Cut off her hand.) Her right hand was cut off and the woman asked, "O Messenger of Allah! Is there a chance for me to repent?" He said,
+
+نَعَمْ أَنْتِ الْيَوْمَ مِنْ خَطِيئَتِكِ كَيَوْمَ وَلَدَتْكِ أُمُّكِ
+
+(Yes. This day, you are free from your sin just as the day your mother gave birth to you.) Allah sent down the verse in Surat Al-Ma'idah,
+
+فَمَن تَابَ مِن بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ
+
+(But whosoever repents after his crime and does righteous good deeds (by obeying Allah), then verily, Allah will pardon him. Verily, Allah is Oft-Forgiving, Most Merciful.) This woman was from the tribe of Makhzum. Her story was narrated in the Two Sahihs from Az-Zuhri from 'Urwah from 'A'ishah, The incident caused concern for the Quraysh after she committed the theft during the time of the battle of the Conquest [of Makkah]. They said, "Who can talk to Allah's Messenger ﷺ about her matter?" They then said, "Who dares speak to him about such matters other than Usamah bin Zayd, his loved one." When the woman was brought to the Messenger of Allah ﷺ, Usamah bin Zayd talked to him about her and the face of the Messenger ﷺ changed color (because of anger) and he ﷺ said,
+
+أَتَشْفَعُ فِي حَدٍّ مِنْ حُدُودِ اللهِ عَزَّ وَجَلَّ؟
+
+(Do you intercede in a punishment prescribed by Allah?)
+
+Usamah said to him, "Ask Allah to forgive me, O Allah's Messenger!" During that night, the Messenger of Allah ﷺ stood up and gave a speech and praised Allah as He deserves to be praised. He then said,
+
+أَمَّا بَعْدُ فَإِنَّمَا أَهْلَكَ الَّذِينَ مِنْ قَبْلِكُمْ أَنَّهُمْ كَانُوا إِذَا سَرَقَ فِيهِمُ الشَّرِيفُ تَرَكُوهُ، وَإِذَا سَرَقَ فِيهِمُ الضَّعِيفُ أَقَامُوا عَلَيْهِ الْحَدَّ، وَإِنِّي وَالَّذِي نَفْسِي بِيَدِهِ لَوْ أَنَّ فَاطِمَةَ بِنْتَ مُحَمَّدٍ سَرَقَتْ لَقَطَعْتُ يَدَهَا
+
+(Those who were before you were destroyed because when an honorable person among them would steal, they would leave him. But, when a weak man among them stole, they implemented the prescribed punishment against him. By Him in Whose Hand is my soul! If Fatimah the daughter of Muhammad stole, I will have her hand cut off.)
+
+The Prophet ﷺ commanded that the hand of the woman who stole be cut off, and it was cut off. 'A'ishah said, 'Her repentance was sincere afterwards, and she got married and she used to come to me so that I convey her needs to the Messenger of Allah." This is the wording that Muslim collected, and in another narration by Muslim, 'A'ishah said, "She was a woman from Makhzum who used to borrow things and deny that she took them. So the Prophet ordered that her hand be cut off." Allah then said,
+
+أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ
+
+(Know you not that to Allah (Alone) belongs the dominion of the heavens and the earth!)
+
+He owns everything and decides what He wills for it and no one can resist His judgment,
+
+فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+
+(He forgives whom He wills and punishes whom He wills. And Allah is able to do all things.)[2:284]
+
+## Maarif ul Quran
+
+The next verse (39) says:
+
+مَن تَابَ مِن بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّـهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ اللَّـهَ غَفُورٌ‌ رَّ‌حِيمٌ ﴿39﴾
+
+And whoever repents after his transgression and corrects himself, then Allah shall relent towards him. Surely, Allah is Most-Forgiving, Very-Merciful.
+
+It will be recalled that forgiveness was also mentioned in connection with the Prescribed Punishment for robbery appearing a few verses earlier (34) - and forgiveness has been mentioned after the punishment for theft as well. But, the statement of forgiveness at both places has a particular difference and it is on the basis of this difference that the sense of forgiveness in both punishments has been taken differently by Muslim jurists. While ordaining the punishment for robbery, giving an exception, Almighty Allah has said: إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُ‌وا عَلَيْهِمْ (except those who repent before you overpower them - 5:34) the outcome of which is that the Hadd Punishment for robbery mentioned in the verse provides an exemption whereby the one who repents - before robbers are overpowered and arrested by the government - shall have his Hadd Punishment forgiven. As for the forgiveness mentioned after the punishment for theft, it does not have the exemption from this temporal punishment. It is rather in terms of the Hereafter that this repentance shall be accepted towards which a clear indication exists in the words: فَإِنَّ اللَّـهَ يَتُوبُ عَلَيْهِ (then Allah shall relent towards him). In other words, the relevant ruler of the time will not abandon the Hadd Pun-ishment because of this repentance, instead of that, Almighty Allah will, by forgiving their crime, grant deliverance to them from the punishment of the Hereafter. Therefore, Muslim jurists almost unanimously agree that the Hadd Punishment for robbery shall not be en-forced on robbers who repent before they are arrested. But, should a thief were to forsake and repent from stealing after having committed a theft - whether before or after arrest - then, the Hadd of Sariqah, the Islamic Legal Punishment, which is a temporal punishment, will not be forgiven. That the sin is forgiven and deliverance from the punishment of the Hereafter has been achieved is not contrary to this.
+
+## Personal Reflections

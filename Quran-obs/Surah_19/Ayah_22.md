@@ -1,0 +1,77 @@
+---
+arabic_ayat: فَحَمَلَـتۡهُ فَانْتَبَذَتۡ بِهٖ مَكَانًا قَصِيًّا‏
+sentence_translation: So she conceived him and withdrew with him to a remote place.
+word_by_word:
+  1:
+    arabic: ۞ فَحَمَلَـتۡهُ
+    translation: So she conceived him
+    transliteration: faḥamalathu
+  2:
+    arabic: فَانْتَبَذَتۡ
+    translation: and she withdrew
+    transliteration: fa-intabadhat
+  3:
+    arabic: بِهٖ
+    translation: with him
+    transliteration: bihi
+  4:
+    arabic: مَكَانًا
+    translation: (to) a place
+    transliteration: makānan
+  5:
+    arabic: قَصِيًّا‏
+    translation: remote
+    transliteration: qaṣiyyan
+---
+
+## Context
+
+To understand **Mary** (Maryam) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. لِأَهَبَ لَكِ غُلَامًا (to give you a boy - 19:19) Here Sayyidna Jibra'n (علیہ السلام) had attributed to himself the gift of the child because Allah Ta’ ala had sent him in order that he should breathe into her collar, and this breath would be the means of her conceiving the child, whereas in reality this gift was by the act of Allah.
+
+## Tafsir Ibn Kathir
+
+So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. She said: "Would that I had died before this, and had been forgotten and out of sight! (23)
+
+The Conception and the Birth
+
+Allah, the Exalted, informs about Maryam that when Jibril had spoken to her about what Allah said, she accepted the decree of Allah. Many scholars of the predecessors (Salaf) have mentioned that at this point the angel (who was Jibril) blew into the opening of the garment that she was wearing. Then the breath descended until it entered into her vagina and she conceived the child by the leave of Allah.
+
+Muhammad bin Ishaq said, "When she conceived him and filled her water jug (at a well), she returned (to her people). After this, her menstrual bleeding ceased and she experienced what the pregnant woman experiences of sickness, hunger, change of color and there was even a change in the manner of her speech. After this, no people came to visit any house like they did the house of Zakariyya. The word spread among the Children of Israel and the people were saying, 'Verily, her partner (in fornication) was Yusuf, because there was no one else in the temple with her except him.' So she hid herself from the people and placed a veil between herself and them. No one saw her and she did not see anyone else." Allah said;
+
+فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ
+
+(And the pains of childbirth drove her to the trunk of a date palm.) This means that her pains of labor compelled her to go to the trunk of a date-palm tree that was at the place where she had secluded herself. The scholars differed over its location. As-Suddi said, "Her place of seclusion was to the east and that was where she would pray at the Sacred House of Jerusalem." Wahb bin Munabbih said, "She ran away and when she reached an area between Ash-Sham and Egypt, she was overcome by labor pains." In another narration from Wahb, he said, "This took place eight miles from the Sacred House of Jerusalem in a village that was known as Bayt Al-Lahm (Bethlehem)." I say, there are Hadiths about the Isra' (Night Journey of the Prophet ﷺ) that are reported by An-Nasa'i on the authority of Anas, and Al-Bayhaqi on the authority of Shadad bin Aws, that say that this took place at Bait Al-Lahm. Allah knows best. This is what is well known that the people all relate from each other. The Christians have no doubt held that the place of this occurrence was Bethlehem and this is what all the people relate. It has been related in a Hadith also, if the Hadith is authentic. Allah says, informing about her,
+
+قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(She said: "Would that I had died before this, and had been forgotten and out of sight!") In this is an evidence of the permissibility to wish for death when a calamity strikes. She knew that she was going to be tested with the birth, the people would not assist her, and they would not believe her story. After she was known as a devout worshipper among them, they now thought that she had become a fornicating whore. She said,
+
+يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا
+
+(Would that I had died before this,) She said this to mean before this situation.
+
+وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(and I had been forgotten and out of sight!) This means, "I wish I had not been created and I was nothing." This was mentioned by Ibn 'Abbas. Qatadah said,
+
+وَكُنتُ نَسْيًا مَّنسِيًّا
+
+(and I had been forgotten and out of sight!) "This means something unknown, forgotten and no one knew who I was."
+
+## Maarif ul Quran
+
+لِأَهَبَ لَكِ غُلَامًا (to give you a boy - 19:19) Here Sayyidna Jibra'n (علیہ السلام) had attributed to himself the gift of the child because Allah Ta’ ala had sent him in order that he should breathe into her collar, and this breath would be the means of her conceiving the child, whereas in reality this gift was by the act of Allah.
+
+## Personal Reflections

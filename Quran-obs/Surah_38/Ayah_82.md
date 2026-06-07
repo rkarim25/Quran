@@ -1,0 +1,81 @@
+---
+arabic_ayat: قَالَ فَبِعِزَّتِكَ لَاُغۡوِيَنَّهُمۡ اَجۡمَعِيۡنَۙ‏
+sentence_translation: Satan said, “By Your Glory! I will certainly mislead them all,
+word_by_word:
+  1:
+    arabic: قَالَ
+    translation: He said
+    transliteration: qāla
+  2:
+    arabic: فَبِعِزَّتِكَ
+    translation: Then by Your might
+    transliteration: fabiʿizzatika
+  3:
+    arabic: لَاُغۡوِيَنَّهُمۡ
+    translation: I will surely mislead them
+    transliteration: la-ugh'wiyannahum
+  4:
+    arabic: اَجۡمَعِيۡنَۙ‏
+    translation: all
+    transliteration: ajmaʿīna
+---
+
+## Context
+
+To understand **The Letter "Saad"** (Sad) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+(Remember) when your Lord said to the angels: "Truly, I am going to create man from clay. Here, it is about Sayyidna 'Adam (علیہ السلام) that Allah Ta’ ala has said that it is He who had created him with His hands.
+
+## Tafsir Ibn Kathir
+
+(Remember) when your Lord said to the angels: "Truly, I am going to create man from clay. (71)"So, when I have fashioned him and breathed into him (his) soul created by Me, then you fall down prostrate to him. (72)So, the angels prostrated themselves, all of them (73)Except Iblis, he was proud and was one of the disbelievers (74)(Allah) said: "O Iblis! What prevents you from prostrating yourself to one whom I have created with Both My Hands. Are you too proud or are you one of the high exalted? (75)[Iblis] said: "I am better than he. You created me from fire, and You created him from clay. (76)(Allah) said: "Then get out from here; for verily, you are outcast. (77)"And verily, My curse is on you till the Day of Recompense. (78)[Iblis] said: "My Lord! Give me then respite till the Day the (dead) are resurrected. (79)(Allah) said: "Verily, you are of those allowed respite, (80)"Till the Day of the time appointed. (81)[Iblis] said: "By Your might, then I will surely mislead them all, (82)"Except Your true servants amongst them. (83)(Allah) said: "The truth is – the truth I say – (84)"That I will fill Hell with you and those of them (mankind) that follow you, together. (85)
+
+The Story of Adam and Iblis
+
+Allah mentions this story in Surat Al-Baqarah, at the beginning of Surat Al-A'raf, in Surat Al-Hijr, Al-Isra', Al-Kahf and here. Before creating Adam, peace be upon him, Allah told the angels that He was going to create a human being from sounding clay of altered smooth black mud. He told them that when He finished creating and forming him, they were to prostrate to him as a sign of honor and respect, and out of obedience to the command of Allah, may He be exalted. All of the angels obeyed this command except for Iblis, who was not one of them. He was one of the Jinn, and his nature betrayed him at his time of greatest need. He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said. He made a mistake by doing this, and he went against the command of Allah, thus committing the sin of disbelief. So Allah exiled him, humiliated him, and cast him out of His mercy and His sacred Presence, and called him "Iblis" symbolizing that he had Ablasa min Ar-Rahmah (despaired of mercy) – that there was no hope for him of mercy. He cast him down from the heavens, disgraced and rejected, to the earth. Iblis asked Allah to give him a reprieve until the Day of Resurrection, so the Forbearing One, Who does not hasten to punish those who disobey Him, gave him a reprieve. When he knew that he was safe from destruction until the Day of Resurrection, he rebelled and transgressed (and he said:)
+
+لَأُغْوِيَنَّهُمْ أَجْمَعِينَ - إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ
+
+(...I [Iblis] will surely mislead them all, except Your true servants amongst them.") This is like the Ayat:
+
+أَرَأَيْتَكَ هَٰذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا قَلِيلًا
+
+(([Iblis] said:) "See this one whom You have honored above me, if You give me respite until the Day of Resurrection, I will surely seize and mislead his offspring all but a few!")(17:62).
+
+These few are the ones who are excepted in another Ayah, which is:
+
+إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًا
+
+(Verily, My servants – you have no authority over them. And All-Sufficient is your Lord as a Guardian.)(17:65)
+
+قَالَ فَالْحَقُّ وَالْحَقَّ أَقُولُ - لَأَمْلَأَنَّ جَهَنَّمَ مِنْكَ وَمِمَّنْ تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
+
+((Allah) said: "The truth is – and the truth I say that I will fill Hell with you and those of them (mankind) that follow you, together.") Some of them, including Mujahid, read this as meaning, "I am the Truth and the truth I say." According to another report narrated from Mujahid, it means, "The truth is from Me and I speak the truth." Others, such as As-Suddi, interpreted it as being an oath sworn by Allah. This Ayah is like the Ayat:
+
+وَلَٰكِنْ حَقَّ الْقَوْلُ مِنِّي لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ
+
+(but the Word from Me took effect, that I will fill Hell with Jinn and mankind together.)(32:13), and
+
+قَالَ اذْهَبْ فَمَنْ تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَاؤُكُمْ جَزَاءً مَوْفُورًا
+
+((Allah) said: "Go, and whosoever of them follows you, surely, Hell will be the recompense of you (all) – an ample recompense.)(17:63).
+
+## Maarif ul Quran
+
+In verse 75, it was said: لِمَا خَلَقْتُ بِيَدَيَّ (what I created with My hands...):
+
+Here, it is about Sayyidna 'Adam (علیہ السلام) that Allah Ta’ ala has said that it is He who had created him with His hands. There is a consensus among the majority of the Muslim Ummah that "hands" do not mean that Allah Ta’ ala has hands as human being do. The reason is that Allah Ta’ ala is absolutely pure and free from the need of body or its active limbs. Therefore, it means the power and control of Allah Ta’ ala and that the word: یَد (yad: hand) is commonly used in the Arabic language in the sense of power - for example, it was said: بِيَدِهِ عُقْدَةُ النِّكَاحِ (in whose hand lies the marriage tie - 2:237). Therefore, the verse means: 'I created 'Adam with My power.' For that matter, everything in this universe owes its creation to nothing but Divine power. But, when Allah Ta’ ala intends to manifest the particular sublimity of something, He would specially attribute it to Himself, for instance, by such attribution the Ka'bah becomes Baytullah, the House of Allah; the she-camel of Sayyidna Salih نَاقۃُ اللہ 'nagatullah', the She-Camel of Allah; and Sayyidna ` Isa ' (علیہ السلام) - 'kalimatullah,' 'the Word of Allah' or 'ruhullah,' 'the Spirit of Allah.' Here too, this attribution has been introduced there to enhance the grace of Sayyidna 'Adam (Qurtubi)l
+
+1. This interpretation is based on the line adopted by some theologians. The others are of the view that the word 'yad' (hand) used for Allah does not refer to a limb like the hand of human beings. It is rather an attribute of Allah Ta ala, the exact nature of which is unknown. The third view is of some other elders who abstain from indulging in the interpretation of such expressions and prefer to keep silent about them, and leave their exact meaning to Allah Ta ala. Muhammad Taqi Usmani.
+
+## Personal Reflections

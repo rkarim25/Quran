@@ -1,0 +1,139 @@
+---
+arabic_ayat: ثُمَّ اِنَّ مَرۡجِعَهُمۡ لَا۟اِلَى الۡجَحِيۡمِ‏
+sentence_translation: Then they will ultimately return to ˹their place in˺ Hell.
+word_by_word:
+  1:
+    arabic: ثُمَّ
+    translation: Then
+    transliteration: thumma
+  2:
+    arabic: اِنَّ
+    translation: indeed
+    transliteration: inna
+  3:
+    arabic: مَرۡجِعَهُمۡ
+    translation: their return
+    transliteration: marjiʿahum
+  4:
+    arabic: لَا۟اِلَى
+    translation: (will) surely be to
+    transliteration: la-ilā
+  5:
+    arabic: الۡجَحِيۡمِ‏
+    translation: the Hellfire
+    transliteration: l-jaḥīmi
+---
+
+## Context
+
+To understand **Those who set the Ranks** (As-Saffat) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit st… By saying: طَلْعُهَا كَأَنَّهُ رُ‌ءُوسُ الشَّيَاطِينِ (Its fruits are like the heads of the shaitans.- 65), the fruits of zaqqum have been likened to the heads of the satans.
+
+## Tafsir Ibn Kathir
+
+Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit stalks are like the heads of Shayatin (65)Truly, they will eat thereof and fill their bellies therewith (66)Then on the top of that they will be given boiling Hamim (67)Then thereafter, verily, their return is to the flaming fire of Hell (68)Verily, they found their fathers on the wrong path (69)So they (too) hastened in their footsteps (70)
+
+The Tree of Zaqqum and its Companions
+
+Here Allah asks: 'Is that which He has mentioned of the delights of Paradise with its food, drink, companions and other joys better entertainment, or
+
+أَمْ شَجَرَةُ الزَّقُّومِ
+
+(or the tree of Zaqqum) which is in Hell?' The meaning here is a specific kind of tree which is called Zaqqum. This is like the Ayah:
+
+وَشَجَرَةً تَخْرُجُ مِنْ طُورِ سَيْنَاءَ تَنْبُتُ بِالدُّهْنِ وَصِبْغٍ لِلْآكِلِينَ
+
+(And a tree that springs forth from Mount Sinai, that grows (produces) oil, and (it is a) relish for the eaters.)(23:20) – which is the olive tree. This is supported by the Ayah:
+
+ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ - لَآكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍ
+
+(Then moreover, verily, – you the erring-ones, the deniers! You, verily, will eat of the trees of Zaqqum.)(56:51-52).
+
+إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ
+
+(Truly, We have made it (as) a trial for the wrongdoers.) Qatadah said, "The tree of Zaqqum is mentioned as a test for those who are misguided. They said, 'Your companion tells you that in the Fire there is a tree, but fire consumes trees.' Then Allah revealed the words:
+
+إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ
+
+(Verily, it is a tree that springs out of the bottom of Hell-fire.) meaning, it is nourished by the fire, for it was created from fire." Mujahid said:
+
+إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ
+
+(Truly, We have made it (as) a trial for the wrongdoers.)
+
+Abu Jahl, may Allah curse him, said, "Zaqqum means dates and butter which I eat [Atazaqqamuhu]."
+
+I say that the meaning of the Ayah is, "We have told you, O Muhammad, of the tree of Zaqqum as a trial with which We test the people to see who will believe and who will disbelieve." This is like the Ayah:
+
+وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا
+
+(And We made not the vision which we showed you but a trial for mankind, and the accursed tree in the Qur'an. We warn and make them afraid but it only increases them in naught save great disbelief, oppression and disobedience to Allah)(17:60).
+
+إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ
+
+(Verily, it is a tree that springs out of the bottom of Hell-fire.) means, its roots grow at the bottom of Hell.
+
+طَلْعُهَا كَأَنَّهُ رُءُوسُ الشَّيَاطِينِ
+
+(The shoots of its fruit stalks are like the heads of Shayatin.) this is a description of how ugly and repulsive it is. It is likened to
+
+رُءُوسُ الشَّيَاطِينِ
+
+(the heads of Shayatin ), even though they have never seen them, because it is a well-established idea in people's minds that devils are ugly in appearance.
+
+فَإِنَّهُمْ لَآكِلُونَ مِنْهَا فَمَالِئُونَ مِنْهَا الْبُطُونَ
+
+(Truly, they will eat thereof and fill their bellies therewith.) Allah mentions that they will eat of this extremely ugly tree even though its fruit tastes and smells so bad; they will be forced to eat from it because they will not find anything else to eat except this tree and similar things, as Allah says:
+
+لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ - لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ
+
+(No food will there be for them but a poisonous thorny plant, Which will neither nourish nor avail against hunger.)(88:6 -7).
+
+ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَمِيمٍ
+
+(Then on the top of that they will be boiling Hamim)
+
+Ibn 'Abbas, may Allah be pleased with him, said, "This means they will be given boiling Hamim to drink after they have eaten from Zaqqum." According to another report, he said that this means a mixture made from boiling water. Someone else said that it means boiling water will be mixed with pus and offensive discharges that leak from their private parts and eyes.
+
+Ibn Abi Hatim recorded that Sa'id bin Jubayr said, "When the people of Hell get hungry, they will ask for food from the tree of Zaqqum. They will eat from it, then the skin of their faces will fall off, If someone were to pass by, he would recognize them from their faces. Then thirst will be sent upon them, so they will ask to be given something to drink, and they will be given water like boiling oil that has been heated to the ultimate degree. When it is brought near to their mouths, the flesh of their faces from which the skin has fallen off will be baked by its heat, and whatever is in their stomachs will melt. They will walk with their guts falling out and with their skin falling off, then they will be beaten with hooked rods of iron. Then every part of their bodies will burst into loud lamentations.
+
+ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى الْجَحِيمِ
+
+(Then thereafter, verily, their return is to the flaming fire of Hell.) means, after that interval, they will be sent back to the burning fire, searing heat and scorching flames, and they will rotate between the one and the other. This is like the Ayah,
+
+يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ
+
+(They will go between it (Hell) and the fierce boiling water!)(55:44). Qatadah recited this Ayah when discussing this Ayah. This is a good interpretation. 'Abdullah bin Mas'ud recited it differently, with the meaning "Their return in the afternoon." 'Abdullah, may Allah be pleased with him, used to say: "By the One in Whose Hand is my soul, midday on the Day of Resurrection will not come until the people of Paradise will be in Paradise and the people of Hell will be in Hell." Then he recited:
+
+أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُسْتَقَرًّا وَأَحْسَنُ مَقِيلًا
+
+(The dwellers of Paradise will, on that Day, have the best abode, and have the fairest of places for repose)(25:24). Allah's saying;
+
+إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ
+
+(Verily, they found their fathers on the wrong path;) means, 'We will punish them for that because they found their fathers following misguidance and they followed them with no evidence or proof.' Allah says:
+
+فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ
+
+(So they (too) hastened in their footsteps!) Mujahid said, "This is like running." Sa'id bin Jubayr said, "They followed ignorance and foolishness."
+
+## Maarif ul Quran
+
+By saying: طَلْعُهَا كَأَنَّهُ رُ‌ءُوسُ الشَّيَاطِينِ (Its fruits are like the heads of the shaitans.- 65), the fruits of zaqqum have been likened to the heads of the satans. Some commentators have translated the word: الشَّيَاطِينِ (ash-shayatin) in this verse as 'serpents' since the fruit of zaqqum resembles the hood of the serpent. Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason. But most
+
+commentators have said that the word: الشَّيَاطِينِ (ash-shayatin) here should be taken in its well-recognized sense. Thus, it would mean that, in its ugliness, the fruit of zaqqum is like the head of the satans. Now, let there be no doubt here that nobody has seen the Shaitan, why then, would something be likened to him? The reason is that it is an imaginative simile. Speaking metaphorically, things ugly and grotesque are commonly likened to Shaitans, Jinns and ghosts. The purpose is only to express an extreme degree of ugliness. The simile used here is also of this very nature. (Ruh-ul-Ma’ ani and others).
+
+The sense of the rest of the verses is clear from their translation.
+
+## Personal Reflections

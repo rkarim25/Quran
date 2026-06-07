@@ -1,0 +1,157 @@
+---
+arabic_ayat: فَبِظُلۡمٍ مِّنَ الَّذِيۡنَ هَادُوۡا حَرَّمۡنَا عَلَيۡهِمۡ طَيِّبٰتٍ
+  اُحِلَّتۡ لَهُمۡ وَبِصَدِّهِمۡ عَنۡ سَبِيۡلِ اللّٰهِ كَثِيۡرًا ۙ‏
+sentence_translation: We forbade the Jews certain foods that had been lawful to them
+  for their wrongdoing, and for hindering many from the Way of Allah,
+word_by_word:
+  1:
+    arabic: فَبِظُلۡمٍ
+    translation: Then for (the) wrongdoing
+    transliteration: fabiẓul'min
+  2:
+    arabic: مِّنَ
+    translation: of
+    transliteration: mina
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: هَادُوۡا
+    translation: were Jews
+    transliteration: hādū
+  5:
+    arabic: حَرَّمۡنَا
+    translation: We made unlawful
+    transliteration: ḥarramnā
+  6:
+    arabic: عَلَيۡهِمۡ
+    translation: for them
+    transliteration: ʿalayhim
+  7:
+    arabic: طَيِّبٰتٍ
+    translation: good things
+    transliteration: ṭayyibātin
+  8:
+    arabic: اُحِلَّتۡ
+    translation: which had been lawful
+    transliteration: uḥillat
+  9:
+    arabic: لَهُمۡ
+    translation: for them
+    transliteration: lahum
+  10:
+    arabic: وَبِصَدِّهِمۡ
+    translation: and for their hindering
+    transliteration: wabiṣaddihim
+  11:
+    arabic: عَنۡ
+    translation: from
+    transliteration: ʿan
+  12:
+    arabic: سَبِيۡلِ
+    translation: (the) way
+    transliteration: sabīli
+  13:
+    arabic: اللّٰهِ
+    translation: '(of) Allah '
+    transliteration: l-lahi
+  14:
+    arabic: كَثِيۡرًا ۙ‏
+    translation: many
+    transliteration: kathīran
+---
+
+## Context
+
+To understand **The Women** (An-Nisa) 160, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Ibn 'Abbas said, "This Ayah was revealed concerning 'Abdullah bin Salam, Tha'labah bin Sa'yah, Zayd bin Sa'yah and Asad bin 'Ubayd who embraced Islam and believed what Allah sent Muhammad ﷺ with. Allah said,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+For the wrongdoing of the Jews, We made unlawful for them certain good foods which had been lawful for themـand for their hindering many from Allah's way (160)And their taking of Riba though they were forbidden from taking it, and their devouring men's substance wrongfully. Mentioned earlier through several verses were the wrongdoings of Jews and the punishment they would get for doing so.
+
+## Tafsir Ibn Kathir
+
+For the wrongdoing of the Jews, We made unlawful for them certain good foods which had been lawful for themـand for their hindering many from Allah's way (160)And their taking of Riba though they were forbidden from taking it, and their devouring men's substance wrongfully. And We have prepared for the disbelievers among them a painful torment (161)But those among them who are well-grounded in knowledge, and the believers, believe in what has been sent down to you and what was sent down before you; and those who perform the Salah, and give Zakah and believe in Allah and in the Last Day, it is they to whom We shall give a great reward (162)
+
+Some Foods Were Made Unlawful for the Jews Because of their Injustice and Wrongdoing
+
+Allah states that because of the injustice and transgression of the Jews, demonstrated by committing major sins, He prohibited some of the lawful, pure things which were previously allowed for them. This prohibition could be only that of decree, meaning that Allah allowed the Jews to falsely interpret their Book and change and alter the information about what was allowed for them. They thus, out of exaggeration and extremism in the religion, prohibited some things for themselves. It could also mean that in the Tawrah, Allah prohibited things that were allowed for them before. Allah said,
+
+كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ التَّوْرَاةُ
+
+(All food was lawful to the Children of Israel, except what Isra'il made unlawful for himself before the Tawrah was revealed.)[3:93]
+
+We mentioned this Ayah before, which means that all types of food were allowed for the Children of Israel before the Tawrah was revealed, except the camel's meat and milk that Isra'il prohibited for himself. Later, Allah prohibited many things in the Tawrah. Allah said in Surat Al-An'am (chapter 6),
+
+وَعَلَى الَّذِينَ هَادُوا حَرَّمْنَا كُلَّ ذِي ظُفُرٍ وَمِنَ الْبَقَرِ وَالْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَا إِلَّا مَا حَمَلَتْ ظُهُورُهُمَا أَوِ الْحَوَايَا أَوْ مَا اخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَاهُم بِبَغْيِهِمْ وَإِنَّا لَصَادِقُونَ
+
+(And unto those who are Jews, We forbade every (animal) with undivided hoof, and We forbade them the fat of the ox and the sheep except what adheres to their backs or their entrails, or is mixed up with a bone. Thus We recompensed them for their rebellion. And verily, We are Truthful.)
+
+This means, We prohibited these things for them because they deserved it due to their transgression, injustice, defying their Messenger and disputing with him. So Allah said;
+
+فَبِظُلْمٍ مِّنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ اللَّهِ كَثِيرًا
+
+(For the wrongdoing of the Jews, We made unlawful to them certain good foods which had been lawful to them, and for their hindering many from Allah's way.)
+
+This Ayah states that they hindered themselves and others from following the truth, and this is the behavior that they brought from the past to the present. This is why they were and still are the enemies of the Messengers, killing many of the Prophets. They also denied Muhammad and 'Isa, peace be upon them. Allah said,
+
+وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ
+
+(And their taking of Riba' though they were forbidden from taking it,)
+
+Allah prohibited them from taking Riba', yet they did so using various kinds of tricks, ploys and cons, thus devouring people's property unjustly. Allah said,
+
+وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا
+
+(And We have prepared for the disbelievers among them a painful torment.) Allah then said,
+
+لَّٰكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ
+
+(But those among them who are well-grounded in knowledge...) firm in the religion and full of beneficial knowledge. We mentioned this subject when we explained Surah Āl-'Imrān (3). The Ayah;
+
+وَالْمُؤْمِنُونَ
+
+(and the believers...) refers to the well-grounded in knowledge;
+
+يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ
+
+(believe in what has been sent down to you and what was sent down before you;)
+
+Ibn 'Abbas said, "This Ayah was revealed concerning 'Abdullah bin Salam, Tha'labah bin Sa'yah, Zayd bin Sa'yah and Asad bin 'Ubayd who embraced Islam and believed what Allah sent Muhammad ﷺ with. Allah said,
+
+وَالْمُؤْتُونَ الزَّكَاةَ
+
+(and give Zakah,) This could be referring to the obligatory charity due on one's wealth and property, or those who purify themselves, or both. Allah knows best.
+
+وَالْمُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ
+
+(and believe in Allah and in the Last Day,) They believe that there is no deity worthy of worship except Allah, believe in Resurrection after death and the reward or punishment for the good or evil deeds. Allah's statement,
+
+أُولَٰئِكَ
+
+(It is they,) those whom the Ayah described above,
+
+سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
+
+(To whom We shall give a great reward.) means Paradise.
+
+## Maarif ul Quran
+
+Mentioned earlier through several verses were the wrongdoings of Jews and the punishment they would get for doing so. The present verses talk about some other vices of theirs and mention yet another kind of punishment as well. This punishment will, obviously, visit them on the Day of Judgment. But, right here in this present world, the outcome will be that they will find many things already lawful for
+
+them made unlawful as a measure of punishment.
+
+Commentary
+
+In the Shari` ah brought by the Holy Prophet Muhammad al Mustafa ﷺ there are some things too, known as Haram or unlawful, but these were forbidden because of one or the other physical or spiritual harm they bring. This was contrary to what happened with the Jews - the good things forbidden to them had no physical or spiritual harm in them, instead, these were forbidden to them as the punishment of their acts of transgression and disobedience.
+
+## Personal Reflections

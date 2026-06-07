@@ -1,0 +1,153 @@
+---
+arabic_ayat: مَنۡ يُّصۡرَفۡ عَنۡهُ يَوۡمَٮِٕذٍ فَقَدۡ رَحِمَهٗ​ؕ وَ ذٰ لِكَ الۡـفَوۡزُ
+  الۡمُبِيۡنُ‏
+sentence_translation: Whoever is spared the torment of that Day will have certainly
+  been shown Allah’s mercy. And that is the absolute triumph.
+word_by_word:
+  1:
+    arabic: مَنۡ
+    translation: Whoever
+    transliteration: man
+  2:
+    arabic: يُّصۡرَفۡ
+    translation: is averted
+    transliteration: yuṣ'raf
+  3:
+    arabic: عَنۡهُ
+    translation: from it
+    transliteration: ʿanhu
+  4:
+    arabic: يَوۡمَٮِٕذٍ
+    translation: that Day
+    transliteration: yawma-idhin
+  5:
+    arabic: فَقَدۡ
+    translation: then surely
+    transliteration: faqad
+  6:
+    arabic: رَحِمَهٗ​ؕ
+    translation: He had Mercy on him
+    transliteration: raḥimahu
+  7:
+    arabic: وَ ذٰ لِكَ
+    translation: And that
+    transliteration: wadhālika
+  8:
+    arabic: الۡـفَوۡزُ
+    translation: (is) the success
+    transliteration: l-fawzu
+  9:
+    arabic: الۡمُبِيۡنُ‏
+    translation: (the) clear
+    transliteration: l-mubīnu
+---
+
+## Context
+
+To understand **The Cattle** (Al-An'am) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. After that, it was said: مَّن يُصْرَ‌فْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَ‌حِمَهُ (Whoever is spared from it that day is, indeed, blessed with His mercy).
+
+## Tafsir Ibn Kathir
+
+Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. Indeed He will gather you together on the Day of Resurrection, about which there is no doubt. Those who destroy themselves will not believe (12)And to Him belongs whatsoever exists in the night and the day, and He is the All-Hearing, the All-Knowing. (13)Say: "Shall I take as a guardian any other than Allah, the Creator of the heavens and the earth? And it is He Who feeds but is not fed." Say: "Verily, I am commanded to be the first of those who submit. "And be not you of the idolators (14)Say: "I fear, if I disobey my Lord, the torment of a Mighty Day. (15)Who is averted from (such a torment) on that Day; then He (Allah) has surely been Merciful to him. And that would be the obvious success (16)
+
+Allah is the Creator and the Sustainer
+
+Allah states that He is the King and Owner of the heavens and earth and all of what is in them, and that He has written mercy on His Most Honorable Self. It is recorded in the Two Sahihs, that Abu Hurayrah said that the Prophet ﷺ said,
+
+إِنَّ اللهَ لَمَّا خَلَقَ الْخَلْقَ، كَتَبَ كِتَابًا عِنْدَهُ فَوْقَ الْعَرْشِ، إِنَّ رَحْمَتِي تَغْلِبُ غَضَبِي
+
+(When Allah created the creation, He wrote in a Book that He has with Him above the Throne; 'My mercy overcomes My anger.') Allah said;
+
+لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ
+
+(Indeed He will gather you together on the Day of Resurrection, about which there is no doubt.) swearing by His Most Honored Self that He will gather His servants,
+
+إِلَىٰ مِيقَاتِ يَوْمٍ مَّعْلُومٍ
+
+(For appointed meeting of a known Day.)[56:50], the Day of Resurrection that will certainly occur, and there is no doubt for His believing servants in this fact. As for those who deny and refuse, they are in confusion and disarray. Allah's statement,
+
+الَّذِينَ خَسِرُوا أَنفُسَهُمْ
+
+(Those who destroy themselves) on the Day of Resurrection,
+
+فَهُمْ لَا يُؤْمِنُونَ
+
+(will not believe.) in the Return and thus do not fear the repercussions of that Day. Allah said next,
+
+وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ
+
+(And to Him belongs whatsoever exists in the night and the day.) meaning, all creatures in the heavens and earth are Allah's servants and creatures, and they are all under His authority, power and will; there is no deity worthy of worship except Him,
+
+وَهُوَ السَّمِيعُ الْعَلِيمُ
+
+(and He is the All-Hearing, the All-Knowing.)
+
+He hears the statements of His servants and knows their actions, secrets and what they conceal. Allah then said to His servant and Messenger Muhammad ﷺ, whom He sent with the pure Tawhid and the straight religion, commanding him to call the people to Allah's straight path;
+
+قُلْ أَغَيْرَ اللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ
+
+(Say: "Shall I take as a guardian any other than Allah, the Creator of the heavens and the earth?") Similarly, Allah said,
+
+قُلْ أَفَغَيْرَ اللَّهِ تَأْمُرُونِّي أَعْبُدُ أَيُّهَا الْجَاهِلُونَ
+
+(Say: "Do you order me to worship other than Allah, O you fools?")[39:64].
+
+The meaning here is, I will not take a guardian except Allah, without partners, for He is the Creator of the heavens and earth Who orignated them without precedent,
+
+وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ
+
+(And it is He Who feeds but is not fed.) For He sustains His creatures without needing them. Allah also said;
+
+وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
+
+(And I created not the Jinn and humans except that they should worship Me (Alone).)[51:56] Some scholars read it,
+
+وَهُوَ يُطْعِمُ وَلَا يَطْعَمُ
+
+"And it is He Who feeds but He does not eat." meaning, Allah does not eat. Abu Hurayrah narrated, "A man from Al-Ansar from the area of Quba' invited the Prophet ﷺ to eat some food, and we went along with the Prophet ﷺ. When the Prophet ﷺ ate and washed his hands, he said,
+
+الْحَمْدُ للهِ الَّذِي يُطْعِمُ وَلَا يُطْعَمُ، وَمَنَّ عَلَيْنَا فَهَدَانَا وَأَطْعَمَنَا، وَسَقَانَا مِنَ الشَّرَابِ، وَكَسَانَا مِنَ العُرْيِ، وَكُلَّ بَلَاءٍ حَسَنٍ أَبْلَانَا، الْحَمْدُ للهِ غَيْرَ مُوَدَّعٍ رَبِّي وَلَا مُكَافأً وَلَا مَكْفُورٍ، وَلَا مُسْتَغْنًى عَنْهُ، الْحَمْدُ للهِ الَّذِي أَطْعَمَنَا مِنَ الطَّعَامِ، وَسَقَانَا مِنَ الشَّرَابِ، وَكَسَانَا مِنَ الْعُرْيِ، وَهَدَانَا مِنَ الضَّلَالِ، وَبَصَّرَنَا مِنَ العَمَى، وَفَضَّلَنَا عَلَى كَثِيرٍ مِمَّنَ خَلَقَ تَفْضِيلًا، الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ
+
+(All praise is due to Allah, Who feeds but is never fed, He bestowed bounty unto us, Who gave us guidance and fed us, gave us something to drink, covered our nakedness; and for every favor He has given us. All praise is due to Allah, praise that should not be neglected, my Lord, all the while affirming that we will never be able to duly thank Him; nor be appreciative enough of Him, nor be free of needing Him. All thanks and praises are due to Allah Who fed us the food, gave us the drink, covered our nudity, guided us from misguidance, gave us sight from blindness, and honored us above many of His creaturers. All praise is due to Allah, Lord of all that exists.")
+
+قُلْ إِنِّي أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ
+
+(Say: "Verily, I am commanded to be the first of those who submit themselves to Allah as (Muslims).") from this Ummah,
+
+وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ - قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ
+
+(And be not you of the idolaters. Say: "I fear, if I disobey my Lord, the torment of a Mighty Day.")[6:14-15], the Day of Resurrection,
+
+مَّن يُصْرَفْ عَنْهُ
+
+(Who is averted from) such a torment,
+
+يَوْمَئِذٍ فَقَدْ رَحِمَهُ
+
+(on that Day, He has surely been Merciful to him) meaning, Allah will have been merciful to him,
+
+وَذَٰلِكَ الْفَوْزُ الْمُبِينُ
+
+(And that would be the obvious success.) Allah also said,
+
+فَمَن زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
+
+(And whoever is moved away from the Fire and admitted to Paradise, he indeed is successful.)[3:185], success here indicates acquiring profit and negates loss.
+
+## Maarif ul Quran
+
+After that, it was said: مَّن يُصْرَ‌فْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَ‌حِمَهُ (Whoever is spared from it that day is, indeed, blessed with His mercy). It means that the punishment of the day of Resurrection (al-Mahshar) is extremely horrendous and harsh. Whoever finds this removed from him or her should know that it was great mercy from Allah. This has been further strengthened by saying:' وَذَٰلِكَ الْفَوْزُ الْمُبِينُ that is success, open and clear). The word, اَلفَوزُ : ` al-fawz' (success) means being admitted in Jannah (Paradise). This tells us that deliverance from punishment and admittance into the Paradise are inseparable from each other.
+
+## Personal Reflections

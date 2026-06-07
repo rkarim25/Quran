@@ -1,0 +1,197 @@
+---
+arabic_ayat: ثُمَّ اَمَاتَهٗ فَاَقۡبَرَهٗۙ‏
+sentence_translation: then causes them to die and be buried.
+word_by_word:
+  1:
+    arabic: ثُمَّ
+    translation: Then
+    transliteration: thumma
+  2:
+    arabic: اَمَاتَهٗ
+    translation: He causes him to die
+    transliteration: amātahu
+  3:
+    arabic: فَاَقۡبَرَهٗۙ‏
+    translation: and provides a grave for him
+    transliteration: fa-aqbarahu
+---
+
+## Context
+
+To understand **He Frowned** ('Abasa) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah 'Abasa is a **Makkah** surah—revealed as the 24th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 42 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The commentators and traditionists are unanimous about the occasion of the revelation of this Surah. According to them, once some big chiefs of Makkah were sitting in the Holy Prophet's assembly and he was earnestly engaged in trying to persuade them to accept Islam. At that very point, a blind man,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Qutila mankind! ثُمَّ أَمَاتَهُ فَأَقْبَرَ‌هُ (Later, he made him die, and put him into the grave..80:21) After mentioning the inception of human life, Allah points to its end, that is, death and grave.
+
+## Tafsir Ibn Kathir
+
+Qutila mankind! How ungrateful he is (17)From what thing did He create him (18)From a Nutfah He created him and then set him in due proportion (19)Then He made the path easy for him (20)Then He causes him to die and puts him in his grave (21)Then when it is His will, He will resurrect him (22)Nay, but he has not done what He commanded him (23)Then let man look at his food (24)We pour forth water in abundance (25)And We split the earth in clefts (26)And We cause therein Habb to grow (27)And grapes and Qadb (28)And olives and date palms (29)And Ghulb Hada'iq (30)And fruits (Fakihah) and herbage (Abb)(31)A provision and benefit for you and your cattle (32)
+
+The Refutation against Whoever denies Life after Death
+
+Allah rebukes those who deny the Resurrection and the Final Gathering.
+
+قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ
+
+(Qutila mankind!) Ad-Dahhak reported from Ibn 'Abbas that he said,
+
+قُتِلَ الْإِنسَانُ
+
+(Qutila mankind!) "May man be cursed." Abu Malik also made a similar statement. He said, "This refers to the rejecting type of man, due to his abundant denial without any supporting argument. Rather he denies simply because he thinks it is farfetched and because he lacks knowledge of it." Ibn Jurayj said,
+
+مَا أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is worse in disbelief than he is." Qatadah said,
+
+مَا أَكْفَرَهُ
+
+(How ungrateful he is!) "This means none is more cursed than he is."
+
+Then Allah explains how He created him from something despised and that He is able to bring him back to life just as He created him initially. Allah says,
+
+مِنْ أَيِّ شَيْءٍ خَلَقَهُ - مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+
+(From what thing did He create him? From a Nutfah He created him, and then set him in due proportion.)
+
+meaning, He decreed his life span, his sustenance, his deeds, and whether he would be miserable or happy.
+
+ثُمَّ السَّبِيلَ يَسَّرَهُ
+
+(Then He made the path easy for him.) Al-'Awfi reported from Ibn 'Abbas, "Then He made his coming out of his mother's belly easy for him." This was also said by 'Ikrimah, Ad-Dahhak, Abu Salih, Qatadah, As-Suddi, and it was the explanation preferred by Ibn Jarir. Mujahid said, "This is similar to Allah's statement,
+
+إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
+
+(Verily, We guided him on the path, he is either grateful or ungrateful.)(76:3)
+
+meaning, We explained it to him, clarified it, and made it easy for him to act upon." Al-Hasan and Ibn Zayd both said the same. This is the most correct view and Allah knows best. Concerning Allah's statement,
+
+ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+
+(Then He causes him to die and puts him in his grave.)
+
+After creating man, Allah causes him to die and makes him the inhabitant of a grave.
+
+Allah said;
+
+ثُمَّ إِذَا شَاءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.)
+
+meaning, He resurrects him after his death and this is called Al-Ba'th (resurrection) and An-Nushur (resuscitation).
+
+وَمِنْ آيَاتِهِ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَا أَنتُم بَشَرٌ تَنتَشِرُونَ
+
+(And among His signs is this that He created you from dust, and then behold, you are human beings scattered.)(30:20)
+
+وَانظُرْ إِلَى الْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا
+
+(And look at the bones, how We bring them together and clothe them with flesh.)(2:259)
+
+In the Two Sahihs it is narrated by way of Al-A'mash from Abu Salih, from Abu Hurayrah that the Prophet ﷺ said,
+
+كُلُّ ابْنِ آدَمَ يَبْلَى إِلَّا عَجْبَ الذَّنَبِ، مِنْهُ خُلِقَ، وَفِيهِ يُرَكَّبُ
+
+(All of the Sons of Adam (men) will decay except for the bone of coccyx (tailbone). From it he (man) was created and by it he will be reconstructed.)"
+
+Concerning Allah's statement,
+
+كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ
+
+(Nay, but has not done what He commanded him.)
+
+Ibn Jarir said, "Allah is saying, 'Nay, the matter is not as this disbelieving man says. He claims that he has fulfilled Allah's right upon him regarding himself and his wealth.
+
+لَمَّا يَقْضِ مَا أَمَرَهُ
+
+(But he has not done what He commanded him.) Allah is saying that man has not fulfilled for his Lord the obligations that were imposed upon him." What seems apparent to me of its actual meaning – and Allah knows best – is that the Ayah
+
+ثُمَّ إِذَا شَاءَ أَنشَرَهُ
+
+(Then when it is His will, He will resurrect him.) means, He will resurrect him.
+
+كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ
+
+(Nay! But he has not done what He commanded him.)
+
+means, He has not done it (resurrected them) as of yet, until the time period has expired and the extent of the earthly life of humanity is complete, according to the lives of all whom Allah has written it to exist from the time they are brought into existence into the world. Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
+
+The Growth of the Seed and Other Things is a Proof of Life after Death
+
+فَلْيَنظُرِ الْإِنسَانُ إِلَىٰ طَعَامِهِ
+
+(Then let man look at his food) This is a call to reflect upon Allah's favor. It also contains an evidence in the vegetation's coming to life from the lifeless earth, that the bodies can be brought to life after being decayed bones and scattered dust.
+
+أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
+
+(We pour forth water in abundance.) meaning, 'We sent it down from the sky to the earth.'
+
+ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
+
+(And We split the earth in clefts.) meaning, 'We cause it (the water) to settle in it (the earth), and it enters into its boundaries, and mingles with the parts of the seeds that are left in the earth. From this the seeds grow, rise up and appear on the surface of the earth (in the form of vegetation).'
+
+فَأَنبَتْنَا فِيهَا حَبًّا - وَعِنَبًا وَقَضْبًا
+
+(And We cause therein Habb to grow. And grapes and Qadb,)
+
+Al-Habb refers to all types of seeds (or grains). Grapes are well-known. Al-Qadb are the moist (green) herbal plants that animals graze on. It is also called Al-Qat. Ibn 'Abbas, Qatadah, Ad-Dahhak and As-Suddi, all said this. Al-Hasan Al-Basri said, "Al-Qadb is fodder."
+
+وَزَيْتُونًا
+
+(And olives) It is well-known, and it is a food just as its juice is a food. It is eaten for breakfast and used as an oil.
+
+وَنَخْلًا
+
+(And date palms,) It (i.e., its fruit) is eaten as Balah, Busr, Rutab and Tamr, Niya' and Matbukh, all of which are varieties of dates that range from unripe, ripe and dried in their textures. Its juice is also extracted to make pulpy fruit drinks and vinegar.
+
+وَحَدَائِقَ غُلْبًا
+
+(And Ghulb Hada'iq,) meaning, gardens. Al-Hasan and Qatadah both said, "Ghulb are gardens of date palms that are thick and handsome." Ibn 'Abbas and Mujahid both said, "It means everything that is gathered and collected." Allah said,
+
+وَفَاكِهَةً وَأَبًّا
+
+(And fruits (Fakihah) and herbage (Abb).) Fakihah includes every type of fruit. Ibn 'Abbas said, "Al-Fakihah is everything that is eaten ripe, and Al-Abb is what the earth grows that is eaten by grazing animals and not people." In one narration reported from him he said, "It is the grass for the livestock animals."
+
+Abu 'Ubayd Al-Qasim bin Sallam reported from Ibrahim At-Taymi that he said, "Abu Bakr As-Siddiq was asked about Allah's statement,
+
+وَفَاكِهَةً وَأَبًّا
+
+(And fruits (Fakihah) and herbage (Abb).) and he said, 'What sky would shade me and what earth would carry me if I said about the Book of Allah that which I did not have knowledge of.'"
+
+In reference to what Ibn Jarir recorded from Anas, that he said, "Umar bin Al-Khattab recited
+
+عَبَسَ وَتَوَلَّىٰ
+
+(He frowned and turned away.) then when he reached this Ayah
+
+وَفَاكِهَةً وَأَبًّا
+
+(And fruits (Fakihah) and herbage (Abb).) he said, 'We already know what Al-Fakihah is, but what is Al-Abb'? Then he said, 'By your life, O Ibn Al-Khattab, this is something over burdensome (i.e., unnecessary to ask about).'"
+
+This report has an authentic chain of narration. More than one person has narrated it from Anas. The meaning of the narration is that 'Umar wanted to know how it looks, its type and its exact description, because he ('Umar) and everyone who reads this Ayah knows that it is one of the plants that grows from the earth. This is clear due to the Allah's saying,
+
+فَأَنبَتْنَا فِيهَا حَبًّا - وَعِنَبًا وَقَضْبًا - وَزَيْتُونًا وَنَخْلًا - وَحَدَائِقَ غُلْبًا - وَفَاكِهَةً وَأَبًّا
+
+(And We cause therein the Habb to grow. And grapes and Qadb, and olives and date palms. And Ghulb Hada'iq. And fruits (Fakihah) and herbage (Abb).) And then He says,
+
+مَّتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ
+
+(A provision and benefit for you and your cattle.) meaning, a means of livelihood for you all and your cattle in this life until the (coming of) the Day of Judgement.
+
+## Maarif ul Quran
+
+ثُمَّ أَمَاتَهُ فَأَقْبَرَ‌هُ (Later, he made him die, and put him into the grave..80:21) After mentioning the inception of human life, Allah points to its end, that is, death and grave. Death has been mentioned here in the context of blessings of Allah. It indicates that death is a blessing rather than a calamity. The Holy Prophet ﷺ is reported to have put it thus: تحفَۃ المؤمِن الموت "The gift of a believer is death." Moreover, there is a profound wisdom in death at macro level for the entire world.
+
+The phrase فَأَقْبَرَ‌هُ fa-aqbarah (and put him into the grave) describes another blessing of Allah, in that when man is dead, he is not left lying on the earth like other animals where he might rot, blow up and burst [ and probably be ravaged by vultures or beasts ]. But, even after death, he is honoured in the most befitting manner. His body is washed ceremonially, enshrouded in clean cloths, and buried in a grave with respect.
+
+This verse also indicates that it is obligatory to bury a dead human body.
+
+## Personal Reflections

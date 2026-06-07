@@ -1,0 +1,149 @@
+---
+arabic_ayat: "لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ​ؕ وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: To Him belongs whatever is in the heavens and whatever is on
+  the earth. And He is the Most High, the Greatest.
+word_by_word:
+  1:
+    arabic: لَهٗ
+    translation: To Him
+    transliteration: lahu
+  2:
+    arabic: مَا
+    translation: (belong) whatever
+    transliteration: mā
+  3:
+    arabic: فِى
+    translation: (is) in
+    transliteration: fī
+  4:
+    arabic: السَّمٰوٰتِ
+    translation: the heavens
+    transliteration: l-samāwāti
+  5:
+    arabic: وَمَا
+    translation: and whatever
+    transliteration: wamā
+  6:
+    arabic: فِى
+    translation: (is) in
+    transliteration: fī
+  7:
+    arabic: الۡاَرۡضِ​ؕ
+    translation: the earth
+    transliteration: l-arḍi
+  8:
+    arabic: وَهُوَ
+    translation: and He
+    transliteration: wahuwa
+  9:
+    arabic: الۡعَلِىُّ
+    translation: (is) the Most High
+    transliteration: l-ʿaliyu
+  10:
+    arabic: "الۡعَظِيۡمُ‏ \uFEFF\uFEFF"
+    translation: the Most Great
+    transliteration: l-ʿaẓīmu
+---
+
+## Context
+
+To understand **The Consultation** (Ash-Shuraa) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came before you.'
+
+Just as this surah was revealed to the Holy Prophet ﷺ for the ascertainment of the religious principles and for other benefits, similarly Allah Ta’ ala has been sending other prophets who preceded him. His Magnificence is such that whatever there is in the heavens and in the earth is His. He is the Supreme, the Most Magnificent. Even though some of the people of this world do not recognize and do not admit the greatness of His magnificence, yet the number of the angels in the heavens, who know Him and recognize His greatness, is so large that their load may, quite likely, cause the heavens to burst apart from above. A hadith narrated in Tirmidhi and Ibn Majah states that due to the large number of the angels, such crackling sounds are produced in the heavens as are produced when an excessive load is placed on something.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. (Ha Meem ` Ayn Seen Qaf) Only Allah knows the meaning of these letters.
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+حم - عسق - كَذَٰلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللَّهُ الْعَزِيزُ الْحَكِيمُ - لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَلِيُّ الْعَظِيمُ - تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْ فَوْقِهِنَّ ۚ وَالْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَنْ فِي الْأَرْضِ ۗ أَلَا إِنَّ اللَّهَ هُوَ الْغَفُورُ الرَّحِيمُ - وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ اللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ
+
+(1. Ha Mim.)(2. 'Ain Sin Qaf.)(3. Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.)(4. To Him belongs all that is in the heavens and all that is on the earth, and He is the Most High, the Most Great.)(5. Nearly the heavens might be rent asunder from above them, and the angels glorify the praises of their Lord, and ask for forgiveness for those on the earth. Lo, Verily, Allah is the Oft-Forgiving, the Most Merciful.)(6. And as for those who take as protecting friends others besides Him – Allah is Hafiz over them, and you are not a trustee over them.)
+
+The Revelation and Allah's Might
+
+We have previously discussed the individual letters.
+
+كَذَٰلِكَ يُوحِي إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ اللَّهُ الْعَزِيزُ الْحَكِيمُ
+
+(Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came before you.'
+
+اللَّهُ الْعَزِيزُ
+
+(Allah, the Almighty) means, in His vengeance
+
+الْحَكِيمُ
+
+(the All-Wise) means, in all that He says and does. Imam Malik, may Allah have mercy on him, narrated that 'A'ishah, may Allah be pleased with her, said, "Al-Harith bin Hisham asked the Messenger of Allah ﷺ, 'O Messenger of Allah, how does the revelation come to you?' The Messenger of Allah ﷺ said:
+
+أَحْيَانًا يَأْتِينِي مِثْلَ صَلْصَلَةِ الْجَرَسِ، وَهُوَ أَشَدُّهُ عَلَيَّ فَيَفْصِمُ عَنِّي وَقَدْ وَعَيْتُ مَا قَالَ، وَأَحْيَانًا يَأْتِينِي الْمَلَكُ رَجُلًا فَيُكَلِّمُنِي فَأَعِي مَا يَقُولُ
+
+(Sometimes it comes to me like the ringing of a bell, which is the most difficult for me; then it goes away, and I understand what was said. And sometimes the angel comes to me in the image of a man, and he speaks to me and I understand what he says.)"
+
+A'ishah, may Allah be pleased with her, said, "I saw him receiving the revelation on a very cold day, and when it departed from him, there were beads of sweat on his forehead." It was also reported in the Two Sahihs, and the version quoted here is that recorded by Al-Bukhari.
+
+لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ
+
+(To Him belongs all that is in the heavens and all that is on the earth,) means, everything is subject to His dominion and control.
+
+وَهُوَ الْعَلِيُّ الْعَظِيمُ
+
+(and He is the Most High, the Most Great.) This is like the Ayat:
+
+الْكَبِيرُ الْمُتَعَالِ
+
+(the Most Great, the Most High)(13:9), and
+
+هُوَ الْعَلِيُّ الْكَبِيرُ
+
+(He is the Most High, the Most Great)(22:62). And there are many similar Ayat.
+
+تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْ فَوْقِهِنَّ ۚ
+
+(Nearly the heavens might be rent asunder from above them,) Ibn 'Abbas, may Allah be pleased with him, Ad-Dahhak, Qatadah, As-Suddi and Ka'b Al-Ahbar said, "Out of fear of His might."
+
+وَالْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَنْ فِي الْأَرْضِ ۗ
+
+(and the angels glorify the praises of their Lord, and ask for forgiveness for those on the earth.) This is like the Ayah:
+
+الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَحْمَةً وَعِلْمًا
+
+(Those who bear the Throne and those around it glorify the praises of their Lord, and believe in Him, and ask forgiveness for those who believe (saying): "Our Lord! You comprehend all things in mercy and knowledge,")(40:7)
+
+أَلَا إِنَّ اللَّهَ هُوَ الْغَفُورُ الرَّحِيمُ
+
+(Lo! Verily, Allah is the Oft-Forgiving, the Most Merciful.) This is a reminder, to take heed of this fact.
+
+وَالَّذِينَ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ
+
+(And as for those who take as protecting friends others besides Him) This refers to the idolators,
+
+اللَّهُ حَفِيظٌ عَلَيْهِمْ
+
+(Allah is Hafiz over them.) meaning, He is Witness to their deeds, recording and enumerating them precisely, and He will requite them for them in full.
+
+وَمَا أَنْتَ عَلَيْهِمْ بِوَكِيلٍ
+
+(and you are not a trustee over them.) meaning, 'you are just a warner, and Allah is the Trustee of all affairs.'
+
+## Maarif ul Quran
+
+Commentary
+
+(Ha Meem ` Ayn Seen Qaf) Only Allah knows the meaning of these letters. The gist of the first five verses is as follows:
+
+Just as this surah was revealed to the Holy Prophet ﷺ for the ascertainment of the religious principles and for other benefits, similarly Allah Ta’ ala has been sending other prophets who preceded him. His Magnificence is such that whatever there is in the heavens and in the earth is His. He is the Supreme, the Most Magnificent. Even though some of the people of this world do not recognize and do not admit the greatness of His magnificence, yet the number of the angels in the heavens, who know Him and recognize His greatness, is so large that their load may, quite likely, cause the heavens to burst apart from above. A hadith narrated in Tirmidhi and Ibn Majah states that due to the large number of the angels, such crackling sounds are produced in the heavens as are produced when an excessive load is placed on something. And that is how it should be, because throughout the heavens there is not even a space of four fingers left vacant by angels who are in the state of prostration.
+
+## Personal Reflections

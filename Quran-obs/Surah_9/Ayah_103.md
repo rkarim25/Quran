@@ -1,0 +1,190 @@
+---
+arabic_ayat: خُذۡ مِنۡ اَمۡوَالِهِمۡ صَدَقَةً تُطَهِّرُهُمۡ وَتُزَكِّيۡهِمۡ بِهَا
+  وَصَلِّ عَلَيۡهِمۡ​ؕ اِنَّ صَلٰوتَكَ سَكَنٌ لَّهُمۡ​ؕ وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ‏
+sentence_translation: Take from their wealth ˹O Prophet˺ charity to purify and bless
+  them, and pray for them—surely your prayer is a source of comfort for them. And
+  Allah is All-Hearing, All-Knowing.
+word_by_word:
+  1:
+    arabic: خُذۡ
+    translation: Take
+    transliteration: khudh
+  2:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  3:
+    arabic: اَمۡوَالِهِمۡ
+    translation: their wealth
+    transliteration: amwālihim
+  4:
+    arabic: صَدَقَةً
+    translation: a charity
+    transliteration: ṣadaqatan
+  5:
+    arabic: تُطَهِّرُهُمۡ
+    translation: purifying them
+    transliteration: tuṭahhiruhum
+  6:
+    arabic: وَتُزَكِّيۡهِمۡ
+    translation: and cause them increase
+    transliteration: watuzakkīhim
+  7:
+    arabic: بِهَا
+    translation: by it
+    transliteration: bihā
+  8:
+    arabic: وَصَلِّ
+    translation: and bless
+    transliteration: waṣalli
+  9:
+    arabic: عَلَيۡهِمۡ​ؕ
+    translation: '[upon] them'
+    transliteration: ʿalayhim
+  10:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  11:
+    arabic: صَلٰوتَكَ
+    translation: your blessings
+    transliteration: ṣalataka
+  12:
+    arabic: سَكَنٌ
+    translation: (are a) reassurance
+    transliteration: sakanun
+  13:
+    arabic: لَّهُمۡ​ؕ
+    translation: for them
+    transliteration: lahum
+  14:
+    arabic: وَاللّٰهُ
+    translation: And Allah
+    transliteration: wal-lahu
+  15:
+    arabic: سَمِيۡعٌ
+    translation: (is) All-Hearer
+    transliteration: samīʿun
+  16:
+    arabic: عَلِيۡمٌ‏
+    translation: All-Knower
+    transliteration: ʿalīmun
+---
+
+## Context
+
+To understand **The Repentance** (At-Tawbah) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background. Some people, as mentioned a little earlier, had stayed back from the battle of Tabuk without a valid excuse. Then, out of remorse, they had tied themselves to the pillars of the Mosque. Then came the acceptance of their repentance as revealed in the previous verse (102) and. they were released from their self-imprisonment. When this happened, they presented their entire wealth as a token of their gratitude so that it could be given out as Sadaqah. The Holy Prophet ﷺ refused to accept it by saying that he did not have the authority to take it. There-upon, this verse (103): خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً. (Take out of their wealth a Sadaqah) was revealed and he accepted to take one third of it as Sadaqah. He did not take the entire wealth, rather, took a part of it - as indicated in the verse. The preposition, مِن (min: out of) proves it.
+
+This is the view preferred in Tafsir al-Qurtubi, Ahkam al-Qur'an by al-Jassas, Tafsir Mazhari and others.
+
+## Tafsir Summary
+
+Take Sadaqah from their wealth in order to purify them and sanctify them with it, and 'Şalli' for them. The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
+
+## Tafsir Ibn Kathir
+
+Take Sadaqah from their wealth in order to purify them and sanctify them with it, and 'Şalli' for them. Verily, your Salat are a Sakan for them; and Allah is All-Hearer, All-Knower (103)Know they not that Allah accepts repentance from His servants and accepts the Sadaqat, and that Allah alone is the One Who forgives and accepts repentance, Most Merciful (104)
+
+The Command to collect the Zakah and Its Benefits
+
+Allah commanded His Messenger ﷺ to take Sadaqah from the Muslims' money to purify and sanctify them with it. This Ayah is general, even though some said that it refers specifically to those who mixed good and evil deeds, who admitted to their errors.
+
+Some bedouin later thought that paying Zakah to the Leader was not legislated except to the Messenger ﷺ himself, using this Ayah as evidence,
+
+خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً
+
+(Take Sadaqah from their wealth.) Abu Bakr As-Siddiq and other Companions refuted this ill comprehension and fought against them until they paid the Zakah to the Khalifah, just as they used to pay it to the Messenger of Allah ﷺ. As-Siddiq said, "By Allah! If they abstain from paying a bridle that they used to pay to the Messenger of Allah ﷺ, I will fight them for refraining from paying it." Allah's statement,
+
+وَصَلِّ عَلَيْهِمْ
+
+(and 'Şalli' for them), means, supplicate for them, and ask Allah to forgive them. In the Sahih, Muslim recorded that 'Abdullah bin Abi Awfa said, "Whenever the Prophet ﷺ was brought charity, he used to invoke Allah for those who brought it. My father also brought his charity and the Prophet ﷺ said,
+
+اللَّهُمَّ صَلِّ عَلَى آلِ أَبِي أَوْفَى
+
+(O Allah! I invoke You for the family of Abu Awfa.)" Allah's statement,
+
+إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ
+
+(Verily, your Salat are a Sakan for them), means, a mercy for them, according to Ibn 'Abbas. Allah said next,
+
+وَاللَّهُ سَمِيعٌ
+
+(and Allah is All-Hearer,) of your invocation (O Muhammad),
+
+عَلِيمٌ
+
+(All-Knower.) in those who deserve your invocation on their behalf, who are worthy of it. Allah said,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ
+
+(Know they not that Allah accepts repentance from His servants and accepts the Sadaqat?)
+
+This Ayah encourages reverting to repentance and giving charity, for each of these actions erases, deletes and eradicate sins. Allah states that He accepts the repentance of those who repent to Him, as well as charity from pure resources, for Allah accepts it with His Right Hand and raises it for its giver until even a date becomes as large as Mount Uhud. Abu Hurayrah narrated that the Messenger of Allah ﷺ said,
+
+إِنَّ اللهَ يَقْبَلُ الصَّدَقَةَ وَيَأْخُذُهَا بِيَمِينِهِ فَيُرَبِّيهَا لِأَحَدِكُمْ كَمَا يُرَبِّي أَحَدُكُمْ مُهْرَهُ، حَتَّى إِنَّ اللُّقْمَةَ لَتَكُونُ مِثْلَ أُحُدٍ
+
+(Verily, Allah accepts charity, receives it in His Right Hand and develops it for its giver, just as one of you raises his pony, until the bite [of food] becomes as large as Uhud.)
+
+The Book of Allah, the Exalted and Most Honored, testifies to this Hadith,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ
+
+(Know they not that Allah accepts repentance from His servants and accepts the Sadaqat?), and,
+
+يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ
+
+(Allah will destroy Riba and will give increase for Sadaqat.)[2:276]
+
+'Abdullah bin Mas'ud said, "Charity falls in Allah's Hand before it falls in the needy's hand," he then recited this Ayah,
+
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ
+
+(Know they not that Allah accepts repentance from His servants and accepts the Sadaqat?)
+
+## Maarif ul Quran
+
+The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background. Some people, as mentioned a little earlier, had stayed back from the battle of Tabuk without a valid excuse. Then, out of remorse, they had tied themselves to the pillars of the Mosque. Then came the acceptance of their repentance as revealed in the previous verse (102) and. they were released from their self-imprisonment. When this happened, they presented their entire wealth as a token of their gratitude so that it could be given out as Sadaqah. The Holy Prophet ﷺ refused to accept it by saying that he did not have the authority to take it. There-upon, this verse (103): خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً. (Take out of their wealth a Sadaqah) was revealed and he accepted to take one third of it as Sadaqah. He did not take the entire wealth, rather, took a part of it - as indicated in the verse. The preposition, مِن (min: out of) proves it.
+
+Collection and disbursement of Zakah is the responsibility of an Islamic State
+
+Though, according to the background of the revelation, the collection of Sadaqah was to be made from a particular group of people but, the words being general, they have universal application.
+
+This is the view preferred in Tafsir al-Qurtubi, Ahkam al-Qur'an by al-Jassas, Tafsir Mazhari and others. Al-Qurtubi and Al-Jassas has gone on to further explain it. According to them, even if the same particular event is taken to be the cause of the revelation in this verse, still then, in terms of the Qur'anic principle, this injunction shall re-main general - and shall remain binding on Muslims right through the day of Qiyamah. The reason is that most of the injunctions of the Holy Qur'an were revealed in the background of one or the other particular event, but nobody has ever held that their application remains restricted to that particular event. In fact, unless there is a certain proof of its particularization, that injunction is invariably regarded as universally applicable to all Muslims.
+
+On the basis of the same principle, the entire Muslim ummah agrees that, though the address in this verse is to the Holy Prophet ﷺ ، yet this injunction is neither restricted to him, nor to his period of time. Instead of that, every such person who will succeed the Holy Prophet ﷺ as the Amir of Muslims shall be the addressee of this injunction, and the assignee to carry it out. It will be one of his duties that he administers the collection of Zakah and Sadaqat paid by Muslims and ensures that these are disbursed on authorized heads.
+
+Even in the event of Jihad declared against those who refused to pay Zakah during the initial stage of the Caliphate of Sayyidna Abu Bakr there were some non-payers of Zakah who had openly rebelled against Islam and had turned apostates. Then, there were some others who called themselves Muslims and did not refuse that Zakah was a religious obligation, but the excuse they made for not paying Zakah was that the authority given to the Holy Prophet 4 to collect Zakah from them was valid during the life of the Holy Prophet ﷺ only, and they kept paying Zakah that time. Now, after he has passed away, they questioned, what right did Abu Bakr have to demand Zakah and Sadaqat from them? In the beginning, Sayyidna ` Umar ؓ hesitated about waging Jihad against them for the reason that they were after all Muslims who wanted to avoid paying Zakah under the cover of a verse of the Qur'an - therefore, they should not be treated in the manner usual apostates are treated. But, Sayyidna Abu Bakr ؓ had reached an irrevocable decision. He said, ` we shall wage Jihad against anyone who will differentiate between Salah and Zakah.'
+
+This gave a clear hint. Today people say that the injunction of Zakah is particular to the Holy Prophet ﷺ and that it stands dropped after his demise. Tomorrow they may say that Salah too was particular to the Holy Prophet ﷺ - because, a verse of the Qur'an reads: أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ (Establish prayer at the decline of the sun - 17:78) where the Holy Prophets is the addressee. But, the injunction of the verse of prayer is universal. It applies to the entire Muslim ummah. So, this verse cannot save those who wrongly interpret it as being particular to the Holy Prophet ﷺ from becoming kafirs. Similarly, this interpretation in the verse: خُذْ مِنْ أَمْوَالِهِمْ (Take out of their wealth a Sadaqah) will not save them from kufr and apostasy. Thereupon, Sayyidna 'Umar خُذْ مِنْ أَمْوَالِهِمْ was also satisfied and it was with the consensus of the Sahabah that Jihad was launched against them.
+
+Zakah is ` Ibadah, not a government tax
+
+In the statement: خُذْ مِنْ أَمْوَالِهِمْ (Take out of their wealth) appearing soon after: صَدَقَةً تُطَهِّرُ‌هُمْ وَتُزَكِّيهِم بِهَا (a Sadaqah [ obligatory alms ] through which you may cleanse and purify them) in verse 103 of the Holy Qur'an, there is a clear hint that Zakah and Sadaqat are not like taxes that governments collect to run the system. The truth of the matter is that their purpose is to cleanse the men of wealth themselves from sins.
+
+At this point, it should be noted that the collection of Zakah and Sadaqat yields two benefits. The first benefit is received by the owner of the wealth himself through which he comes out clean from sins and from the germs of moral diseases that are generated by the greed for wealth. As for the other benefit, it provides support for the weaker components of the society, people who are incapable of finding what they need to eke out an existence. Orphaned children, widows, crippled and handicapped men and women, common people who are poor and needy are obvious examples.
+
+But, at this place, the Holy Qur'an has told us about the first benefit only. Thus, by confining itself in that manner, it has also given the indication that the first benefit is what happens to be the real objective of Zakah and Sadaqat. The second benefit comes as a corollary. Therefore, in the event there is no orphan, widow, or a poor or needy person present at any place or time, still then, the injunction of Zakah as applicable to the wealthy will not stand dropped.
+
+What has been stated here has its support in the practice of past communities. When some part of wealth or property was set aside for Allah, its use became impermissible for everyone. Rather, according to the custom, this offering was put at some detached place where came a lightning from the heavens and burnt it up. This was a sign that Allah Ta` ala has accepted the Sadaqah. When this heavenly fire did not come, it was supposed to be a sign of the Sadaqah remaining unacceptable. Nobody would then touch this ill-omened property.
+
+This makes it clear that the legal enforcement of Zakah and Sadaqat is not exclusively designed to alleviate the suffering of needy people. In fact, it is a financial obligation and an act of ` Ibadah - very similar to praying and fasting that are acts of physical ` Ibadah. This is one of the distinctions of the blessed community of Muslims that their poor and needy have been allowed to use wealth set aside in the way of Allah. A Sahih Hadith from Muslim reports its confirmation from the Holy Prophet ؓ
+
+A question and its answer
+
+A question arises here - when the repentance of these gentlemen was accepted following the event mentioned above, it stands established that sins were forgiven and purification was accomplished through the very act of repentance. What then, would be the sense of declaring that a portion from their wealth was being taken to purify them?
+
+The answer is that the sin has, no doubt, been forgiven by virtue of the repentance, but it is quite possible that it may have left behind some residual effects following the forgiveness of sin which could be-come the cause of falling into sin. Sadaqah removes such residual effects and makes purification perfect.
+
+The word: صلوۃ (salah) used in the expression: وَصَلِّ عَلَيْهِمْ (and pray for them - 103) means praying for Allah's mercy. This corresponds to what has been reported from the Holy Prophet ﷺ۔ that he prayed for some people by using this very word: salah, for example: اَللَّھُمَّ صَلِّ عَلٰی اٰلِ اَبِی اَوفٰی (0 Allah, bless the family of Abu Awfa) as is reported in a Hadith. But, later on the use of the word: salah became special to prophets, may peace be upon them. Therefore, Muslim jurists say that now, one should not pray for anyone using the word: salah. Instead, the use of this word should be limited to prophets to avoid any ambiguousness or doubt1. (Bayan a1-Qur'an etc.)
+
+1. However, it is permissible to use this word for others in conjunction with a prophet. It is therefore allowed to say, اللَّھُمَّ صَلِّ عَلی مُحَمَّد وَّ عَلٰی آلہِ وَ اَصحابِہِ (Muhammad Taqi Usmani)
+
+Here we see that the Holy Prophet ﷺ has been asked to pray for those who give Sadaqah. On this basis, some Muslim jurists rule that it is wajib (obligatory, necessary) for the Muslim head of the state (Imam, 'Amir) to pray for those who give Sadaqah. However, there are others who take this command to be of a recommendatory nature (mustahabb: recommended). (Qurtubi)
+
+## Personal Reflections

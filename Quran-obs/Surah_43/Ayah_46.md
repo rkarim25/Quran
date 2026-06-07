@@ -1,0 +1,101 @@
+---
+arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا مُوۡسٰى بِاٰيٰتِنَاۤ اِلٰى فِرۡعَوۡنَ وَمَلَا۫ٮِٕه
+  فَقَالَ اِنِّىۡ رَسُوۡلُ رَبِّ الۡعٰلَمِيۡنَ‏
+sentence_translation: 'Indeed, We sent Moses with Our signs to Pharaoh and his chiefs,
+  and he said: “I am a messenger of the Lord of all worlds.”'
+word_by_word:
+  1:
+    arabic: وَلَقَدۡ
+    translation: And certainly
+    transliteration: walaqad
+  2:
+    arabic: اَرۡسَلۡنَا
+    translation: We sent
+    transliteration: arsalnā
+  3:
+    arabic: مُوۡسٰى
+    translation: Musa
+    transliteration: mūsā
+  4:
+    arabic: بِاٰيٰتِنَاۤ
+    translation: with Our Signs
+    transliteration: biāyātinā
+  5:
+    arabic: اِلٰى
+    translation: to
+    transliteration: ilā
+  6:
+    arabic: فِرۡعَوۡنَ
+    translation: Firaun
+    transliteration: fir'ʿawna
+  7:
+    arabic: وَمَلَا۫ٮِٕه
+    translation: and his chiefs
+    transliteration: wamala-ihi
+  8:
+    arabic: فَقَالَ
+    translation: and he said
+    transliteration: faqāla
+  9:
+    arabic: اِنِّىۡ
+    translation: Indeed, I am
+    transliteration: innī
+  10:
+    arabic: رَسُوۡلُ
+    translation: a Messenger
+    transliteration: rasūlu
+  11:
+    arabic: رَبِّ
+    translation: (of the) Lord
+    transliteration: rabbi
+  12:
+    arabic: الۡعٰلَمِيۡنَ‏
+    translation: (of) the worlds
+    transliteration: l-ʿālamīna
+---
+
+## Context
+
+To understand **The Ornaments of Gold** (Az-Zukhruf) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation It could not be known from any authentic tradition, but a study of its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And indeed We did send Musa with Our Ayat to Fir'awn and his chiefs. Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf.
+
+## Tafsir Ibn Kathir
+
+And indeed We did send Musa with Our Ayat to Fir'awn and his chiefs. He said: "Verily, I am a Messenger of the Lord of all that exists. (46)But when he came to them with Our Ayat, behold, they laughed at them (47)And not an Ayah We showed them but it was greater than its fellow preceding it, and We seized them with torment, in order that they might turn (48)And they said (to Musa): "O you sorcerer! Invoke your Lord for us according to what He has made a pact with you. Verily, We shall guide ourselves. (49)But when We removed the torment from them, behold, they broke their covenant (50)
+
+Musa was sent with the Message of Tawhid to Fir'awn and His Chiefs
+
+Here Allah tells us about His servant and Messenger Musa, peace be upon him, and how He sent him to Fir'awn and his chiefs. That is, his governors, ministers, leaders and followers among the Egyptians and the Children of Israel. Allah sent him to call them to worship Allah alone, with no partner or associate, and to forbid them from worshipping anything other than Him. He sent him with mighty signs, such as his hand and his staff, other signs such as the flood, locusts, Qummal, frogs and blood, and the loss of their crops and lives. Yet despite all that they remained arrogant and stubbornly refused to follow him; they rejected his message and made fun of it, and laughed at the one who had brought it.
+
+وَمَا نُرِيهِمْ مِنْ آيَةٍ إِلَّا هِيَ أَكْبَرُ مِنْ أُخْتِهَا ۖ
+
+(And not an Ayah We showed them but it was greater than its fellow preceding it,) but despite that they would not give up their sin, misguidance, ignorance and confusion. Every time one of these signs came to them, they would go and implore Musa, saying,
+
+يَا أَيُّهَ السَّاحِرُ
+
+("O you sorcerer!...") meaning, expert or knowledgeable one – this was the view of Ibn Jarir.
+
+The scholars of that time were the sorcerers or magicians, and magic was not regarded as something reprehensible by them at that time, so this was not a slight on their part. They were in a state of need, so it would not have been appropriate for them to insult him. This was a way of honoring him, as they thought. On each occasion, they promised Musa that if the torment was lifted from them, they would believe in him and let the Children of Israel go with him, but on each occasion they went back on their word. This is like the Ayat:
+
+فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ وَالضَّفَادِعَ وَالدَّمَ آيَاتٍ مُفَصَّلَاتٍ فَاسْتَكْبَرُوا وَكَانُوا قَوْمًا مُجْرِمِينَ - وَلَمَّا وَقَعَ عَلَيْهِمُ الرِّجْزُ قَالُوا يَا مُوسَى ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَ ۖ لَئِنْ كَشَفْتَ عَنَّا الرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِي إِسْرَائِيلَ - فَلَمَّا كَشَفْنَا عَنْهُمُ الرِّجْزَ إِلَىٰ أَجَلٍ هُمْ بَالِغُوهُ إِذَا هُمْ يَنْكُثُونَ
+
+(So We sent on them: the flood, the locusts, the Qummal, the frogs, and the blood; manifest signs, yet they remained arrogant, and they were of those people who were criminals. And when the punishment struck them, they said: "O Musa! Invoke your Lord for us because of His promise to you. If you remove the punishment from us, we indeed shall believe in you, and we shall let the Children of Israel go with you." But when We removed the punishment from them to a fixed term, which they had to reach, behold! they broke their word!)(7:133-135)
+
+## Maarif ul Quran
+
+Commentary
+
+Incidents related to Sayyidna Musa (علیہ السلام) have been stated by the Qur'an at many places repeatedly, and the incidents referred to in the present verses have been described in detail in Surah Al-A` raf. The reason for reminding these incidents here is to show that the objection of the infidels of Makkah that the Holy Prophet ﷺ is not a wealthy man is not a new objection; Fir'aun had expressed the same doubt against Sayyidna Musa (علیہ السلام) and his prophethood. His contention was that being the ruler of Egypt, and owner of the palaces and rivers flowing beneath them, how could Musa (علیہ السلام) claim to be a prophet against him. But just as Fir'aun's disbelief could be of no avail to him, and he got drowned along with his people, this objection of 'kuffar' of Makkah, too, will not save them from the divine punishment in this world, or in the Hereafter.
+
+## Personal Reflections

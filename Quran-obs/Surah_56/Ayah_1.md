@@ -1,0 +1,197 @@
+---
+arabic_ayat: اِذَا وَقَعَتِ الۡوَاقِعَةُ ۙ‏
+sentence_translation: When the Inevitable Event takes place,
+word_by_word:
+  1:
+    arabic: اِذَا
+    translation: When
+    transliteration: idhā
+  2:
+    arabic: وَقَعَتِ
+    translation: occurs
+    transliteration: waqaʿati
+  3:
+    arabic: الۡوَاقِعَةُ ۙ‏
+    translation: the Event
+    transliteration: l-wāqiʿatu
+---
+
+## Context
+
+To understand **The Inevitable** (Al-Waqi'ah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited. Hearing his voice the people of the house hid the pages of the Qur'an.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! Special Characteristic of Surah Al-Waqi` ah: Sayyidna ` Abdullh Ibn Masuad's ؓ Didactic Story on his Deathbed Ibn Kathir cites a story on the authority of Ibn ` Asakir from Abu Zabyah that when Sayyidna ` Abdullah Ibn Masud ؓ was lying on his deathbed, Sayyidna ` Uthman ؓ paid him a visit and the following conversation ensued.
+
+## Tafsir Ibn Kathir
+
+The Virtues of Surat Al-Waqi'ah
+
+Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! You are becoming gray?" The Messenger replied,
+
+شَيَّبَتْنِي هُودٌ وَالْوَاقِعَةُ وَالْمُرْسَلَاتُ وَعَمَّ يَتَسَاءَلُونَ وَإِذَا الشَّمْسُ كُوِّرَتْ
+
+(Hud (chapter 11), Al-Waqi'ah (56), Al-Mursalat (77), 'Amma Yatasa'alun (78) and Idha Ash-Shamsu Kuwwirat (81) have made me gray.) At-Tirmidhi collected this Hadith and said, "Hasan Gharib."
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+إِذَا وَقَعَتِ الْوَاقِعَةُ - لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ - خَافِضَةٌ رَافِعَةٌ - إِذَا رُجَّتِ الْأَرْضُ رَجًّا - وَبُسَّتِ الْجِبَالُ بَسًّا - فَكَانَتْ هَبَاءً مُنْبَثًّا - وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً - فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ - وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ - وَالسَّابِقُونَ السَّابِقُونَ - أُولَٰئِكَ الْمُقَرَّبُونَ - فِي جَنَّاتِ النَّعِيمِ
+
+(1. When the Waqi'ah occurs)(2. There is not, for its occurrence, Kadhibah.)(3. Bringing low (some), exalting (others).)(4. When the earth will be shaken with a terrible shake.)(5. And the mountains will be powdered to dust,)(6. So that they will become floating dust particles.)(7. And you (all) will be in three groups.)(8. So those on the right – how (fortunate) will be those on the right!)(9. And those on the left – how (unfortunate) will be those on the left!)(10. And those foremost will be foremost.)(11. These will be the nearest (to Allah).)(12. In the Gardens of Delight.)
+
+The Horrors of the Day of Resurrection
+
+Al-Waqi'ah (the occurrence), is one of the names of the Day of Resurrection, because that Day is real and will surely come. Allah the Exalted said in other Ayat,
+
+فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
+
+(Then on that Day shall the Waqi'ah occur.)(69:15) Allah the Exalted said,
+
+لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ
+
+(There is not, for its occurrence, Kadhibah.) means, when He commands the Day of Resurrection to begin, none can stop it from happening or prevent it from beginning,
+
+اسْتَجِيبُوا لِرَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۚ
+
+(Answer the call of your Lord before there comes from Allah a Day which can not be averted.)(42:47),
+
+سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ - لِلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
+
+(A questioner asked concerning a torment about to occur – upon the disbelievers, which none can avert.)(70:1-2),
+
+وَيَوْمَ يَقُولُ كُنْ فَيَكُونُ ۚ قَوْلُهُ الْحَقُّ ۚ وَلَهُ الْمُلْكُ يَوْمَ يُنْفَخُ فِي الصُّورِ ۚ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ
+
+(And on the Day He will say: "Be!" – and it is! His Word is the Truth. His will be the dominion on the Day when the Trumpet will be blown. All-Knower of the unseen and the seen. He is the All-Wise, Well Aware.)(6:73) As for the meaning of
+
+كَاذِبَةٌ
+
+(Kadhibah) Muhammad bin Ka'b said: "It will certainly occur," while Qatadah said, "It shall not be discontinued, taken back or aborted. Allah's statement,
+
+خَافِضَةٌ رَافِعَةٌ
+
+(Bringing low, exalting.) indicates that Al-Waqi'ah lowers some people to the lowest parts of the Fire, even if they had been mighty in this life. It also elevates others to the highest grades in the residence of eternal delight, even if they were weak in this life. This was said by Al-Hasan, Qatadah and others. Al-'Awfi reported from Ibn 'Abbas:
+
+خَافِضَةٌ رَافِعَةٌ
+
+(Bringing low, exalting), "It made the near and the far hear it," while 'Ikrimah said, "It lowered, and thus those who were close heard it, and elevated, and thus those in the distance heard it." Ad-Dahhak and Qatadah said similarly. Allah said,
+
+إِذَا رُجَّتِ الْأَرْضُ رَجًّا
+
+(When the earth will be shaken with a terrible shake.) meaning, it is shaken and moved violently over all of its surface and through its depths. Ibn 'Abbas, Mujahid, Qatadah and others said about Allah's saying:,
+
+إِذَا رُجَّتِ الْأَرْضُ رَجًّا
+
+(When the earth will be shaken with a terrible shake.) it means "Violently shaken." Ar-Rabi' bin Anas said, "The earth will be shaken with all that is in it, just as a sifter is shaken with its contents." This is like Allah's saying:
+
+إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا
+
+(When the earth is shaken with its earthquake.)(99:1) and,
+
+يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ ۚ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ
+
+(O mankind! Have Taqwa of your Lord! Verily, the earthquake of the Hour is a terrible thing.)(22:1). Allah said:
+
+وَبُسَّتِ الْجِبَالُ بَسًّا
+
+(And the mountains will be powdered to dust,) meaning, relentlessly pulverized. This was said by Ibn 'Abbas, Mujahid, 'Ikrimah and Qatadah and others. Ibn Zayd said: "The mountains will become just like Allah described them,
+
+كَثِيبًا مَهِيلًا
+
+(A heap of sand poured out.)(73:14)." Allah's saying:
+
+فَكَانَتْ هَبَاءً مُنْبَثًّا
+
+(So that they will become floating dust particles.) Abu Ishaq narrated from Al-Harith, from 'Ali: "It will become like the rising dust storm that soon fades away leaving no trace of itself behind." Al-'Awfi reported from Ibn 'Abbas about Allah's saying:
+
+فَكَانَتْ هَبَاءً مُنْبَثًّا
+
+(So that they will become floating dust particles.) "It describes the rising embers from the fire when it is kindled, but when the embers land, they are extinguished quickly." 'Ikrimah said, "The floating dust particles that the wind scatters all around," while Qatadah said,
+
+هَبَاءً مُنْبَثًّا
+
+(floating particles), "Like the dry parts of trees that the wind scatters all about." This Ayah is similar to several other Ayat that indicate that the mountains will be moved from their places, demolished and blown off their bases, becoming like carded wool on the Day of Resurrection.
+
+Three Categories of People on the Day of Resurrection
+
+Allah's statement,
+
+وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً
+
+(And you (all) will be in three groups.) This means that people will be divided into three categories on the Day of Resurrection. Some will on the right of Allah's Throne, and they are those who were brought forth from 'Adam's right side. This category will be given their Books of Records in their right hand and will be taken to the right side. As-Suddi explained that they will comprise the majority of the residents of Paradise. Another category is those who will be placed to the left of Allah's Throne, and they are those who were brought forth from 'Adam's left side. This category will be given their Books of Records in their left hands and will be taken to the left side. They are the residents of the Fire, may Allah save us from their actions. A third category is comprised of those who are the foremost and nearest before Allah. They are in a better grade and status and nearer to Allah than those on the right side. They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs. They are fewer than those on the right side; so Allah said,
+
+فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ - وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ - وَالسَّابِقُونَ السَّابِقُونَ
+
+(So those on the right – how will be those on the right! And those on the left – how will be those on the left! And those foremost will be foremost.)
+
+Allah divides people into these three groups upon their death, as indicated by the end of this Surah. Allah mentioned them in His statement as well,
+
+ثُمَّ أَوْرَثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌ لِنَفْسِهِ وَمِنْهُمْ مُقْتَصِدٌ وَمِنْهُمْ سَابِقٌ بِالْخَيْرَاتِ بِإِذْنِ اللَّهِ ۚ
+
+(Then We gave the Book as inheritance to such of Our servants whom We chose. Then of them are some who wrong themselves, and of them are some who follow a middle course, and of them are some who are, by Allah's leave, foremost in good deeds.)(35:32)
+
+Muhammad bin Ka'b, Abu Hazrah Ya'qub bin Mujahid said that,
+
+وَالسَّابِقُونَ السَّابِقُونَ
+
+(And those foremost will be foremost.) is about the Prophets, peace be upon them, while As-Suddi said that they are the residents of the utmost highs (Ahl Al-'Illiyyin, in Paradise).
+
+The meaning of foremost is that they were foremost in performing the acts of righteousness just as Allah commanded them,
+
+وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا السَّمَاوَاتُ وَالْأَرْضُ
+
+(And march forth in the way to forgiveness from your Lord, and for Paradise as wide as the heavens and the earth.)(3:133) and,
+
+سَابِقُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَاءِ وَالْأَرْضِ
+
+(Race with one another in hastening towards forgiveness from your Lord, and Paradise the width whereof is as the width of the heaven and the earth.)(57:21)
+
+Therefore, those who rush to obey Allah in this life and are foremost in performing acts of righteousness, will be among the foremost believers honored in the Hereafter. Verily, the reward is according to the kind of deed, and as one does, so he is judged. So Allah said:
+
+أُولَٰئِكَ الْمُقَرَّبُونَ - فِي جَنَّاتِ النَّعِيمِ
+
+(These will be the nearest (to Allah). In the Gardens of Delight.)
+
+## Maarif ul Quran
+
+Special Characteristic of Surah Al-Waqi` ah: Sayyidna ` Abdullh Ibn Masuad's ؓ Didactic Story on his Deathbed
+
+Ibn Kathir cites a story on the authority of Ibn ` Asakir from Abu Zabyah that when Sayyidna ` Abdullah Ibn Masud ؓ was lying on his deathbed, Sayyidna ` Uthman ؓ paid him a visit and the following conversation ensued.
+
+` Uthman: ؓ : مَا تَشتَکِی ؟ "What are you suffering from?"
+
+Ibn Masud ؓ ! ذُنُوبِی ” from my sins."
+
+` Uthman ؓ : مَا تَشتَھِی ؟ "Do you desire anything?"
+
+Ibn Masud ؓ رَحمَۃَ رَبِّی :"Yes, Allah's mercy."
+
+` Uthman : ؓ : اَلَاَ آمُرُلَکَ بِطَیَّبِ ؟ "Shall I call a doctor for you?"
+
+Ibn Masud ؓ ! اَطَّبِیبُ اَمرَضَنِی "It is the doctor who has given me the ailment."
+
+` Uthman: ؓ اَلاَ آمُرُ لَکَ بِعَطَاءِ ؟ "May I send you an allowance from the public treasury?"
+
+Ibn Masud ؓ " ! لا حَاجَۃَ لِی فِیہ "I have no need for it."
+
+` Uthman ؓ یَکُونُ لِبَنَاتِکَ مِن بَعدِک "Accept it, [ please ]. You are leaving daughters behind you. It will help them."
+
+Ibn Masud ؓ أتَخشیٰ عَلٰی بَنَاتِی الفَقرَ إنِّی اَمَرتُ بَنَاتِی یَقرَأنَ کُلَّ لَیلَۃِ سُورَۃَ الوَاقِعَۃ۔ اِنِّی سَمِعتُ رَسُول اللہِ ﷺ یَقُولُ : مَن قَرأ سُورَۃَ الوَاقِعَۃ کُلَّ لَم تُصِبہُ فَاقَۃً اَبَداً ۔ (ابن کثیر 4:2 ۔ 3) "You are worried about my daughters that they must not suffer from poverty. I have no such worry, because I have instructed them to recite Surah Al-Waqi` ah every night. I have heard the Messenger of Allah ﷺ say, مَن قَرأ سُورَۃَ الوَاقِعَۃ کُلَّ لَم تُصِبہُ فَاقَۃً اَبَداً 'Whoever recites Surah Al-Waqi` ah every night will never suffer from poverty'."
+
+Ibn Kathir, after citing this story from Ibn ` Asakir, has supported it with other chains of transmitters and other sources.
+
+Horrors of the Day of Resurrection
+
+إِذَا وَقَعَتِ الْوَاقِعَةُ (When the Imminent Event (of Doom) will occur...56:1). Ibn Kathir says Al-waqi` ah is one of the names of the Day of Resurrection, because there is no room for doubt in its occurrence. It is real and will surely come to pass.
+
+## Personal Reflections

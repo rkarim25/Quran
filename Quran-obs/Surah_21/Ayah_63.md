@@ -1,0 +1,161 @@
+---
+arabic_ayat: قَالَ بَلۡ فَعَلَهٗ ​​ۖ  كَبِيۡرُهُمۡ هٰذَا فَسۡـــَٔلُوۡهُمۡ اِنۡ كَانُوۡا
+  يَنۡطِقُوۡنَ‏
+sentence_translation: He replied ˹sarcastically˺, “No, this one—the biggest of them—did
+  it! So ask them, if they can talk!”
+word_by_word:
+  1:
+    arabic: قَالَ
+    translation: He said
+    transliteration: qāla
+  2:
+    arabic: بَلۡ
+    translation: Nay
+    transliteration: bal
+  3:
+    arabic: فَعَلَهٗ ​​ۖ 
+    translation: (some doer) did it
+    transliteration: faʿalahu
+  4:
+    arabic: كَبِيۡرُهُمۡ
+    translation: Their chief
+    transliteration: kabīruhum
+  5:
+    arabic: هٰذَا
+    translation: (is) this
+    transliteration: hādhā
+  6:
+    arabic: فَسۡـــَٔلُوۡهُمۡ
+    translation: So ask them
+    transliteration: fasalūhum
+  7:
+    arabic: اِنۡ
+    translation: if
+    transliteration: in
+  8:
+    arabic: كَانُوۡا
+    translation: they (can)
+    transliteration: kānū
+  9:
+    arabic: يَنۡطِقُوۡنَ‏
+    translation: speak
+    transliteration: yanṭiqūna
+---
+
+## Context
+
+To understand **The Prophets** (Al-Anbya) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Both the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. The words of Sayyidna Ibrahim (علیہ السلام) were not untrue, but only allusions قَالَ بَلْ فَعَلَهُ كَبِيرُ‌هُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (He said, "Rather, this is done by this chief of theirs.
+
+## Tafsir Ibn Kathir
+
+"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. (57)So he broke them to pieces, except the biggest of them, that they might turn to it (58)They said: "Who has done this to our gods He must indeed be one of the wrongdoers. (59)They said: "We heard a young man talking against them, who is called Ibrahim. (60)They said: "Then bring him before the eyes of the people, that they may testify. (61)They said: "Are you the one who has done this to our gods, O Ibrahim? (62)He said: "Nay, this one, the biggest of them did it. Ask them, if they can speak! (63)
+
+How Ibrahim broke the Idols
+
+Then Ibrahim swore an oath, which some of his people heard, to plot against their idols, i.e., to break them and destroy them after they had gone away and turned their backs, when they went out to their festival. They had a festival which they would go out to celebrate. Abu Ishaq reported from Abu Al-Ahwas from 'Abdullah Ibn Mas'ud, "When the people of Ibrahim went out to celebrate their festival, they passed by him and said, 'O Ibrahim, are you not coming out with us' He said, 'I am sick.'" It was only the day before that he had said,
+
+وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَامَكُم بَعْدَ أَن تُوَلُّوا مُدْبِرِينَ
+
+(And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs.) and some of the people had heard him.
+
+فَجَعَلَهُمْ جُذَاذًا
+
+(So he broke them to pieces,) means, he smashed them all, except for the biggest idol. This is like the Ayah,
+
+فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ
+
+(Then he turned upon them, striking (them) with (his) right hand)(37:93).
+
+لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+
+(that they might turn to it.) It was said that he put a hammer in the hands of the biggest idol so that the people would think that it had become jealous on its own account and objected to these smaller idols being worshipped alongside it, so it had broken them.
+
+قَالُوا مَن فَعَلَ هَٰذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ
+
+(They said: "Who has done this to our gods? He must indeed be one of the wrongdoers.") When they came back and saw what Ibrahim had done to their idols, humiliating them and lowering their status, proving that they were not divine and that those who worshipped them were fools,
+
+قَالُوا مَن فَعَلَ هَٰذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ
+
+(They said: "Who has done this to our gods? He must indeed be one of the wrongdoers.") because of this action of his.
+
+قَالُوا سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ
+
+(They said: "We heard a young man talking against them, who is called Ibrahim.") Those who had heard him swearing to plot against them said, we heard a young man talking about them, and they said that he was called Ibrahim.
+
+قَالُوا فَأْتُوا بِهِ عَلَىٰ أَعْيُنِ النَّاسِ
+
+(They said: "Then bring him before the eyes of the people...") meaning, in front of a large audience so that all the people could be present. This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
+
+قَالُوا أَأَنتَ فَعَلْتَ هَٰذَا بِآلِهَتِنَا يَا إِبْرَاهِيمُ - قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَٰذَا
+
+(They said: "Are you the one who has done this to our gods, O Ibrahim?" He said: "Nay, this one, the biggest of them did it...") referring to the one he had left alone and had not broken.
+
+فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ
+
+(Ask them, if they can speak!) He was hoping that they would admit of their own volition that these idols could not speak and that this idol would not say anything because it was inanimate. In the Two Sahihs it was recorded from Abu Hurayrah that the Messenger of Allah ﷺ said:
+
+إِنَّ إِبْرَاهِيمَ عَلَيْهِ السَّلَامُ لَمْ يَكْذِبْ غَيْرَ ثَلَاثٍ: ثِنْتَيْنِ فِي ذَاتِ اللهِ قَوْلُهُ:
+
+(Ibrahim, upon him be peace, did not tell lies except on three occasions, two for the sake of Allah – when he said:
+
+بَلْ فَعَلَهُ كَبِيرُهُمْ هَٰذَا
+
+(Nay, this one, the biggest of them did it.) and when he said:
+
+إِنِّي سَقِيمٌ
+
+(Verily, I am sick)(37:89).
+
+قَالَ: وَبَيْنَا هُوَ يَسِيرُ فِي أَرْضِ جَبَّارٍ مِنَ الْجَبَابِرَةِ وَمَعَهُ سَارَّةُ، إِذْ نَزَلَ مَنْزِلًا فَأَتَى الْجَبَّارَ رَجُلٌ فَقَالَ: إِنَّهُ قَدْ نَزَل هَهُنَا رَجُلٌ بِأَرْضِكَ مَعَهُ امْرَأَةٌ أَحْسَنُ النَّاسِ، فَأَرْسَلَ إِلَيْهِ فَجَاءَ، فَقَالَ: مَا هَذِهِ الْمَرْأَةُ مِنْكَ؟ قَالَ: هِيَ أُخْتِي. قَالَ: فَاذْهَبْ فَأَرْسِلْ بِهَا إِلَيَّ، فَانْطَلَقَ إِلَى سَارَّةَ فَقَالَ: إِنَّ هَذَا الْجَبَّارَ قَدْ سَأَلَنِي عَنْكِ، فَأَخْبَرْتُهُ أَنَّكِ أُخْتِي، فَلَا تُكَذِّبِينِي عِنْدَهُ، فَإِنَّكِ أُخْتِي فِي كِتَابِ اللهِ، وَإِنَّهُ لَيْسَ فِي الْأَرْضِ مُسْلِمٌ غَيْرِي وَغَيْرُكِ، فَانْطَلَقَ بِهَا إِبْرَاهِيمُ ثُمَّ قَامَ يُصَلِّي، فَلَمَّا أَنْ دَخَلَتْ عَلَيْهِ فَرَآهَا أَهْوَى إِلَيْهَا فَتَنَاوَلَهَا فَأُخِذَ أَخْذًا شَدِيدًا، فَقَالَ: ادْعِي اللهَ لِي وَلَا أَضُرُّكِ، فَدَعَتْ لَهُ، فَأُرْسِلَ فَأَهْوَى إِلَيْهَا، فَتَنَاوَلَهَا فَأُخِذَ بِمِثْلِهَا أَوْ أَشَدَّ، فَفَعَلَ ذَلِكَ الثَّالِثَةَ، فَأُخِذَ فَذَكَرَ مِثْلَ الْمَرَّتَيْنِ الْأُولَيَيْنِ، فَقَالَ: ادْعِي اللهَ فَلَا أُضُرَّكِ، فَدَعَتْ لَهُ فَأُرْسِلَ، ثُمَّ دَعَا أَدْنَى حُجَّابِهِ فَقَالَ: إِنَّكَ لَمْ تَأْتِنِي بِإِنْسَانٍ، وَلَكِنَّكَ أَتَيْتَنِي بِشَيْطَانٍ، أَخْرِجْهَا وَأَعْطِهَا هَاجَرَ.
+
+فَأُخْرِجَتْ وَأُعْطِيَتْ هَاجَرَ، فَأَقْبَلَتْ، فَلَمَّا أَحَسَّ إِبْرَاهِيمُ بِمَجِيئِهَا، انْفَتَلَ مِنْ صَلَاتِهِ، وَقَالَ: مَهْيَمْ. قَالَتْ: كَفَى اللهُ كَيْدَ الْكَافِرِ الْفَاجِرِ، وَأَخْدَمَنِي هَاجَرَ
+
+(and when he was traveling in the land of one of the tyrants, and Sarah was with him; when he made camp, a man came to the tyrant and said, "A man has made camp in your land and with him is a woman who is the most beautiful of people." The tyrant sent for Ibrahim, and asked him, "What is the relationship of this woman to you?" He said, "She is my sister." The tyrant said, "Go and send her to me." So Ibrahim went to Sarah and said, "This tyrant asked me about you, and I told him that you are my sister, so do not let him think that I am lying. For you are indeed my sister according to the Book of Allah, and there are no Muslims on the earth apart from you and I." So Ibrahim brought her to him, then he stood and prayed. When she entered upon the tyrant, he reached for her desirously once he saw her. But he suffered a severe seizure. So he said, "Pray to Allah for me and I will not harm you." So she prayed for him and it released him. Then he reached for her desirously, but he was stricken similarly before or worse. This continued three times, and each time he said the same as he had said the first time. Then he called the closest of his guards and said, "You have not brought me a human being, you have brought me a devil! Take her out and give her Hajar. So she was taken out and given Hajar, and she went back. When Ibrahim realized that she had come back, he finished his prayer and turned around. He said, "What happened?" She said, "Allah took care of the evil disbeliever's plot, and he gave me Hajar as a servant.")
+
+Muhammad bin Sirin said, "When Abu Hurayrah narrated this Hadith, he said, 'This is your mother, O sons of the water of the heaven.'"
+
+## Maarif ul Quran
+
+The words of Sayyidna Ibrahim (علیہ السلام) were not untrue, but only allusions
+
+قَالَ بَلْ فَعَلَهُ كَبِيرُ‌هُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (He said, "Rather, this is done by this chief of theirs. So, ask them if they were to speak." - 21:63) When the community of Sayyidna Ibrahim (علیہ السلام) got hold of him and asked him to confess his guilt, he said "The big one among them has done it. Why don't you ask him, if he can speak"?
+
+The point to consider here is that the idols were broken by Sayyidna Ibrahim (علیہ السلام) and its denial and attributing the deed to the big idol, was contrary to fact and constituted an untruth. The exalted position of Sayyidna Ibrahim (علیہ السلام) renders such a conclusion untenable. The exegesists have put forward several explanations to sort out this matter. One of them is that his statement is in the nature of an assumption i.e. why not considering the possibility that the deed was done by the big idol? And a supposition which is contrary to facts is not a lie as the Qur’ an itself says إِن كَانَ لِلرَّ‌حْمَـٰنِ وَلَدٌ فَأَنَا أَوَّلُ الْعَابِدِينَ (If the Ralhman [ All-Merciful ] has a son then I am the first to serve him - 43:81). But the most convincing and straight forward explanation is the one adopted by al-Bahr ul-Muhit, Qurtubi and Ruh ul-Ma` ani, which says that it is a metaphoric attribution (اَسنَاد مجَازی), that is the act which was done by Sayyidna Ibrahim (علیہ السلام) was attributed to the big idol by way of metaphoric attribution because it was this idol which, by reason of the reverence that it commanded in the whole community, persuaded Sayyidna Ibrahim (علیہ السلام) to do what he did with the smaller idols. It is like amputating a thief’ s hand and then telling him that none but his own misdeeds are responsible for the amputation.
+
+Sayyidna Ibrahim (علیہ السلام) had also attributed the breaking of the idols to the big idol by placing an axe on its shoulder or in its hands, thus pointing an accusing finger towards it. He reinforced this suspicion by his word when he suggested to the unbelievers that they should enquire from the big idol as to who had destroyed the other idols. It is a case of metaphoric attribution (اسناد مجازی) which is very well illustrated in an Arabic saying انبت الربیہع البقلۃ ، that is the spring rains have raised crops. Although in actual fact it is God who produces and nourishes the crops, yet it has been ascribed to a visible cause, and no one can call it a lie. In the same manner Sayyidna Ibrahim (علیہ السلام) was not telling an untruth when he attributed the act to the big idol. His adoption of this act of dissimulation in fact served many religious interests; one of them being to make the people aware of the possibility that perhaps the big idol was infuriated with the smaller idols because they too were worshipped with the same degree of reverence as itself. If they could be made to think on these lines, it could have opened the route to belief in the Oneness of Allah. If the big idol was not willing to accept the idols as objects of worship how could Allah, the Creator of all living things, agree to share His authority with anyone?
+
+Secondly, perhaps they also wondered that if the idols whom they worshipped were really as powerful as they thought them to be, how could anyone have broken them with impunity? Thirdly, if the charge of breaking the smaller idols could be laid against the big idol, then it would be quite pertinent to ask that in that event it should also have the power of speech. That is why Sayyidna Ibrahim I said فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (So, ask them if they were to speak. - 21:63). Thus it is really not necessary to put farfetched meanings into his words which should be interpreted in a plain, straight forward manner. He attributed the deed to the big idol by way of metaphoric attribution. This was not contrary to facts nor did it constitute an untruth.
+
+Three untruths ascribed to Sayyidna Ibrahim (علیہ السلام)
+
+Now the point to consider is that the Holy Prophet ﷺ himself has said according to some authentic traditions that انّ ابراھیم (علیہ السلام) لم یکذب غیر ثلاث (Bukhari and Muslim). That is Sayyidna Ibrahim (علیہ السلام) never spoke an untruth except on three occasions, and then those three occasions have been described in the same hadith in some detail. The saying goes on to narrate that two out of the three untruths were spoken solely in the way of Allah. One of them is this verse بَلْ فَعَلَهُ كَبِيرُ‌هُمْ (Rather this is done by this chief - 21:63). The second one relates to Eid day when he said to his familyإِنِّي سَقِيمٌ (I am sick - 37:89), and the third one was spoken to save his wife, from harm. This happened when he was travelling with his wife Sayyidah Sarah ؓ ، and passed through a settlement whose ruler was cruel and depraved and who used to seize the wives of other people and subject them to sexual abuse. However, he spared those who were accompanied by their fathers or brothers. When Sayyidna Ibrahim (علیہ السلام) reached this city, the ruler was informed about the arrival of the couple. So he got Sayyidah Sarah ؓ arrested and brought before him. When the ruler's men came to arrest her, they enquired from Sayyidna Ibrahim (علیہ السلام) about his relationship with her. Fearing the evil intentions of the wicked ruler Sayyidna Ibrahim (علیہ السلام) said that she was his sister. (It is this episode which is referred to in the hadith as the third lie) Despite this declaration they took her away with them. Sayyidna Ibrahim (علیہ السلام) had already briefed her that she should also tell the ruler that she was his sister, because according to Islamic relationship they were brother and sister as they were the only two Muslims in that land and hence according to Muslim brotherhood that relationship was valid. Sayyidna Ibrahim (علیہ السلام) lacked the strength to defend himself and his wife against the ruler and his men, so he started praying to invoke Allah's Mercy. When Sayyidah Sarah ؓ was brought before the ruler, he started making advances to her, and in punishment he was turned into a cripple. Then he begged her to pray for him to return to normal in which case he would let her go without harm. When Sayyidah Sarah ؓ prayed for him and he returned to normal, he broke his promise and again tried to molest her and again became a cripple. This was repeated thrice and ultimately he gave up and sent back Sayyidah Sarah ؓ to Sayyidna Ibrahim (علیہ السلام) . This is a summary of the hadith. However, three lies have been ascribed to Sayyidna Ibrahim (علیہ السلام) clearly in this hadith which is against the position and dignity of the prophethood. But the hadith contains in itself a refutation of this charge i.e. none of the three episodes reveal that a deliberate lie was told. They were mere dissimulations (تَورِیَہ) which are permissible and legitimate if spoken in defense of oneself from cruelty and do not fall within the definition of a lie. The reasoning for this is given in the hadith itself i.e. Sayyidna Ibrahim (علیہ السلام) had told Sayyidah Sarah ؓ that he had informed the ruler's men that she was his sister and that she should also say the same, because they were indeed brother and sister in the wider sense of universal Muslim brotherhood. This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else. Tauriyah is permissible by consensus of Islamic jurists if used to save oneself from injustice. This is totally different from Shiite's Taqqiyah (تَقِّیَہ), which is an outright lie. In Taqqaiya one does not only speak a lie but also acts on it, while in the case of tauriyah it is not a lie in the real sense as the speaker uses words which are capable of conveying his intentions as in the case of Sayyidna Ibrahim (علیہ السلام) calling Sayyidah Sarah ؓ as his sister which was true in the sense that both were Muslims and Islam constitutes a universal brotherhood. Same argument can be put forward in the case of his other two utterances. It has been explained above that he said بَلْ فَعَلَهُ كَبِيرُ‌هُمْ as a tauriyah to refer the act toward the big idol by way of metaphor (اسناد مجازی). As for his saying, إِنِّي سَقِيمٌ, in common parlance the word Saqeem (سقیم) means sick but it also means depressed, dejected, despondent and weak. Sayyidna Ibrahim (علیہ السلام) said in the latter sense which was absolutely true keeping in considering his feelings against the unbelievers, but the people took it in the popular sense i.e. sickness. Then the wording of the hadith that two out of the three lies were to promote belief in the One and true Allah suggests that they were not sins, because no one can hope to please Allah by committing an act of sin.
+
+It is sheer ignorance to deny the authenticity of the lies of Sayyidna Ibrahim (علیہ السلام)
+
+Some Muslims who are influenced by the writings of western orientalists and Mirza Qadyani have declared this saying as unauthentic despite the fact that its narrators are reliable persons, because it accuses Sayyidna Ibrahim (علیہ السلام) of lying which is against the spirit of Qur'an, and that it is better to declare all the narrators of the saying as unreliable rather than to label Sayyidna Ibrahim (علیہ السلام) as a liar. From this they also made a rule that any saying, no matter how authentic its source might be, should be rejected if it is in conflict with the teachings of Qur'an. This ruling is absolutely valid and acceptable to entire Ummah, but the point is that the religious scholars have spent all their lives in researching each and every hadith, and none of those which they have accepted as authentic conflicts with the teachings of the Qur'an. Such people lacking knowledge and being misguided do not hesitate to reject a hadith and then justify the rejection by arguing that it is in conflict with the Qur'an. In the present case the saying itself makes it clear that the words which may be interpreted as lies is only tauriyah. As for the question why the words of tauriyah are called lies in the saying, the answer is that the slightest slip of those who are close to God is taken seriously, as can be seen in the previous Surah Taha when Sayyidna 'Adam's (علیہ السلام) slip and mistake is referred by the word عصٰی (disobeyed - 21:121) and غَوٰی (got misled - 20:121). It can be seen that whereas small mistakes can be forgiven and set aside in the case of common people, the same slips are considered as serious offences when committed by those who are dear to Allah Ta` ala. The Holy Qur'an recounts at many places Allah's displeasure over prophets in such situations. The hadith of Shafa` ah (intercession before Allah Ta` ala) which is famous and well known says that on the Day of Resurrection all people will gather together, and request prophets from Sayyidna 'Adam (علیہ السلام) upto the last prophet who came before the coming of the Holy Prophet ﷺ one by one for Shaf 'ah (intercession) that they be judged quickly. Every prophet will excuse himself from Shafa` ah (intercession) recounting one or more of his slips or mistakes. At last the entire humanity will approach the last of the prophets Sayyidna Muhammad ﷺ and he will perform ashshafa'ah al-kubra. According to this saying Sayyidna Ibrahim (علیہ السلام) will excuse himself quoting these utterances which though said as tauriyah and were, therefore, not lies in actual fact, were, none the less, below the dignity of a prophet. This lapse has been described as a lie in the hadith. This was well within the prerogative of the Holy Prophet ﷺ ، and to the extent of narration of this saying we too may repeat it. But it is not permitted to anyone, except, when quoting the Qur'an or this hadith, to say that Sayyidna Ibrahim (علیہ السلام) had told a lie. The same view has been taken by Qurtubi and al-Bahr ul-Muhit in the commentary of Surah Ta-Ha in connection with Sayyidna Adam (علیہ السلام) .
+
+Reference to a delicate hint regarding sincerity of action arising from the saying
+
+Out of the three lies which have been attributed to Sayyidna Ibrahim (علیہ السلام) in the saying two are said to be in the way of Allah Ta ala, but the third lie which was about Sayyidah Sarah ؓ was not said to be in the way of Allah Ta` ala, although saving the chastity of one's wife is very much- a part of religious duty. On this point, in the commentary by Qurtubi, a very delicate suggestion by Qazi Abu Bakr Ibn Al-` Arabi has been reproduced which is apt to shatter the peace of mind of the pious and God fearing persons: in saving the chastity of one's wife, though an act of religious duty, there was also an element of personal interest in protecting his wife's honour. Because of the mixed motives this third incident has been excluded from the category of acts which are performed for Allah Ta` ala, because Allah Ta` ala has said أَلَا لِلَّـهِ الدِّينُ الْخَالِصُ (Look, to Allah alone belongs the pure faith - 39:3). Had some common man like us been involved in such an incident, then the act would have surely qualified as an act which are performed to win the goodwill of God. But in view of the exalted position of the prophets, the smallest degree of personal motive was regarded against the perfect quality of their devotion.
+
+How the fire of Namrud turned into pleasant garden for Sayyidna Ibrahim (علیہ السلام)
+
+Those who do not believe in miracles and supernatural events have given strange meaning to this episode. The philosophical assumption: that attributes which are attached with and complementary to something are not separable - is by itself fallacious. The fact is that nothing in this world is essential to or inseparable from something else. God gave to fire an attribute that it should burn and to water that it should cool, but these attributes are customary and habitual but not rationally necessary. No philosopher has so for been able to advance a convincing argument about these attributes being rational.
+
+Thus these attributes being only habitual, they can be changed whenever God so wills. If God so wills, fire can act as a coolant and water as a burning agent, and it cannot be held as rationally impossible. This is what happens when Allah Ta’ ala reveals His miracles in support of the missions of His prophets. Thus He commanded the fire of Namrud to cool down and the fire obeyed, and if the word بَرداً (cool) was not followed by the word سلَامَاً (safe) the fire would have cooled like ice and would have caused him harm. The Qur’ an says about the people of Nuh (علیہ السلام) when they were drowned in water that أُغْرِ‌قُوا فَأُدْخِلُوا نَارً‌ا (they were drowned, and admitted into a Fire - 71:25).
+
+حَرِّ‌قُوهُ (Burn him - 21:68) that is the entire community and Namrud decided to burn him in fire. The historic version is that for full one month the entire population of the city were busy collecting fire wood for this purpose. Then after lighting the fire wood they fanned it to make it burn ferociously for the next seven days, until the flames rose high up into the sky. When the fire blazed with full ferocity they decided to throw Sayyidna Ibrahim (علیہ السلام) into it. But the fire was burning with such intensity that no one dared to approach it. Then the Shaitan gave them the idea to use a catapult to throw him into the fire. While people were preparing to throw Allah's Friend (خلِیل) into the sea of fire all the angels and all the creatures of the earth and sky cried out in unison at the fate that lay in store for Sayyidna Ibrahim (علیہ السلام) . At that Allah Ta` ala permitted them all to help Sayyidna Ibrahim (علیہ السلام) . When the angels asked Sayyidna Ibrahim (علیہ السلام) whether he needed their help. He replied that Allah was enough to help him and that He was watching over him. Jibra'il al-Ameen (علیہ السلام) enquired whether he could render him any help to which Sayyidna Ibrahim (علیہ السلام) replied, "of course I need help, but from Allah, not from you". (Mazhari)
+
+## Personal Reflections

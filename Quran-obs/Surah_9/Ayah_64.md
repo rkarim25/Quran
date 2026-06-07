@@ -1,0 +1,129 @@
+---
+arabic_ayat: "يَحۡذَرُ الۡمُنٰفِقُوۡنَ اَنۡ تُنَزَّلَ عَلَيۡهِمۡ سُوۡرَةٌ تُنَبِّئُهُمۡ\
+  \ بِمَا فِىۡ قُلُوۡبِهِمۡ​ ؕ قُلِ اسۡتَهۡزِءُوۡا​ ۚ اِنَّ اللّٰهَ مُخۡرِجٌ مَّا\
+  \ تَحۡذَرُوۡنَ‏ \uFEFF\uFEFF"
+sentence_translation: The hypocrites fear that a sûrah should be revealed about them,
+  exposing what is in their hearts. Say, ˹O Prophet,˺ “Keep mocking! Allah will definitely
+  bring to light what you fear.”
+word_by_word:
+  1:
+    arabic: يَحۡذَرُ
+    translation: Fear
+    transliteration: yaḥdharu
+  2:
+    arabic: الۡمُنٰفِقُوۡنَ
+    translation: the hypocrites
+    transliteration: l-munāfiqūna
+  3:
+    arabic: اَنۡ
+    translation: lest
+    transliteration: an
+  4:
+    arabic: تُنَزَّلَ
+    translation: be revealed
+    transliteration: tunazzala
+  5:
+    arabic: عَلَيۡهِمۡ
+    translation: about them
+    transliteration: ʿalayhim
+  6:
+    arabic: سُوۡرَةٌ
+    translation: a Surah
+    transliteration: sūratun
+  7:
+    arabic: تُنَبِّئُهُمۡ
+    translation: informing them
+    transliteration: tunabbi-uhum
+  8:
+    arabic: بِمَا
+    translation: of what
+    transliteration: bimā
+  9:
+    arabic: فِىۡ
+    translation: (is) in
+    transliteration: fī
+  10:
+    arabic: قُلُوۡبِهِمۡ​ ؕ
+    translation: their hearts
+    transliteration: qulūbihim
+  11:
+    arabic: قُلِ
+    translation: Say
+    transliteration: quli
+  12:
+    arabic: اسۡتَهۡزِءُوۡا​ ۚ
+    translation: Mock
+    transliteration: is'tahziū
+  13:
+    arabic: اِنَّ
+    translation: indeed
+    transliteration: inna
+  14:
+    arabic: اللّٰهَ
+    translation: Allah
+    transliteration: l-laha
+  15:
+    arabic: مُخۡرِجٌ
+    translation: (will) bring forth
+    transliteration: mukh'rijun
+  16:
+    arabic: مَّا
+    translation: what
+    transliteration: mā
+  17:
+    arabic: "تَحۡذَرُوۡنَ‏ \uFEFF\uFEFF"
+    translation: you fear
+    transliteration: taḥdharūna
+---
+
+## Context
+
+To understand **The Repentance** (At-Tawbah) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts. Say: "(Go ahead and) mock! But certainly Allah will bring to light all that you fear. (64)
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts. Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا تَحْذَرُ‌ونَ (Allah is surely to bring out what you are afraid of) is the news that Allah will expose their conspiracy and mischief.
+
+## Tafsir Ibn Kathir
+
+The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts. Say: "(Go ahead and) mock! But certainly Allah will bring to light all that you fear. (64)
+
+The Hypocrites fear Public Exposure of Their Secrets
+
+Mujahid said, "The hypocrites would say something to each other then declare, 'We wish that Allah does not expose this secret of ours," There is a similar Ayah to this one, that is, Allah's statement,
+
+وَإِذَا جَاءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ اللَّهُ وَيَقُولُونَ فِي أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا اللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ الْمَصِيرُ
+
+(And when they come to you, they greet you with a greeting wherewith Allah greets you not, and say within themselves: "Why should Allah punish us not for what we say?" Hell will be sufficient for them; they will burn therein. And worst indeed is that destination!)[58:8]. Allah said in this Ayah,
+
+قُلِ اسْتَهْزِئُوا إِنَّ اللَّهَ مُخْرِجٌ مَّا تَحْذَرُونَ
+
+(Say: "(Go ahead and) mock! But certainly Allah will bring to light all that you fear."),
+
+He will expose and explain your reality to His Messenger ﷺ through revelation. Allah said in other Ayat,
+
+أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ اللَّهُ أَضْغَانَهُمْ
+
+(Or do those in whose hearts is a disease (of hypocrisy), think that Allah will not bring to light all their hidden ill-wills?)[47:29], until,
+
+وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ
+
+(but surely, you will know them by the tone of their speech!)[47:30].
+
+This is why, according to Qatadah, this Surah is called 'Al-Fadihah' (the Exposing), because it exposed the hypocrites.
+
+## Maarif ul Quran
+
+Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا تَحْذَرُ‌ونَ (Allah is surely to bring out what you are afraid of) is the news that Allah will expose their conspiracy and mischief. One such event came to pass while returning from the battle of Tabuk when some hypocrites had conspired to kill the Messenger of Allah. Allah Almighty informed him about the plan through angel Jibra'il (علیہ السلام) helping him to bypass the spot where the hypocrites were sitting in ambush. (Mazhari with reference to al-Baghawi)
+
+And Sayyidna ` Ibn ` Abbas ؓ says that Allah Ta` ala had in-formed the Holy Prophet al about the names of seventy hypocrites complete with their parentage and addresses. But, being the universal mercy, he did not disclose these before his people. (Mazhari)
+
+## Personal Reflections

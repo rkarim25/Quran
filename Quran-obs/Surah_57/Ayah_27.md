@@ -1,0 +1,302 @@
+---
+arabic_ayat: ثُمَّ قَفَّيۡنَا عَلٰٓى اٰثَارِهِمۡ بِرُسُلِنَا وَقَفَّيۡنَا بِعِيۡسَى
+  ابۡنِ مَرۡيَمَ وَاٰتَيۡنٰهُ الۡاِنۡجِيۡلَ ۙ وَجَعَلۡنَا فِىۡ قُلُوۡبِ الَّذِيۡنَ
+  اتَّبَعُوۡهُ رَاۡفَةً وَّرَحۡمَةً  ؕ وَرَهۡبَانِيَّةَ اۨبۡتَدَعُوۡهَا مَا كَتَبۡنٰهَا
+  عَلَيۡهِمۡ اِلَّا ابۡتِغَآءَ رِضۡوَانِ اللّٰهِ فَمَا رَعَوۡهَا حَقَّ رِعَايَتِهَا​
+  ۚ فَاٰتَيۡنَا الَّذِيۡنَ اٰمَنُوۡا مِنۡهُمۡ اَجۡرَهُمۡ​ۚ وَكَثِيۡرٌ مِّنۡهُمۡ فٰسِقُوۡنَ‏
+sentence_translation: Then in the footsteps of these ˹prophets˺, We sent Our messengers,
+  and ˹after them˺ We sent Jesus, son of Mary, and granted him the Gospel, and instilled
+  compassion and mercy into the hearts of his followers. As for monasticism, they
+  made it up—We never ordained it for them—only seeking to please Allah, yet they
+  did not ˹even˺ observe it strictly. So We rewarded those of them who were faithful.
+  But most of them are rebellious.
+word_by_word:
+  1:
+    arabic: ثُمَّ
+    translation: Then
+    transliteration: thumma
+  2:
+    arabic: قَفَّيۡنَا
+    translation: We sent
+    transliteration: qaffaynā
+  3:
+    arabic: عَلٰٓى
+    translation: 'on'
+    transliteration: ʿalā
+  4:
+    arabic: اٰثَارِهِمۡ
+    translation: their footsteps
+    transliteration: āthārihim
+  5:
+    arabic: بِرُسُلِنَا
+    translation: Our Messengers
+    transliteration: birusulinā
+  6:
+    arabic: وَقَفَّيۡنَا
+    translation: and We followed
+    transliteration: waqaffaynā
+  7:
+    arabic: بِعِيۡسَى
+    translation: with Isa
+    transliteration: biʿīsā
+  8:
+    arabic: ابۡنِ
+    translation: son
+    transliteration: ib'ni
+  9:
+    arabic: مَرۡيَمَ
+    translation: (of) Maryam
+    transliteration: maryama
+  10:
+    arabic: وَاٰتَيۡنٰهُ
+    translation: and We gave him
+    transliteration: waātaynāhu
+  11:
+    arabic: الۡاِنۡجِيۡلَ ۙ
+    translation: the Injeel
+    transliteration: l-injīla
+  12:
+    arabic: وَجَعَلۡنَا
+    translation: And We placed
+    transliteration: wajaʿalnā
+  13:
+    arabic: فِىۡ
+    translation: in
+    transliteration: fī
+  14:
+    arabic: قُلُوۡبِ
+    translation: (the) hearts
+    transliteration: qulūbi
+  15:
+    arabic: الَّذِيۡنَ
+    translation: (of) those who
+    transliteration: alladhīna
+  16:
+    arabic: اتَّبَعُوۡهُ
+    translation: followed him
+    transliteration: ittabaʿūhu
+  17:
+    arabic: رَاۡفَةً
+    translation: compassion
+    transliteration: rafatan
+  18:
+    arabic: وَّرَحۡمَةً  ؕ
+    translation: and mercy
+    transliteration: waraḥmatan
+  19:
+    arabic: وَرَهۡبَانِيَّةَ
+    translation: But monasticism
+    transliteration: warahbāniyyatan
+  20:
+    arabic: اۨبۡتَدَعُوۡهَا
+    translation: 'they innovated '
+    transliteration: ib'tadaʿūhā
+  21:
+    arabic: مَا
+    translation: not
+    transliteration: mā
+  22:
+    arabic: كَتَبۡنٰهَا
+    translation: We prescribed it
+    transliteration: katabnāhā
+  23:
+    arabic: عَلَيۡهِمۡ
+    translation: 'for them '
+    transliteration: ʿalayhim
+  24:
+    arabic: اِلَّا
+    translation: only
+    transliteration: illā
+  25:
+    arabic: ابۡتِغَآءَ
+    translation: seeking
+    transliteration: ib'tighāa
+  26:
+    arabic: رِضۡوَانِ
+    translation: (the) pleasure
+    transliteration: riḍ'wāni
+  27:
+    arabic: اللّٰهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  28:
+    arabic: فَمَا
+    translation: but not
+    transliteration: famā
+  29:
+    arabic: رَعَوۡهَا
+    translation: they observed it
+    transliteration: raʿawhā
+  30:
+    arabic: حَقَّ
+    translation: (with) right
+    transliteration: ḥaqqa
+  31:
+    arabic: رِعَايَتِهَا​ ۚ
+    translation: observance
+    transliteration: riʿāyatihā
+  32:
+    arabic: فَاٰتَيۡنَا
+    translation: So We gave
+    transliteration: faātaynā
+  33:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  34:
+    arabic: اٰمَنُوۡا
+    translation: believed
+    transliteration: āmanū
+  35:
+    arabic: مِنۡهُمۡ
+    translation: among them
+    transliteration: min'hum
+  36:
+    arabic: اَجۡرَهُمۡ​ۚ
+    translation: their reward
+    transliteration: ajrahum
+  37:
+    arabic: وَكَثِيۡرٌ
+    translation: but most
+    transliteration: wakathīrun
+  38:
+    arabic: مِّنۡهُمۡ
+    translation: of them
+    transliteration: min'hum
+  39:
+    arabic: فٰسِقُوۡنَ‏
+    translation: (are) defiantly disobediently
+    transliteration: fāsiqūna
+---
+
+## Context
+
+To understand **The Iron** (Al-Hadid) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil.) refering to the Injil that Allah revealed to him,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And indeed, We sent Nuh and Ibrahim, and placed in their offspring prophethood and Scripture. . After specific mention of these two Prophets, the whole chain of prophets is referred to by the words, ثُمَّ قَفَّيْنَا عَلَىٰ آثَارِ‌هِم بِرُ‌سُلِنَا "Then We made Our messengers follow them one after the other".
+
+## Tafsir Ibn Kathir
+
+And indeed, We sent Nuh and Ibrahim, and placed in their offspring prophethood and Scripture. And among them there are some who are guided; but many of them are rebellious (26)Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil. And We ordained in the hearts of those who followed him, compassion and mercy. But the monasticism which they invented for themselves, We did not prescribe for them, but (they sought it) only to please Allah therewith, but that they did not observe it with the right observance. So, We gave those among them who believed, their (due) reward; but many of them are rebellious (27)
+
+Many of the Nations of the Prophets were Rebellious
+
+Allah the Exalted states that since He sent Nuh, peace be upon him, all the Prophets and Messengers He sent after that were from his offspring. All the revealed Divine Books and all the Messengers that received revelation after Ibrahim, Allah's Khalil, peace be upon him, were from Ibrahim's offspring. Allah the Exalted said in another Ayah:
+
+وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ
+
+(and placed in their offspring prophethood and Scripture.)[29:27]
+
+The last among the Prophets of the Children of Israel was 'Isa, son of Mary, who prophecied the good news of the coming of Muhammad, peace and blessings be upon them both. Allah the Exalted said,
+
+ثُمَّ قَفَّيْنَا عَلَىٰ آثَارِهِمْ بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ابْنِ مَرْيَمَ وَآتَيْنَاهُ الْإِنْجِيلَ
+
+(Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil.) refering to the Injil that Allah revealed to him,
+
+وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ
+
+(And We ordained in the hearts of those who followed him,) i.e., the disciples,
+
+رَأْفَةً
+
+(compassion) and tenderness,
+
+وَرَحْمَةً
+
+(and mercy.) toward the creatures. Allah's statement,
+
+وَرَهْبَانِيَّةً ابْتَدَعُوهَا
+
+(But the monasticism which they invented for themselves,) refers to the monasticism that the Christian nation invented,
+
+مَا كَتَبْنَاهَا عَلَيْهِمْ
+
+(We did not prescribe for them) 'We – Allah – did not ordain it for them, but they chose it on their own.' There are two opinions about the meaning of,
+
+إِلَّا ابْتِغَاءَ رِضْوَانِ اللَّهِ
+
+(only to please Allah therewith,) The first is that they wanted to please Allah by inventing monasticism. Sa'id bin Jubayr and Qatadah said this. The second meaning is: "We did not ordain them to practice that but, rather, We ordained them only to seek what pleases Allah." Allah's statement,
+
+فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا
+
+(but that they did not observe it with the right observance.) meaning, they did not abide by what they ordered themselves to do. This Ayah criticizes them in two ways: first, they invented in things in their religion, things which Allah did not legislate for them. The second is that they did not fulfill the requirements of what they themselves invented and which they claimed was a means of drawing near to Allah, the Exalted and Most Honored.
+
+Ibn Jarir and Abu 'Abdur-Rahman An-Nasa'i – and this is his wording – recorded that Ibn 'Abbas said, "There were kings after 'Isa who changed the Tawrah and the Injil when there were still believers who recited Tawrah and the Injil. Their kings were told, 'We were never confronted by more severe criticism and abuse than of these people.' – they recite the Ayah,
+
+وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+
+(And whosoever does not judge by what Allah has revealed, such are the disbelievers.)(5:44), as well as, they accuse us of short comings in our actions, while still they recite. Therefore, summon them and let them recite these Ayat our way and believe in them our way.' The king summoned them and gathered them and threatened them with death if they did not revert from reciting the original Tawrah and Injil to using the corrupted version only. They said, 'Why do you want us to do that, let us be.' Some of them said, 'Build a narrow elevated tower for us and let us ascend it, and then give us the means to elevate food and drink to us. This way, you will save yourselves from hearing us.' Another group among them said, 'Let us go about in the land and eat and drink like beasts do, and if you find us in your own land, then kill us.' Another group among them said, 'Build homes (monasteries) for us in the deserts and secluded areas, where we can dig wells and plant vegetables. Then, we will not refute you and will not even pass by you.' These groups said this, even though they all had supporters among their tribes. It is about this that Allah the Exalted and Most Honored sent down this Ayah,
+
+وَرَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلَّا ابْتِغَاءَ رِضْوَانِ اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ
+
+(But the monasticism which they invented for themselves, We did not prescribe for them, but (they sought it) only to please Allah therewith, but that they did not observe it with the right observance.)"
+
+Imam Ahmad recorded that Anas bin Malik said that the Prophet ﷺ said,
+
+لِكُلِّ نَبِيٍّ رَهْبَانِيَّةٌ، وَرَهْبَانِيَّةُ هٰذِهِ الْأُمَّةِ الْجِهَادُ فِي سَبِيلِ اللهِ عَزَّ وَجَلَّ
+
+(Every Prophet has Rahbaniyyah (monasticism); Jihad in the cause of Allah, the Exalted and Most Honored, is the Rahbaniyyah of this Ummah.)
+
+Al-Hafiz Abu Ya'la collected this Hadith and in this narration, the Prophet ﷺ said,
+
+لِكُلِّ أُمَّةٍ رَهْبَانِيَّةٌ، وَرَهْبَانِيَّةُ هٰذِهِ الْأُمَّةِ الْجِهَادُ فِي سَبِيلِ اللهِ
+
+(Every Ummah has Rahbaniyyah; Jihad in the cause of Allah is the Rahbaniyyah of this Ummah.)
+
+Imam Ahmad recorded that Abu Sa'id Al-Khudri said that a man came to him and asked him for advice, and Abu Sa'id said that he asked the same of Allah's Messenger ﷺ. Abu Sa'id said, "So, I advise you to adhere by the Taqwa of Allah, because it is the chief of all matters. Fulfill the obligation of Jihad, because it is the Rahbaniyyah of Islam. Take care of remembering Allah and reciting the Qur'an, because it is your closeness (or status) in the heavens and your good fame on earth." Only Imam Ahmad collected this Hadith.
+
+## Maarif ul Quran
+
+. After specific mention of these two Prophets, the whole chain of prophets is referred to by the words, ثُمَّ قَفَّيْنَا عَلَىٰ آثَارِ‌هِم بِرُ‌سُلِنَا "Then We made Our messengers follow them one after the other". Lastly ` Isa (علیہ السلام) has been specifically mentioned, as he was the last among the Israelite prophets. Then the Last of all prophets Sayyidna Muhammad ﷺ and his Shari'ah has a pointed reference in the next verse.
+
+The special characteristics of the disciples of Prophet ` Isa (علیہ السلام) are given in part of verse 27 as follows: وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَ‌أْفَةً وَرَ‌حْمَةً (...and placed tenderness and mercy in the hearts of his followers) In other words, Allah inculcated two qualities in the hearts of the followers of Prophet ` Isa (علیہ السلام) and his Divine Book Injil [ Gospel ]: [ 1] tenderness and [ 2] mercy. As a result, they showed tenderness and compassion to one another. Or it could mean that they showed tenderness and kindness to the entire creation of Allah.
+
+Generally, the two words ra'fah (tenderness) and rahmah (mercy) are treated as synonyms or near-synonyms, but since they are employed here in opposition to each other, some lexicologists explained that the word ra'fah is stronger in degree than the word rahmah. Others have explained that there are two requirements of tenderness and mercy. The word ra'fah means to alleviate the calamity of someone, while the word rahmah means to give to someone what he needs. In short, ra'fah is concerned with repelling harm and rahmah is concerned with deriving benefit. As 'repelling harm' is normally prior to 'deriving benefit', ra'fah takes precedence over rahmah when the two words are expressed simultaneously.
+
+On this occasion, 'tenderness' and 'mercy' are mentioned as the special characteristics of the disciples [ Howariyyun ] of the Prophet ` Isa (علیہ السلام) . Similarly, some characteristics of the blessed Companions ؓ of the Holy Prophet Muhammad ﷺ are given in Surah Al-Fath, one of which is رُ‌حَمَاءُ بَيْنَهُمْ (...compassionate among themselves....48:29). But another characteristic of them is given before this as: أَشِدَّاءُ عَلَى الْكُفَّارِ‌ (...hard against the disbelievers ....48:29). The reason for this difference seems to be that there were no laws pertaining to jihad against the non-believers in the Shari'ah of the Prophet ` Isa (علیہ السلام) . Therefore, there was no occasion for them to be hard against the disbelievers. Allah knows best!
+
+Monasticism: An Analysis
+
+وَرَ‌هْبَانِيَّةً ابْتَدَعُوهَا (...As for monasticism, it was invented by them; ). The word rahbaniyyah (monasticism) is attributed to ruhban. The words rahib (singular) and ruhban (plural) mean 'the one who fears'. After Prophet ` Isa (علیہ السلام) ، transgression became common. In particular, the kings and the leaders publicly defied the laws of the Gospel. When the scholars and the righteous people among them attempted to stop them from doing evil deeds, they were put to death. Those that remained, felt that they would not be able to stop them, nor did they have the power of resistance. If they lived in society, there was every likelihood that their religion too would be destroyed. Therefore, they took upon themselves in earnest that they would give up all pleasures and comforts of this life including the legitimate ones. Thus they avoided marriage, abandoned any activity to earn livelihood and any effort to build homes, and took to jungles, mountains and caves, or took to nomadic life in order to protect their religion and follow their religious duties freely and completely. They did all this out of fear of God. Therefore, they were referred to as rahib or ruhban. Their practice is referred to as rahbaniyyah.
+
+As the Christians introduced monasticism under forced circumstances in order to protect their faith, it was not reproachable in its origin. But once anyone has imposed anything on himself, it becomes binding on him, and its violation is a sin. For example, making a vow for an act of worship is not obligatory. But if a person were to vow to do an act of worship or abstain from a lawful thing, it becomes binding on him in Shari'ah to maintain the vow; its violation becomes a sin. Some of the Christian monks invented monasticism with the best of intentions, but there were others who could not endure the hardships of monastic life and soon succumbed to the pursuit of material gains and physical pleasures when the general body of people believed in them, offered them gifts and oblations. History bears ample testimony to the fact that the monks who detested the system of marriage indulged in indecent acts and fornication. (The free intermingling of men and women in monasteries turned those places into centers of evil).
+
+The current verse denounces the practice of the monks who imposed monasticism upon themselves, and once they had imposed it, they should have observed its requirements which they did not.
+
+That there was nothing wrong originally in what they had introduced as rahbaniyyah is proved by a Hadith narrated by Sayyidna ` Abdullah Ibn Masud ؓ and recorded by Ibn Kathir with reference to Ibn Abi Hatim and Ibn Jarir رحمۃ اللہ علیہما who have cited a lengthy narration in which the Messenger of Allah ﷺ is reported to have said:
+
+"Allah has split the Children of Israel into seventy-two sects. Only three of them were saved from punishment. These are groups who, after Prophet ` Isa (علیہ السلام) ، stopped the oppressive kings and affluent and powerful transgressors from violating the Divine laws. Among those who raised the voice of Truth against them and invited them to the religion of Prophet ` Isa (علیہ السلام) ، the first group faced the oppressors with whatever power they had at their command, but they were defeated and killed. Then after them a second group stood against the tyrants and aggressors who did not have even that much fighting strength as the first group had. However they conveyed the Truth without caring for their lives. This group too was killed. Some of them were ripped apart with saws and others were burnt alive. But they, for the sake of Allah's pleasure, bore all pains and attained salvation. Then a third group stood against them. But this group was weak: They had no resources to fight the tyrants nor could they live in that corrupt society and follow their religion. Therefore, they took to the jungles and mountains, and became monks. It is to this third group that Allah refers in the current verse وَرَ‌هْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ ; 'As for monasticism, it was invented by them; We did not ordain it for them, ...'."
+
+This narration indicates that the people who originally adopted monasticism from among the Israelites and took care of its essentials and endured its hardships were among those who attained salvation.
+
+According to this interpretation, the present verse shows that the monasticism initially adopted by such people was not bad or evil in itself, though it was not a religious obligation either. They had made it obligatory on themselves at their own will and wish. The element of evil starts from the fact that after making it binding on themselves, most of them were not able to keep to its essentials. As a result, in keeping with the adage لِلاَکثرِ حُکمُ الکُلّ (Majority takes the status of all), the Qur'an attributed this evil aspect to the entire Israelites in that they invented it and could not practice it and did not take care of its requirements: حَقَّ رِ‌عَايَتِهَا (...but [ they adopted it ] to seek Allah's pleasure, then could not observe it as was due 57:27).
+
+It is also learnt from the above discussion that the word ibtida', derived from bid'ah, used in ابْتَدَعُوهَا (...it was invented by them ...) is used in its literal sense of invention, and not in its technical or religious sense of heresy. The religious concept of bid'ah (which refers to a baseless faith or practice that is made part of the religion) has been denounced in the following narration of the Holy Prophet ﷺ (Every religious innovation is deviation).
+
+The context of the verse is very clear about it. Let us first study the following sentence: وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَ‌أْفَةً وَرَ‌حْمَةً وَرَ‌هْبَانِيَّةً (And We placed in the hearts of his followers tenderness and mercy and the monasticism they had invented; We did not prescribe it for them, except to seek Allah's pleasure. Then they did not observe it as was due...57:27) (l) The context indicates that just as 'tenderness and mercy' are not evil qualities, likewise 'monasticism' which they adopted is not an evil quality in itself. Otherwise Allah would not have listed it alongside the favorable qualities of 'tenderness and mercy'. Scholars, like Qurtubi, who held monasticism as absolutely prohibited, had to face grammatical difficulties. They had to go out of their way to show that rahbaniyyah is not a part of the conjunctive expression joined together by the conjunction 'waw' [ and ] They treated the sentence starting with "...and monasticism..." as a separate sentence, and understood the verb ibtada' as omittted. The interpretation adopted above renders this construction unnecessary. That is why the Holy Qur'an does not reject their adoption of monasticism in principle, but their failure to keep it up, and take care of its rights and obligations. This interpretation is possible only if the word ibtida' (invention) is taken in its literal sense. Had it been employed in its religious or technical sense, the Qur'an would have denounced adoption of monasticism in itself, because bid'ah (innovation in religion) in its technical sense is deviation.
+
+(1) It should be noted that according to the grammatical construction of this verse, it can be translated in two ways. One translation is given above in the text. The second possible translation is that which is given here. Since the following discussion is based on this second translation, we have adpted it here instead of the translation given in the text. Mu hammadTaqi Usmani
+
+Sayyidna ` Abdullan Ibn Mas` ud's ؓ foregoing narration makes it clear that the groups that adopted monastic life attained salvation. If they were guilty of committing religious innovation, they would never have been counted among the saved ones, but rather among the deviant ones.
+
+Is rahbaniyyah (Monasticism) absolutely Prohibited or is it a relative Concept?
+
+The fact is that rahbaniyyah (translated as monasticism) generally means to give up some lawful things and pleasures. It has several stages, one of which is to treat a permissible thing as impermissible doctrinally or practically. This is distortion of religion. From this point of view, monasticism is absolutely prohibited as declared by the Holy Qur'an at several places, like verse [ 87] of Surah Al-Ma'idah that lays down the principle يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحَرِّ‌مُوا طَيِّبَاتِ مَا أَحَلَّ اللَّـهُ لَكُمْ. (0 believers, do not prohibit the good things which Allah has made lawful to you...) The prohibitive verb ('do not prohibit' ) in this verse indicates that it relates to a situation where a person holds unlawful what Allah has made lawful, either in his belief or in practice, and as such it will amount to distortion or perversion of the Divine laws.
+
+The second stage is when a person does not, dogmatically or practically, turn a lawful thing into unlawful, but gives it up for some mundane or religious reason. In mundane affairs, a person might give up eating a lawful thing on account of some disease. In religious matters, a person might give up the company of people and mixing with them, lest he should commit moral sins like lying and backbiting, or he might abandon some permissible things temporarily in order to suppress his base desires. This restriction is no more than a treatment of a spiritual disease. When the treatment is over, the restriction is no longer observed. Some Sufi adepts require a novice in the initial stages of his spiritual journey to exercise ascetic discipline, such as eating little, sleeping little and mixing little with people. This brings him to a state of greater harmony and balance [ I` tidal ]. This ascetic discipline is a 'means' and not an 'end' in itself. When the perfect balance is attained and the nafs (inner-self) is brought under control, and there is no longer the danger of committing sins, they are asked to give up the exercise. This in fact is not monasticism but taqwa or righteousness which the religion requires and was practiced by our predecessors, the blessed Companions, their followers and the leaders in religion.
+
+The third stage is when a person does not turn a permissible thing into unlawful. However, he abstains from its use under the belief that its giving up has more virtue and carries more reward, while such use is proved through Sunnah (the practice of the Holy Prophet ﷺ) This is in fact ghuluww (over-indulgence). Many of the Prophetic Traditions prohibit ghuluww.
+
+The Holy Prophet ﷺ is reported to have said: لَا رَھبَانِیُّۃَ فَہ الاِسلَامِ (There is no monasticism in Islam.) This relates to a situation where someone abandons permissible things with the mistaken notion that it will bring him reward. If the Children of Israel initiated monasticism for the protection of their religion, it will fall under the second category of righteousness. But the people of the book were given to ghuluww or practicing religious fanaticism. If they turned lawful into unlawful, they fell under the first category and are guilty of committing haram. If they fall under the third category, then too they are guilty of committing something that is condemned. Allah, the Pure and Exalted, knows best!
+
+## Personal Reflections

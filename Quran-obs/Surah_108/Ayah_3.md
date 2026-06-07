@@ -1,0 +1,181 @@
+---
+arabic_ayat: اِنَّ شَانِئَكَ هُوَ الۡاَبۡتَرُ‏
+sentence_translation: Only the one who hates you is truly cut off ˹from any goodness˺.
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: شَانِئَكَ
+    translation: 'your enemy '
+    transliteration: shāni-aka
+  3:
+    arabic: هُوَ
+    translation: he (is)
+    transliteration: huwa
+  4:
+    arabic: الۡاَبۡتَرُ‏
+    translation: the one cut off
+    transliteration: l-abtaru
+---
+
+## Context
+
+To understand **The Abundance** (Al-Kawthar) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kawthar is a **Makkah** surah—revealed as the 15th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Qatadah all said, "This Ayah was revealed about Al-'As bin Wa'il. Whenever the Messenger of Allah ﷺ would be mentioned (in his presence) he would say, 'Leave him, for indeed he is a man who is cut off having no descendants. So when he dies he will not be remembered.' Therefore, Allah revealed this Surah." Shamir bin 'Atiyah said, "This Surah was revealed concerning 'Uqbah bin Abi Mu'ayt."
+
+Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin Al-Ashraf and a group of the disbelievers of the Quraysh."
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. The Enemy of the Prophet ﷺ is Cut Off Verse [ 108:3] إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ‌ (Surely, it is your enemy whose traces are cut off.) The word shani' as used in the original is derived from sha'n and means 'one who hates, traducer, insulter'.
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ - فَصَلِّ لِرَبِّكَ وَانْحَرْ - إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+(1. Verily, We have granted you Al-Kawthar.)(2. Therefore turn in prayer to your Lord and sacrifice.)(3. For he who hates you, he will be cut off.)
+
+Muslim, Abu Dawud and An-Nasa'i, all recorded from Anas that he said, "While we were with the Messenger of Allah ﷺ in the Masjid, he dozed off into a slumber. Then he lifted his head smiling. We said, 'O Messenger of Allah! What has caused you to laugh?' He said,
+
+لَقَدْ أُنْزِلَتْ عَلَيَّ آنِفًا سُورَةٌ
+
+(Verily, a Surah was just revealed to me.) Then he recited,
+
+إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ - فَصَلِّ لِرَبِّكَ وَانْحَرْ - إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+(Verily, We have granted you Al-Kawthar. Therefore turn in prayer to your Lord and sacrifice. For he who hates you, he will be cut off.)
+
+Then he said,
+
+أَتَدْرُونَ مَا الْكَوْثَرُ؟
+
+(Do you all know what is Al-Kawthar?) We said, 'Allah and His Messenger know best.' He said,
+
+فَإِنَّهُ نَهَرٌ وَعَدَنِيهِ رَبِّي عَزَّ وَجَلَّ، عَلَيْهِ خَيْرٌ كَثِيرٌ، هُوَ حَوْضٌ تَرِدُ عَلَيْهِ أُمَّتِي يَوْمَ الْقِيَامَةِ، آنِيَتُهُ عَدَدُ النُّجُومِ فِي السَّمَاءِ، فَيُخْتَلَجُ الْعَبْدُ مِنْهُمْ فَأَقُولُ: رَبِّ إِنَّهُ مِنْ أُمَّتِي، فَيَقُولُ: إِنَّكَ لَا تَدْرِي مَا أَحْدَثَ بَعْدَكَ
+
+(Verily, it is a river that my Lord, the Mighty and Majestic, has promised me and it has abundant goodness. It is a pond where my Ummah will be brought to on the Day of Judgement. Its containers are as numerous as the stars in the sky. Then a servant of Allah from among them will be (prevented from it) and I will say: "O Lord! Verily, he is from my Ummah (followers)." Then He (Allah) will say: "Verily, you do not know what he introduced (or innovated) after you.)"
+
+This is the wording of Muslim.
+
+Ahmad recorded this Hadith from Muhammad bin Fudayl, who reported from Al-Mukhtar bin Fulful, who reported it from Anas bin Malik.
+
+Imam Ahmad also recorded from Anas that the Messenger of Allah ﷺ said,
+
+دَخَلْتُ الْجَنَّةَ فَإِذَا أَنَا بِنَهْرٍ حَافَتَاهُ خِيَامُ اللُّؤْلُؤِ، فَضَرَبْتُ بِيَدِي إِلَى مَا يَجْرِي فِيهِ الْمَاءُ، فَإِذَا مِسْكٌ أَذْفَرُ، قُلْتُ: مَاهَذَا يَا جِبْرِيلُ؟ قَالَ: هَذَا الْكَوْثَرُ الَّذِي أَعْطَاكَهُ اللهُ عَزَّ وَجَلَّ
+
+(I entered Paradise and I came to a river whose banks had tents made of pearls. So I thrust my hand into its flowing water and found that it was the strongest (smell) of musk. So I asked, "O Jibril! What is this?" He replied, "This is Al-Kawthar which Allah, the Mighty and Majestic has given you.")
+
+Al-Bukhari recorded this in his Sahih, and so did Muslim, on the authority of Anas bin Malik. In their version Anas said, "When the Prophet ﷺ was taken up to the heaven, he said,
+
+أَتَيْتُ عَلَى نَهْرٍ حَافَتَاهُ قِبَابُ اللُّؤْلُؤِ الْمُجَوَّفِ فَقُلْتُ: مَا هَذَا يَا جِبْرِيلُ؟ قَالَ: هَذَا الْكَوْثَرُ
+
+(I came to a river whose banks had domes of hollowed pearl. I said: "O Jibril! What is this?" He replied: "This is Al-Kawthar.")" This is the wording of Al-Bukhari.
+
+Ahmad recorded from Anas that a man said, "O Messenger of Allah! What is Al-Kawthar?" He replied,
+
+هُوَ نَهْرٌ فِي الْجَنَّةِ أَعْطَانِيهِ رَبِّي، لَهُوَ أَشَدُّ بَيَاضًا مِنَ اللَّبَنِ، وَأَحْلَى مِنَ الْعَسَلِ، فِيهِ طُيُورٌ أَعْنَاقُهَا كَأَعْنَاقِ الْجُزُرِ
+
+(It is a river in Paradise which my Lord has given me. It is whiter than milk and sweeter than honey. There are birds in it whose necks are (long) like carrots.)
+
+Umar said, "O Messenger of Allah! Verily, they (the birds) will be beautiful." The Prophet ﷺ replied,
+
+آكِلُهَا أَنْعَمُ مِنْهَا يَا عُمَرُ
+
+(The one who eats them (i.e., the people of Paradise) will be more beautiful than them, O 'Umar.)
+
+Al-Bukhari recorded from Sa'id bin Jubayr that Ibn 'Abbas said about Al-Kawthar, "It is the good which Allah gave to him (the Prophet)." Abu Bishr said, "I said to Sa'id bin Jubayr, 'Verily, people are claiming that it is a river in Paradise.'" Sa'id replied, 'The river which is in Paradise is part of the goodness which Allah gave him.'"
+
+Al-Bukhari also recorded from Sa'id bin Jubayr that Ibn 'Abbas said, "Al-Kawthar is the abundant goodness." This explanation includes the river and other things as well. Because the word Al-Kawthar comes from the word Kathrah (abundance) and it (Al-Kawthar) linguistically means an abundance of goodness. So from this goodness is the river (in Paradise).
+
+Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said,
+
+الْكَوْثَرُ نَهْرٌ فِي الْجَنَّةِ حَافَتَاهُ مِنْ ذَهَبٍ، وَالْمَاءُ يَجْرِي عَلَى اللُّؤْلُؤِ، وَمَاؤُهُ أَشَدُّ بَيَاضًا مِنَ اللَّبَنِ، وَأَحْلَى مِنَ الْعَسَلِ
+
+(Al-Kawthar is a river in Paradise whose banks are of gold and it runs over pearls. Its water is whiter than milk and sweeter than honey.)
+
+This Hadith was recorded in this manner by At-Tirmidhi, Ibn Majah, Ibn Abi Hatim and Ibn Jarir. At-Tirmidhi said, "Hasan Sahih."
+
+Then Allah says,
+
+فَصَلِّ لِرَبِّكَ وَانْحَرْ
+
+(Therefore turn in prayer to your Lord and sacrifice.)
+
+meaning, 'just as We have given you the abundant goodness in this life and the Hereafter – and from that is the river that has been described previously – then make your obligatory and optional prayer, and your sacrifice (of animals) solely and sincerely for your Lord. Woship Him alone and do not associate any partner with him. And sacrifice pronouncing His Name alone, without ascribing any partner to Him.' This is as Allah says,
+
+قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ - لَا شَرِيكَ لَهُ ۖ وَبِذَٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ
+
+(Say: "Verily, my Salah, my sacrifice, my living, and my dying are for Allah, the Lord of all that exists. He has no partner. And of this I have been commanded, and I am the first of the Muslims.")(6:162-163)
+
+Ibn 'Abbas, 'Ata,' Mujahid, 'Ikrimah and Al-Hasan all said, "This means with this the Budn should be sacrificed." Qatadah, Muhammad bin Ka'b Al-Qurazi, Ad-Dahhak, Ar-Rabi', 'Ata' Al-Khurasani, Al-Hakam, Isma'il bin Abi Khalid and others from the Salaf have all said the same. This is the opposite of the way of the idolators, prostrating to other than Allah and sacrificing in other than His Name. Allah says,
+
+وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ
+
+(And do not eat from what Allah's Name has not been pronounced over, indeed that is Fisq.)(6:121)
+
+The Enemy of the Prophet (ﷺ) is Cut Off
+
+Allah says,
+
+إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+(For he who hates you, he will be cut off.) meaning, 'indeed he who hates you, O Muhammad, and he hates what you have come with of guidance, truth, clear proof and manifest light, he is the most cut off, meanest, lowliest person who will not be remembered.
+
+Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Qatadah all said, "This Ayah was revealed about Al-'As bin Wa'il. Whenever the Messenger of Allah ﷺ would be mentioned (in his presence) he would say, 'Leave him, for indeed he is a man who is cut off having no descendants. So when he dies he will not be remembered.' Therefore, Allah revealed this Surah." Shamir bin 'Atiyah said, "This Surah was revealed concerning 'Uqbah bin Abi Mu'ayt."
+
+Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin Al-Ashraf and a group of the disbelievers of the Quraysh."
+
+Al-Bazzar recorded that Ibn 'Abbas said, "Ka'b bin Al-Ashraf came to Makkah and the Quraysh said to him, 'You are the leader of them (the people). What do you think about this worthless man who is cut off from his people? He claims that he is better than us while we are the people of the place of pilgrimage, the people of custodianship (of the Ka'bah), and the people who supply water to the pilgrims.' He replied, 'You all are better than him.' So Allah revealed,
+
+إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+(For he who hates you, he will be cut off.)"
+
+This is how Al-Bazzar recorded this incident and its chain of narration is authentic.
+
+It has been reported that 'Ata' said, "This Surah was revealed about Abu Lahab when a son of the Messenger of Allah ﷺ died. Abu Lahab went to the idolators and said, 'Muhammad has been cut off (i.e., from progeny) tonight.' So concerning this Allah revealed,
+
+إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+(For he who hates you, he will be cut off.)" As-Suddi said, "When the male sons of a man died the people used to say, 'He has been cut off.' So, when the sons of the Messenger of Allah ﷺ died they said, 'Muhammad has been cut off.' Thus, Allah revealed,
+
+إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+
+(For he who hates you, he will be cut off.)"
+
+So they thought in their ignorance that if his sons died, his remembrance would be cut off. Allah forbid! To the contrary, Allah preserved his remembrance for all the world to see, and He obligated all the servants to follow his Law. This will continue for all of time until the Day of Gathering and the coming of the Hereafter. May the blessings of Allah and His peace be upon him forever until the Day of Assembling.
+
+This is the end of the Tafsir of Surat Al-Kawthar, and all praise and blessings are due to Allah.
+
+## Maarif ul Quran
+
+The Enemy of the Prophet ﷺ is Cut Off
+
+Verse [ 108:3] إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ‌ (Surely, it is your enemy whose traces are cut off.) The word shani' as used in the original is derived from sha'n and means 'one who hates, traducer, insulter'. This verse was revealed in connection with the unbelievers who used to taunt the Messenger of Allah ﷺ and referred to him as 'abtar'. Most narratives identify the traducer as ` As Ibn Wa'il, others identify him as 'Uqbah and yet others identify him as Ka'b Ibn Ashraf. Allah granted the Messenger of Allah ﷺ the Kauthar, that is, abundant goodness which includes a multitude of children. How wonderful are the works of Allah! There is no scarcity of lineal children of the holy Prophet ﷺ . Furthermore, a Prophet ﷺ is the spiritual father of his entire Ummah which comprises his spiritual children. The Holy Prophet ﷺ is the spiritual father of his entire Ummah till the end of time and as such will have the largest number of spiritual children compared to the Ummahs of the previous Prophets (علیہم السلام) . In this way, the enemy has been rebutted, on the one hand, and, on the other hand, their argument has been rebuffed that it is not the Prophet ﷺ ، but his enemies are, 'abtar' or cut off.
+
+Note
+
+Imagine how Allah has raised the name of the Holy Prophet ﷺ and exalted his reputation in every nook and corner of the world since the inception of his prophet-hood till today, and it will continue to be so until the end of time. His blessed name is recited along with Allah's name five times a day from the minarets. In the Hereafter, he will be granted the (Al-Maqam Al-Mahmud) Praised Station where he will make the Grand Intercession on behalf of the entire progeny of 'Adam (علیہ السلام) . On the contrary, ask the world history: Where are the children of ` As Ibn Wa'il? Where are the children of Ka'b Ibn Ashraf? where are the children of 'Uqbah, and what happened to their families? Their very own names have been lost to the world. No one cares to remember them. They have become unknown who thought that soon the Holy Prophet ﷺ will become unknown. They have left this world and the strings of their lineage have been cut off. Their names have been preserved in Islamic traditions only for purposes of interpretation of relevant verses. فَاعْتَبِرُ‌وا يَا أُولِي الْأَبْصَارِ‌ "So, 0 People of insight, take note !" [ 59:2].
+
+Al-Hamdulillah
+
+The Commentary on
+
+Surah Al-Kauthar
+
+Ends here
+
+## Personal Reflections

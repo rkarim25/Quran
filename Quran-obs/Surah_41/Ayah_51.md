@@ -1,0 +1,137 @@
+---
+arabic_ayat: وَاِذَاۤ اَنۡعَمۡنَا عَلَى الۡاِنۡسَانِ اَعۡرَضَ وَنَاٰ بِجَانِبِهٖ​ۚ
+  وَاِذَا مَسَّهُ الشَّرُّ فَذُوۡ دُعَآءٍ عَرِيۡضٍ‏
+sentence_translation: When We show favour to someone, they turn away, acting arrogantly.
+  And when touched with evil, they make endless prayers ˹for good˺.
+word_by_word:
+  1:
+    arabic: وَاِذَاۤ
+    translation: And when
+    transliteration: wa-idhā
+  2:
+    arabic: اَنۡعَمۡنَا
+    translation: We bestow favor
+    transliteration: anʿamnā
+  3:
+    arabic: عَلَى
+    translation: upon
+    transliteration: ʿalā
+  4:
+    arabic: الۡاِنۡسَانِ
+    translation: man
+    transliteration: l-insāni
+  5:
+    arabic: اَعۡرَضَ
+    translation: 'he turns away '
+    transliteration: aʿraḍa
+  6:
+    arabic: وَنَاٰ
+    translation: and distances himself
+    transliteration: wanaā
+  7:
+    arabic: بِجَانِبِهٖ​ۚ
+    translation: and distances himself
+    transliteration: bijānibihi
+  8:
+    arabic: وَاِذَا
+    translation: but when
+    transliteration: wa-idhā
+  9:
+    arabic: مَسَّهُ
+    translation: touches him
+    transliteration: massahu
+  10:
+    arabic: الشَّرُّ
+    translation: the evil
+    transliteration: l-sharu
+  11:
+    arabic: فَذُوۡ
+    translation: then (he is) full
+    transliteration: fadhū
+  12:
+    arabic: دُعَآءٍ
+    translation: (of) supplication
+    transliteration: duʿāin
+  13:
+    arabic: عَرِيۡضٍ‏
+    translation: lengthy
+    transliteration: ʿarīḍin
+---
+
+## Context
+
+To understand **Explained in Detail** (Fussilat) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Man does not get tired of asking for good; but if an evil touches him, then he gives up all hope and is lost in despair (49)And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit); I think not that the Hour will be established. فَذُو دُعَاءٍ عَرِ‌يضٍ (he is full of broad prayers - 51.) The nature of an infidel is being stated here that when Allah Almighty bestows upon him the good things: wealth, honor and peace, the infidel gets so involved in them and so intoxicated with them that he becomes even more distant from the true Benefactor, Allah Almighty, and his pri…
+
+## Tafsir Ibn Kathir
+
+Man does not get tired of asking for good; but if an evil touches him, then he gives up all hope and is lost in despair (49)And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit); I think not that the Hour will be established. But if I am brought back to my Lord, surely there will be for me the best with Him. "Then, We verily will show to the disbelievers what they have done, and We shall make them taste a severe torment (50)And when We show favor to man, he turns away and becomes arrogant; but when evil touches him, then he has recourse to long supplications (51)
+
+Man is fickle when Ease comes to Him after Difficulty
+
+Allah tells us that man never gets bored of asking his Lord for good things, such as wealth, physical health, etc., but if evil touches him – i.e., trials and difficulties or poverty –
+
+فَيَئُوسٌ قَنُوطٌ
+
+(then he gives up all hope and is lost in despair.), i.e., he thinks that he will never experience anything good again.
+
+وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِنَّا مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِي
+
+(And truly, if We give him a taste of mercy from Us, after some adversity has touched him, he is sure to say: "This is due to my (merit)...") means, if something good happens to him or some provision comes to him after a period of difficulty, he says, 'this is because of me, because I deserve this from my Lord.'
+
+وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً
+
+(I think not that the Hour will be established.) means, he does not believe that the Hour will come. So when he is given some blessing, he becomes careless, arrogant and ungrateful, as Allah says:
+
+كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ - أَنْ رَآهُ اسْتَغْنَىٰ
+
+(Nay! Verily, man does transgress. Because he considers himself self-sufficient.)(96:6-7)
+
+وَلَئِنْ رُجِعْتُ إِلَىٰ رَبِّي إِنَّ لِي عِنْدَهُ لَلْحُسْنَىٰ
+
+(But if I am brought back to my Lord, surely there will be for me the best with Him.) means, 'if there is a Hereafter after all, then my Lord will be generous and kind to me just as He was in this world.' So he expects Allah to do him favors in spite of his bad deeds and lack of certain faith. Allah says:
+
+فَلَنُنَبِّئَنَّ الَّذِينَ كَفَرُوا بِمَا عَمِلُوا وَلَنُذِيقَنَّهُمْ مِنْ عَذَابٍ غَلِيظٍ
+
+(Then, We verily will show to the disbelievers what they have done, and We shall make them taste a severe torment.) Thus Allah threatens punishment and vengeance to those whose conduct and belief is like that.
+
+وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ
+
+(And when We show favor to man, he turns away and becomes arrogant;) means, he turns away from doing acts of obedience and is too proud to obey the commands of Allah. This is like the Ayah:
+
+فَتَوَلَّىٰ بِرُكْنِهِ
+
+(But [Fir'awn] turned away along with his hosts)(51:39).
+
+وَإِذَا مَسَّهُ الشَّرُّ
+
+(but when evil touches him,) means, difficulties,
+
+فَذُو دُعَاءٍ عَرِيضٍ
+
+(then he has recourse to long supplications.) means, he asks at length for one thing. Long supplications are those which are long on words and short on meaning. The opposite is concise speech which is brief but full of meaning. And Allah says:
+
+وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ ۚ
+
+(And when harm touches man, he invokes Us, lying on his side, or sitting or standing. But when We have removed his harm from him, he passes on as if he had never invoked Us for a harm that touched him!)(10:12)
+
+## Maarif ul Quran
+
+Commentary
+
+فَذُو دُعَاءٍ عَرِ‌يضٍ (he is full of broad prayers - 51.) The nature of an infidel is being stated here that when Allah Almighty bestows upon him the good things: wealth, honor and peace, the infidel gets so involved in them and so intoxicated with them that he becomes even more distant from the true Benefactor, Allah Almighty, and his pride and heedlessness increase even more. But when he faces some distress, then he starts long and lengthy supplications to Allah Almighty. Here the Qur'an has used the word ` broad' to describe their lengthy supplications, because what is wider will automatically be longer too. That is why, when describing the span of Paradise, Allah Almighty has used the word عَرْ‌ضُهَا السَّمَاوَاتُ وَالْأَرْ‌ضُ (a paradise the width of which spans the heavens and the earth - 3: 133)
+
+Lengthy supplications in themselves are praiseworthy and desirable as is proved by authentic ahadith about the etiquettes of supplication where it is mentioned that, while praying to Allah Ta’ ala, beseeching tearfully and repeatedly is desirable. (Bukhari and Muslim) Therefore, the denunciation of the infidel is actually not for lengthy supplications, but for his mean disposition that when Allah blesses him with His bounties, he gets intoxicated with arrogance and pride, and when he faces distress, he keeps on praying in a way of wailing and complaining about his difficulties, as is the habit of heedless people; the intent is not to supplicate, but to wail about his misfortunes and to keep on telling the people about it. (Allah knows best).
+
+## Personal Reflections

@@ -1,0 +1,203 @@
+---
+arabic_ayat: بَلِ اللّٰهُ مَوۡلٰٮكُمۡ​ۚ وَهُوَ خَيۡرُ النّٰصِرِيۡنَ‏
+sentence_translation: But no! Allah is your Guardian, and He is the best Helper.
+word_by_word:
+  1:
+    arabic: بَلِ
+    translation: Nay
+    transliteration: bali
+  2:
+    arabic: اللّٰهُ
+    translation: Allah
+    transliteration: l-lahu
+  3:
+    arabic: مَوۡلٰٮكُمۡ​ۚ
+    translation: (is) your Protector
+    transliteration: mawlākum
+  4:
+    arabic: وَهُوَ
+    translation: and He
+    transliteration: wahuwa
+  5:
+    arabic: خَيۡرُ
+    translation: (is the) best
+    transliteration: khayru
+  6:
+    arabic: النّٰصِرِيۡنَ‏
+    translation: (of) the Helpers
+    transliteration: l-nāṣirīna
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 150, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+O you who believe! When Muslims faced a temporary setback during the battle of Uhud and rumours went around that the Prophet ﷺ has been martyred, the hypocrites found an occasion for mischief under the shadows of a battle nearly lost.
+
+## Tafsir Ibn Kathir
+
+O you who believe! If you obey those who disbelieve, they will send you back on your heels, and you will turn back as losers (149)Nay, Allah is your protector, and He is the best of helpers (150)We shall cast terror into the hearts of those who disbelieve, because they joined others in worship with Allah, for which He sent no authority; their abode will be the Fire and how evil is the abode of the wrongdoers (151)And Allah did indeed fulfill His promise to you when you were killing them (your enemy) with His permission; until Fashiltum and fell to disputing about the order, and disobeyed after He showed you what you love. Among you are some that desire this world and some that desire the Hereafter. Then He made you flee from them, that He might test you. But surely, He forgave you, and Allah is Most Gracious to the believers (152)(And remember) when you ran away without even casting a side glance at anyone, and the Messenger was in your rear calling you back. There did Allah give you one distress after another by way of requital, to teach you not to grieve for that which had escaped you, nor for what struck you. And Allah is Well-Aware of all that you do (153)
+
+The Prohibition of Obeying the Disbelievers; the Cause of Defeat at Uhud
+
+Allah warns His believing servants against obeying the disbelievers and hypocrites, because such obedience leads to utter destruction in this life and the Hereafter. This is why Allah said,
+
+إِن تُطِيعُوا الَّذِينَ كَفَرُوا يَرُدُّوكُمْ عَلَىٰ أَعْقَابِكُمْ فَتَنقَلِبُوا خَاسِرِينَ
+
+(If you obey those who disbelieve, they will send you back on your heels, and you will turn back (from faith) as losers)[3:149].
+
+Allah also commands the believers to obey Him, take Him as their protector, seek His aid and trust in Him. Allah said,
+
+بَلِ اللَّهُ مَوْلَاكُمْ وَهُوَ خَيْرُ النَّاصِرِينَ
+
+(Nay, Allah is your protector, and He is the best of helpers).
+
+Allah next conveys the good news that He will put fear of the Muslims, and feelings of subordination to the Muslims in the hearts of their disbelieving enemies, because of their Kufr and Shirk. And Allah has prepared torment and punishment for them in the Hereafter. Allah said,
+
+سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ بِمَا أَشْرَكُوا بِاللَّهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَمَأْوَاهُمُ النَّارُ وَبِئْسَ مَثْوَى الظَّالِمِينَ
+
+(We shall cast terror into the hearts of those who disbelieve, because they joined others in worship with Allah, for which He sent no authority; their abode will be the Fire and how evil is the abode of the wrongdoers).
+
+In addition, the Two Sahihs recorded that Jabir bin 'Abdullah said that the Messenger of Allah ﷺ said,
+
+أُعْطِيتُ خَمْسًا لَمْ يُعْطَهُنَّ أَحَدٌ مِنَ الْأَنْبِيَاءِ قَبْلِي: نُصِرْتُ بِالرُّعْبِ مَسِيرَةَ شَهْرٍ، وَجُعِلَتْ لِيَ الْأَرْضُ مَسْجِدًا وَطَهُورًا، وَأُحِلَّتْ لِيَ الْغَنَائِمُ، وَأُعْطِيتُ الشَّفَاعَةَ، وَكَانَ النَّبِيُّ يُبْعَثُ إِلى قَوْمِهِ خَاصَّةً وَبُعِثْتُ إِلى النَّاسِ عَامَّةً
+
+(I was given five things that no other Prophet before me was given. I was aided with fear the distance of one month, the earth was made a Masjid and clean place for me, I was allowed war booty, I was given the Intercession, and Prophets used to be sent to their people, but I was sent to all mankind particularly.)
+
+Allah said,
+
+وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ
+
+(And Allah did indeed fulfill His promise to you)[3:152],
+
+in the beginning of the day of Uhud,
+
+إِذْ تَحُسُّونَهُم
+
+(when you were killing them), slaying your enemies,
+
+بِإِذْنِهِ
+
+(with His permission), for He allowed you to do that against them,
+
+حَتَّىٰ إِذَا فَشِلْتُمْ
+
+(until when you Fashiltum). Ibn Jurayj said that Ibn 'Abbas said that Fashiltum means, 'lost courage'.
+
+وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُم
+
+(and fell to disputing about the order, and disobeyed) such as the mistake made by the archers,
+
+مِّن بَعْدِ مَا أَرَاكُم مَّا تُحِبُّونَ
+
+(after He showed you what you love), that is, victory over the disbelievers,
+
+مِنكُم مَّن يُرِيدُ الدُّنْيَا
+
+(Among you are some that desire this world) referring to those who sought to collect the booty when they saw the enemy being defeated,
+
+وَمِنكُم مَّن يُرِيدُ الْآخِرَةَ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ
+
+(and some that desire the Hereafter. Then He made you flee from them, that He might test you).
+
+This Ayah means, Allah gave them the upper hand to try and test you, O believers,
+
+وَلَقَدْ عَفَا عَنكُمْ
+
+(but surely, He forgave you),
+
+He forgave the error you committed, because, and Allah knows best, the idolators were many and well supplied, while Muslims had few men and few supplies.
+
+Al-Bukhari recorded that Al-Bara' said, "We met the idolators on that day (Uhud) and the Prophet ﷺ appointed 'Abdullah bin Jubayr as the commander of the archers. He instructed them, 'Retain your position, and if you see that we have defeated them, do not abandon your positions. If you see that they defeated us, do not rush to help us.' The disbelievers gave flight when we met them, and we saw their women fleeing up the mountain while lifting up their clothes revealing their anklets and their legs. So, the companions (of 'Abdullah bin Jubayr) said, 'The booty, the booty!' 'Abdullah bin Jubayr said, 'Allah's Messenger ﷺ commanded me not to allow you to abandon your position.' They refused to listen, and when they left their position, Muslims were defeated and seventy of them were killed. Abu Sufyan shouted, 'Is Muhammad present among these people?' The Prophet ﷺ said, 'Do not answer him.' Then he asked, 'Is the son of Abu Quhafah (Abu Bakr) present among these people?' The Prophet ﷺ said, 'Do not answer him.' He asked again, 'Is the son of Al-Khattab ('Umar) present among these people? As for these (men), they have been killed, for had they been alive, they would have answered me.' 'Umar could not control himself and said (to Abu Sufyan), 'You lie, O enemy of Allah! The cause of your misery is still present.' Abu Sufyan said, 'O Hubal, be high!' On that the Prophet ﷺ said (to his Companions), 'Answer him back.' They said, 'What shall we say?' He said, 'Say, Allah is Higher and more Sublime.' Abu Sufyan said, 'We have the (idol) Al-'Uzza, and you have no 'Uzza.' The Prophet ﷺ said, 'Answer him back.' They asked, 'What shall we say?' He said, 'Say, Allah is our protector and you have no protector.' Abu Sufyan said, 'Our victory today is vengeance for yours in the battle of Badr, and in war (the victory) is always undecided and is shared in turns by the belligerents. You will find some of your killed men mutilated, but I did not urge my men to do so, yet I do not feel sorry for their deed.'" Only Al-Bukhari collected this Hadith using this chain of narration.
+
+Muhammad bin Ishaq said that, 'Abdullah bin Az-Zubayr narrated that Az-Zubayr bin Al-'Awwam said, "By Allah! I saw the female servants and female companions of Hind (Abu Sufyan's wife) when they uncovered their legs and gave flight. At that time, there was no big or small effort separating us from capturing them. However, the archers went down the mount when the enemy gave flight from the battlefield, seeking to collect the booty. They uncovered our back lines to the horsemen of the disbelievers, who took the chance and attacked us from behind. Then a person shouted, 'Muhammad has been killed.' So we pulled back, and the disbelievers followed us, after we had killed those who carried their flag, and none of them dared to come close the flag, until then.'" Muhammad bin Ishaq said next, "The flag of the disbelievers was left on the ground until 'Amrah bint 'Alqamah Al-Harithiyyah picked it up and gave it to the Quraysh who held it."
+
+Allah said,
+
+ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ
+
+(Then He made you flee from them, that He might test you)[3:152].
+
+Al-Bukhari recorded that Anas bin Malik said, "My uncle Anas bin An-Nadr was absent from the battle of Badr. He said, 'I was absent from the first battle the Prophet ﷺ fought (against the pagans). (By Allah) if Allah gives me a chance to fight along with the Messenger of Allah, then Allah will see how (bravely) I will fight.' On the day of Uhud when the Muslims turned their backs and fled, he said, 'O Allah! I apologize to You for what these (meaning the Muslims) have done, and I denounce what these pagans have done.' Then he advanced lifting his sword, and when Sa'd bin Mu'adh met him, he said to him, 'O Sa'd bin Mu'adh! Where are you! Paradise! I am smelling its aroma coming from before (Mount) Uhud,' and he went forth, fought and was killed. We found more than eighty stab wounds, sword blows or arrow holes on his body, which was mutilated so badly that none except his sister could recognize him, and she could only do so by his fingers or by a mole." This is the narration reported by Al-Bukhari, Muslim also collected a similar narration from Thabit from Anas.
+
+The Defeat that the Muslims Suffered During the Battle of Uhud
+
+Allah said,
+
+إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ
+
+((And remember) when you (Tus'iduna) ran away dreadfully without casting even a side glance at anyone), and Allah made the disbelievers leave you after you went up the mount, escaping your enemy. Al-Hasan and Qatadah said that, Tus'iduna, means, 'go up the mountain'.
+
+وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ
+
+(without even casting a side glance at anyone) meaning, you did not glance at anyone else due to shock, fear and fright.
+
+وَالرَّسُولُ يَدْعُوكُمْ فِي أُخْرَاكُمْ
+
+(and the Messenger was in your rear calling you back), for you left him behind you, while he was calling you to stop fleeing from the enemy and to return and fight.
+
+As-Suddi said, "When the disbelievers attacked Muslim lines during the battle of Uhud and defeated them, some Muslims ran away to Al-Madinah, while some of them went up Mount Uhud, to a rock and stood on it. On that, the Messenger of Allah ﷺ kept heralding, 'Come to me, O servants of Allah! Come to me, O servants of Allah!' Allah mentioned that the Muslims went up the Mount and that the Prophet ﷺ called them to come back, and said,
+
+إِذْ تُصْعِدُونَ وَلَا تَلْوُونَ عَلَىٰ أَحَدٍ وَالرَّسُولُ يَدْعُوكُمْ فِي أُخْرَاكُمْ
+
+((And remember) when you ran away without even casting a side glance at anyone, and the Messenger was in your rear calling you back)." Similar was said by Ibn 'Abbas, Qatadah, Ar-Rabi' and Ibn Zayd.
+
+The Ansar and Muhajirin Defended the Messenger (ﷺ)
+
+Al-Bukhari recorded that Qays bin Abi Hazim said, "I saw Talhah's hand, it was paralyzed, because he shielded the Prophet ﷺ with it." meaning on the day of Uhud. It is recorded in the Two Sahihs that Abu 'Uthman An-Nahdi said, "On that day (Uhud) during which the Prophet ﷺ fought, only Talhah bin 'Ubaydullah and Sa'd remained with the Prophet."
+
+Sa'id bin Al-Musayyib said, "I heard Sa'd bin Abi Waqqas saying, 'The Messenger of Allah ﷺ gave me arrows from his quiver on the day of Uhud and said, 'Shoot, may I sacrifice my father and mother for you.'" Al-Bukhari also collected this Hadith. The Two Sahihs recorded that Sa'd bin Abi Waqqas said, "On the day of Uhud, I saw two men wearing white clothes, one to the right of the Prophet ﷺ and one to his left, who were defending the Prophet fiercely. I have never seen these men before or after that day." Meaning angels Jibril and Mika'il, peace be upon them.
+
+Abu Al-Aswad said that, 'Urwah bin Az-Zubayr said, "Ubayy bin Khalaf of Bani Jumah swore in Makkah that he would kill the Messenger of Allah ﷺ. When the Messenger ﷺ was told of his vow, he said, 'Rather, I shall kill him, Allah willing.' On the day of Uhud, Ubayy came while wearing iron shields and proclaiming, 'May I not be saved, if Muhammad is saved.' He then headed to the direction of the Messenger of Allah ﷺ intending to kill him, but Mus'ab bin 'Umayr, from Bani Abd Ad-Dar, intercepted him and shielded the Prophet ﷺ with his body, and Mus'ab bin 'Umayr was killed. The Messenger of Allah ﷺ saw Ubayy's neck exposed between the shields and helmet, stabbed him with his spear, and Ubayy fell from his horse to the ground. However, no blood spilled from his wound. His people came and carried him away while he was moaning like an ox. They said to him, 'Why are you so anxious, it is only a flesh wound' Ubayy mentioned to them the Prophet's vow, 'Rather, I shall kill Ubayy', then commented, 'By He in Whose Hand is my soul! If what hit me hits the people of Dhul-Majaz (a popular pre-Islamic marketplace), they would all have perished.' He then died and went to the Fire,
+
+فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ
+
+(So, away with the dwellers of the blazing Fire!)[67:11]."
+
+This was collected by Musa bin 'Uqbah from Az-Zuhri from Sa'id bin Al-Musayyib.
+
+It is recorded in the Two Sahih that when he was asked about the injuries the Messenger ﷺ sustained [in Uhud], Sahl bin Sa'd said, "The face of Allah's Messenger ﷺ was injured, his front tooth was broken and his helmet was smashed on his head. Therefore, Fatimah, the daughter of Allah's Messenger ﷺ washed off the blood while 'Ali was pouring water on her hand. When Fatimah saw that the bleeding increased more by the water, she took a mat, burnt it, and placed the ashes in the wound of the Prophet ﷺ and the blood stopped oozing out." Allah said next,
+
+فَأَثَابَكُمْ غَمًّا بِغَمٍّ
+
+(There did Allah give you one distress after another)[3:153],
+
+He gave you grief over your grief. Ibn 'Abbas said, 'The first grief was because of the defeat, especially when it was rumored that Muhammad ﷺ was killed. The second grief was when the idolators went up the mount and The Messenger of Allah ﷺ said, 'O Allah! It is not for them to rise above us.'"
+
+Abdur-Rahman bin 'Awf said, "The first distress was because of the defeat and the second when a rumor started that Muhammad ﷺ was killed, which to them, was worse than defeat." Ibn Marduwyah recorded both of these. Mujahid and Qatadah said, "The first distress was when they heard that Muhammad ﷺ was killed and the second when they suffered casualties and injury." It has also been reported that Qatadah and Ar-Rabi' bin Anas said that it was the opposite [order]. As-Suddi said that the first distress was because of the victory and booty that they missed and the second because of the enemy rising above them (on the mount). Allah said,
+
+لِّكَيْلَا تَحْزَنُوا عَلَىٰ مَا فَاتَكُمْ
+
+(by way of requital to teach you not to grieve for that which had escaped you), for that you missed the booty and triumph over your enemy.
+
+وَلَا مَا أَصَابَكُمْ
+
+(nor for what struck you), of injury and fatalities, as Ibn 'Abbas, 'Abdur-Rahman bin 'Awf, Al-Hasan, Qatadah and As-Suddi stated. Allah said next,
+
+وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+
+(And Allah is Well-Aware of all that you do.) all praise is due to Him, and thanks, there is no deity worthy of worship except Him, the Most High, Most Honored.
+
+## Maarif ul Quran
+
+When Muslims faced a temporary setback during the battle of Uhud and rumours went around that the Prophet ﷺ has been martyred, the hypocrites found an occasion for mischief under the shadows of a battle nearly lost. They said to Muslims: 'Now, that the Prophet is no more with us, why should we not go back to our old faith and thus get rid of all conflicts between us?' This shows how ugly the conduct of hypocrites was and how avowed an enemy they were to Muslims.
+
+In the verses appearing above, Muslims have been instructed not to listen to such enemies, nor to make them a party to any consultations among themselves, nor follow any advice given by them.
+
+In the previous verses, it will be recalled, the instruction was to follow the men of Allah; here, the instruction is not to act upon the advice of hypocrites and anti-Islam people. Indeed, the instruction is to continue taking guard against them.
+
+The Qur'anic expression, 'they will make you turn back on your heels', means that the real objective of anti-Islam people is to disengage Muslims from their Faith through engineered suspicion either overtly or covertly, the later method being designed and implemented in a manner which serves to gradually decrease the love and honour of Islam from their hearts resulting in a reversal of their position. Thus, those aiming to push Muslims in a state of loss cannot be their friends, even if they claim to be.
+
+The statement, '...Allah is your Lord and He is the best of helpers' tells Muslims to place their trust in Allah and rely on His help alone. Even if their antagonists come up with plans of help, Muslims should not go by these against the injunctions of Allah and the Messenger.
+
+## Personal Reflections

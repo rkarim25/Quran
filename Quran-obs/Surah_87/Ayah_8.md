@@ -1,0 +1,253 @@
+---
+arabic_ayat: وَنُيَسِّرُكَ لِلۡيُسۡرٰى ​ۖ​ۚ‏
+sentence_translation: We will facilitate for you the Way of Ease.
+word_by_word:
+  1:
+    arabic: وَنُيَسِّرُكَ
+    translation: And We will ease you
+    transliteration: wanuyassiruka
+  2:
+    arabic: لِلۡيُسۡرٰى ​ۖ​ۚ‏
+    translation: to the ease
+    transliteration: lil'yus'rā
+---
+
+## Context
+
+To understand **The Most High** (Al-A'la) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'la is a **Makkah** surah—revealed as the 8th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companions of the Prophet were ﷺ Mus'ab bin 'Umayr and Ibn Umm Maktum, who taught us the Qur'an; then 'Ammar, Bilal and Sa'd came. Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. I have not seen the people of Al-Madinah happier with anything more than their happiness with his coming (to Al-Madinah). This was reached to such an extent that I saw the children and little ones saying, 'This is the Messenger of Allah who has come.' Thus, he came, but he did not come until after I had already recited (i.e., learned how to recite)
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+The Virtues of Surat Al-A'la This Surah was revealed in Makkah before the migration to Al-Madinah. وَنُيَسِّرُكَ لِلْيُسْرَىٰ (And We will facilitate for you [ to reach ] the easiest way....87:8).
+
+## Tafsir Ibn Kathir
+
+The Virtues of Surat Al-A'la
+
+This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companions of the Prophet were ﷺ Mus'ab bin 'Umayr and Ibn Umm Maktum, who taught us the Qur'an; then 'Ammar, Bilal and Sa'd came. Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. I have not seen the people of Al-Madinah happier with anything more than their happiness with his coming (to Al-Madinah). This was reached to such an extent that I saw the children and little ones saying, 'This is the Messenger of Allah who has come.' Thus, he came, but he did not come until after I had already recited (i.e., learned how to recite)
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+(Glorify the Name of your Lord, the Most High.)(87:1)
+
+as well as other Surahs similar to it."
+
+It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
+
+هَلَّا صَلَّيْتَ بِــ
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+وَالشَّمْسِ وَضُحَاهَا
+
+وَالَّيْلِ إِذَا يَغْشَىٰ
+
+(Why didn't you recite "Glorify the Name of your Lord, the Most High,"; "By the sun and its brightness," and "By the night when it envelopes.")
+
+Imam Ahmad recorded from An-Nu'man bin Bashir that the Messenger of Allah ﷺ recited
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+وَ
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
+
+Surat Al-A'la (chapter 87) and Surat Al-Ghashiyh (chapter 88) in the two 'Id prayers. If the 'Id prayer fell on Friday, he would recite them in both prayers ('Id and Salat Al-Jumu'ah). Muslim also recorded this in his Sahih, as well as Abu Dawud, At-Tirmidhi, An-Nasa'i and Ibn Majah. The wording of Muslim and the Sunan compilers says, "He used to recite
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+وَ
+
+هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ
+
+Surat Al-A'la (chapter 87) and Surat Al-Ghashiyh (chapter 88) for the two 'Ids and Jumu'ah. If they occurred on the same day, he would recite them in both of them."
+
+In his Musnad, Imam Ahmad recorded on the authority of Ubayy bin Ka'b, Abdullah bin 'Abbas, 'Abdur-Rahman bin Abza, and the Mother of the believers, 'A'ishah, that the Messenger of Allah ﷺ used to recite
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+وَ
+
+قُلْ يَا أَيُّهَا الْكَافِرُونَ
+
+وَ
+
+قُلْ هُوَ اللَّهُ أَحَدٌ
+
+(Glorify the Name of your Lord, the Most High.) and (Say: 'O you who disbelieve.') and (Say: 'He is Allah, the One.') 'A'ishah added in her version that he would also recite the Mu'awwidhatayn (Al-Falaq and An-Nas).
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى - الَّذِي خَلَقَ فَسَوَّىٰ - وَالَّذِي قَدَّرَ فَهَدَىٰ - وَالَّذِي أَخْرَجَ الْمَرْعَىٰ - فَجَعَلَهُ غُثَاءً أَحْوَىٰ - سَنُقْرِئُكَ فَلَا تَنسَىٰ - إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ - وَنُيَسِّرُكَ لِلْيُسْرَىٰ - فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ - سَيَذَّكَّرُ مَن يَخْشَىٰ - وَيَتَجَنَّبُهَا الْأَشْقَى - الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ - ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+
+(1. Glorify the Name of your Lord, the Most High.)(2. Who has created, and then proportioned it.)(3. And Who has measured; and then guided.)(4. And Who brings out the pasturage,)(5. And then makes it dark stubble.)(6. We shall make you recite, so you shall not forget,)(7. Except what Allah may will He knows what is apparent and what is hidden.)(8. And We shall make easy for you the easy.)(9. Therefore remind in case the reminder profits.)(10. The reminder will be received by him who fears,)(11. But it will be avoided by the wretched,)(12. Who will enter the great Fire.)(13. There he will neither die nor live.)
+
+The Command to Pronounce Tasbih and its Response
+
+Imam Ahmad recorded from Ibn 'Abbas that whenever the Messenger of Allah ﷺ would recite
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+(Glorify the Name of your Lord, the Most High.)
+
+he would say,
+
+سُبْحَانَ رَبِّيَ الْأَعْلَى
+
+(Glory to my Lord, the Most High.)
+
+Ibn Jarir recorded from Ibn Ishaq Al-Hamdani that whenever Ibn 'Abbas would recite
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+(Glorify the Name of your Lord, the Most High.)
+
+he would say, "Glory to my Lord, the Most High," and whenever he would recite
+
+لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ
+
+(I swear by the Day of Resurrection.)(75:1)
+
+and then reach the end of it
+
+أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ
+
+(Is not He able to give life to the dead?)(75:40)
+
+he would say, "Glory to You, of course." Qatadah said,
+
+سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى
+
+(Glorify the Name of your Lord, the Most High.)
+
+"It has been mentioned to us that whenever the Prophet of Allah ﷺ used to recite it he would say,
+
+سُبْحَانَ رَبِّيَ الْأَعْلَى
+
+(Glory to my Lord, the Most High.)"
+
+The Creation, the Decree, and the Bringing Forth of Vegetation
+
+Allah says,
+
+الَّذِي خَلَقَ فَسَوَّىٰ
+
+(Who has created, and then proportioned it.)
+
+meaning, He created that which has been created, and He fashioned every creation in the best of forms. Then Allah says,
+
+وَالَّذِي قَدَّرَ فَهَدَىٰ
+
+(And Who has measured; and then guided.) Mujahid said, "He guided man to distress and happiness, and he guided the cattle to their pastures." This Ayah is similar to what Allah has said about Musa's statement to Fir'awn,
+
+رَبُّنَا الَّذِي أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ
+
+(Our Lord is He Who gave to each thing its form and nature, then guided it aright.)(20:50)
+
+meaning, He decreed a set measure and guided the creation to it. This is just as is confirmed in Sahih Muslim on the authority of 'Abdullah bin 'Amr that the Messenger of Allah ﷺ said,
+
+إِنَّ اللهَ قَدَّرَ مَقَادِيرَ الْخَلَائِقِ قَبْلَ أَنْ يَخْلُقَ السَّمَواتِ وَالْأَرْضَ بِخَمْسِينَ أَلْفَ سَنَةٍ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ
+
+(Verily, Allah ordained the measure of all creation fifty thousand years before He created the heavens and the earth, and His Throne was over the water.)
+
+Concerning Allah's statement,
+
+وَالَّذِي أَخْرَجَ الْمَرْعَىٰ
+
+(And Who brings out the pasturage,) meaning, all types of vegetation and crops.
+
+فَجَعَلَهُ غُثَاءً أَحْوَىٰ
+
+(And then makes it dark stubble.) Ibn 'Abbas said, "Dried up and altered." It has been narrated that Mujahid, Qatadah and Ibn Zayd, all made similar statements.
+
+The Prophet (ﷺ) does not Forget the Revelation
+
+Allah says,
+
+سَنُقْرِئُكَ
+
+(We shall make you to recite,) meaning, 'O Muhammad.'
+
+فَلَا تَنسَىٰ
+
+(so you shall not forget (it),) This is Allah informing and promising him (the Prophet ﷺ) that He will teach him a recitation that he will not forget.
+
+إِلَّا مَا شَاءَ اللَّهُ
+
+(Except what Allah may will.) Qatadah said, "The Prophet did not forget anything except what Allah willed." It has been said that the meaning of Allah's statement,
+
+فَلَا تَنسَىٰ
+
+(so you shall not forget,) is, "do not forget" and that which would be abrogated, is merely an exception to this. Meaning, 'do not forget what We teach you to recite, except what Allah wills, which He removes and there is no sin on your leaving it off (not retaining it).' Concerning Allah's statement,
+
+إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ
+
+(He knows what is apparent and what is hidden.) meaning, He knows what the creatures do openly and what they hide, whether it be statements or deeds. None of that is hidden from Him.
+
+Then Allah says,
+
+وَنُيَسِّرُكَ لِلْيُسْرَىٰ
+
+(And We shall make easy for you the easy.) meaning, 'We will make good deeds and statements easy for you, and We will legislate such Law for you that is easy, tolerant, straight and just, with no crookedness, difficulty or hardship in it.'
+
+The Command to Remind
+
+Allah then says,
+
+فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ
+
+(Therefore remind in case the reminder profits.) meaning, remind where reminding is beneficial.
+
+From here we get the etiquette of spreading knowledge, that it should not be wasted upon those who are not suitable or worthy of it. The Commander of the believers, 'Ali said, "You do not tell people any statement that their intellects do not grasp except that it will be a Fitnah (trial) for some of them." He also said, "Tell people that which they know. Would you like for Allah and His Messenger to be rejected?"
+
+Allah said:
+
+سَيَذَّكَّرُ مَن يَخْشَىٰ
+
+(The reminder will be received by him who fears,)
+
+meaning, 'he whose heart fears Allah and who knows that he is going to meet Him, will receive admonition from what you convey to him, O Muhammad.'
+
+وَيَتَجَنَّبُهَا الْأَشْقَى - الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ - ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+
+(But it will be avoided by the wretched, who will enter the great Fire. There he will neither die nor live.)
+
+meaning, he will not die and thus be allowed to rest, nor will he live a life that is beneficial to him. Instead, his life will be harmful to him, because it will be the cause of his feeling of the pain of torment and various types of punishments what he is being punished with.
+
+Imam Ahmad recorded from Abu Sa'id that the Messenger of Allah ﷺ said,
+
+أَمَّا أَهْلُ النَّارِ الَّذِينَ هُمْ أَهْلُهَا لَا يَمُوتُونَ وَلَا يَحْيَوْنَ، وَأَمَّا أُنَاسٌ يُرِيدُ اللهُ بِهِمُ الرَّحْمَةَ فَيُمِيتُهُمْ فِي النَّارِ فَيَدْخُلُ عَلَيْهِمُ الشُّفَعَاءُ فَيَأْخُذُ الرَّجُلُ الضِّبَارَةَ فَيُنْبِتُهُمْ - أو قال: يَنْبُتُونَ فِي نَهْرِ الْحَيَا، أو قال: الْحَيَاةِ، أو قال: الْحَيَوَانِ أو قال: نَهْرِ الْجَنَّةِ - فَيَنْبُتُونَ نَبَاتَ الْحِبَّةِ فِي حَمِيلِ السَّيْلِ
+
+(Concerning the people of the Fire who are deserving of it, they will not die nor will they live. Regarding the people that Allah wants mercy for, He will cause them to die in the Fire. Then He will allow the intercessors to come to them, and a man will take his groups of supporters and plant them (or he said (they will be planted) in the River of Al-Haya (or he said (Al-Hayah, or Al-Hayawan, or Nahr Al-Jannah). Then they will sprout up like the sprouting of the seed on the moist bank of a flowing stream.)
+
+Then the Prophet ﷺ said,
+
+أَمَا تَرَوْنَ الشَّجَرَةَ تَكُونُ خَضْرَاءَ، ثُمَّ تَكُونُ صَفْرَاءَ، ثُمَّ تَكُونُ خَضْرَاءَ؟
+
+(Haven't you all seen the tree that is green, then it turns yellow, then it turns green (again)?)
+
+Abu Sa'id then said that some of those present said, "It is as if the Prophet ﷺ used to live in the desert wilderness (i.e., due to his parables of nature)."
+
+Ahmad also recorded from Abu Sa'id that the Messenger of Allah ﷺ said,
+
+أَمَّا أَهْلُ النَّارِ الَّذِينَ هُمْ أَهْلُهَا فَإِنَّهُمْ لَا يَمُوتُونَ فِيهَا وَلَا يَحْيَوْنَ، وَلَٰــكِنْ أُنَاسٌ - أو كما قال - تُصِيبُهُمُ النَّارُ بِذُنُوبِهِمْ - أو قال: بِخَطَايَاهُمْ - فَيُمِيتُهُمْ إِمَاتَةً حَتّٰى إِذَا صَارُوا فَحْمًا أُذِنَ فِي الشَّفَاعَةِ، فَجِيءَ بِهِمْ ضَبَائِرَ ضَبَائِرَ فَبُثُّوا عَلى أَنْهَارِ الْجَنَّةِ فَيُقَالُ: يَا أَهْلَ الْجَنَّةِ أَفِيضُوا عَلَيْهِمْ، فَيَنْبُتُونَ نَبَاتَ الْحِبَّةِ تَكُونُ فِي حَمِيلِ السَّيْلِ
+
+(Concerning the people of the Fire who will be dwellers of it, they will not die in it nor will they live. However, there will be a group of people - or as he said - whom the Fire will burn due to their sins - or he said - their wrongdoings. So, He will cause them to die until they become burnt coal. Then the intercession will be allowed and they will be brought group after group, and they will be scattered over the rivers of Paradise. Then it will be said: "O people of Paradise! Pour down upon them." Then they will sprout like the growing of the seed that is upon the moist bank of the flowing stream."
+
+Then, a man from among the people present said, "It is as if the Messenger of Allah ﷺ used to live in the desert wilderness." Muslim also recorded this Hadith.
+
+## Maarif ul Quran
+
+وَنُيَسِّرُكَ لِلْيُسْرَىٰ (And We will facilitate for you [ to reach ] the easiest way....87:8). The phrase the easiest way' refers to the sacred laws of Islam. Apparently, according to the demand of the context, it should have been stated 'We will make the Shari'ah easy for you'. But the Qur'an chose, instead, to state 'And We will facilitate for you (to reach) the easiest way. [ 8] '. The reason for that, probably, is to indicate that Allah will predispose him to the sacred laws, so that they will become part of his nature, and he will become an embodiment of Shari'ah.
+
+## Personal Reflections

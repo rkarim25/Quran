@@ -1,0 +1,215 @@
+---
+arabic_ayat: لَا تَقُمۡ فِيۡهِ اَبَدًا ​ؕ لَمَسۡجِدٌ اُسِّسَ عَلَى التَّقۡوٰى مِنۡ
+  اَوَّلِ يَوۡمٍ اَحَقُّ اَنۡ تَقُوۡمَ فِيۡهِ​ؕ فِيۡهِ رِجَالٌ يُّحِبُّوۡنَ اَنۡ يَّتَطَهَّرُوۡا
+  ​ؕ وَاللّٰهُ يُحِبُّ الۡمُطَّهِّرِيۡنَ‏
+sentence_translation: Do not ˹O Prophet˺ ever pray in it. Certainly, a mosque founded
+  on righteousness from the first day is more worthy of your prayers. In it are men
+  who love to be purified. And Allah loves those who purify themselves.
+word_by_word:
+  1:
+    arabic: لَا
+    translation: (Do) not
+    transliteration: lā
+  2:
+    arabic: تَقُمۡ
+    translation: stand
+    transliteration: taqum
+  3:
+    arabic: فِيۡهِ
+    translation: in it
+    transliteration: fīhi
+  4:
+    arabic: اَبَدًا ​ؕ
+    translation: ever
+    transliteration: abadan
+  5:
+    arabic: لَمَسۡجِدٌ
+    translation: A masjid
+    transliteration: lamasjidun
+  6:
+    arabic: اُسِّسَ
+    translation: founded
+    transliteration: ussisa
+  7:
+    arabic: عَلَى
+    translation: 'on'
+    transliteration: ʿalā
+  8:
+    arabic: التَّقۡوٰى
+    translation: the righteousness
+    transliteration: l-taqwā
+  9:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  10:
+    arabic: اَوَّلِ
+    translation: (the) first
+    transliteration: awwali
+  11:
+    arabic: يَوۡمٍ
+    translation: day
+    transliteration: yawmin
+  12:
+    arabic: اَحَقُّ
+    translation: (is) more worthy
+    transliteration: aḥaqqu
+  13:
+    arabic: اَنۡ
+    translation: that
+    transliteration: an
+  14:
+    arabic: تَقُوۡمَ
+    translation: you stand
+    transliteration: taqūma
+  15:
+    arabic: فِيۡهِ​ؕ
+    translation: in it
+    transliteration: fīhi
+  16:
+    arabic: فِيۡهِ
+    translation: Within it
+    transliteration: fīhi
+  17:
+    arabic: رِجَالٌ
+    translation: (are) men
+    transliteration: rijālun
+  18:
+    arabic: يُّحِبُّوۡنَ
+    translation: who love
+    transliteration: yuḥibbūna
+  19:
+    arabic: اَنۡ
+    translation: to
+    transliteration: an
+  20:
+    arabic: يَّتَطَهَّرُوۡا ​ؕ
+    translation: purify themselves
+    transliteration: yataṭahharū
+  21:
+    arabic: وَاللّٰهُ
+    translation: and Allah
+    transliteration: wal-lahu
+  22:
+    arabic: يُحِبُّ
+    translation: loves
+    transliteration: yuḥibbu
+  23:
+    arabic: الۡمُطَّهِّرِيۡنَ‏
+    translation: the ones who purify themselves
+    transliteration: l-muṭahirīna
+---
+
+## Context
+
+To understand **The Repentance** (At-Tawbah) 108, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And as for those who put up a Masjid by way of harm and disbelief and to disunite the believers and as an outpost for those who warred against Allah and His Messenger aforetime, they will indeed swear that their intention is nothing but good. About this Masjid Dirar, the Holy Prophet ﷺ has Been given the order: لَا تَقُمْ فِيهِ أَبَدًا 'Do not ever stand there (in prayer) - 108.' The word ` qiyam' in the text denotes standing for prayer.
+
+## Tafsir Ibn Kathir
+
+And as for those who put up a Masjid by way of harm and disbelief and to disunite the believers and as an outpost for those who warred against Allah and His Messenger aforetime, they will indeed swear that their intention is nothing but good. Allah bears witness that they are certainly liars (107)Never stand you therein. Verily, the Masjid whose foundation was laid from the first day on Taqwa is more worthy that you stand therein (to pray). In it are men who love to clean and purify themselves. And Allah loves those who make themselves clean and pure (108)
+
+Masjid Ad-Dirar and Masjid At-Taqwa
+
+The reason behind revealing these honorable Ayat is that before the Messenger of Allah ﷺ migrated to Al-Madinah, there was a man from Al-Khazraj called "Abu 'Amir Ar-Rahib (the Monk)." This man embraced Christianity before Islam and read the Scriptures. During the time of Jahiliyyah, Abu 'Amir was known for being a worshipper and being a notable person among Al-Khazraj. When the Messenger of Allah ﷺ arrived at Al-Madinah after the Hijrah, the Muslims gathered around him and the word of Islam was triumphant on the day of Badr, causing Abu 'Amir, the cursed one, to choke on his own saliva and announce his enmity to Islam. He fled from Al-Madinah to the idolators of Quraysh in Makkah to support them in the war against the Messenger of Allah ﷺ. The Quraysh united their forces and the bedouins who joined them for the battle of Uhud, during which Allah tested the Muslims, but the good end is always for the pious and righteous people. The rebellious Abu 'Amir dug many holes in the ground between the two camps, into one of which the Messenger ﷺ fell, injuring his face and breaking one of his right lower teeth. He also sustained a head injury. Before the fighting started, Abu 'Amir approached his people among the Ansar and tried to convince them to support and agree with him. When they recognized him, they said, "May Allah never burden an eye by seeing you, O Fasiq one, O enemy of Allah!" They cursed him and he went back declaring, "By Allah! Evil has touched my people after I left." The Messenger of Allah ﷺ called Abu 'Amir to Allah and recited the Qur'an to him before his flight to Makkah, but he refused to embrace Islam and rebelled. The Messenger ﷺ invoked Allah that Abu 'Amir die as an outcast in an alien land, and his invocation came true. After the battle of Uhud was finished, Abu 'Amir realized that the Messenger's call was still rising and gaining momentum, so he went to Heraclius, the emperor of Rome, asking for his aid against the Prophet ﷺ. Heraclius gave him promises and Abu 'Amir remained with him. He also wrote to several of his people in Al-Madinah, who embraced hypocrisy, promising and insinuating to them that he will lead an army to fight the Messenger of Allah ﷺ to defeat him and his call. He ordered them to establish a stronghold where he could send his emissaries and to serve as an outpost when he joins them later on. These hypocrites built a Masjid next to the Masjid in Quba', and they finished building it before the Messenger ﷺ went to Tabuk. They went to the Messenger inviting him to pray in their Masjid so that it would be a proof that the Messenger ﷺ approved of their Masjid. They told him that they built the Masjid for the weak and ill persons on rainy nights. However, Allah prevented His Messenger ﷺ from praying in that Masjid. He ﷺ said to them,
+
+إِنَّا عَلَى سَفَرٍ وَلَكِنْ إِذَا رَجَعْنَا إِنْ شَاءَ اللهُ
+
+(If we come back from our travel, Allah willing.)" When the Messenger of Allah ﷺ came back from Tabuk and was approximately one or two days away from Al-Madinah, Jibril came down to him with the news about Masjid Ad-Dirar and the disbelief and division between the believers, who were in Masjid Quba' (which was built on piety from the first day), that Masjid Ad-Dirar was meant to achieve. Therefore, the Messenger of Allah sent some people to Masjid Ad-Dirar to bring it down before he reached Al-Madinah.
+
+Ali bin Abi Talhah reported that Ibn 'Abbas said about this Ayah (9:107), "They are some people of the Ansar to whom Abu 'Amir said, 'Build a Masjid and prepare whatever you can of power and weapons, for I am headed towards Caesar, emperor of Rome, to bring Roman soldiers with whom I will expel Muhammad and his companions.' When they built their Masjid, they went to the Prophet ﷺ and said to him, "We finished building our Masjid and we would like you pray in it and invoke Allah for us for His blessings."Allah revealed this verse,
+
+لَا تَقُمْ فِيهِ أَبَدًا
+
+(Never stand you therein), until,
+
+الظَّالِمِينَ
+
+(...wrongdoers)" Allah said next,
+
+وَلَيَحْلِفُنَّ
+
+(they will indeed swear), those who built it,
+
+إِنْ أَرَدْنَا إِلَّا الْحُسْنَىٰ
+
+(that their intention is nothing but good.) by building this Masjid we sought the good and the comfort of the people. Allah replied,
+
+وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ
+
+(Allah bears witness that they are certainly liars) for they only built it to harm Masjid Quba', and out of disbelief in Allah, and to divide the believers. They made it an outpost for those who warred against Allah and His Messenger ﷺ, such as Abu 'Amir the Fasiq who used to be called Ar-Rahib, may Allah curse him! Allah said,
+
+لَا تَقُمْ فِيهِ أَبَدًا
+
+(Never stand you therein), prohibiting His Prophet ﷺ and his Ummah from ever standing in it in prayer.
+
+Virtues of Masjid Quba
+
+Allah encouraged His Prophet ﷺ to pray in Masjid Quba' which, from the first day, was built on Taqwa, obedience to Allah and His Messenger ﷺ, for gathering the word of the believers and as an outpost and a fort for Islam and its people. This is why Allah the Exalted said,
+
+لَّمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ
+
+(Verily, the Masjid whose foundation was laid from the first day on Taqwa is more worthy that you stand therein (to pray).) in reference to the Masjid of Quba'. An authentic Hadith records that the Messenger of Allah ﷺ said,
+
+صَلَاةٌ فِي مَسْجِدِ قُبَاءٍ كَعُمْرَةٍ
+
+(One prayer in Masjid Quba' is just like an 'Umrah.)
+
+It is recorded in the Sahih that the Messenger of Allah ﷺ used to visit Masjid Quba' while riding and walking.
+
+Imam Ahmad recorded that 'Uwaym bin Sa'idah Al-Ansari said that the Prophet ﷺ went to Masjid Quba' and asked,
+
+إِنَّ اللهَ تَعَالَى قَدْ أَحْسَنَ عَلَيْكُمُ الثَّنَاءَ فِي الطُّهُورِ فِي قِصَّةِ مَسْجِدِكُمْ، فَمَا هَذَا الطُّهُورُ الَّذِي تَطَهَّرُونَ بِهِ؟
+
+(In the story about your Masjid, Allah the Exalted has praised you concerning the purification that you perform. What is the purification that you perform?)
+
+They said, "By Allah, O Allah's Messenger! We do not know except that we had neighbors from the Jews who used to use water to wash with after answering the call of nature, and we washed as they washed." Ibn Khuzaymah collected this Hadith in his Sahih.
+
+Allah's statement,
+
+لَّمَسْجِدٌ أُسِّسَ عَلَى التَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا ۚ وَاللَّهُ يُحِبُّ الْمُطَّهِّرِينَ
+
+(Verily, the Masjid whose foundation was laid from the first day on Taqwa is more worthy that you stand therein (to pray). In it are men who love to clean and purify themselves. And Allah loves those who make themselves clean and pure.)
+
+This encourages praying in old Masjids that were built for the purpose of worshipping Allah alone, without partners. It is also recommended to join the prayer with the believing group and worshippers who implement their faith, those who perform Wudu' perfectly and preserve themselves from impure things.
+
+Imam Ahmad recorded that one of the Companions of the Messenger of Allah ﷺ said that the Messenger of Allah ﷺ led them in a Dawn (Subh) prayer in which he recited Surat Ar-Rum (chapter 30) and made mistakes in the recitation. When he finished the prayer, he said,
+
+إِنَّهُ يَلْبِسُ عَلَيْنَا الْقُرْآنَ أَنَّ أَقْوَامًا مِنْكُمْ يُصَلُّونَ مَعَنَا لَا يُحْسِنُونَ الْوُضُوءَ، فَمَنْ شَهِدَ الصَّلَاةَ مَعَنَا فَلْيُحْسِنِ الْوُضُوءَ
+
+(We sometimes make mistakes in reciting the Qur'an, there are people among you who attend the prayer with us, but do not perform Wudu' perfectly. Therefore, whoever attends the prayer with us let him make perfect Wudu'.)
+
+This Hadith indicates that complete purification helps in the performance of acts of worship and aids in preserving and completing them.
+
+## Maarif ul Quran
+
+About this Masjid Dirar, the Holy Prophet ﷺ has Been given the order: لَا تَقُمْ فِيهِ أَبَدًا 'Do not ever stand there (in prayer) - 108.' The word ` qiyam' in the text denotes standing for prayer. The sense is that the Holy Prophet ﷺ should never go in to offer his prayers in a mosque by that name.
+
+Ruling:
+
+What it tells us is: If, even today, a new masjid is made adjacent to the one already there unnecessarily, just to show off or to take an opposing stance out of obstinacy and enmity, the better choice is not to offer prayers therein - though, Salah remains valid.
+
+In the same verse (108), the Holy Prophet ﷺ has also been told that it is correct for him to pray in the particular masjid the foundation of which has been laid on Taqwa (the fear of Allah) from day one. And then, the people who offer their Salah in it love to observe full precaution in remaining cleansed and pure (of all physical and spiritual impurities) - for Allah too likes such meticulous observers of self-purity.
+
+The context of the verse shows what is being referred to here is Masjid Quba' where the Holy Prophet ﷺ used to say his prayers at that time. There are some Hadith narratives that also support this view. (As reported by Ibn Marduwayh from Ibn ` Abbas ؓ ، by ` Amr ibn Shaibah from Sahl al-ansari and by Ibn Khuzaimah in his Sahih from ` Uwaimir ibn Sa` idah - with reference to Mazhari)
+
+As for the reports which say that it refers to the Prophet's Mosque, they do not contradict it. The reason is that the foundation of the Mosque of the Prophet ﷺ was laid in accordance with a revealed command by the Holy Prophet ﷺ with his blessed hands. It goes without saying that its foundation rests on Taqwa, that is, on purity, piety and fear of Allah. And who else could be more purified than the noble messenger of Allah? Therefore, that too is a masjid founded on Taqwa. (As reported by Tirmidhi on sound authority from Sayyidna Abu Said al-Khudri ؓ with the chain of narrators ascending to the Holy Prophet ﷺ - from Qurtubi)
+
+At the end of the verse (108), it was said: فِيهِ رِ‌جَالٌ يُحِبُّونَ أَن يَتَطَهَّرُ‌وا (In it there are people who like to observe purity). In this verse, the masjid declared worthier for the prayers of the Holy Prophet ﷺ is the one the foundation of which was laid on Taqwa from day one. Thus, both Masjid Quba' and the Mosque of the Prophet ﷺ are included in the sense of the verse. Also pointed to in this verse there is yet another merit of this masjid - that those who prayed this masjid were a kind of people who did their best to remain cleansed and pure. The word for purity used in the text is Taharah طھارا . The sense of Taharah at this place includes purity from common filth and impurities, as well as purity from sins and bad morals. Those who offered their prayers in Masjid Quba' and the Prophet's Mosque were generally equipped with all these virtues.
+
+Special Note
+
+From here we also come to know that the merit or superiority of a masjid really depends on the fact that it should have been made with absolute sincerity for the sake of Allah. And to put it conversely, there should not be any trace of duplicity, any motive to earn name, fame and recognition, or any other false and corrupting interest involved in its making. Then, we also learn that the quality of those who pray in a masjid is significant. If they are good, righteous, knowledgeable about their religion ('Alim عَالِم ) and are devoted to the worship of Allah ('Abid عَابِد ), the superiority of the masjid increases. Offering prayers in a masjid frequented by such God-fearing people is more merit worthy.
+
+## Personal Reflections

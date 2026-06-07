@@ -1,0 +1,151 @@
+---
+arabic_ayat: فَاَنۡجَيۡنٰهُ وَالَّذِيۡنَ مَعَهٗ بِرَحۡمَةٍ مِّنَّا وَ قَطَعۡنَا دَابِرَ
+  الَّذِيۡنَ كَذَّبُوۡا بِاٰيٰتِنَا​ وَمَا كَانُوۡا مُؤۡمِنِيۡنَ‏
+sentence_translation: So We saved him and those with him by Our mercy and uprooted
+  those who denied Our signs. They were not believers.
+word_by_word:
+  1:
+    arabic: فَاَنۡجَيۡنٰهُ
+    translation: So We saved him
+    transliteration: fa-anjaynāhu
+  2:
+    arabic: وَالَّذِيۡنَ
+    translation: and those
+    transliteration: wa-alladhīna
+  3:
+    arabic: مَعَهٗ
+    translation: with him
+    transliteration: maʿahu
+  4:
+    arabic: بِرَحۡمَةٍ
+    translation: by Mercy
+    transliteration: biraḥmatin
+  5:
+    arabic: مِّنَّا
+    translation: from Us
+    transliteration: minnā
+  6:
+    arabic: وَ قَطَعۡنَا
+    translation: And We cut off
+    transliteration: waqaṭaʿnā
+  7:
+    arabic: دَابِرَ
+    translation: the roots
+    transliteration: dābira
+  8:
+    arabic: الَّذِيۡنَ
+    translation: (of) those who
+    transliteration: alladhīna
+  9:
+    arabic: كَذَّبُوۡا
+    translation: denied
+    transliteration: kadhabū
+  10:
+    arabic: بِاٰيٰتِنَا​
+    translation: Our Signs
+    transliteration: biāyātinā
+  11:
+    arabic: وَمَا
+    translation: and not
+    transliteration: wamā
+  12:
+    arabic: كَانُوۡا
+    translation: they were
+    transliteration: kānū
+  13:
+    arabic: مُؤۡمِنِيۡنَ‏
+    translation: believers
+    transliteration: mu'minīna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+They said: "You have come to us that we should worship Allah Alone and forsake that which our fathers used to worship. (5)-In the last verse (72) it was said that the final outcome of the entire struggle of Sayyidna Hud (علیہ السلام) against the contumacy of the people of ` Ad was that Allah Ta` ala kept Sayyidna Hud (علیہ السلام) and those who had believed in him safe from the punishment and cut off the root of those who had belied him - and they were not of those who would have believed.
+
+## Tafsir Ibn Kathir
+
+They said: "You have come to us that we should worship Allah Alone and forsake that which our fathers used to worship. So bring us that wherewith you have threatened us if you are of the truthful. (70)(Hud) said: "Rijs (torment) and wrath have already fallen on you from your Lord. Dispute you with me over names which you have named – you and your fathers – with no authority from Allah? Then wait, I am with you among those who wait. (71)So We saved him and those who were with him out of mercy from Us, and We severed the roots of those who belied Our Ayat; and they were not believers (72)
+
+Allah mentions the rebellion, defiance and stubbornness of Hud's people, and their opposition to him, peace be upon him,
+
+قَالُوا أَجِئْتَنَا لِنَعْبُدَ اللَّهَ وَحْدَهُ
+
+(They said: "You have come to us that we should worship Allah Alone?") Later on, the disbelievers of Quraysh said,
+
+وَإِذْ قَالُوا اللَّهُمَّ إِن كَانَ هَٰذَا هُوَ الْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِّنَ السَّمَاءِ أَوِ ائْتِنَا بِعَذَابٍ أَلِيمٍ
+
+(And (remember) when they said: "O Allah! If this (the Qur'an) is indeed the truth (revealed) from You, then rain down stones on us from the sky or bring on us a painful torment.")[8:32]
+
+Muhammad bin Ishaq said that the people of Hud used to worship several idols, such as Suda', Samud and Al-Haba'. This is why Hud, peace be upon him, said to them,
+
+قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ
+
+("Rijs and wrath have already fallen on you from your Lord.") you deserve 'Rijs' from your Lord because of what you said. Ibn 'Abbas said that, 'Rijs', means scorn and anger.
+
+أَتُجَادِلُونَنِي فِي أَسْمَاءٍ سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم
+
+("Dispute you with me over names which you have named – you and your fathers")[7:71].
+
+Hud said, do you dispute with me over these idols that you and your fathers made gods, even though they do not bring harm or benefit; did Allah give you authority or proof allowing you to worship them? Hud further said,
+
+مَّا نَزَّلَ اللَّهُ بِهَا مِن سُلْطَانٍ فَانتَظِرُوا إِنِّي مَعَكُم مِّنَ الْمُنتَظِرِينَ
+
+("with no authority from Allah? Then wait, I am with you among those who wait.") this is a threat and warning from the Messenger to his people.
+
+The End of 'Ad
+
+So Allah said;
+
+فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا دَابِرَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَمَا كَانُوا مُؤْمِنِينَ
+
+(So We saved him and those who were with him out of mercy from Us, and We severed the roots of those who belied Our Ayat; and they were not believers.)
+
+Allah mentioned several times in the Qur'an, the way the people of 'Ad were destroyed stating that He sent a barren wind that destroyed everything it passed by. Allah said in another Ayah,
+
+وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ - سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ - فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ
+
+(And as for 'Ad, they were destroyed by a furious violent wind! They were subjected to it for seven nights and eight days in succession, so that you could see men lying overthrown (destroyed), as if they were hollow trunks of date palms! Do you see any remnants of them?)[69:6-8]
+
+When 'Ad rebelled and transgressed, Allah destroyed them with a strong wind that carried them, one by one, up in the air and brought each one of them down on his head, thus smashing his head and severing it from its body. This is why Allah said,
+
+كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ
+
+(as if they were hollow trunks of date palms!)[69:7]
+
+Muhammad bin Ishaq said that 'Ad used to live in Yemen between Oman and Hadramawt. They also spread throughout the land and defeated various peoples, because of the strength that Allah gave them. They used to worship idols instead of Allah, and Allah sent to them Prophet Hud, peace be upon him. He was from their most common lineage and was the best among them in status. Hud commanded them to worship Allah Alone and associate none with him. He also ordered them to stop committing injustice against the people. But they rejected him and ignored his call. They said, 'Who is stronger than us?' Some of them, however, followed Hud, although they were few and had to conceal their faith. When 'Ad defied the command of Allah, rejected His Prophet, committed mischief in the earth, became arrogant and built high palaces on every high place – without real benefit to them – Hud spoke to them, saying,
+
+أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ - وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ - وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ - فَاتَّقُوا اللَّهَ وَأَطِيعُونِ
+
+("Do you build high palaces on every high place, while you do not live in them? And do you get for yourselves palaces (fine buildings) as if you will live therein forever. And when you seize (somebody), seize you (him) as tyrants? Have Taqwa of Allah, and obey me.")[26:128-131] However,
+
+قَالُوا يَا هُودُ مَا جِئْتَنَا بِبَيِّنَةٍ وَمَا نَحْنُ بِتَارِكِي آلِهَتِنَا عَن قَوْلِكَ وَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ - إِن نَّقُولُ إِلَّا اعْتَرَاكَ بَعْضُ آلِهَتِنَا بِسُوءٍ
+
+(They said: "O Hud! No evidence have you brought us, and we shall not leave our gods for your (mere) saying! And we are not believers in you. All that we say is that some of our gods have seized you with evil.") meaning, madness,
+
+قَالَ إِنِّي أُشْهِدُ اللَّهَ وَاشْهَدُوا أَنِّي بَرِيءٌ مِّمَّا تُشْرِكُونَ - مِن دُونِهِ فَكِيدُونِي جَمِيعًا ثُمَّ لَا تُنظِرُونِ - إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ رَبِّي وَرَبِّكُم مَّا مِن دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّي عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
+
+(He said: "I call Allah to witness, and bear you witness that I am free from that which you associate with Him. So plot against me, all of you, and give me no respite. I put my trust in Allah, my Lord and your Lord! There is not a moving creature but He has the grasp of its forelock. Verily, my Lord is on the straight path (the truth).")[11:53-56]."
+
+Story of the Emissary of 'Ad
+
+Imam Ahmad recorded that Al-Harith Al-Bakri said: "I went to the Messenger of Allah ﷺ to complain to him about Al-'Ala bin Al-Hadrami. When I passed by the area of Ar-Rabdhah, I found an old woman from Bani Tamim who was alone in that area. She said to me, "O servant of Allah! I need to reach the Messenger of Allah ﷺ to ask him for some of my needs, will you take me to him?" So I took her along with me to Al-Madinah and found the Masjid full of people. I also found a black flag raised high, while Bilal was holding a sword before the Messenger of Allah ﷺ. I asked, "What is the matter with the people?" They said, "The Prophet ﷺ intends to send 'Amr bin Al-'As (on a military expedition) somewhere." So I sat down. When the Prophet ﷺ went to his house, I asked for permission to see him, and he gave me permission. I entered and greeted him. He said, "Was there a dispute between you and Bani Tamim?" I said, "Yes. And we had been victorious over them. I passed by an old woman from Bani Tamim, who was alone, and she asked me to bring her to you, and she is at the door". So he allowed her in and I said, "O Allah's Messenger! What if you make a barrier between us and (the tribe of) Bani Tamim, such as Ad-Dahna' (Desert)?" The old woman became angry and opposed me. So I said, "My example is the example of a sheep that carried its own destruction. I carried this woman and did not know that she was an opponent. I seek refuge with Allah and His Messenger that I become like the emissary of 'Ad.' So the Prophet ﷺ asked me about the emissary of 'Ad, having better knowledge in it, but he liked to hear the story again. I said, "Once, 'Ad suffered from a famine and they sent an emissary [to get relief], whose name was Qayl. Qayl passed by Mu'awiyah bin Bakr and stayed with him for a month. Mu'awiyah supplied him with alcoholic drinks, and two female singers were singing for him. When a month ended, Qayl went to the mountains of Muhrah and said, 'O Allah! You know that I did not come here to cure an ill person or to ransom a prisoner. O Allah! Give 'Ad water as You used to.' So black clouds came and he was called, 'Choose which one of them you wish (to go to 'Ad)!' So he pointed to one of the black clouds and he heard someone proclaiming from it, 'Take it, as ashes that will leave none in 'Ad.' And it has been conveyed to me that the wind sent to them was no more than what would pass through this ring of mine, but it destroyed them." Abu Wa'il said, "That is true. When a man or a woman would send an emissary, they would tell him, 'Do not be like the emissary of 'Ad (bringing disaster and utter destruction to them instead of relief).," Imam Ahmad collected this story in the Musnad. At-Tirmidhi recorded similar wording for it, as did An-Nasa'i and Ibn Majah.
+
+## Maarif ul Quran
+
+(5)-In the last verse (72) it was said that the final outcome of the entire struggle of Sayyidna Hud (علیہ السلام) against the contumacy of the people of ` Ad was that Allah Ta` ala kept Sayyidna Hud (علیہ السلام) and those who had believed in him safe from the punishment and cut off the root of those who had belied him - and they were not of those who would have believed.
+
+This story leaves a trail of good counsel. It reminds heedless human beings to keep remembering Allah and take to a life style which is marked with obedience to Him. Then, to those who elect to reject honest advice and refuse to learn a lesson, it shows what to expect the end. And, as for preachers and reformers, it is a mirror of the prophetic method of communication in Tabligh and Islah.
+
+## Personal Reflections

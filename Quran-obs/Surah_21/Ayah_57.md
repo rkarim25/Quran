@@ -1,0 +1,127 @@
+---
+arabic_ayat: "وَ تَاللّٰهِ لَاَكِيۡدَنَّ اَصۡنَامَكُمۡ بَعۡدَ اَنۡ تُوَلُّوۡا مُدۡبِرِيۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: ˹Then he said to himself,˺ “By Allah! I will surely plot against
+  your idols after you have turned your backs and gone away.”
+word_by_word:
+  1:
+    arabic: وَ تَاللّٰهِ
+    translation: And by Allah
+    transliteration: watal-lahi
+  2:
+    arabic: لَاَكِيۡدَنَّ
+    translation: surely, I will plan
+    transliteration: la-akīdanna
+  3:
+    arabic: اَصۡنَامَكُمۡ
+    translation: (against) your idols
+    transliteration: aṣnāmakum
+  4:
+    arabic: بَعۡدَ
+    translation: after
+    transliteration: baʿda
+  5:
+    arabic: اَنۡ
+    translation: '[that]'
+    transliteration: an
+  6:
+    arabic: تُوَلُّوۡا
+    translation: you go away
+    transliteration: tuwallū
+  7:
+    arabic: "مُدۡبِرِيۡنَ‏ \uFEFF\uFEFF"
+    translation: turning (your) backs
+    transliteration: mud'birīna
+---
+
+## Context
+
+To understand **The Prophets** (Al-Anbya) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Both the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. وَتَاللَّـهِ لَأَكِيدَنَّ أَصْنَامَكُم (And I swear by Allah that I will do something to your idols - 21:57) The wording of the verse indicates that Sayyidna Ibrahim (علیہ السلام) spoke these words before his community.
+
+## Tafsir Ibn Kathir
+
+"And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. (57)So he broke them to pieces, except the biggest of them, that they might turn to it (58)They said: "Who has done this to our gods He must indeed be one of the wrongdoers. (59)They said: "We heard a young man talking against them, who is called Ibrahim. (60)They said: "Then bring him before the eyes of the people, that they may testify. (61)They said: "Are you the one who has done this to our gods, O Ibrahim? (62)He said: "Nay, this one, the biggest of them did it. Ask them, if they can speak! (63)
+
+How Ibrahim broke the Idols
+
+Then Ibrahim swore an oath, which some of his people heard, to plot against their idols, i.e., to break them and destroy them after they had gone away and turned their backs, when they went out to their festival. They had a festival which they would go out to celebrate. Abu Ishaq reported from Abu Al-Ahwas from 'Abdullah Ibn Mas'ud, "When the people of Ibrahim went out to celebrate their festival, they passed by him and said, 'O Ibrahim, are you not coming out with us' He said, 'I am sick.'" It was only the day before that he had said,
+
+وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَامَكُم بَعْدَ أَن تُوَلُّوا مُدْبِرِينَ
+
+(And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs.) and some of the people had heard him.
+
+فَجَعَلَهُمْ جُذَاذًا
+
+(So he broke them to pieces,) means, he smashed them all, except for the biggest idol. This is like the Ayah,
+
+فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ
+
+(Then he turned upon them, striking (them) with (his) right hand)(37:93).
+
+لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+
+(that they might turn to it.) It was said that he put a hammer in the hands of the biggest idol so that the people would think that it had become jealous on its own account and objected to these smaller idols being worshipped alongside it, so it had broken them.
+
+قَالُوا مَن فَعَلَ هَٰذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ
+
+(They said: "Who has done this to our gods? He must indeed be one of the wrongdoers.") When they came back and saw what Ibrahim had done to their idols, humiliating them and lowering their status, proving that they were not divine and that those who worshipped them were fools,
+
+قَالُوا مَن فَعَلَ هَٰذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ
+
+(They said: "Who has done this to our gods? He must indeed be one of the wrongdoers.") because of this action of his.
+
+قَالُوا سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ
+
+(They said: "We heard a young man talking against them, who is called Ibrahim.") Those who had heard him swearing to plot against them said, we heard a young man talking about them, and they said that he was called Ibrahim.
+
+قَالُوا فَأْتُوا بِهِ عَلَىٰ أَعْيُنِ النَّاسِ
+
+(They said: "Then bring him before the eyes of the people...") meaning, in front of a large audience so that all the people could be present. This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
+
+قَالُوا أَأَنتَ فَعَلْتَ هَٰذَا بِآلِهَتِنَا يَا إِبْرَاهِيمُ - قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَٰذَا
+
+(They said: "Are you the one who has done this to our gods, O Ibrahim?" He said: "Nay, this one, the biggest of them did it...") referring to the one he had left alone and had not broken.
+
+فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ
+
+(Ask them, if they can speak!) He was hoping that they would admit of their own volition that these idols could not speak and that this idol would not say anything because it was inanimate. In the Two Sahihs it was recorded from Abu Hurayrah that the Messenger of Allah ﷺ said:
+
+إِنَّ إِبْرَاهِيمَ عَلَيْهِ السَّلَامُ لَمْ يَكْذِبْ غَيْرَ ثَلَاثٍ: ثِنْتَيْنِ فِي ذَاتِ اللهِ قَوْلُهُ:
+
+(Ibrahim, upon him be peace, did not tell lies except on three occasions, two for the sake of Allah – when he said:
+
+بَلْ فَعَلَهُ كَبِيرُهُمْ هَٰذَا
+
+(Nay, this one, the biggest of them did it.) and when he said:
+
+إِنِّي سَقِيمٌ
+
+(Verily, I am sick)(37:89).
+
+قَالَ: وَبَيْنَا هُوَ يَسِيرُ فِي أَرْضِ جَبَّارٍ مِنَ الْجَبَابِرَةِ وَمَعَهُ سَارَّةُ، إِذْ نَزَلَ مَنْزِلًا فَأَتَى الْجَبَّارَ رَجُلٌ فَقَالَ: إِنَّهُ قَدْ نَزَل هَهُنَا رَجُلٌ بِأَرْضِكَ مَعَهُ امْرَأَةٌ أَحْسَنُ النَّاسِ، فَأَرْسَلَ إِلَيْهِ فَجَاءَ، فَقَالَ: مَا هَذِهِ الْمَرْأَةُ مِنْكَ؟ قَالَ: هِيَ أُخْتِي. قَالَ: فَاذْهَبْ فَأَرْسِلْ بِهَا إِلَيَّ، فَانْطَلَقَ إِلَى سَارَّةَ فَقَالَ: إِنَّ هَذَا الْجَبَّارَ قَدْ سَأَلَنِي عَنْكِ، فَأَخْبَرْتُهُ أَنَّكِ أُخْتِي، فَلَا تُكَذِّبِينِي عِنْدَهُ، فَإِنَّكِ أُخْتِي فِي كِتَابِ اللهِ، وَإِنَّهُ لَيْسَ فِي الْأَرْضِ مُسْلِمٌ غَيْرِي وَغَيْرُكِ، فَانْطَلَقَ بِهَا إِبْرَاهِيمُ ثُمَّ قَامَ يُصَلِّي، فَلَمَّا أَنْ دَخَلَتْ عَلَيْهِ فَرَآهَا أَهْوَى إِلَيْهَا فَتَنَاوَلَهَا فَأُخِذَ أَخْذًا شَدِيدًا، فَقَالَ: ادْعِي اللهَ لِي وَلَا أَضُرُّكِ، فَدَعَتْ لَهُ، فَأُرْسِلَ فَأَهْوَى إِلَيْهَا، فَتَنَاوَلَهَا فَأُخِذَ بِمِثْلِهَا أَوْ أَشَدَّ، فَفَعَلَ ذَلِكَ الثَّالِثَةَ، فَأُخِذَ فَذَكَرَ مِثْلَ الْمَرَّتَيْنِ الْأُولَيَيْنِ، فَقَالَ: ادْعِي اللهَ فَلَا أُضُرَّكِ، فَدَعَتْ لَهُ فَأُرْسِلَ، ثُمَّ دَعَا أَدْنَى حُجَّابِهِ فَقَالَ: إِنَّكَ لَمْ تَأْتِنِي بِإِنْسَانٍ، وَلَكِنَّكَ أَتَيْتَنِي بِشَيْطَانٍ، أَخْرِجْهَا وَأَعْطِهَا هَاجَرَ.
+
+فَأُخْرِجَتْ وَأُعْطِيَتْ هَاجَرَ، فَأَقْبَلَتْ، فَلَمَّا أَحَسَّ إِبْرَاهِيمُ بِمَجِيئِهَا، انْفَتَلَ مِنْ صَلَاتِهِ، وَقَالَ: مَهْيَمْ. قَالَتْ: كَفَى اللهُ كَيْدَ الْكَافِرِ الْفَاجِرِ، وَأَخْدَمَنِي هَاجَرَ
+
+(and when he was traveling in the land of one of the tyrants, and Sarah was with him; when he made camp, a man came to the tyrant and said, "A man has made camp in your land and with him is a woman who is the most beautiful of people." The tyrant sent for Ibrahim, and asked him, "What is the relationship of this woman to you?" He said, "She is my sister." The tyrant said, "Go and send her to me." So Ibrahim went to Sarah and said, "This tyrant asked me about you, and I told him that you are my sister, so do not let him think that I am lying. For you are indeed my sister according to the Book of Allah, and there are no Muslims on the earth apart from you and I." So Ibrahim brought her to him, then he stood and prayed. When she entered upon the tyrant, he reached for her desirously once he saw her. But he suffered a severe seizure. So he said, "Pray to Allah for me and I will not harm you." So she prayed for him and it released him. Then he reached for her desirously, but he was stricken similarly before or worse. This continued three times, and each time he said the same as he had said the first time. Then he called the closest of his guards and said, "You have not brought me a human being, you have brought me a devil! Take her out and give her Hajar. So she was taken out and given Hajar, and she went back. When Ibrahim realized that she had come back, he finished his prayer and turned around. He said, "What happened?" She said, "Allah took care of the evil disbeliever's plot, and he gave me Hajar as a servant.")
+
+Muhammad bin Sirin said, "When Abu Hurayrah narrated this Hadith, he said, 'This is your mother, O sons of the water of the heaven.'"
+
+## Maarif ul Quran
+
+Commentary
+
+وَتَاللَّـهِ لَأَكِيدَنَّ أَصْنَامَكُم (And I swear by Allah that I will do something to your idols - 21:57) The wording of the verse indicates that Sayyidna Ibrahim (علیہ السلام) spoke these words before his community. But this explanation leaves a little doubt in one's mind because Sayyidna Ibrahim (علیہ السلام) had excused himself from going to the Eid festival by pleading illness إِنِّي سَقِيمٌ - I am sick - 37:89). And when they found their idols broken, they started a search for the culprit. If they already knew what he had said about their idols and that he had stayed behind alone when they had gone to attend the Eid function, then it was fairly obvious that he had broken the idols. Then where was the need for them to go looking for the offender? There are more than one explanations to this situation. One, that since Sayyidna Ibrahim (علیہ السلام) was the only one holding these views and enjoyed no standing in the community, people might have ignored and even forgotten what he had said as something of no consequence. (Bayan ul-Qur'an). Two, that those who were looking for the culprit were a different lot of people and were not aware of what he (Sayyidna Ibrahim علیہ السلام) had said about their idols. While in a third version Mujahid and Qatadah are of the view that Sayyidna Ibrahim (علیہ السلام) did not speak these words before other people, but only pictured the situation in his mind, or had said that only at heart, or he might have spoken them before one or two old persons after the people had left for the festival. Later, when the idols were found broken and the people started looking for the one who did it, these old men revealed the secret to them. (Qurtubi)
+
+## Personal Reflections

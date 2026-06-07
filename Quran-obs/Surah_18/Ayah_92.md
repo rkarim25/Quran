@@ -1,0 +1,95 @@
+---
+arabic_ayat: ثُمَّ اَتۡبَعَ سَبَبًا‏
+sentence_translation: Then he travelled a ˹third˺ course
+word_by_word:
+  1:
+    arabic: ثُمَّ
+    translation: Then
+    transliteration: thumma
+  2:
+    arabic: اَتۡبَعَ
+    translation: he followed
+    transliteration: atbaʿa
+  3:
+    arabic: سَبَبًا‏
+    translation: a course
+    transliteration: sababan
+---
+
+## Context
+
+To understand **The Cave** (Al-Kahf) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Then he followed (another) way (92)Until, when he reached between two mountains, he found before them a people who scarcely understood a word (93)They said: "O Dhul-Qarnayn! The Holy Qur'an does describe this state of the people Dhul-Qarnain found living towards the East meaning thereby that they were not accustomed to the use of ways and means like houses, tents and dresses to seek protection against the Sun.
+
+## Tafsir Ibn Kathir
+
+Then he followed (another) way (92)Until, when he reached between two mountains, he found before them a people who scarcely understood a word (93)They said: "O Dhul-Qarnayn! Verily, Ya'juj and Ma'juj are doing great mischief in the land. Shall we then pay you a tribute in order that you might erect a barrier between us and them? (94)He said: "That in which my Lord had established me is better. So help me with strength, I will erect between you and them a barrier. (95)"Give me Zubar of iron;" then, when he had filled up the gap between the two mountain-cliffs, he said: "Blow;" then when he had made them (red as) fire, he said: "Bring me Qitran to pour over them. (96)
+
+His Journey to the Land of Ya'juj and Ma'juj, and building the Barrier
+
+Allah says of Dhul-Qarnayn:
+
+ثُمَّ أَتْبَعَ سَبَبًا
+
+(Then he followed (another) way) meaning, he traveled from the east of the earth until he reached a place between the two mountains which were next to one another with a valley in between, from which Ya'juj and Ma'juj (Gog and Magog) will emerge into the land of the Turks and spread mischief there, destroying crops and people. Ya'juj and Ma'juj are among the progeny of Adam, peace be upon him, as was recorded in the Two Sahihs;
+
+إِنَّ اللهَ تَعَالَى يَقُولُ: يَا آدَمُ فَيَقُولُ: لَبَّيْكَ وَسَعْدَيْكَ فَيَقُولُ: ابْعَثْ بَعْثَ النَّارِ، فَيَقُولُ: وَمَا بَعْثُ النَّارِ؟ فَيَقُولُ: مِنْ كُلِّ أَلْفٍ تِسْعُمِائَةٍ وَتِسْعَةٌ وَتِسْعُونَ إِلَى النَّارِ وَوَاحِدٌ إِلَى الْجَنَّةِ، فَحِينَئِذٍ يَشِيبُ الصَّغِيرُ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا. فَقَالَ: إِنَّ فِيكُمْ أُمَّتيْنِ مَا كَانَتَا فِي شَيْءٍ إِلَّا كَثَّرَتَاهُ يَأْجُوجَ وَمَأْجُوجَ
+
+"Allah said: "O Adam." Adam said, "Here I am at Your service." Allah said, "Send forth the group of Hellfire." Adam said, "What is the group of Hellfire?" Allah said: "Out of every thousand, nine hundred and ninety-nine will go to Hell and one will go to Paradise." At that time young men will turn grey and every pregnant female will drop her load. Among you are two nations who never come to anything but they overwhelm it with their huge numbers. (They are) Ya'juj and Ma'juj."
+
+وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا
+
+(he found before them a people who scarcely understood a word.) he could not understand their speech, because they were so isolated from other people.
+
+قَالُوا يَا ذَا الْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِي الْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا
+
+(They said: "O Dhul-Qarnayn! Verily, Ya'juj and Ma'juj are doing great mischief in the land. Shall we then pay you a tribute?") Ibn Jurayj reported from 'Ata' from Ibn 'Abbas that this meant a great reward, i.e., they wanted to collect money among themselves to give to him so that he would create a barrier between them and Ya'juj and Ma'juj. Dhul-Qarnayn said with kindness, righteousness and good intentions,
+
+مَا مَكَّنِّي فِيهِ رَبِّي خَيْرٌ
+
+(That in which my Lord had established me is better (than your tribute).) meaning, the power and authority that Allah has given me is better for me than what you have collected. This is like when Sulayman (Solomon), peace be upon him, said:
+
+أَتُمِدُّونَنِ بِمَالٍ فَمَا آتَانِيَ اللَّهُ خَيْرٌ مِّمَّا آتَاكُم
+
+(Will you help me in wealth? What Allah has given me is better than that which He has given you!)[27:36] Similarly, Dhul-Qarnayn said: 'What I have is better than what you want to give me, but help me with strength,' i.e., with your labor and construction equipment,
+
+أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا - آتُونِي زُبَرَ الْحَدِيدِ
+
+(I will erect between you and them a barrier. Give me Zubar of iron,) Zubar is the plural of Zubrah, which means pieces or chunks of something. This was the view of Ibn 'Abbas, Mujahid and Qatadah. These pieces were like bricks or blocks, and it was said that each block weighed one Damascene Qintar or more.
+
+حَتَّىٰ إِذَا سَاوَىٰ بَيْنَ الصَّدَفَيْنِ
+
+(then, when he had filled up the gap between the two mountain-cliffs,) means, he put the blocks on top of one another, starting at the bottom, until he reached the tops of the mountains, filling the width and height of the gap. The scholars differed about the precise width and height.
+
+قَالَ انفُخُوا
+
+(he said: "Blow;") means, he lit a fire until the whole thing was burning hot.
+
+قَالَ آتُونِي أُفْرِغْ عَلَيْهِ قِطْرًا
+
+(he said: "Bring me Qitran to pour over them.") Ibn 'Abbas, Mujahid, 'Ikrimah, Ad-Dahhak, Qatadah and As-Suddi said it was copper. Some of them added that it was molten. This is similar to the Ayah:
+
+وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ
+
+(And We caused a fount of Qitran to flow for him)[34:12]. So it resembled a striped cloak. Then Allah said:
+
+## Maarif ul Quran
+
+Commentary
+
+The Holy Qur'an does describe this state of the people Dhul-Qarnain found living towards the East meaning thereby that they were not accustomed to the use of ways and means like houses, tents and dresses to seek protection against the Sun. But, it does not mention anything about their faith and deeds, nor does it say what Dhul-Qarnain did to them.
+
+However, it is obvious that these people too were infidels and Dhul-Qarnain handled them the way he had handled the people he had found in the West as mentioned earlier. But, describing it again at this place was not considered necessary since finding it out is also possible on the analogy of the previous event. (As in al-Bahr al-Muhit from Ibn Atiyyah)
+
+## Personal Reflections

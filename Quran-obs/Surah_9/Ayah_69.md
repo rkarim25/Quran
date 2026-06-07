@@ -1,0 +1,209 @@
+---
+arabic_ayat: كَالَّذِيۡنَ مِنۡ قَبۡلِكُمۡ كَانُوۡۤا اَشَدَّ مِنۡكُمۡ قُوَّةً وَّاَكۡثَرَ
+  اَمۡوَالًا وَّاَوۡلَادًا ؕ فَاسۡتَمۡتَعُوۡا بِخَلَاقِهِمۡ فَاسۡتَمۡتَعۡتُمۡ بِخَلَاقِكُمۡ
+  كَمَا اسۡتَمۡتَعَ الَّذِيۡنَ مِنۡ قَبۡلِكُمۡ بِخَلَاقِهِمۡ وَخُضۡتُمۡ كَالَّذِىۡ
+  خَاضُوۡا​ ؕ اُولٰۤٮِٕكَ حَبِطَتۡ اَعۡمَالُهُمۡ فِى الدُّنۡيَا وَالۡاٰخِرَةِ​ ۚ وَاُولٰۤٮِٕكَ
+  هُمُ الۡخٰسِرُوۡنَ‏
+sentence_translation: ˹You hypocrites are˺ like those ˹disbelievers˺ before you. They
+  were far superior to you in might and more abundant in wealth and children. They
+  enjoyed their share in this life. You have enjoyed your share, just as they did.
+  And you have engaged in idle talk, just as they did. Their deeds have become void
+  in this world and the Hereafter. And it is they who are the ˹true˺ losers.
+word_by_word:
+  1:
+    arabic: كَالَّذِيۡنَ
+    translation: Like those
+    transliteration: ka-alladhīna
+  2:
+    arabic: مِنۡ
+    translation: before you
+    transliteration: min
+  3:
+    arabic: قَبۡلِكُمۡ
+    translation: before you
+    transliteration: qablikum
+  4:
+    arabic: كَانُوۡۤا
+    translation: they were
+    transliteration: kānū
+  5:
+    arabic: اَشَدَّ
+    translation: mightier
+    transliteration: ashadda
+  6:
+    arabic: مِنۡكُمۡ
+    translation: than you
+    transliteration: minkum
+  7:
+    arabic: قُوَّةً
+    translation: (in) strength
+    transliteration: quwwatan
+  8:
+    arabic: وَّاَكۡثَرَ
+    translation: and more abundant
+    transliteration: wa-akthara
+  9:
+    arabic: اَمۡوَالًا
+    translation: (in) wealth
+    transliteration: amwālan
+  10:
+    arabic: وَّاَوۡلَادًا ؕ
+    translation: and children
+    transliteration: wa-awlādan
+  11:
+    arabic: فَاسۡتَمۡتَعُوۡا
+    translation: So they enjoyed
+    transliteration: fa-is'tamtaʿū
+  12:
+    arabic: بِخَلَاقِهِمۡ
+    translation: their portion
+    transliteration: bikhalāqihim
+  13:
+    arabic: فَاسۡتَمۡتَعۡتُمۡ
+    translation: and you have enjoyed
+    transliteration: fa-is'tamtaʿtum
+  14:
+    arabic: بِخَلَاقِكُمۡ
+    translation: your portion
+    transliteration: bikhalāqikum
+  15:
+    arabic: كَمَا
+    translation: like
+    transliteration: kamā
+  16:
+    arabic: اسۡتَمۡتَعَ
+    translation: enjoyed
+    transliteration: is'tamtaʿa
+  17:
+    arabic: الَّذِيۡنَ
+    translation: those
+    transliteration: alladhīna
+  18:
+    arabic: مِنۡ
+    translation: before you
+    transliteration: min
+  19:
+    arabic: قَبۡلِكُمۡ
+    translation: before you
+    transliteration: qablikum
+  20:
+    arabic: بِخَلَاقِهِمۡ
+    translation: their portion
+    transliteration: bikhalāqihim
+  21:
+    arabic: وَخُضۡتُمۡ
+    translation: and you indulge
+    transliteration: wakhuḍ'tum
+  22:
+    arabic: كَالَّذِىۡ
+    translation: like the one who
+    transliteration: ka-alladhī
+  23:
+    arabic: خَاضُوۡا​ ؕ
+    translation: indulges (in idle talk)
+    transliteration: khāḍū
+  24:
+    arabic: اُولٰۤٮِٕكَ
+    translation: Those
+    transliteration: ulāika
+  25:
+    arabic: حَبِطَتۡ
+    translation: worthless
+    transliteration: ḥabiṭat
+  26:
+    arabic: اَعۡمَالُهُمۡ
+    translation: (are) their deeds
+    transliteration: aʿmāluhum
+  27:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  28:
+    arabic: الدُّنۡيَا
+    translation: the world
+    transliteration: l-dun'yā
+  29:
+    arabic: وَالۡاٰخِرَةِ​ ۚ
+    translation: and (in) the Hereafter
+    transliteration: wal-ākhirati
+  30:
+    arabic: وَاُولٰۤٮِٕكَ
+    translation: And those
+    transliteration: wa-ulāika
+  31:
+    arabic: هُمُ
+    translation: they
+    transliteration: humu
+  32:
+    arabic: الۡخٰسِرُوۡنَ‏
+    translation: (are) the losers
+    transliteration: l-khāsirūna
+---
+
+## Context
+
+To understand **The Repentance** (At-Tawbah) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Like those before you: they were mightier than you in power, and more abundant in wealth and children. Let us now consider the statement: كَالَّذِينَ مِن قَبْلِكُمْ (You are) like those before you' in verse 69.
+
+## Tafsir Ibn Kathir
+
+Like those before you: they were mightier than you in power, and more abundant in wealth and children. They had enjoyed their portion (a while), so enjoy your portion (a while) as those before you enjoyed their portion (a while); and you indulged in play and pastime as they indulged in play and pastime. Such are they whose deeds are in vain in this world and in the Hereafter. Such are they who are the losers (69)
+
+بِخَلَاقِهِمْ
+
+(their portion), means, [they mocked] their religion, according to Al-Hasan Al-Basri. Allah's statement,
+
+وَخُضْتُمْ كَالَّذِي خَاضُوا
+
+(and you indulged in play and pastime as they indulged in play and pastime), indulged in lies and falsehood,
+
+أُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ
+
+(Such are they whose deeds are in vain), their deeds are annulled; they will not acquire any rewards for them because they are invalid,
+
+فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
+
+(in this world and in the Hereafter. Such are they who are the losers.) because they will not acquire any rewards for their actions. Ibn 'Abbas commented, "How similar is this night to the last night,
+
+كَالَّذِينَ مِن قَبْلِكُمْ
+
+(Like those before you...) These are the Children of Israel, with whom we were compared. The Prophet ﷺ said,
+
+وَالَّذِي نَفْسِي بِيَدِهِ لَتَتَّبِعُنَّهُمْ حَتَّى لَوْ دَخَلَ الرَّجُلُ مِنْهُمْ جُحْرَ ضَبَ لَدَخَلْتُمُوهُ
+
+(By He in Whose Hand is my life! You will imitate them, and even if a man of them entered the den of a lizard, you will enter it likewise!)"
+
+Abu Hurayrah narrated that the Messenger of Allah ﷺ said,
+
+وَالَّذِي نَفْسِي بِيَدِهِ لَتَتَّبِعُنَّ سَنَنَ الَّذِينَ مِنْ قَبْلِكُمْ شِبْرًا بِشِبْرٍ وَذِرَاعًا بِذِرَاعٍ، وَبَاعًا بِبَاعٍ حَتَّى لَوْ دَخَلُوا جُحْرَ ضَبٍّ لَدَخَلْتُمُوهُ
+
+قالوا: ومن هم يا رسول الله، أهل الكتاب؟ قال:
+
+فَمَنْ؟
+
+(By He in Whose Hand is my soul! You will follow the traditions of those who were before you a hand span for a hand-span and forearm's length for forearm's length, and an arm's length for an arm's length. And even if they enter the den of a lizard, you will also enter it.) They asked, "Who, O Allah's Messenger, the People of the Book?" He said, (Who else)?"
+
+This Hadith is similar to another Hadith collected in the Sahih.
+
+## Maarif ul Quran
+
+Let us now consider the statement: كَالَّذِينَ مِن قَبْلِكُمْ (You are) like those before you' in verse 69. According to one exegetical explanation, this is addressed to hypocrites while according to the other explanation, the address is to Muslims. The addition of ` you are' in parenthesis points out in this direction. Thus, it means that ` you too are like people before you. They went for worldly enjoyments and forgot all about the life to come. The result was that they sank into all sorts of sins. So shall you be.
+
+Explaining this verse, Sayyidna Abu Hurairah ؓ عنہ narrates a Hadith in which the Holy Prophet ﷺ . 1n al has been reported to have said that ` you too will take to the ways taken by communities before you. You will imitate them in toto as dittos and clones to the limit that should you see one of them entering into the hole of a lizard (iguana), you will follow him there too.' After having narrated this far, Sayyidna Abu Hurairah ؓ said that should anyone wish to as-certain the thematic authenticity of this Hadith, let him read this verse of the Qur'an: كَالَّذِينَ مِن قَبْلِكُمْ `(You are) like those before you - 69.'
+
+On hearing this, Sayyidna ` Abdullah ibn ` Abbas ؓ said: مَا اَشبَہَ اللَّیلَۃ بِالبَارِحَۃِ that is, ` how similar is this night (in our time) to the last night (way back) - they are the people of Bani Isra'il and we have been likened to them.' (Qurtubi)
+
+The aim of the Hadith is fairly evident. It warns that Muslims too will start following the ways of the Jews and Christians by latter times. This statement appears only after a punishment has been announced for the hypocrites. It serves as an indicator that good Muslims would not do that. Only those among them, who are weak in 'Iman may do so because they are still infected with the germs of hypocrisy. All good men and women of the Muslim community have been instructed in this verse that they should themselves abstain from such ways as well as help others do the same.
+
+## Personal Reflections

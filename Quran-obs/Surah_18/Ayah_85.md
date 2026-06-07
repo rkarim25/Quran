@@ -1,0 +1,97 @@
+---
+arabic_ayat: فَاَ تۡبَعَ سَبَبًا‏
+sentence_translation: So he travelled a course,
+word_by_word:
+  1:
+    arabic: فَاَ تۡبَعَ
+    translation: So he followed
+    transliteration: fa-atbaʿa
+  2:
+    arabic: سَبَبًا‏
+    translation: a course
+    transliteration: sababan
+---
+
+## Context
+
+To understand **The Cave** (Al-Kahf) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+So he followed a way (85)Until, when he reached the setting place of the sun, he found it setting in a spring of Hami'ah. Verse 85: فَأَتْبَعَ سَبَبًا So he followed a way) means that - though, the material means related to everything, even those that would facilitate his access to every region of the world - however, the first thing he did was to use his means to travel in the direction of the West.
+
+## Tafsir Ibn Kathir
+
+So he followed a way (85)Until, when he reached the setting place of the sun, he found it setting in a spring of Hami'ah. And he found near it a people. We said: "O Dhul-Qarnayn! Either you punish them or treat them with kindness. (86)He said: "As for him who does wrong, we shall punish him, and then he will be brought back unto his Lord, Who will punish him with a terrible torment (Hell). (87)"But as for him who believes and works righteousness, he shall have the best reward, and we shall speak unto him mild words. (88)
+
+His traveling and reaching the Place where the Sun sets (the West)
+
+فَأَتْبَعَ سَبَبًا
+
+(So he followed a way.) Ibn 'Abbas said that he followed different routes to achieve what he wanted.
+
+فَأَتْبَعَ سَبَبًا
+
+(So he followed a way.) Mujahid said that he followed different routes, east and west. According to one report narrated from Mujahid, he said:
+
+سَبَبًا
+
+(a way) means, "A route through the land." Qatadah said, "It means he followed the routes and landmarks of the earth."
+
+حَتَّىٰ إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ
+
+(Until, when he reached the setting place of the sun,) means, he followed a route until he reached the furthest point that could be reached in the direction of the sun's setting, which is the west of the earth. As for the idea of his reaching the place in the sky where the sun sets, this is something impossible, and the tales told by storytellers that he traveled so far to the west that the sun set behind him are not true at all. Most of these stories come from the myths of the People of the Book and the fabrications and lies of their heretics.
+
+وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ
+
+(he found it setting in a spring of Hami'ah) meaning, he saw the sun as if it were setting in the ocean. This is something which everyone who goes to the coast can see: it looks as if the sun is setting into the sea but in fact it never leaves its path in which it is fixed. Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud. This is like the Ayah:
+
+إِنِّي خَالِقٌ بَشَرًا مِّن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+
+("I am going to create a man (Adam) from dried clay of altered Hama'h (mud))[15:28], which means smooth mud, as we have discussed above.
+
+وَوَجَدَ عِندَهَا قَوْمًا
+
+(And he found near it a people.) meaning a nation. They mentioned that they were a great nation from among the sons of Adam.
+
+قُلْنَا يَا ذَا الْقَرْنَيْنِ إِمَّا أَن تُعَذِّبَ وَإِمَّا أَن تَتَّخِذَ فِيهِمْ حُسْنًا
+
+(We (Allah) said (by inspiration): "O Dhul-Qarnayn! Either you punish them or treat them with kindness") means, Allah gave him power over them and gave him the choice: if he wanted to, he could kill the men and take the women and children captive, or if he wanted to, he could set them free, with or without a ransom. His justice and faith became apparent in the ruling he pronounced:
+
+أَمَّا مَن ظَلَمَ
+
+(As for him who does wrong,) meaning who persists in his Kufr and in associating others in worship with his Lord,
+
+فَسَوْفَ نُعَذِّبُهُ
+
+(we shall punish him,) Qatadah said, i.e., by killing him.
+
+ثُمَّ يُرَدُّ إِلَىٰ رَبِّهِ فَيُعَذِّبُهُ عَذَابًا نُّكْرًا
+
+(and then he will be brought back unto his Lord, Who will punish him with a terrible torment.) meaning a severe, far-reaching and painful punishment. This implies a confirmation of the Hereafter and the reward and punishment.
+
+وَأَمَّا مَنْ آمَنَ
+
+(But as for him who believes), meaning 'who follows us in our call to worship Allah Alone with no partner or associate,'
+
+فَلَهُ جَزَاءً الْحُسْنَىٰ
+
+(he shall have the best reward,) meaning in the Hereafter, with Allah.
+
+وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْرًا
+
+(and we (Dhul-Qarnayn) shall speak unto him mild words.) Mujahid said, '(words of) kindness.'
+
+## Maarif ul Quran
+
+Verse 85: فَأَتْبَعَ سَبَبًا So he followed a way) means that - though, the material means related to everything, even those that would facilitate his access to every region of the world - however, the first thing he did was to use his means to travel in the direction of the West.
+
+## Personal Reflections

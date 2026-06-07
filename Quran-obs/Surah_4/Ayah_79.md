@@ -1,0 +1,257 @@
+---
+arabic_ayat: "مَاۤ اَصَابَكَ مِنۡ حَسَنَةٍ فَمِنَ اللّٰهِ​ وَمَاۤ اَصَابَكَ مِنۡ\
+  \ سَيِّئَةٍ فَمِنۡ نَّـفۡسِكَ​ ؕ وَاَرۡسَلۡنٰكَ لِلنَّاسِ رَسُوۡلًا​ ؕ وَكَفٰى بِاللّٰهِ\
+  \ شَهِيۡدًا‏ \uFEFF\uFEFF"
+sentence_translation: Whatever good befalls you is from Allah and whatever evil befalls
+  you is from yourself. We have sent you ˹O Prophet˺ as a messenger to ˹all˺ people.
+  And Allah is sufficient as a Witness.
+word_by_word:
+  1:
+    arabic: مَاۤ
+    translation: What(ever)
+    transliteration: mā
+  2:
+    arabic: اَصَابَكَ
+    translation: befalls you
+    transliteration: aṣābaka
+  3:
+    arabic: مِنۡ
+    translation: of
+    transliteration: min
+  4:
+    arabic: حَسَنَةٍ
+    translation: (the) good
+    transliteration: ḥasanatin
+  5:
+    arabic: فَمِنَ
+    translation: (is) from
+    transliteration: famina
+  6:
+    arabic: اللّٰهِ​
+    translation: Allah
+    transliteration: l-lahi
+  7:
+    arabic: وَمَاۤ
+    translation: and whatever
+    transliteration: wamā
+  8:
+    arabic: اَصَابَكَ
+    translation: befalls you
+    transliteration: aṣābaka
+  9:
+    arabic: مِنۡ
+    translation: of
+    transliteration: min
+  10:
+    arabic: سَيِّئَةٍ
+    translation: (the) evil
+    transliteration: sayyi-atin
+  11:
+    arabic: فَمِنۡ
+    translation: (is) from
+    transliteration: famin
+  12:
+    arabic: نَّـفۡسِكَ​ ؕ
+    translation: yourself
+    transliteration: nafsika
+  13:
+    arabic: وَاَرۡسَلۡنٰكَ
+    translation: And We have sent you
+    transliteration: wa-arsalnāka
+  14:
+    arabic: لِلنَّاسِ
+    translation: for the people
+    transliteration: lilnnāsi
+  15:
+    arabic: رَسُوۡلًا​ ؕ
+    translation: (as) a Messenger
+    transliteration: rasūlan
+  16:
+    arabic: وَكَفٰى
+    translation: and is sufficient
+    transliteration: wakafā
+  17:
+    arabic: بِاللّٰهِ
+    translation: Allah
+    transliteration: bil-lahi
+  18:
+    arabic: "شَهِيۡدًا‏ \uFEFF\uFEFF"
+    translation: (as) a Witness
+    transliteration: shahīdan
+---
+
+## Context
+
+To understand **The Women** (An-Nisa) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. They were also commanded to be forgiving and forbearing with the idolators and to observe patience with them at the time. However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies. The situation at that time did not permit armed conflict for many reasons. For instance, Muslims were few at the time, compared to their numerous enemies. The Muslims' city was a sacred one and the most honored area on the earth, and this is why the command to fight was not revealed in Makkah. Later on when the Muslims controlled a town of their own, Al-Madinah, and had strength, power and support, Jihad was then legislated. Yet, when the command to fight was revealed, just as Muslims wished, some of them became weary and were very fearful of facing the idolators in battle.
+
+That historical lens is essential.
+
+## Tafsir Summary
+
+Have you not seen those who were told to hold back their hands (from fighting) and perform Salah and give Zakah, but when the fighting was ordained for them, behold! Building secure houses is not against Tawakkul Let us now consider: وَلَوْ كُنتُمْ فِي بُرُ‌وجٍ مُّشَيَّدَةٍ in verse 78.
+
+## Tafsir Ibn Kathir
+
+Have you not seen those who were told to hold back their hands (from fighting) and perform Salah and give Zakah, but when the fighting was ordained for them, behold! a section of them fear men as they fear Allah or even more. They say: "Our Lord! Why have You ordained for us fighting? Would that You granted us respite for a short period?" Say: "Short is the enjoyment of this world. The Hereafter is (far) better for him who fears Allah, and you shall not be dealt with unjustly even equal to the 'Fatīl' (77)"Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!" And if some good reaches them, they say, "This is from Allah," but if some evil befalls them, they say, "This is from you." Say: "All things are from Allah," so what is wrong with these people that they fail to understand any word (78)Whatever of good reaches you, is from Allah, but whatever of evil befalls you, is from yourself. And We have sent you as a Messenger to mankind, and Allah is sufficient as a Witness (79)
+
+The Wish that the Order for Jihad be Delayed
+
+In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. They were also commanded to be forgiving and forbearing with the idolators and to observe patience with them at the time. However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies. The situation at that time did not permit armed conflict for many reasons. For instance, Muslims were few at the time, compared to their numerous enemies. The Muslims' city was a sacred one and the most honored area on the earth, and this is why the command to fight was not revealed in Makkah. Later on when the Muslims controlled a town of their own, Al-Madinah, and had strength, power and support, Jihad was then legislated. Yet, when the command to fight was revealed, just as Muslims wished, some of them became weary and were very fearful of facing the idolators in battle.
+
+وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ
+
+(They say: "Our Lord! Why have You ordained for us fighting? Would that You had granted us respite for a short period?") meaning, we wish that Jihad was delayed until a later time, because it means bloodshed, orphans and widows. In a similar Ayah, Allah said,
+
+وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَا أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ
+
+(Those who believe say: "Why is not a Surah sent down (for us)? But when a decisive is sent down, and fighting is mentioned). [47:20]
+
+Ibn Abi Hatim recorded that Ibn 'Abbas said that 'Abdur-Rahman bin 'Awf and several of his companions came to the Prophet ﷺ while in Makkah and said, "O Allah's Prophet! We were mighty when we were pagans, but when we embraced the faith, we became weak." The Prophet ﷺ said,
+
+إِنِّي أُمِرْتُ بِالْعَفْوِ فَلَا تُقَاتِلُوا الْقَوْمَ
+
+(I was commanded to pardon the people, so do not fight them.) When Allah transferred the Prophet ﷺ to Al-Madinah, He commanded him to fight (the idolators), but they (some Muslims) held back. So, Allah revealed the Ayah;
+
+أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ
+
+(Have you not seen those who were told to hold back their hands) This Hadith was collected by An-Nasa'i and Al-Hakim. Allah's statement,
+
+قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِّمَنِ اتَّقَىٰ
+
+(Say: "Short is the enjoyment of this world. The Hereafter is (far) better for him who fears Allah,) means, the destination of the one who with Taqwa is better for him than this life.
+
+وَلَا تُظْلَمُونَ فَتِيلًا
+
+(and you shall not be dealt with unjustly even equal to the 'Fatīl'.) for your good deeds. Rather, you will earn your full rewards for them. This promise directs the focus of believers away from this life and makes them eager for the Hereafter, all the while encouraging them to fight in Jihad.
+
+There is No Escaping Death
+
+Allah said,
+
+أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ
+
+(Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!) meaning, you shall certainly die and none of you shall ever escape death. Allah said,
+
+كُلُّ مَنْ عَلَيْهَا فَانٍ
+
+(Whatsooever is on it (the earth) will perish), [55:26]
+
+كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ
+
+(Everyone shall taste death), and,
+
+وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ الْخُلْدَ
+
+(And We granted not to any human being immortality before you).
+
+Therefore, every soul shall taste death and nothing can save any person from it, whether he performed Jihad or not. Everyone has an appointed time, and a limited term of life.
+
+In the illness that preceded his death, Khalid bin Al-Walid said, while in his bed, "I participated in so and so number of battles, and every part of my body sustained an injury due to a stab or a shot. Yet here I am, I die in my bed! Let not the eyes of the cowards ever taste sleep." Allah's statement,
+
+وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ
+
+(even if you are in fortresses built up strong and high!) means, entrenched, fortified, high and towering. No caution or fortification can ever avert death.
+
+The Hypocrites Sense a Bad Omen Because of the Prophet (ﷺ)!
+
+Allah said,
+
+وَإِن تُصِبْهُمْ حَسَنَةٌ
+
+(And if some good reaches them) meaning, fertile years and provision of fruits, produce, children, etc., as said by Ibn 'Abbas, Abu Al-'Aliyah and As-Suddi.
+
+يَقُولُوا هَٰذِهِ مِنْ عِندِ اللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ
+
+(they say, "This is from Allah," but if some evil befalls them) drought, famine, shortages of fruits and produce, death that strikes their children or animals, and so forth, as Abu Al-'Aliyah and As-Suddi stated.
+
+يَقُولُوا هَٰذِهِ مِنْ عِندِكَ
+
+(they say, "This is from you,") meaning, because of you and because we followed you and embraced your religion. Allah said about the people of Fir'awn,
+
+فَإِذَا جَاءَتْهُمُ الْحَسَنَةُ قَالُوا لَنَا هَٰذِهِ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُوا بِمُوسَىٰ وَمَن مَّعَهُ
+
+(But whenever good came to them, they said: "Ours is this." And if evil afflicted them, they ascribed it to evil omens connected with Musa and those with him.)[7:131] Allah said,
+
+وَمِنَ النَّاسِ مَن يَعْبُدُ اللَّهَ عَلَىٰ حَرْفٍ
+
+(And among mankind is he who worships Allah as it were upon the edge (i. e. in doubt)). [22:11]
+
+The same is the statement uttered by the hypocrites, who embraced Islam outwardly, but disliked it inwardly. This is why when a calamity befell them, they attributed it to following the Prophet ﷺ. Consequently, Allah revealed,
+
+قُلْ كُلٌّ مِّنْ عِندِ اللَّهِ
+
+(Say: "All things are from Allah")
+
+Allah's statement that all things are from Him means, everything occurs by the decision and decree of Allah, and His decision shall come to pass for both the righteous and the wicked, the faithful and the disbelievers. Allah then said while addressing His Messenger ﷺ, but refering to mankind in general,
+
+مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ
+
+(Whatever of good reaches you, is from Allah,) meaning, of Allah's bounty, favor, kindness and mercy.
+
+وَمَا أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ
+
+(But whatever of evil befalls you, is from yourself.), meaning because of you and due to your actions. Similarly, Allah said,
+
+وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ
+
+(And whatever of misfortune befalls you, it is because of what your hands have earned. And He pardons much.) As-Suddi, Al-Hasan Al-Basri, Ibn Jurayj and Ibn Zayd said that,
+
+فَمِن نَّفْسِكَ
+
+(from yourself) means, because of your errors. Qatadah said that,
+
+فَمِن نَّفْسِكَ
+
+(From yourself) means, as punishment for you, O son of Adam, because of your sins. Allah said,
+
+وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولًا
+
+(And We have sent you as a Messenger to mankind,) so that you convey to them Allah's commandments, what He likes and is pleased with, and what He dislikes and refuses.
+
+وَكَفَىٰ بِاللَّهِ شَهِيدًا
+
+(and Allah is sufficient as a Witness.) that He has sent you. He is also Witness over you and them, having full knowledge in what you convey to them and the disbelief and rebellion with which they respond to the truth.
+
+## Maarif ul Quran
+
+Building secure houses is not against Tawakkul
+
+Let us now consider: وَلَوْ كُنتُمْ فِي بُرُ‌وجٍ مُّشَيَّدَةٍ in verse 78. It says: 'Wherever you will be Death will overtake you, even though you are in fortified castles.' This tells us that building a good and strong house to live with ensured security of person and things is not contrary to the dictates of tawakkul or trust in Allah and that it is not against the rules of Shari'ah either. (Qurtubi)
+
+A Blessing comes only by the grace of Allah
+
+In مَّا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّـهِ (verse 79), translated as: 'whatever good comes to you is from Allah,' the word, حَسَنَةٍ 'hasanatin' means 'blessing' (Mazhari). The verse points out to the fact that any blessing which reaches man, any good that comes to him, does not get to him as a matter of his right. This is, on the contrary, nothing but the grace of Allah Almighty, His فضل 'fadl', in common Islamic terminology. No matter how much, he devotes to the many acts of worship he is obligated with, man cannot claim to deserve that blessing on the basis of his deeds alone. The reason is simple, because the very ability to engage in acts of worship comes from none but Allah Himself, which is known as the Taufiq of Allah. Then the blessings of Allah are countless, how could they be 'procured' by limited acts of worship and other expressions of obedience to His commands? Specially so, when whatever we do in the name of the worship of Allah is' hardly worthy of the supreme mastery and power of our Lord, the Lord of the universe of our experience and the Lord of universes beyond? This point has been made more succinctly in a hadith, where the Holy Prophet ﷺ ; has been reported to have said:
+
+مَا اَحَد یدخل الجنۃ الا برحمۃ اللہ : ولا أنت ؟ و لا أنا
+
+'No one shall enter Paradise unless it be with the mercy of Allah.' The narrator asked: 'Not you either?' He said, 'Yes. Not me either.'
+
+Calamities are the result of misdeeds
+
+In وَمَا أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ (verse 79), translated as: 'and whatever evil visits you, it comes from your own selves,' the word, سَيِّئَةٍ 'sayyi` atun' mean., مُصِیبَہ 'musibah', evil, hardship, (misfortune, calamity, disaster) according to Mazhari.
+
+Although, calamities are created by Allah, yet their cause lies nowhere else but in the very misdeeds of man himself. Now if this man is a disbeliever, a Kafir, the evil that hits him in this mortal world is only an ordinary sample of the ultimate punishment, the punishment of the world-to-come, which is much much more than the worldly punishment. And if this man is a believer, a mu'min, all his misfortunes become an expiation (kaffarah) of his sins in that case, and thereby become the very cause of his salvation in the Hereafter. Thus, the Holy Prophet ﷺ said in a hadith:
+
+ما من مصیبۃ تصیب المسلم الا کَفَر اللہ بھا عنہ حتی الشوکۃ یشاکھا
+
+"No evil ever touches a Muslim, but it becomes a source of forgiveness for him - even the pinch of a thorn in his feet." (Mazhari from Tirmidhi)
+
+In another hadith, reported by Abu Musa ؓ عنہ he said:
+
+عن ابی موسیٰ ان رسول اللہ ﷺ قال لا تصیب عبدا نکبۃ فما فوقھا وما دونھا الا بذنب وما یعفو اکثر
+
+"No hardship befalls a servant of Allah, be it light or tough, but it is always due to his sin - and the sins Allah forgives (without afflicting with a calamity) are much more." (Mazhari from Tirmidhi)
+
+The Prophet of Islam: His Prophethood is Universal
+
+The words: وَأَرْ‌سَلْنَاكَ لِلنَّاسِ رَ‌سُولًا ; (And We have sent you to be a Messenger for the people) appearing at the end of verse 79 prove that the Holy Prophet ﷺ has been sent as a Messenger of Allah (Rasul) for all peoples of the world. He was not simply a Messenger for Arabs alone.
+
+In fact, his prophethood is universal, open to all human beings of this entire universe, whether they'are present at this point of time, or may come to be there right through the Qiyamah, the fateful Last Day of this universe of ours. (Mazhari)
+
+## Personal Reflections

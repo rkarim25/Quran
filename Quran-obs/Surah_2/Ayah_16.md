@@ -1,0 +1,107 @@
+---
+arabic_ayat: اُولٰٓٮِٕكَ الَّذِيۡنَ اشۡتَرَوُا الضَّلٰلَةَ بِالۡهُدٰى فَمَا رَبِحَتۡ
+  تِّجَارَتُهُمۡ وَمَا كَانُوۡا مُهۡتَدِيۡنَ‏
+sentence_translation: They are the ones who trade guidance for misguidance. But this
+  trade is profitless, and they are not ˹rightly˺ guided.
+word_by_word:
+  1:
+    arabic: اُولٰٓٮِٕكَ
+    translation: Those
+    transliteration: ulāika
+  2:
+    arabic: الَّذِيۡنَ
+    translation: (are) the ones who
+    transliteration: alladhīna
+  3:
+    arabic: اشۡتَرَوُا
+    translation: bought
+    transliteration: ish'tarawū
+  4:
+    arabic: الضَّلٰلَةَ
+    translation: '[the] astraying'
+    transliteration: l-ḍalālata
+  5:
+    arabic: بِالۡهُدٰى
+    translation: for [the] guidance
+    transliteration: bil-hudā
+  6:
+    arabic: فَمَا
+    translation: So not
+    transliteration: famā
+  7:
+    arabic: رَبِحَتۡ
+    translation: profited
+    transliteration: rabiḥat
+  8:
+    arabic: تِّجَارَتُهُمۡ
+    translation: their commerce
+    transliteration: tijāratuhum
+  9:
+    arabic: وَمَا
+    translation: and not
+    transliteration: wamā
+  10:
+    arabic: كَانُوۡا
+    translation: were they
+    transliteration: kānū
+  11:
+    arabic: مُهۡتَدِيۡنَ‏
+    translation: guided-ones
+    transliteration: muh'tadīna
+---
+
+## Context
+
+To understand **The Cow** (Al-Baqarah) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+These are they who have purchased error with guidance, so their commerce was profitless. The ninth verse shows the basic denseness of the hypocrites - how they failed to make use of the ordinary sense of discrimination.
+
+## Tafsir Ibn Kathir
+
+These are they who have purchased error with guidance, so their commerce was profitless. And they were not guided (16)
+
+In his Tafsir, As-Suddi reported that Ibn 'Abbas and Ibn Mas'ud commented on;
+
+أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ
+
+(These are they who have purchased error with guidance) saying it means, "They pursued misguidance and abandoned guidance. " Mujahid said, "They believed and then disbelieved," while Qatadah said, "They preferred deviation to guidance." Qatadah's statement is similar in meaning to Allah's statement about Thamud,
+
+وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَىٰ عَلَى الْهُدَىٰ
+
+(And as for Thamud, We granted them guidance, but they preferred blindness to guidance)(41:17).
+
+In summary, the statements that we have mentioned from the scholars of Tafsir indicate that the hypocrites deviate from the true guidance and prefer misguidance, substituting wickedness in place of righteousness. This meaning explains Allah's statement,
+
+أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ
+
+(These are they who have purchased error with guidance), meaning, they exchanged guidance to buy misguidance. This meaning includes those who first believed, then later disbelieved, whom Allah described,
+
+ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ
+
+(That is because they believed, and then disbelieved; therefore their hearts are sealed)(63:3).
+
+The Ayah also includes those who preferred deviation over guidance. The hypocrites fall into several categories. This is why Allah said,
+
+فَمَا رَبِحَت تِّجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ
+
+(So their commerce was profitless. And they were not guided), meaning their trade did not succeed nor were they righteous or rightly guided throughout all this. In addition, Ibn Jarir narrated that Qatadah commented on the Ayah,
+
+فَمَا رَبِحَت تِّجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ
+
+(So their commerce was profitless. And they were not guided), "By Allah! I have seen them leaving guidance for deviation, leaving the Jama'ah (the community of the believers) for the sects, leaving safety for fear, and the Sunnah for innovation." Ibn Abi Hatim also reported other similar statements.
+
+## Maarif ul Quran
+
+The ninth verse shows the basic denseness of the hypocrites - how they failed to make use of the ordinary sense of discrimination. They had grown up in a pagan society, and knew very well what the way of the infidels was. Now they had become familiar enough with Islam too, and could easily see the difference. But, in their greed, and for the sake of petty worldly profit, they still chose disbelief as against Islam, and bartered away something as invaluable as Iman ایمان (faith) for something as worthless, and even harmful as kufr کفر (infidelity). In giving the name of 'trade' or 'commerce' to this action, the Holy Qur'an suggests that these worldly-wise men had no understanding even of the art of trading.
+
+## Personal Reflections

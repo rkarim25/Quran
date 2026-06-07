@@ -1,0 +1,215 @@
+---
+arabic_ayat: وَاذْکُرُوْ انِعْمَةَ اللهِ عَلَیْکُمْ وَمِیْثَاقَهُ الَّذِیْ وَاثَقَکُمْ
+  بِهۤ ۙ اِذْقُلْتُمْ سَمِعْنَا وَاَطَعْنَا وَاتَّقُوا اللهَ ؕ اِنَّ اللهَ عَلِیْمٌۢ
+  بِذَاتِ الصُّدُوْرِ‏
+sentence_translation: Remember Allah’s favour upon you and the covenant He made with
+  you when you said, “We hear and obey.” And be mindful of Allah. Surely Allah knows
+  best what is ˹hidden˺ in the heart.
+word_by_word:
+  1:
+    arabic: وَاذْکُرُوْ
+    translation: And remember
+    transliteration: wa-udh'kurū
+  2:
+    arabic: انِعْمَةَ
+    translation: (the) Favor
+    transliteration: niʿ'mata
+  3:
+    arabic: اللهِ
+    translation: (of) Allah
+    transliteration: l-lahi
+  4:
+    arabic: عَلَیْکُمْ
+    translation: upon you
+    transliteration: ʿalaykum
+  5:
+    arabic: وَمِیْثَاقَهُ
+    translation: and His covenant
+    transliteration: wamīthāqahu
+  6:
+    arabic: الَّذِیْ
+    translation: which
+    transliteration: alladhī
+  7:
+    arabic: وَاثَقَکُمْ
+    translation: He bound you
+    transliteration: wāthaqakum
+  8:
+    arabic: بِهۤ ۙ
+    translation: with [it]
+    transliteration: bihi
+  9:
+    arabic: اِذْ
+    translation: when
+    transliteration: idh
+  10:
+    arabic: قُلْتُمْ
+    translation: you said
+    transliteration: qul'tum
+  11:
+    arabic: سَمِعْنَا
+    translation: We heard
+    transliteration: samiʿ'nā
+  12:
+    arabic: وَاَطَعْنَا
+    translation: and we obeyed
+    transliteration: wa-aṭaʿnā
+  13:
+    arabic: وَاتَّقُوا
+    translation: and fear
+    transliteration: wa-ittaqū
+  14:
+    arabic: اللهَ ؕ
+    translation: Allah
+    transliteration: l-laha
+  15:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  16:
+    arabic: اللهَ
+    translation: Allah
+    transliteration: l-laha
+  17:
+    arabic: عَلِیْمٌۢ
+    translation: (is) All-Knower
+    transliteration: ʿalīmun
+  18:
+    arabic: بِذَاتِ
+    translation: of what
+    transliteration: bidhāti
+  19:
+    arabic: الصُّدُوْرِ‏
+    translation: (is in) the breasts
+    transliteration: l-ṣudūri
+---
+
+## Context
+
+To understand **The Table Spread** (Al-Ma'idah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of two persons whom Muslims killed. The Jews left the execution of this plot to 'Amr bin Jihash bin Ka'b and ordered him to throw a stone on the Prophet ﷺ from above, when he came to them and sat under the wall. Allah told His Prophet ﷺ about their plot, and he went back to Al-Madinah and his Companions followed him later on. Allah sent down this Ayah concerning this matter. Allah's statement,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey." And have Taqwa of Allah. Some injunctions of the Shariah concerning the conduct of worldly life, choices in marriage and food appeared in the previous verses.
+
+## Tafsir Ibn Kathir
+
+And remember Allah's favor to you and His covenant with which He bound you when you said: "We hear and we obey." And have Taqwa of Allah. Verily, Allah is All-Knower of that which is in the breasts (7)O you who believe! Stand out firmly for Allah as just witnesses; and let not the enmity and hatred of others make you avoid justice. Be just, that is nearer to Taqwa; and have Taqwa of Allah. Verily, Allah is Well-Acquainted with what you do (8)Allah has promised those who believe and do deeds of righteousness, that for them there is forgiveness and a great reward (i.e. Paradise)(9)And they who disbelieve and deny Our Ayat are those who will be the dwellers of the Hell-fire (10)O you who believe! Remember the favor of Allah unto you when some people desired (made a plan) to stretch out their hands against you, but (Allah) held back their hands from you. So have Taqwa of Allah. And in Allah let the believers put their trust (11)
+
+Reminding the Believers of the Bounty of the Message and Islam
+
+Allah reminds His believing servants of His bounty by legislating this glorious religion and sending them this honorable Messenger. He also reminds them of the covenant and pledges that He took from them to follow the Messenger ﷺ, support and aid him, implement his Law and convey it on his behalf, while accepting it themselves. Allah said,
+
+وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُم بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا
+
+(And remember Allah's favor upon you and His covenant with which He bound you when you said, "We hear and we obey.")
+
+This is the pledge that they used to give to the Messenger of Allah ﷺ when they embraced Islam. They used to say, "We gave our pledge of obedience to the Messenger of Allah ﷺ to hear and obey, in times when we are active and otherwise, even if we were passed on for rights, and not to dispute leadership with its rightful people." Allah also said,
+
+وَمَا لَكُمْ لَا تُؤْمِنُونَ بِاللَّهِ وَالرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَاقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
+
+(And what is the matter with you that you believe not in Allah! While the Messenger invites you to believe in your Lord; and He has indeed taken your covenant, if you are real believers.)[57:8]
+
+It was also said that this Ayah (5:7) reminds the Jews of the pledges and promises Allah took from them to follow Muhammad ﷺ and adhere to his Law, as 'Ali bin Abi Talhah reported that Ibn 'Abbas stated. Allah then said,
+
+وَاتَّقُوا اللَّهَ
+
+(And have Taqwa of Allah.) in all times and situations. Allah says that He knows the secrets and thoughts that the hearts conceal,
+
+إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ
+
+(Verily, Allah is All-Knower of the secrets of (your) breasts.)
+
+The Necessity of Observing Justice
+
+Allah said,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ
+
+(O you who believe! Stand out firmly for Allah...) meaning, in truth for the sake of Allah, not for the sake of people or for fame,
+
+شُهَدَاءَ بِالْقِسْطِ
+
+(as just witnesses) observing justice and not transgression. It is recorded in the Two Sahihs that An-Nu'man bin Bashir said, "My father gave me a gift, but 'Amrah bint Rawahah, my mother, said that she would not agree to it unless he made Allah's Messenger ﷺ as a witness to it. So, my father went to Allah's Messenger ﷺ to ask him to be a witness to his giving me the gift. Allah's Messenger ﷺ asked,
+
+أكل ولدك نحلت مثله؟
+
+('Have you given the like of it to everyone of your offspring?') He replied in the negative. Allah's Messenger ﷺ said,
+
+اتَّقُوا اللهَ وَاعْدِلُوا فِي أَوْلَادِكُم
+
+(Have Taqwa of Allah and treat your children equally.) And said;
+
+إِنِّي لَا أَشْهَدُ عَلى جَوْرٍ
+
+(I shall not be witness to injustice.) My father then returned and took back his gift." Allah said;
+
+وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا
+
+(and let not the enmity and hatred of others make you avoid justice.)
+
+The Ayah commands: Do not be carried away by your hatred for some people to avoid observing justice with them. Rather, be just with every one, whether a friend or an enemy. This is why Allah said,
+
+اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ
+
+(Be just: that is nearer to Taqwa) this is better than if you abandon justice in this case.
+
+Although Allah said that observing justice is 'nearer to Taqwa', there is not any other course of action to take, therefore 'nearer' here means 'is'. Allah said in another Ayah,
+
+أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا
+
+(The dwellers of Paradise will, on that Day, have the best abode, and have the fairer of places for repose.)
+
+Some of the female Companions said to 'Umar, "You are more rough and crude than the Messenger of Allah ﷺ," meaning, you are rough, not that the Prophet ﷺ is rough at all. Allah said next,
+
+وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
+
+(and have Taqwa of Allah. Verily, Allah is Well-Acquainted with what you do.) and consequently, He will reward or punish you according to your actions, whether good or evil. Hence Allah's statement afterwards,
+
+وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُم مَّغْفِرَةٌ
+
+(Allah has promised those who believe and do deeds of righteousness, that for them there is forgiveness) for their sins,
+
+وَأَجْرٌ عَظِيمٌ
+
+(and a great reward.) which is Paradise, that is part of Allah's mercy for His servants. They will not earn Paradise on account of their good actions, but rather on account of His mercy and favor, even though they will qualify to earn this mercy on account of their good actions. Allah has made these actions the cause and path that lead to His mercy, favor, pardon and acceptance. Therefore, all this is from Allah Alone and all thanks are due to Him. Allah said next,
+
+وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ
+
+(And they who disbelieve and deny our Ayat are those who will be the dwellers of the Hell-fire.) This only demonstrates Allah's perfect justice, wisdom and judgment, He is never wrong, for He is the Most Wise, Most Just and Most Able.
+
+Among Allah's Favors is that He Prevented the Disbelievers from Fighting the Muslims
+
+Allah said,
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ
+
+(O you who believe! Remember the favor of Allah unto you when some people desired (made a plan) to stretch out their hands against you, but (Allah) withheld their hands from you.)
+
+Abdur-Razzaq recorded that Jabir said, "The Prophet ﷺ once stayed at an area and the people spread out seeking shade under various trees. The Prophet ﷺ hung his weapon on a tree, and a bedouin man came and took possession of the Prophet's weapon and held it aloft. He came towards the Prophet ﷺ and said, 'Who can protect you from me?' He replied, 'Allah, the Exalted, Most Honored.' The bedouin man repeated his question twice or thrice, each time the Prophet ﷺ answering him by saying, 'Allah.' The bedouin man then lowered the sword, and the Prophet ﷺ called his Companions and told them what had happened while the bedouin was sitting next to him, for the Prophet ﷺ did not punish him.' Ma'mar said that Qatadah used to mention that some Arabs wanted to have the Prophet ﷺ killed, so they sent that bedouin. Qatadah would then mention this Ayah,
+
+اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ
+
+(Remember the favor of Allah unto you when some people desired (made a plan) to stretch out their hands against you...)
+
+The story of this bedouin man, whose name is Ghawrath bin Al-Harith, is mentioned in the Sahih.
+
+Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of two persons whom Muslims killed. The Jews left the execution of this plot to 'Amr bin Jihash bin Ka'b and ordered him to throw a stone on the Prophet ﷺ from above, when he came to them and sat under the wall. Allah told His Prophet ﷺ about their plot, and he went back to Al-Madinah and his Companions followed him later on. Allah sent down this Ayah concerning this matter. Allah's statement,
+
+وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ
+
+(And in Allah let the believers put their trust.) and those who do so, then Allah shall suffice for them and shall protect them from the evil plots of the people. Thereafter, Allah commanded His Messenger ﷺ to expel Bani An-Nadir, and he laid siege to their area and forced them to evacuate Al-Madinah.
+
+## Maarif ul Quran
+
+Some injunctions of the Shariah concerning the conduct of worldly life, choices in marriage and food appeared in the previous verses. This verse mentions some injunctions relating to ` Ibadat, acts of worship like Salah, Wudu, Mash مسح ، Tayammum, Ghusl and Taharah
+
+## Personal Reflections

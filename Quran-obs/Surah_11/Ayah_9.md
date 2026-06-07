@@ -1,0 +1,133 @@
+---
+arabic_ayat: وَلَٮِٕنۡ اَذَقۡنَا الۡاِنۡسَانَ مِنَّا رَحۡمَةً ثُمَّ نَزَعۡنٰهَا مِنۡهُ​ۚ
+  اِنَّهٗ لَيَـــُٔوۡسٌ كَفُوۡرٌ‏
+sentence_translation: If We give people a taste of Our mercy then take it away from
+  them, they become utterly desperate, ungrateful.
+word_by_word:
+  1:
+    arabic: وَلَٮِٕنۡ
+    translation: And if
+    transliteration: wala-in
+  2:
+    arabic: اَذَقۡنَا
+    translation: We give man a taste
+    transliteration: adhaqnā
+  3:
+    arabic: الۡاِنۡسَانَ
+    translation: We give man a taste
+    transliteration: l-insāna
+  4:
+    arabic: مِنَّا
+    translation: (of) Mercy from Us
+    transliteration: minnā
+  5:
+    arabic: رَحۡمَةً
+    translation: (of) Mercy from Us
+    transliteration: raḥmatan
+  6:
+    arabic: ثُمَّ
+    translation: then
+    transliteration: thumma
+  7:
+    arabic: نَزَعۡنٰهَا
+    translation: We withdraw it
+    transliteration: nazaʿnāhā
+  8:
+    arabic: مِنۡهُ​ۚ
+    translation: from him
+    transliteration: min'hu
+  9:
+    arabic: اِنَّهٗ
+    translation: indeed, he
+    transliteration: innahu
+  10:
+    arabic: لَيَـــُٔوۡسٌ
+    translation: (is) despairing
+    transliteration: layaūsun
+  11:
+    arabic: كَفُوۡرٌ‏
+    translation: (and) ungrateful
+    transliteration: kafūrun
+---
+
+## Context
+
+To understand **Hud** (Hud) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation If we consider its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "… In the verses appearing above, it has been confirmed that the Holy Prophet ﷺ is a Messenger of Allah and an answer has been given to those who engineer doubts about it.
+
+## Tafsir Ibn Kathir
+
+And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "Ills have departed from me." Surely, he is exultant and boastful (ungrateful to Allah)(10)Except those who show patience and do righteous good deeds: those, theirs will be forgiveness and a great reward (Paradise)(11)
+
+The changing of Man's Attitude in Happiness and Hardship
+
+Allah, the Exalted, informs about mankind and the blameworthy characteristics that he possesses, except for those believing servants upon whom Allah has bestowed His mercy. Allah explains that when any hardship befalls man, after he has experienced blessings, he is disheartened and he despairs of any good in the future. He denies and rejects (the bounties of) his previous condition. Thus, he behaves as if he has never seen any good and he loses all hope for relief (from his situation). Likewise, if any blessing befalls him after displeasure,
+
+لَيَقُولَنَّ ذَهَبَ السَّيِّئَاتُ عَنِّي
+
+(he is sure to say, "Ills have departed from me.") This means that he will claim that no harm or calamity will afflict him after this (blessing).
+
+إِنَّهُ لَفَرِحٌ فَخُورٌ
+
+(Surely, he is exultant and boastful (ungrateful to Allah).) This means that he is pleased with what he has in his hand and ungrateful (to Allah). At the same time he is boastful towards others. Allah, the Exalted, then says,
+
+إِلَّا الَّذِينَ صَبَرُوا
+
+(Except those who show patience) meaning, those who show patience during times of hardship and adversity. In reference to Allah's statement,
+
+وَعَمِلُوا الصَّالِحَاتِ
+
+(and do righteous good deeds) This means that they perform the good deeds in times of ease and good health. Concerning the statement,
+
+أُولَٰئِكَ لَهُم مَّغْفِرَةٌ
+
+(those, theirs will be forgiveness) meaning, that they will be forgiven due to the calamities that afflicted them. Concerning Allah's statement,
+
+وَأَجْرٌ كَبِيرٌ
+
+(and a great reward.) This great reward is due to them because of what they sent forth (of good deeds) in their times of ease. This is similar to what is mentioned in the Hadith,
+
+وَالَّذِي نَفْسِي بِيَدِهِ! لَا يُصِيبُ الْمُؤْمِنَ هَمٌّ وَلَا غَمٌّ وَلَا نَصَبٌ وَلَا وَصَبٌ وَلَا حَزَنٌ، حَتَّى الشَّوْكَةُ يُشَاكُهَا إِلَّا كَفَّرَ اللهُ عَنْهُ بِهَا مِنْ خَطَايَاهُ
+
+(By He in Whose Hand is my soul! No worry, calamity, distress, illness, or grief strikes a believer, even the prick of a thorn, except that Allah will expiate his sins for him because of it.) In the Sahih it is recorded that the Prophet ﷺ said,
+
+وَالَّذِي نَفْسِي بِيَدِهِ! لَا يَقْضِي اللهُ لِلْمُؤْمِنِ قَضَاءً إِلَّا كَانَ خَيْرًا لَهُ، إِنْ أَصَابَتْهُ سَرَّاءُ فَشَكَرَ كَانَ خَيْرًا لَهُ، وَإِنْ أَصَابَتْهُ ضَرَّاءُ فَصَبَرَ كَانَ خَيْرًا لَهُ، وَلَيْسَ ذَلِكَ لِأَحَدٍ غَيْرِ الْمُؤْمِنِ
+
+(By He in Whose Hand is my soul! Allah does not decree any matter for the believer except that it is good for him. If any blessing befalls him, he is thankful (to Allah) and that is good for him. If any harm comes to him, he is patient and that is also good for him. This is (a bounty) exclusively for the believer.) For this reason, Allah, the Exalted, says,
+
+وَالْعَصْرِ - إِنَّ الْإِنسَانَ لَفِي خُسْرٍ - إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
+
+(By Al-'Asr (the time). Verily, man is in loss. Except those who believe and do righteous good deeds. And recommend one another to the truth and recommend one another to patience.)[103:1-3] Allah also says,
+
+إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا
+
+(Verily, man was created very impatient.)[70:19]
+
+## Maarif ul Quran
+
+Commentary
+
+In the verses appearing above, it has been confirmed that the Holy Prophet ﷺ is a Messenger of Allah and an answer has been given to those who engineer doubts about it. At the beginning, in the first three verses (9-11), an instinctively bad human habit has been mentioned with an instruction to Muslims that they should stay away from it.
+
+That man is naturally fickle-minded and haste-prone, and that he tends to be consumed by his immediate condition and puts all concerns of the past and future out of his mind, has been described in the first two verses (9, 10). It has been said: If We let man taste a blessing and then take it back, he loses courage and hope and turns ungrateful. And if We let him taste a blessing after he has suffered from some hardship, he forgets all about his suffering and starts bragging and boasting.
+
+In other words, man is given to hurry things, takes the present as everything, does not bother to refer to the past or show concern for the future, therefore, a suffering after a blessing makes him lose hope and slide into ungratefulness. He never thinks that Allah who blessed him first could bless him again. Similarly, if one gets comfort after suffering, then he, rather than recall his past suffering, turn to Allah and be grateful to Him, starts waxing more proud and arrogant. In that state, he forgets his past and goes about thinking that Allah's blessings were his right, he has to have these, and that he remains under the impression that this was how he would continue for the rest of his life. So heedless he becomes that it just does not occur to him that the way the days of suffering did not continue any more, the same thing could hap-pen to the days of comfort and they too could vanish.
+
+Such is the state of human worship of the present and so tragic is the penchant for forgetting the past and the present that a power-hungry man would not even blink to raise the edifice of his power on the blood and dust of another man of power. Always looking up, he would never look down to recall that this had been the fate of the man of power before him. Sad ends and ill fates make no effect on him for power in the present tastes good.
+
+When people start worshipping the present and elect to remain drunk with the state they are in, that is high time for Books of Allah and His Messengers to come. When they do, they bring the lesson-oriented events of the past into sharp focus for heedless man to see things in this perspective and have a little concern for what would happen to them in the future. The lesson they teach is: Ponder over the changing conditions of the universe you are in and get to know the power working behind these - great sermonizers from the Lord!
+
+A perfect believer, in fact, a perfect human being is one who is able to perceive the hidden Power behind every change, revolution, sorrow and comfort, ignore their transitory phases, dismiss their material causes as the sole explanation. The mark of an intelligent person is that he looks at the originator or causer of causes more than he would look at causes, and it is with Him alone that he would relate to as firmly as possible.
+
+## Personal Reflections

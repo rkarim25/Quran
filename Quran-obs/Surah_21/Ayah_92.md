@@ -1,0 +1,121 @@
+---
+arabic_ayat: "اِنَّ هٰذِهٖۤ اُمَّتُكُمۡ اُمَّةً وَّاحِدَةً  ​ۖ وَّاَنَا رَبُّكُمۡ\
+  \ فَاعۡبُدُوۡنِ‏ \uFEFF\uFEFF"
+sentence_translation: ˹O prophets!˺ Indeed, this religion of yours is ˹only˺ one,
+  and I am your Lord, so worship Me ˹alone˺.
+word_by_word:
+  1:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  2:
+    arabic: هٰذِهٖۤ
+    translation: this
+    transliteration: hādhihi
+  3:
+    arabic: اُمَّتُكُمۡ
+    translation: '(is) your religion '
+    transliteration: ummatukum
+  4:
+    arabic: اُمَّةً
+    translation: religion
+    transliteration: ummatan
+  5:
+    arabic: وَّاحِدَةً  ​ۖ
+    translation: one
+    transliteration: wāḥidatan
+  6:
+    arabic: وَّاَنَا
+    translation: and I Am
+    transliteration: wa-anā
+  7:
+    arabic: رَبُّكُمۡ
+    translation: your Lord
+    transliteration: rabbukum
+  8:
+    arabic: "فَاعۡبُدُوۡنِ‏ \uFEFF\uFEFF"
+    translation: so worship Me
+    transliteration: fa-uʿ'budūni
+---
+
+## Context
+
+To understand **The Prophets** (Al-Anbya) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+92-106 , it has been declared that only those who follow the Right Way, will come out successful in the final judgment of God and those who discard it shall meet with the worst consequences.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves. So far the Surah deals with the stories of the prophets and several basic as well as minor principles relevant to those stories.
+
+## Tafsir Ibn Kathir
+
+Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves. (And) they all shall return to Us (93)So whoever does righteous good deeds while he is a believer, his efforts will not be rejected. Verily, We record it for him (in his Book of deeds)(94)
+
+Mankind is One Ummah
+
+إِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً
+
+(Truly, this, your Ummah is one,) Ibn 'Abbas, Mujahid, Sa'id bin Jubayr, Qatadah and 'Abdur-Rahman bin Zayd bin Aslam said, "Your religion is one religion." Al-Hasan Al-Basri said: "In this Ayah, Allah explains to them what they should avoid and what they should do." Then He said:
+
+إِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً
+
+(Truly, this, your Ummah is one religion,) "Meaning, your path is one path. Certainly this is your Shari'ah (Divine Law) which I have clearly explained you." So Allah says:
+
+وَأَنَا رَبُّكُمْ فَاعْبُدُونِ
+
+(and I am your Lord, therefore worship Me.) This is like the Ayah:
+
+يَا أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا
+
+(O (you) Messengers! Eat of the Tayyibat (good things) and do righteous deeds.) Until His saying,
+
+وَأَنَا رَبُّكُمْ فَاتَّقُونِ
+
+(And I am your Lord, so have Taqwa of Me.)(23:51-52) The Messenger of Allah ﷺ said:
+
+نَحْنُ مَعَاشِرَ الْأَنْبِيَاءِ أَوْلَادُ عَلَّاتٍ دِينُنَا وَاحِدٌ
+
+(We Prophets are brothers from different mothers and our religion is one.) What is meant here is that they all worshipped Allah Alone with no partner or associate, although the Laws of each Messenger may have differed, as Allah says:
+
+لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا
+
+(To each among you, We have prescribed a Law and a clear way)(5:48)
+
+وَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ
+
+(But they have broken up and differed in their religion among themselves.) meaning, the nations were divided over their Messengers; some of them believed in them and some rejected them. Allah says:
+
+كُلٌّ إِلَيْنَا رَاجِعُونَ
+
+((And) they all shall return to Us.) meaning, 'on the Day of Resurrection, when We will requite each person according to his deeds. If they are good, then he will be rewarded and if they are evil then he will be punished.' Allah says:
+
+فَمَن يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ
+
+(So whoever does righteous good deeds while he is a believer,) meaning, his heart believes and his deeds are righteous.
+
+فَلَا كُفْرَانَ لِسَعْيِهِ
+
+(his efforts will not be rejected.) This is like the Ayah:
+
+إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا
+
+(certainly We shall not make the reward of anyone who does his deeds in the most perfect manner to be lost.)(18:30) which means, his efforts will not be wasted; they will be appreciated and not even a speck of dust's weight of injustice will be done. Allah says:
+
+وَإِنَّا لَهُ كَاتِبُونَ
+
+(Verily, We record it for him.) means, all his deeds are recorded and nothing of them at all is lost.
+
+## Maarif ul Quran
+
+Commentary
+
+So far the Surah deals with the stories of the prophets and several basic as well as minor principles relevant to those stories. The basic beliefs such as Oneness of God, prophethood and the day of Resurrection are common to all prophets and are the foundation of their invitation to the people to follow the True Faith.
+
+## Personal Reflections

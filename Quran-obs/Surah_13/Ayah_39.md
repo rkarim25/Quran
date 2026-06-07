@@ -1,0 +1,147 @@
+---
+arabic_ayat: "يَمۡحُوۡا اللّٰهُ مَا يَشَآءُ وَيُثۡبِتُ ​ۖ ​ۚ وَعِنۡدَهٗۤ اُمُّ الۡكِتٰبِ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: Allah eliminates and confirms what He wills, and with Him is
+  the Master Record. 
+word_by_word:
+  1:
+    arabic: يَمۡحُوۡا
+    translation: (Is) eliminated
+    transliteration: yamḥū
+  2:
+    arabic: اللّٰهُ
+    translation: (by) Allah
+    transliteration: l-lahu
+  3:
+    arabic: مَا
+    translation: what
+    transliteration: mā
+  4:
+    arabic: يَشَآءُ
+    translation: He wills
+    transliteration: yashāu
+  5:
+    arabic: وَيُثۡبِتُ ​ۖ ​ۚ
+    translation: and confirms
+    transliteration: wayuth'bitu
+  6:
+    arabic: وَعِنۡدَهٗۤ
+    translation: and with Him
+    transliteration: waʿindahu
+  7:
+    arabic: اُمُّ
+    translation: (is) the Mother (of) the Book
+    transliteration: ummu
+  8:
+    arabic: "الۡكِتٰبِ‏ \uFEFF\uFEFF"
+    translation: (is) the Mother (of) the Book
+    transliteration: l-kitābi
+---
+
+## Context
+
+To understand **The Thunder** (Ar-Ra'd) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Say: "I am only a man like you. It has been revealed to me.")[18:110] It is recorded in the Two Sahihs that the Messenger of Allah ﷺ said,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And indeed We sent Messengers before you, and made for them wives and offspring. Said in the next verse (39) was: يَمْحُو اللَّـهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِندَهُ أُمُّ الْكِتَابِ : 'Allah wipes off what He wills and affirms (what He wills).
+
+## Tafsir Ibn Kathir
+
+And indeed We sent Messengers before you, and made for them wives and offspring. And it was not for a Messenger to bring a sign except by Allah's leave. (For) every matter there is a decree (from Allah)(38)Allah blots out what He wills and confirms (what He wills). And with Him is the Mother of the Book (39)
+
+All Prophets and Messengers were Humans
+
+Allah says, 'Just as We have sent you O Muhammad, a Prophet and a human, We sent the Messengers before you from among mankind, that eat food, walk in the markets, and We gave them wives and offspring.' Allah said to the most honorable and Final Messenger,
+
+قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ
+
+(Say: "I am only a man like you. It has been revealed to me.")[18:110] It is recorded in the Two Sahihs that the Messenger of Allah ﷺ said,
+
+أَمَّا أَنَا فَأَصُومُ وَأُفْطِرُ، وَأَقُومُ وَأَنَامُ، وَآكُلُ اللَّحْمَ، وَأَتَزَوَّجُ النِّسَاءَ، فَمَنْ رَغِبَ عَنْ سُنَّتِي فَلَيْسَ مِنِّي
+
+(As for me, I fast and break the fast, stand in prayer at night and sleep, eat meat and marry women; so whoever turns away from my Sunnah is not of mine.)
+
+No Prophet can bring a Miracle except by Allah's Leave
+
+Allah said,
+
+وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ
+
+(And it was not for a Messenger to bring a sign except by Allah's leave.) meaning, no Prophet could have brought a miracle to his people except by Allah's permission and will, for this matter is only decided by Allah the Exalted and Most Honored, not the Prophets; surely Allah does what He wills and decides what He wills.
+
+لِكُلِّ أَجَلٍ كِتَابٌ
+
+((For) every matter there is a decree (from Allah).) for every term appointed, there is a record (or decree) that keeps it, and everything has a specific due measure with Allah,
+
+أَلَمْ تَعْلَمْ أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاءِ وَالْأَرْضِ ۗ إِنَّ ذَٰلِكَ فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ
+
+(Know you not that Allah knows all that is in the heaven and on the earth? Verily, it is (all) in the Book. Verily, that is easy for Allah.)[22:70]
+
+Meaning of Allah blotting out what He wills and confirming what He wills of the Book
+
+Allah said,
+
+يَمْحُو اللَّهُ مَا يَشَاءُ
+
+(Allah blots out what He wills) of the divinely revealed Books,
+
+وَيُثْبِتُ
+
+(and confirms), until the Qur'an, revealed from Allah to His Messenger peace be upon him, abrogated them all. Mujahid commented;
+
+يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ
+
+(Allah blots out what He wills and confirms (what He wills).) "Except life and death, misery and happiness [i.e., faith and disbelief], for they do not change." Mansur said that he asked Mujahid, "Some of us say in their supplication, 'O Allah! If my name is with those who are happy (believers), affirm my name among them, and if my name is among the miserable ones (disbelievers), remove it from among them and place it among the happy ones." Mujahid said. "This supplication is good." I met him a year or more later and repeated the same question to him and he recited these Ayat,
+
+إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ
+
+(We sent it (this Qur'an) down on a blessed night.) Mujahid commented next, "During Laylatul-Qadr (Night of the Decrees), Allah decides what provisions and disasters will occur in the next year of. He then brings forward or back (or blots out) whatever He wills. As for the Book containing the records of the happy (believers) and the miserable (disbelievers), it does not change." Al-A'mash narrated that Abu Wa'il, Shaqiq bin Salamah said that he used to recite this supplication often, "O Allah, if You wrote us among the wretched ones, remove this status from us and write us among the blessed ones. If You wrote us among the blessed ones, please let us stay that way, for surely, You blot out and confirm what You will, and with You is the Mother of the Book." Ibn Jarir At-Tabari collected this. Similar statements were collected from 'Umar bin Al-Khattab and 'Abdullah bin Mas'ud, indicating that Allah blots out (or abrogates) and affirms what He wills in the Book of Records. What further supports this meaning is that Imam Ahmad recorded that Thawban said that the Messenger of Allah ﷺ said,
+
+إِنَّ الرَّجُلَ لَيُحْرَمُ الرِّزْقَ بِالذَّنْبِ يُصِيبُهُ، وَلَا يَرُدُّ الْقَدَرَ إِلَّا الدُّعَاءُ، وَلَا يَزِيدُ فِي الْعُمْرِ إِلَّا الْبِرُّ
+
+(A man might be deprived of a provision (that was written for him) because of a sin that he commits; only supplication changes Al-Qadar (Predestination); and only Birr (righteousness) can increase the life span.")
+
+An-Nasa'i and Ibn Majah collected this Hadith. There is also a Hadith recorded in the Sahih that affirms that maintaining the ties of the womb increases the life span.
+
+Al-'Awfi reported that Ibn 'Abbas said about Allah's statement,
+
+يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِندَهُ أُمُّ الْكِتَابِ
+
+(Allah blots out what He wills and confirms (what He wills). And with Him is the Mother of the Book.) "A man might work in Allah's obedience for a while but he reverts to the disobedience of Him and then dies while misguided. This is what Allah blots out, while what He confirms is a man who works in His disobedience, but since goodness was destined for him, he dies after reverting to the obedience of Allah. This is what Allah confirms." It was also reported that Sa'id bin Jubayr said that this Ayah is in the meaning of another Ayah,
+
+فَيَغْفِرُ لِمَن يَشَاءُ وَيُعَذِّبُ مَن يَشَاءُ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+
+(Then He forgives whom He wills and punishes whom He wills. And Allah is able to do all things.)[2:284]
+
+## Maarif ul Quran
+
+Said in the next verse (39) was: يَمْحُو اللَّـهُ مَا يَشَاءُ وَيُثْبِتُ ۖ وَعِندَهُ أُمُّ الْكِتَابِ : 'Allah wipes off what He wills and affirms (what He wills). And with Him is the Mother Book.' [ The translation of: أُمُّ الْكِتَابِ (umm-ul-kitab) as 'Mother Book' reflects a word for word replacement possible at this place which also exhudes its applied sense in some measure, though not as clearly as given in the Tafsir immediately after ] The literal meaning of 'Umm al-Kit' is 'The Original Book.' The reference here is to the 'Preserved Tablet' (al-Lawh al-Mahfuz al-) in which there can be no change or alteration.
+
+The sense of the verse is that Allah Ta’ ala, in His most perfect power and wisdom, obliterates what He wills, and affirms what He wills. And after this obliteration and affirmation, whatever there is stays preserved with Allah Ta’ ala. No one has access to it, nor can there be any deletion and addition into it.
+
+Leading authorities in Tafsir, Sayyidna Said ibn Jubayr ؓ and Qatadah and others have declared that this verse too is related with the obliteration and affirmation of injunctions and religious codes, that is, with the problem of Naskh or abrogation. As for the sense of the verse, they say that in the Books which Allah Ta’ ala sends to different people through different messengers, and outlined in which are religious laws, obligations and duties, it is not necessary that all injunctions contained therein be eternal and last forever. In fact, it is in fitness with conditions prevailing among peoples and the change in times that Allah, in His wisdom, abrogates or repeals whichever injunction He wills, and affirms and retains whichever He wills. Then, the original Book is pre-served with Him after all. It is already written there that such and such injunction sent down for such and such people is for a particular period of time, or is based on particular conditions. When that term expires, or those conditions change, this injunction will also change. In this original Book, that term and that appointed time stands recorded with full and authentic determination. Also entered there is the description of the in-junction which will replace the one changed.
+
+This eliminates the doubt that Divine injunctions should never be abrogated, because enforcing an injunction and then abrogating it indicates that the enforcer of the injunction did not have the correct perception of conditions, therefore, it was after having seen conditions that it had to be abrogated. And it is obvious that the majesty of Allah Ta’ ala is beyond the possibility that something be outside the realm of His knowledge. Since this stipulation tells us that the injunction which is abrogated exists in the knowledge of Allah Ta’ ala beforehand, that is, the injunction has been promulgated only for a specified period of time and will be changed later. This is similar to what a physician does in our world of ex-perience. He examines a patient, looks at the symptoms of what he is ailing from, then prescribes a medicine relevant to the current condition he is in. And he knows the effect the medicine is going to bring forth, and after which, the particular medicine would have to be changed and the patient would have to be given another medicine of another description. To sum up, it can now be said that, according to this Tafsir, the phenomena of obliteration and affirmation (mahw and ithbat) means the abrogation (naskh) of injunctions, and its affirmation and continuity.
+
+As based on the view of Sayyidna ` Abdullah ibn ` Abbas ؓ a group of leading commentators, Sufyan al-Thawri, Waki` and others, have reported another Tafsir of this verse where the subject of the verse has been determined as concerning the decree of destiny. And the meaning of the verse has been explained by saying that, according to the explicit statements of the Qur an and Hadith, the destinies of the creations of Allah, including the sustenance received by every person during his entire years of life and the comfort and distress faced along the line, and their respective magnitudes are written since 'azal even before the creation of His creatures. Then, at the time of the birth of a child, the angels too are asked to keep it committed to writing. And every year, in the Laylatul-Qadr (The Night of Power), a full roster of what is supposed to happen during the course of that year is handed over to the angels.
+
+In short, the age of every created individual, his or her sustenance, times of movement and periods of rest are all determined, and written. But, from this decree of destiny, Allah Ta` ala wipes off or obliterates what He wills and affirms or retains what He wills. However, the statement: وَعِندَهُ أُمُّ الْكِتَابِ (And with Him is the Mother Book) means that the original Book, according to which, after the process of obliteration and affirmation, ultimate action shall be taken, is with Allah. In this, there can be no change or alteration.
+
+This has been elaborated in many authentic Ahadith which tell us that there are some a'mal (deeds) which cause a person's age and sustenance to increase. Some make them decrease. It appears in the Sahih of Al-Bukhari that maintaining relations which must be maintained (silah ar-rahim) becomes the cause of increase in one's age. A narration in the Musnad of Ahmad reports that there are occasions when one commits some such sin as leads to his being deprived of sustenance, and by serving and obeying one's parents, years of life increase, and nothing except dua' (prayer) can avert what is Divinely destined.
+
+What we find out from all these narrations is that the age, the sustenance and things like that which Allah Ta` ala has written into someone's destiny can become more or less because of some deeds - and also because of du' (prayer), taqdir (destiny) can be changed.
+
+This is the subject dealt with in this verse. It says that the change or alteration in age or sustenance or hardship or ease in life as written in the Book of Destiny which takes place because of some deed (` aural) or prayer (du’ a) means that Book of Destiny which is in the hands of the angels, or in their knowledge. There are times when, some decisions of this type of destiny are contingent on some particular condition. When that condition is not found, that decision does not take effect. Then, this condition is sometimes in writing and in the knowledge of angels, but there are times when this is not written - but exists in the knowledge of Allah Ta` ala alone. When that decision changes, everyone is left wondering. A destiny of this nature is called 'conditional' or 'contingent' (mu` allaq) in which, as explicitly stated in this verse, the process of obliteration and assertion keeps operating. But, the last sentence of the verse: وَعِندَهُ أُمُّ الْكِتَابِ that is, 'with Him is the original Book,' means that above this 'conditional destiny,' (tagdir mu'allaq) there is the 'final and definite destiny' (taqdir mubram) which is with Allah Ta’ ala written in the original Book.
+
+And that is the exclusive domain of Divine knowledge. Written there are the decisions, injunctions and commands which issue forth as the final outcome after the conditions of deeds have been fulfilled or du' has been answered. Therefore, that is totally free of obliteration and assertion and addition and deletion. (Ibn Kathir)
+
+## Personal Reflections

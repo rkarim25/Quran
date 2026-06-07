@@ -1,0 +1,57 @@
+---
+arabic_ayat: وَلَقَدۡ اَرۡسَلۡنَا فِيۡهِمۡ مُّنۡذِرِيۡنَ‏
+sentence_translation: although We had certainly sent warners among them.
+word_by_word:
+  1:
+    arabic: وَلَقَدۡ
+    translation: And verily
+    transliteration: walaqad
+  2:
+    arabic: اَرۡسَلۡنَا
+    translation: We sent
+    transliteration: arsalnā
+  3:
+    arabic: فِيۡهِمۡ
+    translation: among them
+    transliteration: fīhim
+  4:
+    arabic: مُّنۡذِرِيۡنَ‏
+    translation: warners
+    transliteration: mundhirīna
+---
+
+## Context
+
+To understand **Those who set the Ranks** (As-Saffat) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And indeed most of the earlier ones went astray before them (71)And indeed We sent among them warners (72)Then see what was the end of those who were warned (73)Except the chosen servants of Allah (74) Allah tells us that most of the previous nations went astray, worshipping other gods alongside Allah. By saying: طَلْعُهَا كَأَنَّهُ رُ‌ءُوسُ الشَّيَاطِينِ (Its fruits are like the heads of the shaitans.- 65), the fruits of zaqqum have been likened to the heads of the satans.
+
+## Tafsir Ibn Kathir
+
+And indeed most of the earlier ones went astray before them (71)And indeed We sent among them warners (72)Then see what was the end of those who were warned (73)Except the chosen servants of Allah (74)
+
+Allah tells us that most of the previous nations went astray, worshipping other gods alongside Allah. He states that He sent among them warners to alert them to the anger, wrath and vengeance of Allah towards those who disbelieve in Him and worship others besides Him. He tells us that they persisted in their opposition to their Messengers and their disbelief in them, so He destroyed those who disbelieved in Him and saved the believers and caused them to prevail. Allah says:
+
+فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَرِينَ - إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ
+
+(Then see what was the end of those who were warned. Except the chosen servants of Allah).
+
+## Maarif ul Quran
+
+By saying: طَلْعُهَا كَأَنَّهُ رُ‌ءُوسُ الشَّيَاطِينِ (Its fruits are like the heads of the shaitans.- 65), the fruits of zaqqum have been likened to the heads of the satans. Some commentators have translated the word: الشَّيَاطِينِ (ash-shayatin) in this verse as 'serpents' since the fruit of zaqqum resembles the hood of the serpent. Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason. But most
+
+commentators have said that the word: الشَّيَاطِينِ (ash-shayatin) here should be taken in its well-recognized sense. Thus, it would mean that, in its ugliness, the fruit of zaqqum is like the head of the satans. Now, let there be no doubt here that nobody has seen the Shaitan, why then, would something be likened to him? The reason is that it is an imaginative simile. Speaking metaphorically, things ugly and grotesque are commonly likened to Shaitans, Jinns and ghosts. The purpose is only to express an extreme degree of ugliness. The simile used here is also of this very nature. (Ruh-ul-Ma’ ani and others).
+
+The sense of the rest of the verses is clear from their translation.
+
+## Personal Reflections

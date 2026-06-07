@@ -1,0 +1,159 @@
+---
+arabic_ayat: وَضَلَّ عَنۡهُمۡ مَّا كَانُوۡا يَدۡعُوۡنَ مِنۡ قَبۡلُ​ وَظَنُّوۡا مَا
+  لَهُمۡ مِّنۡ مَّحِيۡصٍ‏
+sentence_translation: Whatever ˹idols˺ they used to invoke besides Allah will fail
+  them. And they will realize that they will have no escape.
+word_by_word:
+  1:
+    arabic: وَضَلَّ
+    translation: And lost
+    transliteration: waḍalla
+  2:
+    arabic: عَنۡهُمۡ
+    translation: from them
+    transliteration: ʿanhum
+  3:
+    arabic: مَّا
+    translation: what
+    transliteration: mā
+  4:
+    arabic: كَانُوۡا
+    translation: they were
+    transliteration: kānū
+  5:
+    arabic: يَدۡعُوۡنَ
+    translation: invoking
+    transliteration: yadʿūna
+  6:
+    arabic: مِنۡ
+    translation: before
+    transliteration: min
+  7:
+    arabic: قَبۡلُ​
+    translation: before
+    transliteration: qablu
+  8:
+    arabic: وَظَنُّوۡا
+    translation: and they (will) be certain
+    transliteration: waẓannū
+  9:
+    arabic: مَا
+    translation: (that) not
+    transliteration: mā
+  10:
+    arabic: لَهُمۡ
+    translation: for them
+    transliteration: lahum
+  11:
+    arabic: مِّنۡ
+    translation: any
+    transliteration: min
+  12:
+    arabic: مَّحِيۡصٍ‏
+    translation: place of escape
+    transliteration: maḥīṣin
+---
+
+## Context
+
+To understand **Explained in Detail** (Fussilat) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Whosoever does righteous good deed, it is for himself; and whosoever does evil, it is against himself. أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]?
+
+## Tafsir Ibn Kathir
+
+Whosoever does righteous good deed, it is for himself; and whosoever does evil, it is against himself. And your Lord is not at all unjust to (His) servants (46)To Him is referred the knowledge of the Hour. No fruit comes out of its sheath, nor does a female conceive nor brings forth (young), except by His knowledge. And on the Day when He will call unto them (saying): "Where are My (so-called) partners?" They will say: "We inform You that none of us bears witness to it! (47)And those whom they used to invoke before (in this world) shall disappear from them, and they will perceive that they have no place of refuge (48)
+
+Everyone will be requited according to His Deeds
+
+مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ
+
+(Whosoever does righteous good deed, it is for himself;) means, the benefit of which will come to him.
+
+وَمَنْ أَسَاءَ فَعَلَيْهَا ۗ
+
+(and whosoever does evil, it is against himself.) means, the consequences of that will come back on him.
+
+وَمَا رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ
+
+(And your Lord is not at all unjust to (His) servants) means, He only punishes people for their sins, and He does not punish anyone except after establishing proof against him and sending a Messenger to him.
+
+Knowledge of the Hour is with Allah Alone
+
+Then Allah says:
+
+إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ
+
+(To Him is referred the knowledge of the Hour.) meaning, no one knows about that apart from Him. Muhammad ﷺ, the leader of mankind, said to Jibril, who is one of the leading angels, when he asked him about the Hour:
+
+مَا الْمَسْؤُولُ عَنْهَا بِأَعْلَمَ مِنَ السَّائِلِ
+
+(The one who is asked about it does not know more than the one who is asking.)" And Allah says:
+
+إِلَىٰ رَبِّكَ مُنْتَهَاهَا
+
+(To your Lord belongs the term thereof.)(79:44)
+
+لَا يُجَلِّيهَا لِوَقْتِهَا إِلَّا هُوَ ۚ
+
+(None can reveal its time but He)(7:187).
+
+وَمَا تَخْرُجُ مِنْ ثَمَرَاتٍ مِنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ
+
+(No fruit comes out of its sheath, nor does a female conceive nor brings forth (young), except by His knowledge.) means, all of that is known to Him, and nothing is hidden from your Lord the weight of a speck of dust on the earth or in the heaven. Allah says:
+
+وَمَا تَسْقُطُ مِنْ وَرَقَةٍ إِلَّا يَعْلَمُهَا
+
+(not a leaf falls, but He knows it)(6:59).
+
+اللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنْثَىٰ وَمَا تَغِيضُ الْأَرْحَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَيْءٍ عِنْدَهُ بِمِقْدَارٍ
+
+(Allah knows what every female bears, and by how much the wombs fall short or exceed. Everything with Him is in (due) proportion)(13:8).
+
+وَمَا يُعَمَّرُ مِنْ مُعَمَّرٍ وَلَا يُنْقَصُ مِنْ عُمُرِهِ إِلَّا فِي كِتَابٍ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ
+
+(And no aged man is granted a length of life nor is a part cut off from his life, but is in a Book. Surely, that is easy for Allah.)(35:11)
+
+وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَائِي
+
+(And on the Day when He will call unto them (saying): "Where are My (so-called) partners?") means, on the Day of Resurrection, Allah will call out to the idolators before all of creation and say, "Where are My partners whom you worshipped besides Me?"
+
+قَالُوا آذَنَّاكَ
+
+(They will say: "We inform You...") means, 'we tell You,'
+
+مَا مِنَّا مِنْ شَهِيدٍ
+
+(that none of us bears witness to it.) means, 'not one of us will bear witness today that You have any partner.'
+
+وَضَلَّ عَنْهُمْ مَا كَانُوا يَدْعُونَ مِنْ قَبْلُ ۖ
+
+(And those whom they used to invoke before (in this world) shall disappear from them,) means, they will go away, and will be of no benefit to them.
+
+وَظَنُّوا مَا لَهُمْ مِنْ مَحِيصٍ
+
+(and they will perceive that they have no place of refuge) means, they will have no way of escaping from the punishment of Allah. This is like the Ayah:
+
+وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُمْ مُوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا
+
+(And the criminals shall see the Fire and apprehend that they have to fall therein. And they will find no way of escape from there.)(18:53)
+
+## Maarif ul Quran
+
+أَأَعْجَمِيٌّ وَعَرَ‌بِيٌّ (Is it a non- Arabic [ book ] and an Arab [ messenger ]? - 44) The original word used for non-Arabic in the text is a'jamiyy (with hamza before the letter 'ain) which is an Arabic term for ` ineloquent speech', while ` ajam' (without hamzah in its beginning) means any nation other than Arabs. Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi). The use of the word أَعْجَمِيٌّ ajamiyy in this verse means that if We had revealed the Qur'an in any language other than Arabic, then the Quraysh who are the first addressees of the Qur'an would have complained that they did not understand this Book and would have said wonderingly that the prophet is an ` Arab, but the book is ajamiyy which is ineloquent.
+
+قلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ (Say, "For those who believe, it is guidance and cure. - 44) Two attributes of The noble Qur'an are stated here. One is that Qur'an gives guidance - such guidance in all spheres of life as is beneficial and useful for human beings. The second attribute is that the Qur'an is cure. That it is a cure for spiritual ailments like kufr, shirk, arrogance, jealousy, greed, etc. is quite obvious, but is also cure for bodily ailments, as has been proved by experience of treating patients through Qur'anic prayers which has been successful.
+
+أُولَـٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ (Such people are being called from a distant place. - 44) This is a similitude. A person who understands what is being said, the Arabs say to him, اَنتَ تسمَعُ مِن قَرِیب (you are listening from a near place) and if a person does not understand the discourse, they say to him اَنتَ تُنَادٰی مِن بَعِید (you are being called from a distant place) (Qurtubi). The meaning is that since these people do not intend to listen and to understand the directions of the Qur'an, their ears are almost deaf and their eyes are blind, therefore teaching them the Qur'anic guidance is like calling someone from such a distant place that the voice does not reach his ears.
+
+## Personal Reflections

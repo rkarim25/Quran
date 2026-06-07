@@ -1,0 +1,370 @@
+---
+arabic_ayat: "اَلۡيَوۡمَ اُحِلَّ لَـكُمُ الطَّيِّبٰتُ​ ؕ وَطَعَامُ الَّذِيۡنَ اُوۡتُوۡا\
+  \ الۡكِتٰبَ حِلٌّ لَّـکُمۡ وَطَعَامُكُمۡ حِلٌّ لَّهُمۡ​ وَالۡمُحۡصَنٰتُ مِنَ الۡمُؤۡمِنٰتِ\
+  \ وَالۡمُحۡصَنٰتُ مِنَ الَّذِيۡنَ اُوۡتُوا الۡـكِتٰبَ مِنۡ قَبۡلِكُمۡ اِذَاۤ اٰتَيۡتُمُوۡهُنَّ\
+  \ اُجُوۡرَهُنَّ مُحۡصِنِيۡنَ غَيۡرَ مُسَافِحِيۡنَ وَلَا مُتَّخِذِىۡۤ اَخۡدَانٍ​ؕ\
+  \ وَمَنۡ يَّكۡفُرۡ بِالۡاِيۡمَانِ فَقَدۡ حَبِطَ عَمَلُهٗ وَهُوَ فِى الۡاٰخِرَةِ\
+  \ مِنَ الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+sentence_translation: Today all good, pure foods have been made lawful for you. Similarly,
+  the food of the People of the Book is permissible for you and yours is permissible
+  for them. And ˹permissible for you in marriage˺ are chaste believing women as well
+  as chaste women of those given the Scripture before you—as long as you pay them
+  their dowries in wedlock, neither fornicating nor taking them as mistresses. And
+  whoever rejects the faith, all their good deeds will be void ˹in this life˺ and
+  in the Hereafter they will be among the losers.
+word_by_word:
+  1:
+    arabic: اَلۡيَوۡمَ
+    translation: This day
+    transliteration: al-yawma
+  2:
+    arabic: اُحِلَّ
+    translation: are made lawful
+    transliteration: uḥilla
+  3:
+    arabic: لَـكُمُ
+    translation: for you
+    transliteration: lakumu
+  4:
+    arabic: الطَّيِّبٰتُ​ ؕ
+    translation: the good things
+    transliteration: l-ṭayibātu
+  5:
+    arabic: وَطَعَامُ
+    translation: and (the) food
+    transliteration: waṭaʿāmu
+  6:
+    arabic: الَّذِيۡنَ
+    translation: (of) those who
+    transliteration: alladhīna
+  7:
+    arabic: اُوۡتُوۡا
+    translation: were given
+    transliteration: ūtū
+  8:
+    arabic: الۡكِتٰبَ
+    translation: the Book
+    transliteration: l-kitāba
+  9:
+    arabic: حِلٌّ
+    translation: (is) lawful
+    transliteration: ḥillun
+  10:
+    arabic: لَّـکُمۡ
+    translation: for you
+    transliteration: lakum
+  11:
+    arabic: وَطَعَامُكُمۡ
+    translation: and your food
+    transliteration: waṭaʿāmukum
+  12:
+    arabic: حِلٌّ
+    translation: (is) lawful
+    transliteration: ḥillun
+  13:
+    arabic: لَّهُمۡ​
+    translation: for them
+    transliteration: lahum
+  14:
+    arabic: وَالۡمُحۡصَنٰتُ
+    translation: And the chaste women
+    transliteration: wal-muḥ'ṣanātu
+  15:
+    arabic: مِنَ
+    translation: from
+    transliteration: mina
+  16:
+    arabic: الۡمُؤۡمِنٰتِ
+    translation: the believers
+    transliteration: l-mu'mināti
+  17:
+    arabic: وَالۡمُحۡصَنٰتُ
+    translation: and the chaste women
+    transliteration: wal-muḥ'ṣanātu
+  18:
+    arabic: مِنَ
+    translation: from
+    transliteration: mina
+  19:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  20:
+    arabic: اُوۡتُوا
+    translation: were given
+    transliteration: ūtū
+  21:
+    arabic: الۡـكِتٰبَ
+    translation: the Book
+    transliteration: l-kitāba
+  22:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  23:
+    arabic: قَبۡلِكُمۡ
+    translation: before you
+    transliteration: qablikum
+  24:
+    arabic: اِذَاۤ
+    translation: when
+    transliteration: idhā
+  25:
+    arabic: اٰتَيۡتُمُوۡهُنَّ
+    translation: you have given them
+    transliteration: ātaytumūhunna
+  26:
+    arabic: اُجُوۡرَهُنَّ
+    translation: their bridal due
+    transliteration: ujūrahunna
+  27:
+    arabic: مُحۡصِنِيۡنَ
+    translation: being chaste
+    transliteration: muḥ'ṣinīna
+  28:
+    arabic: غَيۡرَ
+    translation: not
+    transliteration: ghayra
+  29:
+    arabic: مُسَافِحِيۡنَ
+    translation: being lewd
+    transliteration: musāfiḥīna
+  30:
+    arabic: وَلَا
+    translation: and not
+    transliteration: walā
+  31:
+    arabic: مُتَّخِذِىۡۤ
+    translation: ones (who are) taking
+    transliteration: muttakhidhī
+  32:
+    arabic: اَخۡدَانٍ​ؕ
+    translation: secret lovers
+    transliteration: akhdānin
+  33:
+    arabic: وَمَنۡ
+    translation: And whoever
+    transliteration: waman
+  34:
+    arabic: يَّكۡفُرۡ
+    translation: denies
+    transliteration: yakfur
+  35:
+    arabic: بِالۡاِيۡمَانِ
+    translation: 'the faith '
+    transliteration: bil-īmāni
+  36:
+    arabic: فَقَدۡ
+    translation: then surely
+    transliteration: faqad
+  37:
+    arabic: حَبِطَ
+    translation: (are) wasted
+    transliteration: ḥabiṭa
+  38:
+    arabic: عَمَلُهٗ
+    translation: his deeds
+    transliteration: ʿamaluhu
+  39:
+    arabic: وَهُوَ
+    translation: and he
+    transliteration: wahuwa
+  40:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  41:
+    arabic: الۡاٰخِرَةِ
+    translation: the Hereafter
+    transliteration: l-ākhirati
+  42:
+    arabic: مِنَ
+    translation: (will be) among
+    transliteration: mina
+  43:
+    arabic: "الۡخٰسِرِيۡنَ‏ \uFEFF\uFEFF"
+    translation: the losers
+    transliteration: l-khāsirīna
+---
+
+## Context
+
+To understand **The Table Spread** (Al-Ma'idah) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+Ibn Abi Hatim recorded that Abu Malik Al-Ghifari said that Ibn 'Abbas said that when this Ayah was revealed,
+
+(And do not marry idolatresses till they believe,)[2:221] the people did not marry the pagan women. When the following Ayah was revealed,
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Made lawful to you this day are At-Tayyibat. Commentary In the first verse of Surah al-Ma'idah, the lawfulness of domestic animals such as the goat, cow and buffalo has been described.
+
+## Tafsir Ibn Kathir
+
+Made lawful to you this day are At-Tayyibat. The food of the People of the Scripture is lawful to you, and your food is lawful to them. (Lawful to you in marriage) are chaste women from the believers and chaste women from those who were given the Scripture before your time when you have given them their due, desiring chastity, not illegal sexual intercourse, nor taking them as girlfriends (or lovers). And whosoever rejects faith, then fruitless is his work; and in the Hereafter he will be among the losers (5)
+
+Permitting the Slaughtered Animals of the People of the Book
+
+After Allah mentioned the filthy things that He prohibited for His believing servants and the good things that He allowed for them, He said next,
+
+الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ
+
+(Made lawful to you this day are At-Tayyibat.)
+
+Allah then mentioned the ruling concerning the slaughtered animals of the People of the Book, the Jews and Christians,
+
+وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَّكُمْ
+
+(The food of the People of the Scripture is lawful to you..)
+
+meaning, their slaughtered animals, as Ibn 'Abbas, Abu Umamah, Mujahid, Sa'id bin Jubayr, 'Ikrimah, 'Ata', Al-Hasan, Makhul, Ibrahim An-Nakha'i, As-Suddi and Muqatil bin Hayyan stated. This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People of the Book believe that slaughtering for other than Allah is prohibited. They mention Allah's Name upon slaughtering their animals, even though they have deviant beliefs about Allah that do not befit His majesty.
+
+It is recorded in the Sahih that 'Abdullah bin Mughaffal said, "While we were attacking the fort of Khaybar, a person threw a leather bag containing fat, and I ran to take it and said, 'I will not give anyone anything from this container today.' But when I turned I saw the Prophet ﷺ (standing behind) while smiling." The scholars rely on this Hadith as evidence that we are allowed to eat what we need of foods from the booty before it is divided. The scholars of the Hanafi, the Shafi'i and the Hanbali Madhhabs rely on this Hadith to allow eating parts of the slaughtered animals of the Jews that they prohibit for themselves, such as the fat. They used this Hadith as evidence against the scholars of the Maliki Madhhab who disagreed with this ruling. A better proof is the Hadith recorded in the Sahih that the people of Khaybar gave the Prophet ﷺ a gift of a roasted leg of sheep, which they poisoned. The Prophet ﷺ used to like eating the leg of the sheep and he took a bite from it, but it told the Prophet ﷺ that it was poisoned, so he discarded that bite. The bite that the Prophet ﷺ took effected the palate of his mouth, while Bishr bin Al-Bara' bin Ma'rur died from eating from that sheep. The Prophet ﷺ had the Jewish woman, Zaynab, who poisoned the sheep, killed. Therefore, the Prophet ﷺ and his Companions wanted to eat from that sheep and did not ask the Jews if they removed what the Jews believed was prohibited for them, such as its fat.
+
+Allah's statement,
+
+وَطَعَامُكُمْ حِلٌّ لَّهُمْ
+
+(and your food is lawful to them.) means, you are allowed to feed them from your slaughtered animals. Therefore, this part of the Ayah is not to inform the People of the Scriptures that they are allowed to eat our food – unless we consider it information for us about the ruling that they have – i. e, that they are allowed all types of foods over which Allah's Name was mentioned, whether slaughtered according to their religion or otherwise. The first explanation is more plausible. So it means: you are allowed to feed them from your slaughtered animals just as you are allowed to eat from theirs, as equal compensation and fair treatment. The Prophet ﷺ gave his robe to 'Abdullah bin Ubayy bin Salul, who was wrapped with it when he died. They say that he ﷺ did that because 'Abdullah had given his robe to Al-'Abbas when Al-'Abbas came to Al-Madinah. As for the Hadith,
+
+لَا تَصْحَبْ إِلَّا مُؤْمِنًا، وَلَا يَأْكُلْ طَعَامَكَ إِلَّا تَقِيٌّ
+
+(Do not befriend but a believer, nor should other than a 'Taqi' (pious person) eat your food.),
+
+This is to encourage such behavior, and Allah knows best.
+
+The Permission to Marry Chaste Women From the People of the Scriptures
+
+Allah said,
+
+وَالْمُحْصَنَاتُ مِنَ الْمُؤْمِنَاتِ
+
+((Lawful to you in marriage) are chaste women from the believers)
+
+The Ayah states: you are allowed to marry free, chaste believing women. This Ayah is talking about women who do not commit fornication, as evident by the word 'chaste'. Allah said in another Ayah,
+
+مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ
+
+(Desiring chastity not committing illegal sexual intercourse, nor taking them as boyfriends (lovers).)[4:25]
+
+'Abdullah Ibn 'Umar used to advise against marrying Christian women saying, "I do not know of a worse case of Shirk than her saying that 'Isa is her lord, while Allah said,
+
+وَلَا تَنكِحُوا الْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ
+
+(And do not marry idolatresses till they believe.)[2:221]"
+
+Ibn Abi Hatim recorded that Abu Malik Al-Ghifari said that Ibn 'Abbas said that when this Ayah was revealed,
+
+وَلَا تَنكِحُوا الْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ
+
+(And do not marry idolatresses till they believe,)[2:221] the people did not marry the pagan women. When the following Ayah was revealed,
+
+وَالْمُحْصَنَاتُ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ
+
+((Lawful to you in marriage) are chaste women from the believers and chaste women from those who were given the Scripture before your time) they married women from the People of the Book. " Some of the Companions married Christian women and did not see any problem in this, relying on the honorable Ayah,
+
+وَالْمُحْصَنَاتُ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ
+
+((Lawful to you in marriage) are chaste women from those who were given the Scripture before your time)
+
+Therefore, they made this Ayah an exception to the Ayah in Surat Al-Baqarah,
+
+وَلَا تَنكِحُوا الْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ
+
+(And do not marry the idolatresses till they believe,)[2:221] considering the latter Ayah to include the People of the Book in its general meaning. Otherwise, there is no contradiction here, since the People of the Book were mentioned alone when mentioning the rest of the idolators. Allah said,
+
+لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ
+
+(Those who disbelieve from among the People of the Scripture and the idolators, were not going to leave (their disbelief) until there came to them clear evidence.)[98:1] and,
+
+وَقُل لِّلَّذِينَ أُوتُوا الْكِتَابَ وَالْأُمِّيِّينَ أَأَسْلَمْتُمْ فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا
+
+(And say to those who were given the Scripture and to those who are illiterates: "Do you (also) submit yourselves?" If they do, they are rightly guided.)[3:20] Allah said next,
+
+إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ
+
+(When you have given them their due),
+
+This refers to the Mahr, so just as these women are chaste and honorable, then give them their Mahr with a good heart. We should mention here that Jabir bin 'Abdullah, 'Amir Ash-Sha'bi, Ibrahim An-Nakha'i and Al-Hasan Al-Basri stated that when a man marries a woman and she commits illegal sexual intercourse before the marriage is consummated, the marriage is annulled. In this case, she gives back the Mahr that he paid her. Allah said,
+
+مُحْصِنِينَ غَيْرَ مُسَافِحِينَ وَلَا مُتَّخِذِي أَخْدَانٍ
+
+(Desiring chastity, not illegal sexual intercourse, nor taking them as girl-friends (or lovers).)
+
+And just as women must be chaste and avoid illegal sexual activity, such is the case with men, who must also be chaste and honorable. Therefore, Allah said,
+
+غَيْرَ مُسَافِحِينَ
+
+(...not illegal sexual intercourse') as adulterous people do, those who do not avoid sin, nor reject adultery with whomever offers it to them.
+
+وَلَا مُتَّخِذِي أَخْدَانٍ
+
+(nor taking them as girl-friends (or lovers),) meaning those who have mistresses and girlfriends who commit illegal sexual intercourse with them, as we mentioned in the explanation of Surat An-Nisa'.
+
+## Maarif ul Quran
+
+Commentary
+In the first verse of Surah al-Ma'idah, the lawfulness of domestic animals such as the goat, cow and buffalo has been described. The third verse has a detail of nine kinds of unlawful animals. From that detail to the opening sentence of the present verse, we come to know in summation the essentials of the lawfulness and unlawfulness of animals as well as its operating standard and rule.
+The verse opens with the words: الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ (This day, good things have been made lawful for you). Here, 'this day' means the day on which this verse and those before it have been revealed, that is, the Day of ` Arafah in the Last Hajj of Hijrah 10. The sense is that the way your Faith has been made perfect and the blessing of Allah stands completed for you on this day, very similarly, good things from Allah which were already lawful for you have been allowed to stay lawful forever. The probability that the injunction could be withdrawn does not exist anymore because the ongoing process of revelation was to be discontinued.
+This sentence mentions the lawfulness of good things. But, another verse (7:157): يُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّ‌مُ عَلَيْهِمُ الْخَبَائِثَ (Made lawful for them are good things and made unlawful for them are evil things). Here, by placing At-Tayyibat' (good things) against Al-Khaba'ith' (impure things), the reality of both words has been made clear. Lexically, things good, pure, clean and delightful are called 'At-Tayyibat'; and in contrast, 'Al-Khabaith' is used to denote things which are evil and disgusting. Therefore, this sentence of the verse stresses that everything good, pure and beneficial has been made lawful for human beings and everything disgusting and harmful has been made unlawful. The reason is that human beings are not like animals whose purpose of life is limited to eating, drinking, sleeping, waking - being no more than a sort of live-die cycle. Nature has made them the master of the universe for some special purpose and that cannot be achieved without having high and pure morals. Therefore, immoral human beings would really not deserve to be counted as human beings.
+That is why the Holy Qur'an has said about such people: بَلْ هُمْ أَضَلُّ : that is, they are like cattle, rather more astray. Now if we accept that the 'humanity' of human beings depends on the betterment of their morals, it will become necessary to concede that they must be made to totally abstain from everything which leads to the corruption of human morals. Everyone knows how environment and society affect human morals. When things outside can do that to human morals, just imagine what would be the effect of things which go inside the human body for what becomes a part of the human body must affect its ethical behaviour. Therefore, caution must necessarily be observed in all foods and drinks. And let us keep in mind that unlawful income from theft, robbery, bribery, interest, gambling and evils like that, once it becomes part of anyone's body, will inevitably remove one farther from humanity and nearer to 'satanic nature.'
+Hence, says the Holy Qur'an: يَا أَيُّهَا الرُّ‌سُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا (O' Messengers, eat from good things [ made lawful as sustenance ] and do righteous deeds - 23:51). Here, the command to be righteous in deeds refers itself back to the command to eat from what is Halal (lawful) because without eating Halal, righteous deeds cannot be imagined. This consideration is very important specially in the case of meat which be-comes an integral part of the human body. One has to be most cautious and guard against the possibility of non-Halal meat entering his system through food and go on to spoil his morals. Similar is the case of meat which is physically harmful for human beings as the carrier of bacteria causing disease and death. Everyone knows that abstention from such meat is necessary. As for things declared evil by the Shari'ah of Islam, these are definitely agents of corruption for the human body or the soul or both. Since they are dangerous for human life and morals, they were made unlawful. As opposed to this, good things, the 'Tayyibat' contribute to the nurture and flowering of the human body, soul and morals - so, they were made lawful. In this way, this brief sentence of the Qur'an has given to us the philosophy and ground rules of the lawful and the unlawful, so to say, in a nutshell.
+Now, as to which things are pure, beneficial and desirable and which others are impure, harmful and disgusting, the real decision of the matter lies with the desire and aversion of one's inherent good taste. This is the reason why animals declared unlawful by Islam have been considered impure and disgusting by people of good taste during every period of time - for instance, carrion and blood. -Nevertheless, there come occasions when custom-based ignorance overpowers good taste and when the fine line between good and bad fades out. Or, the evil in some things is concealed. In such situations, the decision of the prophets, peace be on all of them, is the guiding and binding authority for everyone. The reason is that the noble prophets are the foremost in commonsense, decency, goodness and taste among human beings. They were specially gifted by Almighty Allah with an intrinsically sound and balanced nature and He Himself took the responsibility of their nurture and grooming. One might say that they rose to be what they were under a Divine security shield manned by angels which saw to it that their minds and hearts and morals would never be affected by any evil environment. So, things they took as evil are really evil; and what they found to be good is really good.
+In Hujjatullah al-Balighah, Shah Waliyyullah says that all animals declared unlawful by the Shari’ ah of Islam, when observed closely, will all fit compactly under two principles: one - an animal is evil by its nature and disposition; two - the method of slaughtering the animal is wrong, as a result of which it will be considered 'dead' ( 'Maitah' - carrion), not slaughtered.
+In the third verse of Surah al-Ma'idah, things called unlawful are nine in number. Out of these, the 'swine' is part of the first kind; the rest of the eight are in the second. By saying: وَيُحَرِّ‌مُ عَلَيْهِمُ الْخَبَائِثَ (He allows them as lawful what is good [ and pure ] and prohibits them from what is bad [ and impure ] - 7:157 - AYA, revealed, Madinah) the Holy Qur'an declares the general rule that all evil animals are unlawful. For de-tails, the Holy Qur'an points out to some clearly, for instance, ' the flesh of swine' and 'flowing blood'... The enumeration of the rest was entrusted to the Holy Prophet ﷺ . One sign of an animal being evil he gave was that a people could have been punished by having been transformed (Maskh) into the form of an animal. This indicates that the particular animal is evil by its very nature as divine wrath transformed it into an animal. For example, says the Holy Qur'an: وَجَعَلَ مِنْهُمُ الْقِرَ‌دَةَ وَالْخَنَازِيرَ‌ which means that some peoples have been transformed into swines and monkeys as punishment. This proves that both these kinds of animals are evil by nature - they, even if slaughtered, would still not become lawful. Then there are animals whose very doings and likings are sufficient for people of natural disposition to sense the evil inside them. For instance, there are beasts who live by injuring, tearing and eating other animals - a hard-hearted lifestyle indeed.
+Therefore, when someone asked about a wolf from the Holy Prophet ﷺ he said: "Can a human being eat it?" Similarly, there are many animals among crawlers and fliers whose very nature is to hurt or snatch away things, for instance, the snake, scorpion, house-lizard, fly, or a kite and falcon and others like them. So, the Holy Prophet ﷺ set the rule that animals among beasts which tear animals apart with teeth, such as the lion and the wolf and others of their kind, and animals among birds such as the falcon and the hawk and others of their kind which hunt with their claws, are all unlawful; or, animals which are by nature mean and low or get them-selves befouled with impurities, such as the rat or animals which eat carrion, or the donkey and similar others, all fall under the category of animals the physical properties and harmfulness of which is readily sensed by any human being with a normal mind and temperament.
+To recapitulate, we can say that the animals which have been made unlawful under the Shari` ah of Islam are of two kinds: Those intrinsically evil and those which are not evil by themselves but they have not been slaughtered following the method of slaughtering ani-mals ordained by Almighty Allah. This includes all other options such as the animal was not slaughtered at all - but was killed by shock or blow - or the act of slaughtering did take place, but rather than pronounce the name of Allah on it, a name other than that of Allah was recited, or just no name was pronounced by knowingly omitting the name of Allah at the time of slaughter. Such Dhibih or slaughter is equally untrustworthy and invalid in view of the Shari'ah. In fact, this is very much like having 'killed' an animal without proper slaughter.
+Something worth attention here is that everything one eats and drinks comes to him as a blessing from Allah, but, excepting the animals, no restriction has been imposed on cooking or eating anything from them other than that which would make it necessary for you to say Allahu-Akbar' or 'Bismillah' invariably before cooking and eating, as if, that food would not be lawful without it. At the most, the saying of 'Bismillah' at the time of eating and drinking anything has been classified as desirable or recommended ('Mustahabb' : acts the neglect of which is not punished by Allah, but the performance of which is rewarded). Contrary to this is the matter of animals, for it has been made necessary ('W ajib' ) that the name of Allah be invoked while slaughtering them - and if, anyone were to leave out the name of Allah at the time of the slaughter, the animal was declared to be carrion, and unlawful: at is the wisdom behind it?
+A little deliberation makes it clear that the lives of all living beings are equal in a way. Therefore, the act of one life form whereby another life form is slaughtered and exterminated should, obviously, be not permissible. Now, for those it has been made permissible, it is a major reward from Allah. That is why the realization of the presence of this Divine blessing and the expression of gratitude for it has been made necessary at the time of slaughtering the animal. This is contrary to the case of things like grains and fruits - their very growth is for the sole purpose that human beings use them up to fulfill their needs. Therefore, the saying of 'Bismillah' only whenever used has been placed at the level of being desirable ('Mustahabb' ) - it has not been made necessary ('W ajib': a duty which, if not done, brings punishment).
+There is yet another reason. There was a lingering custom from the days of Jahiliyyah that disbelievers used to pronounce the names of their idols while slaughtering animals. The Shari'ah of Islam transformed this un-Islamic custom into a wonderful act of worship by making it necessary to invoke the name of Allah instead. This was functionally the most appropriate strategy that some correct name instead of the false one be proposed, otherwise it would have been difficult to wean people away from ongoing customs and habits.
+The slaughter of the people of the Book
+The second sentence of the Verse is: وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ (and the food of the people of the Book is lawful for you, and your food is lawful for them ... ). According to the consensus of Sahabah and Tabi` in (the Companions and their Successors), the word طعام 'Ta` am' (food) at this place means 'properly slaughtered animals' (Dhabihah). This is what has been reported from Sayyidna ` Abdullah ibn 'Abbas, Abu ad-Darda', Ibrahim, Qatadah, al-Suddi, Dhahhak and Mujahid, may Allah be pleased with them all (Ruh a1-Ma` ani and al-Jassas) - because, in foods of all other kinds, the people of the Book and the idolaters and all other disbelievers are just the same as bread, flour, lintels, beans, rice, fruits and similar other eatables need no slaughtering. For Muslims, eating that kind of food, of course, when procured by any lawful means, is permissible - and conversely, when they procure it from Muslims, it is lawful for them. Thus, the essence of the sentence is that the Dhabihah (properly slaughtered animal) of the People of the Book is lawful for Muslims and the Dhabilhah (properly slaughtered animal) of Muslims is lawful for the People of the Book.
+At this point, there are some issues which should be considered. First of all, who are the People of the Book in the terminology of the Qur'an and Sunnah? What does 'Book' mean? And, is it also necessary that, in order to be regarded as the People of the Book, these people believe in and act according to their Book, correctly and faithfully? Here, it is obvious that the Book cannot be taken in its literal sense, that is, any written page. It can only mean a particular Book which has come from Allah. Therefore, there is a consensus of Muslim Ummah that 'Book' could only mean a particular Scripture about which there exists a certitude that, confirmed by the Holy Qur'an, it is the Book of Allah, for instance, the Torah, Evangel, Zabur (Psalms) and other scriptures of Sayyidna Musa and Ibrahim (علیہما السلام) . Therefore, peoples and nations which believe in some book and claim for it the status of a Divine Revelation - and which does not stand proved through the certain sources of the Qur'an and Sunnah - shall not be included under the term of the People of the Book, for example, the disbelievers of Makkah, the Magicians or the Zoroastrians, the idol-worshipping Hindus, the Buddhists, Aryans, Sikhs and many others.
+This tells us that the Jews and Christians who are believers of the Torah and the Evangel are included within the Qur'anic terminology of The People of the Book. The Sabians, a third people, cannot be identified precisely. Those who think that they believed in the Psalms of David (Zabur) are inclined towards including them too among The People of the Book. Those who were convinced that they had nothing to do with the Psalms, take them to be star-worshippers. They group them together with the idolaters and Magians. However, the Jews and Christians are the ones who are called The People of the Book by universal agreement. Now, we can return to the gist of the Qur'anic injunction, that is, the Dhabihah (slaughter) of Jews and Christians is Halal for Muslims and the Dhabihah of Muslims is Halal for them.
+As for the need to first determine the basis of calling and understanding the Jews and Christians as the People of the Book, one may ask: Is it bound with the condition that they should genuinely believe in the original Torah and Evangel and act in accordance with these? Or, even those who follow the altered Torah and Evangel and those who ascribe to Sayyidna ` Isa and Sayyidah Maryam, may Allah bless them both, partnership in the Divinity of God, shall be deemed as included among the People of the Book? The answer is that it is quite evident from the many clarifications of the Qur'an that for a people to be from 'The People of the Book', it is quite enough that they accept and believe in a Scripture and claim to follow it - irrespective of how much astray they may have gone while following it.
+Those to whom the Holy Qur'an gave the title of The People of the Book were also those about whom it said at several places that these people distort their Scriptures: يُحَرِّ‌فُونَ الْكَلِمَ عَن مَّوَاضِعِهِ (5:13). It also said that the Jews took Sayyidna 'Uzayr (علیہ السلام) as the son of God and the Christians did the same to Sayyidna Masih (علیہ السلام) وَقَالَتِ الْيَهُودُ عُزَيْرٌ‌ ابْنُ اللَّـهِ وَقَالَتِ النَّصَارَ‌ى الْمَسِيحُ ابْنُ اللَّـهِ (9:30). When, despite what they were and what they did, the Holy Qur'an insisted on calling them The People of the Book, it becomes evident that - unless the Jews and Christians were to abandon Judaism and Christianity totally - they shall continue to be the people of the Book, no matter how involved in false beliefs of their religion and dark doings they may be.
+Imam al-Jassas (رح) reports in Ahkam al-Qur'an that during the Khilafah of Sayyidna ` Umar, may Allah be pleased with him, one of his governors wrote to him for advice. He said that there were some people in his area who recited the Torah and observed the Sabbath like the Jews but they did not believe in Qiyamah (the Last Day). He wanted to know how he was supposed to deal with such people. Sayyidna ` Umar ؓ wrote back telling him that they will be taken as a sect of The People of the Book after all.
+Atheist Jews and Christians are not the People of the Book:
+These days a very large number of people in Europe (and else-where) who are listed in the Census records as Jews and Christians do not really believe in the existence of God and, for that matter, do not subscribe to any institutionalized religion. They do not accept the To-rah and Evangel as Scriptures, nor do they have faith in Sayyidna Musa and ` Isa (Moses and Jesus), may peace be upon them, as prophets or messengers of Allah. It is obvious that such people cannot be counted as included under the injunction governing the People of the Book simply because their names are listed as Jews and Christians in the Census records.
+
+When Sayyidna Ali ؓ said that the slaughter of some Christians of Arabia is not Halal, he gave a reason. He said that those people believe in nothing but drinking. His words as reported by Ibn al-Jauzi are being cited below:
+روی ابن الجوزی بسندہ عن علی ؓ قال لا تأکلوا من ذبایٔح نصاری بنی تغلب فانھم لم یتمسکوا من النصرانیۃ بشیٔ الاشربھم الخمر ورواہ الشافعی بسند صحیح عنہ (تفسیر مظھری ص 34 ، ج 3 مایٔدہ)
+'Do not eat from the animals slaughtered by the Christians belonging to Bani' Taghlib for they have taken nothing from the Christian faith except the drinking of wine (narrated by Al-Shafi` i with sound authority - al-Tafsir al-Mazhari, p. 34, v. 3, al-Ma'idah)
+Sayyidna Ali ؓ prohibited the slaughter of the Christians of Bani Taghlib because, according to his information, they were libertines, not Christians. However, the majority of Sahabah and Tabi'in found out that these people too were like common Christians and had never rejected their Faith. Therefore, they ruled that the slaughter of these people was also lawful. Al-Qurtubl says in his commentary:
+The majority of the Muslim jurists are of the opinion that the Dhabiha of Christians is lawful, whether from Bani Taghlib or from some other tribe or group. Similarly, the Dhabiha of every Jew is also lawful. (Tafsir al-Qurtubi)
+In short, Christians about whom there is confirmed and certain in-formation that they do not believe in the very existence of God or do not accept Sayyidna Musa and ` Isa (علیہ السلام) as prophets, will not be included under the injunction governing the People of the Book.
+What does the 'food' of the People of the Book mean?
+Literally, طعام 'Ta’ am' means what is eaten which, in the Arabic lexicon, includes all kinds of eatables. But, the majority of the scholars of the Muslim Ummah hold that Ta` am' at this particular place refers to the meat of the animals slaughtered by the People of the Book because there is no distinction between the People of the Book and other disbelievers in eatables other than meat. Dry eatables like wheat, chick peas, rice and fruit are open commodities and are lawful when received from a disbeliever of any shade. Nobody differs about that. As for food which goes through human handling, the cautious practice is to avoid it since the purity (Taharah) of utensils and hands used by the disbelievers is not reliable. It is better not to use it without the urgency of need. But, this is a situation in which the probability of impurity is the same among idolaters and the People of the Book.
+To sum up, it can be said that the only possible legal difference in the 'food' of the People of the Book and other disbelievers is in the meat they slaughter. Therefore, in the present verse, it is a consensus of the Ummah that the 'food of the People of the Book' means their properly slaughtered animal. In his famous Tafsir, al-Qurtubl writes:
+والطعام اسم لما یؤکل والذبایٔح منہ و ھو ھھنا خاص بالذبایٔح عند کثیر من اھل العلم بالتأویل واما ماحرم من طعامھم فلیس بداخل فی عموم الخطاب۔ (قرطبی 77، ج 6)
+The word, 'Ta'am' is used for whatever is eaten, included within which are slaughtered animals as well - and here it has been used for slaughtered animals particularly. According to the view of the majority of exegetes of the Qur'an, whatever is unlawful from the 'food' of the People of the Book is not included in this generality of address (Qurtubi p. 77, v. 6).
+Later, al-Qurtubi gives a detailed comment as follows:
+لا خلاف بین العلماء ان مالا یحتاج الی ذبح کالطعام الذی لا محاولۃ فیۃ کالفاکھۃ والبر، جایٔزا کلہ اذ لا یضر فیہ تملک احد والطعام الذی فقع فیہ المحاولۃ علی ضربین احدھما مافی محاولۃ لھا بالدین کخبزۃ الدقیق وعصرہ الزیت۔ فھذا ان تجنب من الذمی فعلی وجہ التقذر۔ والضرب الثانی التذکیۃ التی ذکرنا انھا ھی اللتی تحتاج الی الدین والنیۃ۔ فلما کان القیاس ان لا تجوز ذبایٔحھم کما نقول انّھم لاصلاۃ لھم ولا عبادہ مقبولۃ رخص اللہ تعالیٰ فی ذبایٔحھم علی ھذہ الأمۃ اخرجھا النص عن القیاس علی ماذکرنا من قول ابن عباس۔ (قرطبی سورة مایٔدہ ص 77 ۔ ج 6 )
+There is no difference of view among scholars that it is lawful to eat what requires no slaughter such as fruit and wheat for its being owned (by a non-Muslim) does not bring any damage to the eatable. However, 'food' which requires effort has two kinds: First of these is the one in which one makes or produces something which has nothing to do with religion, such as, making bread from dough or pressing oil from olives - in this case, if a Muslim were to abstain from the outcome of the effort of a disbelieving citizen of an Islamic state (Dhimmi (, that would be an abstention simply based on temperamental distaste. The second kind needs the purifying process of slaughtering an animal properly which, in turn, requires Faith and Intention. In that case, the normal assumption would have required that the act of slaughter performed by a disbeliever should have not been acceptable very much like his acts of worship and prayer. But, Allah Almighty made their slaughtered animals specially lawful for the Muslim Community. This situation has been excepted by the express provision of the Holy Qur'an from the general rule, as mentioned by Ibn ` Abbas رضی اللہ تعالیٰ عنہما (Qurtubi - Surah al-Ma'idah, p. 77, v. 6)
+The gist is that the 'food' of the People of the Book as it appears in this verse, means - with the agreement of scholars of Tafsir - food the lawfulness of which depends upon religion and belief: that is, the Dhabihah (the slaughter). Therefore, special treatment was meted out to the People of the Book in the case of this form of 'food' - because they too claim to believe in Books and Prophets sent by Allah, though their textual alterations invalidated their claim with the result that they got involved in disbelief and in ascribing partners to Allah. This was contrary to the position of disbelieving idolators who did not even claim to believe in any Scripture or Prophet or Messenger and the books or persons they believe in are neither books sent by Allah nor prophets or messengers as proved by any Word of Allah.
+The Wisdom behind the Lawfulness of the slaughter of the People of the Book
+The third question about the present verse is why the slaughter of the Jews and the Christians, as well as marrying their women, is made lawful for the Muslims, while all other non-Muslims have no such privilege. According to most of the Sahabah, Tabi` in and other exegetes of the Holy Qur'an, the answer to this question is very simple. Although the Jews and Christians had distorted their original religion by making many alterations therein, yet their faith regarding these two aspects matched with the Islamic injunctions. That is, they consider it necessary to invoke the name of Allah on their slaughter as an article of faith and take an animal to be impure and unlawful as carrion without that due process.
+Similar is the case in marriage - the list of the women of prohibited degree (marriage with whom is not lawful) is the same in their religion as in Islam. Also, the way it is necessary in Islam that marriage be pronounced openly, and in the presence of two witnesses, so it is with them - even in their present religion, the same injunctions continue.
+The great commentator, Ibn Kathir has reported this very position taken by most hahabah and Tabi'in. His words are as follows:
+(وطعام اھل الکتاب) قال ابن عباس ؓ وابو امامۃ ومجاھد و سعید بن جبیروعکرمہ وعطاء والحسن ومکحول وابراھیم النخفی وألسدی ومقاتل بن حیان یعنی ذبایٔحھم حلال للمسلمین لانھم یعتقدون تحریم الذبح لغیر اللہ ولا یذکرون علی ذبایٔحھم الا اسم اللہ وان اعتقدوا فیہ تعالیٰ ماھو منزہ عنہ تعالیٰ و تقدیس۔ (ابن کثیر مایٔدہ ص 19 ج 3)
+Ibn ` Abbas, Abu Ummah, Mujahid, Said ibn Jubayr, ` Ikrimah, Hasan, Makhhul, Ibrahim al-Nakh'ii, Suddi and Mugatil ibn Haan have explained the food of the People of the Book' as their 'Dhaba'ih' (properly slaughtered animals). These are lawful for Muslims because they consider slaughtering animals for anyone other than Allah as unlawful and do not in-voke any name other than that of Allah on animals they slaughter - even if they believe in things about Almighty Allah from which the great Creator is free and far above (Ibn Kathir, Surah al-Ma'idah, p. 19, v. 3).
+This statement of Ibn Kathir tells us two things: One, that all Companions and their Successors mentioned above take the 'food of the People of the Book' to mean their properly slaughtered animals (Dhaba'ih) and that there is a consensus of the Ummah that they are lawful. And the second point made clear here is that the reason why the Dhaba'ih of the People of the Book are lawful in the view of these revered authorities is that the issue of Dhabihah with the Jews and Christians still stays valid in accordance with the Shari` ah of Islam despite the many alterations in their religion - as they too take an animal slaughtered in the name of someone other than Allah as unlawful and that they deem it necessary to invoke the name of Allah upon the animal being slaughtered. However, it is a different matter that they fell into the polytheistic belief in Trinity whereby they started equating Allah and Mash son of Maryam as one and the same. The Holy Qur'an alludes to this in the following words:
+لَّقَدْ كَفَرَ‌ الَّذِينَ قَالُوا إِنَّ اللَّـهَ هُوَ الْمَسِيحُ ابْنُ مَرْ‌يَمَ
+Certainly, gone infidel are those who say, "God is the Masih son of Maryam (Jesus son of Mary).
+The outcome is that all verses of the Qur'an concerning Dhabihah - which appear in Surah al-Baqarah and Surah al-An` am, and in which the animal slaughtered in a name other than that of Allah, as well as the animal upon which the name of Allah was not invoked - declare both being equally unlawful. All these verses have permanent legal effect and must be acted upon for all times to come. The verse of Surah al-Ma'idah which declares the food of the People of the Book as lawful is also no different from the injunctions appearing in these verses because the very reason of making the food of the People of the Book lawful is no other than that their present religion also maintains that an animal slaughtered by invoking the name of someone other than Allah upon it, and the animal upon which the name of Allah was not invoked, are both unlawful. Even today, the current copies of the Torah and the Evangel do have injunctions of slaughter and marriage almost similar to those of the Qur'an and Islam, details of which will appear a little later.
+However, the possibility is there that some ignorant people act in a manner which goes against this injunction of their own religion - very similar to many ignorance-based customs which have found currency among uninformed sections of Muslim masses as well: but, these can-not be called the religion of Islam. Noticing this behaviour of the ignorant masses among the Christians of that time, the revered Tabi` in (the successors to the Companions) took the position that Allah, when He made the food of the People of the Book lawful, already knew what they did with their slaughtering of animals. Some would invoke the name of Masih or ` Uzayr upon it while others would invoke no name at all. So, we see that the verse of Surah al-Ma'idah, which declares the 'food' of the People of the Book as lawful, acts as a particularizer or a sort of abrogator of the verses of the Surahs al-Baqarah and al-An'-am on the subject of the slaughter of animals, verses in which the slaughtering of animals in a name other than that of Allah or slaughtering them without invoking the name of Allah has been declared unlawful.
+According to the view of great ` Ulama', the respected Tabi` in, who declared that an un-named slaughter of an animal, or of one upon whom a name other than that of Allah was invoked were lawful, also knew that the original religion of the People of the Book was not different from what Islam enjoined and it was only the ignorant section of their masses which made such errors. Despite this, these revered elders did not exclude the ignorant masses of the People of the Book from the general rule governing the People of the Book. They upheld, in matters relating to the slaughter of animals and to marriage, the same injunction which governed their forefathers and the followers of the original religion, that is, the slaughter of animals by them and the marriage with their women was permissible.
+In Al-Ahkam al-Qur'an, Ibn al-Arabi says that he asked his teacher, Abu al-Fath al-Maqdisi about the Christians of his time who slaughtered an animal invoking a name other than that of Allah upon it - for example, they invoked the name of Masih or 'Uzayr at the time of slaughter - how could their Dhabihah become lawful, he wondered.
+The reply given by Al-Maqdisi was:
+ھم من ابایٔھم وقد جعلھم اللہ تعالیٰ تبعالمن کان قبلھم مع علمہ بحالھم (احکام ابن العربی ص 229، جلد اول)
+The injunction that governs them is like that of their forefathers. This condition (of the People of the Book) was already within the knowledge of Almighty Allah, but, He has made them subordinate to their forefathers. (Ahkam, Ibn al-` Arabi, p.229, v. 1)
+In recapitulation, it can be said that in the sight of the learned elders of the Muslim Community who have permitted the consumption of animals slaughtered by the People of the Book - those upon which the name of Allah was not invoked, rather, invoked thereupon was a name other than that of Allah - it was clear that these things are an integral part of the real faith of the People of the Book and are equally unlawful there. But, these learned elders allowed the erring masses also to be governed by the injunction which applies to the original People of the Book. It was for this reason that they allowed the animals slaughtered by the People of the Book to be taken as lawful. On the other side, the majority of the Sahabah, Tabi` in and Mujtahid Imams noticed that the animals slaughtered by the misled masses among the People of the Book, whether in a name other than that of Allah or without the name of Allah, were after all against the Islamic injunction but, in addition to that, the practice was against the current faith of the Christians themselves. Therefore, what they do should not affect the standing injunctions. So, they gave the verdict that the animals slaughtered by such people are not included under 'the food of the People of the Book' and, as such, there is no reason to support its lawfulness. Also, the act of going by the saying that their own wrong doing had caused particularization or abrogation in the verses of the Qur'an is not correct in any manner whatsoever.
+Therefore, all leading authorities in Tafsir - Ibn Jarir, Ibn Kathir, Abu Hayyan and others - are unanimous in holding that there was no abrogation (Naskh) in the verses of Surah al-Baqarah and Surah al. An'-am. This is also the favoured position of the majority of Sahabah and Ta
+
+## Personal Reflections

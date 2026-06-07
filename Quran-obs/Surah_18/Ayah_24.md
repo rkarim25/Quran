@@ -1,0 +1,142 @@
+---
+arabic_ayat: اِلَّاۤ اَنۡ يَّشَآءَ اللّٰهُ​ وَاذۡكُرْ رَّبَّكَ اِذَا نَسِيۡتَ وَقُلۡ
+  عَسٰٓى اَنۡ يَّهۡدِيَنِ رَبِّىۡ لِاَقۡرَبَ مِنۡ هٰذَا رَشَدًا‏
+sentence_translation: without adding, “if Allah so wills!” But if you forget, then
+  remember your Lord, and say, “I trust my Lord will guide me to what is more right
+  than this.”
+word_by_word:
+  1:
+    arabic: اِلَّاۤ
+    translation: Except
+    transliteration: illā
+  2:
+    arabic: اَنۡ
+    translation: If
+    transliteration: an
+  3:
+    arabic: يَّشَآءَ
+    translation: Allah wills
+    transliteration: yashāa
+  4:
+    arabic: اللّٰهُ​
+    translation: Allah wills
+    transliteration: l-lahu
+  5:
+    arabic: وَاذۡكُرْ
+    translation: And remember
+    transliteration: wa-udh'kur
+  6:
+    arabic: رَّبَّكَ
+    translation: your Lord
+    transliteration: rabbaka
+  7:
+    arabic: اِذَا
+    translation: when
+    transliteration: idhā
+  8:
+    arabic: نَسِيۡتَ
+    translation: you forget
+    transliteration: nasīta
+  9:
+    arabic: وَقُلۡ
+    translation: and say
+    transliteration: waqul
+  10:
+    arabic: عَسٰٓى
+    translation: Perhaps
+    transliteration: ʿasā
+  11:
+    arabic: اَنۡ
+    translation: '[that]'
+    transliteration: an
+  12:
+    arabic: يَّهۡدِيَنِ
+    translation: will guide me
+    transliteration: yahdiyani
+  13:
+    arabic: رَبِّىۡ
+    translation: my Lord
+    transliteration: rabbī
+  14:
+    arabic: لِاَقۡرَبَ
+    translation: to a nearer (way)
+    transliteration: li-aqraba
+  15:
+    arabic: مِنۡ
+    translation: than
+    transliteration: min
+  16:
+    arabic: هٰذَا
+    translation: this
+    transliteration: hādhā
+  17:
+    arabic: رَشَدًا‏
+    translation: right way
+    transliteration: rashadan
+---
+
+## Context
+
+To understand **The Cave** (Al-Kahf) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+At the beginning of this Surah we discussed the reason why this Ayah was revealed: when the Prophet was asked about the story of the people of the Cave, he said, "I will tell you tomorrow." Then the revelation was delayed for fifteen days.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And never say of anything, "I shall do such and such thing tomorrow. Saying 'Insha'Allah' on doing something in the future The background of the revelation of the first two verses has been reported in Lubab from Sayyidna ` Abdullah ibn ` Abbas ؓ in the following manner.
+
+## Tafsir Ibn Kathir
+
+And never say of anything, "I shall do such and such thing tomorrow. (23)Except (with the saying), "If Allah wills!" And remember your Lord when you forget and say: "It may be that my Lord guides me to a nearer way of truth than this. (24)
+
+Saying "If Allah wills" when determining to do Something in the Future
+
+Here Allah, may He be glorified, shows His Messenger ﷺ the correct etiquette when determining to do something in the future; this should always be referred to the will of Allah, the Knower of the Unseen, Who knows what was and what is yet to be and what is not to be, and how it will be if it is to be. It was recorded in the Two Sahihs that Abu Hurayrah said that the Messenger of Allah ﷺ said:
+
+قَالَ سُلَيْمَانُ بْنُ دَاوُدَ عَلَيْهِمَا السَّلَامُ: لَأَطُوفَنَّ اللَّيْلَةَ عَلَى سَبْعِينَ امْرَأَةً - وَفِي رِوَايَةٍ: تِسْعِينَ امْرَأَةً، وَفِي رِوَايَةٍ: مِائَةِ امْرَأَةٍ - تَلِدُ كُلُّ امْرَأَةٍ مِنْهُنَّ غُلَامًا يُقَاتِلُ فِي سَبِيلِ اللهِ، فَقِيلَ لَهُ - وَفِي رِوَايَةٍ قَالَ لَهُ الْمَلَكُ:- قُلْ إِنْ شَاءَ اللهُ، فَلَمْ يَقُلْ، فَطَافَ بِهِنَّ فَلَمْ تَلِدْ مِنْهُنَّ إِلَّا امْرَأَةٌ وَاحِدَةٌ نِصْفَ إِنْسَانٍ، فَقَالَ رَسُولُ اللهِ صلّى الله عليه وسلّم: وَالَّذِي نَفْسِي بِيَدِهِ، لَوْ قَالَ إِنْ شَاءَ اللهُ لَمْ يَحْنَثْ، وَكَانَ دَرَكًا لِحَاجَتِهِ
+
+وَفِي رِوَايَةٍ:
+
+وَلَقَاتَلُوا فِي سَبِيلِ اللهِ فُرْسَانًا أَجْمَعُونَ
+
+(Sulayman bin Dawud (peace be upon them both) said: "Tonight I will go around to seventy women [according to some reports, it was ninety or one hundred women] so that each one of them will give birth to a son who will fight for the sake of Allah." It was said to him, [according to one report, the angel said to him] "Say: 'If Allah wills'", but he did not say it. He went around to the women but none of them gave birth except for one who gave birth to a half-formed child.) The Messenger of Allah ﷺ said, (By the One in Whose hand is my soul, had he said, "If Allah wills," he would not have broken his oath, and that would have helped him to attain what he wanted.) According to another report, (They would all have fought as horsemen in the cause of Allah.)
+
+At the beginning of this Surah we discussed the reason why this Ayah was revealed: when the Prophet was asked about the story of the people of the Cave, he said, "I will tell you tomorrow." Then the revelation was delayed for fifteen days.
+
+Since we discussed this at length at the beginning of the Surah, there is no need to repeat it here.
+
+وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ
+
+(And remember your Lord when you forget)
+
+It was said that this means, if you forget to say "If Allah wills", then say it when you remember. This was the view of Abu Al-'Aliyah and Al-Hasan Al-Basri. Hushaym reported from Al-A'mash from Mujahid that concerning a man who swears an oath, Ibn 'Abbas said "He may say 'If Allah wills' even if it is a year later." Ibn 'Abbas used to interpret this Ayah:
+
+وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ
+
+(And remember your Lord when you forget) in this way. Al-A'mash was asked, "Did you hear this from Mujahid?" He said, "Layth bin Abi Salim told it to me." The meaning of Ibn 'Abbas' view, that a person may say "If Allah wills", even if it is a year later, is that if he forgets to say it when he makes the oath or when he speaks, and he remembers it later, even a year later, the Sunnah is that he should say it, so that he will still be following the Sunnah of saying "If Allah wills", even if that is after breaking his oath. This was also the view of Ibn Jarir, but he stated that this does not make up for breaking the oath or mean that one is no longer obliged to offer expiation. What Ibn Jarir said is correct, and it is more appropriate to understand the words of Ibn Abbas in this way. And Allah knows best.
+
+وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا - إِلَّا أَن يَشَاءَ اللَّهُ ۚ وَاذْكُر رَّبَّكَ إِذَا نَسِيتَ
+
+(And never say of anything, "I shall do such and such thing tomorrow." Except (with the saying), "If Allah wills!" And remember your Lord when you forget) At-Tabarani recorded that Ibn 'Abbas said that this meant saying, "If Allah wills."
+
+وَقُلْ عَسَىٰ أَن يَهْدِيَنِ رَبِّي لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا
+
+(and say: "It may be that my Lord guides me to a nearer way of truth than this.") meaning, 'if you (O Prophet) are asked about something you know nothing about, ask Allah about it, and turn to Him so that He may guide you to what is right.' And Allah knows best.
+
+## Maarif ul Quran
+
+Saying 'Insha'Allah' on doing something in the future
+
+The background of the revelation of the first two verses has been reported in Lubab from Sayyidna ` Abdullah ibn ` Abbas ؓ in the following manner. When the people of Makkah acting as coached by the Jews, asked the Holy Prophet ﷺ about the story of Ashab al-Kahf etc., he promised to answer that next day without having said Insha'Allah. The least shortcoming issuing forth from the close ones brings some or the other notice of caution. Therefore, no revelation came for the next fifteen days. Naturally, the Holy Prophet ﷺ was grieved and the Mushriks of Makkah had their opportunity to laugh and ridicule. After this interval of fifteen days, when the answer to the questions asked was revealed, these two verses were revealed along with it as a measure of guidance. They told him that, should he need to say something about what he was going to do the next day, he should invariably affirm it by saying Insha'Allah, for everything depends on the intention and will of Allah Ta` ala. These two verses, it will be noted, have been introduced at the end of the story of the People of Kahf.
+
+Ruling
+
+Firstly, these two verses (23, 24) tell us that saying Insha'Allah in the given situation is mustahabb (recommended). Secondly, they tell us that, should this part of the statement be left unsaid inadvertently, then, one may say it at the time one remembers. This injunction relates to the particular matter for which these verses have been revealed. It means that the purpose is simply to say this word to invoke Divine blessing and to confess to one's servitude and not to make the statement contingent or conditional. Therefore, it does not follow from here that one would do the same in buying and selling transactions and contracts where conditions are imposed and on this rests the contract between parties. Is it possible to impose a condition whenever one remembers later in case one had for-gotten to include the condition at the time of signing the original contract? The difference of some jurists exists in this issue details of which appear in books of Fiqh.
+
+## Personal Reflections

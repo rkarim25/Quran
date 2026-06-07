@@ -1,0 +1,271 @@
+---
+arabic_ayat: فَوَجَدَا عَبۡدًا مِّنۡ عِبَادِنَاۤ اٰتَيۡنٰهُ رَحۡمَةً مِّنۡ عِنۡدِنَا
+  وَعَلَّمۡنٰهُ مِنۡ لَّدُنَّا عِلۡمًا‏
+sentence_translation: There they found a servant of Ours, to whom We had granted mercy
+  from Us and enlightened with knowledge of Our Own.
+word_by_word:
+  1:
+    arabic: فَوَجَدَا
+    translation: Then they found
+    transliteration: fawajadā
+  2:
+    arabic: عَبۡدًا
+    translation: a servant
+    transliteration: ʿabdan
+  3:
+    arabic: مِّنۡ
+    translation: from
+    transliteration: min
+  4:
+    arabic: عِبَادِنَاۤ
+    translation: Our servants
+    transliteration: ʿibādinā
+  5:
+    arabic: اٰتَيۡنٰهُ
+    translation: whom We had given
+    transliteration: ātaynāhu
+  6:
+    arabic: رَحۡمَةً
+    translation: mercy
+    transliteration: raḥmatan
+  7:
+    arabic: مِّنۡ
+    translation: from
+    transliteration: min
+  8:
+    arabic: عِنۡدِنَا
+    translation: Us
+    transliteration: ʿindinā
+  9:
+    arabic: وَعَلَّمۡنٰهُ
+    translation: and We had taught him
+    transliteration: waʿallamnāhu
+  10:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  11:
+    arabic: لَّدُنَّا
+    translation: Us
+    transliteration: ladunnā
+  12:
+    arabic: عِلۡمًا‏
+    translation: a knowledge
+    transliteration: ʿil'man
+---
+
+## Context
+
+To understand **The Cave** (Al-Kahf) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah. So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace be upon him, till they reached a rock (on which) they both lay down their heads and slept. The fish moved vigorously in the vessel and got out of it and fell into the sea and there it took its way through the sea (straight) as in a tunnel. Allah stopped the flow of water on both sides of the way created by the fish, and so that way was like a tunnel. When Musa got up, his companion forgot to tell him about the fish, and so they carried on their journey during the rest of the day and the whole night.
+
+## Tafsir Summary
+
+And (remember) when Musa said to his boy-servant: "I will not give up until I reach the junction of the two seas or a Huqub passes. About al-Khadir (علیہ السلام) and the issue of his prophet-hood Though the name of the person concerned in this event has not been mentioned in the Qur'an - in fact, he has been called: عَبداً مِن عِبَادِنَا (a servant from among Our servants - 65) - but, in the Hadith of Sahih al-Bukhari, his name has been given as: اَلخِضر (al-Khadir).
+
+## Tafsir Ibn Kathir
+
+And (remember) when Musa said to his boy-servant: "I will not give up until I reach the junction of the two seas or a Huqub passes. (60)But when they reached the junction of the two seas, they forgot their fish, and it took its way through the sea as in a tunnel (61)So when they passed further on, Musa said to his boy-servant: "Bring us our morning meal; truly, we have suffered Nasaban in this, our journey. (62)He said: "Do you remember when we betook ourselves to the rock? I indeed forgot the fish; none but Shaytan made me forget to remember it. It took its course into the sea in a strange (way (63)[Musa] said: "That is what we have been seeking." So they went back retracing their footsteps (64)Then they found one of Our servants, on whom We had bestowed mercy from Us, and whom We had taught knowledge from Us (65)
+
+The Story of Musa and Al-Khidr
+
+The reason for Musa's conversation with the boy-servant, Yusha' bin Nun, was that he had been told about one of the servants of Allah at the junction of the two seas, who had knowledge which Musa had not been granted, so he wanted to travel to meet him. So he said to that boy-servant of his:
+
+لَا أَبْرَحُ
+
+(I will not give up) meaning, I will keep on traveling,
+
+حَتَّىٰ أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ
+
+(until I reach the junction of the two seas) meaning, the place where the two seas met.
+
+أَوْ أَمْضِيَ حُقُبًا
+
+(or a Huqub passes.) meaning, even if I have to travel for a very long time. Ibn Jarir (may Allah have mercy on him) said, "Some of the scholars of the Arabic language said that Huqub means a year in the dialect of [the tribe of] Qays," then he narrated that 'Abdullah bin 'Amr said, "Huqub means eighty years." Mujahid said, "Seventy years." 'Ali bin Abi Talhah reported that Ibn 'Abbas said that it means a lifetime. Qatadah and Ibn Zayd said likewise.
+
+فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا
+
+(But when they reached the junction of the two seas, they forgot their fish,)
+
+He had been commanded to carry a salted fish with him, and it had been said to him, when you lose the fish, that will be a sign that you have reached the right place. So they set out and traveled until they reached the junction of the two seas, where there was a spring called 'Ayn Al-Hayat (the Spring of Life). They went to sleep there, and the fish felt the drops of that water, so it came back to life. It was in a vessel with Yusha', upon him be peace, and it jumped out of the vessel towards the sea. Yusha' woke up and the fish fell into the water and started to swim through the water, leaving a track or channel behind it. Allah said:
+
+فَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ سَرَبًا
+
+(and it took its way through the sea as in a tunnel.) meaning, like going through a tunnel on land. Ibn Jurayj said, "Ibn 'Abbas said, 'It left a trace as if it were a rock.'"
+
+فَلَمَّا جَاوَزَا
+
+(So when they had passed further on,) means, past the place where they had forgotten the fish. Forgetfulness is attributed to them both even though it was actually Yusha' who forgot. This is like the Ayah:
+
+يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
+
+(Out of them both come out pearl and coral.)[55:22], although they come from the salt water, according to one of the two opinions. When they had passed one stage beyond the place where they had forgotten the fish,
+
+قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا
+
+([Musa] said to his boy-servant: "Bring us our morning meal; truly, we have suffered in this, our journey) meaning, their journey beyond the place where they should have stopped.
+
+نَصَبًا
+
+(Nasaban) means, exhaustion.
+
+قَالَ أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ وَمَا أَنسَانِيهُ إِلَّا الشَّيْطَانُ أَنْ أَذْكُرَهُ
+
+(He said: "Do you remember when we betook ourselves to the rock? I indeed forgot the fish; none but Shaytan made me forget to remember it...") Then he said,
+
+وَاتَّخَذَ سَبِيلَهُ
+
+(It took its course), meaning its path,
+
+فِي الْبَحْرِ عَجَبًا - قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ
+
+("...into the sea in a strange (way)!" [Musa] said: "That is what we have been seeking.") meaning, this is what we have been looking for.
+
+فَارْتَدَّا
+
+(So they went back )
+
+عَلَىٰ آثَارِهِمَا
+
+(their footsteps.)
+
+فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِّنْ عِندِنَا وَعَلَّمْنَاهُ مِن لَّدُنَّا عِلْمًا
+
+(Then they found one of Our servants, on whom We had bestowed mercy from Us, and whom We had taught knowledge from Us.)
+
+This was Al-Khidr, peace be upon him, as is indicated by the authentic Hadiths narrated from the Messenger of Allah ﷺ. Al-Bukhari recorded that Sa'id bin Jubayr said, "I said to Ibn 'Abbas: 'Nawf Al-Bikali claims that Musa, the companion of Al-Khidr was not the Musa of the Children of Israel.' Ibn 'Abbas said, 'The enemy of Allah has told a lie.' Ubayy bin Ka'b narrated that he heard the Messenger of Allah ﷺ say,
+
+إِنَّ مُوسَى قَامَ خَطِيبًا فِي بَنِي إِسْرَائِيلَ فَسُئِلَ: أَيُّ النَّاسِ أَعْلَمُ؟ قَالَ: أَنَا، فَعَتَبَ اللهُ عَلَيْهِ إِذْ لَمْ يَرُدَّ الْعِلْمَ إِلَيْهِ، فَأَوْحَى اللهُ إِلَيْهِ إِنَّ لِي عَبْدًا بِمَجْمَعِ الْبَحْرَيْنِ هُوَ أَعْلَمُ مِنْكَ. قَالَ مُوسَى: يَا رَبِّ وَكَيْفَ لِي بِهِ؟ قَالَ: تَأْخُذُ مَعَكَ حُوتًا فَتَجْعَلَهُ بِمِكْتَلٍ، فَحَيْثُمَا فَقَدْتَ الْحُوتَ فَهُوَ ثَمَّ، فَأَخَذَ حُوتًا فَجَعَلَهُ بِمِكْتَلٍ، ثُمَّ انْطَلَقَ وَانْطَلَقَ مَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ عَلَيْهِ السَّلَامُ، حَتَّى إِذَا أَتَيَا الصَّخْرَةَ وَضَعَا رُءُوْسَهُمَا فَنَامَا، وَاضْطَرَبَ الْحُوتُ فِي الْمِكْتَلِ، فَخَرَجَ مِنْهُ فَسَقَطَ فِي الْبَحْرِ فَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ سَرَبًا، وَأَمْسَكَ اللهُ عَنِ الْحُوتِ جِرْيَةَ الْمَاءِ، فَصَارَ عَلَيْهِ مِثْلَ الطَّاقِ، فَلَمَّا اسْتَيْقَظَ، نَسِيَ صَاحِبُهُ أَنْ يُخْبِرَهُ بِالْحُوتِ، فَانْطَلَقَا بَقِيَّةَ يَوْمِهِمَا وَلَيْلَتَهُمَا حَتَّى إِذَا كَانَ مِنَ الْغَدِ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًا
+
+(Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah. So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace be upon him, till they reached a rock (on which) they both lay down their heads and slept. The fish moved vigorously in the vessel and got out of it and fell into the sea and there it took its way through the sea (straight) as in a tunnel. Allah stopped the flow of water on both sides of the way created by the fish, and so that way was like a tunnel. When Musa got up, his companion forgot to tell him about the fish, and so they carried on their journey during the rest of the day and the whole night. The next morning Musa said to his boy-servant,
+
+("Bring us our morning meal; truly, we have suffered much fatigue in this, our journey.")
+
+وَلَمْ يَجِدْ مُوسَى النَّصَبَ حَتَّى جَاوَزَ الْمَكَانَ الَّذِي أَمَرَهُ اللهُ بِهِ، قَالَ لَهُ فَتَاه ُ
+
+أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ وَمَا أَنسَانِيهُ إِلَّا الشَّيْطَانُ أَنْ أَذْكُرَهُ ۚ وَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ عَجَبًا
+
+قاَل: فَكَانَ لِلْحُوتِ سَرَبًا، وَلِمُوسَى وَفَتَاهُ عَجَبًا، فَقَالَ:
+
+ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَارْتَدَّا عَلَىٰ آثَارِهِمَا قَصَصًا
+
+قَالَ: فَرَجَعَا يَقُصَّانِ أَثَرَهُمَا حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَإِذَا رَجُلٌ مُسَجًّى بِثَوْبٍ، فَسَلَّمَ عَلَيْهِ موسَى فَقَالَ الْخَضِرُ: وَأَنَّى بِأَرْضِكَ السَّلَامُ. فَقَالَ: أَنَا مُوسَى. فَقَالَ: مُوسَى بَنِي إِسْرَائِيلَ؟ قَالَ: نَعَمْ، قَالَ: أَتَيْتُكَ لِتُعَلِّمَنِي مِمَّا عُلِّمْتَ رُشْدًا
+
+قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
+
+يَا مُوسَى إِنِّي عَلَى عِلْمٍ مِنْ علْمِ اللهِ عَلَّمَنِيهِ لَا تَعْلَمُهُ أَنْتَ وَأَنْتَ عَلَى عَلْمٍ مِنْ عِلْمِ اللهِ عَلَّمَكَهُ اللهُ لَا أَعْلَمُهُ.
+
+Musa did not get tired till he had passed the place that Allah had ordered him to look for. His boy-servant then said to him,
+
+("Do you remember when we betook ourselves to the rock? I indeed forgot the fish; none but Shaytan made me forget to remember it. It took its course into the sea in a strange way.")
+
+There was a tunnel for the fish and Musa and his boy-servant were amazed. Musa said,
+
+("That is what we have been seeking." So they went back retracing their footsteps.")
+
+So they went back retracing their steps until they reached the rock. There they found a man covered with a garment. Musa greeted him. Al-Khidr said, "Is there such a greeting in your land?" Musa said, "I am Musa." He said, "Are you the Musa of the Children of Israel?" Musa said, "Yes," and added, "I have come to you so that you may teach me something of that knowledge which you have been taught." Al-Khidr said,
+
+("You will not be able to have patience with me.)
+
+O Musa! I have some of Allah's knowledge which He has bestowed upon me but you do not know it; and you too, have some of Allah's knowledge which He has bestowed upon you, but I do not know it."
+
+فَقَالَ مُوسَى:
+
+سَتَجِدُنِي إِن شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا
+
+قَالَ لَهُ الْخَضِرُ:
+
+فَإِنِ اتَّبَعْتَنِي فَلَا تَسْأَلْنِي عَن شَيْءٍ حَتَّىٰ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا
+
+فَانْطَلَقَا يَمْشِيَانِ عَلَى سَاحِلِ الْبَحْرِ فَمَرَّتْ سَفِيَنةٌ، فَكَلَّمُوهُمْ أَنْ يَحْمِلُوهُمْ، فَعَرَفُوا الْخَضِرَ فَحَمَلُوهُمْ بِغَيْرِ نَوْلٍ، فَلَمَّا رَكِبَا فِي السَّفِينَةِ لَمْ يَفْجَأْ إِلَّا وَالْخَضِرُ قَدْ قَلَعَ لَوْحًا مِنْ أَلْوَاحِ السَّفِينَةِ بِالْقَدُّومِ، فَقَالَ لَهُ مُوسَى: قَدْ حَمَلُونَا بِغَيْرِ نَوْلٍ، فَعَمَدْتَ إِلَى سَفِينَتِهِمْ فَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا؟ لَقَدْ جِئْتَ شَيْئًا إِمْرًا
+
+قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا - قَالَ لَا تُؤَاخِذْنِي بِمَا نَسِيتُ وَلَا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا
+
+Musa said, ("If Allah wills, you will find me patient, and I will not disobey you in aught.")
+
+Al-Khidr said to him, ("Then, if you follow me, ask me not about anything till I myself mention it to you.")
+
+So they set out walking along the shore, until a boat passed by and they asked the crew to let them go on board. The crew recognized Al-Khidr and allowed them to go on board free of charge. When they went on board, suddenly Musa saw that Al-Khidr had pulled out one of the planks of the ship with an adz. Musa said to him, "These people gave us a free ride, yet you have broken their boat so that its people will drown! Verily, you have done a terrible thing!
+
+("Al-Khidr said, "Did I not tell you, that you would not be able to have patience with me?")
+
+(Musa said, "Call me not to account for what I forgot and be not hard upon me for my affair (with you)."))
+
+The Messenger of Allah ﷺ said,
+
+فَكَانَتِ الْأُولَى مِنْ مُوسَى نِسْيَانًا، قَالَ: وَجَاءَ عُصْفُورٌ فَوَقَعَ عَلَى حَرْفِ السَّفِينَةِ، فَنَقَرَ فِي الْبَحْرِ نَقْرَةً أَوْ نَقْرَتَيْنِ فَقَالَ لَهُ الْخَضِرُ: مَا عِلْمِي وَعِلْمُكَ فِي عِلْمِ اللهِ إِلَّا مِثْلُ مَا نَقَصَ هَذَا الْعُصْفُورُ مِنْ هَذَا الْبَحْرِ ثُمَّ خَرَجَا مِنَ السَّفِينَةِ فَبَيْنَمَا هُمَا يَمْشِيَانِ عَلَى السَّاحِلِ إِذْ أَبْصَرَ الْخَضِرُ غُلَامًا يَلْعَبُ مَعَ الْغِلْمَانِ، فَأَخَذَ الْخَضِرُ رَأْسَهُ فَاقْتَلَعَهُ بِيَدِهِ فَقَتَلَهُ، فَقَالَ لَهُ مُوسَى:
+
+أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَّقَدْ جِئْتَ شَيْئًا نُّكْرًا - قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
+
+(In the first instance, Musa asked Al-Khidr because he had forgotten his promise. Then a bird came and sat on the edge of the boat, dipping its beak once or twice in the sea. Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys. Al-Khidr took hold of the boy's head and pulled it off with his hands, killing him. Musa said to him,
+
+("Have you killed an innocent person who had killed none! Verily, you have committed a thing Nukr!" He said, "Did I not tell you that you would not be able to have patience with me?")
+
+قَالَ: وَهَذِهِ أَشَدُّ مِنَ الْأُولَى
+
+قَالَ إِن سَأَلْتُكَ عَن شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي ۖ قَدْ بَلَغْتَ مِن لَّدُنِّي عُذْرًا - فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+أَيْ مَائِلًا، فَقَالَ الْخَضِرُ بِيَدِهِ
+
+فَأَقَامَهُ
+
+فَقَالَ مُوسَى: قَوْمٌ أَتَيْنَاهُمْ فَلَمْ يُطْعِمُونَا وَلَمْ يُضَيِّفُونَا
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا - قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ ۚ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+[The narrator] said, "The second blame was stronger than the first one".
+
+(Musa said, "If I ask you anything after this, keep me not in your company; you have received an excuse from me." Then they both proceeded until they came to the people of a town. They asked them for food but they refused to entertain them. (Then) they found there a wall on the point of falling down.)
+
+(Al-Khidr) set it up straight with his own hands. Musa said, "We came to these people, but they neither fed us nor received us as guests.
+
+(If you had wished, surely, you could have taken wages for it!" (Al-Khidr) said: "This is the parting between you and I. I will tell you the interpretation of (those) things over which you were unable to be patient.")
+
+The Messenger of Allah ﷺ said:
+
+وَدِدْنَا أَنَّ مُوسَى كَانَ صَبَرَ حَتَّى يَقُصَّ اللهُ عَلَيْنَا مِنْ خَبَرِهِمَا
+
+(We wish that Musa was patient so that Allah would have told us more about both of them.) Sa'id bin Jubayr said: "Ibn 'Abbas used to recite [Ayah no. 79]
+
+(وَكَانَ أَمَامَهُمْ مَلِكٌ يَاْخُذُ كُلَّ سَفِينَةٍ صَالَـحَةٍ غَضْبًا)
+
+(There was a king before them who seized every good-conditioned ship by force) and [Ayah no 80]
+
+(وَأَمَّا الْغُلَامُ فَكَانَ كَافِرًا وَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ)
+
+(As for the boy, he was a disbeliever and his parents were believers.)
+
+Then (in another narration) Al-Bukhari recorded a similar account which says:
+
+فَخَرَجَ مُوسَى وَمَعَهُ فَتَاهُ يُوشَعُ بْنُ نُونٍ وَمَعَهُمَا الْحُوتُ، حَتَّى انْتَهَيَا إِلَى الصَّخْرَةِ، فَنَزَلَا عِنْدَهَا، قَالَ: فَوَضَعَ مُوسَى رَأْسَهُ فَنَامَ، قَالَ: وَفِي أَصْلِ الصَّخْرَةِ عَيْنٌ يُقَالُ لَهَا الْحَيَاةُ لَا يُصِيبُ مِنْ مَائِهَا شَيْءٌ إِلَّا حَيِيَ فَأَصَابَ الْحُوتَ مِنْ مَاءِ تِلْكَ الْعَيْنِ، فَتَحَرَّكَ وَانْسَلَّ مِنَ الْمِكْتَلِ فَدَخَلَ الْبَحْرَ، فَلَمَّا اسْتَيْقَظَ قَالَ مُوسَى لِفَتَاهُ:
+
+آتِنَا غَدَاءَنَا
+
+(...then Musa set out and with him was his boy-servant Yusha' bin Nun, and they had the fish with them. When they reached the rock, they camped there, and Musa lay down his head and slept. At the base of the rock there was a spring called Al-Hayat; its water never touched a thing but it brought it to life. Some of its water touched the fish, so it began to move and jumped out of the vessel and into the sea. When he woke up, Musa said to his boy-servant:
+
+(Bring us our morning meal.))
+
+Then he quoted the rest of the Hadith.
+
+Then a bird came and perched on the edge of the ship, and dipped its beak in the sea, and Al-Khidr said to Musa, "My knowledge and your knowledge and the knowledge of all of creation, in comparison to the knowledge of Allah, is like what this bird has taken from the sea." Then he mentioned the rest of the report.
+
+## Maarif ul Quran
+
+About al-Khadir (علیہ السلام) and the issue of his prophet-hood
+
+Though the name of the person concerned in this event has not been mentioned in the Qur'an - in fact, he has been called: عَبداً مِن عِبَادِنَا (a servant from among Our servants - 65) - but, in the Hadith of Sahih al-Bukhari, his name has been given as: اَلخِضر (al-Khadir). Literally, it means green, verdant. Giving the reason for his name being al-Khadir, commen-tators at large say that grass would grow at the spot where he would sit, no matter what the nature of the land. It would just turn green. The Qur'an has also not made it clear whether al-Khadir (علیہ السلام) was some prophet, or was one of the men of Allah. But, in the sight of the majority of religious scholars, the proof of his being a prophet is embedded within the events mentioned in the Qur'an. There is a reason for it. Some of the proved events during this journey that issued forth from al-Khadir are absolutely counter to the Shari'ah and there can be no exemption from an injunction of the Shari’ ah except under the authority of a Divine revelation, something restricted to a prophet and messenger of Allah. A waliyy (man of Allah) could also come to know something either through Kashf (illumination) or Ilham (inspiration). But, that is not an authority to prove a rule of Sharl'ah. No injunction of the externally codified Shari’ ah can be changed on that basis. Therefore, it stands established that al-Khadir (علیہ السلام) was a prophet and messenger of Allah. Given to him were some of those particular injunctions, injunctions that were counter to the codified Shari` ah. Whatever he did, he did under the authority of this excepted injunction. He himself has attested to that in the sentence of the Qur'an saying: وَمَا فَعَلتُہُ عَن اَمرِی (and I did not do it under my authority - 82) that is, did it under Divine authority.
+
+In short, according to the majority of religious scholars of the Muslim community, al-Khadir (علیہ السلام) too is a prophet and messenger. But, it was an imperative of creation that some duties were assigned to him from Allah. The knowledge given to him related to these very duties. Of this Sayyidna Musa (علیہ السلام) had no information, therefore, he objected. This subject has been dealt with in Tafsir al-Qurtubi, al-Bahr al-Muhit of Abu Hayyan and in most commentaries variously.
+
+It is not lawful for any waliyy or man of Allah to contravene the injunction of codified Shari'ah
+
+Right from here we learn that there is no shortage of ignorant and misguided Sufis who give a bad name to Tasawwuf. The likes of them would say that Shari’ ah is something else and Tariqah is something else. There are many things taken as حرام haram in the Shari` ah, but they are permissible in the Tariqah. Therefore, even if you see a waliyy (man of Allah) involved in a major sin openly and clearly, you cannot raise an objection against him! This is heresy, flagrant and false. No waliyy, no man of Allah anywhere in this world can be taken on the analogy of al-Khadir nor can any act contrary to the codified Shari` ah issuing forth from him be called permissible.
+
+## Personal Reflections

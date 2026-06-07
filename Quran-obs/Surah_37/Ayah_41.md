@@ -1,0 +1,153 @@
+---
+arabic_ayat: اُولٰٓٮِٕكَ لَهُمۡ رِزۡقٌ مَّعۡلُوۡمٌۙ‏
+sentence_translation: 'They will have a known provision:'
+word_by_word:
+  1:
+    arabic: اُولٰٓٮِٕكَ
+    translation: Those
+    transliteration: ulāika
+  2:
+    arabic: لَهُمۡ
+    translation: for them
+    transliteration: lahum
+  3:
+    arabic: رِزۡقٌ
+    translation: (will be) a provision
+    transliteration: riz'qun
+  4:
+    arabic: مَّعۡلُوۡمٌۙ‏
+    translation: determined
+    transliteration: maʿlūmun
+---
+
+## Context
+
+To understand **Those who set the Ranks** (As-Saffat) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th… After having described the condition of the people of Jahannam (Hell), the verses cited above have mentioned the condition of the people of Jannah (Paradise).
+
+## Tafsir Ibn Kathir
+
+Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and they shall be honored (42)In the Gardens of Delight (43)Facing one another on thrones (44)Round them will be passed a cup of pure win (45)White, delicious to the drinkers (46)Neither will they have Ghawl from that nor will they suffer intoxication therefrom (47)And beside them will be Qasirat-At-Tarf with (wide and beautiful) eyes (48)as if they were Bayd Maknun (49)
+
+The Punishment of the Idolators and the Reward of the sincere Believers
+
+Allah says, addressing the people:
+
+إِنَّكُمْ لَذَائِقُو الْعَذَابِ الْأَلِيمِ - وَمَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ
+
+(Verily, you are going to taste the painful torment; and you will be requited nothing except for what you used to do.) Then He makes an exception in the case of His sincerely believing servants. This is like the Ayat:
+
+وَالْعَصْرِ - إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ - إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(By the Time. Verily, man is in loss, Except those who believe and do righteous deeds...)(103:1-3),
+
+لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ - ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ - إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ
+
+(Verily, We created man in the best stature. Then We reduced him to the lowest of the low. Save those who believe and do righteous deeds)(95:4-6).
+
+وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَقْضِيًّا - ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا
+
+(There is not one of you but will pass over it (Hell); this is with your Lord, a decree which must be accomplished. Then We shall save those who have Taqwa. And We shall leave the wrongdoers therein to their knees.)(19:71-72); and
+
+كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ - إِلَّا أَصْحَابَ الْيَمِينِ
+
+(Every person is a pledge for what he has earned, except those on the right)(74:38-39). Allah says here:
+
+إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ
+
+(Save the chosen servants of Allah.) meaning, they will not taste the painful torment nor will they be brought to account. Their evil acts, if there are any, will be overlooked, and each good deed will be rewarded in multiples of between ten and seven hundred, or as much as Allah wills.
+
+أُولَٰئِكَ لَهُمْ رِزْقٌ مَعْلُومٌ
+
+(For them there will be a known provision,) Qatadah and As-Suddi said, "This means Paradise." It is explained further in the next Ayah:
+
+فَوَاكِهُ ۖ
+
+(Fruits) meaning, of different kinds.
+
+وَهُمْ مُكْرَمُونَ
+
+(and they shall be honored,) means, they will be served and will live a life of luxury.
+
+فِي جَنَّاتِ النَّعِيمِ - عَلَىٰ سُرُرٍ مُتَقَابِلِينَ
+
+(In the Gardens of Delight, facing one another on thrones.) Mujahid said, "One of them will not look at one another's backs."
+
+يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ - بَيْضَاءَ لَذَّةٍ لِلشَّارِبِينَ - لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ
+
+(Round them will be passed a cup of pure wine – white, delicious to the drinkers. Neither will they have Ghawl from that nor will they suffer intoxication therefrom.) This is like the Ayah:
+
+يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ - بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِنْ مَعِينٍ - لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَ
+
+(Immortal boys will go around them (serving), with cups, and jugs, and a glass of flowing wine, from which they will get neither any aching of the head nor any intoxication.)(56:17-19).
+
+Allah refined the wine of Paradise from the bad effects of the wine of this world, which causes headaches and stomach aches – which is the meaning of Ghawl – causing people to lose their minds completely. So He says here:
+
+يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ
+
+(Round them will be passed a cup of pure wine) meaning, wine from a flowing stream which they do not fear will ever be cut off or cease. Malik narrated that Zayd bin Aslam said, "White flowing wine," meaning, with a bright, shining color, unlike the wine of this earth with its ugly, repulsive colors of red, black, yellow and turbid shades, and other features which are repugnant to anyone of a sound nature.
+
+لَذَّةٍ لِلشَّارِبِينَ
+
+(delicious to the drinkers.) means, its taste will be as good as its color, and a good taste indicates that it has a good smell, unlike the wine of this world.
+
+لَا فِيهَا غَوْلٌ
+
+(Neither will they have Ghawl from that) means, it will not have any effects on them such as causing stomach aches. This was the view of Ibn 'Abbas, may Allah be pleased with him, Mujahid, Qatadah and Ibn Zayd. This is unlike the wine of this world, which causes colic and so on, because it is too watery.
+
+وَلَا هُمْ عَنْهَا يُنْزَفُونَ
+
+(nor will they suffer intoxication therefrom.) Mujahid said, "It will not cause them to lose their minds." This was also the view of Ibn 'Abbas, Muhammad bin Ka'b, Al-Hasan. 'Ata' bin Abi Muslim Al-Khurasani, As-Suddi and others. Ad-Dahhak reported that Ibn Abbas said, "Wine causes four things: intoxication, headache, vomiting and urine." So, when Allah mentions the wine of Paradise, He states that it is free of these characteristics, as mentioned in Surat As-Saffat.
+
+وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ
+
+(And beside them will be Qasirat At-Tarf) means, chaste females, who will not look at anyone other than their husbands, as Ibn 'Abbas, Mujahid, Zayd bin Aslam, Qatadah, As-Suddi and others said.
+
+عِينٌ
+
+(with (wide and beautiful) eyes) means, with beautiful eyes. It was also said that it means with wide eyes, which is connected to the first meaning. They are wide-eyed and beautiful, and their eyes are described as being beautiful and chaste. Allah says:
+
+وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ
+
+(And beside them will be Qasirat At-Tarf, with (wide and beautiful) eyes.)
+
+كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
+
+(as if they were Bayd Maknun.) Their bodies are described as having the most perfect color. 'Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him:
+
+كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
+
+(as if they were Bayd Maknun.) means, as if they were hidden pearls. Al-Hasan said:
+
+كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
+
+(as if they were Bayd Maknun.) means, protected, never touched by any hands. As-Suddi said, "The well preserved egg in its nest." Sa'id bin Jubayr said:
+
+كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
+
+(as if they were Bayd Maknun.) means, "The inside of the egg." 'Ata' Al-Khurasani said, "It is the membrane which is between its outer shell and its inner contents." As-Suddi said:
+
+كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ
+
+(as if they were Bayd Maknun.) means, "The white of the egg when its shell is removed." Ibn Jarir's view concerning the meaning of Maknun (well preserved) is that the outer shell is touched by the wing of the bird and the nest, and by people's hands, unlike the interior of the egg. And Allah knows best.
+
+## Maarif ul Quran
+
+Commentary
+
+After having described the condition of the people of Jahannam (Hell), the verses cited above have mentioned the condition of the people of Jannah (Paradise). This description is in two parts. The initial ten verses describe the comforts the people of Jannah will be blessed with. After that, the verses that follow take up an event relating to a particular inmate of Jannah which has lessons of guidance. Out of what has been said in the first ten verses, a few things are worth mentioning. These are as follows:
+
+1. It was said in the first verse (41): أُولَـٰئِكَ لَهُمْ رِ‌زْقٌ مَّعْلُومٌ (Those are the people for whom there is a known provision). Commentators explain it variously. (1) Some say that it refers to the detailed description of the provisions of Paradise mentioned in different Surahs of the Qur'an. Maulana Ashraf Thanavi has elected to go by this very Tafsir. (2) Others have said that 'known provision' means that its timings are determined and known, that is, it will be bestowed punctually all mornings and evenings as indicated in another verse بُكْرَ‌ةً وَعَشِيًّا 'and for them there is their provision in it, morning and evening' -Maryam, 19:62) where the words: صُبح و شَام (morning and evening) have been explicitly mentioned. (3) Then, there is a third Tafsir as well. According to this explanation, 'known provision' means that this provision will be certain and everlasting - unlike the world of our experience where no one can say with any degree of certainty what and how much of that provision he or she is going to get; nor does anyone know how long his provision will remain available to him or her. Every human heart is all the time under the fear that the blessings he has may disappear in future- may be, comes a tomorrow and they are no more there. Jannah will be free of this danger. Instead, the provision of Paradise will be certain and everlasting, both. (Qurtubi, and others).
+
+## Personal Reflections

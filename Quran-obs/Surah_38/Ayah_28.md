@@ -1,0 +1,106 @@
+---
+arabic_ayat: اَمۡ نَجۡعَلُ الَّذِيۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ كَالۡمُفۡسِدِيۡنَ
+  فِى الۡاَرۡضِ اَمۡ نَجۡعَلُ الۡمُتَّقِيۡنَ كَالۡفُجَّارِ‏
+sentence_translation: Or should We treat those who believe and do good like those
+  who make mischief throughout the land? Or should We treat the righteous like the
+  wicked?
+word_by_word:
+  1:
+    arabic: اَمۡ
+    translation: Or
+    transliteration: am
+  2:
+    arabic: نَجۡعَلُ
+    translation: should We treat
+    transliteration: najʿalu
+  3:
+    arabic: الَّذِيۡنَ
+    translation: those who
+    transliteration: alladhīna
+  4:
+    arabic: اٰمَنُوۡا
+    translation: believe
+    transliteration: āmanū
+  5:
+    arabic: وَعَمِلُوا
+    translation: and do
+    transliteration: waʿamilū
+  6:
+    arabic: الصّٰلِحٰتِ
+    translation: righteous deeds
+    transliteration: l-ṣāliḥāti
+  7:
+    arabic: كَالۡمُفۡسِدِيۡنَ
+    translation: like those who spread corruption
+    transliteration: kal-muf'sidīna
+  8:
+    arabic: فِى
+    translation: in
+    transliteration: fī
+  9:
+    arabic: الۡاَرۡضِ
+    translation: the earth
+    transliteration: l-arḍi
+  10:
+    arabic: اَمۡ
+    translation: Or
+    transliteration: am
+  11:
+    arabic: نَجۡعَلُ
+    translation: should We treat
+    transliteration: najʿalu
+  12:
+    arabic: الۡمُتَّقِيۡنَ
+    translation: the pious
+    transliteration: l-mutaqīna
+  13:
+    arabic: كَالۡفُجَّارِ‏
+    translation: like the wicked
+    transliteration: kal-fujāri
+---
+
+## Context
+
+To understand **The Letter "Saad"** (Sad) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And We created not the heaven and the earth and all that is between them without purpose! In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْ‌ضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ‌ (Shall We make those who believe and do righteous deeds equal to those who commit mischief on the earth?
+
+## Tafsir Ibn Kathir
+
+And We created not the heaven and the earth and all that is between them without purpose! That is the consideration of those who disbelieve! Then woe to those who disbelieve from the Fire (27)Shall We treat those who believe and do righteous good deeds as those who cause mischief on the earth? Or shall We treat those who have Taqwa as the evildoers (28)(This is) a Book which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember (29)
+
+The Wisdom behind the Creation of This World
+
+Allah tells us that He did not create the creatures in vain; He created them to worship Him Alone, then He will gather them on the Day of Gathering and will reward the obedient and punish the disbelievers. Allah says:
+
+وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ وَمَا بَيْنَهُمَا بَاطِلًا ۚ ذَٰلِكَ ظَنُّ الَّذِينَ كَفَرُوا ۚ
+
+(And We created not the heaven and the earth and all that is between them without purpose! That is the consideration of those who disbelieve!) meaning, those who do not think that the resurrection and the place of return will occur, but they think that there is nothing after this world.
+
+فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنَ النَّارِ
+
+(Then woe to those who disbelieve from the Fire!) means, woe to them on the Day when they will be resurrected, from the Fire that is prepared for them. Then Allah explains that because of His justice and wisdom, He does not treat the believers and the disbelievers equally. Allah says:
+
+أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ
+
+(Shall We treat those who believe and do righteous good deeds as those who do mischief on the earth? Or shall We treat Those who have Taqwa as the evildoers?) meaning, 'We shall not do that.' They are not equal before Allah, and since this is the case, there must inevitably be another realm in which those who obey Allah will be rewarded and the wicked will be punished. This teaching indicates to those of a sound mind and upright nature that there must inevitably be a resurrection and recompense. We see evildoers and criminals are prospering and increasing in wealth, children and luxury, until they die in that state. We see oppressed believers dying of grief and distress, so by the wisdom of the All-Wise, All-Knowing, All-Just who does not do even a speck of dust's weight of injustice, there should be a time when the rights of the oppressed are restored with due justice. If this does not happen in this world, there must be another realm where recompense may be made and consolation may be found. The Qur'an teaches sound aims based on a rational way of thinking, so Allah says:
+
+كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ
+
+((This is) a Book which We have sent down to you, full of blessings, that they may ponder over its Ayat, and that men of understanding may remember.) meaning, those who are possessed of wisdom and reason.
+
+## Maarif ul Quran
+
+In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْ‌ضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ‌ (Shall We make those who believe and do righteous deeds equal to those who commit mischief on the earth? Or shall We make the God-fearing equal to the sinners?) - that is, this can never be. In fact, the end of both will be totally different. Right from here, we learn that this difference between a believer and disbeliever is there in terms of the injunctions of the Hereafter. While living in the present world, it is quite possible that a disbeliever has a lot more comforts than a believer. Likewise, it cannot be deduced thereby that the material rights of the disbeliever cannot be equal to the rights of the believer, instead, the truth of the matter is that a disbeliever could be allowed human rights equal to a believer. Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim.
+
+## Personal Reflections

@@ -1,0 +1,117 @@
+---
+arabic_ayat: قَالَ هٰذَا فِرَاقُ بَيۡنِىۡ وَبَيۡنِكَ​​ ۚ سَاُنَـبِّئُكَ بِتَاۡوِيۡلِ
+  مَا لَمۡ تَسۡتَطِعْ عَّلَيۡهِ صَبۡرًا‏
+sentence_translation: He replied, “This is the parting of our ways. I will explain
+  to you what you could not bear patiently.
+word_by_word:
+  1:
+    arabic: قَالَ
+    translation: He said
+    transliteration: qāla
+  2:
+    arabic: هٰذَا
+    translation: This
+    transliteration: hādhā
+  3:
+    arabic: فِرَاقُ
+    translation: (is) parting
+    transliteration: firāqu
+  4:
+    arabic: بَيۡنِىۡ
+    translation: between me
+    transliteration: baynī
+  5:
+    arabic: وَبَيۡنِكَ​​ ۚ
+    translation: and between you
+    transliteration: wabaynika
+  6:
+    arabic: سَاُنَـبِّئُكَ
+    translation: I will inform you
+    transliteration: sa-unabbi-uka
+  7:
+    arabic: بِتَاۡوِيۡلِ
+    translation: of (the) interpretation
+    transliteration: bitawīli
+  8:
+    arabic: مَا
+    translation: (of) what
+    transliteration: mā
+  9:
+    arabic: لَمۡ
+    translation: not
+    transliteration: lam
+  10:
+    arabic: تَسۡتَطِعْ
+    translation: you were able
+    transliteration: tastaṭiʿ
+  11:
+    arabic: عَّلَيۡهِ
+    translation: on it
+    transliteration: ʿalayhi
+  12:
+    arabic: صَبۡرًا‏
+    translation: (to have) patience
+    transliteration: ṣabran
+---
+
+## Context
+
+To understand **The Cave** (Al-Kahf) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Then they both proceeded till when they came to the people of a town, they asked them for food, but they refused to entertain them. The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town - 77) which Sayyidna Musa and al-Khadir (علیہ السلام) passed through and whose inhabitants refused to host them was Antakiah, as in the report of Sayyidna Ibn ` Abbas ؓ ، and Aikah, as in the report of Ibn Sirin.
+
+## Tafsir Ibn Kathir
+
+Then they both proceeded till when they came to the people of a town, they asked them for food, but they refused to entertain them. Then they found therein a wall about to collapse and he set it up straight. (Musa) said: "If you had wished, surely you could have taken wages for it! (77)He said: "This is the parting between you and I, I will tell you the interpretation of (those) things over which you were not able to be patient. (78)
+
+The Story of repairing the Wall
+
+Allah tells us that
+
+فَانطَلَقَا
+
+(they both proceeded) after the first two instances,
+
+حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ
+
+(till when they came to the people of a town,) Ibn Jarir narrated from Ibn Sirin that this was Al-Aylah. According to the Hadith;
+
+حَتَّى إِذَا أَتَيَا أَهْلَ قَرْيَةٍ لِئَامًا
+
+(When they came there, the people of the town were mean.) i.e., miserly
+
+اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ
+
+(they asked them for food, but they refused to entertain them. Then they found therein a wall about to collapse and he (Khidr) set it up straight.) means, he fixed it so it was standing upright properly. We have already seen in the Hadith quoted above that he set it up with his own hands, supporting it until it was standing straight again, which is something extraordinary. At this point Musa said to him:
+
+لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا
+
+(If you had wished, surely you could have taken wages for it!) meaning, because they did not entertain us as guests, you should not have worked for them for free.
+
+قَالَ هَٰذَا فِرَاقُ بَيْنِي وَبَيْنِكَ
+
+(He said: "This is the parting between you and I) meaning, because you said after the boy was killed that if you asked me anything after that, you would not accompany me any further. So this is the parting of the ways between me and you.
+
+سَأُنَبِّئُكَ بِتَأْوِيلِ
+
+(I will tell you the interpretation) meaning explanation,
+
+مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا
+
+(of (those) things over which you were not able to be patient.)
+
+## Maarif ul Quran
+
+The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town - 77) which Sayyidna Musa and al-Khadir (علیہ السلام) passed through and whose inhabitants refused to host them was Antakiah, as in the report of Sayyidna Ibn ` Abbas ؓ ، and Aikah, as in the report of Ibn Sirin. It has also been reported from Sayyidna Abu Hurairah ؓ that it was some habitation of al-Andulus (Spain) (Mazhari). Allah knows best.
+
+## Personal Reflections

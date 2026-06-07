@@ -1,0 +1,119 @@
+---
+arabic_ayat: وَلَهٗ مَا فِى السَّمٰوٰتِ وَ الۡاَرۡضِ وَلَهُ الدِّيۡنُ وَاصِبًا​ ؕ
+  اَفَغَيۡرَ اللّٰهِ تَـتَّـقُوۡنَ‏
+sentence_translation: To Him belongs whatever is in the heavens and the earth, and
+  to Him ˹alone˺ is the everlasting devotion. Will you then fear any other than Allah?
+word_by_word:
+  1:
+    arabic: وَلَهٗ
+    translation: And to Him (belongs)
+    transliteration: walahu
+  2:
+    arabic: مَا
+    translation: whatever
+    transliteration: mā
+  3:
+    arabic: فِى
+    translation: (is) in
+    transliteration: fī
+  4:
+    arabic: السَّمٰوٰتِ
+    translation: the heavens
+    transliteration: l-samāwāti
+  5:
+    arabic: وَ الۡاَرۡضِ
+    translation: and the earth
+    transliteration: wal-arḍi
+  6:
+    arabic: وَلَهُ
+    translation: and to Him
+    transliteration: walahu
+  7:
+    arabic: الدِّيۡنُ
+    translation: (is due) the worship
+    transliteration: l-dīnu
+  8:
+    arabic: وَاصِبًا​ ؕ
+    translation: constantly
+    transliteration: wāṣiban
+  9:
+    arabic: اَفَغَيۡرَ
+    translation: Then is it other (than)
+    transliteration: afaghayra
+  10:
+    arabic: اللّٰهِ
+    translation: Allah
+    transliteration: l-lahi
+  11:
+    arabic: تَـتَّـقُوۡنَ‏
+    translation: you fear
+    transliteration: tattaqūna
+---
+
+## Context
+
+To understand **The Bee** (An-Nahl) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And Allah said "Do not worship two gods. Even the Punishment of the World is Mercy in Disguise In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+
+## Tafsir Ibn Kathir
+
+And Allah said "Do not worship two gods. Indeed, He (Allah) is only One God. Then fear Me Alone (51)To Him belongs all that is in the heavens and the earth and the religion. Will you then fear any other than Allah (52)And whatever of blessings and good things you have, it is from Allah. Then, when harm touches you, unto Him you cry aloud for help (53)Then, when He has removed the harm from you, behold! some of you associate others in worship with their Lord (Allah)(54)So they are ungrateful for that which We have given them! Then enjoy yourselves but you will soon come to know (55)
+
+Allah Alone is Deserving of Worship
+
+Allah tells us that there is no god but He, and that no one else should be worshipped except Him, alone, without partners, for He is the Sovereign, Creator, and Lord of all things.
+
+وَلَهُ الدِّينُ وَاصِبًا
+
+(His is the religion Wasiba) Ibn 'Abbas, Mujahid, 'Ikrimah, Maymun bin Mahran, As-Suddi, Qatadah and others said that this means forever. It was also reported that Ibn 'Abbas said, "It means obligatory." Mujahid said: "It means purely for Him," i.e., worship is due to Him Alone, from whoever is in the heavens and on earth. As Allah says:
+
+أَفَغَيْرَ دِينِ اللَّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
+
+(Do they seek other than the religion of Allah, while to Him submitted all creatures in the heavens and the earth, willingly or unwillingly. And to Him shall they all be returned.)(3:83) This is in accordance with the opinion of Ibn 'Abbas and 'Ikrimah, which is that this Ayah is merely stating the case. According to the opinion of Mujahid, it is by way of instruction, i.e., it is saying: You had better fear associating partners in worship with Me, and be sincere in your obedience to Me. As Allah says:
+
+أَلَا لِلَّهِ الدِّينُ الْخَالِصُ
+
+(Surely, the pure religion (sincere devotion) is for Allah only.)(39:3) Then Allah tells us that He is the One Who has the power to benefit and harm, and that the provisions, blessings, good health and help, His servants enjoy are from His bounty and graciousness towards them.
+
+ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ
+
+(Then, when harm touches you, to Him you cry aloud for help.) meaning because you know that none has the power to remove that harm except for Him, so when you are harmed, you turn to ask Him for help and beg Him for aid. As Allah says:
+
+وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّا إِيَّاهُ ۖ فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ ۚ وَكَانَ الْإِنسَانُ كَفُورًا
+
+(And when harm touches you at sea, those that you call upon vanish, except for Him. But when He brings you safe to land, you turn away. And man is ever ungrateful.)(17:67) Here, Allah tells us:
+
+ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ - لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ
+
+(Then, when He has removed the harm from you, behold! some of you associate others in worship with their Lord (Allah). So they are ungrateful for that which We have given them!)(16:54-55)
+
+It was said that the Lam here (translated as "So") is an indicator of sequence, or that it serves an explanatory function, meaning, 'We decreed that they would conceal the truth and deny the blessings that Allah has bestowed upon them. He is the One Who bestows blessings and the One Who removes distress.' Then Allah threatens them, saying:
+
+فَتَمَتَّعُوا
+
+(Then enjoy yourselves) meaning, do what you like and enjoy what you have for a little while.
+
+فَسَوْفَ تَعْلَمُونَ
+
+(but you will soon come to know.) meaning the consequences of that.
+
+## Maarif ul Quran
+
+Even the Punishment of the World is Mercy in Disguise
+
+In the verses cited above, after having mentioned various punishments which could seize disbelievers within this world, it was said in the end: فَإِنَّ رَ‌بَّكُمْ لَرَ‌ءُوفٌ رَّ‌حِيمٌ (So, indeed your Lord is Very Kind Very Merciful).
+
+First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is that all these punishments which overtake human beings in this world are there to warn them as part of the dictates of Divine mercy. After that, by introducing the word: رَ‌ءُوفٌ(Ra uf: Kind) headed by the intensifying particle lam) that is, the lam of ta'kid), and thus by placing stress on the fact that Allah Ta’ ala was Very Kind and Very Merciful, the hint given was that warnings sent during the life of the world were, in reality, called for by His intrinsic Kindness and Mercy so that heedless men and women would learn from the warning and correct their deeds (before comes 'the last spasm of mass extinction' they themselves are talking about at the closing of the twentieth century, but are still not ready to learn, believe and correct).
+
+## Personal Reflections

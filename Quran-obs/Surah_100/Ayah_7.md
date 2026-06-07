@@ -1,0 +1,135 @@
+---
+arabic_ayat: وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيۡدٌ ۚ‏
+sentence_translation: and they certainly attest to this—
+word_by_word:
+  1:
+    arabic: وَاِنَّهٗ
+    translation: And indeed, he
+    transliteration: wa-innahu
+  2:
+    arabic: عَلٰى
+    translation: 'on'
+    transliteration: ʿalā
+  3:
+    arabic: ذٰلِكَ
+    translation: that
+    transliteration: dhālika
+  4:
+    arabic: لَشَهِيۡدٌ ۚ‏
+    translation: surely (is) a witness
+    transliteration: lashahīdun
+---
+
+## Context
+
+To understand **The Courser** (Al-'Adiyat) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-'Adiyat is a **Makkah** surah—revealed as the 14th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Whether this is a Makki or a Madani Surah is disputed. Hadrat Abdullah bin Masud, Jabir, Hasan Basri, Ikrimah, and Ata say that it is Makki. Hadrat Anas bin Malik, and Qatadah say that it is Madani; and from Hadrat Ibn Abbas two views have been reported, first that it is a Makki Surah, and second that it is Madani. But the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 100:5] فَوَسَطْنَ بِهِ جَمْعًا (then enter, at the same time, into the centre of the [ opposing ] host) In other words, they penetrate into the centre of the enemy forces without the least degree of fear.
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+وَالْعَادِيَاتِ ضَبْحًا - فَالْمُورِيَاتِ قَدْحًا - فَالْمُغِيرَاتِ صُبْحًا - فَأَثَرْنَ بِهِ نَقْعًا - فَوَسَطْنَ بِهِ جَمْعًا - إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ - وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ - وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ - أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ - وَحُصِّلَ مَا فِي الصُّدُورِ - إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ
+
+(1. By the 'Adiyat (steeds), snorting.)(2. Striking sparks of fire.)(3. And scouring to the raid at dawn.)(4. And raise the dust in clouds the while.)(5. And penetrating forthwith as one into the midst.)(6. Verily, man is ungrateful to his Lord.)(7. And to that He bears witness.)(8. And verily, he is violent in the love of wealth.)(9. Knows he not that when the contents of the graves are poured forth?)(10. And that which is in the breasts shall be made known?)(11. Verily, that Day their Lord will be Well-Acquainted with them.)
+
+Swearing by the Horses of War about the Ungratefulness of Man and His Zeal for Wealth
+
+Allah swears by the horses when they are made to gallop into battle in His path (i.e., Jihad), and thus they run and pant, which is the sound that is heard from the horse when it runs.
+
+فَالْمُورِيَاتِ قَدْحًا
+
+(Striking sparks of fire.) meaning, the striking of their hooves on the rocks, which causes sparks of fire to fly from them.
+
+فَالْمُغِيرَاتِ صُبْحًا
+
+(And scouring to the raid at dawn.) meaning, the raid that is carried out in the early morning time. This is just as the Messenger of Allah ﷺ used to perform raids in the early morning. He would wait to see if he heard the Adhan (call to prayer) from the people. If he heard it he would leave them alone, and if he didn't hear it he would attack. Then Allah says,
+
+فَأَثَرْنَ بِهِ نَقْعًا
+
+(And raise the dust in clouds the while.) meaning, dust at the place of the battle with the horses.
+
+فَوَسَطْنَ بِهِ جَمْعًا
+
+(And penetrating forthwith as one into the midst.) means, then are all in the middle of that spot, together. Allah's saying;
+
+فَالْمُغِيرَاتِ صُبْحًا
+
+(And scouring to the raid at dawn.) Ibn 'Abbas, Mujahid and Qatadah, all said, "This means the invasion of the horses in the morning in the way of Allah." And His statement,
+
+فَأَثَرْنَ بِهِ نَقْعًا
+
+(And raise the dust in clouds the while.) This is the place in which the attack takes place. The dust is stirred up by it. And His statement,
+
+فَوَسَطْنَ بِهِ جَمْعًا
+
+(And penetrating forthwith as one into the midst.) Al-'Awfi narrated from Ibn 'Abbas, 'Ata, 'Ikrimah, Qatadah and Ad-Dahhak that they all said, "This means into the midst of the disbelieving enemy." Concerning Allah's statement,
+
+إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ
+
+(Verily, man is ungrateful (Kanud) to his Lord.)
+
+This is the subject what is being sworn about, and it means that he (man) is ungrateful for the favors of His Lord and he rejects them.
+
+Ibn 'Abbas, Mujahid, Ibrahim An-Nakha'i, Abu Al-Jawza', Abu Al-'Aliyah, Abu Ad-Duha, Sa'id bin Jubayr, Muhammad bin Qays, Ad-Dahhak, Al-Hasan, Qatadah, Ar-Rabi' bin Anas and Ibn Zayd all said, "Al-Kanud means ungrateful." Al-Hasan said, "Al-Kanud is the one who counts the calamities (that befall him) and he forgets Allah's favors."
+
+Concerning Allah's statement,
+
+وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ
+
+(And to that He bears witness.) Qatadah and Sufyan Ath-Thawri both said, "And indeed Allah is a witness to that." It is also possible that the pronoun (He) could be referring to man. This was said by Muhammad bin Ka'b Al-Qurazi. Thus, its meaning would be that man is a witness himself to the fact that he is ungrateful. This is obvious in his condition, meaning this is apparent from his statements and deeds. This is as Allah says,
+
+مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا مَسَاجِدَ اللَّهِ شَاهِدِينَ عَلَىٰ أَنفُسِهِم بِالْكُفْرِ
+
+(It is not for the idolators, to maintain the Masajid of Allah, while they witness disbelief against themselves.)(9:17)
+
+Allah said;
+
+وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
+
+(And verily, he is violent in the love of wealth.) meaning, and indeed in his love of the good, which is wealth, he is severe. There are two opinions concerning this. One of them is that it means that he is severe. There are two opinions concerning this. One of them is that it means that he is severe in his love of wealth. The other view is that it means he is covetous and stingy due to the love of wealth. However, both views are correct.
+
+The Threat about the Hereafter
+
+Then Allah encourages abstinence from worldly things and striving for the Hereafter, and He informs of what the situation will be after this present condition, and what man will face of horrors. He says,
+
+أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ
+
+(Knows he not that when the contents of the graves are poured forth?)
+
+meaning, the dead that are in it will be brought out.
+
+وَحُصِّلَ مَا فِي الصُّدُورِ
+
+(And that which is in the breasts shall be made known?)
+
+Ibn 'Abbas and others have said, "This means what was in their souls would be exposed and made apparent."
+
+إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ
+
+(Verily, that Day their Lord will be Well-Acquainted with them.)
+
+meaning, He knows all of that they used to do, and He will compensate them for it with the most deserving reward. He does not do even the slightest amount of injustice.
+
+This is the end of the Tafsir of Surat Al-'Adiyat, and all praise and thanks are due to Allah.
+
+## Maarif ul Quran
+
+Verse [ 100:5] فَوَسَطْنَ بِهِ جَمْعًا (then enter, at the same time, into the centre of the [ opposing ] host) In other words, they penetrate into the centre of the enemy forces without the least degree of fear.
+
+The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who counts the calamities that befall him, and forgets Allah's favours. Abu Bakr Wasiti said that kanud is the one who spends the bounties of Allah for sinful purposes. Tirmidhi said that kanud is the one who looks at the bounty, and not at the Bounteous Lord. In short, all these interpretations lead to the sense of 'ungratefulness to favours and bounties' and hence the expression kanud means 'ungrateful'.
+
+## Personal Reflections

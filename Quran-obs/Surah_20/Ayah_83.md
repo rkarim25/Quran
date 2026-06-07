@@ -1,0 +1,130 @@
+---
+arabic_ayat: وَمَاۤ اَعۡجَلَكَ عَنۡ قَوۡمِكَ يٰمُوۡسٰى‏
+sentence_translation: ˹Allah asked,˺ “Why have you come with such haste ahead of your
+  people, O  Moses?”
+word_by_word:
+  1:
+    arabic: ۞ وَمَاۤ
+    translation: And what
+    transliteration: wamā
+  2:
+    arabic: اَعۡجَلَكَ
+    translation: made you hasten
+    transliteration: aʿjalaka
+  3:
+    arabic: عَنۡ
+    translation: from
+    transliteration: ʿan
+  4:
+    arabic: قَوۡمِكَ
+    translation: your people
+    transliteration: qawmika
+  5:
+    arabic: يٰمُوۡسٰى‏
+    translation: O Musa
+    transliteration: yāmūsā
+---
+
+## Context
+
+To understand **Ta-Ha** (Taha) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. Sayyidna Musa (علیہ السلام) and the Bani Isra'il, having escaped the Pharaoh's wrath and having crossed the river in safety, proceeded on their journey.
+
+## Tafsir Ibn Kathir
+
+"And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. (84)(Allah) said: "Verily, We have tried your people in your absence, and As-Samiri has led them astray. (85)Then Musa returned to his people in a state of anger and sorrow [Asif]. He said: "O my people! Did not your Lord promise you a fair promise? Did then the promise seem to you long in coming? Or did you desire that wrath should descend from your Lord on you, that you broke your promise to me? (86)They said: "We broke not the promise to you, of our own will, but we were made to carry the weight of the ornaments of the people, then we cast them, and that was what As-Samiri suggested. (87)Then he took out for them a calf which was mooing. They said: "This is your god, and the god of Musa," but he had forgotten (88)Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good (89)
+
+Musa goes to the Appointment with Allah and the Children of Israel succumb to worship the Calf
+
+Allah relates what happened when Musa traveled with the Children of Israel after Fir'awn's destruction.
+
+فَأَتَوْا عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰ أَصْنَامٍ لَّهُمْ ۚ قَالُوا يَا مُوسَى اجْعَل لَّنَا إِلَٰهًا كَمَا لَهُمْ آلِهَةٌ ۚ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ - إِنَّ هَٰؤُلَاءِ مُتَبَّرٌ مَّا هُمْ فِيهِ وَبَاطِلٌ مَّا كَانُوا يَعْمَلُونَ
+
+(And they came upon a people devoted to some of idols. They said: "O Musa! Make for us god as they have gods." He said: "Verily, you are a people who know not. Verily, these people will be destroyed for that which they are engaged in. And all that they are doing is in vain.")[7:138-139]
+
+Then, Allah made a covenant with Musa of thirty nights after which He added to them ten more nights. Thus, they were forty nights in all. The covenant was that he was to fast these number of days, during both the day and night. Thus, Musa made haste to go to the Mountain and he left his brother, Harun, in charge over the Children of Israel. This is why Allah says,
+
+وَمَا أَعْجَلَكَ عَن قَوْمِكَ يَا مُوسَىٰ - قَالَ هُمْ أُولَاءِ عَلَىٰ أَثَرِي
+
+("And what made you hasten from your people, O Musa?" He said: "They are close on my footsteps.") These means that they have arrived and are settled near the Mountain.
+
+وَعَجِلْتُ إِلَيْكَ رَبِّ لِتَرْضَىٰ
+
+(and I hastened to You, O my Lord, that You might be pleased.) meaning, "So You will be more pleased with me."
+
+قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِن بَعْدِكَ وَأَضَلَّهُمُ السَّامِرِيُّ
+
+((Allah) said: "Verily, We have tried your people in your absence, and As-Samiri has led them astray.") Allah informs His Prophet, Musa, of what happened to the Children of Israel after he left them, and their deification of the calf that As-Samiri had made for them. During this time period, Allah wrote for Musa the Tablets, which contained the Tawrah. Allah said,
+
+وَكَتَبْنَا لَهُ فِي الْأَلْوَاحِ مِن كُلِّ شَيْءٍ مَّوْعِظَةً وَتَفْصِيلًا لِّكُلِّ شَيْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا بِأَحْسَنِهَا ۚ سَأُرِيكُمْ دَارَ الْفَاسِقِينَ
+
+(And We wrote for him on the Tablets the lesson to be drawn from all things and the explanation for all things (and said): "Hold unto these with firmness, and enjoin your people to take the better therein. I shall show you the home of evildoers.")[7:145] This means, "I will show you the final outcome of what will happen to those who abandon My obedience and oppose My command." Concerning Allah's statement,
+
+فَرَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا
+
+(Then Musa returned to his people in a state of anger and sorrow [Asif].) This means that after Allah informed him of what they were doing, he became extremely angry and upset with them. He was very worried for them. During this time he received the Tawrah, which contained their Shari'ah (Law), this was a great honor for them. For they were a people who used to worship other than Allah. Every person with sound reason and good sense could see that what they were doing was false and foolish. This is why Allah said that he (Musa) returned to them in a state of anger and sorrow. The word for sorrow used here is Asif, which is used to emphasize to the severity of his anger. Mujahid said, "In a state of anger and sorrow means worried." Qatadah and As-Suddi said, "Asif here means in a state of sadness because of what his people had done after him."
+
+قَالَ يَا قَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا
+
+(He (Musa) said: "O my people! Did not your Lord promise you a fair promise?...") This means, "Did He not promise you in that which I have spoken to you, every good in this life and in the Hereafter, and the good end in the final outcome of things? You have already witnessed how He helped you defeat your enemy (Fir'awn) and He made you victorious over him and He blessed you with other bounties as well through His help."
+
+أَفَطَالَ عَلَيْكُمُ الْعَهْدُ
+
+(Did then the promise seem to you long in coming?) meaning, 'in waiting for what Allah had promised you and forgetting His previous favors and the covenant that He made with you before.'
+
+أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ
+
+(Or did you desire that wrath should descend from your Lord on you,) The word 'Or' here means 'Nay, but.' It is used here to separate between a previous item and a coming item. It is as if it is saying, "Nay, but you want to make permissible the anger of your Lord upon you by what you have done. Therefore, you have broken your promise to me." The Children of Israel said in reply to Musa's blame and rebuke,
+
+مَا أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا
+
+(We broke not our promise to you of our own will,) Meaning by our power and our choice. Then, they began making lame excuses and they told him how they got rid of that which they were carrying of Coptic jewelry that they had borrowed from them (the Egyptian Copts) when they left Egypt. Therefore they cast it, meaning that they threw it away. Thus, it became a calf that made a moaning sound that would gradually rise in pitch. This calf was an ordeal, a hindrance and test. This is why Allah said,
+
+فَكَذَٰلِكَ أَلْقَى السَّامِرِيُّ - فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُ خُوَارٌ
+
+("...that was what As-Samiri suggested." Then he took out (of the fire) for them (a statue of) a calf which was mooing.) Muhammad bin Ishaq reported that Ibn 'Abbas said,
+
+هَٰذَا إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ
+
+(This is your god, and the god of Musa.) "So they became religiously devoted to it (the calf) and they loved it with a love that they had never loved anything else with before. " Allah then says,
+
+فَنَسِيَ
+
+(but he had forgotten.) This means that he abandoned what he was following of the religion of Islam. This is referring to As-Samiri. Allah says in refuting them and rebuking them, and also explaining to them their folly and foolishness in that which they had done,
+
+أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
+
+(Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good?) This is about the calf. 'Do they not see that it does not respond to them when they ask it and when they speak to it?'
+
+وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
+
+(and that it had no power either to harm them or to do them good?) Meaning in their worldly affairs and matters of the Hereafter. Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound."
+
+In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut. In reference to the excuse of these ignorant people, they claimed that they were merely ridding themselves of the jewelry of the Copts. In the process of doing so, they cast the jewelry (into the pit of fire) and ended up worshipping the calf. Thus, they were seeking to rid themselves of something detestable, but wound up doing something even worse. This is similar to an authentic narration reported from 'Abdullah bin 'Umar. A man from 'Iraq asked him about the ruling of mosquitoes' blood if it get on one's garment. The man wanted to know if it is permissible to pray in such a garment or not. Ibn 'Umar replied by saying, "Look at the people of 'Iraq. They killed the grandson of the Messenger of Allah ﷺ, Al-Husayn, and yet they're asking about the blood of the mosquito."
+
+## Maarif ul Quran
+
+Commentary
+
+Sayyidna Musa (علیہ السلام) and the Bani Isra'il, having escaped the Pharaoh's wrath and having crossed the river in safety, proceeded on their journey. Soon they came upon a people who worshipped idols. They said to Sayyidna Musa "These people have adopted the idols as their gods who are visible as well as tangible. Do give us also a god whom we can see and touch.", Sayyidna Musa علیہ السلام replied,إِنَّكُمْ قَوْمٌ تَجْهَلُونَ ﴿138﴾ إِنَّ هَـٰؤُلَاءِ مُتَبَّرٌ‌ مَّا هُمْ فِيهِ وَبَاطِلٌ مَّا كَانُوا يَعْمَلُونَ ﴿139﴾ ("You are really an ignorant people. at these people are in, is sure to be destroyed; and false is what they are doing." - 7:138-139.)
+
+It was then that Allah commanded Sayyidna Musa (علیہ السلام) to bring his people to the mount of Tur where he would receive the Book Torah which would be a code and a policy document for all of them. However, he would have to prepare himself to receive the Torah by observing a fast for thirty days and thirty nights continuously. This period was later extended by a further ten days so that the total period of fasting was forty days and forty nights. Then Sayyidna Musa (علیہ السلام) led his people towards the mount of Tur, but in his eagerness to receive the Torah he hastened ahead so that he could complete his prayers and fasts for the prescribed period of thirty days as early as possible. He appointed Sayyidna Harun (علیہ السلام) to be his deputy during his absence. The Bani Isra'il continued the journey at their leisurely pace while he pushed on hoping that they would join him in due course near the mount of Tur. In the meanwhile Samiri, by his wiles, seduced them into adopting the calf as the object of their worship and thus divided them into three factions. This unfortunate development seriously impeded their progress towards the Tur.
+
+Allah questioned Sayyidna Musa (علیہ السلام) about his haste and the wisdom behind the question
+
+When Sayyidna Musa (علیہ السلام) appeared before Divine Presence, Allah questioned him as to why he had hastened ahead of his people. The obvious purpose of the question was to inform Sayyidna Musa (علیہ السلام) of the mischief into which his people had fallen while he himself, unaware of what had happened in his absence, was expecting their arrival at the Tur (Ibn Kathir). On the other hand, according to Ruh ul-Maani, the question contained an implied rebuke to Sayyidna Musa (علیہ السلام) on his haste which deprived his people of his supervision and enabled Samiri to mislead them. His position as a prophet made it incumbent on him to stay with his people and keep a watchful eye on them and their activities. The learned commentator has further observed that this question implied an indication that a leader should remain behind his people when travelling with them, as Allah Ta` ala had ordered but to bring his people out of the city and to remain at their back وَاتَّبِعْ أَدْبَارَ‌هُمْ (follow them at the rear -15:65)
+
+Sayyidna Musa (علیہ السلام) ، ignorant of Samiri's mischief, answered the question put to him by Allah that his haste was the result of his ardent desire to fulfill Allah's command without loss of time so as to deserve His greater favour, and that his people were close behind him and might arrive at any time. It was at that moment that Allah informed him of the evil that had befallen his people and the part played by Samiri in bringing it about.
+
+## Personal Reflections

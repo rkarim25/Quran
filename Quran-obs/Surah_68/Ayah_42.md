@@ -1,0 +1,133 @@
+---
+arabic_ayat: "يَوۡمَ يُكۡشَفُ عَنۡ سَاقٍ وَّيُدۡعَوۡنَ اِلَى السُّجُوۡدِ فَلَا يَسۡتَطِيۡعُوۡنَۙ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: ˹Beware of˺ the Day the Shin ˹of Allah˺ will be bared, and the
+  wicked will be asked to prostrate, but they will not be able to do so,
+word_by_word:
+  1:
+    arabic: يَوۡمَ
+    translation: (The) Day
+    transliteration: yawma
+  2:
+    arabic: يُكۡشَفُ
+    translation: will be uncovered
+    transliteration: yuk'shafu
+  3:
+    arabic: عَنۡ
+    translation: from
+    transliteration: ʿan
+  4:
+    arabic: سَاقٍ
+    translation: the shin
+    transliteration: sāqin
+  5:
+    arabic: وَّيُدۡعَوۡنَ
+    translation: and they will be called
+    transliteration: wayud'ʿawna
+  6:
+    arabic: اِلَى
+    translation: to
+    transliteration: ilā
+  7:
+    arabic: السُّجُوۡدِ
+    translation: prostrate
+    transliteration: l-sujūdi
+  8:
+    arabic: فَلَا
+    translation: but not
+    transliteration: falā
+  9:
+    arabic: "يَسۡتَطِيۡعُوۡنَۙ‏ \uFEFF\uFEFF"
+    translation: they will be able
+    transliteration: yastaṭīʿūna
+---
+
+## Context
+
+To understand **The Pen** (Al-Qalam) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration. This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِ‌مِينَ (Otherwise, shall We make the obedient like the sinners?...
+
+## Tafsir Ibn Kathir
+
+The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration. We shall punish them gradually from directions they perceive not (44)And I will grant them a respite. Verily, My plan is strong (45)Or is it that you ask them a wage, so that they are heavily burdened with debt (46)Or that the Unseen is in their hands, so that they can write it down (47)
+
+The Terror of the Day of Judgement
+
+After Allah mentions that those who have Taqwa, will have Gardens of Delight with their Lord, He explains when this will be, and its actual occurrence. He says,
+
+يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ
+
+(The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so.) meaning, the Day of Judgement and the horrors, earthquakes, trials, tests and great matters that will occur during it.
+
+Al-Bukhari recorded that Abu Sa'id Al-Khudri said that he heard the Prophet ﷺ saying,
+
+يَكْشِفُ رَبُّنَا عَنْ سَاقِهِ، فَيَسْجُدُ لَهُ كُلُّ مُؤْمِنٍ وَمُؤْمِنَةٍ، وَيَبْقَىٰ مَنْ كَانَ يَسْجُدُ فِي الدُّنْيَا رِيَاءً وَسُمْعَةً، فَيَذْهَبُ لِيَسْجُدَ، فَيَعُودُ ظَهْرُهُ طَبَقًا وَاحِدًا
+
+(Our Lord will reveal His Shin, and every believing male and female will prostrate to Him. The only people who will remain standing are those who prostrated in the worldly life only to be seen and heard (showing off). This type of person will try to prostrate at that time, but his back will made to be one stiff plate (the bone will not bend or flex).)"
+
+This Hadith was recorded in the Two Sahihs and other books from different routes of transmission with various wordings. It is a long Hadith that is very popular. Concerning Allah's statement,
+
+خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ
+
+(Their eyes will be cast down and ignominy will cover them;) means, in the final abode, due to their crimes and arrogance in the worldly life. Thus they will be punished with the opposite of what they did. When they were called to prostrate in the worldly life, they refused to do so even though they were healthy and secure. Therefore, they will be punished with the lack of ability to do so in the Hereafter. When the Almighty Lord makes Himself visible (before the believers), then the believers will fall down in prostration to Him, but no one of the disbelievers and hypocrites will be able to prostrate. rather, their backs will become one plate. Everytime one of them attempts to prostrate, he will bow his neck but will not be able to prostrate. This is just like in the life of this world, when these people were in opposition to what the believers were doing.
+
+For Whoever denies the Qur'an
+
+Then Allah says,
+
+فَذَرْنِي وَمَنْ يُكَذِّبُ بِهَٰذَا الْحَدِيثِ ۖ
+
+(Then leave Me alone with such as belie this narration.) meaning, the Qur'an. This is a sever threat which means, 'leave Me alone with this person; I know about him and how I will gradually punish him and increase him in his falsehood. I am giving him respite for a while, then I will seize him with a mighty and powerful punishment.' Thus, Allah says,
+
+سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَ
+
+(We shall punish them gradually from directions they perceive not.) meaning, and they will not even be aware of it. Rather, they will believe that it is a noble blessing from Allah, but really the same matter is actually a form of humiliation (for them). This is similar to Allah's statement,
+
+أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُمْ بِهِ مِنْ مَالٍ وَبَنِينَ - نُسَارِعُ لَهُمْ فِي الْخَيْرَاتِ ۚ بَلْ لَا يَشْعُرُونَ
+
+(Do they think that in wealth and children with which We expand them, We hasten unto them with good things. Nay, but they perceive not.)(23:55,56) Allah also said,
+
+فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ حَتَّىٰ إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُمْ بَغْتَةً فَإِذَا هُمْ مُبْلِسُونَ
+
+(So, when they forgot that which they had been reminded, We opened for them the gates of everything, until in the midst of their enjoyment in that which they were given, all of a sudden, We punished them, and lo! They were plunged into destruction with deep regrets and sorrows.)(6:44) Therefore, Allah says here,
+
+وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ
+
+(And I will grant them a respite. Verily, My plan is strong.) meaning, 'I will delay them, give them respite and extend their time. Yet, this is My plan, and My plot against them.' Thus, Allah says,
+
+إِنَّ كَيْدِي مَتِينٌ
+
+(Verily, My plan is strong.) meaning, 'great against whoever opposes My command, rejects My Messengers and dares to disobey Me.'
+
+In the Two Sahihs it is recorded from the Messenger of Allah ﷺ that he said,
+
+إِنَّ اللهَ تَعَالىٰ لَيُمْلِي لِلظَّالِمِ حَتّٰى إِذَا أَخَذَهُ لَمْ يُفْلِتْهُ
+
+(Verily Allah the Exalted gives respite to the wrongdoer until He seizes him and he will not be able to escape Him.) Then he recited,
+
+وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَا أَخَذَ الْقُرَىٰ وَهِيَ ظَالِمَةٌ ۚ إِنَّ أَخْذَهُ أَلِيمٌ شَدِيدٌ
+
+(Such is the punishment of your Lord when He seizes the towns while they are doing wrong. Verily, His punishment is painful (and) severe.)(11:102) In reference to Allah's statement,
+
+أَمْ تَسْأَلُهُمْ أَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَ - أَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ
+
+(Or is it that you ask them for a wage, so that they are heavily burdened with debt? Or that the Unseen is in their hands, so that they can write it down) the explanation of these two Ayat preceded in Surat At-Tur. The meaning of it is, 'you, O Muhammad, call them to Allah without taking any wages from them. rather, you hope for the reward with Allah. Yet, they reject that which you have brought to them simply due to ignorance, disbelief and obstinacy.'
+
+## Maarif ul Quran
+
+This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِ‌مِينَ (Otherwise, shall We make the obedient like the sinners?... 68:35). Clarifies that it is rationally necessary that there should come a time when people will have to give account of their deeds, a place where the guilty ones will find no escape routes, an ideal world where there will be absolute justice and fair play, where good and evil will be clearly distinguished. If this is not the state of affairs in the Hereafter, then no evil should be evil, and no sin should be sin in this mortal world. Divine justice would thus be rendered meaningless.
+
+Since it is established that Resurrection is a reality and inevitable, the reward of good deeds is a reality and the punishment of evil deeds is a reality, the verses that follow describe the horrors of the Day of Judgment and the punishment of the evil ones, including the description of the exposure of the Shin [ kashf-us-saq ] in Verse 42 (the explanation of which may be seen in the foot-note given in the translation of that verse.)
+
+## Personal Reflections

@@ -1,0 +1,332 @@
+---
+arabic_ayat: وَ اِذۡ اَخَذَ رَبُّكَ مِنۡۢ بَنِىۡۤ اٰدَمَ مِنۡ ظُهُوۡرِهِمۡ ذُرِّيَّتَهُمۡ
+  وَ اَشۡهَدَهُمۡ عَلٰٓى اَنۡفُسِهِمۡ​ ۚ اَلَسۡتُ بِرَبِّكُمۡ​ ؕ قَالُوۡا بَلٰى​ ۛۚ
+  شَهِدۡنَا ​ۛۚ اَنۡ تَقُوۡلُوۡا يَوۡمَ الۡقِيٰمَةِ اِنَّا كُنَّا عَنۡ هٰذَا غٰفِلِيۡنَ
+  ۙ‏
+sentence_translation: And ˹remember˺ when your Lord brought forth from the loins of
+  the children of Adam their descendants and had them testify regarding themselves.
+  ˹Allah asked,˺ “Am I not your Lord?” They replied, “Yes, You are! We testify.” ˹He
+  cautioned,˺ “Now you have no right to say on Judgment Day, ‘We were not aware of
+  this.’
+word_by_word:
+  1:
+    arabic: وَ اِذۡ
+    translation: And when
+    transliteration: wa-idh
+  2:
+    arabic: اَخَذَ
+    translation: (was) taken
+    transliteration: akhadha
+  3:
+    arabic: رَبُّكَ
+    translation: (by) your Lord
+    transliteration: rabbuka
+  4:
+    arabic: مِنۡۢ
+    translation: from
+    transliteration: min
+  5:
+    arabic: بَنِىۡۤ
+    translation: (the) Children
+    transliteration: banī
+  6:
+    arabic: اٰدَمَ
+    translation: '(of) Adam '
+    transliteration: ādama
+  7:
+    arabic: مِنۡ
+    translation: from
+    transliteration: min
+  8:
+    arabic: ظُهُوۡرِهِمۡ
+    translation: 'their loins '
+    transliteration: ẓuhūrihim
+  9:
+    arabic: ذُرِّيَّتَهُمۡ
+    translation: their descendants
+    transliteration: dhurriyyatahum
+  10:
+    arabic: وَ اَشۡهَدَهُمۡ
+    translation: and made them testify
+    transliteration: wa-ashhadahum
+  11:
+    arabic: عَلٰٓى
+    translation: over
+    transliteration: ʿalā
+  12:
+    arabic: اَنۡفُسِهِمۡ​ ۚ
+    translation: themselves
+    transliteration: anfusihim
+  13:
+    arabic: اَلَسۡتُ
+    translation: Am I not
+    transliteration: alastu
+  14:
+    arabic: بِرَبِّكُمۡ​ ؕ
+    translation: your Lord
+    transliteration: birabbikum
+  15:
+    arabic: قَالُوۡا
+    translation: They said
+    transliteration: qālū
+  16:
+    arabic: بَلٰى​ ۛۚ
+    translation: 'Yes'
+    transliteration: balā
+  17:
+    arabic: شَهِدۡنَا ​ۛۚ
+    translation: we have testified
+    transliteration: shahid'nā
+  18:
+    arabic: اَنۡ
+    translation: Lest
+    transliteration: an
+  19:
+    arabic: تَقُوۡلُوۡا
+    translation: you say
+    transliteration: taqūlū
+  20:
+    arabic: يَوۡمَ
+    translation: (on the) Day
+    transliteration: yawma
+  21:
+    arabic: الۡقِيٰمَةِ
+    translation: (of) the Resurrection
+    transliteration: l-qiyāmati
+  22:
+    arabic: اِنَّا
+    translation: Indeed
+    transliteration: innā
+  23:
+    arabic: كُنَّا
+    translation: we were
+    transliteration: kunnā
+  24:
+    arabic: عَنۡ
+    translation: about
+    transliteration: ʿan
+  25:
+    arabic: هٰذَا
+    translation: this
+    transliteration: hādhā
+  26:
+    arabic: غٰفِلِيۡنَ ۙ‏
+    translation: unaware
+    transliteration: ghāfilīna
+---
+
+## Context
+
+To understand **The Heights** (Al-A'raf) 172, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+172-174 The example of the one who had the knowledge of the Message but discarded it, has been cited as a warning to those who were treating the Message as false; they have been exhorted to use their faculties to recognize the Message; otherwise Hell would be there abode.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+And (remember) when your Lord brought forth from the Children of Adam, from their loins, their seed and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes! The covenant of Alust: عہد الست These two verses describe the event of the great heavenly covenant which the Creator, Allah, made with all His created being even before they took the form of their existence.
+
+## Tafsir Ibn Kathir
+
+And (remember) when your Lord brought forth from the Children of Adam, from their loins, their seed and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes! We testify," lest you should say on the Day of Resurrection: "Verily, we were unaware of this. (172)Or lest you should say: "It was only our fathers aforetime who took others as partners in worship along with Allah, and we were (merely their) descendants after them; will You then destroy us because of the deeds of men who practiced falsehood? (173)Thus do We explain the Ayat in detail, so that they may turn (unto the truth)(174)
+
+The Covenant taken from the Descendants of Adam
+
+Allah stated that He brought the descendants of Adam out of their fathers' loins, and they testified against themselves that Allah is their Lord and King and that there is no deity worthy of worship except Him. Allah created them on this Fitrah, or way, just as He said,
+
+فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ
+
+(So set you (O Muhammad) your face truly towards the religion, Hanifan. Allah's Fitrah with which He has created mankind. No change let there be in Khalqillah.)[30:30]
+
+And it is recorded in the Two Sahihs from Abu Hurayrah who said that the Messenger of Allah ﷺ said,
+
+كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ وَيُنَصِّرَانِهِ وَيُمَجِّسَانِهِ كَمَا تُولَدُ بَهِيمَةً جَمْعَاءَ هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ
+
+(Every child is born upon the Fitrah, it is only his parents who turn him into a Jew, a Christian or a Zoroastrian. Just as animals are born having full bodies, do you see any of them having a cutoff nose (when they are born)) .
+
+Muslim recorded that 'Iyad bin 'Himar said that the Messenger of Allah ﷺ said;
+
+يَقُولُ اللهُ: إِنِّي خَلَقْتُ عِبَادِي حُنَفَاءَ فَجَاءَتْهُمُ الشَّيَاطِينُ فَاجْتَالَتْهُمْ عَنْ دِينِهِمْ وَحَرَّمَتْ عَلَيْهِمْ مَا أَحْلَلْتُ لَهُم
+
+(Allah said, 'I created My servants Hunafa' (monotheists), but the devils came to them and deviated them from their religion, prohibiting what I allowed.)
+
+There are Hadiths that mention that Allah took Adam's offspring from his loins and divided them into those on the right and those on the left. Imam Ahmad recorded that Anas bin Malik said that the Prophet ﷺ said,
+
+يُقَالُ لِلرَّجُلِ مِنْ أَهْلِ النَّارِ يَوْمَ الْقِيَامَةِ أَرَأَيْتَ لَوْ كَانَ لَكَ مَا عَلَى الْأَرْضِ مِنْ شَيْءٍ أَكُنْتَ مُفْتَدِيًا بِهِ قَالَ: فَيَقُولُ: نَعَمْ فَيَقُولُ: قَدْ أَرَدْتُ مِنْكَ أَهْوَنَ مِنْ ذَلِكَ قَدْ أَخَذْتُ عَلَيْكَ فِي ظَهْرِ آدَمَ أَنْ لَا تُشْرِكَ بِي شَيْئًا فَأَبَيْتَ إِلَّا أَنْ تُشْرِكَ بِي
+
+(It will be said to a man from the people of the Fire on the Day of Resurrection, 'If you owned all that is on the earth, would you pay it as ransom?' He will reply, 'Yes.' Allah will say, 'I ordered you with what is less than that, when you were still in Adam's loins, that is, associate none with Me (in worship). You insisted that you associate with Me (in worship).') This was recorded in the Two Sahihs
+
+Commenting on this Ayah (7:172), At-Tirmidhi recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
+
+لَمَّا خَلَقَ اللهُ آدَمَ مَسَحَ ظَهْرَهُ فَسَقَطَ مِنْ ظَهْرِهِ كُلُّ نَسَمَةٍ هُوَ خَالِقُهَا مِنْ ذُرِّيَّتِهِ إِلَى يَوْمِ الْقِيَامَةِ وَجَعَلَ بَيْنَ عَيْنَي كَلِّ إِنْسَانٍ مِنْهُمْ وَبِيصًا مِنْ نُورٍ ثُمَّ عَرَضَهُمْ عَلَى آدَمَ فَقَالَ: أَيْ رَبِّ مَنْ هؤُلَاءِ؟ قَالَ: هؤُلَاءِ ذُرِّيَّتُكَ فَرَأَىَ رَجُلًا مِنْهُمْ فَأَعْجَبَهُ وَبِيصُ مَا بَيْنَ عَيْنَيْهِ قَالَ: أَيْ رَبِّ مَنْ هَذَا؟ قَالَ: هَذَا رَجُلٌ مِنْ آخِرِ الْأُمَمِ مِنْ ذُرِّيَّتِكَ يُقَالُ لَهُ دَاوُدُ قَالَ: رَبِّ وَكَمْ جَعَلْتَ عُمْرَهُ؟ قَالَ: سِتِّينَ سَنَةً، قَالَ: أَيْ رَبِّ وَقَدْ وَهَبْتُ لَهُ مِنْ عُمْرِي أَرْبَعِينَ سَنَةً فَلَمَّا انْقَضَى عُمْرُ آدَمَ جَاءَهُ مَلَكُ الْمَوْتِ قَالَ: أَوَ لَمْ يَبْقَ مِنْ عُمْرِي أَرْبَعُونَ سَنَةً قَالَ: أَوَ لَمْ تُعْطِهَا ابْنَكَ دَاوُدَ؟ قَالَ: فَجَحَدَ آدَمُ فَجَحَدَتْ ذُرِّيَّتُهُ وَنَسِيَ آدَمُ فَنِسَيتْ ذُرِّيَّتُهُ وَخَطِىءَ آدَمُ فَخَطِئَتْ ذُرِّيَّتُهُ
+
+(When Allah created Adam, He wiped Adam's back and every person that He will create from him until the Day of Resurrection fell out from his back. Allah placed a glimmering light between the eyes of each one of them. Allah showed them to Adam and Adam asked, 'O Lord! Who are they?' Allah said, 'These are your offspring.' Adam saw a man from among them whose light he liked. He asked, 'O Lord! Who is this man?' Allah said, 'This is a man from the latter generations of your offspring. His name is Dawud.' Adam said, 'O Lord! How many years would he live?' Allah said, 'Sixty years.' Adam said, 'O Lord! I have forfeited forty years from my life for him.' When Adam's life came to an end, the angel of death came to him (to take his soul). Adam said, 'I still have forty years from my life term, don't I?' He said, 'Have you not given it to your son Dawud?' So Adam denied that and his offspring followed suit (denying Allah's covenant), Adam forgot and his offspring forgot, Adam made a mistake and his offspring made mistakes.)
+
+At-Tirmidhi said, "This Hadith is Hasan Sahih, and it was reported from various chains of narration through Abu Hurayrah from the Prophet ﷺ". Al-Hakim also recorded it in his Mustadrak, and said; "Sahih according to the criteria of Muslim, and they did not record it."
+
+These and similar Hadiths testify that Allah, the Exalted and Most Honored, brought forth Adam's offspring from his loins and separated between the inhabitants of Paradise and those of the Fire. Allah then said,
+
+وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَىٰ
+
+(and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes!")
+
+Therefore, Allah made them testify with themselves by circumstance and words. Testimony is sometimes given in words, such as,
+
+قَالُوا شَهِدْنَا عَلَىٰ أَنفُسِنَا
+
+(They will say: "We bear witness against ourselves.")[6:130]
+
+At other times, testimony is given by the people themselves, such as Allah's statement,
+
+مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا مَسَاجِدَ اللَّهِ شَاهِدِينَ عَلَىٰ أَنفُسِهِم بِالْكُفْرِ
+
+(It is not for the Mushrikin, (polytheists) to maintain the mosques of Allah, while they testify against their own selves of disbelief.)[9:17]
+
+This Ayah means that their disbelief testifies against them, not that they actually testify against themselves here. Another Ayah of this type is Allah's statement,
+
+وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ
+
+(And to that he bears witness (by his deeds).)[100:7]
+
+The same is the case with asking, sometimes takes the form of words and sometimes a situation or circumstance. For instance, Allah said,
+
+وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ
+
+(And He gave you of all that you asked for.)[14:34] Allah said here,
+
+أَن تَقُولُوا
+
+(lest you should say), on the Day of Resurrection
+
+إِنَّا كُنَّا عَنْ هَٰذَا
+
+(we were of this) of Tawhid
+
+غَافِلِينَ - أَوْ تَقُولُوا إِنَّمَا أَشْرَكَ آبَاؤُنَا
+
+(unaware. Or lest you should say: "It was only our fathers aforetime who took others as partners in worship along with Allah,")[7:172-173]
+
+## Maarif ul Quran
+
+The covenant of Alust: عہد الست
+
+These two verses describe the event of the great heavenly covenant which the Creator, Allah, made with all His created being even before they took the form of their existence. This covenant is known as the covenant of Alust (أَلَسْتُ ).
+
+Allah is the creator of all the worlds, the heavens, the earth and whatever exists between them. His infinite wisdom and all-encompassing knowledge has designed and manufactured this universe with as much perfection as leaves no room for any doubt or question. He has created everything with a wise set of rules and regulations. Following these laws ensures people of eternal success and everlasting peace and comfort while deviation from these principles makes one liable to punishments prescribed by Allah.
+
+We may also note that His all-encompassing knowledge and infinite wisdom was enough to decide the fate of all the created beings without assigning His angels to watch over and keep the record of the deeds of His servants, and without weighing their deeds in the Balance on the Day of Judgment. It is because He is All-Aware of the deeds, even of the hidden thoughts and intentions of His servants without the remotest possibility of making wrong judgment.
+
+His Grace and perfect Justice, however, chose that none should be punished without providing him with documentary evidences of his sinful acts, in a way, that sinner himself finds no choice but to readily acknowledge his sinful deeds.
+
+He appointed some of His angels to record each and every act done by an individual. The Holy Qur'an said:
+
+مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَ‌قِيبٌ عَتِيدٌ ﴿18﴾
+
+"He utters not a word but there is by him a vigilant watcher1." (50:18)
+
+1. According to Sayyidna Ibn ` Abbas , LI everything good or bad about a mortal is recorded by his guardian angels" (A study of al-Qur'an al-Karim vol. 4 p. 969, by La'l Muhammad Chawla) )Translator)
+
+In another verse the Holy Qur'an said: وَكُلُّ صَغِيرٍ‌ وَكَبِيرٍ‌ مُّسْتَطَرٌ‌ ﴿53﴾ And everything small and great is written down." (54:53) Then, on the Day of Judgment the Balance shall be set to weigh the good and bad deeds of all people. Those whose good deeds weigh heavy shall be rewarded with salvation while those whose bad deeds weigh heavier shall be punished.
+
+Moreover, when Allah, the Best of All Judges shall hold His court on the Day of Judgment, He shall call for witnesses on the deeds of every individual. Certain wrongful people shall falsify certain witnesses. Allah shall ask his physical organs to bear witness to his deeds. They shall be given power to speak and bear witness against him. The places where the deeds were done shall also come to witness against him until he shall find no way to belie the witnesses and finally will make confession of his evil deeds. The Holy Qur'an referred to it in these words:
+
+فَاعْتَرَ‌فُوا بِذَنبِهِمْ فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ‌ ﴿11﴾
+
+"So, they will confess their sins, but far removed (from Allah's Mercy) are the companions of the blazing fire." (67:11)
+
+We also note that Allah, who is the most kind and loving did not leave His servants at the mercy of law and regulations only. He, out of His kindness, provided His servants with complete guidance through His prophets and the Books, in order to save them from eternal punishment.
+
+Like the kind parents who make it essential for their children to go to school every morning also make sure that their children get all their requirements ready before time to facilitate their following the law of school-going with all possible ease. Allah, who is free from all similarities is more loving and kind to His servants than are the parents to their children. He did not only formulate the laws but made them a source of real guidance. Along with the commandments He also taught how people can carry out His commandments with ease and readiness.
+
+Apart from sending His messengers and divine books to His servants He appointed a large number of His angels to help and guide people to the right path. Besides, He created .clear signs of His Power and wisdom all around so that people may use their own observation and understanding to distinguish right from wrong, and to remember their Creator. He repeatedly invited people to make use of their observation and understanding when seeing His signs scattered all around them. He said, in the Holy Qur'an :
+
+وَفِي الْأَرْ‌ضِ آيَاتٌ لِّلْمُوقِنِينَ ﴿20﴾ وَفِي أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُ‌ونَ ﴿21﴾
+
+"And on the earth are signs for those who have firm faith, and also in your own selves. Do you not see then?" 1 (51:20-21)
+
+1. This verse has referred to two kinds of signs; external and internal. The external signs are profusely available all around us; the heavens the earth, the oceans, mountains, plants and trees, fruits of different colour and taste; they provide us with unmistakable guidance to our Lord. The internal signs include the process of our reproduction, our physique, our thoughts, intentions emotions and sentiments of happiness and sorrow. A little reflection on these signs positively leads us to the Creator and makes us to express our gratefulness to Him. (Translator)
+
+Another arrangement made by Allah to make people act righteously was to make them enter into covenants with Him through His Prophets (علیہم السلام) . The Holy Qur'an has references to a number of such covenants made with various people in varied circumstances. The Prophets (علیہم السلام) were made to promise that they shall essentially convey Allah's message to their people without any regard to difficulties and reproach from them. This pious group of prophets (علیہم السلام) did convey Allah's message as faithfully as was possible and sacrificed all that they had in this way.
+
+Similarly the people of every prophet were made to promise to obey their prophet, and in some special cases, to spend all their energy in carrying out particular commands. Some people fulfilled their promise while some others did not.
+
+Among such covenants the most significant one is the covenant which all the prophets were made to enter regarding the Holy Prophet ﷺ that all the prophets shall follow the last of all prophets and assist him when they find some opportunity to do so. The Holy Qur'an has mentioned this covenant in the following verse:
+
+وَإِذْ أَخَذَ اللَّـهُ مِيثَاقَ النَّبِيِّينَ لَمَا آتَيْتُكُم مِّن كِتَابٍ وَحِكْمَةٍ ثُمَّ جَاءَكُمْ رَ‌سُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِ وَلَتَنصُرُ‌نَّهُ
+
+"And when Allah made the prophets take pledge: (saying) If I give you a book and wisdom, then comes to you a messenger verifying what is with you, you shall have to believe in him and you shall have to support him1." (3:81)
+
+1. By implication this pledge taken by all the prophets makes it binding on the followers of all the prophets to believe in the Holy Prophet ﷺ and to follow him and support him in achieving his objectives. It makes binding upon them to follow the law given by the last of all Prophets. (Translator)
+
+The Significance of Bay'ah بَیعَت Swearing Allegiance)
+
+The traditional way of taking pledge (bay'ah: discipleship) from the devoted followers, is in fact, in pursuance of this practice of Allah. The Prophets (علیہم السلام) ، their companions and spiritual leaders have been taking the pledge of allegiance from their followers. The incident of اَلرِضوَان بَیعَت 'Bay'ah al-Rizwan' has been mentioned in the Holy Qur'an. It said:
+
+لَّقَدْ رَ‌ضِيَ اللَّـهُ عَنِ الْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ الشَّجَرَ‌ةِ
+
+"Allah was certainly well pleased with the believers when they swore fidelity to you (0 Prophet) under the tree." (48:18)
+
+The Holy Prophet ﷺ took such pledge of allegiance from his companions on many occasions. 'Bay'ah al-'Aqabah' is a famous pre-migration covenant made with the Ansars of Madinah. The customary way of Sufis to take pledge from their followers, is a covenant taken for practising the commandments of Allah regularly and strengthening their belief in Allah by frequent remembrance of their Lord. The way of swearing fealty to someone has many advantages and draws 'Barakah' from Allah.
+
+After swearing fealty to some Sheikh (Spiritual Master), a follower feels himself more willing and inclined to practise the religious obligations, and is more conscious in seeking the pleasure of Allah.
+
+The above description of Bay'ah also clears away a misconception common among the men of little knowledge that by putting one's hand in the hands of some Sheikh or spiritual leader is enough for one's salvation in the Hereafter. This is absolutely an erroneous notion as swearing allegiance is a pledge taken for following practical guidance according to the instructions given by the Sheikh. Therefore, only placing one's hands into the hands of a Sheikh is simply of no use. Rather, it is a deviation from the pledge and may incur the wrath of Allah.
+
+The verse (172) speaking of the covenant of Eternity عہداَلَست in the preceding pages has used the word ذُرِّیِّۃ for the children of Adam. According to Imam Raghib al-Isfahani the word ذُرِّیِّۃ has been derived from the Arabic root ذرء which signifies to create. The Holy Qur'an has used this word to signify the same meanings in a number of verses. The word 'Dhurriyyah' (. ذُرِّیِّۃ) therefore signifies all those created. This implies that the covenant of Eternity included all the human beings as they are the progeny of Adam (علیہ السلام) .
+
+We find some more information about this covenant in the literature of Hadith. Imam Malik, Abu Dawud, Tirmidhi and Imam Ahmad have reported on the authority of Muslim bin Yasar that some people asked the Caliph 'Sayyidna ` Umar al-Faruq ؓ of the connotation of this verse. He said that the same question was put to the Holy Prophet ﷺ and the answer of the Holy Prophet ﷺ as he heard it was as follows:
+
+"Allah Almighty first created Adam then He placed His hand upon his back, and drew forth all the righteous descendants of Adam who were to come into being and said, "I have created them for the Paradise, and they shall act righteously as to deserve Paradise. Then He placed His hand on the back of Adam and all the wicked descendants that were to come into being appeared. He said, "I have created them for the Hell, and they shall act wickedly as to lead them to Hell."
+
+Someone from among the companions of the Holy Prophet ﷺ asked him, "When Allah has already decided the fate of the mankind why the people are asked to do good deeds, while they are of no effect. The Holy Prophet ﷺ said, "Whoever is created for Paradise, he starts doing good deeds making him worthy of paradise and he dies in this state, while the one created for the Hell involves himself in wicked acts making him liable of the fires of Hell until he dies doing such deeds as leads him to the Hell."
+
+That is to say, when one is not aware of the category he belongs to, he must invest all his effort and energy in doing such deeds as are the characteristics of the people of Paradise and should be hopeful of his being one among them.
+
+The Tradition reported by Imam Ahmad on the authority of the Companion Abu al-Darda' ؓ has added that the people who appeared the first time were of fair colour while those appearing the second time were black.
+
+The same description reported by Tirmidhi on the authority of the Companion Abu Hurairah ؓ has additionally reported that all the children of Adam (علیہ السلام) who were to come in the world upto the end of time had a kind of brilliance on their foreheads.
+
+Here we are faced with two descriptions apparently differing from one another. The descriptions given by the above traditions have described the children of Adam coming out of the back of the Prophet Adam (علیہ السلام) while the Qur'anic verse under discussion has related them as coming forth from the backs of the progeny of Adam (علیہ السلام) . In fact, there is no conflict between the two descriptions as the direct descendants of Adam are described as coming forth from the back of Adam (علیہ السلام) while the people coming after them have been described as coming forth from the backs of his descendants.
+
+The aim of this pledge taken from the whole mankind was to make them acknowledge that Allah Almighty is the Nourisher, The Sustainer or the Lord of all the created beings. This implies that the children of Adam (علیہ السلام) coming forth from the back of the Prophet Adam (علیہ السلام) were not in the form of spirit alone but also had a certain kind of physique made of some fine elements. It is because the function of nourishing is directly related to body which is made to progress from one state to another. The spirits do not require this kind of nourishment as they remain in one state from the moment of their creation. This is also supported from the above traditions speaking of the fair and black colour or the brilliance on their forehead because both, the colour and brilliance, require some material form to show their existence. The spirits obviously have no colour.
+
+One may wonder how all the human beings to be created up to the Last Day could have gathered in one place. This also has been explained by the Tradition narrated by the Companion Abu al-Darda' ؓ which said that they did not appear with their usual size rather they appeared in the size of a small ant. In this age of scientific knowledge it should be of no surprise how a man of human size can be reduced to the size of an ant. The science has established the fact that a perfect system similar to our solar system is functioning in and around the nucleus of an atom. The books of hundreds of pages can be reduced to a dot of small size through a process of micro filming. It should not, therefore, be a matter of surprise that Allah, the All-Powerful, might have reduced them to the size of an ant at this occasion.
+
+The above discussion with regard to the covenant of eternity gives rise to a couple of questions:
+
+1. Which was the time and place of the covenant?
+
+2. This pledge was taken prior to the creation of all human beings, excluding Adam (علیہ السلام) . How did the children of Adam have knowledge and reason to acknowledge Allah almighty as being the Nourisher or their Lord which requires the experience of their being nourished which was not possible prior to coming as human being on the earth.
+
+The first question has been answered by the Companion ` Abdullah ibn ` Abbas ؓ as reported through authentic sources by Imam Ahmad and Nasa'i that the covenant was taken at the time when Adam (علیہ السلام) was sent down from heavens to the earth. The place was the valley of Nauman known as the plain of ` Arafat (Near Makkah).
+
+As to the second question with regard to inability of their acknowledging Allah as their Lord prior to their creation, the answer is quite simple. Allah Almighty who has all the powers to do anything He wills, and who was able to make all the human beings appear in a size of an ant could more easily imbue knowledge and reason enough to make them capable of recognizing their Lord, the Nourisher. Allah made them appear with body and soul in a small size with all the physical functions needed by a perfect human being. Reason and understanding being the most significant functions must have been included.
+
+Another question which remains unsettled is as to what value can be attached to a covenant occurring prior to the actual creation of human beings, and which is not remembered by them after they take their actual existence on the earth? Before proceeding to answer this question we may add that, in some cases, there have been individuals who remembered the occasion of this covenant. For example, the great spiritual leader Dhul Nun al-Misri has said, "I remember the occurrence of this covenant as clearly as I am hearing it this very moment." Some of the elders have reported to have remembered even the people who were present near them. True, that such cases are rare and do not make an answer to the above question.
+
+The answer to this question, therefore, is that there are many things or acts which are effective in their very nature without any regard to their being remembered or understood by others. They imprint the effect on others quite naturally.
+
+For example, the common practice, among Muslims, of saying Adhan1 in the right ear of a new born and reciting iqamah in his left ear is an obvious example of such acts. The baby neither understands the meaning of this call nor does he remember it after becoming an adult. The wisdom behind this religious practice is nothing but to revive the pledge he has taken with Allah, and sow the seed of Faith in his heart by repeating the message of the covenant in his ears. The influence of this act is so obvious that can be seen in every Muslim individual even if he is not practically a good Muslim. He takes pride in calling himself a Muslim and utterly dislikes being deprived of this categorical entity.
+
+1. Adhan is a call for salah the ritual prayer which in fact is a bold declaration that Allah is one, has no partners, and is the greatest of all etc. while iqamah is the same declaration with added enunciation that the salah has been set ready to be joined by people. (Translator)
+
+Similarly the commandment of reciting the Qur'an even to those who do not know Arabic is perhaps for the same reason that their hearts are enlightened with the impact of the Qur'anic words, and their Faith in Allah is renovated therewith.
+
+The wisdom behind this covenant is similarly to sow the seed of Faith in the heart of every human being. This seed is taking its nourishment in the soil of human heart , no matter whether people are conscious of it or not. The fruit of this seed manifests itself in the form of love and respect for god (Allah) which is a part of human nature. The expression of this love and respect, may take unjust forms like worshipping false gods - idols or created beings. The worships, just or unjust, is in itself, an expression of love and respect for the creator. The billions of people have this respect and love for Allah which is expressed by them through their worship according to their ideas of worship guided by their knowledge or ignorance. There is no need to speak of those few who, under the influence of mundane pursuits have deteriorated their natural understanding and forgot the pledge they made with Allah.
+
+The Holy Prophet ﷺ has said: کُلُّ مَولُودِ یُولَدُ عَلَی الفِطرَۃِ every baby is born on Fitrah (nature, that is, Islam) then he is converted by his parents to their religion. The Holy Prophet ﷺ has said in a Tradition that Allah Almighty has said, 'I have created my servants as Hanif, that is, having faith in Allah, the One, then they were led astray by Satanic influences."
+
+The next sentence of the verse has said:
+
+أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَـٰذَا غَافِلِينَ
+
+"Lest you should say on the Day of Doom, "We were ignorant of this."
+
+That is to say, the pledge taken by Allah has lit the candle of Faith in their hearts. Now with little reflection they can easily recognize Him as their Lord. Therefore, their excuse of ignorance shall not be of any avail to them on the Day of Judgment.
+
+## Personal Reflections

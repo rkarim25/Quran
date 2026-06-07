@@ -1,0 +1,163 @@
+---
+arabic_ayat: لِّيُعَذِّبَ اللّٰهُ الۡمُنٰفِقِيۡنَ وَالۡمُنٰفِقٰتِ وَالۡمُشۡرِكِيۡنَ
+  وَالۡمُشۡرِكٰتِ وَيَتُوۡبَ اللّٰهُ عَلَى الۡمُؤۡمِنِيۡنَ وَالۡمُؤۡمِنٰتِؕ وَكَانَ
+  اللّٰهُ غَفُوۡرًا رَّحِيۡمًا‏
+sentence_translation: so that Allah will punish hypocrite men and women and polytheistic
+  men and women, and Allah will turn in mercy to believing men and women. For Allah
+  is All-Forgiving, Most Merciful. 
+word_by_word:
+  1:
+    arabic: لِّيُعَذِّبَ
+    translation: So that Allah may punish
+    transliteration: liyuʿadhiba
+  2:
+    arabic: اللّٰهُ
+    translation: So that Allah may punish
+    transliteration: l-lahu
+  3:
+    arabic: الۡمُنٰفِقِيۡنَ
+    translation: the hypocrite men
+    transliteration: l-munāfiqīna
+  4:
+    arabic: وَالۡمُنٰفِقٰتِ
+    translation: and the hypocrite women
+    transliteration: wal-munāfiqāti
+  5:
+    arabic: وَالۡمُشۡرِكِيۡنَ
+    translation: and the polytheist men
+    transliteration: wal-mush'rikīna
+  6:
+    arabic: وَالۡمُشۡرِكٰتِ
+    translation: and the polytheist women
+    transliteration: wal-mush'rikāti
+  7:
+    arabic: وَيَتُوۡبَ
+    translation: and Allah will turn (in Mercy)
+    transliteration: wayatūba
+  8:
+    arabic: اللّٰهُ
+    translation: and Allah will turn (in Mercy)
+    transliteration: l-lahu
+  9:
+    arabic: عَلَى
+    translation: to
+    transliteration: ʿalā
+  10:
+    arabic: الۡمُؤۡمِنِيۡنَ
+    translation: the believing men
+    transliteration: l-mu'minīna
+  11:
+    arabic: وَالۡمُؤۡمِنٰتِؕ
+    translation: and the believing women
+    transliteration: wal-mu'mināti
+  12:
+    arabic: وَكَانَ
+    translation: And Allah is
+    transliteration: wakāna
+  13:
+    arabic: اللّٰهُ
+    translation: And Allah is
+    transliteration: l-lahu
+  14:
+    arabic: غَفُوۡرًا
+    translation: Oft-Forgiving
+    transliteration: ghafūran
+  15:
+    arabic: رَّحِيۡمًا‏
+    translation: Most Merciful
+    transliteration: raḥīman
+---
+
+## Context
+
+To understand **The Combined Forces** (Al-Ahzab) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Truly, We did offer the Amanah to the heavens and the earth, and the mountains, but they declined to bear it and were afraid of it. لِّيُعَذِّبَ اللَّـهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ (with the result that Allah will punish the hypocrites, men and women, and the Mushriks, men and women, and will accept the repentance of the believing men and women.
+
+## Tafsir Ibn Kathir
+
+Truly, We did offer the Amanah to the heavens and the earth, and the mountains, but they declined to bear it and were afraid of it. But man bore it. Verily, he was unjust and ignorant (72)So that Allah will punish the hypocrites, men and women, and the men and women who are idolators. And Allah will pardon the believers, men and women. And Allah is Ever Oft-Forgiving, Most Merciful (73)
+
+How Man bore the Amanah
+
+Al-'Awfi reported that Ibn 'Abbas said, "Al-Amanah means obedience. This was offered to them before it was offered to Adam, and they could not bear it. Then Allah said to Adam: 'I have offered the Amanah to the heavens and the earth and the mountains, and they could not bear it. Will you take it on?' He said, 'O Lord, what does it involve?' He said, 'If you do good, you will be rewarded, and if you do evil, you will be punished.' So Adam took the Amanah and bore it, and this is what is referred to in the Ayah:
+
+وَحَمَلَهَا الْإِنْسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
+
+(But man bore it. Verily, he was unjust and ignorant.)" 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Al-Amanah means Al-Fara'id (the obligatory duties). Allah offered them to the heavens and the earth and the mountains, (on the grounds that) if they fulfilled them, He would reward them; and if they failed, He would punish them. But they did not want to do that, and they were afraid of it, not because their intention was sinful, but because of their respect for the religion of Allah, in case they could not fulfill the obligations involved. Then Allah offered it to Adam, and he accepted it with all that it entailed. This is what is referred to in the Ayah:
+
+وَحَمَلَهَا الْإِنْسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا
+
+(But man bore it. Verily, he was unjust and ignorant.) meaning, he underestimated the command of Allah." This was also the view of Mujahid, Sa'id bin Jubayr, Ad-Dahhak, Al-Hasan Al-Basri and others that Al-Amanah means Al-Fara'id. Others said that it meant obedience. Al-A'mash narrated from Abu Ad-Duha from Masruq that Ubayy bin Ka'b said: "Part of Al-Amanah means that woman was entrusted with her own chastity." Qatadah said: "Al-Amanah means religion, obligatory duties and prescribed punishments." Malik narrated that Zayd bin Aslam said: "Al-Amanah means three things: prayer, fasting and performing Ghusl to cleanse oneself from sexual impurity."
+
+There is no contradiction between all of these views; they are all in agreement and all refer to responsibility and the acceptance of commands and prohibitions with their attendant conditions, which is that the one who fulfills this responsibility, will be rewarded; while the one who neglects it, will be punished. Man accepted this despite the fact that he is weak, ignorant and unjust – except for those whom Allah helps, and Allah is the One Whose help we seek.
+
+One of the reports which deal with Al-Amanah is the Hadith recorded by Imam Ahmad from Hudhayfah, may Allah be pleased with him, who said: "The Messenger of Allah ﷺ told us two Hadiths, one of which I have seen and the other I am still waiting to see. He told us that Al-Amanah is deeply rooted in the heart of man, then the Qur'an was revealed and they know it from the Qur'an and from the Sunnah. Then he told us that Al-Amanah will be taken away. He said,
+
+يَنَامُ الرَّجُلُ النَّوْمَةَ فَتُقْبَضُ الْأَمَانَةُ مِنْ قَلْبِهِ، فَيَظَلُّ أَثَرُهَا مِثْلَ أَثَرِ الْمَجْلِ كَجَمْرٍ دَحْرَجْتَهُ عَلَى رِجْلِكِ، تَرَاهُ مُنْتَبِرًا وَلَيْسَ فِيهِ شَيْءٌ
+
+(A man may sleep and Al-Amanah will be taken from his heart, leaving nothing but a trace like a blister left by a coal if you were to roll it over your leg – you will see it protruding but there is nothing inside.) Then he took a pebble and rolled it over his leg, then he said:
+
+فَيُصْبِحُ النَّاسُ يَتَبَايَعُونَ لَا يَكَادُ أَحَدٌ يُؤَدِّي الْأَمَانَةَ حَتَّى يُقَالَ: إِنَّ فِي بَنِي فُلَانٍ رَجُلًا أَمِينًا، حَتَّى يُقَالَ لِلرَّجُلِ مَا أَجْلَدَهُ وَأَظْرَفَهُ وَأَعْقَلَهُ! وَمَا فِي قَلْبِهِ حَبَّةُ خَرْدَلٍ مِنْ إِيمَانٍ
+
+(Then the people will start buying and selling, and hardly anyone will be paying attention to Al-Amanah, until it will be said that among the tribe of so-and-so there is a trustworthy man, and it will said of a man, 'how strong he is, how nice and how wise,' and there is not even a mustard seed of faith in his heart.)
+
+No doubt, there came upon me a time when I did not mind dealing (bargaining) with anyone of you, for if he was a Muslim, his Islam would compel him to pay me what is due to me, and if he was a Christian, or Jew, the Muslim official would compel him to pay me what is due to me, but today, I do not deal except with such and such person among you." It was also recorded in the Two Sahihs from the Hadith of Al-A'mash.
+
+Imam Ahmad recorded that 'Abdullah bin 'Amr, may Allah be pleased with him, said that the Messenger of Allah ﷺ said:
+
+أَرْبَعٌ إِذَا كُنَّ فِيكَ فَلَا عَلَيْكَ مَا فَاتَكَ مِنَ الدُّنْيَا: حِفْظُ أَمَانَةٍ، وَصِدْقُ حَدِيثٍ، وَحُسْنُ خَلِيقَةٍ، وَعِفَّةُ طُعْمَةٍ
+
+(There are four things, if you attain them, then whatever you miss in this world will not matter: preserving trust, speaking the truth, being of good character and moderation in eating.)
+
+The Result of taking on the Amanah
+
+لِيُعَذِّبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ
+
+(So that Allah will punish the hypocrites, men and women, and the men and women who are idolators.) means, because the sons of Adam have undertaken to fulfill the Amanah, which means duties, Allah will punish the men and women among them who are hypocrites, who are those who make an outward display of faith because they fear the believers, but in their hearts they conceal disbelief and in fact are followers of the disbelievers.
+
+وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ
+
+(and the men and women who are idolators.) these are the ones who both outwardly and inwardly associate others in worship with Allah and go against His Messengers.
+
+وَيَتُوبَ اللَّهُ عَلَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ
+
+(And Allah will pardon the believers, men and women.) means, He will show mercy to the believers among mankind, who believe in Allah and in His angels, Books and Messengers, and who obey Him.
+
+وَكَانَ اللَّهُ غَفُورًا رَحِيمًا
+
+(And Allah is Ever Oft-Forgiving, Most Merciful.)
+
+This is end of the Tafsir of Surat Al-Ahzab. Allah's is the praise and thanks.
+
+## Maarif ul Quran
+
+لِّيُعَذِّبَ اللَّـهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ (with the result that Allah will punish the hypocrites, men and women, and the Mushriks, men and women, and will accept the repentance of the believing men and women. Surely Allah is Most-Forgiving, Very-Merciful. [ 73]) The letter 'lam' used in the beginning of this verse is not for mentioning the cause or aim, as generally understood in common usage, but it is the lam of 'aqibah in the terminology of Arabic linguistics. It points out to the end of something, as it appears in a line of Arabic poetry which reads:
+
+لِدُوا لِلمَوتِ وَ ابنُوا لِلخَرَابِ
+
+'Be born only to be dead and build only to be ruined'.
+
+It does not mean that the aim of one's birth was to be dead or that the aim of constructing of a building was that it could be ruined, but it simply means that the end of everyone born is death and the end of every building is falling into ruins.
+
+The sense of the verse is that, as a result of man's assumption of responsibility for the trust, mankind will split in two groups: (1) Disbelievers, hypocrites and others who will rebel against Divine orders and become wasters of the great 'trust'. They will be punished. (2) There will be believing men and believing women who, through their obedience to Divine injunctions, will fulfill the dictates of the trust reposed in them. They will be treated with mercy and forgiveness.
+
+The Tafsir of the two words: Zalum and Jahul that has been reported above from most Tafsir authorities finds additional support in this last sentence as well - that these words are not meant for the whole mankind. In fact, they particularly refer to those individuals who wasted away the Divine trust reposed in them. And Allah, Pure and High, knows best.
+
+The Commentary on
+
+Surah Al-Ahzab ends here
+
+With the help of and praise for Allah Ta’ ala
+
+## Personal Reflections

@@ -1,0 +1,194 @@
+---
+arabic_ayat: اَلَّذِيۡنَ اٰتَيۡنٰهُمُ الۡكِتٰبَ يَتۡلُوۡنَهٗ حَقَّ تِلَاوَتِهٖؕ اُولٰٓٮِٕكَ
+  يُؤۡمِنُوۡنَ بِهٖ​ ؕ وَمَنۡ يَّكۡفُرۡ بِهٖ فَاُولٰٓٮِٕكَ هُمُ الۡخٰسِرُوۡنَ‏
+sentence_translation: Those We have given the Book follow it as it should be followed.
+  It is they who ˹truly˺ believe in it. As for those who reject it, it is they who
+  are the losers.
+word_by_word:
+  1:
+    arabic: اَلَّذِيۡنَ
+    translation: Those
+    transliteration: alladhīna
+  2:
+    arabic: اٰتَيۡنٰهُمُ
+    translation: We have given them
+    transliteration: ātaynāhumu
+  3:
+    arabic: الۡكِتٰبَ
+    translation: the Book
+    transliteration: l-kitāba
+  4:
+    arabic: يَتۡلُوۡنَهٗ
+    translation: recite it
+    transliteration: yatlūnahu
+  5:
+    arabic: حَقَّ
+    translation: (as it has the) right
+    transliteration: ḥaqqa
+  6:
+    arabic: تِلَاوَتِهٖؕ
+    translation: (of) its recitation
+    transliteration: tilāwatihi
+  7:
+    arabic: اُولٰٓٮِٕكَ
+    translation: Those (people)
+    transliteration: ulāika
+  8:
+    arabic: يُؤۡمِنُوۡنَ
+    translation: believe
+    transliteration: yu'minūna
+  9:
+    arabic: بِهٖ​ ؕ
+    translation: in it
+    transliteration: bihi
+  10:
+    arabic: وَمَنۡ
+    translation: And whoever
+    transliteration: waman
+  11:
+    arabic: يَّكۡفُرۡ
+    translation: disbelieves
+    transliteration: yakfur
+  12:
+    arabic: بِهٖ
+    translation: in it
+    transliteration: bihi
+  13:
+    arabic: فَاُولٰٓٮِٕكَ
+    translation: then those
+    transliteration: fa-ulāika
+  14:
+    arabic: هُمُ
+    translation: they
+    transliteration: humu
+  15:
+    arabic: الۡخٰسِرُوۡنَ‏
+    translation: (are) the losers
+    transliteration: l-khāsirūna
+---
+
+## Context
+
+To understand **The Cow** (Al-Baqarah) 121, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+These Ayat mean, "Those among the People of the Book who perfectly adhered to the Books that were revealed to the previous Prophets, will believe in what I have sent you with, O Muhammad!" Allah said in another Ayah,
+
+33. The commentary we have here is based on a report from the blessed Companion Ibn ` Abbas ؓ ، according to whom this verse was revealed on the occasion of the arrival of forty Christians from Abyssinia who had accepted Islam. But other commentators believe that "those to whom We have given the Book" are the blessed Companions, and "the Book" is the Holy Qur'an. As for reading the Book "observing the rights of its recitation", it means enunciating each word correctly and clearly, and keeping the fear and love of Allah present in one's heart while reading, and also the resolve to follow divine guid-nce and to obey divine commandments.
+
+## Tafsir Summary
+
+Never will the Jews nor the Christians be pleased with you (O Muhammad ﷺ) till you follow their religion. Verse 120 dealt with the hopeless condition of the opponents of Islam among the People of the Book.
+
+## Tafsir Ibn Kathir
+
+Never will the Jews nor the Christians be pleased with you (O Muhammad ﷺ) till you follow their religion. Say: "Verily, the guidance of Allah (i.e. Islamic Monotheism) that is the (only) guidance. And if you (O Muhammad ﷺ) were to follow their (Jews and Christians) desires after what you have received of Knowledge (i.e. the Qur'an), then you would have against Allah neither any Wali (protector or guardian) nor any helper (120)Those to whom we gave the Book recite it as it should be recited (Yatlunahu Haqqa Tilawatihi) they are the ones who believe therein. And whoso disbelieve in it, those are they who are the losers (121)
+
+Ibn Jarir said, "Allah said,
+
+وَلَن تَرْضَىٰ عَنكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ
+
+(Never will the Jews nor the Christians be pleased with you (O Muhammad ﷺ) till you follow their religion.) meaning, 'The Jews and the Christians will never be happy with you, O Muhammad! Therefore, do not seek what pleases or appeases them, and stick to what pleases Allah by calling them to the truth that Allah sent you with.' Allah's statement,
+
+قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ
+
+(Say: "Verily, the guidance of Allah (i.e. Islamic Monotheism) that is the (only) guidance") means, 'Say, O Muhammad ﷺ, the guidance of Allah that He sent me with is the true guidance, meaning the straight, perfect and comprehensive religion.'" Qatadah said that Allah's statement,
+
+قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ
+
+(Say: "Verily, the guidance of Allah (i.e. Islamic Monotheism) that is the (only) guidance) is, "A true argument that Allah taught Muhammad ﷺ and his Companions and which they used against the people of misguidance." Qatadah said, "We were told that the Messenger of Allah ﷺ used to say,
+
+لَا تَزَالُ طَائِفَةٌ مِنْ أُمَّتِي يُقَاتِلُونَ عَلَى الْحَقِّ ظَاهِرِينَ، لَا يَضُرُّهُمْ مَنْ خَالَفَهُمْ حَتَّى يَأْتِيَ أَمْرُ اللهِ
+
+(There will always be a group of my Ummah fighting upon the truth, having the upper hand, not harmed by their opponents, until the decree of Allah (the Last Hour) comes.)
+
+This Hadith was collected in the Sahih and narrated from 'Abdullah bin 'Amr.
+
+وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُم بَعْدَ الَّذِي جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ
+
+(And if you (O Muhammad ﷺ) were to follow their (Jews and Christians) desires after what you have received of Knowledge (i.e. the Qur'an), then you would have against Allah neither any Wali (protector or guardian) nor any helper.)
+
+This Ayah carries a stern warning for the Muslim Ummah against imitating the ways and methods of the Jews and Christians, after they have acquired knowledge of the Qur'an and Sunnah, may Allah grant us refuge from this behavior. Although the speech in this Ayah was directed at the Messenger ﷺ, the ruling of which applies to his entire Ummah.
+
+The Meaning of Correct Tilawah
+
+Allah said,
+
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ
+
+(Those to whom We gave the Book. Yatlunahu Haqqan Tilawatih.)
+
+Abdur-Razzaq ﷺ said from Ma'mar, from Qatadah, "They are the Jews and Christians." This is the opinion of 'Abdur-Rahman bin Zayd bin Aslam, and it was also chosen by Ibn Jarir. Sa'id reported from Qatadah, "They are the Companions of the Messenger of Allah ﷺ." Abu Al-'Aliyah said that Ibn Mas'ud said, "By He in Whose Hand is my soul! The right Tilawah is allowing what it makes lawful, prohibiting what it makes unlawful, reciting it as it was revealed by Allah, not changing the words from their places, and not interpreting it with other than its actual interpretation." As-Suddi reported from Abu Malik from Ibn 'Abbas who said about this Ayah (2:121): "They make lawful what it allows and they prohibit what it makes unlawful, and they do not alter its wordings." 'Umar bin Al-Khattab said, "They are those who when they recite an Ayah that mentions mercy, they ask Allah for it, and when they recite an Ayah that mentions torment, they seek refuge with Allah from it." This meaning was attributed to the Prophet ﷺ, for when he used to recite an Ayah of mercy, he invoked Allah for mercy, and when he recited an Ayah of torment, he sought refuge from it with Allah.
+
+Allah's statement,
+
+أُولَٰئِكَ يُؤْمِنُونَ بِهِ
+
+(they are the ones who believe therein)
+
+explains the Ayah,
+
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ
+
+(Those to whom We gave the Book. Yatlunahu Haqqa Tilawatihi).
+
+These Ayat mean, "Those among the People of the Book who perfectly adhered to the Books that were revealed to the previous Prophets, will believe in what I have sent you with, O Muhammad!" Allah said in another Ayah,
+
+وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم
+
+(And if only they had acted according to the Tawrah, the Injil, and what has (now) been sent down to them from their Lord (the Qur'an), they would surely, have gotten provision from above them and from underneath their feet.)(5:66). The Ayah,
+
+قُلْ يَا أَهْلَ الْكِتَابِ لَسْتُمْ عَلَىٰ شَيْءٍ حَتَّىٰ تُقِيمُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ
+
+(Say (O Muhammad ﷺ) "O People of the Scripture (Jews and Christians)! You have nothing (as regards guidance) till you act according to the Tawrah, the Injil, and what has (now) been sent down to you from your Lord (the Qur'an).")(5:68)
+
+means, "If you adhere to the Torah and the Gospel in the correct manner, believe in them as you should, and believe in the news they carry about Muhammad's prophethood, his description and the command to follow, aid and support him, then this will direct you to adhere to truth and righteousness in this life and the Hereafter." In another Ayah, Allah said,
+
+الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي يَجِدُونَهُ مَكْتُوبًا عِندَهُمْ فِي التَّوْرَاةِ وَالْإِنجِيلِ
+
+(Those who follow the Messenger, the Prophet who can neither read nor write (i.e. Muhammad ﷺ) whom they find written with them in the Tawrah and the Injil.)(7:157) and,
+
+قُلْ آمِنُوا بِهِ أَوْ لَا تُؤْمِنُوا إِنَّ الَّذِينَ أُوتُوا الْعِلْمَ مِن قَبْلِهِ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا - وَيَقُولُونَ سُبْحَانَ رَبِّنَا إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا
+
+(Say (O Muhammad ﷺ to them): "Believe in it (the Qur'an) or do not believe (in it). Verily, those who were given knowledge before it, when it is recited to them, fall down on their faces in humble prostration. And they say: "Glory be to our Lord! Truly, the promise of our Lord must be fulfilled.")(17:107-108).
+
+These Ayat indicate that what Allah promised for Muhammad ﷺ will certainly occur. Allah also said,
+
+الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِن قَبْلِهِ هُم بِهِ يُؤْمِنُونَ - وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِن رَّبِّنَا إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ - أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
+
+(Those to whom We gave the Scripture (i. e. the Tawrah and the Injil) before it, they believe in it (the Qur'an). And when it is recited to them, they say: "We believe in it. Verily, it is the truth from our Lord. Indeed even before it we have been from those who submit themselves to Allah in Islam as Muslims. These will be given their reward twice over, because they are patient, and repel evil with good, and spend (in charity) out of what We have provided them.)(28:52-54) and,
+
+وَقُل لِّلَّذِينَ أُوتُوا الْكِتَابَ وَالْأُمِّيِّينَ أَأَسْلَمْتُمْ فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوا وَّإِن تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ
+
+(And say to those who were given the Scripture (Jews and Christians) and to those who are illiterates (Arab pagans): "Do you (also) submit yourselves (to Allah in Islam)?" If they do, they are rightly guided; but if they turn away, your duty is only to convey the Message; and Allah is the Seer of (His) servants)(3:20).
+
+Allah said,
+
+وَمَن يَكْفُرْ بِهِ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
+
+(And whoever disbelieves in it (the Qur'an), those are they who are the losers)(2:121), just as He said in another Ayah,
+
+وَمَن يَكْفُرْ بِهِ مِنَ الْأَحْزَابِ فَالنَّارُ مَوْعِدُهُ
+
+(But those of the sects (Jews, Christians and all the other non-Muslim nations) that reject it (the Qur'an), the Fire will be their promised meeting place)(11:17).
+
+As recorded in the Sahih, the Prophet ﷺ said,
+
+وَالَّذِي نَفْسِي بِيَدِهِ لَا يَسْمَعُ بِي أَحَدٌ مِنْ هذِهِ الْأُمَّةِ يَهُودِيٌّ وَلَا نَصْرَانِيٌّ ثُمَّ لَا يُؤْمِنُ بِي إِلَّا دَخَلَ النَّارَ
+
+(By He in Whose Hand is my soul! There is no member of this Ummah (mankind and Jinns), Jew or a Christian, who hears of me, yet does not believe in me, but will enter the Fire.)
+
+## Maarif ul Quran
+
+Verse 120 dealt with the hopeless condition of the opponents of Islam among the People of the Book. Now, the present verse turns, in the usual manner of the Holy Qur'an, to the other aspect, and speaks of those Jews and Christians who were honest and just, and, having recognised the truth, affirmed the Holy Prophet ﷺ and accepted Islam.
+
+The verse tells us how it has been possible for these men to effect a radical change in themselves. Allah has given a Book to the Christians as well as to the Jews. But, unlike most of their co-religionists, these men have been reading the Book "observing the rights of its recitation."
+
+That is to say, they have distorted neither the words nor the meanings, nor have they tried to misinterpret or conceal the prophecies about the coming of the Holy Prophet ﷺ . In other words, they have used their intellect in trying to understand the meanings, and their will in accepting the truth and in following it. It is they who acknowledge the Holy Qur'an, and have faith in it. In doing so, they are actually affirming their own Books too and acting upon them insofar as their Books explicitly foretell the coming of the Last Prophet and of the last Book of Allah. As for those who persist in their denial, they are bound to suffer the greatest loss, for they have refused to believe in the Last Revelation, and have, in fact, not shown much of a belief in their own Books, and not followed the guidance provided by them in this matter. 33
+
+33. The commentary we have here is based on a report from the blessed Companion Ibn ` Abbas ؓ ، according to whom this verse was revealed on the occasion of the arrival of forty Christians from Abyssinia who had accepted Islam. But other commentators believe that "those to whom We have given the Book" are the blessed Companions, and "the Book" is the Holy Qur'an. As for reading the Book "observing the rights of its recitation", it means enunciating each word correctly and clearly, and keeping the fear and love of Allah present in one's heart while reading, and also the resolve to follow divine guid-nce and to obey divine commandments. The blessed second Khalifah ` Umar ؓ has said that reading the Holy Qur'an "observing the rights of its recitation" requires that when one comes to a description of Paradise, one should pray to Allah for granting one this abode, and when one finds a description of Hell, one should seek Allah's protection from it. (Ibn Abi Hatim)
+
+## Personal Reflections

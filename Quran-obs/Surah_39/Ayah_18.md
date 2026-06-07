@@ -1,0 +1,117 @@
+---
+arabic_ayat: الَّذِيۡنَ يَسۡتَمِعُوۡنَ الۡقَوۡلَ فَيَتَّبِعُوۡنَ اَحۡسَنَهٗ​ ؕ اُولٰٓٮِٕكَ
+  الَّذِيۡنَ هَدٰٮهُمُ اللّٰهُ​ وَاُولٰٓٮِٕكَ هُمۡ اُولُوا الۡاَلۡبَابِ‏
+sentence_translation: those who listen to what is said and follow the best of it. These
+  are the ones ˹rightly˺ guided by Allah, and these are ˹truly˺ the people of reason.
+word_by_word:
+  1:
+    arabic: الَّذِيۡنَ
+    translation: Those who
+    transliteration: alladhīna
+  2:
+    arabic: يَسۡتَمِعُوۡنَ
+    translation: they listen (to)
+    transliteration: yastamiʿūna
+  3:
+    arabic: الۡقَوۡلَ
+    translation: the Word
+    transliteration: l-qawla
+  4:
+    arabic: فَيَتَّبِعُوۡنَ
+    translation: then follow
+    transliteration: fayattabiʿūna
+  5:
+    arabic: اَحۡسَنَهٗ​ ؕ
+    translation: the best thereof
+    transliteration: aḥsanahu
+  6:
+    arabic: اُولٰٓٮِٕكَ
+    translation: those
+    transliteration: ulāika
+  7:
+    arabic: الَّذِيۡنَ
+    translation: (are) they whom
+    transliteration: alladhīna
+  8:
+    arabic: هَدٰٮهُمُ
+    translation: Allah has guided them
+    transliteration: hadāhumu
+  9:
+    arabic: اللّٰهُ​
+    translation: Allah has guided them
+    transliteration: l-lahu
+  10:
+    arabic: وَاُولٰٓٮِٕكَ
+    translation: and those
+    transliteration: wa-ulāika
+  11:
+    arabic: هُمۡ
+    translation: are [they]
+    transliteration: hum
+  12:
+    arabic: اُولُوا
+    translation: the men of understanding
+    transliteration: ulū
+  13:
+    arabic: الۡاَلۡبَابِ‏
+    translation: the men of understanding
+    transliteration: l-albābi
+---
+
+## Context
+
+To understand **The Troops** (Az-Zumar) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+(Those who avoid At-Taghut by not worshipping them) was revealed concerning Zayd bin 'Amr bin Nufayl and Abu Dharr and Salman Al-Farisi, may Allah be pleased with them. The correct view is that it includes them and all others who avoided worshipping idols and turned to the worship of Ar-Rahman. These are the people for whom there is good news in this world and in the Hereafter. Then Allah says:
+
+Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
+
+That historical lens is essential.
+
+## Tafsir Summary
+
+Those who avoid At-Taghut by not worshipping them and turn to Allah, for them are glad tidings; so announce the good news to My servants (17)Those who listen to the Word and follow the best thereof, those are (the ones)… In the Tafsir of verses 17 and 18: فَبَشِّرْ‌ عِبَادِ ﴿17﴾ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ أُولَـٰئِكَ الَّذِينَ هَدَاهُمُ اللَّـهُ ۖ وَأُولَـٰئِكَ هُمْ أُولُو الْأَلْبَابِ (So, give the good news to My servants who listen to what is said, then, follow the best of it.
+
+## Tafsir Ibn Kathir
+
+Those who avoid At-Taghut by not worshipping them and turn to Allah, for them are glad tidings; so announce the good news to My servants (17)Those who listen to the Word and follow the best thereof, those are (the ones) whom Allah has guided and those are men of understanding (18)
+
+Good News for the Righteous
+
+Abdur-Rahman bin Zayd bin Aslam said, narrating from his father:
+
+وَالَّذِينَ اجْتَنَبُوا الطَّاغُوتَ أَنْ يَعْبُدُوهَا
+
+(Those who avoid At-Taghut by not worshipping them) was revealed concerning Zayd bin 'Amr bin Nufayl and Abu Dharr and Salman Al-Farisi, may Allah be pleased with them. The correct view is that it includes them and all others who avoided worshipping idols and turned to the worship of Ar-Rahman. These are the people for whom there is good news in this world and in the Hereafter. Then Allah says:
+
+فَبَشِّرْ عِبَادِ - الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ
+
+(so announce the good news to My servants – those who listen to the Word and follow the best thereof,) meaning, those who understand it and act in accordance with it. This is like the Words of Allah, may He be exalted, to Musa, peace be upon him, when He gave him the Tawrah:
+
+فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا بِأَحْسَنِهَا
+
+(Hold unto these with firmness, and enjoin your people to take the better therein)(7:145).
+
+أُولَٰئِكَ الَّذِينَ هَدَاهُمُ اللَّهُ ۖ
+
+(those are whom Allah has guided) means, those who are described in this manner are the ones whom Allah has guided in this world and the Hereafter.
+
+وَأُولَٰئِكَ هُمْ أُولُو الْأَلْبَابِ
+
+(and those are men of understanding.) means, they possess sound reasoning and an upright nature.
+
+## Maarif ul Quran
+
+Commentary
+
+In the Tafsir of verses 17 and 18: فَبَشِّرْ‌ عِبَادِ ﴿17﴾ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ أُولَـٰئِكَ الَّذِينَ هَدَاهُمُ اللَّـهُ ۖ وَأُولَـٰئِكَ هُمْ أُولُو الْأَلْبَابِ (So, give the good news to My servants who listen to what is said, then, follow the best of it. Those are the ones whom Allah has guided, and those are the ones who possess understanding), there are several views expressed by learned commentators. One of these is what Ibn Kathir has opted for. Maulana Ashraf ` Ali Thanavi has also gone by it. According to this view, the word: القول (al-qawl:what is said) used here means Qur'an, the Word of Allah, or it means the Qur'an inclusive of the teachings of the Holy Prophet ﷺ - and all of it is but the best. Therefore, the obvious dictate of the occasion was to say: يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ (who listen to what is said, then, follow it). But, that is not how it was said, instead, the word: أَحْسَنَ (ahsan) was added which indicates that these people did not follow the Qur'an and the teachings of the Holy Prophet ﷺ with any lack of discernment as is the way of some common people who hear something from someone and start following it without any inquiry, deliberation or insight. In fact, these are believers who have followed the Word of Allah and the teachings of His Rasul after having found it true and best. As a result, towards the end of the verse, they have been praised as being: أُولُو الْأَلْبَابِ (ulu-l-al-bab) that is, the people of understanding, (the wise, the farsighted, and the discerning ones). Another example of this appears in the Qur'an itself when Sayyidna Musa (علیہ السلام) is being addressed about the Torah in the following words: فَخُذْهَا بِقُوَّةٍ وَأْمُرْ‌ قَوْمَكَ يَأْخُذُوا بِأَحْسَنِهَا (So hold it firm, and ask your people to hold on to the best things in it - Al-A` raf, 7:145). Here too, the word: اَحسَن (ahsan) means the entire Torah and its injunctions. Similarly, in the verses cited above, 'listening to the word' means 'listening to the Qur'an' and 'following the best' means 'following the entire Qur'an' which has been referred to as: أَحْسَنَ الْحَدِيثِ (ahsan al-Hadith: the best thing said). In connection with this very Tafsir - that 'al-qawl' should be taken to mean the Qur'an particularly - some elders have also said that in the Qur'an as well there are many injunctions that have degrees of (hasan: good) and حَسَن (ahsan: better, best). For example, retaliation and pardon are both permissible, but pardon is better and more graceful: وَأَن تَصْبِرُ‌وا خَيْرٌ‌ لَّكُمْ (and that you be patient is better for you - An-Nis' - 4:25). There are many things in which the Qur'an gives one the choice to take to what one likes without any apprehension of sin, but, on occasions, it has also pinpointed one of these as being the best and most graceful thing to do, for example: وَأَن تَعْفُوا أَقْرَ‌بُ لِلتَّقْوَىٰ (And it is closer to taqwa that you forgive - Al-Baqarah, 2:237). There are many things in which concession has been granted, but opting for the way of courage and determination has still been called better and more graceful. Thus, the verse comes to mean that these people listen to the injunctions of the Qur'an - those relating to concession (rukhsah) as well as those relating to the courageous determination (` azimah) - but elect to follow the course of determination instead of concession. And in everything where they have a choice between two things, one being good and the other, better, then, invariably they elect to do what is better.
+
+Then, there are many commentators who take 'al-qawl' at this place to mean what is said by common people that includes things about tauhid, shirk, kufr, Islam, haqq and batil, even about the refinements of truth as good, better, weightier and outweighed. If we were to follow this Tafsir, the verse would mean that, as far as listening is concerned, these people do listen to what everyone has to say - be they disbelievers or believer, be it truth or falsehood, good or bad, everything - but, when it comes to following, they follow only that which is the best. Thus, they follow tauhid, not shirk; haqq (truth), not batil (falsehood), and if they have to choose between the degrees of haqq, they follow that which is better and weightier. Therefore, these people were credited with two attributes: (1) Firstly, by virtue of: ھَدٰبھُمُ اللہُ (Allah has guided them - 39:18), therefore, they do not go astray after having listened to so many different things. (2) Secondly, by the compliment of: وَأُولَـٰئِكَ هُمْ أُولُو الْأَلْبَابِ (and they are the ones who possess understanding - 39:18), that is, they are sensible people, and their good sense, insight and discernment helps them draw the line between good and bad, true and false. Thus, when such people have the ability to distinguish between good and better and when it comes to opting for one of the two, they would opt for the better.
+
+Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
+
+## Personal Reflections

@@ -1,0 +1,223 @@
+---
+arabic_ayat: "فَجَآءَتۡهُ اِحۡدٰٮہُمَا تَمۡشِىۡ عَلَى اسۡتِحۡيَآءٍ  قَالَتۡ اِنَّ\
+  \ اَبِىۡ يَدۡعُوۡكَ لِيَجۡزِيَكَ اَجۡرَ مَا سَقَيۡتَ لَـنَا​ ؕ فَلَمَّا جَآءَهٗ\
+  \ وَقَصَّ عَلَيۡهِ الۡقَصَصَ ۙ قَالَ لَا تَخَفۡ​ نَجَوۡتَ مِنَ الۡقَوۡمِ الظّٰلِمِيۡنَ‏\
+  \ \uFEFF\uFEFF"
+sentence_translation: Then one of the two women came to him, walking bashfully. She
+  said, “My father is inviting you so he may reward you for watering ˹our animals˺
+  for us.” When Moses came to him and told him his whole story, the old man said,
+  “Have no fear! You are ˹now˺ safe from the wrongdoing people.”
+word_by_word:
+  1:
+    arabic: فَجَآءَتۡهُ
+    translation: Then came to him
+    transliteration: fajāathu
+  2:
+    arabic: اِحۡدٰٮہُمَا
+    translation: one of the two women
+    transliteration: iḥ'dāhumā
+  3:
+    arabic: تَمۡشِىۡ
+    translation: walking
+    transliteration: tamshī
+  4:
+    arabic: عَلَى
+    translation: with
+    transliteration: ʿalā
+  5:
+    arabic: اسۡتِحۡيَآءٍ 
+    translation: shyness
+    transliteration: is'tiḥ'yāin
+  6:
+    arabic: قَالَتۡ
+    translation: She said
+    transliteration: qālat
+  7:
+    arabic: اِنَّ
+    translation: Indeed
+    transliteration: inna
+  8:
+    arabic: اَبِىۡ
+    translation: my father
+    transliteration: abī
+  9:
+    arabic: يَدۡعُوۡكَ
+    translation: calls you
+    transliteration: yadʿūka
+  10:
+    arabic: لِيَجۡزِيَكَ
+    translation: that he may reward you
+    transliteration: liyajziyaka
+  11:
+    arabic: اَجۡرَ
+    translation: (the) reward
+    transliteration: ajra
+  12:
+    arabic: مَا
+    translation: (for) what
+    transliteration: mā
+  13:
+    arabic: سَقَيۡتَ
+    translation: you watered
+    transliteration: saqayta
+  14:
+    arabic: لَـنَا​ ؕ
+    translation: for us
+    transliteration: lanā
+  15:
+    arabic: فَلَمَّا
+    translation: So when
+    transliteration: falammā
+  16:
+    arabic: جَآءَهٗ
+    translation: he came to him
+    transliteration: jāahu
+  17:
+    arabic: وَقَصَّ
+    translation: and narrated
+    transliteration: waqaṣṣa
+  18:
+    arabic: عَلَيۡهِ
+    translation: to him
+    transliteration: ʿalayhi
+  19:
+    arabic: الۡقَصَصَ ۙ
+    translation: the story
+    transliteration: l-qaṣaṣa
+  20:
+    arabic: قَالَ
+    translation: he said
+    transliteration: qāla
+  21:
+    arabic: لَا
+    translation: (Do) not
+    transliteration: lā
+  22:
+    arabic: تَخَفۡ​
+    translation: fear
+    transliteration: takhaf
+  23:
+    arabic: نَجَوۡتَ
+    translation: You have escaped
+    transliteration: najawta
+  24:
+    arabic: مِنَ
+    translation: from
+    transliteration: mina
+  25:
+    arabic: الۡقَوۡمِ
+    translation: 'the people '
+    transliteration: l-qawmi
+  26:
+    arabic: "الظّٰلِمِيۡنَ‏ \uFEFF\uFEFF"
+    translation: the wrongdoers
+    transliteration: l-ẓālimīna
+---
+
+## Context
+
+To understand **The Stories** (Al-Qasas) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Name The Surah takes its name from verse 25 in which the word Al-Qasas occurs.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Then there came to him one of them, walking shyly. فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ (Then one of the two women came to him walking with shyness.
+
+## Tafsir Ibn Kathir
+
+Then there came to him one of them, walking shyly. She said: "Verily, my father calls you that he may reward you for having watered (our flocks) for us." So when he came to him and narrated the story, he said: "Fear you not. You have escaped from the people who are wrongdoers. (25)And said one of them (the two women): "O my father! Hire him! Verily, the best of men for you to hire is the strong, the trustworthy. (26)He said: "I intend to wed one of these two daughters of mine to you, on condition that you serve me for eight years; but if you complete ten years, it will be (a favor) from you. But I intend not to place you under a difficulty. If Allah wills, you will find me one of the righteous. (27)He (Musa) said: "That (is settled) between me and you: whichever of the two terms I fulfill, there will be no injustice to me, and Allah is Surety over what we say. (28)
+
+Musa, the Father of the Two Women, and His Marriage to One of Them
+
+When the two women came back quickly with the sheep, their father was surprised that they returned so soon. He asked them what had happened, and they told him what Musa, peace be upon him, had done. So he sent one of them to call him to meet her father. Allah says:
+
+فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ
+
+(Then there came to him one of them, walking shyly.) meaning, she was walking like a free woman, as it was narrated from the Commander of the faithful, 'Umar, may Allah be pleased with him: "She was covering herself from them with the folds of her garment."
+
+Ibn Abi Hatim recorded that 'Amr bin Maymun said, 'Umar, may Allah be pleased with him, said: "She came walking shyly, putting her garment over her face. She was not one of those audacious women who come and go as they please." This chain of narrators is Sahih.
+
+قَالَتْ إِنَّ أَبِي يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا
+
+(She said: "Verily, my father calls you that he may reward you for having watered (our flocks) for us.") This is an example of good manners: she did not invite him directly lest he have some suspicious thoughts about her. Rather she said: "My father is inviting you so that he may reward you for watering our sheep," i.e., give you some payment for that.
+
+فَلَمَّا جَاءَهُ وَقَصَّ عَلَيْهِ الْقَصَصَ
+
+(So when he came to him and narrated the story,) means, he told him about his story and why he had to leave his country.
+
+قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ الْقَوْمِ الظَّالِمِينَ
+
+(he said: "Fear you not. You have escaped from the people who are wrongdoers.") He was saying: 'calm down and relax, for you have left their kingdom and they have no authority in our land.' So he said:
+
+نَجَوْتَ مِنَ الْقَوْمِ الظَّالِمِينَ
+
+(You have escaped from the people who are wrongdoers.)
+
+قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ ۖ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ
+
+(And said one of them: "O my father! Hire him! Verily, the best of men for you to hire is the strong, the trustworthy.") One of the two daughters of the man said this, and it was said that she was the one who had walked behind Musa, peace be upon him. She said to her father:
+
+يَا أَبَتِ اسْتَأْجِرْهُ
+
+(O my father! Hire him!) as a shepherd to look after the sheep. 'Umar, Ibn 'Abbas, Shurayh Al-Qadi, Abu Malik, Qatadah, Muhammad bin Ishaq and others said: "When she said:
+
+إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ
+
+(Verily, the best of men for you to hire is the strong, the trustworthy.) her father said to her, 'What do you know about that?' She said to him, 'He lifted a rock which could only be lifted by ten men, and when I came back with him, I walked ahead of him, but he said to me, walk behind me, and if I get confused about the route, throw a pebble so that I will know which way to go.'" 'Abdullah (Ibn Mas'ud) said, "The people who had the most discernment were three: Abu Bakr's intuition about 'Umar; the companion of Yusuf when he said, 'Make his stay comfortable'; and the companion of Musa, when she said:
+
+يَا أَبَتِ اسْتَأْجِرْهُ ۖ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ
+
+(O my father! Hire him! Verily, the best of men for you to hire is the strong, the trustworthy.)."
+
+إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ
+
+(I intend to wed one of these two daughters of mine to you,) means, this old man asked him to take care of his flocks, then he would marry one of his two daughters to him.
+
+عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ ۖ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِنْدِكَ ۖ
+
+(on condition that you serve me for eight years; but if you complete ten years, it will be (a favor) from you.) meaning, 'on the condition that you tend my flocks for eight years, and if you want to give me two extra years, that is up to you, but if you do not want to, then eight years is enough.'
+
+وَمَا أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّالِحِينَ
+
+(But I intend not to place you under a difficulty. If Allah wills, you will find me one of the righteous.) means, 'I do not want to put pressure on you or cause you any inconvenience or argue with you.'
+
+Ibn Abi Hatim recorded that 'Ali bin Rabah Al-Lakhmi said, "I heard 'Utbah bin An-Nadar As-Sulami, the Companion of the Messenger of Allah ﷺ narrating that the Messenger of Allah ﷺ said:
+
+إِنَّ مُوسَى عَلَيْهِ السَّلَامُ آجَرَ نَفْسَهُ بِعِفَّةِ فَرْجِهِ وَطُعْمَةِ بَطْنِهِ
+
+(Musa, peace be upon him, hired himself out for the purpose of keeping chaste and to feed himself.) And Allah tells us about Musa, peace be upon him:
+
+قَالَ ذَٰلِكَ بَيْنِي وَبَيْنَكَ ۖ أَيَّمَا الْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَانَ عَلَيَّ ۖ وَاللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
+
+(He said: "That (is settled) between me and you: whichever of the two terms I fulfill, there will be no injustice to me, and Allah is Surety over what we say.") Musa said to his father-in-law, "The matter is as you say. You have hired me for eight years, and if I complete ten years, that is my choice, but if I do the lesser amount, I will still have fulfilled the covenant and met the conditions." So he said:
+
+أَيَّمَا الْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَانَ عَلَيَّ ۖ
+
+(whichever of the two terms I fulfill, there will be no injustice to me,) meaning, 'there will be no blame on me. The complete term is permissible but it is still regarded as something extra.' This is like the Ayah,
+
+فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ ۚ
+
+(But whosoever hastens to leave in two days, there is no sin on him and whosoever stays on, there is no sin on him)(2:203). And the Messenger of Allah ﷺ said to Hamzah bin 'Amr Al-Aslami, may Allah be pleased with him, who used to fast a great deal and who asked him about fasting while traveling:
+
+إِنْ شِئْتَ فَصُمْ، وَإِنْ شِئْتَ فَأَفْطِرْ
+
+(If you wish, then fast, and if you wish, do not fast.) even though it is better to fast, according to the evidence of other reports. And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
+
+Al-Bukhari recorded that Sa'id bin Jubayr said: "A Jew from the people of Hirah asked me; 'Which of the two terms did Musa fulfill?' I said, 'I do not know until I go to the scholar of the Arabs and ask him.' So I went to Ibn 'Abbas, may Allah be pleased with him, and asked him. He said: 'He fulfilled the longer and better of them, for when a Messenger of Allah said he would do a thing, he did it.'" This is how it was recorded by Al-Bukhari.
+
+## Maarif ul Quran
+
+فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ (Then one of the two women came to him walking with shyness. - 28:25). In accordance with Qur'anic practice the story has been summarized here. The full story runs like this: When the two girls reached home earlier than usual, their father enquired the reason for that. So they related to him the whole incident. Their father thought that he should make up for the favour Musa (علیہ السلام) had done to his daughters. Hence he asked one of his daughters to bring him with her. She went to Sayyidna Musa (علیہ السلام) and talked to him with an element of modesty. This shows that despite the fact that hijab was not enjoined by then, good women would not talk to men freely. She went to him with a need, so she talked with shyness. Some commentators have given the detail of her shyness that while talking she had raised her sleeve up to her face. The narrations as related in commentaries say that Musa (علیہ السلام) had asked her to walk behind him and guide him from the back. The objective was that he could not cast his eye on her. Perhaps for this reason she told her father about him to be trustworthy.
+
+Who was the father of these two girls? Commentators have different views on this subject. But Qur'anic verses allude that he was Sayyidna Shu` aib (علیہ السلام) (7:85). (Qurtubi)
+
+إِنَّ أَبِي يَدْعُوكَ (My father is calling you - 28:25). It was possible at that time that the girl would have invited him on her own, but she did not do so. Instead, she conveyed her father's message to him, because it was against the modesty for a girl to invite a stranger at home.
+
+## Personal Reflections

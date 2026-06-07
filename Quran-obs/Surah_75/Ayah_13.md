@@ -1,0 +1,214 @@
+---
+arabic_ayat: يُنَبَّؤُا الۡاِنۡسَانُ يَوۡمَٮِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَؕ‏
+sentence_translation: All will then be informed of what they have sent forth and left
+  behind.
+word_by_word:
+  1:
+    arabic: يُنَبَّؤُا
+    translation: Will be informed
+    transliteration: yunabba-u
+  2:
+    arabic: الۡاِنۡسَانُ
+    translation: '[the] man'
+    transliteration: l-insānu
+  3:
+    arabic: يَوۡمَٮِٕذٍۢ
+    translation: that Day
+    transliteration: yawma-idhin
+  4:
+    arabic: بِمَا
+    translation: of what
+    transliteration: bimā
+  5:
+    arabic: قَدَّمَ
+    translation: he sent forth
+    transliteration: qaddama
+  6:
+    arabic: وَاَخَّرَؕ‏
+    translation: and kept back
+    transliteration: wa-akhara
+---
+
+## Context
+
+To understand **The Resurrection** (Al-Qiyamah) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+In the Name of Allah, the Most Gracious, the Most Merciful. يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَ (Man will be informed of what he sent ahead, and what he left behind....75:13).
+
+## Tafsir Ibn Kathir
+
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
+In the Name of Allah, the Most Gracious, the Most Merciful.
+
+لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ - وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ - أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ - بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ - بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ - يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ - فَإِذَا بَرِقَ الْبَصَرُ - وَخَسَفَ الْقَمَرُ - وَجُمِعَ الشَّمْسُ وَالْقَمَرُ - يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ - كَلَّا لَا وَزَرَ - إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ - يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ - بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ - وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+
+(1. Nay! I swear by the Day of Resurrection.)(2. And nay! I swear by An-Nafs Al-Lawwamah.)(3. Does man think that We shall not assemble his bones?)(4. Yes, We are able to put together in perfect order the tips of his fingers.)(5. Nay! Man desires to break out ahead of himself.)(6. He asks: "When will be this Day of Resurrection?")(7. So, when Bariqa the sight.)(8. And the moon will be eclipsed.)(9. And the sun and moon will be joined together.)(10. On that Day man will say: "Where (is the refuge) to flee?")(11. No! There is no refuge!)(12. Unto your Lord will be the place of rest that Day.)(13. On that Day man will be informed of what he sent forward, and what he left behind.)(14. Nay! Man will be well informed about himself,)(15. Though he may put forth his excuses.)
+
+The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers
+
+It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation. Here, what is being sworn about is the affirmation of the final abode and the refutation against the claim of the ignorant that the resurrection of bodies will not occur. This is why Allah says,
+
+لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ - وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(Nay! I swear by the Day of Resurrection. And nay! I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. Concerning the Day of Judgement, it is well known what it is. In reference to An-Nafs Al-Lawwamah, Qurrah bin Khalid reported from Al-Hasan Al-Basri that he said about this Ayah, "Verily, by Allah, we think that every believer blames himself. He says (questioning himself), 'What did I intend by my statement? What did I intend by my eating? What did I intend in what I said to myself?' However, the sinner proceeds ahead and he does not blame himself."
+
+Ibn Jarir recorded from Sa'id bin Jubayr that he said concerning Allah's statement,
+
+وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+
+(And nay! I swear by An-Nafs Al-Lawwamah) "He criticizes himself in good and bad." Similar has been reported from 'Ikrimah. Ibn Abi Najih reported from Mujahid: "He is sorry for what he missed (of good deeds) and he blames himself for it." Allah said;
+
+أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ
+
+(Does man think that We shall not assemble his bones?) meaning, 'on the Day of Judgement does he think that We are not able to return his bones and gather them from their various places?'
+
+بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ
+
+(Yes, We are able to put together in perfect order the tips of his fingers.) meaning, 'does man think that We will not gather his bones? Surely, We will gather them and We are quite able to put together his fingertips. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had. We could make his Banan, which are the tips of his fingers, all equal (in length).' Concerning Allah's statement,
+
+بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ
+
+(Nay! Man desires to break out ahead of himself.) Sa'id reported from Ibn 'Abbas that he said, "This means to proceed forward." Mujahid said about,
+
+لِيَفْجُرَ أَمَامَهُ
+
+(to break out ahead of himself.) "This means that he wants to proceed ahead following his own whims." 'Ali bin Abi Talhah reported from Ibn 'Abbas that he said, "This refers to the disbeliever who denies the Day of Reckoning." Ibn Zayd said the same thing. Thus, Allah says after this,
+
+يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ
+
+(He asks: "When will be this Day of Resurrection?") meaning, he says when will the Day of Judgement be? His question is only a question of denying its occurrence, and rejecting its existence. This is as Allah says,
+
+وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ - قُلْ لَكُمْ مِيعَادُ يَوْمٍ لَا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ
+
+(And they say: "When is this promise if you are truthful?" Say: "The appointment to you is for a Day, which you cannot put back for an hour nor put forward.")(34:29-30) Here Allah says,
+
+فَإِذَا بَرِقَ الْبَصَرُ
+
+(So, when Bariqa the sight.) Abu 'Amr bin Al-'Ala' recited this Ayah as Bariqa with a Kasrah under the letter Ra, which means to be diminished. That which he (Abu 'Amr) has said resembles the statement of Allah,
+
+لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ
+
+(Their gaze returning not towards them.)(14:43) meaning, they will be looking this way and that way in horror. Their gaze will not be able to rest upon anything due to the severity of the terror on that Day.
+
+Others recited it as Baraqa with a Fathah over the letter Ra, and its meaning is close to the first recitation (Bariqa). The intent here is that the eyes will be dazzled, humbled, diminished, and humiliated on the Day of Judgement due to the severity of the horrors and the greatness of the matters that they will witness on that Day. Concerning Allah's statement,
+
+وَخَسَفَ الْقَمَرُ
+
+(And the moon will be eclipsed.) meaning, its light will go away.
+
+وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+
+(And the sun and moon will be joined together.) Mujahid said, "They will be rolled up." In explaining this Ayah, Ibn Zayd recited the following Ayat,
+
+إِذَا الشَّمْسُ كُوِّرَتْ - وَإِذَا النُّجُومُ انْكَدَرَتْ
+
+(When the sun is wound round and its light is lost and is overthrown, and when the stars fall.)(81:1,2)
+
+It has been reported from Ibn Mas'ud that he recited the Ayah as,
+
+(وَجُمِعَ بَيْنَ الشَّمْسِ وَالْقَمَرِ)
+
+(and the sun and the moon will be joined between each other.) Allah said,
+
+يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+
+(On that Day man will say:"Where (is the refuge) to flee?") meaning, the human will see these horrors on the Day of Judgement and he will want to flee. He will say, "Where (is the place) to flee to?" This means, where is the escape or refuge? Allah then says,
+
+كَلَّا لَا وَزَرَ - إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(No! There is no refuge! Unto your Lord will be the place of rest that Day.) Ibn Mas'ud, Ibn 'Abbas, Sa'id bin Jubayr and several others of the Salaf said, "There will be no salvation." This Ayah is similar to Allah's statement,
+
+مَا لَكُمْ مِنْ مَلْجَإٍ يَوْمَئِذٍ وَمَا لَكُمْ مِنْ نَكِيرٍ
+
+(You will have no refuge on that Day nor there will be for you any denying.)(42:47) meaning, 'there will be no place for you to hide.' This is like what Allah says here,
+
+لَا وَزَرَ
+
+(There is no refuge.) meaning, 'there will be no place for you to seek shelter.' Thus, Allah says,
+
+إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+
+(Unto your Lord will be the place of rest that Day.) meaning, the place of return and the final destination.
+
+The Deeds of Man will be placed before Him on the Day of Judgement
+
+Then Allah says,
+
+يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+
+(On that Day man will be informed of what he sent forward, and what he left behind.) meaning, he will be informed of all of his deeds, the old of them and the recent of them, the first of them and the last of them, the small of them and the large of them. This is as Allah says,
+
+وَوَجَدُوا مَا عَمِلُوا حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
+
+(And they will find all that they did, placed before them, and your Lord treats no one with injustice.)(18:49) Likewise, Allah says here,
+
+بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ - وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+
+(Nay! Man will be well informed about himself, though he may put forth his excuses.) meaning, he will be a witness against himself, knowing full well what he did, even though he will try to make excuses and deny it. This is as Allah says,
+
+اقْرَأْ كِتَابَكَ كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا
+
+((It will be said to him): "Read your book. You are sufficient as a reckoner against yourself this Day.")(17:14) 'Ali bin Abi Talhah reported that Ibn 'Abbas said,
+
+بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ
+
+(Nay! Man will be well informed about himself.) "His hearing, his sight, his two hands, his two legs and his limbs."
+
+Qatadah said, "This means he is a witness against himself." In another narration from Qatadah he said, "By Allah! If you wish to see him, you would see him as someone who sees the shortcomings of the people and their sins, yet he is heedless of his own sins." It used to be said, "Verily, it is written in the Injil: 'O Son of Adam, do you see the small splinters in the eye of your brother and disregard the tree stump that is in your eye, so you do not see it?'" Mujahid said,
+
+وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This means, even though he argues in defense of it, he is a witness against it." Qatadah said,
+
+وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "Even though he will try to make false excuses on that Day, they will not be accepted from him." As-Suddi said,
+
+وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This means his argument." This is as Allah says,
+
+ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(There will then be no Fitnah for them but to say: "By Allah, our Lord, we were not those who joined others in worship with Allah.")(6:23) Allah also says,
+
+يَوْمَ يَبْعَثُهُمُ اللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُ كَمَا يَحْلِفُونَ لَكُمْ ۖ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَيْءٍ ۚ أَلَا إِنَّهُمْ هُمُ الْكَاذِبُونَ
+
+(On the Day when Allah will resurrect them all together; then they will swear to Him as they swear to you (O Muslims). And they think that they have something. Verily, they are liars!)(58:18) Al-'Awfi reported from Ibn 'Abbas:
+
+وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+
+(Though he may put forth his excuses.) "This is apologizing. Haven't you heard that Allah said,
+
+لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ
+
+(The Day when their excuses will be of no profit to wrongdoers.)(40:52) and He says,
+
+وَأَلْقَوْا إِلَى اللَّهِ يَوْمَئِذٍ السَّلَمَ ۖ
+
+(And they will offer submision to Allah on that Day.)(16:87) and He says,
+
+فَأَلْقَوُا السَّلَمَ مَا كُنَّا نَعْمَلُ مِنْ سُوءٍ
+
+(Then they will (falsely) submit: "We used not to do any evil.")(16:28) and their statement,
+
+وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ
+
+(By Allah, our Lord, we were not those who joined others in worship with Allah.)(6:23)"
+
+## Maarif ul Quran
+
+يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَ (Man will be informed of what he sent ahead, and what he left behind....75:13). Sayyidna ` Abdullah Ibn Masud and Ibn ` Abbas are reported to have said that 'what he sent ahead' refers to the good deeds he has sent forth before his death. The words 'what he left behind' refers to the good or bad, useful or harmful custom he invented and left behind which people follow. He will continue to receive its reward or punishment. Qatadah said that 'what he sent ahead' refers to a good deed he did in his lifetime; and 'what he left behind' refers to a good deed he could have done but did not do and wasted his time or opportunity.
+
+## Personal Reflections

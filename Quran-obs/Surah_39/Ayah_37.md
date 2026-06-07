@@ -1,0 +1,151 @@
+---
+arabic_ayat: وَمَنۡ يَّهۡدِ اللّٰهُ فَمَا لَهٗ مِنۡ مُّضِلٍّ​ ؕ اَ لَيۡسَ اللّٰهُ
+  بِعَزِيۡزٍ ذِى انتِقَامٍ‏
+sentence_translation: And whoever Allah guides, none can lead astray. Is Allah not
+  Almighty, capable of punishment?
+word_by_word:
+  1:
+    arabic: وَمَنۡ
+    translation: And whoever
+    transliteration: waman
+  2:
+    arabic: يَّهۡدِ
+    translation: Allah guides
+    transliteration: yahdi
+  3:
+    arabic: اللّٰهُ
+    translation: Allah guides
+    transliteration: l-lahu
+  4:
+    arabic: فَمَا
+    translation: then not
+    transliteration: famā
+  5:
+    arabic: لَهٗ
+    translation: for him
+    transliteration: lahu
+  6:
+    arabic: مِنۡ
+    translation: any
+    transliteration: min
+  7:
+    arabic: مُّضِلٍّ​ ؕ
+    translation: misleader
+    transliteration: muḍillin
+  8:
+    arabic: اَ لَيۡسَ
+    translation: Is not
+    transliteration: alaysa
+  9:
+    arabic: اللّٰهُ
+    translation: Allah
+    transliteration: l-lahu
+  10:
+    arabic: بِعَزِيۡزٍ
+    translation: All-Mighty
+    transliteration: biʿazīzin
+  11:
+    arabic: ذِى
+    translation: All-Able of retribution
+    transliteration: dhī
+  12:
+    arabic: انتِقَامٍ‏
+    translation: All-Able of retribution
+    transliteration: intiqāmin
+---
+
+## Context
+
+To understand **The Troops** (Az-Zumar) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
+
+In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event. The disbelievers had threatened the Holy Prophet ﷺ and his noble Sahabah by saying that, should they act irreverently against their idols, they would never escape the curse of these idols, something very lethal to face. In reply, they were told: Is Allah not sufficient for His slave?
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Is not Allah Sufficient for His servant? In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?).
+
+## Tafsir Ibn Kathir
+
+Is not Allah Sufficient for His servant? Yet they try to frighten you with those besides Him! And whom Allah sends astray, for him there will be no guide (36)And whomsoever Allah guides, for him there will be no misleader. Is not Allah Almighty, Possessor of Retribution (37)And verily, if you ask them: "Who created the heavens and the earth?" Surely, they will say: "Allah." Say: "Tell me then, the things that you invoke besides Allah – if Allah intended some harm for me, could they remove His harm? Or if He intended some mercy for me, could they withhold His mercy?" Say: "Sufficient for me is Allah; in Him those who trust must put their trust. (38)Say: "O My people! Work according to your way, I am working. Then you will come to know (39)"To whom comes a disgracing torment, and on whom descends an everlasting torment. (40)
+
+Allah is Sufficient for His Servant
+
+Allah says:
+
+أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ۖ
+
+(Is not Allah Sufficient for His servant?) Some of them read it "His servants." It means that Allah is Sufficient for the one who worships Him and relies upon Him.
+
+وَيُخَوِّفُونَكَ بِالَّذِينَ مِنْ دُونِهِ ۚ
+
+(Yet they try to frighten you with those besides Him!) means, the idolators tried to scare the Messenger of Allah ﷺ with their idols and gods which they called upon besides Allah out of ignorance and misguidance. Allah says:
+
+وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ - وَمَنْ يَهْدِ اللَّهُ فَمَا لَهُ مِنْ مُضِلٍّ ۗ أَلَيْسَ اللَّهُ بِعَزِيزٍ ذِي انْتِقَامٍ
+
+(And whom Allah sends astray, for him there will be no guide. And whomsoever Allah guides, for him there will be no misleader. Is not Allah Almighty, Possessor of Retribution?) meaning, whoever relies on Him and turns to Him, will never be forsaken, for He is the Almighty Who cannot be overwhelmed by another, and there is none more severe than Him in exacting retribution on those who disbelieve in Him, associate others in worship with Him and resist His Messenger ﷺ.
+
+The Idolators admit that Allah is the Sole Creator because Their gods are incapable
+
+وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ ۚ
+
+(And verily, if you ask them: "Who created the heavens and the earth?" Surely, they will say: "Allah.") means, the idolators used to recognize that Allah was the Creator of all things, but despite that they still worshipped others besides Him, others who had no power to bring benefit or cause harm. Allah said:
+
+قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ ۚ
+
+(Say: "Tell me then, the things that you invoke besides Allah – if Allah intended some harm for me, could they remove His harm? Or if He (Allah) intended some mercy for me, could they withhold His mercy?") meaning, they cannot do any of that at all. Here Ibn Abi Hatim recorded a narration from Ibn 'Abbas, may Allah be pleased with him, attributing it to the Prophet ﷺ:
+
+احْفَظِ اللهَ يَحْفَظْكَ، احْفَظِ اللهَ تَجِدْهُ تُجَاهَكَ، تَعَرَّفْ إِلَى اللهِ فِي الرَّخَاءِ يَعْرِفْكَ فِي الشِّدَّةِ، إِذَا سَأَلْتَ فَاسْأَلِ اللهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللهِ، وَاعْلَمْ أَنَّ الْأُمَّةَ لَوِ اجْتَمَعُوا عَلىٰ أَنْ يَضُرُّوكَ بِشَيْءٍ لَمْ يَكْتُبْهُ اللهُ عَلَيْكَ لَمْ يَضُرُّوكَ، وَلَوِ اجْتَمَعُوا عَلىٰ أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَكْتُبْهُ اللهُ لَكَ لَمْ يَنْفَعُوكَ، جَفَّتِ الصُّحُفُ وَرُفِعَتِ الْأَقْلَامُ، وَاعْمَلْ للهِ بِالشُّكْرِ فِي الْيَقِينِ.وَاعْلَمْ أَنَّ فِي الصَّبْرِ عَلىٰ مَا تَكْرَهُ خَيْرًا كَثِيرًا، وَأَنَّ النَّصْرَ مَعَ الصَّبْرِ، وَأَنَّ الْفَرَجَ مَعَ الْكَرْبِ، وَأَنَّ مَعَ الْعُسْرِ يُسْرًا
+
+(Be mindful of Allah and He will protect you; be mindful of Allah and you will find Him ever with you. Turn to Allah in times of ease and He will turn to you in times of difficulty. If you ask anyone for anything, then ask Allah; if you seek help from anyone, then seek help from Allah. Know that even if the entire nation were to come together to do you some harm that Allah has not decreed for you, they will never be able to harm you, and if they were to come together to do you some good that Allah has not decreed for you, they will never be able to do that. The pages have dried and the pens have been lifted. Strive for the sake of Allah with thankfulness and firm conviction, and know that in patiently persevering with regard to something that you dislike there is much goodness. Victory comes with patience, a way out comes from difficulty and with hardship comes ease.)
+
+قُلْ حَسْبِيَ اللَّهُ ۖ
+
+(Say: "Sufficient for me is Allah...") means, 'Allah is enough for me.'
+
+عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ
+
+(In Him I put my trust, and let all those that trust, put their trust in Him.)[12: 67] This is like what Hud, peace be upon him, said to his people:
+
+إِنْ نَقُولُ إِلَّا اعْتَرَاكَ بَعْضُ آلِهَتِنَا بِسُوءٍ ۗ قَالَ إِنِّي أُشْهِدُ اللَّهَ وَاشْهَدُوا أَنِّي بَرِيءٌ مِمَّا تُشْرِكُونَ - مِنْ دُونِهِ ۖ فَكِيدُونِي جَمِيعًا ثُمَّ لَا تُنْظِرُونِ - إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ رَبِّي وَرَبِّكُمْ ۚ مَا مِنْ دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا ۚ إِنَّ رَبِّي عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+
+("All that we say is that some of our gods have seized you with evil. " He said: "I call Allah to witness and bear you witness that I am free from that which you ascribe as partners in worship, with Him. So plot against me, all of you, and give me no respite. I put my trust in Allah, my Lord and your Lord! There is not a moving creature but He has the grasp of its forelock. Verily, my Lord is on the straight path.")(11:54-56).
+
+قُلْ يَا قَوْمِ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ
+
+(Say: "O My people! Work according to your way...") This is a threat and a warning.
+
+إِنِّي عَامِلٌ
+
+(I am working) means, 'according to my way.'
+
+فَسَوْفَ تَعْلَمُونَ
+
+(Then you will come to know) means, you will learn the consequences.
+
+مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ
+
+(To whom comes a disgracing torment,) means, in this world,
+
+وَيَحِلُّ عَلَيْهِ عَذَابٌ مُقِيمٌ
+
+(and on whom descends an everlasting torment.) means, ongoing and eternal, with no escape, which will come on the Day of Resurrection. We seek refuge with Allah from that.
+
+## Maarif ul Quran
+
+Commentary
+
+In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event. The disbelievers had threatened the Holy Prophet ﷺ and his noble Sahabah by saying that, should they act irreverently against their idols, they would never escape the curse of these idols, something very lethal to face. In reply, they were told: Is Allah not sufficient for His slave?
+
+Therefore, some commentators have taken: عَبْدَه (abdahu: His slave) here to mean a particular slave of Allah, that is, the Holy Prophet ﷺ . Maulana Ashraf ` Ali Thanavi (رح) ، a summary of whose Tafsir appears in the original edition of Ma’ ariful-Qur'an, has also opted for this very Tafsir. Then there are other commentators who have taken abd or slave in its general sense. Another qira'ah (rendition) of this verse as: عِبَادہ (` ibadihi: His slaves) supports this position. And as for the subject itself, it is, after all, general in the sense that Allah Ta’ ala is sufficient for everyone among His slaves.
+
+A lesson, and a good counsel
+
+In verse 36, it was said: وَيُخَوِّفُونَكَ بِالَّذِينَ مِن دُونِهِ (And they are frightening you of those [ false gods whom they worship ] other than Him.), that is, 'the disbelievers frighten you with the displeasure of their false objects of worship'. Readers of this verse generally tend to pass by it thinking that it is talking about a particular event that relates to the threats of disbelievers and to the blessed person of the Holy Prophet t, hence they would not exert enough to find out the guidance that it has for us. Although, it is an open fact that anyone who threatens a Muslim on the ground that, should he not do such and such haram act or sin, his superiors at whose mercy he is, will be displeased with him, and may even hurt him is also included under this verse, even if the person giving a threat is a Muslim, and the person he is being threatened of is also no one else but a Muslim, virtually Muslims on both sides. And these are terrible times for all. This happens all over the world, in most jobs they do. They have to face a dilemma. Are they willing and ready to contravene the Divine laws (they are bound with)? Or else, are they prepared to become targets of the wrath and retribution of their superior officers? This verse gives a guideline good enough for all of them: Is Allah Ta’ ala not sufficient to protect you? Here you are. You make a resolve that you will abstain from committing sins exclusively for the sake of Allah. Then you simply do not care about any officer, any authority asking you to act counter to Divine laws. If you do just that, the help and support of Allah Taala shall be with you. The worst that can happen is that you may lose that job. So, what? Allah Ta’ ala will make some other arrangement for your sustenance. And for that matter, it is typical of a believer that he himself keeps trying to find a suitable job elsewhere after which he is placed in a position of leaving it immediately.
+
+## Personal Reflections

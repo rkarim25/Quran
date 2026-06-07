@@ -1,0 +1,257 @@
+---
+arabic_ayat: فَاٰتٰٮهُمُ اللّٰهُ ثَوَابَ الدُّنۡيَا وَحُسۡنَ ثَوَابِ الۡاٰخِرَةِ​ ؕ
+  وَاللّٰهُ يُحِبُّ الۡمُحۡسِنِيۡنَ‏
+sentence_translation: So Allah gave them the reward of this world and the excellent
+  reward of the Hereafter. For Allah loves the good-doers.
+word_by_word:
+  1:
+    arabic: فَاٰتٰٮهُمُ
+    translation: So gave them
+    transliteration: faātāhumu
+  2:
+    arabic: اللّٰهُ
+    translation: Allah
+    transliteration: l-lahu
+  3:
+    arabic: ثَوَابَ
+    translation: reward
+    transliteration: thawāba
+  4:
+    arabic: الدُّنۡيَا
+    translation: (in) the world
+    transliteration: l-dun'yā
+  5:
+    arabic: وَحُسۡنَ
+    translation: and good
+    transliteration: waḥus'na
+  6:
+    arabic: ثَوَابِ
+    translation: reward
+    transliteration: thawābi
+  7:
+    arabic: الۡاٰخِرَةِ​ ؕ
+    translation: (in) the Hereafter
+    transliteration: l-ākhirati
+  8:
+    arabic: وَاللّٰهُ
+    translation: And Allah
+    transliteration: wal-lahu
+  9:
+    arabic: يُحِبُّ
+    translation: loves
+    transliteration: yuḥibbu
+  10:
+    arabic: الۡمُحۡسِنِيۡنَ‏
+    translation: the good-doers
+    transliteration: l-muḥ'sinīna
+---
+
+## Context
+
+To understand **Family of Imran** (Ali 'Imran) 148, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+
+Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
+
+The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
+
+Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
+
+That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
+
+## Tafsir Summary
+
+Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. Connected with previous verses where Muslims were admonished for some of their shortcomings during the battle of Uhud, the present verses cite examples set by men of Allah from earlier communities showing how steadfast they were on the battlefield, something which should be emulated by the present addressees.
+
+## Tafsir Ibn Kathir
+
+Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. If he dies or is killed, will you then turn back on your heels? And he who turns back on his heels, not the least harm will he do to Allah; and Allah will reward the grateful (144)And no person can ever die except by Allah's leave and at an appointed term. And whoever desires a reward in the world, We shall give him of it; and whoever desires a reward in the Hereafter, We shall give him thereof. And We shall reward the grateful (145)And many a Prophet fought and along with him many Ribbiyyun. But they never lost heart for that which befall them in Allah's way, nor did nor they weaken nor degrade themselves. And Allah loves the patient (146)And they said nothing but: "Our Lord! Forgive us our sins and our transgressions, establish our feet firmly, and give us victory over the disbelieving folk. (147)So Allah gave them the reward of this world, and the excellent reward of the Hereafter. And Allah loves the good-doers (148)
+
+The Rumor that the Prophet (ﷺ) was Killed at Uhud
+
+When Muslims suffered defeat in battle at Uhud and some of them were killed, Shaytan shouted, "Muhammad has been killed." Ibn Qami'ah went back to the idolators and claimed, "I have killed Muhammad." Some Muslims believed this rumor and thought that the Messenger of Allah ﷺ had been killed, claiming that this could happen, for Allah narrated that this occurred to many Prophets before. Therefore, the Muslims' resolve was weakened and they did not actively participate in battle. This is why Allah sent down to His Messenger His statement,
+
+وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
+
+(Muhammad is no more than a Messenger, and indeed Messengers have passed away before him.) he is to deliver Allah's Message and may be killed in the process, just as what happened to many Prophets before. Ibn Abi Najih said that his father said that a man from the Muhajirin passed by an Ansari man who was bleeding (during Uhud) and said to him, "O fellow! Did you know that Muhammad was killed?" The Ansari man said, "Even if Muhammad was killed, he has indeed conveyed the Message. Therefore, defend your religion." The Ayah,
+
+وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ
+
+(Muhammad is no more than a Messenger, and indeed (many) Messengers have passed away before him), was revealed. This story was collected by Al-Hafiz Abu Bakr Al-Bayhaqi in Dala'il An-Nubuwwah.
+
+Allah said next, while chastising those who became weak,
+
+أَفإِيْن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ
+
+(If he dies or is killed, will you then turn back on your heels?), become disbelievers,
+
+وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ اللَّهَ شَيْئًا وَسَيَجْزِي اللَّهُ الشَّاكِرِينَ
+
+(And he who turns back on his heels, not the least harm will he do to Allah; and Allah will give reward to those who are grateful), those who obeyed Allah, defended His religion and followed His Messenger ﷺ whether he was alive or dead. The Sahih, Musnad and Sunan collections gathered various chains of narration stating that Abu Bakr recited this Ayah when the Messenger of Allah ﷺ died. Al-Bukhari recorded that 'A'ishah said that Abu Bakr came riding his horse from his dwelling in As-Sunh. He dismounted, entered the Masjid and did not speak to anyone until he came to her [in her room] and went directly to the Prophet, who was covered with a marked blanket. Abu Bakr uncovered his face, knelt down and kissed him, then started weeping and proclaimed, "My father and my mother be sacrificed for you! Allah will not combine two deaths on you. You have died the death, which was written for you."
+
+Ibn 'Abbas narrated that Abu Bakr then came out, while 'Umar was addressing the people, and Abu Bakr told him to sit down but 'Umar refused, and the people attended to Abu Bakr and left 'Umar. Abu Bakr said, "To proceed; whoever among you worshipped Muhammad, then Muhammad is dead, but whoever worshipped Allah, Allah is alive and will never die. Allah said,
+
+وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ أَفَإِن مَّاتَ أَوْ قُتِلَ انقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ اللَّهَ شَيْئًا وَسَيَجْزِي اللَّهُ الشَّاكِرِينَ
+
+(Muhammad is no more than a Messenger and indeed (many) Messengers have passed away before him. If he dies or is killed, will you then turn back on your heels? And he who turns back on his heels, not the least harm will he do to Allah; and Allah will reward the grateful.)"
+
+The narrator added, "By Allah, it was as if the people never knew that Allah had revealed this verse before until Abu Bakr recited it, and then whoever heard it, started reciting it." Sa'id bin Al-Musayyib said that 'Umar said, "By Allah! When I heard Abu Bakr recite this Ayah, my feet could not hold me, and I fell to the ground."
+
+Allah said,
+
+وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا مُّؤَجَّلًا
+
+(And no person can ever die except by Allah's leave and at an appointed term.)[3:145] meaning, no one dies except by Allah's decision, after he has finished the term that Allah has destined for him. This is why Allah said,
+
+كِتَابًا مُّؤَجَّلًا
+
+(at an appointed term) which is similar to His statements,
+
+وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِ إِلَّا فِي كِتَابٍ
+
+(And no aged man is granted a length of life nor is a part cut off from his life, but it is in a Book)[35:11], and,
+
+هُوَ الَّذِي خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُ
+
+(He it is Who has created you from clay, and then has decreed a (stated) term (for you to die). And there is with Him another determined term (for you to be resurrected))[6:2].
+
+This Ayah [3:145] encourages cowards to participate in battle; for doing so, or avoiding battle neither decreases, nor increases the life term. Ibn Abi Hatim narrated that, Habib bin Suhban said that a Muslim man, Hujr bin 'Adi, said in a battle, "What prevents you from crossing this river (the Euphrates) to the enemy?
+
+وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا مُّؤَجَّلًا
+
+(And no person can ever die except by Allah's leave and at an appointed term?)" He then crossed the river riding his horse, and when he did, the Muslims followed him. When the enemy saw them, they started shouting, "Diwan (Persian; crazy)," and they ran away.
+
+Allah said next,
+
+وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَن يُرِدْ ثَوَابَ الْآخِرَةِ نُؤْتِهِ مِنْهَا
+
+(And whoever desires a reward in the world, We shall give him of it; and whoever desires a reward in the Hereafter, We shall give him thereof).
+
+Therefore, the Ayah proclaims, whoever works for the sake of this life, will only earn what Allah decides he will earn. However, he will not have a share in the Hereafter. Whoever works for the sake of the Hereafter, Allah will give him a share in the Hereafter, along with what He decides for him in this life. In similar statements, Allah said,
+
+مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ نَزِدْ لَهُ فِي حَرْثِهِ وَمَن كَانَ يُرِيدُ حَرْثَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَا لَهُ فِي الْآخِرَةِ مِن نَّصِيبٍ
+
+(Whosoever desires (by his deeds) the reward of the Hereafter, We give him increase in his reward, and whosoever desires the reward of this world (by his deeds), We give him thereof (what is decreed for him), and he has no portion in the Hereafter.)[42:20], and,
+
+مَّن كَانَ يُرِيدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُ جَهَنَّمَ يَصْلَاهَا مَذْمُومًا مَّدْحُورًا - وَمَنْ أَرَادَ الْآخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ كَانَ سَعْيُهُم مَّشْكُورًا
+
+(Whoever desires the quick-passing (transitory enjoyment of this world), We readily grant him what We will for whom We like. Then, afterwards, We have appointed for him Hell; he will burn therein disgraced and despised. And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated)[17:18-19].
+
+In this Ayah [3:145], Allah said,
+
+وَسَنَجْزِي الشَّاكِرِينَ
+
+(And We shall reward the grateful.) meaning, We shall award them with Our favor and mercy in this life and the Hereafter, according to the degree of their appreciation [of Allah] and their good deeds.
+
+Allah then comforts the believers because of what they suffered in Uhud,
+
+وَكَأَيِّن مِّن نَّبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ
+
+(And many a Prophet fought and along with him many Ribbiyyun.)
+
+It was said that this Ayah means that many Prophets and their companions were killed in earlier times, as is the view chosen by Ibn Jarir. It was also said that the Ayah means that many Prophets witnessed their companions' death before their eyes. However, Ibn Ishaq mentioned another explanation in his Sirah, saying that this Ayah means, "Many a Prophet was killed, and he had many companions whose resolve did not weaken after their Prophet died, and they did not become feeble in the face of the enemy. What they suffered in Jihad in Allah's cause and for the sake of their religion did not make them lose heart. This is patience,
+
+وَاللَّهُ يُحِبُّ الصَّابِرِينَ
+
+(and Allah loves the patient.)" As-Suhayli agreed with this explanation and defended it vigorously. This view is supported by Allah saying;
+
+مَعَهُ رِبِّيُّونَ كَثِيرٌ
+
+(And along with him many Ribbiyyun).
+
+In his book about the battles, Al-Amawi mentioned only this explanation for the Ayah. Sufyan Ath-Thawri reported that, Ibn Mas'ud said that,
+
+رِبِّيُّونَ كَثِيرٌ
+
+(many Ribbiyyun) means, thousands. Ibn 'Abbas, Mujahid, Sa'id bin Jubayr, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Ar-Rabi' and 'Ata' Al-Khurasani said that the word Ribbiyyun means, 'large bands'. 'Abdur-Razzaq narrated that Ma'mmar said that Al-Hasan said that,
+
+رِبِّيُّونَ كَثِيرٌ
+
+(many Ribbiyyun) means, many scholars. He also said that it means patient and pious scholars.
+
+فَمَا وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا
+
+(But they never lost heart for that which befell them in Allah's way, nor did they weaken nor degrade themselves.)
+
+Qatadah and Ar-Rabi' bin Anas said that,
+
+وَمَا ضَعُفُوا
+
+(nor did they weaken), means, after their Prophet was killed.
+
+وَمَا اسْتَكَانُوا
+
+(nor degrade themselves), by reverting from the true guidance and religion. Rather, they fought on the path that Allah's Prophet fought on until they met Allah. Ibn 'Abbas said that,
+
+وَمَا اسْتَكَانُوا
+
+(nor degrade themselves) means, nor became humiliated, while As-Suddi and Ibn Zayd said that it means, they did not give in to the enemy.
+
+وَاللَّهُ يُحِبُّ الصَّابِرِينَ - وَمَا كَانَ قَوْلَهُمْ إِلَّا أَن قَالُوا رَبَّنَا اغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِي أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
+
+(And Allah loves the patient. And they said nothing but: "Our Lord! Forgive us our sins and our transgressions, establish our feet firmly, and give us victory over the disbelieving folk.")[3:146-147], and this was the statement that they kept repeating. Therefore,
+
+فَآتَاهُمُ اللَّهُ ثَوَابَ الدُّنْيَا
+
+(So Allah gave them the reward of this world) victory, triumph and the good end,
+
+وَحُسْنَ ثَوَابِ الْآخِرَةِ
+
+(and the excellent reward of the Hereafter) added to the gains in this life,
+
+وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ
+
+(And Allah loves the good-doers).
+
+## Maarif ul Quran
+
+Connected with previous verses where Muslims were admonished for some of their shortcomings during the battle of Uhud, the present verses cite examples set by men of Allah from earlier communities showing how steadfast they were on the battlefield, something which should be emulated by the present addressees.
+
+The explanation of some words:
+
+1. رِ‌بِّيُّونَ Ribbiyun): a derivation from Rabb (رَبّ ) like Rabbani (رَبّانی) meaning 'of the رَبّ Rabb or Lord' which has been rendered as men of Allah in the present translation. According to Ruh al-Ma‘ani, here the use of the vowel sound 'i' in place of 'a' is irregular. Some commentators take رِ‌بِّيُّونَ 'Ribbiyun': to mean 'many groups'. In their view, this is derived from the word, 'Ribbah' (رَبّہ) which means 'the group'. Now, as to who is meant here by رِ‌بِّيُّونَ 'Ribbiyun': (men of Allah), it has been reported from Sayyidna ` Abdullah ibn ` Abbas ؓ and Iiasan al-Basri that this refers to ` ulama' (religious scholars) and 'fuqaha' (juriconsults). (Ruh a1-Ma` ani).
+
+2. 'Istakanu' (اسْتَكَانُوا) has been derived from 'istakanah' (اسْتَكَانُہ) and means 'to be subdued and rendered weak and immobile' (Baydawi).
+
+3. 'Wahanu' (وَهَنُوا) has been derived from 'wahn' (' وَهنُ ) and means 'to lose heart under suffering' or 'wilt under pressure.'
+
+Commentary
+
+After citing the example of men of Allah fighting along with previous prophets who remained undeterred and un-weakened against, heavy odds, the Holy Qur'an mentions another great quality of the men of Allah who, inspite of their own sacrificing conduct, kept praying to Allah Almighty to:
+
+1. Forgive their past sins,
+
+2. Condone any shortcomings that may have crept in during their present Jihad efforts,
+
+3. Enable them to remain steadfast and
+
+4. Make them prevail over enemies.
+
+These prayers carry some important guidelines for Muslims by implication.
+
+Never be proud of a good deed
+
+A true Muslim who knows things as they are is not supposed to wax proud of what he accomplishes by way of a good deed. No matter how great the accomplishment or how exacting the struggle in the way of Allah, he just does not have the, right to pat himself on his back, for his very accomplishment of a good deed, in all reality, is the direct outcome of nothing but the grace and mercy of Allah Almighty. In fact, no good deed can even issue forth without it. It appears in a hadith:
+
+فو اللہ لو لا اللہ ما اھتدینا
+
+و لا تصدقنا ولا صلینا
+
+Had it not been for the grace and mercy of Allah, we would have not received guidance in the straight path, nor we would have been able to pay zakah and perform salah.
+
+Seek Forgiveness from Allah under all conditions:
+
+As for a good deed one gets the ability to perform, the truth lies in realizing that it is not within one's control to perform that deed exactly in accordance with the demands of the supreme magnificence of the One who holds the reins of the Creation and Command in His hands. No matter how hard one tries to do things correctly but falling short is inevitable, especially when it comes to doing things as is the due and right of Allah. Therefore, the seeking of forgiveness is also necessary during the very course of such a deed.
+
+Pray for steadfastness and consistency in good deeds:
+
+It is not possible to predict the continuity of a good deed. Who can say for sure that he will be given the ability to go on doing his good deed in the future also just as he is doing it now? All this is a matter of what is known as Taufiq, the God-given ability to perform what is good. Therefore, we should repent over any shortcomings in what we are doing in the present and pray that Allah makes us steadfast and persistent in the future. For a true Muslim, this prayer should become his second nature.
+
+It should be noted that the prayer for the forgiveness of past sins, appearing first, is a subtle hint to the fact that pain caused or defeat suffered in this mortal life is, more than often, a reflection of one's past sins which can be cured through repentance and seeking of forgiveness.
+
+The last verse promises a good reward for the men of Allah in this world as well as in the other. It means that, right here in this mortal world, Allah Almighty gives them ultimate supremacy over the enemies and grants them success in their mission. Then comes the reward in the Hereafter. That reward is certainly the real one, an ideal state of peace and happiness which will never fade out. This factor has been pointed out by the addition of the word حُسن : (husn: beauty) before 'return in the Hereafter' which makes it read:
+
+وَحُسْنَ ثَوَابِ الْآخِرَ‌ةِ ۗ
+
+And the better reward in the Hereafter. (148)
+
+## Personal Reflections
