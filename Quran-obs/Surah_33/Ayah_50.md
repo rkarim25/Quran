@@ -263,18 +263,6 @@ word_by_word:
     transliteration: raḥīman
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-In verses 50-52 a special regulation of marriage has been laid down for the Holy Prophet, which points out that he is an exception to the several restrictions that have been imposed on the other Muslims in regard to marital life.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Prophet! These verses contain seven injunctions about marriage and divorce that are specific to the Holy Prophet t and these specifics signify his distinctive eminence and his special honor.
@@ -404,3 +392,5 @@ It means that the above mentioned rules are exclusive for the Holy Prophet ﷺ �
 Towards the end, it is said, لِكَيْلَا يَكُونَ عَلَيْكَ حَرَ‌جٌ (so that there should be no difficulty for you - 50). It means that these special injunctions in the matter of nikah for the Holy Prophet ﷺ ، were prescribed so that he does not face any difficulty. As for the restrictions and conditions imposed on the Holy Prophet ﷺ and not on other Muslims which appear to be difficult, but keeping in view the expedience and wisdom under which the restrictions were placed, those restrictions were, in fact, to remove the spiritual discomfort and embarrassment. So far five rules of marriage have been enunciated which have some exclusiveness for the Holy Prophet ﷺ Further on two rules have been stated which are related to the above five rules.
 
 ## Personal Reflections
+
+

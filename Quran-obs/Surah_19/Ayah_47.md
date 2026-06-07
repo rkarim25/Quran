@@ -46,18 +46,6 @@ word_by_word:
     transliteration: ḥafiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He (the father) said: "Do you revile my gods, O Ibrahim? سَلَامٌ عَلَيْكَ (Peace on you) Here the word (Peace) may carry two meanings.
@@ -197,3 +185,5 @@ This is more clear in Surah Taubah in the verse following the verse.
 This shows that Sayyidna Ibrahim's (علیہ السلام) promise to his father to invoke Allah's Mercy for him was made before the latter's firm adherence to infidelity, and his hostility to Allah became clearly evident. When the position was no longer in doubt Sayyidna Ibrahim (علیہ السلام) announced his dissociation from his father.
 
 ## Personal Reflections
+
+

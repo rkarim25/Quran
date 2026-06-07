@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-ṣudūri
 ---
 
-## Context
-
-To understand **The Mutual Disillusion** (At-Taghabun) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Taghabun is a **Madinah** surah—revealed as the 108th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Muqatil and Kalbi say that it was partly revealed at Makkah and partly at Madinah. Hadrat Abdullah bin Abbas and Ata bin Yasar say that vv. 1-13 were revealed at Makkah and vv. 14-18 at Madinah. But the majority of commentators regard the whole of the surah as a Madinan Revelation. Although there is no internal evidence to help determine its exact period of revelation, yet a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (In the Name of Allah, the Most Gracious, the Most Merciful. وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (…and shaped your figures, and made your figures good…64:3).
@@ -138,3 +126,5 @@ This is the last Surah among Al-Musabbihat. We mentioned before that all creatur
 وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (…and shaped your figures, and made your figures good…64:3). Shaping the figures of the creatures is one of the exclusive attributes of Allah, that is why Al-Musawwiru [ the shaper ] is one of His attributive names. If we analyze or look carefully into the universe, there are several classes of things. Each class has several species and each species has several sexes. Each sex has billions of members. No single shape ever resembles another shape. Among humankind, for instance, on account of difference of country or territory or difference of stock and nations, there is clear distinction in the shapes and faces of individuals. The face and shape of each individual is so amazingly unique and that it baffles the human imagination. The human face is no more than six to seven square inches, and there are uncountable faces of the same type, and yet one face does not look exactly like the other one so that distinguishing one from the other would be difficult. The present verse mentions figure-making as one of the Divine blessings and immediately thereafter it goes on to say فَأَحْسَنَ صُوَرَ‌كُمْ (and made your figures good). In the entire universe, Allah made the human shape the most beautiful. No matter how ugly a man or an individual might seem in his community, he is still beautiful in his own right, relative to the shapes of all other non-human creatures.
 
 ## Personal Reflections
+
+

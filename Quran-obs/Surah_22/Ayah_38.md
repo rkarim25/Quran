@@ -58,18 +58,6 @@ word_by_word:
     transliteration: kafūrin
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Truly, Allah defends those who believe. The previous verses contain an account of how the infidels of Makkah prevented the Holy Prophet ﷺ and his companions from entering the Haram and the Holy Mosque to perform ` Umrah when, having put on ihram, they had reached as far as Hudaibiyah, a place not far from Makkah.
@@ -103,3 +91,5 @@ The previous verses contain an account of how the infidels of Makkah prevented t
 This incident took place in the year 6 A.H. and thereafter the power and the morale of the infidels suffered continuous decline until in the year 8 A.H. the Muslims conquered Makkah. The following verses describe this event in detail.
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: biḥafīẓin
 ---
 
-## Context
-
-To understand **Hud** (Hud) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And O my people! Whatever is left { with you ] by Allah is better for you, if you are believers.
@@ -93,3 +81,5 @@ Then, affectionately, he explained to them:
 Whatever is left { with you ] by Allah is better for you, if you are believers. And I am not a watchman over you - 86.
 
 ## Personal Reflections
+
+

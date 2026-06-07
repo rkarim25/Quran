@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-ghābirīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 171, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? Except an old woman among those who remained behind.
@@ -85,3 +73,5 @@ Except an old woman among those who remained behind. - 26:171
 The word 'old woman' is used for the wife of Sayyidna Lut علیہ السلام who was an infidel and was agreeable to the unnatural act of the people of Lut (علیہ السلام) If the wife of Lut (علیہ السلام) was an old woman then the use of this word for her is quite clear, but if she was not old, then perhaps she was called 'old woman' for the reason that the prophet's wife is regarded like the mother of the Ummah, and to call a woman having many children as old is not unlikely.
 
 ## Personal Reflections
+
+

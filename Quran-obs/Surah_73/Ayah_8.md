@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Enshrouded One** (Al-Muzzammil) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -304,3 +296,5 @@ not 'd remember your Lord'.
 This indicates that the repetition of Allah's personal name 'Allah, Allah' is also desired and required form of dhikr and worship. [ Mazhari ]. Some scholars say that such repetition of His personal name is an 'innovation' (bid'ah), but this opinion is not correct. And Allah knows best!
 
 ## Personal Reflections
+
+

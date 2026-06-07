@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-naṣīru
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say to those who have disbelieved, if they cease, their past will be forgiven. The second condition is that they stick to their doggedness and hostility.
@@ -211,3 +199,5 @@ The second condition is that they stick to their doggedness and hostility. The i
 In brief, if they fail to desist from their tyranny and disbelief, the injunction Muslims are obligated with is the same as stated above, that is, continue fighting them. Since Jihad involves fighting and killing, it is usually associated with a big army, ample weapons and other hardware and logistic support. But, those days Muslims did not have much of this normally, therefore, it was possible that Muslims would have found this command to fight and kill somewhat heavy, or their lack of numbers or paucity of equipment may have led them to realize that they could not win a war like that. Therefore, Muslims were given the antidote they needed. They were told that it did not matter if the disbelievers had more men and equipment to fight with, but where in the world, were they going to get the unseen support and help of Allah Ta` ala which Muslims have with them and which they have been witnessing as being along with them on every battlefield. Then, towards the end it was said that, for all practical purposes, everyone in the world finds some help and support from someone or somewhere, but the touchstone of how effective and functionally superior it is depends on the power, strength, knowledge and experience of that helper or supporter. It goes without saying that a whole world-full of people could never exceed, even equal the power and strength and knowledge and perception of Allah Ta` ala because He is an excellent protector and an excellent supporter with no one to match Him.
 
 ## Personal Reflections
+
+

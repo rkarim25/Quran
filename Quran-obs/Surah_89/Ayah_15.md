@@ -50,18 +50,6 @@ word_by_word:
     transliteration: akramani
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. Wealth and Poverty are no Signs of One's Acceptance or Rejection فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ ۔ وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ (As for man, when his Lord tests him, and thus gives him honour and bounties, he says, "My Lord has honoured me.
@@ -123,3 +111,5 @@ Wealth and Poverty are no Signs of One's Acceptance or Rejection
 فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ ۔ وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ (As for man, when his Lord tests him, and thus gives him honour and bounties, he says, "My Lord has honoured me. But when he tests him, and thus straitens his provision for him, he says, "My Lord has disgraced me...89:15-16). The word 'man' here primarily refers to an 'unbelieving man' who may form any thought about Allah as he feels like, but in its general sense, the word may include a Muslim as well who has the same thought as an unbeliever. When Allah gives abundant wealth and good health to such people, the devil puts into their head two false ideas. First, they succumb to their baser instincts; they become haughty and arrogant; and they think that the wealth and health is the result of their superior intellect, personal capability, efforts and achievement. Secondly, they think that they are enjoying a favourable status with Allah. If they did not enjoy the favourable position with Him, they would not have been granted such an abundance of wealth. By the same token, if Allah curtails their sustenance i.e. they suffer some degree of poverty, they regard it as a curse from Allah, and complain that He is humiliating or dishonouring them, while they deserved honour and respect. The unbelievers and idolaters do hold such thoughts and ideas, as the Qur'an has pointed out on many occasions, but it is regrettable that many Muslims nowadays fall into similar ideas. Allah refutes man's belief by the expression کَلَّا Kalla 'No/never!' The matter is not as he claims. Wealth does not indicate acceptance of a man by Allah, nor does poverty indicate rejection. [ For indeed Allah gives wealth to those whom He loves and those whom He does not love. Likewise, He withholds sustenance /wealth from those whom He loves and those whom He does not love.] Often the matter is quite the contrary. Fir'aun (the Pharaoh) claimed godhead and lordship, yet he never suffered from any headache. Some of Prophets (علیہم السلام) were sliced, by enemies, into two pieces with a saw. The Holy Prophet ﷺ is reported to have said that the poor refugees will enter Paradise forty years before the wealthy muhajirs (Immigrants). [ Imam Muslim رحمۃ علیہ has transmitted it from ` Abdullah Ibn Umar ؓ - Mazhari ]. In another narration, the Holy Prophet ﷺ is reported to have said that whomever Allah loves, He keeps him away from the worldly luxuries as people keep away their sickly patients from water. [ Ahmad and Tirmidhi transmitted it on the authority of Qatadah Ibn Nu` man Mazhari ].
 
 ## Personal Reflections
+
+

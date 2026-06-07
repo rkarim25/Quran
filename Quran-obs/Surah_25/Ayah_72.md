@@ -42,18 +42,6 @@ word_by_word:
     transliteration: kirāman
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who do not bear witness to falsehood, and if they pass by some evil play or evil talk, they pass by it with dignity (72)And those who, when they are reminded of the Ayat of their Lord, fall not deaf and blind thereat (73)And those who say: "Our Lord! وَالَّذِينَ لَا يَشْهَدُونَ الزُّورَ‌ (And those who do not witness falsehood - 25:72).
@@ -139,3 +127,5 @@ The Eleventh Characteristic
 وَإِذَا مَرُّ‌وا بِاللَّغْوِ مَرُّ‌وا كِرَ‌امًا (and when they pass by the absurd things, Pass by with dignity - 72). That is if by chance they happen to pass by immoral gatherings, they walk away with dignity and grace. In other words as they do not attend such gatherings intentionally, if they happen to pass by them sometimes by chance they just walk away from there in a dignified manner. That is despite their belief that their evil acts are hateful, they do not take pride or regard themselves superior for not indulging in them. Once Sayyidna Abdullah Ibn Masud ؓ happened to pass by an absurd and dissolute gathering, so he did not stop there but simply walked away. When the Holy Prophet ﷺ learnt about this incidence he remarked "Ibn Masud has become کریم (dignified) " and then recited this verse wherein it is enjoined to walk away from dissolute gatherings with dignity. (Ibn Kathir)
 
 ## Personal Reflections
+
+

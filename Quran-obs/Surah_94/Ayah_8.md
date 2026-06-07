@@ -16,18 +16,6 @@ word_by_word:
     transliteration: fa-ir'ghab
 ---
 
-## Context
-
-To understand **The Relief** (Ash-Sharh) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Sharh is a **Makkah** surah—revealed as the 12th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The Command for Teachers and Preachers to Remember Allah During Spare Hours فَإِذَا فَرَ‌غْتَ فَانصَبْ وَإِلَىٰ رَ‌بِّكَ فَارْ‌غَب (So when you are free [ from collective services ], exert yourself [ in worship ], and towards your Lord turn with eagerness....94:8).
@@ -139,3 +127,5 @@ Surah Al-Inshirah
 Ends here
 
 ## Personal Reflections
+
+

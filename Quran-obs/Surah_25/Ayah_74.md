@@ -59,18 +59,6 @@ word_by_word:
     transliteration: imāman
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 74, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who do not bear witness to falsehood, and if they pass by some evil play or evil talk, they pass by it with dignity (72)And those who, when they are reminded of the Ayat of their Lord, fall not deaf and blind thereat (73)And those who say: "Our Lord! The Thirteenth Characteristic And those who say, "Our Lord, Give us, from our spouses and our children, coolness of eyes and make us heads of the God-fearing.
@@ -154,3 +142,5 @@ This verse contains a prayer for one's spouses and children. According to the ex
 What is alluded here is that the righteous servants of God do not care about correcting themselves only, but also take care of the virtuous actions of their children and spouse, and keep trying for their improvement, and it is a part of their efforts that they pray Allah to make them take the right path. The second sentence of this verse says وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا (and make us heads of the God-fearing - 25:74) Apparently this is a prayer for getting a high status and a source of pride, which is forbidden by other injunctions of the Holy Qur'an. The Qur’ an says at another place" تِلْكَ الدَّارُ‌ الْآخِرَ‌ةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِ‌يدُونَ عُلُوًّا فِي الْأَرْ‌ضِ وَلَا فَسَادًا that is "As for that ultimate Abode (the Hereafter), We assign it to those who intend neither haughtiness on earth nor mischief (28:83). And the (best) end is for the God-fearing - 28:83". Hence, some scholars have commented about this sentence of the verse that everyone is the head or Imam of his family. Thus, if his family members become God fearing, he will automatically be their head or Imam. Therefore, the final outcome is that prayer was not meant for personal aggrandizement, but for the family members to follow the right path. Ibrahim Nakha` i (رح) has also explained about this verse that the prayer contained in it is not meant for a high position or authority for oneself but to request the grant of such a disposition that people try to emulate it in religious deeds and actions, and that it be of benefit to others and thus might fetch the praying people some of its reward. And Sayyidna Makhul Shami (رح) has elucidated that the purpose of the prayer is to implore an exalted status of God consciousness that even the God fearing people may also draw inspiration to follow that. Qurtubi has narrated both these explanations and then commented that the net outcome of both is the same, that the desire for an elated position or high office in religious affairs for attaining reward in the Hereafter is not improper; rather it is allowed. On the other hand in verse لَا يُرِ‌يدُونَ عُلُوًّا (who intend neither haughtiness - 28:83) the desire and search for worldly exaltation and authority has been condemned. Here the description about the main traits of ` Ibad-ur-Rahman or the perfect believers has been completed. Now their rewards and degrees of exaltation in the Hereafter are related.
 
 ## Personal Reflections
+
+

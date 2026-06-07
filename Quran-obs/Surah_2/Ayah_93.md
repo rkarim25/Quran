@@ -119,18 +119,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 93, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when We took your covenant and We raised above you the Mount (saying), "Hold firmly to what We have given you and hear (Our Word)." They said, "We have heard and disobeyed." And their hearts absorbed (the worship of) the calf because of their disbelief. In refuting the claim of the Jews to be authentic and true already referred to in Verse 63.
@@ -164,3 +152,5 @@ This verse reports the Jews as having replied that they had heard the Command of
 Having referred to such example of their perversity and rebellion, the Holy Qur'an asks the Jews to have a look at themselves and also at their claim to genuine faith. Could a true faith ever inspire men to such deeds? If it is their brand of "faith" which leads them into such grave sins, then it cannot be a true faith. Hence their claim to be true believers is evidently false.
 
 ## Personal Reflections
+
+

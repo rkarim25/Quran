@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ʿarḍan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And on that Day We shall present Hell to the disbelievers, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me? As for the pronoun of the word: بَعْضَهُمْ (ba` dahum) in بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ (And on that day, We will leave them [ Ya’ juj and Ma'juj ] surging over one another - 99), it is obvious that it reverts back to Ya'juj Ma juj.
@@ -85,3 +73,5 @@ As for the pronoun of the word: بَعْضَهُمْ (ba` dahum) in بَعْضَ
 The pronoun in: فَجَمَعْنَاهُمْ (fajama'nahum: Then We shall gather them together - 99) is reverting back to the creation at large, human beings and the Jinn. The sense is that the entire creation of human beings and the Jinn who have been obligated with the percepts of the Shari` ah (mukallaf) shall be gathered together on the plains of Resurrection (al-Hashr).
 
 ## Personal Reflections
+
+

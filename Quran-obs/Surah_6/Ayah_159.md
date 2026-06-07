@@ -86,17 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 159, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Mujahid, Qatadah, Ad-Dahhak and As-Suddi said that this Ayah was revealed about the Jews and Christians. Al-'Awfi said that Ibn 'Abbas commented,
 
 "Before Muhammad ﷺ was sent, the Jews and Christians disputed and divided into sects. When Muhammad ﷺ was sent, Allah revealed to him,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -185,3 +177,5 @@ Unfortunately, as a result of people ignoring this sacrosanct rule of conduct, I
 Sayyidah ` A'ishah As-Siddiqah ؓ reports that the Holy Prophet ﷺ said that on six persons he casts his la'nah, and may the la'nah of Allah be upon them: (1) The person who has added something to the Book of Allah from his side (that is, whether added some words, or carried the meaning to such excessive limits as is contrary to the Tafsir of the Sahabah), (2) the person who has denied the Divinely-ordained destiny, (3) the person who hoists himself into a position of authority over the Muslim Ummah by force (or deceit) so that he would honour the person disgraced by Allah, and disgrace the person given honour by Allah, (4) the person who took as Halal what Allah had made Haram, that is, indulged in killing at the sacred precincts of the Harm in Makkah, or, hunted there, (5) the person who dishonoured my family and children, and (6) the person who abandoned my Sunnah.
 
 ## Personal Reflections
+
+

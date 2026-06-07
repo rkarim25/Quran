@@ -40,17 +40,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Believers** (Al-Mu'minun) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ.
 
 (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians of the Ka'bah, when in fact this was not the case. As An-Nasa'i said in his Tafsir of this Ayah in his Sunan: Ahmad bin Sulayman told us that 'Ubaydullah told us from Isra'il, from 'Abdul-A'la that he heard Sa'id bin Jubayr narrating that Ibn 'Abbas said, "Talking by late night became disapproved of when this Ayah was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ Although the Holy Prophet ﷺ and his companions, when faced ill-treatment from 
 (0 Lord! Let thy punishment descend hard on the tribe of Mudar and make their land barren like the land of Yusuf.
 
 ## Personal Reflections
+
+

@@ -66,18 +66,6 @@ word_by_word:
     transliteration: hādin
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the disbelievers say: "Why is not a sign sent down to him from his Lord?" You are only a warner, and to every people there is a guide (7) The Idolators ask for a Miracle (that is, in order to raise an objection against the prophethood of Sayyidna Muhammad al-Mustafa ﷺ ، they say) 'Why has the specific miracle they demand has not been shown by him?' The answer is clear.
@@ -125,3 +113,5 @@ Therefore, this verse does not make it necessary that some prophet or messenger 
 Upto this point, in the first three verses cited above, there was the answer of the doubts expressed by the deniers of prophethood. In the fourth verse (8), we see a return to the principal theme of Tauhid (The Oneness of Allah) which started appearing since the beginning of the Surah.
 
 ## Personal Reflections
+
+

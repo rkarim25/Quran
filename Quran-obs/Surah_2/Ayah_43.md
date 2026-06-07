@@ -34,18 +34,6 @@ word_by_word:
     transliteration: l-rākiʿīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And mix not truth with falsehood, nor conceal the truth while you know (the truth)(42)And perform As-Salah, and give Zakah, and bow down along with Ar-Raki'in (43) The Prohibition of hiding the Truth and distorting It wi… In the last three verses and of these four, Allah reminds the Israelites of the blessings He has bestowed upon them, and invites them to Islam and to good deeds.
@@ -165,3 +153,5 @@ The most comprehensive explanation of the matter has been provided by the blesse
 This statement fully brings out the great importance of the Jama` ah, but at the same time defines its exact position by including it among the "ways of good guidance" (Sunan al-Huda) which are, in the terminology of the Fuqaha’ (jurists), called Al-Sunan al-Mu'akkadah سنن المؤکدہ (the Sunnah on which the greatest emphasis has been placed). Thus, if a man does not go to the mosque for Jama` ah and offers Salah نماز at home without having proper excuse like illness, his prayers will be valid, but he will have earned the displeasure of Allah for having given up a Sunnah which comes under the category of Mu'akkadah. If neglecting the Jama` ah becomes habitual for him, he will be committing a grave sin. If all the people living in the vicinity of a mosque leave it deserted and offer their prayers at home, they become, in the eyes of the Shari` ah, liable to punishment. Qadi ` Iyad says that if persuasion fails to mend such people, they must be challenged by a show of force. (Qurtubi)
 
 ## Personal Reflections
+
+

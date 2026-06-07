@@ -93,18 +93,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is not He Who has made the earth as a fixed abode, and has placed rivers in its midst, and has placed firm mountains therein, and has set a barrier between the two seas (of salt and sweet water)? This incident has been related at many places in the Qur'an, especially in Surah Al-A` raf, where its necessary details have been discussed and may be consulted if required.
@@ -164,3 +152,5 @@ Ruling
 This verse also teaches the formalities of an address, a sermon or a lecture, that it should start with the praise of Allah and the salah (durood) and salam to the prophets. This had always been the practice of the Holy Prophet ﷺ in his addresses. His companions also adopted the same practice by commencing not only their addresses but also all the important jobs by praising Allah Ta’ ala and then salah and salam on the Holy Prophet ﷺ '. (Ruh).
 
 ## Personal Reflections
+
+

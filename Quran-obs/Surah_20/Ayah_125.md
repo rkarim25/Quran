@@ -39,15 +39,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 125, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But whosoever turns away from My Reminder,) This means, "Whoever opposes my command and what I have revealed to My Messenger, then he has turned away from it, neglected it and taken his guidance from other than it."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -114,3 +106,5 @@ The answer to the question posed above is that the punishment which the evil-doe
 Another interpretation given to these words by Sayyidna Said ibn Jubair ؓ is that these people will be deprived of the gift of contentment which will result in an overpowering greed for worldly goods (Mazhari) but no amount of wealth will ever give them peace and content. The constant desire to augment their worldly possessions and the fear of any decrease in their size will always keep them anxious and uneasy. It is generally observed that the wealthy people who have all the means of comfort at their disposal actually are unable to enjoy comfort themselves, because comfort cannot be achieved without content and peace of mind.
 
 ## Personal Reflections
+
+

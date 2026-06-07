@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-ʿāmilūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? Wondering about not having to die anymore When the man who has been mentioned here will peep into Jahannam to have a look at his disbelieving acquaintance, it has been mentioned that the same man will be so delighted with the blessings of Jannah that he will exclaim: "Is it that we do not have to die anymore?" It does not mean…
@@ -125,3 +113,5 @@ When the man who has been mentioned here will peep into Jahannam to have a look 
 Towards the end, the noble Qur'an turns our attention to the essential lesson embedded in this event and says: لِمِثْلِ هَـٰذَا فَلْيَعْمَلِ الْعَامِلُونَ which means 'For this kind (of achievement), all workers must work.'
 
 ## Personal Reflections
+
+

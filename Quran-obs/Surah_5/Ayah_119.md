@@ -105,18 +105,6 @@ word_by_word:
     transliteration: l-ʿaẓīmu
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 119, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-109-119 Conclusion : "O mankind!
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah will say: "This is a Day on which the truthful will profit from their truth: Theirs are Gardens under which rivers flow (in Paradise) – they shall abide therein forever. The first two sections (Ruku`) appearing earlier describe some of the happenings on the day of Qiyamah such as the reckoning, the questions and their answers.
@@ -190,3 +178,5 @@ A person who performs Salah openly, then, does it well; and when performs it in 
 All praises are for Allah from the beginning to the end.
 
 ## Personal Reflections
+
+

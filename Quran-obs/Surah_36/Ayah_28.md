@@ -58,18 +58,6 @@ word_by_word:
     transliteration: munzilīna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It was said: "Enter Paradise." He said: "Would that my people knew. In verses 28 and 29, it was said: وَمَا أَنزَلْنَا عَلَىٰ قَوْمِهِ مِن بَعْدِهِ مِن جُندٍ مِّنَ السَّمَاءِ وَمَا كُنَّا مُنزِلِينَ إِن كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ " (And We did not send down to his people any army from the heavens after him, nor were We (in need ) to send down.
@@ -163,3 +151,5 @@ Mentioned here is the Divine punishment that descended upon the people who had r
 The state of their dying has been expressed through the word: خَامِدُونَ khamidun) by the Qur'an. The words: خَامِدا (khamada) and خُمُود (khumud) are used to mean the extinguishing or dying of fire. The life of the living depends on energy. When this energy is not there, what remains is death. So, 'khamidun' means extinguished, gone extinct, put off.
 
 ## Personal Reflections
+
+

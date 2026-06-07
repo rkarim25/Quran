@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ʿalaqin
 ---
 
-## Context
-
-To understand **The Clot** (Al-'Alaq) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Alaq is a **Makkah** surah—revealed as the 1st surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah has two parts: the first part consists of 1-5 , and the second of 6-19 . About the first part: a great majority of the Islamic scholars are agreed that it forms the very first Revelation to be sent down to the Holy Prophet (upon whom be Allah's peace and blessings). In this regard, the Hadith from Hadrat Aishah, which Imam Ahmad, Bukhari, Muslim, and other traditionists have related with several chains of authorities, is one of the most authentic Ahadith on the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This was the First of the Qur'an revealed In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 2] خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ (Created man from a clot of blood.) The previous verse referred to the creation of macrocosm, the large or entire universe in general.
@@ -111,3 +99,5 @@ There is a narration that states, "Record knowledge by writing." There is also a
 Verse [ 2] خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ (Created man from a clot of blood.) The previous verse referred to the creation of macrocosm, the large or entire universe in general. In this verse, the phrase is khalaqa'l-insan which refers to the creation of microcosm 'the best, noblest or most honourable creation', Man. If analysed carefully, we notice that man is the epitome of macrocosm or the large universe. He is a small scale representation, analogue, or miniature of the large and complex universe. Another reason why man has been particularly mentioned is that the purpose of Prophet-hood, messenger-hood and revelation of the Qur'an is the implementation of Divine ordinances, injunctions and laws and acting upon them: This is the essential peculiarity of mankind. The word ` alaq, being the plural of 'alaqatun, means 'congealed blood'. The creation of man has passed and passes through various phases. His primordial creation is from the four major elements, that is, earth, water, fire and air. His procreation is from an insignificant and humble state, the sperm which then transforms into congealed blood. This is the primary state of the embryo which happens after the conception. Then it takes the shape of a lump of flesh and then the skeletal structure is created. 'Alaqah is the middle phase in the whole process of creation. The specific mention of ` alaqah covers the initial stage and the final stage of the process of creation.
 
 ## Personal Reflections
+
+

@@ -38,18 +38,6 @@ word_by_word:
     transliteration: bimuʿadhabīna
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We did not send a warner to a township but those who were given the worldly wealth and luxuries among them said: "We believe not in what you have been sent with. Quoted in the next verse (35) is their saying: نَحْنُ أَكْثَرُ‌ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ which, in effect, means: "We are superior in riches and children, and we are not going to be punished - 35".
@@ -191,3 +179,5 @@ they will be brought to the torment. means, they will all be punished for their 
 Quoted in the next verse (35) is their saying: نَحْنُ أَكْثَرُ‌ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ which, in effect, means: "We are superior in riches and children, and we are not going to be punished - 35". (Obviously, by it, they meant: If we had been deserving of punishment in the sight of Allah Ta’ ala, why would He give us all this wealth and recognition)? The noble Qur'an gives an answer in the next two verses by saying:... نَحْنُ أَكْثَرُ‌ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ ("I: fact, my Lord extends provision to whom He wills, and straitens (it for whom He wills), but most of the people do not know". 34:36] And neither your riches nor your children are the things that bring you near Us closely; however, the one who believes and acts righteously (is close to Us) وَمَا أَمْوَالُكُمْ وَلَا أَوْلَادُكُم 34:37). The gist of the answer is that having more wealth and recognition in this world, or not having any, is no proof of someone being acceptable or unacceptable in the sight of Allah. In fact, it is in view of creational considerations that Allah Ta’ ala would give, at least in this world, property and wealth in abundance to whomever He wills, and gives less to whomever He wills. He alone knows the creational consideration behind it. But, taking the abundance of wealth and children to be a proof of being acceptable in the sight of Allah is sheer ignorance because, with Him, the criterion of acceptability, approval, support and pleasure is no other but 'Iman (faith) and good deed. One who does not carry these two assets - no matter how much wealth and how many children one has - these cannot make him or her acceptable in the sight of Allah.
 
 ## Personal Reflections
+
+

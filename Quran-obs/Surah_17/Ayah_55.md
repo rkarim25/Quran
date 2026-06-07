@@ -69,17 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (He has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisions in it.)[42:13]
 
 At this stage, Imam al-Baghawi says in his Tafsir that Zabur is a book of Allah revealed to Sayyidna Dawud (علیہ السلام) . It has one hundred and fifty surahs or chapters and all surahs are restricted to praises of Allah and prayers to Him. The areas of lawful and unlawful, obligations and limits have not been taken up there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -150,3 +142,5 @@ That Zabur (the Psalms) has been mentioned particularly in the last sentence of 
 At this stage, Imam al-Baghawi says in his Tafsir that Zabur is a book of Allah revealed to Sayyidna Dawud (علیہ السلام) . It has one hundred and fifty surahs or chapters and all surahs are restricted to praises of Allah and prayers to Him. The areas of lawful and unlawful, obligations and limits have not been taken up there.
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: sābiqūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with thei… Those people are accelerating towards the (real) good things, and they are the foremost to attain them.
@@ -98,3 +86,5 @@ Those people are accelerating towards the (real) good things, and they are the f
 The meaning of مُسَارَعَت فِی الخَیرَات is that just as ordinary human beings run after worldly gains and try to leave other competitors behind, these good and virtuous people strive to gain spiritual reward and try to excel others in their efforts to fulfill their religious obligations.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-dīni
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-7-56 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those on the left? ثُلَّةٌ مِّنَ الْأَوَّلِينَ وَثُلَّةٌ مِّنَ الْآخِرِ‌ينَ (many from the earlier generations, and many from the later ones....56:39-40) In connection with sabiqun, (the Foremost) two views of the commentators were quoted earlier as to the identity of 'the earlier' and the 'later' generations.
@@ -131,3 +119,5 @@ Allah, the Exalted, said,
 If we go by the second view of the commentators, who say that both 'earlier' and 'later' generations are from the ummah of the Holy Prophet ﷺ ، then even the later generations of this ummah will not be totally deprived of 'the Foremost', though their number in later generations will be less. As for the People of the Right, their number will be large in both 'earlier' and 'later' generations. This fact is proved by a Hadith reported by Bukhari and Muslim from Sayyidna Mu` awiyah ؓ in which the Holy Prophet ﷺ has said, 'A group of my 'Ummah will always remain on the truth and dominant, unharmed by those who fail to support them and those who defy them, until the Last Hour begins.'.
 
 ## Personal Reflections
+
+

@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **She that is to be examined** (Al-Mumtahanah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It is recorded in Sahih of Bukhari, on the authority of Sayyidah Asma' bint Abu Bakr ؓ ، that her mother arrived in Madinah from Makkah in the state of disbelief. According to a narration in Musnad of Ahmad, this incident occurred when peace treaty of Hudaibiyah with the Makkan Quraish had been concluded and was in force. Her mother's name was Qutailah. She brought gifts for her daughter Sayyidah Asma' ؓ but she refused to accept them. She did not even allow her to enter her house unless she sought the permission of the Holy Prophet ﷺ . Sayyidah Asma' ؓ asked the Holy Prophet ﷺ how to treat her mother who came to her while still disbeliever. The Holy Prophet ﷺ advised her to treat her kindly, politely and courteously. On that occasion, the following verse was revealed لَّا يَنْهَاكُمُ اللَّـهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ. (Allah does not forbid you from doing good and justice to those who did not fight you because of faith ....60:8)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -186,3 +178,5 @@ The present verses give an indication that those who are implacable enemies of M
 It is recorded in Sahih of Bukhari, on the authority of Sayyidah Asma' bint Abu Bakr ؓ ، that her mother arrived in Madinah from Makkah in the state of disbelief. According to a narration in Musnad of Ahmad, this incident occurred when peace treaty of Hudaibiyah with the Makkan Quraish had been concluded and was in force. Her mother's name was Qutailah. She brought gifts for her daughter Sayyidah Asma' ؓ but she refused to accept them. She did not even allow her to enter her house unless she sought the permission of the Holy Prophet ﷺ . Sayyidah Asma' ؓ asked the Holy Prophet ﷺ how to treat her mother who came to her while still disbeliever. The Holy Prophet ﷺ advised her to treat her kindly, politely and courteously. On that occasion, the following verse was revealed لَّا يَنْهَاكُمُ اللَّـهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُمْ فِي الدِّينِ. (Allah does not forbid you from doing good and justice to those who did not fight you because of faith ....60:8)
 
 ## Personal Reflections
+
+

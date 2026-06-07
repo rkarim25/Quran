@@ -37,18 +37,6 @@ word_by_word:
     transliteration: sadīdan
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 70, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Customarily, Allah Ta'ala keeps prophets free from physical defects causing aversion In this event, Allah Ta'ala has demonstrated such unusual concern to have Sayyidna Musa (علیہ السلام) absolved of the blame imputed to him by his people which took no less than a miracle whereby a rock ran away with Sayyidna Musa's clothes and he, compelled by circumstances beyond his control, came out undressed before the people.
@@ -82,3 +70,5 @@ O those who believe, fear Allah, and speak what is straight forward. Allah will 
 The original word used in the text for "what is straight forward" is 'sadid' which has been explained by some exegetes as what is the truth. Others explain it as straight, while still others, as correct. Quoting all of these, Ibn Kathir calls all these true (on the beam hitting the target). The Holy Qur'an has chosen this word, instead of sadiq or mustaqim, because the present word holds all these attributes of ideal speech within itself. It was for this reason that Kashifi said in Ruh-ul-Bayan: Qawl Sadid is the saying of what is true having no trace of falsity; correct having no trace of error, right thing being no joke or fun; spoken softly, not harshly.
 
 ## Personal Reflections
+
+

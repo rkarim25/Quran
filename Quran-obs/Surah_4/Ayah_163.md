@@ -112,17 +112,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 163, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (...and to Dawud We gave the Zabur.) The 'Zabur' (Psalms) is the name of the Book revealed to Prophet Dawud, peace be upon him.
 
 Zabur is the name of the Book revealed to David, Biblically known as the Psalms.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -243,3 +235,5 @@ In short, punishment would not descend upon people for their hostility against D
 Before we move to the next verse, it would be useful to keep in mind that the personal presence of Sayyidna Nuh (علیہ السلام) whose name appears first in this verse, was a miracle by itself. He was blessed with an age of nine hundred and fifty years. He had lost none of his teeth and had no streaks of white hair on his head and had faced no deficiency in his physical strength - yet, he spent his whole life time braving the pain inflicted by his people on him with matching patience and fortitude. (Mazhari)
 
 ## Personal Reflections
+
+

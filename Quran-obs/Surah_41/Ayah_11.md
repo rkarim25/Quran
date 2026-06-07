@@ -71,18 +71,6 @@ word_by_word:
     transliteration: ṭāiʿīna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Do you verily disbelieve in Him Who created the earth in two Days? فَقَالَ لَهَا وَلِلْأَرْ‌ضِ ائْتِيَا طَوْعًا أَوْ كَرْ‌هًا قَالَتَا أَتَيْنَا طَائِعِينَ (and said to it and to the earth, "Come [ to My obedience ], both of you, willingly or unwillingly." Both said, "We come willingly." - 41:11) This command addressed to the earth and sky and their compliant and obedient reply, according to some exegetes, is a metaphorical expression for the readiness of the earth and the sky to comply with every order from Allah Almighty.
@@ -272,3 +260,5 @@ Ibn 'Abbas, may Allah be pleased with him, replied:
 فَقَالَ لَهَا وَلِلْأَرْ‌ضِ ائْتِيَا طَوْعًا أَوْ كَرْ‌هًا قَالَتَا أَتَيْنَا طَائِعِينَ (and said to it and to the earth, "Come [ to My obedience ], both of you, willingly or unwillingly." Both said, "We come willingly." - 41:11) This command addressed to the earth and sky and their compliant and obedient reply, according to some exegetes, is a metaphorical expression for the readiness of the earth and the sky to comply with every order from Allah Almighty. But Ibn ` Atiyyah and other leading research scholars have stated that this is no metaphor it is based on reality. Allah Almighty had endowed the earth and the skies with the faculty of intellect and comprehension of the commands addressed to them and also with the power of speaking and replying. Tafsir Al-Bahr-ul-Muhit, after quoting this explanation, has held it to be the most suitable and the best. Ibn Kathir, after quoting the above explanation, has also quoted the statement of some exegetes that the earth's reply was given by that portion of the earth on which Baytullah has been constructed and the sky's reply was given by that portion of the sky which is just above the Baytullah, known as Al-Bayt-ul- Ma` mur.
 
 ## Personal Reflections
+
+

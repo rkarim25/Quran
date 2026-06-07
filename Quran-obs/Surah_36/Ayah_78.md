@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ya Sin** (Ya-Sin) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Whether these Ayat were revealed about Ubayy bin Khalaf or Al-'As bin Wa'il, or both of them, they apply to all those who deny the resurrection after death. The definite article "Al" in
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -141,3 +133,5 @@ Many versions of this Hadith were recorded in the Two Sahihs. One of these versi
 In verse 78, it was said: ضَرَ‌بَ لَنَا مَثَلًا (And he has set up an argument about Us). Here, the expression refers to the event described above, that is, while smashing and rubbing the bone into bone meal, its revival was considered improbable. After that, it was said: وَنَسِيَ خَلْقَهُ (and forgot his own creation). It means while he was giving that example, he forgot the example of his own creation as to how he himself was created by infusing life in a lowly, impure and lifeless drop - a bland anatomy of his creation indeed. Had he not forgotten his real genetic origin, he would have never come up with such examples and would have never dared saying no to Divine power.
 
 ## Personal Reflections
+
+

@@ -40,17 +40,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan. Each one We made righteous (72)And We made them leaders, guiding by Our command, and We revealed to them the doing of good deeds, performing Salah, and the giving of Zakah, and of Us (Alone) they were the worshippers (73)And (remember) Lut, We gave him wisdom and knowledge, and We saved him from the town who practised Al-Khaba'ith. Verily, they were a people given to evil, and were rebellious (74)And We admitted him to Our mercy; truly, he was of the righteous (75)
 
 (and We revealed to them the doing of good deeds, performing Salah, and the giving of Zakah,) Here the general is followed by the specific.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -119,3 +111,5 @@ And We rescued him and Lut towards the land We blessed for all the worlds. - 71
 That is, We delivered Sayyidna Ibrahim and Sayyidna Lut (علیہ السلام) from the land ('Iraq) where Namrud ruled and sent them to the peaceful land of Syria where our bounties were in abundance, not only for the locals but for the people of the world. Syrian land abounds both inwards and outwards bounties of Allah Ta ala. Inward bounties in the sense that many prophets were born in this land, and outward bounty in the sense that it has a moderate climate and is full of natural beauty with greenery, springs and streams all around and sustains a large variety of vegetation, fruits and flowers.
 
 ## Personal Reflections
+
+

@@ -82,15 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 97, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Abu Ja'far bin Jarir At-Tabari said, "The scholars of Tafsir agree that this Ayah (2: 97-98) was revealed in response to the Jews who claimed that Jibril (Gabriel) is an enemy of the Jews and that Mika'il (Michael) is their friend." Al-Bukhari said, "Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ Maulana Ashraf ` Ali Thanavi (رح) has, in his "Bayan al-Qur'an", warned agains
 That should leave no room for any doubt. Moreover, the "heart" perceives words as much as it does meanings; in fact, the perceiving agent is the "heart", while the ears etc. are only its instruments. Specially, in the state of revelation, the external organs of the senses become dormant, and the heart receives even the words directly without the intervention of the ears. Although we cannot understand the nature of revelation properly, yet, choosing a mundane analogy, one can say that while dreaming in our sleep we do hear words and remember them afterwards, in spite of our external sense of hearing having been suspended while we dreamt. This example should make it easy to see that the revelation of meanings to the heart does in no way preclude the revelation of words as well. Anyhow, it is a sin - and an intellectual dishonesty - to rely on one's own conjectures in defiance of a clear and definite statement in the Holy Qur'an.
 
 ## Personal Reflections
+
+

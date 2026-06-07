@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-asbāba
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 How Fir`awn mocked the Lord of Musa Allah tells us of the arrogant and hostile defiance of Fir`awn and his rejection of Musa, when he commanded his minister Haman to build him a tower, i.e., a tall, high, strong fortress. The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَا هَامَانُ ابْنِ لِي صَرْ‌حًا (And the Pharaoh said, "0 Haman, make a tower for me,) means a structure that rises high.
@@ -91,3 +79,5 @@ The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَ
 My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad Ya` qub, the first principal of the famous Darul-` Uloom of Deoband in India has reported his learned teacher saying, 'For this lofty palace to collapse, it is not necessary that it be hit by some Divine punishment. The fact is that the height of every building depends on the capability of its foundation to bear weight. No matter how deep the foundation is laid, it cannot go deeper than a certain limit. Now, when levels after levels were added to this building, it was inevitable that, once it exceeded the capability of its foundation to bear additional weight, it must collapse.' This provides another proof of the folly of Pharaoh and Haman. Allah knows best.
 
 ## Personal Reflections
+
+

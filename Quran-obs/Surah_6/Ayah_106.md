@@ -60,17 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 106, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Follow what has been inspired to you from your Lord,) meaning, follow it, obey it and act according to it. What has been revealed to you from your Lord is the Truth, no doubt, and there is no deity worthy of worship except Him,
 
 In the fourth verse (106), the Holy Prophet ﷺ at has been guided to a specific course of action. He has been asked not to worry about the acceptance or non-acceptance of the call. For him, the best course was to keep following the way revealed to him through Wahy from his Rabb, the major element of which is the belief that no one is worthy of worship but Allah. That he should continue preaching with his message of truth is part of what has been revealed. So, believing in Allah and remaining steadfast on the way ordained for him, he should avoid feeling concerned about disbelievers and their unfortunate non-acceptance of the call.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -119,3 +111,5 @@ Allah's is the perfect will and wisdom in all decrees and decisions, and He is n
 In the fourth verse (106), the Holy Prophet ﷺ at has been guided to a specific course of action. He has been asked not to worry about the acceptance or non-acceptance of the call. For him, the best course was to keep following the way revealed to him through Wahy from his Rabb, the major element of which is the belief that no one is worthy of worship but Allah. That he should continue preaching with his message of truth is part of what has been revealed. So, believing in Allah and remaining steadfast on the way ordained for him, he should avoid feeling concerned about disbelievers and their unfortunate non-acceptance of the call.
 
 ## Personal Reflections
+
+

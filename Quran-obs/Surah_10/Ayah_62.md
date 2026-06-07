@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yaḥzanūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Behold! In the verses cited above, particular merits, definition and identity of the Auliya' of Allah have been mentioned.
@@ -185,3 +173,5 @@ In short, there is someone by sitting in whose company one gets the taufiq of re
 It has been said in Tafsir Mazhari: There is a prevailing assumption among masses that things like getting to know what is hidden (kashf), doing some extraordinary things (karamah) or claiming to be aware of what is al-Ghayb (Unseen) are signs of someone being among the Auliya' of Allah. This is nothing but error and self-deception. There are thousands of Auliya' who are not credited with anything like this, that could be termed as authentically proved while, in sharp contrast, reports of things otherwise hidden and unseen are accredited to those whose very basic 'Iman (belief) is not correct!
 
 ## Personal Reflections
+
+

@@ -3,25 +3,19 @@
 
 from __future__ import annotations
 
+import argparse
 import json
-import re
 import sys
 import urllib.request
 from pathlib import Path
 
-import yaml
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from md_io import SOURCE, ayah_path, read_ayah, to_json_ayah
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCE = ROOT / "Quran-obs"
 OUTPUT = ROOT / "docs" / "data"
 QURAN_API = "https://api.quran.com/api/v4/chapters?language=en"
-
-SECTIONS = (
-    "Context",
-    "Tafsir Summary",
-    "Tafsir Ibn Kathir",
-    "Maarif ul Quran",
-)
 
 
 def fetch_chapters() -> dict[int, dict]:
@@ -31,77 +25,63 @@ def fetch_chapters() -> dict[int, dict]:
     return {c["id"]: c for c in data["chapters"]}
 
 
-def parse_sections(body: str) -> dict[str, str]:
-    sections: dict[str, str] = {}
-    for name in SECTIONS:
-        pattern = rf"## {re.escape(name)}\s*\n(.*?)(?=\n## |\Z)"
-        match = re.search(pattern, body, re.DOTALL)
-        sections[name.lower().replace(" ", "_")] = match.group(1).strip() if match else ""
-    return sections
+def build_surah(surah: int, chapters: dict[int, dict]) -> None:
+    surah_dir = SOURCE / f"Surah_{surah}"
+    if not surah_dir.exists():
+        return
 
+    ayahs = []
+    for path in sorted(surah_dir.glob("Ayah_*.md"), key=lambda p: int(p.stem.split("_")[1])):
+        ayahs.append(to_json_ayah(read_ayah(path)))
 
-def parse_ayah_file(path: Path) -> dict:
-    text = path.read_text(encoding="utf-8")
-    meta: dict = {}
-    body = text
-    if text.startswith("---"):
-        _, frontmatter, body = text.split("---", 2)
-        meta = yaml.safe_load(frontmatter) or {}
-
-    sections = parse_sections(body)
-    ayah_num = int(path.stem.split("_")[1])
-    return {
-        "ayah": ayah_num,
-        "arabic": meta.get("arabic_ayat", ""),
-        "translation": meta.get("sentence_translation", ""),
-        "word_by_word": meta.get("word_by_word", {}),
-        **sections,
+    chapter = chapters[surah]
+    surah_data = {
+        "id": surah,
+        "name_simple": chapter["name_simple"],
+        "name_arabic": chapter["name_arabic"],
+        "translated_name": chapter["translated_name"]["name"],
+        "revelation_place": chapter["revelation_place"],
+        "verses_count": chapter["verses_count"],
+        "ayahs": ayahs,
     }
+    OUTPUT.mkdir(parents=True, exist_ok=True)
+    (OUTPUT / f"surah_{surah}.json").write_text(
+        json.dumps(surah_data, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8",
+    )
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--surah", type=int, help="Build a single surah only")
+    args = parser.parse_args()
+
     if not SOURCE.exists():
         print(f"Source not found: {SOURCE}", file=sys.stderr)
         return 1
 
-    OUTPUT.mkdir(parents=True, exist_ok=True)
     chapters = fetch_chapters()
+    surahs = [args.surah] if args.surah else range(1, 115)
     index = []
 
-    for surah in range(1, 115):
-        surah_dir = SOURCE / f"Surah_{surah}"
-        if not surah_dir.exists():
-            continue
-
-        ayahs = []
-        for path in sorted(surah_dir.glob("Ayah_*.md"), key=lambda p: int(p.stem.split("_")[1])):
-            ayahs.append(parse_ayah_file(path))
-
+    for surah in surahs:
+        build_surah(surah, chapters)
+        if args.surah:
+            print(f"Built surah {surah}")
+            return 0
         chapter = chapters[surah]
-        surah_data = {
-            "id": surah,
-            "name_simple": chapter["name_simple"],
-            "name_arabic": chapter["name_arabic"],
-            "translated_name": chapter["translated_name"]["name"],
-            "revelation_place": chapter["revelation_place"],
-            "verses_count": chapter["verses_count"],
-            "ayahs": ayahs,
-        }
-        (OUTPUT / f"surah_{surah}.json").write_text(
-            json.dumps(surah_data, ensure_ascii=False, separators=(",", ":")),
-            encoding="utf-8",
-        )
-        index.append(
-            {
-                "id": surah,
-                "name_simple": chapter["name_simple"],
-                "name_arabic": chapter["name_arabic"],
-                "translated_name": chapter["translated_name"]["name"],
-                "revelation_place": chapter["revelation_place"],
-                "verses_count": chapter["verses_count"],
-            }
-        )
-        print(f"Built surah {surah}/114 ({len(ayahs)} ayahs)")
+        if (SOURCE / f"Surah_{surah}").exists():
+            index.append(
+                {
+                    "id": surah,
+                    "name_simple": chapter["name_simple"],
+                    "name_arabic": chapter["name_arabic"],
+                    "translated_name": chapter["translated_name"]["name"],
+                    "revelation_place": chapter["revelation_place"],
+                    "verses_count": chapter["verses_count"],
+                }
+            )
+            print(f"Built surah {surah}/114")
 
     (OUTPUT / "index.json").write_text(
         json.dumps({"surahs": index}, ensure_ascii=False, separators=(",", ":")),

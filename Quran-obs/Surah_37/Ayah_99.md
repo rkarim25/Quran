@@ -29,18 +29,6 @@ word_by_word:
     transliteration: sayahdīni
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he said: "Verily, I am going to my Lord. Another event in the blessed life of Sayyidna Ibrahim (علیہ السلام) has been described in the verses cited above.
@@ -200,3 +188,5 @@ Explanatory Notes on the verses
 The first verse (99) opens with the words:... وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَ‌بِّي سَيَهْدِينِ (And he said, "I am going to my Lord...). Sayyidna Ibrahim (علیہ السلام) said this at a time when he was totally disappointed by his countrymen, for nobody except Sayyidna Lut (علیہ السلام) ، his nephew, was willing to believe in him. The statement: دار الکفر (I am going to my Lord) means that he will leave the abode of disbelief and go to a place whereto Allah Ta’ ala has commanded him to go, a place where he will be able to worship his Lord in peace. So, he started on a journey accompanied by his blessed wife, Sayyidah Sarah ؓ and his nephew, Sayyidna Lut (علیہ السلام) . After having passed through different areas of Iraq, he finally reached Syria. Sayyidna Ibrahim (علیہ السلام) had no children until then, therefore, he made the prayer mentioned in the next verse (100).
 
 ## Personal Reflections
+
+

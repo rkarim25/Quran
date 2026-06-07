@@ -25,18 +25,6 @@ word_by_word:
     transliteration: yattaqūna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But if they turn away, then say: "I have warned you of a Sa'iqah like the Sa'iqah which overtook 'Ad and Thamud. فَأَرْ‌سَلْنَا عَلَيْهِمْ رِ‌يحًا صَرْ‌صَرً‌ا (So, We let loose a wild wind on them - 41:16) This is the explanation of what was mentioned as ` calamity of ` Ad and Thamud' in the earlier verse.
@@ -148,3 +136,5 @@ Sayyidna Jabir Ibn ` Abdullah ؓ has stated that when Allah Almighty wants the w
 فِي أَيَّامٍ نَّحِسَاتٍ (in unlucky days....41:16). It is established by the principles of Islam and ahadith of the Holy Prophet ﷺ that no day or night is in itself unlucky or ill-omened. The days of the windstorm over the people of ` Ad have been called ` unlucky' because those days had become ill-omened for them due to their misdeeds. It does not necessarily mean that those days were ill-omened for everybody. (Mazhari and Bayan-ul-Qur’ an). The detailed investigation as to whether anything can be ill-omened by its nature can be seen in the author's book Ahkam-ul-Qur'an Vol. 5 in Arabic)
 
 ## Personal Reflections
+
+

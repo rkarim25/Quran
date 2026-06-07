@@ -96,18 +96,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-28-73 of Surah Al-Ahzab(of which this is the sequel) were sent down to strengthen the moral front, which at that time was the main target of the attack, vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! If a person asks permission from someone and he replies in the negative that he cannot meet at that time, then the caller should go back and not feel offended.
@@ -251,3 +239,5 @@ Ruling
 The foregoing ruling relates to the situation when one has sought permission thrice by knocking and greetings. In that situation to keep on waiting there would cause trouble to the host. But if someone waits at the door of a scholar or a pious person without seeking permission or without informing him, in the hope that he would meet him when he would come out according to his convenience, such a waiting is not undesirable, rather it is a great respect shown by the caller. The Qur'an itself has advised people that to call the Holy Prophet ﷺ while he is inside, with the purpose of calling him out of the house is disrespect to him. People should wait for him outside until he comes out on his own according to his convenience. The related verse says وَلَوْ أَنَّهُمْ صَبَرُ‌وا حَتَّىٰ تَخْرُ‌جَ إِلَيْهِمْ لَكَانَ خَيْرً‌ا لَّهُمْ (And if they had patience until you come out to them, that would be better for them - 49:5). Sayyidna Ibn ` Abbas ؓ has said, ` Sometimes I keep on waiting the whole afternoon at the door of an Ansari companion until he would come out on his own, for asking about some Ahadith . Had I sought permission to go in, he would have definitely allowed me, but I regarded that against ethics. That is why I used to bear the trouble of waiting'. (Sahih a1-Bukhari).
 
 ## Personal Reflections
+
+

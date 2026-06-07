@@ -61,15 +61,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not made you stand firm, you would nearly have inclined to them a little (74)In that case We would have made you taste a double portion in this life and a double portion after death. And then you would have found none to help you against Us (75)
 
-Out of the verses appearing above, the first three relate to a particular event. To determine it precisely, Tafsir Mazhari carries some relevant reports. The event which is closer and more supportive in terms of the indicators set in the Qur'an is what has been reported by Ibn Abi Hatim as based on a narrative of Sayyidna Jubayr ibn Nufayr. According to this report, some chiefs of the Quraysh of Makkah came to the Holy Prophet ﷺ and said: 'If you have been really sent to us, you should remove these poor and broken down people from around you, for sitting with such people is a matter of insult for us.
+Out of the verses appearing above, the first three relate to a particular event. To determine it precisely, Tafsir Mazhari carries some relevant reports. The event which is closer and more supportive in terms of the indicators set in the Qur'an is what has been reported by Ibn Abi Hatim as based on a narrative of Sayyidna Jubayr ibn Nufayr. According to this report, some chiefs of the Quraysh of Makkah came to the Holy Prophet ﷺ and said: 'If you have been really sent to us, you should remove these poor and broken down people from around you, for sitting with such people is a matter of insult for us. If you do that, we too will become your companions and friends.' When they said this, the Holy Prophet ﷺ somewhat leaned towards the idea that he might do someth-ing like that as suggested by them in the hope that they may, perhaps, become Muslims. Thereupon, this verse was revealed.
 
 ## Tafsir Summary
 
@@ -94,3 +88,5 @@ Through this verse, the Holy Prophet ﷺ was sounded that their suggestion was a
 From this verse, says Tafsir Mazhari, it is clearly understood that there was just no probability of the Holy Prophet ﷺ ever tilting towards such absurd demands from the Quraysh disbelievers. Yes, coming close to tilting, and that too within a very insignificant limit, was probable. But, by making him ma` sum (protected, infallible), Allah Ta’ ala saved him from drifting even to that limit. If we were to think about it, this verse provides a great proof of the highest moral disposition with which all prophets (علیہم السلام) were blessed. So, had there been even no shield of prophetic infallibility, still such was the natural disposition of the Prophet of Islam that tilting towards the absurd proposal of disbelievers would have never been possible for him. However, there did exist the probability of his coming somewhat closer, in an insignificant measure, towards the act of tilting - something terminated by the prophetic infallibility.
 
 ## Personal Reflections
+
+

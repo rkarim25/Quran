@@ -100,18 +100,6 @@ word_by_word:
     transliteration: kufūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That is their recompense, because they denied Our Ayat and said: "When we are bones and fragments, shall we really be raised up as a new creation? In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel.
@@ -171,3 +159,5 @@ Allah says: This punishment, being resurrected blind, dumb and deaf, is what the
 In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel. This demand was unreasonable. Yes, if angels had been living on the Earth and there was the need to send a messenger to them, then, indeed, an angel would have been sent as a messenger. It will be noted that the attribute of an-gels living on the Earth has been described here in the words: يَمْشُونَ مُطْمَئِنِّينَ (walking about in peace). This tells us that the need to send an angel deputed as a messenger to other angels would have come up only at a time when the angels of the Earth could not themselves go to the heavens rather remained living on the Earth alone. Otherwise, had they themselves possessed the power to go to the heavens, there would have remained just no need to send a messenger to the Earth.
 
 ## Personal Reflections
+
+

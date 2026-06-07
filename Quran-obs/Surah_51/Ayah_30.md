@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-ʿalīmu
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. When, in the course of the conversation, Holy Prophet Ibrahim (علیہ السلام) discovered that the guests were angels, he asked them what was their mission and they replied that they had been sent to the people of Lut (علیہ السلام) to destroy them as a punishment for their unspeakable crime.
@@ -147,3 +135,5 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 When, in the course of the conversation, Holy Prophet Ibrahim (علیہ السلام) discovered that the guests were angels, he asked them what was their mission and they replied that they had been sent to the people of Lut (علیہ السلام) to destroy them as a punishment for their unspeakable crime. They would be stoned to death, but not with large stones.
 
 ## Personal Reflections
+
+

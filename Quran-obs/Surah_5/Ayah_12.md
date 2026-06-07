@@ -194,18 +194,6 @@ word_by_word:
     transliteration: l-sabīli
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed, Allah took the covenant from the Children of Israel (Jews), and We appointed twelve leaders among them. In the seventh verse of Surah al-Ma'idah which appeared earlier Allah Almighty has asked Muslims to remember the pledge taken from them to which they professed belief and obedience: And remember Allah's favour upon you and His Covenant that He has taken from you when you said, "We have listened and obeyed." And fear Allah ...
@@ -401,3 +389,5 @@ Fard Kifayah means: should some individuals or a group from the Muslim community
 Towards the end of the verse, after enumerating the articles of the pledge, it was also clarified that the fulfillment of the pledge on their part will be amply rewarded, even their past sins will be forgiven and they will have the eternal comfort and security of Paradise. But, finally they were given to understand that should any of them elect to ig. nore such clear statements and go on to the limits of rejection and rebellion, they should know that they have left the straight path only to their self-appointed ruin.
 
 ## Personal Reflections
+
+

@@ -70,15 +70,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): None has the right to be worshipped but I, so worship Me.)(21:25). Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -141,3 +133,5 @@ Allah tells us that sacrifice and shedding blood in the Name of Allah has been p
 وَجِلَتْ قُلُوبُهُمْ (Whose hearts are filled with awe - 22:35) The word وَجِلَ means a feeling of awe inspired by something majestic and sublime. These words describe the state of pious people who are overwhelmed by deep awe whenever the name of Allah is mentioned in their presence.
 
 ## Personal Reflections
+
+

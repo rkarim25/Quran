@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from heat and cold both. This has been answered by Imam Al-Qurtubi and other commentators by saying that the Holy Qur’ an has been revealed in the Arabic language, its first addressees are Arabs, therefore, it speaks by taking Arab habits and needs into account. Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. Yet another explanation for this has been given by Maulana Ashraf Ali Thanavi in Bayan al-Qur’ an by saying that in the beginning of this Surah, the Qur’ an had already said: لَكُمْ فِيهَا دِفْءٌ (and for you, there is provision against cold in them - 16:5). Thus, it was in view of this earlier mention of beating cold and having warmth that only protection from heat has been mentioned here.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ Then Allah tells us:
 Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from heat and cold both. This has been answered by Imam Al-Qurtubi and other commentators by saying that the Holy Qur’ an has been revealed in the Arabic language, its first addressees are Arabs, therefore, it speaks by taking Arab habits and needs into account. Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. Yet another explanation for this has been given by Maulana Ashraf Ali Thanavi in Bayan al-Qur’ an by saying that in the beginning of this Surah, the Qur’ an had already said: لَكُمْ فِيهَا دِفْءٌ (and for you, there is provision against cold in them - 16:5). Thus, it was in view of this earlier mention of beating cold and having warmth that only protection from heat has been mentioned here.
 
 ## Personal Reflections
+
+

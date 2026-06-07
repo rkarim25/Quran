@@ -206,18 +206,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name This Surah takes its name, An Nur, from verse 35 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah is the Light of the heavens and the earth. Imam Ghazzali (رح) has given the definition of Nur (light) as الظاھر بنفسہٖ وا؛مظھر لغیرہ that is something which is bright and manifest on its own, and makes other things bright and evident.
@@ -365,3 +353,5 @@ Benefits of olive oil
 شَجَرَ‌ةٍ مُّبَارَ‌كَةٍ زَيْتُونَةٍ (A blessed tree, the olive - 35.). This is an endorsement that olive and its tree is blessed by Allah and is beneficial and useful. Scholars have commented that Allah Ta’ ala has instilled many a benefits in it. Olive oil is used in the burning of lamps. Its light is the brightest and clearest as against any other oil. It is eaten as a fruit and its oil is used in cooking. The interesting part is that there is no need of any machine for the extraction of its oil. When the fruit is ripe, the oil comes out automatically. The Holy Prophet ﷺ has asked to eat and massage the body with olive oil. (Baghawi - Mazhari)
 
 ## Personal Reflections
+
+

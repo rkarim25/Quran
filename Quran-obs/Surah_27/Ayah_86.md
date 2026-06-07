@@ -66,18 +66,6 @@ word_by_word:
     transliteration: yu'minūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day when We shall gather out of every nation a Fawj of those who denied Our Ayat, and they shall be driven (83)Till, when they come, He will say: "Did you deny My Ayat whereas you comprehended them not by knowledge, or what was it that you used to do? (and they will be kept under control - 27:83), The word used here is derived from Waz', which means to stop.
@@ -157,3 +145,5 @@ Commentary
 وَلَمْ تُحِيطُوا بِهَا عِلْمًا (while you did not comprehend them with knowledge - 27:84). There is an allusion in this verse that falsifying the message of Allah Ta` ala is by itself a great sin, especially when one falsifies it without giving any consideration or thought, then the crime is doubled. This has brought to light that if an issue or subject is duly considered and thought over, and yet one could not get to the truth, in that situation the intensity of the crime is reduced. Nevertheless, the denial of the existence of Allah and His Oneness would not save any one from infidelity and adoption of the wrong path, and would thus lead to perpetual torment. It is because they are such self-evident matters that any mistake of judgment is not allowed in them.
 
 ## Personal Reflections
+
+

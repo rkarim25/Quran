@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yāmūsā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright. Allah said,إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَ‌ىٰ "I am surely with you both.
@@ -87,3 +75,5 @@ This point calls for some elucidation which is given in the following lines. The
 In brief, every created thing has been programmed, by Allah, with a guidance of Takwin (creation) which it is genetically bound to follow and deviating from the same is beyond its power. The other kind of guidance which is given to the human beings and to Jinns is not inherent in the nature and thus, is not compulsory but optional. It is this freedom of choice which renders them liable to reward for good deeds and to punishment for their sins. The verse
 
 ## Personal Reflections
+
+

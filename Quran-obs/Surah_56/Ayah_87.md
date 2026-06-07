@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ṣādiqīna
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then why do you not (intervene) when it reaches Al-Hulqum (83)And you at the moment are looking (84)But We are nearer to him than you, but you see not (85)Then why do you not – if you are not Madini (86)Return the soul,… In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
@@ -101,3 +89,5 @@ Their denial of Resurrection by the unbelievers, in a way, amounts to a claim th
 In short, it is not within people's power to get together and save a soul or life. Allah is nearer to a dying person than his soul or life. Allah has pre-designated a particular time for the soul to be separated from the body. None can avert it. In view of this graphic picture, the disbelievers are reminded that if they think that they cannot be resurrected after death, and they are too strong to come under Allah's grasp, then they must restore the soul when it has reached the throat and is about to depart from the body or it has already departed and died. If it is not possible to do any of these, how illogical or irrational it is for man to think that he can escape the Divine grasp and reject life after death!
 
 ## Personal Reflections
+
+

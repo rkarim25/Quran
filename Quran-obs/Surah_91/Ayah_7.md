@@ -16,18 +16,6 @@ word_by_word:
     transliteration: sawwāhā
 ---
 
-## Context
-
-To understand **The Sun** (Ash-Shams) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shams is a **Makkah** surah—revealed as the 26th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 15 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَنَفْسٍ وَمَا سَوَّاهَا (and by the soul, and the One who made it well,...91:7) If, in this phrase, the particle ma is taken to function as infinitival particle, it signifies 'by the human soul and its perfection'.
@@ -217,3 +205,5 @@ Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and w
 وَنَفْسٍ وَمَا سَوَّاهَا (and by the soul, and the One who made it well,...91:7) If, in this phrase, the particle ma is taken to function as infinitival particle, it signifies 'by the human soul and its perfection'. If ma is taken in the sense of man , it signifies 'by the soul and the One who proportioned it'. The
 
 ## Personal Reflections
+
+

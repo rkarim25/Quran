@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And it was said: "O earth! At the end of the fourth verse (44), it was said that the heaven and the earth obeyed the orders and the matter of the flood was all over.
@@ -133,3 +121,5 @@ According to Tafsir at-Tabari and al-Baghawi, Sayyidna Nuh (علیہ السلا�
 The importance of the day of ` Ashura', that is, the tenth of Muharram, has been recognized in all religious codes of the blessed prophets. In early Islam - before the fasts of Ramadan became obligatory - fasting on the day of ` Ashura' was fard. It is no more fard after the revelation of the obligatory status of fasting in Ramadan, but it continues to be a practice of prophets, and a source of reward forever.
 
 ## Personal Reflections
+
+

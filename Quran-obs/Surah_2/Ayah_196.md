@@ -314,15 +314,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 196, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But if you are prevented, sacrifice a Hady (animals for sacriface) such as you can afford,) was revealed in the sixth year of Hijrah, the year of the treaty of Al-Hudaybiyyah when the polytheists prevented Allah's Messenger ﷺ from reaching the House. Allah revealed Surat Al-Fath (chapter 48 in the Qur'an) then, and allowed the Muslims to slaughter any Hady (animals for sacrifice) they had. They had seventy camels with them for that purpose. They were also permitted to shave their heads and end their Ihram. When the Prophet ﷺ commanded them to shave their heads and end the state of Ihram, they did not obey him, as they were awaiting that order to be abrogated. When they saw that the Prophet ﷺ went out after shaving his head, they imitated him. Some of them did not shave, but only shortened their hair. This is why the Prophet ﷺ said:
 
-Al-Bukhari reported that 'Abdur-Rahman bin Asbahani said that he heard 'Abdullah bin Ma'qil saying that he sat with Ka'b bin 'Ujrah in the mosque of Kufah (in Iraq). He then asked him about the Fidyah of the fasting.
+Al-Bukhari reported that 'Abdur-Rahman bin Asbahani said that he heard 'Abdullah bin Ma'qil saying that he sat with Ka'b bin 'Ujrah in the mosque of Kufah (in Iraq). He then asked him about the Fidyah of the fasting. Ka'b said, "This was revealed concerning my case especially, but it is also for you in general. I was carried to Allah's Messenger ﷺ and the lice were falling in great numbers on my face. The Prophet ﷺ said:
 
 ## Tafsir Summary
 
@@ -619,3 +613,5 @@ The warning against violation of rules
 The verse 196 ends up with the words 'Fear Allah' which is a command to adopt Taqwa تقویٰ - a Qur'anic term which has no equivalent in the English language, and denotes the attitude of fearing and abstaining from doing anything against rules set by Allah Almighty. This command has been followed by a warning: وَاعْلَمُوا أَنَّ اللَّـهَ شَدِيدُ الْعِقَابِ (and be aware that Allah is severe at punishment) which means that anyone who knowingly acts against the injunctions revealed by Allah Almighty, for him the punishment of Allah is severe. The people who go in our days for Hajj or ` Umrah are widely negligent of this warning. To begin with, they do not make the necessary effort to find out the rules of Hajj and 'Umrah. Then a good many do not follow the rules strictly, even if they have the knowledge. Bad guides or careless fellow pilgrims sometimes make one miss the obligatory acts, let alone the sunnah and the proper etiquette of the pilgrimage. May Allah bless all of us with the ability to correct what we do.
 
 ## Personal Reflections
+
+

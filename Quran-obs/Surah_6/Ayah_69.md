@@ -57,15 +57,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And it has already been revealed to you in the Book that when you hear the Verses of Allah being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) certainly in that case you would be like them.)[4:140], for, if you still sit with them, agreeing to what they say, you will be just like them. Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -162,3 +154,5 @@ The Ayah above [6:68] is the Ayah mentioned in Allah's statement,
 When the verse cited above was revealed, the noble Companions submitted: Ya Rasul Allah, if this absolute prohibition of going in their gatherings remained in force, we shall be deprived of offering Salah and Tawaf in al-Masjid al-Haram because these people keep sitting there all the time (before Hijrah and the Conquest of Makkah) doing nothing but fault-finding and ill-speaking. Thereupon, revealed was the next verse (69): وَمَا عَلَى الَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَيْءٍ وَلَـٰكِن ذِكْرَ‌ىٰ لَعَلَّهُمْ يَتَّقُونَ ﴿69﴾. It means when people who observe restraint go to al-Masjid al-Haram for their own rightful purpose, then, they are not responsible for the evil deeds of those wicked people present there. However, it does remain their duty that they should tell them what is right and true which may perhaps help them take the right path.
 
 ## Personal Reflections
+
+

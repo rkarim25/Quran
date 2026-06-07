@@ -24,18 +24,6 @@ word_by_word:
     transliteration: lil'mu'minīna
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highr… The local Department of Archaeology has set up some hotels and residential quarters at this site to attract tourists.
@@ -79,3 +67,5 @@ The City of Sodom on the Highroad
 The local Department of Archaeology has set up some hotels and residential quarters at this site to attract tourists. The result is that people with an incorrigible infatuation with the material and who are equally dismissive of the concerns of the Hereafter have made this site a place of fun and frolic. People go there to enjoy the sights of the ancient. Lest such heedlessness becomes a habit, the Holy Qur’ an has served a warning towards the end by saying: إِنَّ فِي ذَٰلِكَ لَآيَةً لِّلْمُؤْمِنِينَ (Surely, in it there are signs for the believers). It means: In reality, these sites and the events associated with them are full of moral lessons for everyone having in-sight. But, it is the good fortune of believers only who would benefit by learning what these sites teach, while others would go through these sites as tourists and leave empty-handed.
 
 ## Personal Reflections
+
+

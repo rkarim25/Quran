@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-jāhilīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Nuh called upon his Lord and said, "O my Lord! In the second verse (46), came a stern response from Allah Ta` ala whereby Sayyidna Nuh (علیہ السلام) was told that this son was no more a part of his family because he was not good and right in what he did.
@@ -171,3 +159,5 @@ This humble writer has restricted the above rule to the ` religious matters' onl
 In our time, the edifice of nationalities is raised on the foundations of homeland, language or color whereby Muslims are segregated into one or the other ` nation' under false banners. This is contrary to the Qur'an, and Sunnah, and amounts to rising in rebellion against the principles of political and social management enunciated by the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

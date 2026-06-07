@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 269, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! Spend of the good things which you have (legally) earned, and of that which We have produced from the earth for you, and do not aim at that which is bad to spend from it,) that it was revealed about the Ansar. When the season for harvesting date-trees would start, the Ansar would collect ripe-date branches from their gardens and hang them on a rope erected between two pillars in the Masjid of the Messenger of Allah. The poor emigrant Companions would eat from these dates. However, some of them (Ansar) would also add lesser type of dates in between ripe-date branches, thinking they are allowed to do so. Allah revealed this Ayah about those who did this,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -224,3 +216,5 @@ This sense has been interpreted in different words. Somewhere it means, the Qur'
 This is the more evident view; more so, since the words of the Qur'an وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرً‌ا كَثِيرً‌ا "And whoever is given wisdom is certainly given a lot of good" do hint in that direction as they mean that the hikmah حِكْمَةَ covers a lot of good. Allah knows best.
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: mamnūnin
 ---
 
-## Context
-
-To understand **The Fig** (At-Tin) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tin is a **Makkah** surah—revealed as the 28th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Qatadah, this Surah is Madani. Two different views have been reported from Ibn Abbas: first that it is a Makki Surah, and second that it is Madani. But the majority of scholars regard it as a Makki revelation, a manifest symbol of which is the use of the words hadh-al-balad-il-amin (this city of peace) for Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ‌ مَمْنُونٍ ‌ (except those who believed and did righteous deeds, because for them there is a reward never ending....95:6).
@@ -147,3 +135,5 @@ Then Allah says,
 Some commentators say that the statement - رَ‌دَدْنَاهُ أَسْفَلَ سَافِلِينَ (We turned him into the lowest of the low) does not refer to human beings in general. It refers specifically to unbelievers who destroyed the God-given best composition, human perfection, honour and intellect by pursuing physical pleasures. As a result of their ingratitude, they will be turned into the lowest of the low. In this interpretation, the exception - إِلَّا الَّذِينَ آمَنُوا (except those who believed and did righteous deeds, because for them there is a reward never ending) will carry its basic interpretation, in that they will not be turned into the lowest of the low. For those who believed and did righteous deeds, there is a reward that is unending. [ Thus in al-Mazhari ].
 
 ## Personal Reflections
+
+

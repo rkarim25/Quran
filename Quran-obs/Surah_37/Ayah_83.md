@@ -20,18 +20,6 @@ word_by_word:
     transliteration: la-ib'rāhīma
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, among those who followed his way was Ibrahim (83)When he came to his Lord with a Salim heart (84)When he said to his father and to his people: "What is it that which you worship? After having related the event concerning Sayyidna Nuh (علیہ السلام) the Qur'an mentions two events from the blessed life of Sayyidna Ibrahim ill.
@@ -73,3 +61,5 @@ After having related the event concerning Sayyidna Nuh (علیہ السلام) t
 The word: شِيعَتِهِ (shi'ah) in verse 83: وَإِنَّ مِن شِيعَتِهِ لَإِبْرَ‌اهِيمَ (And certainly from his adherents was Ibrahim.) is used in the Arabic language for a group or party the individuals from which are similar to each other in basic concepts and methods - and here it is obvious that the pronoun in: شِيعَتِهِ (shi'atihi) is reverting to Sayyidna Nuh (علیہ السلام) . Therefore, it would mean that Sayyidna Ibrahim (علیہ السلام) adhered to the way of Sayyidna Nuh (علیہ السلام) the prophet preceding him, and that there was a perfect agreement between them on the basic principles of faith - and it is also possible that the religious codes they had could also be the same, or similar. Let us bear in mind that, according to some historical narratives, there is a gap of two thousand six hundred and forty years between them, and there was no prophet except Sayyidna Hud and Sayyidna Salih (علیہ السلام) during this period. (Kashshaf, p. 48, v. 4)
 
 ## Personal Reflections
+
+

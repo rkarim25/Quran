@@ -229,15 +229,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 171, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 2. Some commentators have said that the purpose behind the coming of Sayyidna ` Isa (علیہ السلام) was that he should infuse spiritual life into the dead hearts of people and make them alive once again (familiar as born-again Christians in the West). Since he was the cause of spiritual life very much like the spirit is the cause of physical life, therefore, it was in this light that he was called a spirit. In fact, this word has been used for the Holy Qur'an as well: وَكَذَٰلِكَ أَوْحَيْنَا إِلَيْكَ رُ‌وحًا مِّنْ أَمْرِ‌نَا (and thus We have revealed to you a spirit of Our Command - 42:52) because the Holy Qur'an too blesses people with spiritual life.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -510,3 +502,5 @@ The Ideal Solution
 The Shari'ah of Islam has wisely shielded Muslims from falling into the trap of excess. The middle course in between the two extremes it has suggested is: Learn the Book of Allah (Kitabullah) from the Men of Allah (Rijalullah) and recognize the Men of Allah from the Book of Allah. In other words, one should first recognize those who are engaged in learning and communicating the true knowledge of the Qur'an and Sunnah through the all too well-known teachings of these twin sources of Islamic Faith. Once this is settled, no intricate problem relating to Qur'an and Sunnah will ever bother you - if you give precedence to their explanation above your own opinion, and follow them.
 
 ## Personal Reflections
+
+

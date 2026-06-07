@@ -118,18 +118,6 @@ word_by_word:
     transliteration: khālidūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who have earned evil deeds, the recompense of an evil deed is the like thereof, and humiliating disgrace will cover them (their faces). In the two verses (27, 28) appearing next, there is a dialogue between the people of Jahannam and the idols or satans who had led them astray.
@@ -183,3 +171,5 @@ He also said:
 In the two verses (27, 28) appearing next, there is a dialogue between the people of Jahannam and the idols or satans who had led them astray. The locale will be the plain of Resurrection. It was said: On that day, We shall gather everyone. Then, to the Mushriks We shall say that, ` you and your gods whom you had associated' with Us in Our divinity stay in your places where you are, so that you can find out the reality of your conviction.' After that, the connection between these people and their so-called gods as it existed in the mortal world will be disconnected. The result will be that their idols will speak up: ` you never worshipped us.' Making Allah their witness, they will say, ` as for us, we were certainly unaware of your worship' - because we have no senses, no movement and no intelligence to understand these matters.
 
 ## Personal Reflections
+
+

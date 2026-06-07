@@ -59,18 +59,6 @@ word_by_word:
     transliteration: ṭahūran
 ---
 
-## Context
-
-To understand **The Man** (Al-Insan) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Most of the commentators, including Allama Zamakhshari, Imam Razi, Qadi, Baidawi, Allama Nizam ad-Din Nisaburi, Hafiz Ibn Kathir and many others, regard it as a Makki Surah, and, according to Allama Alusi, the same is the opinion of the majority of scholars. However, some commentators hold the view that the Surah was revealed at Madinah, and some others say that it was revealed at Makkah but vv. 8-10 of it were sent down at Madinah. As far as the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. وَّحُلُّوْٓا اَسَاوِرَ مِنْ فِضَّةٍ ۚ (...And they will be adorned by bracelets of silver...76:21).
@@ -236,3 +224,5 @@ Allah says,
 However, a question arises in any case: A bracelet looks good on women, but does not suit men. Why will the men of Paradise wear bracelets? The Answer is that suitability of any piece of jewellery to men or women depends on custom. The style and appeal of jewellery differ from country to country and vary from nation to nation. In some cultures, a piece of jewellery is treated as highly inappropriate for men, and in other cultures it is regarded as highly beautiful and elegant. The Chosros [ Persian kings ] used to wear bracelets around their wrists, and various kinds of jewellery used to be studded on their chest and crown. This was counted as a distinctive feature of their prestige and honour. After the conquest of Persian empire, the treasures that fell into Muslims' hands contained the Persian Emperor's bracelets. Thus the various cultures and nations differ in their taste for jewellery in this very world. The flair and taste for jewellery for men in Paradise cannot be equated with their flair for it in this world.
 
 ## Personal Reflections
+
+

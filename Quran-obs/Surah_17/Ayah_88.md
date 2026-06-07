@@ -86,17 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord. Verily, His grace unto you is ever great (87)Say: "If mankind and the Jinn were together to produce the like of this Qur'an, they could not produce the like thereof, even if they helped one another. (88)And indeed We have fully explained to mankind, in this Qur'an, every kind of similitude, but most of mankind refuse (the truth and accept nothing) but disbelief (89)
 
 (And if We willed, We could surely take away that which We have revealed to you.)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -129,3 +121,5 @@ The subject in verse 88: قُل لَّئِنِ اجْتَمَعَتِ الْإِ
 The repetition of this subject at this place may possibly be to show the futility of what the deniers of the message were trying to do. Here they were trying to test the veracity of the mission of a prophet of Allah by asking all sorts of questions, the one about the Ruh being one of them. Being an exercise in futility, why would they go about digging into unnecessary issues only to determine whether or not the prophet sent to them was true? Why they would not look into the Qur’ an as it is? It leaves no room for doubt in the veracity of the Holy Prophet ﷺ as Prophet and Messenger of Allah ﷺ . The reason is simple. When the humans and jinns of the whole world are incapable of producing the least like of it, what doubt could there be in that it is but the Divine Word. And once it is proved so manifestly that the Holy Qur'an is Divine Word, hardly any doubt remains in that the Holy Prophet ﷺ was a true prophet and messenger of Allah ﷺ .
 
 ## Personal Reflections
+
+

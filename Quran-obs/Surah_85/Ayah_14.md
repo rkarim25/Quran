@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-wadūdu
 ---
 
-## Context
-
-To understand **The Mansions of the Stars** (Al-Buruj) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Buruj is a **Makkah** surah—revealed as the 27th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believe and do righteous good deeds, for them will be Gardens under which rivers flow. إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا (Surely, those who persecuted the believing men and the believing women, then did not repent,...85:10) This verse describes the torment of the wrong-doers who burned the Muslims in the fire pit only on account of their faith.
@@ -127,3 +115,5 @@ The Commentary on
 Surah Al-Buruj Ends here
 
 ## Personal Reflections
+
+

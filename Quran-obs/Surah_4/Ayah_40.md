@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ said to me, 'Recite to me.' I said, 'O Messenger of Allah! Should I recite (the Qur'an) to you, while it was revealed to you?' He said, 'Yes, for I like to hear it from other people.' I recited Surat An-Nisa' until I reached this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -230,3 +222,5 @@ With Allah, the least human measure of thawab or reward is that one good deed ge
 Incidentally, the word, ذَرَّ‌ةٍ : dharrah" appearing in this verse has been translated here as 'particle' following the generally recognized meaning it carries. However, some commentators have pointed out that 'dharrah' is the name of the smallest kind of red ant which the people of Arabia used to cite as an example of something very light and insignificantly small.
 
 ## Personal Reflections
+
+

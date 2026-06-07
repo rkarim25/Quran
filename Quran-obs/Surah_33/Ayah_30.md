@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And indeed it has been revealed to you, as it was to those before you: "If you join others in worship with Allah, surely your deeds will be in vain.")(39:65)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ The word: فَاحِشَةٍ (fahishah) appearing in: بِفَاحِشَةٍ م�
 It will be noticed that the two-fold punishment has been identified by the Qur'an only with 'clearly shameful act'. But, for the two-fold reward, it has imposed several restrictions, as in: وَمَن يَقْنُتْ مِنكُنَّ لِلَّـهِ وَرَ‌سُولِهِ وَتَعْمَلْ صَالِحًا نُّؤْتِهَا أَجْرَ‌هَا مَرَّ‌تَيْنِ (And whoever of you stays obedient to Allah and His messenger, and acts righteously, We shall give her twice her reward-- 31). Here, qunut, that is, staying obedience to Allah and His Messenger ﷺ is a condition. Then, acting righteously is yet another condition. The reason is that reward comes only when obedience is perfect while, for punishment, even a single sin is enough.
 
 ## Personal Reflections
+
+

@@ -130,18 +130,6 @@ word_by_word:
     transliteration: l-ghāfilūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 179, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-175-179 In this concluding portion of the Surah, some deviations of those who do not use their faculties properly to understand the Message have been dealt with and they have been admonished, reproved and warned of the serious consequences of their antagonistic attitude towards the Message of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And surely, We have created many of the Jinn and mankind for Hell. "And surely, we have created for Hell a lot of people from among Jinn and mankind.
@@ -253,3 +241,5 @@ In another verse the Holy Qur'an, speaking the destruction of the people of ` Ad
 The people of ` Ad and Thamud being allured by satanic influences involved themselves in evil deeds which led them to their destruction. That is to say they kept the use of their capabilities limited to abject worldly gains like serving their physical needs and remained heedless to their spiritual demands. No matter what great advances they make in science and technology, they may conquer space, explore moon and other planets, make the world full of their sophisticated satellites, and tame the natural forces to serve their varied needs, but all such efforts are no more than a means of serving their physical and material life. It does not go beyond, to seek spiritual peace and comfort. This achievement science and technology of man is certainly confined to serving his physical life only, which does not make him distinct from the animal in technicality. It is why the Holy Qur'an calls them deaf, dumb and blind because they heard, saw and understood things that belonged to this world only. They did not make proper use of these functions which could lead them to eternal success and peace. The last phrase of this verse said that they are like cattle investing all their effort in serving their bodily desires. Next the verse added بَلْ هُمْ أَضَلُّ "Rather they are much more misled." that is, they are far more unwise than are the cattle, because the animals are not bound to follow the laws of the Shari'ah. They have no reward or punishment for their acts. They are required only to serve their physical needs which they are efficiently doing, contrary to human beings who are accountable for everything they do in this world, and they are going to be punished or rewarded according to their performance. If they confine their effort only to seek material gains of this world and do not make proper use of their faculties, they are certainly more imprudent and unwise as compared to animals.
 
 ## Personal Reflections
+
+

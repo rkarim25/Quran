@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **She that is to be examined** (Al-Mumtahanah) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! Take not my enemies and your enemies as protecting friends'...) was revealed about Hatib, but I do not know if the Ayah was mentioned in the Hadith (or was added as an explanation by one of the narrators)." Al-Bukhari also said that 'Ali bin Al-Madini said that Sufyan bin 'Uyaynah was asked, "Is this why this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ This is why Allah's Messenger ﷺ accepted Hatib's excuse when he said that he o
 لَن تَنفَعَكُمْ أَرْ‌حَامُكُمْ وَلَا أَوْلَادُكُمْ ۚ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَاللَّـهُ بِمَا تَعْمَلُونَ بَصِيرٌ‌ (Neither your womb-relations nor your children will avail you on the Day of Judgment. He will decide between you, and Allah is watchful of what you do...60:3). The verse refutes the plea of Sayyidna Hatib ؓ . He did what he did for the love of his children, but they will be of no help on the Day of Resurrection. All relations on that day will come to an end. Parents will flee from their children, and children from their parents, and no secret will ever remain hidden from Allah.
 
 ## Personal Reflections
+
+

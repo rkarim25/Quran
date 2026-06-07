@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 93, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Mujahid said; "It was revealed about Bani Muqarrin from the tribe of Muzaynah."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -157,3 +149,5 @@ Then, Allah criticized those who seek permission to remain behind while they are
 Ultimately, there were some of them still left out for the simple reason that they could not find a mount. Rendered totally helpless, they could do nothing about their aspirations for Jihad. These are the kinds of people mentioned in the cited verses whose excuse was accepted by Allah Ta` ala. However, at the end, the warning was repeated by saying that particularly cursed are those who, despite their ability, elected to stay away from Jihad like women. The sentence: الَّذِينَ يَسْتَأْذِنُونَكَ وَهُمْ أَغْنِيَاءُ (Blame lies, in fact, on those who ask your permis-sion despite being rich - 93) means exactly this.
 
 ## Personal Reflections
+
+

@@ -101,18 +101,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Emphasis on hijab for women and an exemption The injunction on hijab for women has already appeared earlier in detail in two verses, and two exemptions were also mentioned there.
@@ -196,3 +184,5 @@ The injunction on hijab for women has already appeared earlier in detail in two 
 In the next verse the third exemption is granted on the basis of a woman's personal situation. If a woman has grown so old that no one would have any (sexual) desire towards her, nor is she marriageable, for such a woman concession in hijab is allowed in that even strangers (non-Mahrams) are treated like mahrams for her. She is not required to cover those parts of her body before non-Mahrams which are not required to be covered before mahrams. Hence, it is said وَالْقَوَاعِدُ مِنَ النِّسَاءِ اللَّاتِي (And those old women who have no hope for marriage - 60). The explanation of this verse is already given above. Although very old women are allowed to uncover those parts of their body before non-Mahrams which are not required to be covered before mahrams, yet this exemption is allowed with the condition that they do so without applying any makeup or adornment. The other thing said in the last is وَأَن يَسْتَعْفِفْنَ خَيْرٌ‌ لَّهُنَّ (60) that is, it is better for them if they avoid going before non-Mahrams altogether.
 
 ## Personal Reflections
+
+

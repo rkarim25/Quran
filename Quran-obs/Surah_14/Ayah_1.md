@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **Abraham** (Ibrahim) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 ((This is) a Book which We have revealed unto you...) Allah says, 'This is a Book that We have revealed to you, O Muhammad. This 'Book', is the Glorious Qur'an, the most honored Book, that Allah sent down from heaven to the most honored Messenger of Allah sent to all the people of the earth, Arabs and non-Arabs alike,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -188,3 +180,5 @@ As partly stated a little earlier, this verse attributes the act of bringing peo
 It will be noticed that, at this place, the word: alJ1 (Allah) has been pre-ceded by two of His attributes: الْعَزِيزِ الْحَمِيدِ (Al-` Aziz and Al-Hamid ). Lexically, Al-` Aziz means Mighty, Overpowering - and Al-Hamid denotes the Being who is deserving of praise. By bringing these two attributes before the basic name of Allah Ta’ ala the hint given is that the Pure and Sacred Being to whom this way is going to lead is Mighty, and Overpowering too, and deserving of all praise as well. Therefore, one who takes to this way will never falter or stumble anywhere enroute, nor the effort made on it will ever go waste. In fact, one is certain to reach the destination - only if one does not abandon this way.
 
 ## Personal Reflections
+
+

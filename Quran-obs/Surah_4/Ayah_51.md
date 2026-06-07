@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Have you not seen those who claim sanctity for themselves?) was revealed about the Jews and Christians when they said, 'We are Allah's children and His loved ones.'" Ibn Zayd also said, "This Ayah was revealed concerning their statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -223,3 +215,5 @@ Commentators say that Bal'am ibn Ba’ ur was a great scholar and a mendicant wh
 This tells us that religious knowledge as culled from a book is not enough to guarantee the desired benefit. What is needed is action sought by the knowledge. This will not be possible unless one totally abstains from material greed and from the pursuit of carnal desires. Otherwise, man would not stay strong enough to resist against sacrificing something so dear as his religion on the altar of his desires. In our own time, we have the kind of people who would abandon their trice creed just to achieve their material and political goals. Some of them would go for the extra effort to dress up their secular beliefs and views with the garb of Islam. Such people less care about the grave Covenant between God and man, nor do they worry much about what would happen to them in the Akhirah. All this happens when one abandons his true and right creed and starts following the signals of the Satan.
 
 ## Personal Reflections
+
+

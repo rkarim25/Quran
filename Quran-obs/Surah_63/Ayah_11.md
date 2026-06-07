@@ -50,18 +50,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Hypocrites** (Al-Munafiqun) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Munafiqun is a **Madinah** surah—revealed as the 104th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-On the one side, the Holy Prophet (upon whom be Allah's peace) and his devoted Companions were preparing for war against their enemy, the Jews, and on the other, these hypocrites were secretly sending messages to the Jews to the effect: "Stand firm we are with you: if you are attacked, we will help you, and if you are driven out, we too will go out with you." The secret of this intrigue was exposed by Allah Himself, as has been explained in Surah Al-Hashr: 11-17 above.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! وَأَنفِقُوا مِن مَّا رَ‌زَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ أَحَدَكُمُ الْمَوْتُ (And spend out of what We have given to you before death comes to one of you…63:10) ‘Coming of death’ in this verse refers to ‘witnessing the signs of death’.
@@ -115,3 +103,5 @@ Surah Al-Munafiqun
 Ends here
 
 ## Personal Reflections
+
+

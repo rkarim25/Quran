@@ -76,18 +76,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-18-24 ) is an admonition for all those people who had professed to have affirmed the faith and joined the Muslim community, but were devoid of the true spirit of the faith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The Command to Taqwa and to prepare for the Day of Resurrection The earlier parts of Surah Al-Hashr has described different events relating to the Jews, the pagans and the hypocrites and their punishments in this world and in the next.
@@ -191,3 +179,5 @@ The phrase مَّا قَدَّمَتْ لِغَدٍ 'what he (or she) has sent a
 Also, it is possible that the first command to fear Allah is to send forth good deeds for the Hereafter by acting upon imperatives set by Allah, and the second command to fear is to ensure that what is being sent is not fake or counterfeit. Fake or counterfeit deeds, in relation to the Hereafter, would imply the deeds done seem to be genuinely righteous deeds, but they lack sincerity of purpose and the good pleasure of Allah. What was done ostentatiously or for ulterior motive or an ostensible action that seems like an act of worship, but having no base in religion, it is tantamount to innovation (Bid'ah). Thus the second command to fear Allah implies that for the Hereafter it is not sufficient to merely accumulate ostensible actions, but to send forth genuine deeds performed with sincerity according to the rules set in religion. Spurious actions will not be acceptable there.
 
 ## Personal Reflections
+
+

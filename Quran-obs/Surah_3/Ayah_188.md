@@ -90,17 +90,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 188, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad recorded that Marwan told his guard Rafi' to go to Ibn 'Abbas and proclaim to him, "If every person among us who rejoices with what he has done and loves to be praised for what he has not done will be tormented, we all will be tormented." Ibn 'Abbas said, "This Ayah was revealed about the People of the Scriptures." He then recited the Ayah,
 
 As pointed out earlier, they were commanded to tell their people about injunctions revealed in the Book of Allah freely and openly without any effort. To curtail or hold back what was in there people. Although, they were explicitly instructed not to hide any commandment, yet they elected to ignore the pledge they had made, out of their worldly considerations and personal greed. They did hide a good many commandments from their people.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -199,3 +191,5 @@ The Holy Qur'an condemns them for both these attitudes. From here, we know that 
 The rule about doing a good deed is simple. If anyone does a good deed, then looks forward to be praised for it - or, worse still, takes elaborate steps to make this happen - then, despite having done what one did, this act will be deemed blameworthy under the Islamic legal-moral norms. And should one elect not to do that good deed at all, that would, then, be taken as far more blameworthy. As for the natural desire to do something good and thereby earn a fair name, it is not included under the purview of this ruling - unless, of course, if one does not make unusual projections to earn that fair name (Bayan al-Qur'an).
 
 ## Personal Reflections
+
+

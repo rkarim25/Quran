@@ -80,18 +80,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And be not like those who come out of their homes boastfully and to be seen of men, and hinder (men) from the path of Allah; and Allah is 'Muhīt' (eneompassing and thoroughly comprehending) all that they do (47)And (reme… The Anatomy of Shaitanic Deception and Personal Defence There are some elements of guidance we receive from what has been mentioned in this verse:
@@ -225,3 +213,5 @@ In the verse which follows (49), mentioned there is a common saying of the hypoc
 Even in our day, there are those religiously observing and innocent-looking Muslims who would become ready targets for those who claim to have advanced rationally and intellectually and who would benignly dismiss them as old-timers who might as well be left alone. But, should such people be armed with perfect faith and trust in Allah, no harm can touch them - even if intended and tried.
 
 ## Personal Reflections
+
+

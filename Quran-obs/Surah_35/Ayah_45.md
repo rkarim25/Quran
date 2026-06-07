@@ -109,18 +109,6 @@ word_by_word:
     transliteration: baṣīran
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they not traveled in the land, and seen what was the end of those before them – though they were superior to them in power? The word: لَا يَحِيقُ (la yahiq) in verse 43: وَلَا يَحِيقُ الْمَكْرُ‌ السَّيِّئُ إِلَّا بِأَهْلِهِ (And the evil plot envelops none but its own people ( who make it) carries the sense of: لَا یُحِیطُ (la yuhit: does not surround) or: لَا یُصیبُ (la usib: does not afflict).
@@ -180,3 +168,5 @@ Surah Fatir
 Ends here
 
 ## Personal Reflections
+
+

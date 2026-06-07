@@ -124,15 +124,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 272, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -285,3 +277,5 @@ It has been clarified in this verse that a صدقہ sadaqah given to a non-Musli
 Let us be clear at this point that sadaqah صدقہ referred to here is nafl نفل supererogatory or voluntary charity) which can be given to a dhimmi (a non-Muslim citizen of a Muslim state) as well. The obligatory زکاۃ Zakah is not meant here since it is not permissible to give that to anyone except a Muslim (Mazhari). It is not permissible to give any kind of sadaqah صدقہ to a harbi (a non-Muslim citizen of a non-Muslim state) and, however, it is permissible to give the dhimmis ذمیوں all other types of sadaqat, obligatory or supererogatory. زکاۃ Zakah is not included in the verse.
 
 ## Personal Reflections
+
+

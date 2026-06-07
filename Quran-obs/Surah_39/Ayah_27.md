@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Yes.) He (Az-Zubayr) said, 'This is a very serious matter.'" Ahmad recorded from Az-Zubayr bin Al-'Awwam, may Allah be pleased with him, that when this Surah was revealed to the Messenger of Allah ﷺ:
 
 Ibn Abi Hatim recorded that Sa'id bin Jubayr said that Ibn 'Umar, may Allah be pleased with him, said, "This Ayah was revealed and we did not know what it was revealed about:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ Verse أَفَمَن يَتَّقِي بِوَجْهِهِ (Tell Me about the on
 Out of the authorities of Tafsir, ` Ata and Ibn Zayd said that a person condemned to Jahannam will have his hands and feet tied before being dragged in there. (Qurtubi)
 
 ## Personal Reflections
+
+

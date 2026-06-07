@@ -64,17 +64,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities. When the delegation met with the Prophet ﷺ and he recited the Qur'an to them, they embraced Islam, cried and were humbled. Then they returned to An-Najashi and told him what happened. 'Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Islam when the Muslims who migrated to Ethiopia resided among them." Qatadah said, "They were some followers of the religion of 'Isa, son of Maryam, who when they saw Muslims and heard the Qur'an, they became Muslims without hesitation." Ibn Jarir said that these Ayat were revealed concerning some people who fit this description, whether they were from Ethiopia or otherwise. Allah said,
 
 (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah.)[3:199] and,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -211,3 +203,5 @@ spirit of a community
 The statement given in the verse also tells us something crucial about the life of a community or nation (of true believers) - , that its `.Ulama' and Mashaikh are its real movers and makers, the very spirit of the system. Until such time that there are present in the society (genuine) ` Ulama' and Mashaikh, who would not follow their worldly desires (in matters of Din and public good of Believers) motivated by nothing but the fear of Allah and answerability before Him, then, the community or nation in which they are shall never be deprived of real good and real blessing.
 
 ## Personal Reflections
+
+

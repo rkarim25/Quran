@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ Dark shall be the record of deeds, even if one be an angel.
 By saying: نَرْ‌فَعُ دَرَ‌جَاتٍ مَّن نَّشَاءُ (We raise in ranks whom We will) towards the end of the verse (83), the hint given is that the station of special reverence received by Sayyidna Ibrahim (علیہ السلام) in this world which would last through generations to come until the Last Day, a homage universally paid by Jews, Christians, Muslims and Buddhists, was no feat of personal acquisition or recognition, instead of which, this was nothing but the grace and reward from Allah.
 
 ## Personal Reflections
+
+

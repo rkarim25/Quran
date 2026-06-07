@@ -92,18 +92,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Musa said to his people: "O my people! At this place, the Holy Qur'an has particularly mentioned two attributes of these two elders: (1) الَّذِينَ يَخَافُونَ , that is, 'those who fear.' Not said here is as to who it is that they fear.
@@ -297,3 +285,5 @@ The standard rule of conduct we learn from here is that a person whom Allah Ta` 
 In short, these two elders advised their people that they should not feel nervous about the apparent power of the Amalkites. If they would place their trust in Allah, just walk upto the gate of Baytul-Maqdis, victory shall be theirs. As for the decisive statement of these elders that once they reach the city gate, they will overcome and the enemy will run away defeated, it could have been based on a close assessment of the Amalkites, that they were, no doubt, unusually huge in built and strength, but were also weak at heart as a result of which, once they hear about the surprise attack, they would be unable to stay there.-And it is also possible that their total faith in the Divine decree which they had heard from Sayyidna Musa (علیہ السلام) as a glad tiding was the basis on which they said so.
 
 ## Personal Reflections
+
+

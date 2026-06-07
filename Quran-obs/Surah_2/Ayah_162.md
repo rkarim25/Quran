@@ -44,15 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 162, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These Ayat sternly warn against those who hide the clear signs that the Messengers were sent with which guide to the correct path and beneficial guidance for the hearts, after Allah has made such aspects clear for His servants through the Books that He revealed to His Messengers. Abu Al-'Aliyah said that these Ayat, "were revealed about the People of the Scripture who hid the description of Muhammad ﷺ." Allah then states that everything curses such people for this evil act. Certainly, just as everything asks for forgiveness for the scholar, even the fish in the sea and the bird in the air, then those who hide knowledge are cursed by Allah and by the cursers.
 
-From the words of the text :'and died while they were disbelievers', commentators al-Jassas, al-Qurtubi and some others have formulated the view that it is not permissible to curse an infidel about whom it is not certain that he is to die in a state of infidelity. Now that we have no way of finding out for sure that a person will die in a given state, we are bound to obey the ruling that it is not permissible to curse an infidel by name.
+From the words of the text :'and died while they were disbelievers', commentators al-Jassas, al-Qurtubi and some others have formulated the view that it is not permissible to curse an infidel about whom it is not certain that he is to die in a state of infidelity. Now that we have no way of finding out for sure that a person will die in a given state, we are bound to obey the ruling that it is not permissible to curse an infidel by name. That the Holy Prophet ﷺ has. Cursed some infidels by name is explained by the fact that their death in a state of infidelity was divinely revealed to him. As far as the infidels as a whole are concerned, including the tyrants and the unjust, it is technically correct, if cursed without any particularization.
 
 ## Tafsir Summary
 
@@ -137,3 +131,5 @@ From the words of the text :'and died while they were disbelievers', commentator
 From this we also find out that the act of cursing is so grave that it has been disallowed even if the target be an infidel about whom it is not certain that he is going to die as one. If so, how can this become permissible if the target is a Muslim or, even if it is directed at an animal? Common people in Muslim societies seem to neglect this aspect of standard Muslim behaviour, specially our Muslim sisters who are prone to use very hard language about those they do not like among the circle of their acquaintances. It should be clearly understood that the act of cursing becomes effective not only by using the word, 'curse' but all synonyms used are subject to the same ruling. The word 'La` nah لعنہ ' (curse) means: to remove away from the mercy of Allah Almighty'. Therefore, all damnatory swearing and cursing, whatever the shade, circumstance or language, falls under the purview of "la` nah" لعنہ or 'curse'.
 
 ## Personal Reflections
+
+

@@ -26,15 +26,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Believers** (Al-Mu'minun) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H. The apparent meaning is that the Zakah that was instituted in Al-Madinah is the one based upon the Nusub and the specific amounts, apart from which it seems that the basic principle of Zakah was enjoined in Makkah. As Allah says in Surat Al-An'am, which was also revealed in Makkah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Seventh attribute
 A careful study of the above seven attributes would show that they encompass all the duties which man owes to Allah and to fellow men, and all the laws governing those duties. A person who possesses these attributes and adheres to them is a complete mu'min (believer) and deserving of falah in this world and in the Hereafter. It will also be noted that these seven attributes begin and also end with a reference to prayers which suggests that if prayers are offered in the prescribed manner with all their requirements, the other attributes will appear automatically.
 
 ## Personal Reflections
+
+

@@ -105,18 +105,6 @@ word_by_word:
     transliteration: yatafakkarūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And your Lord inspired the bee, saying: "Take you habitations in the mountains and in the trees and in what they (humans) erect. The second instruction appears in: ثُمَّ كُلِي مِن كُلِّ الثَّمَرَ‌اتِ (Then, eat from all the fruits) where the bee is being commanded to suck juices from fruits and flowers as it desires and likes.
@@ -230,3 +218,5 @@ It has been reported about some Muslim mystics (Sufiya' ) that they did not like
 But, occurrences of this nature do not go to prove that these blessed souls took medical treatment to be reprehensible (makruh). May be, at that time, it was not upto their personal taste and inclination. There-fore, it was because of their inability to accept it temperamentally that they did not favour to go by it. This is a transitory phase of psyche when one comes under the overwhelming logic and effect of the state one is in, and which cannot be used as an argument to prove that medical treatment is either impermissible or reprehensible. The very request made to Sayyidna Ibn Masud ؓ by Sayyidna ` Uthman ؓ that he be allowed to bring a physician for him is, in itself, a proof of the fact that treatment is permissible - rather, there are situations when doing so becomes mandatory as well.
 
 ## Personal Reflections
+
+

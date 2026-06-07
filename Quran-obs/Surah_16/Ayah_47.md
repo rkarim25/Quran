@@ -38,18 +38,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do then those who devise evil plots feel secure that Allah will not cause them to sink into the earth, or that torment will not seize them from where they do not perceive it (45)Or that He may punish them in the midst of their going to and fro (in their livelihood), so that there be no escape for them (from Allah's punishment)(46)Or that He may punish them where they fear it most?
@@ -123,3 +111,5 @@ In the verses cited above, after having mentioned various punishments which coul
 First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is that all these punishments which overtake human beings in this world are there to warn them as part of the dictates of Divine mercy. After that, by introducing the word: رَ‌ءُوفٌ(Ra uf: Kind) headed by the intensifying particle lam) that is, the lam of ta'kid), and thus by placing stress on the fact that Allah Ta’ ala was Very Kind and Very Merciful, the hint given was that warnings sent during the life of the world were, in reality, called for by His intrinsic Kindness and Mercy so that heedless men and women would learn from the warning and correct their deeds (before comes 'the last spasm of mass extinction' they themselves are talking about at the closing of the twentieth century, but are still not ready to learn, believe and correct).
 
 ## Personal Reflections
+
+

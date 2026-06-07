@@ -12,18 +12,6 @@ word_by_word:
     transliteration: nashṭan
 ---
 
-## Context
-
-To understand **Those who drag forth** (An-Nazi'at) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nazi'at is a **Makkah** surah—revealed as the 81st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 46 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Hadrat Abdullah bin Abbas, this Surah was sent down after Surah An-Naba. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَالنَّاشِطَاتِ نَشْطًا (and by those [ angels ] who untie the knot [ of the souls of the believers ] smoothly, [ 2] ' The word nashitat is derived from nasht and it means 'to untie the knot'.
@@ -183,3 +171,5 @@ The second quality of the angels:
 وَالنَّاشِطَاتِ نَشْطًا (and by those [ angels ] who untie the knot [ of the souls of the believers ] smoothly, [ 2] ' The word nashitat is derived from nasht and it means 'to untie the knot'. This signifies 'to untie the knot of something which contains water or air, so that it may be released easily'. This is metaphor for drawing out the souls of the believers gently, unlike the souls of the infidels which are plucked out harshly. In this case too, the adverb 'smoothly' refers to the spiritual smoothness, and not to the physical experience. Sometimes, it happens that there is a delay at the time of death of a righteous believer. This may not be suspected to mean that he is undergoing some sort of suffering, although physically it may seem so. When the soul of an infidel is extracted, the entire scene of the punishment of barzakh comes in front of him. It is frightened by it, disperses throughout the body and tries to hide or escape. The angels forcefully extract the soul just as wet wool wrapped around a skewer is forcefully removed. When the soul of a believer is extracted, on the other hand, the reward, the blessings and the welcome news of the barzakh come in front of him.
 
 ## Personal Reflections
+
+

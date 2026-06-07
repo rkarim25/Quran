@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-wārithīna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Imam Ahmad bin Hanbal, may Allah have mercy on him, recorded that Ma'diykarib said: "We came to 'Abdullah and asked him to recite to us: (Ṭa Sīn Mīm.) the two hundred. وَنُرِ‌يدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْ‌ضِ وَنَجْعَلَهُمْ أَئِمَّةً ؓ (And We intended to favour those who were held as weak in the land and to make them leaders - 28:5).
@@ -139,3 +127,5 @@ We have already discussed the significance of the separate letters.
 وَنُرِ‌يدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْ‌ضِ وَنَجْعَلَهُمْ أَئِمَّةً ؓ (And We intended to favour those who were held as weak in the land and to make them leaders - 28:5). In this verse it is emphasized that the plan of the Pharaoh was not equal to that of the divine fate, rather it turned out to be completely ineffective and he and his entire courtiers were befooled. On the basis of the dream and it's interpretation about an Isra'ili boy from whom the life of the Pharaoh was at risk, and because of which hundreds of newly born Isra'ili male issues were put to death on their birth, it so turned out that Allah Ta` ala made that very boy to grow up in his own house. Not only that, but for the solace of his mother it was arranged to send him back to her for nursing in a most astonishing manner. On top of that the Pharaoh was made to pay a service charge for nursing, which according to some narrations was one Dinar a day. Since this service charge was taken from an infidel with his consent, hence there is no confusion about its admissibility. The cruelty he had perpetrated to quell the risk was of no avail to him, because that very danger was ultimately made to rear in his own home, and ultimately erupted like lava. This way the dream came true, and he saw that happening with his own eyes. The verse وَنُرِ‌يَ فِرْ‌عَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُم مَّا كَانُوا يَحْذَرُ‌ونَ and to make the Pharaoh and Haman and their armies see [ that ] what they were fearing from (had actually happened - 28:6) describes this only.
 
 ## Personal Reflections
+
+

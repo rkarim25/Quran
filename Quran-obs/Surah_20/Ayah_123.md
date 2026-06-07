@@ -82,15 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 123, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But whosoever turns away from My Reminder,) This means, "Whoever opposes my command and what I have revealed to My Messenger, then he has turned away from it, neglected it and taken his guidance from other than it."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ Allah says to Adam, Hawwa' and Iblis, "Get down from here, all of you." This mea
 The اهْبِطَا مِنْهَا جَمِيعًا (123) mean "both of you go down together". This command can be in reference to Sayyidna 'Adam (علیہ السلام) and the shaitan in which case the meaning of the phrase بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ (some of you enemies of some - 123) is obvious, namely that the two of them will remain enemies in the world also. However if it is argued that the Shaitan had already been expelled from Paradise long before these events occurred, then it would be correct to assume that these words have been addressed to Sayyidna 'Adam (علیہ السلام) and Sayyidah Hawwa' (علیہا السلام) meaning thereby that their children would cherish hostile feelings towards one another and mutual hostility among the children embitters the lives of the parents.
 
 ## Personal Reflections
+
+

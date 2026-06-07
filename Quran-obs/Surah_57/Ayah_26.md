@@ -66,17 +66,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Iron** (Al-Hadid) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil.) refering to the Injil that Allah revealed to him,
 
 In the preceding verses it was mentioned that in order to give guidance to the world and to establish justice therein, Allah sent His Messengers and revealed to them the divine books and set up Balance. The current verses give specific names of some of those Divine Messengers. Among them, Prophet Nuh (علیہ السلام) stands first in the list, because he is second 'Adam (علیہ السلام) in the sense that all human beings after the Deluge were from his progeny. Then the Prophet Ibrahim Khalil-ullah (علیہ السلام) is mentioned as he is the father of the prophets and recognized as an ideal for all the divine religions. It has been made plain here that all the Prophets and Messengers (علیہ السلام) sent after these two prophets were from their offspring. Out of many branches of the progeny of Nuh (علیہ السلام) ، the branch singled out for prophet-hood was that of Prophet Ibrahim Khalil-ullah (علیہ السلام)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -159,3 +151,5 @@ Many of the Nations of the Prophets (علیہم السلام) were Rebellious
 In the preceding verses it was mentioned that in order to give guidance to the world and to establish justice therein, Allah sent His Messengers and revealed to them the divine books and set up Balance. The current verses give specific names of some of those Divine Messengers. Among them, Prophet Nuh (علیہ السلام) stands first in the list, because he is second 'Adam (علیہ السلام) in the sense that all human beings after the Deluge were from his progeny. Then the Prophet Ibrahim Khalil-ullah (علیہ السلام) is mentioned as he is the father of the prophets and recognized as an ideal for all the divine religions. It has been made plain here that all the Prophets and Messengers (علیہ السلام) sent after these two prophets were from their offspring. Out of many branches of the progeny of Nuh (علیہ السلام) ، the branch singled out for prophet-hood was that of Prophet Ibrahim Khalil-ullah (علیہ السلام)
 
 ## Personal Reflections
+
+

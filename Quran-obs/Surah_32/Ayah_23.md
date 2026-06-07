@@ -63,18 +63,6 @@ word_by_word:
     transliteration: is'rāīla
 ---
 
-## Context
-
-To understand **The Prostration** (As-Sajdah) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the style of the Surah it appears that it was sent down during the middle Makkah period, more particularly in its initial stage, for one does not find in its background that severity of the persecution and tyranny which one finds in the Surahs sent down in the later stages.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We gave Musa the Scripture. The word: لِقَاء (liqa' ) in the first verse (23) cited above: فَلَا تَكُن فِي مِرْ‌يَةٍ مِّن لِّقَائِهِ (so do not be in doubt about receiving it) means meeting.
@@ -138,3 +126,5 @@ On the other hand, its tafsir from Sayyidna Ibn ` Abbas and Qatadah ؓ has been 
 And Hasan al-Basri (رح) explains it by saying: The way Sayyidna Musa (علیہ السلام) was given a Book, then people belied and harassed him, the prophet of Islam too should anticipate that he will have to face similar treatment at the hands of his people. Therefore, he should not grieve over the pains inflicted by disbelievers. In fact, he should take that as the blessed practice of prophets, and endure.
 
 ## Personal Reflections
+
+

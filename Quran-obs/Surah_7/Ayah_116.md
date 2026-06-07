@@ -50,18 +50,6 @@ word_by_word:
     transliteration: ʿaẓīmin
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 116, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "O Musa! Ibn Kathir has said that the prophet Musa (علیہ السلام) behaved with them politely by inviting them to have their turn first.
@@ -101,3 +89,5 @@ So, when they threw, they bewitched the eyes of the people, and made them fright
 This verse indicates that this demonstration of their magic was just a bewitching of the eyes of the people which made them see the staffs and strings as snakes leaping on the ground, while the strings and the staffs did not change physically. It was a kind of mesmerism hypnotising the minds of the onlookers. This does not mean that sorcery is confined only in this kind and that it cannot change some-thing into another, as we do not have any proof against it. On the contrary, many forms and kinds of magic have been taken as being reality. The terms magic and sorcery are usually applied for all the acts that seem to be happening in unusual way. Sleight of hand, telepathic influences and mesmerism are sometimes called magic. Trans-formation of one thing into another through magic may be a possibility but we have no valid reason or proof for or against it.
 
 ## Personal Reflections
+
+

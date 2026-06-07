@@ -118,18 +118,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is not given to any human being that Allah should speak to him unless (it be) by revelation, or from behind a veil, or (that) He sends a Messenger to reveal what He wills by His leave. مَا كُنتَ تَدْرِ‌ي مَا الْكِتَابُ وَلَا الْإِيمَانُ وَلَـٰكِن (You did not know earlier what is the Book or what is "Iman', but We have made it a light with which We guide whomsoever we will from among Our slaves - 42:52).
@@ -219,3 +207,5 @@ Surah Shura
 ends here.
 
 ## Personal Reflections
+
+

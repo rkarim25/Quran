@@ -124,15 +124,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you (O Muhammad ﷺ) but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me".)[21:25],
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ The verse implies that a person whom Allah invests with the Book, the Wisdom and
 In this, there is the necessary refutation of the Christians who claimed that it was Masih (علیہ السلام) who asked them to have belief in his sonship and godhead. Also chastised were the Muslims who had gone to the Holy Prophet . ﷺ trying to find out if it was all right for them to prostrate before him rather than greet him with the usual سلام salam. Also admonished were the people of the Book who had invested their rabbis and monks with the station of God. Refuge with Allah! (Tafsir ` Usmani)
 
 ## Personal Reflections
+
+

@@ -130,18 +130,6 @@ word_by_word:
     transliteration: qarībun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 214, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or think you that you will enter Paradise without such (trials) as came to those who passed away before you? The previous verse has said how hostile the disbelievers have been to prophets (علیہم السلام) and believers and, in a way, has comforted Muslims hurt by the mockery of disbelievers that there is nothing new about this antagonism.
@@ -247,3 +235,5 @@ The hardships faced by the prophets are the hardest faced by men, after that, by
 2. The second point one must note here concerns the prophets and their followers. That they reached a point of suffering when they cried out as to when will the help of Allah come, was not because of any doubt since that would be against the dignity of their station. In fact, the call was made in the background of Allah's promised help for which the time and place was left undetermined. As such, using these words in a state of distress indicated the desire for early help. Making such a prayer is not against one's trust in Allah (tawakkul تَوَکَّل) or against the station of prophet hood. On the contrary, the fact is that Allah Almighty favours the earnest supplication of his servants. Who else other than the prophets and the pious of the community would be more deserving of what Allah likes?
 
 ## Personal Reflections
+
+

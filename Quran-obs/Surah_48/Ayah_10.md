@@ -109,18 +109,6 @@ word_by_word:
     transliteration: ʿaẓīman
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, We have sent you as a witness, as a bearer of glad tidings, and as a warner (8)In order that you (O mankind) may believe in Allah and His Messenger and that you Tu'azziruh and Tuwaqqiruh, and Tusabbihuh Bukrah and Asila (9)Verily, those who give pledge to you, they are giving pledge to Allah. Injunctions and Related Considerations In the preceding verses, Allah referred to the favours he bestowed generously upon the Holy Prophet ﷺ and his Ummah, especially upon those who participated in the pledge of Ridwan.
@@ -334,3 +322,5 @@ Other scholars refer the third person anaphoric pronouns attached to the verbs o
 After that, there is reference to the pledge of Ridwan which was narrated in part [ 10] of the story of Hudaibiyah. The purpose of the believers in entering into the pledge at the hands of the Holy Prophet ﷺ was to act upon the command of Allah and to receive His good pleasure. Therefore, when the blessed Companions ؓ placed their hands on the hand of the Holy Prophet ﷺ it was tantamount to taking the pledge at the hands of Allah. 'Allah's hand' is in any case something falling in the category of mutashabihat the correct nature of which is cannot be known to us, nor should we attempt to investigate its reality. The significance of the pledge of Ridwan is described later in the Surah. The word bai'ah, lexically, connotes a pledge to do some particular work. The ancient and traditional method of this pledge is for the pledging parties to place their hands upon each other, although the placing of hands is not a necessary condition. Nevertheless once the pledge is consummated, juristically it is binding, and its violation is unlawful. Therefore, it is later laid down that whoever violates the pledge will cause loss to himself. It will not cause loss to Allah and His Messenger ﷺ . Whoever fulfils the terms of the pledge will receive a mighty reward from Allah.
 
 ## Personal Reflections
+
+

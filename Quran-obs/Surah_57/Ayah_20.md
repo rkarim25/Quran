@@ -169,18 +169,6 @@ word_by_word:
     transliteration: l-ghurūri
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Know that the life of this world is only play and amusement, pomp and mutual boasting among you, and rivalry in respect of wealth and children. The Life of this World is Fleeting Enjoyment The preceding verses described the conditions of the inmates of Paradise and those of the inhabitants of Hell, which will materialize in the Hereafter and will be permanent and eternal.
@@ -282,3 +270,5 @@ In short, the parable means that in the wake of rain vegetation of all sorts gro
 وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُ‌ورِ‌ (And the worldly life is nothing but a material of delusion....57:20) The current phrase states concisely the reality of this world. Having seen and understood all that has been explained in the foregoing verses about the transitory nature of this world, sound and intelligent people can come to only one conclusion: that is, the life of this world is a material of delusion; it is not a capital that may be useful in odd times. Therefore, after knowing the reality of the worldly life and the punishment of the Hereafter, a reasonable man should not be over-involved in worldly pleasures, and should be eager to obtain the bounties of the Hereafter. This is what the next verses say.
 
 ## Personal Reflections
+
+

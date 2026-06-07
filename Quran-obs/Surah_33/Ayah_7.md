@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisions in it.)(42:13) This is the covenant which Allah took from them, as He says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -157,3 +149,5 @@ After having generally mentioned prophets, peace be on them all, before saying: 
 'I am the first human being in the creation and the last of them in being sent (with the prophetic mission).' (Reported by Ibn Sa'd and Abu Nu'aim in Al-Hilyah from Maisirah al-Mafjar and At-Tabarani in al-Kabir from Ibn ` Abbas ؓ - Mazhari)
 
 ## Personal Reflections
+
+

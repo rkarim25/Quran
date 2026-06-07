@@ -118,18 +118,6 @@ word_by_word:
     transliteration: l-dākhilīna
 ---
 
-## Context
-
-To understand **The Prohibition** (At-Tahrim) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tahrim is a **Madinah** surah—revealed as the 107th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In connection with the incident of tahrim referred to in this Surah, the traditions of the Hadith mention two ladies who were among the wives of the Holy Prophet (upon whom be peace) at that time Hadrat Safiyyah and Hadrat Mariyah Qibtiyyah. The former (i. e. Hadrat Safiyyah) was taken to wife by the Holy Prophet after the conquest of Khaiber, and Khaiber was conquered, as has been unanimously reported, in A. H. 7. The other lady, Hadrat Mariyah, had been presented to the Holy Prophet by Muqawqis, the ruler of Egypt, in A.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Prophet! ضَرَ‌بَ اللَّـهُ مَثَلًا لِّلَّذِينَ كَفَرُ‌وا امْرَ‌أَتَ نُوحٍ ( Allah has cited for the disbelievers the example of the wife of Nuh (علیہ السلام) and the wife of Lut (علیہ السلام) ...66:10).
@@ -195,3 +183,5 @@ The third woman is the one who was the wife of the Pharaoh, the worst disbelieve
 The fourth woman is Maryam (علیہا السلام) . She was not wife of anyone, but her faith and virtuous deeds earned for her such a high degree that she was invested with perfections of the prophets, even though she was not a prophet according to the majority of scholars. Verse [ 11] serves as a warning to the unbelievers who think that they will attain salvation merely by their companionship with believers, the good company will not rescue them in the Hereafter if they persist in their disbelief. So likewise, a disbeliever's disbelief will not harm a believing relative. Therefore, the auliyas' and ambiyas' wives should not carelessly take for granted that they will attain salvation on account of their husbands nor should the wife of a disbeliever think that his disbelief will harm her. Every person, man or woman, should be concerned about his/her own faith and action.
 
 ## Personal Reflections
+
+

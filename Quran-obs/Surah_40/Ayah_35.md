@@ -100,18 +100,6 @@ word_by_word:
     transliteration: jabbārin
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he who believed said: "O my people! In verse 35, it was said: كَذَٰلِكَ يَطْبَعُ اللَّـهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ‌ جَبَّارٍ‌ (That is how Allah stamps a seal on the entire heart of an arrogant tyrant), that is, the way the hearts of Pharaoh and Ham…
@@ -187,3 +175,5 @@ Here Allah tells us that this righteous man, the believer from among the family 
 In verse 35, it was said: كَذَٰلِكَ يَطْبَعُ اللَّـهُ عَلَىٰ كُلِّ قَلْبِ مُتَكَبِّرٍ‌ جَبَّارٍ‌ (That is how Allah stamps a seal on the entire heart of an arrogant tyrant), that is, the way the hearts of Pharaoh and Haman remained unaffected by the good counsel of Sayyidna Musa (علیہ السلام) and the believer from the House of Pharaoh, similarly, Allah Ta’ ala cancels out or puts a seal on the heart of every such person who is arrogant and tyrannical (someone proud and arrogant, someone unjust and oppressive). When this happens, the effect is that the light of faith does not enter that heart, and one is rendered unable to distinguish between good and bad. In one قِرَأت (qira'ah: rendition of the Qur'an), the words for 'arrogant' and 'tyrant' have been identified as attributes of the heart for the reason that the heart is the reservoir of all morals and deeds. Every deed, good or bad, is born in the heart. Therefore, it has been said in Hadith that there is a piece of flesh (heart) in the human body which, when it works right, it makes the whole body work right, and when it goes bad, it makes the whole body go bad. (Qurtubi)
 
 ## Personal Reflections
+
+

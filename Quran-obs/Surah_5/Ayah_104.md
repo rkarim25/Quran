@@ -107,15 +107,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Following forefathers was one of the many customs of Jahiliyyah which had involved them in all sorts of evils, and equally deprived them of all kinds of virtues too. As reported in the Tafsir Al-Durr Al-Manthur from Ibn Abi Hatim, if a lucky person listened to the truth and embraced Islam, he was put to shame on the plea that he had proved his forefathers to be no good since he took to another way at the cost of the way of his forefathers. It was this compounded error of theirs whereupon the following verse was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -234,3 +226,5 @@ Following an Undeserving Leader is Asking for Trouble
 This sentence of the Qur'an gives everyone a clear lesson in wisdom - that none of these criterions are at all sufficient to help in choosing someone as a leader to be followed. The correct attitude is that every-one should first determine the aim of his life and the direction of his journey in it. Then, in order to achieve that purpose, he has to look for a person who has the knowledge of that direction and is himself proceeding to it. When one finds a person like that, then, tagging along behind him can certainly take one all the way to his destination. This is the reality underlying what we know as the Taqlid (following) of the Mujtahid Imams. They know دین Din and they follow it too. Therefore, those who do not know can, by following them, achieve the main purpose of religion, that is, the obedience to Allah and His Messenger, and the following of their commands. As for one who is already astray, who does not himself know the destination, or is knowingly going in a direction opposite to the destination, then, following him shall be, in the sight of every wise person, a waste of one's efforts and deeds, rather the signing of one's own warrant of destruction. It is a pity that in the present age of so-called knowledge and enlightenment, even the people of education and foresight are ignoring the fact that the greatest cause of world upheaval is the locked following of leaders who are incompetent, undeserving, and false.
 
 ## Personal Reflections
+
+

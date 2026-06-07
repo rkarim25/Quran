@@ -105,18 +105,6 @@ word_by_word:
     transliteration: l-ṣāliḥīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We gave knowledge to Dawud and Sulayman, and they both said: "All praise be to Allah, Who has preferred us above many of His believing servants! وَأَنْ أَعْمَلَ صَالِحًا تَرْ‌ضَاهُ (and that I do the good deeds You like - 27:19).
@@ -200,3 +188,5 @@ Despite having done good deeds and their acceptance the entry into Paradise will
 Sayyidna Sulaiman (علیہ السلام) was also praying for the grace of Allah for the entry into Paradise in these words ` O Allah, grace me also with your favour so that I become entitled to enter Paradise'.
 
 ## Personal Reflections
+
+

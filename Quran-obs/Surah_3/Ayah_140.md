@@ -105,18 +105,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 140, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Many similar ways (and mishaps of life) were faced [by nations (believers and disbelievers) that have passed away] before you, so travel through the earth, and see what was the end of those who denied (137)This is a plain statement for mankind, a guidance and instruction for the Muttaqin (138)So do not become weak, nor be sad, and you will be triumphant if you are indeed believers (139)If a wound has touched you, be sure a similar wound has touched the others. The second verse that follows gives consolation to Muslims from another angle.
@@ -238,3 +226,5 @@ It guides us to another important principle and rule of procedure.
 In this mortal world, the customary practice of Allah Almighty is to cause the days of hardship and ease, pain and comfort, suffering and peace occur among people by turns. If, for some reason, a falsely-motivated power succeeds in getting a short-lived upper hand, the group motivated by the truth should not lose heart and come to think that, from this point onwards, they are always doomed to nothing but defeat. Instead of taking this negative attitude, they should rather go about finding out the causes of that defeat, and once they have discovered those, they should take corrective measures and eliminate all possibilities of repeating those mistakes. In the end, the group motivated by the truth shall emerge as the ultimate victor.
 
 ## Personal Reflections
+
+

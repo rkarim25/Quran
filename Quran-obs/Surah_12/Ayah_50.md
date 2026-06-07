@@ -96,18 +96,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid! وَقَالَ الْمَلِكُ ائْتُونِي بِهِ (And the king said, 'Bring him to me.' ).
@@ -237,3 +225,5 @@ It should be noted that the purpose in this Hadith is to praise the patience, fo
 In addition to that, as said in Tafsir al-Qurtubi, it is also possible that the modus operandi employed by Sayyidna Yusuf (علیہ السلام) is an outstanding proof of his patience, forbearance and noble traits of character - and is highly commendable at its place. But, the pragmatic method of doing things which the Holy Prophet attributed to himself was partic-ularly appropriate to and better for educating his community and offering to its teeming masses the best course of action likely to bring nothing but good to them. The reason in the present setting is that the temperament of kings changes. Placing trust in them is not a wise thing to do. On an occasion such as this, putting conditions or delaying the process is not the appropriate thing to do for common people. The probability remains that the king may change his opinion and one is left to rot in that prison, as it had long been the practice. As for Sayyidna Yusuf (علیہ السلام) ، he is a prophet of Allah. As such, he could have been given to understand by Allah Ta ala that the delay he would cause would not go against his interest in any way. But, others do not enjoy that degree of closeness to Allah. The Holy Prophet was mercy for all the worlds. In his temperament and taste, he had an elemental rapport with the entire creation of Allah. He always preferred to make things easier and better for the great masses of people. To him this was more important. Therefore, he said: If he had the opportunity, he would have not delayed. Allah knows best.
 
 ## Personal Reflections
+
+

@@ -88,18 +88,6 @@ word_by_word:
     transliteration: ẓālimūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And how many a town have We destroyed, which was thankless for its means of livelihood! حَتَّىٰ يَبْعَثَ فِي أُمِّهَا رَ‌سُولًا (Unless he sends to their central place a messenger -28:59).
@@ -183,3 +171,5 @@ As in the case of economic needs, the smaller habitations are dependent on citie
 In the case of sighting of the moon for observing Ramadan and Eids (Shawwal and Dhulhajjah) too, the same principle has been declared by the jurists as applicable. That is, if the evidence of witnesses in the city establishes the sighting of moon, then the people of towns and villages would have to follow the same. But in the case of other cities, it would only apply when the Qadi of that city accepts the evidence and makes the announcement. (Al-Fataw al-Ghayathiyyah)
 
 ## Personal Reflections
+
+

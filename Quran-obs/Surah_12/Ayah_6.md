@@ -110,18 +110,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "Thus will your Lord choose you and teach you the interpretation of dreams (and other things) and perfect His favor on you and on the offspring of Ya'qub, as He perfected it on your fathers, Ibrahim and Ishaq aforetime! Expertise in the Interpretation of Dreams is Bestowed by Allah on whom He wills In the sixth verse, Allah Ta ا ala has promised some blessings for Sayyidna Yusuf (علیہ السلام) : (1) كَذَٰلِكَ يَجْتَبِيكَ رَ‌بُّكَ (And in the like manner your Lord will choose you ...) that is, H-e will choose him for His blessings and favours, something which manifested itself when wealth, recognition and power came into his hands in the countr…
@@ -173,3 +161,5 @@ It appears in Tafsir al-Qurtubi that ` Abdullah ibn Shaddad ibn al-Had said that
 At the end of the verse, it was said: إِنَّ رَ‌بَّكَ عَلِيمٌ حَكِيمٌ (Surely, your Lord is All-Wise, All-Knowing). So He is. For Him, teaching an art to someone is not difficult, nor does He, as His wisdom would have it, teach this art to just anyone. Instead of that, He elects someone, in His wisdom, and lets him have this expertise.
 
 ## Personal Reflections
+
+

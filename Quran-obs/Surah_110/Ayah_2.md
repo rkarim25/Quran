@@ -33,18 +33,6 @@ word_by_word:
     transliteration: afwājan
 ---
 
-## Context
-
-To understand **The Divine Support** (An-Nasr) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nasr is a **Madinah** surah—revealed as the 114th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Abdullah bin Abbas states that this is the last Surah of the Quran to be revealed, i. e. no complete Surah was sent down to the Holy Prophet after it. (Muslim Nasai, Tabarani, Ibn Abi Shaibah, Ibn Marduyah). According to Hadrat Abdullah bin Umar, this Surah was sent down on the occasion of the Farewell Pilgrimage in the middle of the Tashriq Days at Mina, and after it the Holy Prophet rode his she camel and gave his well known Sermon.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat An-Nasr It has been mentioned previously that it (Surat An-Nasr) is equivalent to one-fourth of the Qur'an and that Surat Az-Zalzalah is equivalent to one-fourth of the Qur'an. Verse [ 110:2] وَرَ‌أَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّـهِ أَفْوَاجًا (And you see people entering Allah's [ approved ] religion in multitudes,) Before the conquest of Makkah there were many people who were almost convinced of the verity of the Holy Prophet Muhammad ﷺ and Islam, but there were several factors that were obstructing them to embrace the religion.
@@ -150,3 +138,5 @@ This is the end of the Tafsir of Surat An-Nasr, and all praise and blessings are
 Verse [ 110:2] وَرَ‌أَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّـهِ أَفْوَاجًا (And you see people entering Allah's [ approved ] religion in multitudes,) Before the conquest of Makkah there were many people who were almost convinced of the verity of the Holy Prophet Muhammad ﷺ and Islam, but there were several factors that were obstructing them to embrace the religion. Some people were afraid of the Quraishite opposition, or they were hesitant for some other reason. The Conquest of Makkah removed those obstacles, and people entered the fold of Islam in throngs. Seven hundred people from Yemen embraced the religion, and joined the Holy Prophet ﷺ . On the way, they recited the call to prayer [ adhan ] and recited the Qur'an. In this way, the populace of Arabia embraced the religion of Islam and entered into its fold in droves.
 
 ## Personal Reflections
+
+

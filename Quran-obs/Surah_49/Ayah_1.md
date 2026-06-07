@@ -68,17 +68,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rooms** (Al-Hujurat) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! Raise not your voices above the voice of the Prophet,) This contains another kind of favorable behavior. Allah the Exalted is teaching the believers that they should not raise their voices above the voice of the Prophet ﷺ. It was stated that this Ayah was revealed about Abu Bakr and 'Umar.
 
 Imam Ahmad recorded that Anas bin Malik said, "When this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -197,3 +189,5 @@ Respect for Islamic Scholars and Religious Leaders
 Some of the scholars have ruled that Muslims should observe the same rule in respect of Islamic scholars and spiritual masters as enjoined by the Qur'an, because they are the heirs of the Holy Prophet's ﷺ .One day the Holy Prophet ﷺ saw Sayyidna Abud-Darda' ؓ walking in front of Sayyidna Abu Bakr ؓ ، he reprimanded him saying: "you are walking in front of a person who is better than you in this world and in the hereafter". Then he added: "The Sun did not rise or set on any man better than Abu Bakr ؓ in the world besides the Prophets (علیہم السلام) . (Ruh-u1-Bayan on the authority of Kashf-ul-Asrar). Therefore, scholars have ruled that teachers and spiritual guides should be treated with similar respect.
 
 ## Personal Reflections
+
+

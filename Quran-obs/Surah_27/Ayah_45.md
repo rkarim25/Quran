@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yakhtaṣimūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We sent to Thamud their brother Salih, (saying): "Worship Allah." Then look! لِمَ تَسْتَعْجِلُونَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ (why do you seek evil to come sooner before good?
@@ -139,3 +127,5 @@ Commentary
 لِمَ تَسْتَعْجِلُونَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ (why do you seek evil to come sooner before good? - 27:46). Sayyidna Salih (علیہ السلام) is referring here to the demand of the infidels that he should bring the divine torment to them in this world, so that they may know his truthfulness. Therefore, "evil" in this sentence stands for torment, while "good" refers to their repentance and invoking divine mercy. It, therefore means, "Why are you asking me to bring the divine punishment before you repent?"
 
 ## Personal Reflections
+
+

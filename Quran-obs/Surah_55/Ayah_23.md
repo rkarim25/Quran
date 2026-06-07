@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tukadhibāni
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… يَخْرُ‌جُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْ‌جَانُ (From both of them come forth the pearl and the coral....55:22).
@@ -127,3 +115,5 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 يَخْرُ‌جُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْ‌جَانُ (From both of them come forth the pearl and the coral....55:22). The meaning of لُّؤْلُؤُ lu'lu' is quite well-known, that is, 'pearl'. The word مَرْ‌جَانُ marjan too is one of the 'precious jewels or gems'. It is a hard substance formed from coral which has branches like trees. Both these precious jewels or gems are produced in the waters. It is generally understood that pearls and corals are both hunted or fished for in the salty waters, not in the fresh waters, whereas the verse states that they are fished for in both kinds of waters. It is possible to reconcile the verse with the general understanding: Pearls as well as corals originate in sweet waters where it is not easy to hunt for or from which to fish out the gems or jewels. The sweet waters flow into the salty waters where the substances are carried and deposited. The pearls and corals are brought out from there. Therefore, the source of the pearls and corals is said to be the salty seas.
 
 ## Personal Reflections
+
+

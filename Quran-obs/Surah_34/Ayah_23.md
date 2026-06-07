@@ -98,18 +98,6 @@ word_by_word:
     transliteration: l-kabīru
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Call upon those whom you assert besides Allah, they possess not even the weight of a speck of dust, either in the heavens or on the earth, nor have they any share in either, nor there is for Him any supporter from among them. These verses are meant to prove the falsity of three different types of idol-worshippers.
@@ -203,3 +191,5 @@ As for angels becoming nervous out of awe referred to in verse 22, its full desc
 And it appears in the Sahih of Muslim that Sayyidna Ibn ` Abbas ؓ reports from some Sahabi that the Holy Prophet ﷺ said, 'When our Rabb, may His name be exalted, gives a command, the angels hold in the Divine Throne start reciting tasbih (saying glory) for Him. Hearing the tasbih done by them, angels of the next lower level of the heavens follow suit until this chain of glorification reaches the lowest level that is the firmament of the world (making it a simultaneously recited tasbih by angels from all heavens). Then, they ask the angels who are close to the Throne, 'What did your Lord say?' This they tell them. Then, in the same manner, those of the lower heavens ask those of the upper the same question until this chain of question and answer extends up to the firmament of the world' - excerpt from a long Hadith. (Mazhari)
 
 ## Personal Reflections
+
+

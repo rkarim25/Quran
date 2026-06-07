@@ -38,18 +38,6 @@ word_by_word:
     transliteration: bil-waʿīdi
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And his companion (angel) will say: "Here is (his record) ready with me! لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِالْوَعِيدِ ("Do not quarrel before Me, while I had sent to you My threat well in advance....
@@ -151,3 +139,5 @@ Allah's saying;
 لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِالْوَعِيدِ ("Do not quarrel before Me, while I had sent to you My threat well in advance.... 50:28) It means: "I have given you sufficient proof by the words of the past Messengers, and I have sent down the Divine Books; the evidences, signs and proofs have thus been established against you; your flimsy excuses, arguments and disputes will not work today.'
 
 ## Personal Reflections
+
+

@@ -126,18 +126,6 @@ word_by_word:
     transliteration: l-fariḥīna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, Qarun was of Musa's people, but he behaved arrogantly towards them. From the beginning of Surah Al-Qasas to this point, the story of Sayyidna Musa (علیہ السلام) with the Pharaoh and his people was narrated.
@@ -211,3 +199,5 @@ The other meaning of Bagha is conceit or arrogance. Many a commentators have ado
 لَا تَفْرَ‌حْ (Do not exult - 28:76). Literal meaning of the word فَرَح (Farah) is the happiness one gets as a result of an instant pleasure. Many a Qur'anic verses have declared Farah as contemptible, as in this very verse also إِنَّ اللَّـهَ لَا يُحِبُّ الْفَرِ‌حِينَ (Allah does not like the exultant - 28:76). In another verse it is said لَا تَفْرَ‌حُوا بِمَا آتَاكُمْ (nor rejoice in what has come to you - 57:23). Yet another verse says فَرِ‌حُوا بِالْحَيَاةِ الدُّنْيَا (And they are happy with the worldly life - 13:26). But in some verses Farah is allowed, rather in a way it is declared as desirable. For example in verses, يَوْمَئِذٍ يَفْرَ‌حُ الْمُؤْمِنُونَ (And on that day the believers will rejoice - 30:4) and فَبِذَٰلِكَ فَلْيَفْرَ‌حُوا (with these they should rejoice - 10:58). All these verses put together give us the guideline that Farah is contemptible and is not allowed when it reaches the level of arrogance and boasting. Thus one gets to a point where he regards the attainment of pleasure as his own personal achievement, and not a gift and favour from Allah Ta’ ala. But if the happiness and pleasure does not get to that position, then it is not disallowed; rather in a way it is desirable. In such a situation happiness would be to express the gratitude to Allah Ta’ ala.
 
 ## Personal Reflections
+
+

@@ -105,18 +105,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 122, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is he who was dead, and We gave him life, and set for him a light, whereby he can walk among men – like him who is in the darkness from which he can never come out? In the previous verses, mentioned there was the demand of ever new miracles by disbelievers as proof of their sheer obstinacy as they had already witnessed the open miracle of the Qur'an itself.
@@ -222,3 +210,5 @@ In this verse, by saying: نُورً‌ا يَمْشِي بِهِ فِي الن�
 In this similitude, there is yet another hint that light is after all universally beneficial. Every human being and every animal benefits by it, intentionally, or without intention, more or less. Let us suppose that a person who has the light but does not wish to let the other person benefit from it, nor the other person has come out to seek the benefit of his light, but the very fact that someone is walking with light by his side is bound to spread out its benefit to others naturally, rather compulsively. This is what happens with the 'Iman of a true Muslim. It does make its benefit shower on others too, in some degree, whether or not the receivers realize it. At the end of the verse, it was said: كَذَٰلِكَ زُيِّنَ لِلْكَافِرِ‌ينَ مَا كَانُوا يَعْمَلُونَ (This is how their deeds appear beautified to the disbelievers). It means that the disbelievers and deniers of truth who do not accept proofs which are open and clear do so because everyone has a craze of his own which keeps him pleased with himself. There is the ever-present Sahytan, and no less is the retinue of one's desires, whims and fancies which present before the eyes of such people a mosaic of their evil deeds which they start seeing as nice and beautiful. Calling it a deception is an understatement. May Allah keep all of us protected from it.
 
 ## Personal Reflections
+
+

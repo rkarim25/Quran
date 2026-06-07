@@ -67,18 +67,6 @@ word_by_word:
     transliteration: l-duʿāi
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 At that time Zakariyya invoked his Lord, saying: "O my Lord! 1.
@@ -218,3 +206,5 @@ It appears in a hadith that Umm Sulaym ؓ requested the Holy Prophet ﷺ to pray
 It was the outcome of this very prayer that Sayyidna Anas ؓ had about a hundred children and was also blessed with an ample measure of wealth.
 
 ## Personal Reflections
+
+

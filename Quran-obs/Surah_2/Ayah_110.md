@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah said that after He illuminated the truth for them, such that they were not ignorant of any of it, yet their envy made them deny the Prophet ﷺ. Thus Allah criticized, chastised and denounced them." Allah legislated the characteristics that His Prophet ﷺ and the believers should adhere to: belief, faith and accepting what Allah revealed to them and to those before them out of His generosity and tremendous kindness.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -195,3 +187,5 @@ This command to show forbearance towards the Jews was proper to the situations o
 30. Which is a special levy on non-Muslims who live under the protection of the Islamic state and which absolves them from military service.
 
 ## Personal Reflections
+
+

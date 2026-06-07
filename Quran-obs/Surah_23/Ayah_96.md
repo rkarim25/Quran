@@ -41,18 +41,6 @@ word_by_word:
     transliteration: yaṣifūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 96, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-96-97 In this concluding passage, the enemies of the truth have been warned that they shall have to render an account in the Hereafter and bear the consequences of their persecution of the Believers; therefore they should mend their ways.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "My Lord! Repel evil with that which is best - 23:96 Allah instructs the Holy Prophet ﷺ to counter evil with good, oppression with justice and cruelty with mercy.
@@ -120,3 +108,5 @@ Repel evil with that which is best - 23:96
 Allah instructs the Holy Prophet ﷺ to counter evil with good, oppression with justice and cruelty with mercy. These virtues of conduct have been taught by Allah to the Holy Prophet ﷺ and are generally observed in settling affairs among the Muslims. Later on these instructions were repealed in so far as the infidels and the unbelievers were concerned when Allah permitted Muslims to embark on (Jihad). Nevertheless even during Jihad the Muslims were told to adopt a humane approach towards the enemy. For example they were forbidden to kill women and children or the priests who did not engage in battle against the Muslims. Similarly, mutilation of the dead bodies of enemies was strictly forbidden. It is for this reason that the Holy Prophet ﷺ is instructed in the next verse to seek protection from Shaitan's evil suggestions even in the battle fields where he may arouse emotions to act against ethics.
 
 ## Personal Reflections
+
+

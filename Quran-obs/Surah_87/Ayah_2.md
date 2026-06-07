@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Most High** (Al-A'la) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'la is a **Makkah** surah—revealed as the 8th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companions of the Prophet were ﷺ Mus'ab bin 'Umayr and Ibn Umm Maktum, who taught us the Qur'an; then 'Ammar, Bilal and Sa'd came. Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. I have not seen the people of Al-Madinah happier with anything more than their happiness with his coming (to Al-Madinah). This was reached to such an extent that I saw the children and little ones saying, 'This is the Messenger of Allah who has come.' Thus, he came, but he did not come until after I had already recited (i.e., learned how to recite)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -299,3 +291,5 @@ Allah has equipped man with the higher order of intelligence and sense. The enti
 Obviously, science and technology does not create anything, but it merely shows the way to use the created things. The initial knowledge about their use is taught by Allah, but there is a wide scope to make progress in it by the capabilities Allah has bestowed to man, the manifestation of which we are witnessing in this scientific age day by day, and what further range of these abilities and talents will manifest in future is unknown. All this is the interpretation of hada '[ He ] guided (it), [ 3] In other words, Allah has placed in them potentials and capabilities to perform their natural functions. But alas! the scientists are getting more and more negligent, rather blind to these realities day by day.
 
 ## Personal Reflections
+
+

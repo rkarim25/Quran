@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-dīni
 ---
 
-## Context
-
-To understand **The Opener** (Al-Fatihah) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fatihah is a **Makkah** surah—revealed as the 5th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Surah Al-Fatihah is one of the very earliest Revelations to the Holy Prophet. As a matter of fact, we learn from authentic traditions that it was the first complete Surah that was revealed to Muhammad (Allah's peace be upon him). Before this, only a few miscellaneous verses were revealed which form parts of Alaq, Muzzammil, Muddaththir, etc.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah says, 'My servant has glorified Me,' or 'My servant has related all matters to Me.' When he says, The third verse pays homage to Allah as 'the Master of the Day of Judgment or Requital'.
@@ -56,3 +44,5 @@ The verses of the Surah al-Mumin/Ghafir (Chapter 40) serve as a commentary on th
 “The day they will present themselves (before Allah), and nothing of theirs will remain hidden from Allah (even apparently). 'Whose is the kingdom today?' Of Allah alone, the One, the Mighty. Today everyone will be recompensed for what he has done. Today no one will be wronged. Allah's reckoning is surely swift.” (40:17)
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It was said: "Enter Paradise." He said: "Would that my people knew. Verse 26 states: قِيلَ ادْخُلِ الْجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ ﴿26﴾ بِمَا غَفَرَ‌ لِي رَ‌بِّي وَجَعَلَنِي مِنَ الْمُكْرَ‌مِينَ ﴿27﴾(it was said to him, " Enter the paradise".
@@ -146,3 +134,5 @@ According to the report of Wahb Ibn Munabbih, this person was a leper. He lived 
 It is mentioned in some narrations that these people martyred the three messengers as well. But, no authentic narration mentions specifically as to what happened to them. Probably, they were not killed. (Qurtubi)
 
 ## Personal Reflections
+
+

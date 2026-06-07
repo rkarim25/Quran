@@ -126,18 +126,6 @@ word_by_word:
     transliteration: kādhibīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We sent Nuh to his people (and he said): "I have come to you as a plain warner. Some questions raised by the disbelievers appear in the third verse (27).
@@ -225,3 +213,5 @@ In short, taking poor people to be lowly was ignorance on their part. In reality
 Returning to the ignorant thought expressed by the objectors, we see that it has been initially refuted in the third verse (29). It has been said that a prophet does not fancy anyone's wealth or property. He takes no compensation for his service or good counsel to people. His compensation is with Allah alone. Therefore, the rich and the poor are equal in his sight. Let the rich not be scared about their wealth for no one would start asking for it once they become believers.
 
 ## Personal Reflections
+
+

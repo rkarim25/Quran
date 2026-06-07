@@ -141,15 +141,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Muhammad bin Ishaq reported a narration from Abu Ja'far Muhammad bin 'Ali bin Al-Husayn who said, "When Bara'ah was revealed to Allah's Messenger ﷺ, and he had sent Abu Bakr to oversee the Hajj rites for the people, he was asked, 'O Messenger of Allah! Why not send this [message] to Abu Bakr?' So ﷺ he said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -248,3 +240,5 @@ The Qur'anic proclamation of the withdrawal of Hijrah year 9 and the ensuing ins
 5. The fifth ruling from the cited verses tells us about the standard Muslim attitude towards the enemies of Islam. When confronted with enemies, Muslims should always keep in mind that they are no enemy to them personally. The truth of the matter is that they are opposed to their disbelief, which is actually the cause of their own loss in the present world as well as in the Hereafter. As for the opposition of Muslims to them, that too is really based on good wishes for them. Therefore, Muslims should never abandon the opportunity to give good counsel to them, whether in war or peace. This theme appears in these verses repeatedly. It promises real prosperity for them in this world and in the world to come, only if they were to rescind their thinking. The text does not leave it at that. It also warns them of the consequences: if they refused to repent and correct, they would not only be destroyed and killed in the present world but, they would also not es-cape their punishment even after death. It is interesting that, along with the proclamation of withdrawal in these verses, the strain of sympathetic insistence also continues.
 
 ## Personal Reflections
+
+

@@ -80,18 +80,6 @@ word_by_word:
     transliteration: fa-ittaqūni
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Children of Israel! (3) Verse 41 asks the Israelites not to be the first to deny the Holy Qur'an, although being a disbeliever is in itself the ultimate sin, whether one be the first or the last.
@@ -221,3 +209,5 @@ It follows from here that the man who is in any way responsible for others falli
 (6) The famous Hanafi scholar Shami has, in his commentary on "al-Durr al- Mukhar” and in his own book "Shifal-` Alil", explained in great detail and with convincing arguments that the later jurists have allowed the acceptance of wages for the teaching of the Holy Qur'an etc. Only in view of an essential religious need which must be fulfilled, or the whole Islamic order would be disturbed; hence the permission should be limited only to such essential needs. It logically follows from this principle that paying or receiving wages for the recitation of the Holy Qur'an for transmitting the reward to the dead or in the interest of some worldly purpose is forbidden, for it fulfils no essential religious need. Thus, the man who recites the Holy Qur'an for wages in this manner and the man who pays him for it both commit a sin. When there is no merit earned in such a recitation, how can it be transferred to the dead? Al-Shami refers to many authoritative works like "Taj al-Shari` ah", 'Ayni's commentary on Hidayah, the marginal notes by Khayr al-Din Al-Ramali on "al-Bahr al-Ra'iq", etc., and specially cites Al-Ramali to the effect that practices like paying for the recitation of the Holy Qur'an beside the grave of a dead man or elsewhere in order to transmit the reward to him, have never been reported from the blessed Companions or their immediate successors or from other great scholars of the early centuries of Islam, and are hence an innovation (Bid'ah) in religion.
 
 ## Personal Reflections
+
+

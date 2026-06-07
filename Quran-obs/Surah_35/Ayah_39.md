@@ -105,18 +105,6 @@ word_by_word:
     transliteration: khasāran
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, Allah is the All-Knower of the Unseen of the heavens and the earth. The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ (He is the One who has made you successors (of the past generations) in the earth.) is the plural of: خَلِیفَہ (khalifah) which means deputy or vice-regent.
@@ -150,3 +138,5 @@ Commentary
 The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ (He is the One who has made you successors (of the past generations) in the earth.) is the plural of: خَلِیفَہ (khalifah) which means deputy or vice-regent. The general sense is that Allah Ta’ ala has let human beings have lands and houses that keep passing on from one to the other. In this phenomena, there is a great lesson - turn to Allah. Then, the statement could also be taken to have been addressed to the ummah of the Holy Prophet t saying, 'After past communities, We made you take their place with authority to make life better around you, so it is your duty that you learn your lesson from what happened to people earlier than you, and hence you, on your part, do not while away precious moments of your life in negligence.
 
 ## Personal Reflections
+
+

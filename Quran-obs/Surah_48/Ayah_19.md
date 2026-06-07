@@ -34,18 +34,6 @@ word_by_word:
     transliteration: ḥakīman
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed, Allah was pleased with the believers when they gave the pledge to you under the tree, He knew what was in their hearts, and He sent down As-Sakinah upon them, and He rewarded them with a near victory (18)And abundant spoils that they will capture. وَمَغَانِمَ كَثِيرَ‌ةً يَأْخُذُونَهَا (and many spoils that they would receive...48:19) This clause refers to the great booty that fell into the hands of Muslims during the conquest of Khaibar.
@@ -81,3 +69,5 @@ Al-Bukhari narrated from Tariq that 'Abdur-Rahman said, "I went on Hajj and pass
 وَمَغَانِمَ كَثِيرَ‌ةً يَأْخُذُونَهَا (and many spoils that they would receive...48:19) This clause refers to the great booty that fell into the hands of Muslims during the conquest of Khaibar.
 
 ## Personal Reflections
+
+

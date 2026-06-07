@@ -139,18 +139,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 283, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-261-283 The basic articles of the Faith have been recapitulated here at the end of the Surah, just as they were enunciated at its beginning.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you are on a journey and cannot find a scribe, then let there be a pledge taken (mortgaging), then if one of you entrusts the other, let the one who is entrusted discharge his trust, and let him have Taqwa of Allah, his Lord. The Qur'anic injunctions on Loan An important principle of the Law of Dealings, or the Law of Contracts in modern legal terminology, has been taken up in the verses appearing above.
@@ -306,3 +294,5 @@ The second verse takes up the following two subjects:
 2. Secondly, it was said that the person who knows the correct situation in a disputed matter should not withhold his testimony. If he does withhold it, his heart is a sinner. The heart has been identified as the sinner because somebody might think his sin was restricted to the tongue (which failed to speak up). But it was in the heart that he first decided to do what he did and therefore, the sin of his heart comes first.
 
 ## Personal Reflections
+
+

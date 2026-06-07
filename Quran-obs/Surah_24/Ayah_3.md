@@ -80,18 +80,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Zani marries not but a Zaniyah or a Mushrikah; and the Zaniyah, none marries her except a Zani or a Mushrik. The second injunction about fornication The first injunction was regarding the punishment of fornication, which has been described in the previous verse.
@@ -153,3 +141,5 @@ The word 'prohibited' (حرام) has two connotations in Islamic law. One, that 
 In the light of this explanation it is not needed to declare the verse as cancelled as has been done by some commentators.
 
 ## Personal Reflections
+
+

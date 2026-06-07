@@ -136,17 +136,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ad-Dahhak stated that this Ayah was revealed about some hypocrites who did not join the Messenger of Allah ﷺ but remained in Makkah and went out with the idolators for the battle of Badr. They were killed among those who were killed. Thus, this honorable Ayah was revealed about those who reside among the idolators, while able to perform Hijrah and unable to practice the faith. Such people will be committing injustice against themselves and falling into a prohibition according to the consensus and also according to this Ayah,
 
 From the verse الَّذِينَ أُخْرِ‌جُوا مِن دِيَارِ‌هِمْ وَأَمْوَالِهِمْ (59:8): 'Those who have been driven away from their homes ...' revealed about emigrating Companions, we know if disbelievers of a country forcibly expel Muslims because they are Muslims, this too will be included under Hijrah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -317,3 +309,5 @@ In summation, it can be said that the world has openly witnessed the fulfillment
 In our time, some groups of muhajirin (emigrants) who are living in distress are either in that transitory stage of the early period of Hijrah which is usually marked with hardships, or they are not Muhajirs in the real sense. They should correct their intention and take charge of the circumstances under which they live. After their intention and their corresponding deeds have been corrected, they shall witness the truth of Allah's promise with their own eyes.
 
 ## Personal Reflections
+
+

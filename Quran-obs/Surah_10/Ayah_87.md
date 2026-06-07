@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And We revealed to Musa and his brother (saying): "Provide dwellings for your people in Egypt, and make your dwellings as places for your worship, and perform the Salah, and give glad tidings to the believers. (87)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -127,3 +119,5 @@ At the end of the verse, Sayyidna Musa (علیہ السلام) has been asked to
 It will be noted that, at the beginning of the verse, Sayyidna Musa and Harun (علیہما السلام) may peace be upon them both, were addressed in the dual form because they both were charged with the responsibility of having houses made Qiblah oriented and allowing occupants to pray in there. After that, by using the plural form which included all Bani Isra'il, command was given to establish Salah - because, this law included all, the prophet and his community. At the end, the command to convey the good news was given particularly to Sayyidna Musa (علیہ السلام) - because, it was he, as the law-giving prophet, who had the right to give out the good news of Paradise.
 
 ## Personal Reflections
+
+

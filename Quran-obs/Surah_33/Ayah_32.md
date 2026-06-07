@@ -86,17 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his family (Ahl Al-Bayt) here, because they are the reason why this Ayah was revealed, and the scholars are unanimously agreed that they were the reason for revelation in this case, whether this was the only reason for revelation or there was also another reason, which is the correct view. Ibn Jarir recorded that 'Ikrimah used to call out in the marketplace:
 
 "It was revealed solely concerning the wives of the Prophet ﷺ." 'Ikrimah said: "Whoever disagrees with me that it was revealed solely concerning the wives of the Prophet ﷺ, I am prepared to meet with him and pray and invoke the curse of Allah upon those who are lying." So they alone were the reason for revelation, but others may be included by way of generalization.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -251,3 +243,5 @@ Ruling
 At least this much stands proved from this verse, and from the Hadith quoted above, that the voice of a woman is not included under satr, that is, under what must be concealed. But, a precautionary restriction has been placed here too. Then, consideration has also been given in religious injunctions and acts of worship that women do not talk at a high pitch that could be heard by men. If the Imam makes a mistake, those following him in the congregation are duty-bound to interrupt and correct him verbally. But, women have been taught that, instead of correcting the Imam verbally, they should simply clap by striking one hand over the back of the other so that the Imam is alerted. They have to say nothing verbally.
 
 ## Personal Reflections
+
+

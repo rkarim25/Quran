@@ -130,18 +130,6 @@ word_by_word:
     transliteration: yu'minūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Children of Adam! In the second verse (27), the address reverts to all children of Adam (علیہ السلام) and the admonition given is that they should keep guarding against the deception of Shaytan in everything they do under whatever circumstance they are - lest, Shaytan puts them on another trial as he did with their parents, 'Adam and Eve.
@@ -179,3 +167,5 @@ Some righteous elders have said that the defence against the enemy who sees us b
 And the statement, that human beings cannot see Shaytan, is in terms of general conditions and habit. If a human being were to see them contra-habitually, that would not be considered contrary to it - as is the case of Jinns coming to the Holy Prophet ﷺ who asked questions and embraced Islam, which appears in authentic narrations of Hadith. (Ruh al-Ma'ani)
 
 ## Personal Reflections
+
+

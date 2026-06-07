@@ -20,18 +20,6 @@ word_by_word:
     transliteration: wayasqīni
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Who has created me, and it is He Who guides me (78)And it is He Who feeds me and gives me to drink (79)And when I am ill, it is He Who cures me (80)And Who will cause me to die, and then will bring me to life (81)And Who… The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord.
@@ -81,3 +69,5 @@ Ibrahim said, "I will not worship any but the One Who does these things:
 The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord. He will guide me." Such are the moments for the test of faith, when Sayyidna Musa (علیہ السلام) was not terror stricken at all, as if he was seeing for himself the way out. Almost the same thing happened with Holy Prophet ﷺ at the time of migration while hiding in the cave of Thaur. The enemy had reached right at the opening of the cave in his pursuit. In fact they were so close that they could have seen him if they had looked down towards their toes. Sayyidna Abu Bakr ؓ got alarmed a little, but Holy Prophet ﷺ said exactly the same thing لَا تَحْزَنْ إِنَّ اللَّـهَ مَعَنَا ` Do not grieve, Allah is surely with us' (9:40). It is worth noting in the two incidents that while Sayyidna Musa (علیہ السلام) said to his Ummah in order to console them مَعِيَ رَ‌بِّي ` With me is my Lord', Holy Prophet ﷺ said toSayyidna Abu Bakr ؓ in reply ` Allah is with us (two) '. It is a special privilege of the Ummah of Muhammad ﷺ that his followers are also honoured by the company of Allah when they are with their Rasul.
 
 ## Personal Reflections
+
+

@@ -72,18 +72,6 @@ word_by_word:
     transliteration: mūqinūna
 ---
 
-## Context
-
-To understand **The Prostration** (As-Sajdah) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the style of the Surah it appears that it was sent down during the middle Makkah period, more particularly in its initial stage, for one does not find in its background that severity of the persecution and tyranny which one finds in the Surahs sent down in the later stages.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you only could see when the criminals shall hang their heads before their Lord (saying): "Our Lord! In verse 11, it was said: قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ (Say, "The angel of death who has been assigned for you will take you in full" -11).
@@ -185,3 +173,5 @@ Ruling:
 The angel of death does not know the time of anyone's death in advance - until he is ordered to exact the soul of a certain person. (Deduced by Ahmad and Ibn Abi ad-Dunya from Ma'mar, Mazhari)
 
 ## Personal Reflections
+
+

@@ -76,18 +76,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. وَقَدْ أَخَذَ مِيثَاقَكُمْ (...and He has taken your covenant ....57:8) This could refer to the covenant taken in ` anal' (pre-eternity).
@@ -279,3 +267,5 @@ Ordering Faith
 The answer to this question is that the unbelievers did not deny the existence of the Creator. In point of fact, they claimed to believe in God, and thus they used to say مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّ‌بُونَا إِلَى اللَّـهِ زُلْفَىٰ (We only worship them [ the idols ] that they may bring us nearer to Allah in position....39:3) In this context, the concluding phrase of verse [ 8] implies that 'If your claim [ that you believe in God ] is true, then go about the perfect and right way in "believing in God" which is not only to believe in God but also to believe in His Messenger ﷺ .
 
 ## Personal Reflections
+
+

@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Poets** (Ash-Shu'ara) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (61)(Musa) said: "Nay, verily with me is my Lord. He will guide me. (62)Then We revealed to Musa (saying): "Strike the sea with your stick." And it parted, and each separate part became like huge mountain (63)Then We brought near the others to that place (64)And We saved Musa and all those with him (65)Then We drowned the others (66)Verily, in this is indeed a sign, yet most of them are not believers (67)And verily your Lord, He is truly the All-Mighty, the Most Merciful (68)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -117,3 +109,5 @@ More than one of the scholars of Tafsir said that they stood there not knowing w
 When the Pharaoh's army, which was in their pursuit, reached right behind them, all the people of Bani Isra'il called out ` We are caught'. And there was little doubt in their nabbing as the river was in front of them and the Pharaoh's enormous army behind them. Sayyidna Musa (علیہ السلام) was fully aware of the situation, but his belief in the promise of Allah was unshaken like a rock. He, therefore, replied firmly that they will never be caught.
 
 ## Personal Reflections
+
+

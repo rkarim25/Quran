@@ -119,18 +119,6 @@ word_by_word:
     transliteration: yafqahūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 81, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-81-96 ).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who stayed away (from Tabuk expedition) rejoiced in their staying behind the Messenger of Allah; they hated to strive and fight with their properties and their lives in the cause of Allah, and they said: "March not… Behavior patterns of hypocrites who did not take part in the battle of Tabuk, despite the general call of Jihad, continue to be the main theme since several previous verses.
@@ -232,3 +220,5 @@ It is also possible to take the word khilaf in the sense of mukhalafat (contrave
 We already know that the command to fight the battle of Tabuk was given at a time when the heat was intense. The rejoinder to their comment came from Allah Ta` ala: قُلْ نَارُ‌ جَهَنَّمَ أَشَدُّ حَرًّ‌ا (Say: [ 0 Prophet ] the fire of Jahannam is more intense in heat) that is, these people are really unfortunate. They see the heat of a certain given time and try to beat it one way or the other. But, they do not realize that their disobedience to the command of Allah and His Messenger would bring them face to face with the fire of Jahannam. Why would they not worry about it? Is it that the heat of our seasons is more intense than the heat of Hell?
 
 ## Personal Reflections
+
+

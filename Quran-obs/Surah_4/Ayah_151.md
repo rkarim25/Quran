@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 151, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (The Messenger believes in what has been revealed to him from his Lord, and (so do) the believers. All of them believe in Allah.)(2:285).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -139,3 +131,5 @@ In other words, we can say that their faith will be valid and trust-worthy only 
 As for the verses under discussion, it has been clearly declared that anyone who rejects even one of the prophets of Allah is an avowed disbeliever (kafir) and a recipient of the punishment of Hell. So, let us remember that Belief in Allah, in order to be valid, has to be with Belief in the Prophet. If the Belief in the Prophet is not there, even referring to Belief in Allah as such will not be correct.
 
 ## Personal Reflections
+
+

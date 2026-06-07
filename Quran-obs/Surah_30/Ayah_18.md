@@ -38,18 +38,6 @@ word_by_word:
     transliteration: tuẓ'hirūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So glorify Allah, when you enter the evening, and when you enter the morning (17)And His is all the praise in the heavens and the earth; and in 'Ashiyya and when Tuẓhirūn (18)He brings out the living from the dead, and brings out the dead from the living. So, proclaim Allah's purity when you see the evening and when you see the morning.
@@ -145,3 +133,5 @@ So, proclaim Allah's purity when you see the evening and when you see the mornin
 That whoever will recite them in the morning, all shortcomings in his acts during the day will be repaired; and whoever will recite these verses in the evening all shortcomings in his actions during the night will be repaired. (Ruh).
 
 ## Personal Reflections
+
+

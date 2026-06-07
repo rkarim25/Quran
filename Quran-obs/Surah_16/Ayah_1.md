@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yush'rikūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv. 112-114 clearly refer to the end of seven year famine that had struck Makkah some years after the appointment of the Holy Prophet as Allah's Messenger.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. This Surah has been called Al-Nahl, that is, the honey bee because it mentions it as a unique Divine marvel.
@@ -127,3 +115,5 @@ The essential message of the first verse is to call people to believe in the One
 The word: رُوح (ruh: spirit) as used in this verse, according to Sayyidna ibn ` Abbas ؓ ، means Wahy (revelation); and according to some commentators, it means Hidayah (guidance). (Al-Bahr Al-Muhit) After having presented the reported proof of Tauhid in the second verse, the same belief has been proved rationally by turning the focus on the blessings of Allah Ta` ala as it follows next in verses 3-8.
 
 ## Personal Reflections
+
+

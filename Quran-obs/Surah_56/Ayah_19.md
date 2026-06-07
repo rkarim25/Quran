@@ -24,18 +24,6 @@ word_by_word:
     transliteration: yunzifūna
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 A multitude of those will be from the first ones (13)And a few of those will be from the later ones (14)(They will be) on thrones, Mawdunah (15)Reclining thereon, face to face (16)Immortal boys will go around them (servi… لَّا يُصَدَّعُونَ عَنْهَا (from which they will neither suffer headache ....56:19).
@@ -203,3 +191,5 @@ This is the narration that Abu Ya'la collected, and Al-Hafiz Ad-Diya' said, "Thi
 لَا يُنزِفُونَ nor will they be intoxicated...56:19). The Arabic verb is derived from nazf, the root-meaning of which being 'the well became empty, all the water having been taken out of it.' Here it means 'the spring of his brain or mind or senses became exhausted.'
 
 ## Personal Reflections
+
+

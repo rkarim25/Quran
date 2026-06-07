@@ -61,17 +61,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (May Allah forgive you. Why did you grant them leave...)?" Muwarriq Al-'Ijli and others said similarly. Qatadah said, "Allah criticized him as you read here, then later revealed to him the permission to allow them to lag behind if he wants, in Surat An-Nur,
 
 Ata' Al-Khurasani said similarly. Mujahid said, "This Ayah was revealed about some people who said, 'Ask permission from the Messenger of Allah ﷺ [to stay behind], and whether he agrees, or disagrees, remain behind!'" Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -148,3 +140,5 @@ It has been said by people having insight in the nature of God-Prophet relations
 As for the word of forgiveness, let there be no doubt about it and let no one say that forgiveness is usually given for crimes and sins - and the Holy Prophet ﷺ was ma` sum مَعصُوم (protected from sin) - what, then, would be the sense of forgiveness at this place? The answer is that the way there is forgiveness for sin, similarly, there could also be forgiveness for what is contrary to the preferred way (khilaf al-awla) or is simply undesirable - and that does not violate the concept of the ` ismah (infallibility) of a prophet.
 
 ## Personal Reflections
+
+

@@ -71,18 +71,6 @@ word_by_word:
     transliteration: l-ṣābirūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, he went forth before his people in his finery. وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ (And said those who were given knowledge - 28:80).
@@ -116,3 +104,5 @@ Allah tells us how Qarun went forth one day before his people with his magnifice
 وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ (And said those who were given knowledge - 28:80). This verse has compared the knowledgeable persons with الَّذِينَ يُرِ‌يدُونَ الْحَيَاةَ الدُّنْيَا (Those who are desirous of the worldly life - 28:79), which clearly indicates that it is not the trait of knowledgeable persons to aspire for the acquisition of wealth and to make it the object of life. They always keep their eyes toward the lasting benefits of the Hereafter. As for the mundane wealth, they take it only to fulfill their day-to-day needs, and stay content with that.
 
 ## Personal Reflections
+
+

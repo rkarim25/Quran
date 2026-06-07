@@ -155,17 +155,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi reported that Ibn 'Abbas said, "This was revealed about Muhammad ﷺ and his Companions, when they were expelled from Makkah." Mujahid, Ad-Dahhak and others among the Salaf, such as Ibn 'Abbas, 'Urwah bin Az-Zubayr, Zayd bin Aslam, Muqatil bin Hayan, Qatadah and others said, "This is the first Ayah which was revealed about Jihad." Ibn Jarir recorded that Ibn 'Abbas said, "When the Prophet ﷺ was driven out of Makkah, Abu Bakr said, 'They have their Prophet. Truly, to Allah we belong and truly, to Him we shall return; surely they are doomed.'" Ibn 'Abbas said, "Then Allah revealed the words:
 
 Abu Bakr, may Allah be pleased with him, said, "Then I knew that there would be fighting." Imam Ahmad added: "Ibn 'Abbas said, 'This was the first Ayah to be revealed concerning fighting.'" This was also recorded by At-Tirmidhi and An-Nasa'i in the Book of Tafsir of their Sunans. At-Tirmidhi said: "It is a Hasan Hadith."
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -274,3 +266,5 @@ In this verse صَوَامِعُ is the plural of صَوَمِعُہ ، which me
 The meaning of this verse is that if at different times the believers had not been permitted to fight the infidels, no true religion would have felt secure and at different times during the periods of Sayyidna Musa (علیہ السلام) ، Sayyidna ` Isa (علیہ السلام) and the Holy Prophet ﷺ the places of worship of their respective religions would have been destroyed. (Qurtubi)
 
 ## Personal Reflections
+
+

@@ -77,15 +77,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Consultation** (Ash-Shuraa) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Some narrations also corroborate that this verse was revealed about those Muslims who used to wish that they also should get the same wealth and opulence as was available to the infidels. Imam Baghawi (رح) has reproduced the statement of Sayyidna Khabbab Ibn ` Aratt ؓ that when they saw the wealth and opulence of Banu Quraizah, Banu Nadir and Banu Qainuqa` (the Jewish tribes), the desire to have such affluence welled up in their hearts also, and thereafter this verse was revealed. And Sayyidna ` Amr Ibn Harith ؓ states that some of the companions of Suffah had expressed their desire to the Holy Prophet ﷺ that Allah Almighty may make them wealthy and this verse was revealed thereafter. (Ruh-ul-Ma'ani, etc.)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -202,3 +194,5 @@ Here a question may arise that all kinds of blessings will be provided in abunda
 The question why could not greed and inordinate desire be removed and wealth and goods be provided in abundance in this world as well, is quite irrelevant. The very purpose of creating this world is to have co-existence of good and evil. It is simply not possible without it to arrange trial of human beings which is the real purpose of creation of the universe. Therefore, the real purpose of creating this universe would have failed, if greed and desire had been removed altogether from human beings. Paradise, on the other hand, would comprise goodness only therefore, such base emotions will simply not be there.
 
 ## Personal Reflections
+
+

@@ -179,18 +179,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Neither you do any deed nor recite any portion of the Qur'an, nor you do any deed, but We are Witness thereof when you are doing it. In the fifth verse (61), mention has been made of the all-encompassing knowledge of the most exalted Allah and its unmatched multi-dimensional extensions.
@@ -234,3 +222,5 @@ In the fifth verse (61), mention has been made of the all-encompassing knowledge
 At this place, as it seems, the wisdom of describing the all-encompassing nature of Divine knowledge is aimed at consoling the Holy Prophet ﷺ that his enemies cannot harm him in any way for he was under the protection of Allah Ta` ala.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: taqūmu
 ---
 
-## Context
-
-To understand **The Mount** (At-Tur) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if they were to see a piece of the heaven falling down, they would say: "Clouds gathered in heaps! فَإِنَّكَ بِأَعْيُنِنَا (...you are before Our Eyes....) The hostility of the enemies towards, and their opposition to, and rejection of the Holy Prophet ﷺ depressed him.
@@ -189,3 +177,5 @@ On the authority of Sayyidna Abu Hurairah ؓ ، the Holy Prophet ﷺ is reported
 "Whoever sits in a gathering in which he speaks idle excessively, but says before he stands up to depart that gathering, سُبحَانَکَ اللَّھُمِّ وَبِحَمدِکَ اَشھَدُ اَن لَّا اِلٰہَ اِلَّا اَنتَ اَستَغفِرُکَ وَ اَتُوبُ اِلَیکَ ('I proclaim Your Purity, 0 Allah, along with Your Praise', I testify that there is no God except You, I seek Your forgiveness, I repent to You.' ) Allah will forgive him what he has said in that gathering ".
 
 ## Personal Reflections
+
+

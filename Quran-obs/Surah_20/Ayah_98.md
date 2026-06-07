@@ -55,18 +55,6 @@ word_by_word:
     transliteration: ʿil'man
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 98, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Musa) said: "And what is the matter with you. For your fate in this life is to say: 'Do not touch me'.- 20:97 The punishment proposed by Sayyidna Musa (علیہ السلام) for Samiri in this world was that everyone should sever all contacts with him and not to come near him, and he too was commanded not to touch anyone.
@@ -170,3 +158,5 @@ The punishment proposed by Sayyidna Musa (علیہ السلام) for Samiri in t
 The word لَنُحَرِّقَنَّہ، means "we will certainly burn it". Here the question arises: how could the calf which was carved from gold and silver be burnt, because these metals when subjected to extreme heat are melted but are not reduced to ashes. Several possibilities have been advanced. The first is that after signs of life appeared in it, the calf ceased to be a figure of gold and silver and became an animal of flesh and blood in which case it could be slaughtered and burnt. The second explanation is that it could be filed with a rasp into very minute particles of dust (Ad-Dur al-Manthur). A third explanation is that it could be burnt by means of some chemical device (Rub u1-Ma` ani). There is yet a fourth explanation, namely that the calf could be burnt by some miracle (Bayanul-Qur’ an).
 
 ## Personal Reflections
+
+

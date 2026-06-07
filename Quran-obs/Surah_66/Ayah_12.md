@@ -79,15 +79,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Prohibition** (At-Tahrim) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tahrim is a **Madinah** surah—revealed as the 107th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 وَصَدَّقَتْ بِكَلِمَاتِ رَ‌بِّهَا وَكُتُبِهِ (and she testified to the truth of the words of her Lord and His books, and she was one of the devout....66:12) The phrase 'Words of her Lord' refers to scriptures that were revealed to the Holy Prophets ﷺ . The word kutub [ Books ] refers to the well-known celestial books - Injil, Zabur and Torah. The concluding statement وَكَانَتْ مِنَ الْقَانِتِينَ (and she was one of the devout....66:12) describes the quality of Sayyidah Maryam (علیہا السلام) . The word qanitin is the plural of qanit and signifies 'devout and obedient'. Sayyidna Abu Musa (علیہ السلام) narrates that the Messenger of Allah ﷺ said: "Whilst many men have attained spiritual perfection, among women only Sayyidah ` Asiyah ؓ ، wife of Fir'aun, and Sayyidah Maryam, daughter of ` Imran (علیہما السلام) ، achieved this perfection." [ Bukhari and Muslim as quoted by Mazhari ]. Apparently, 'perfection' in this context refers to 'characteristics of Prophethood'. Despite being a woman, she achieved them. [ Mazhari ]. And Allah knows best!
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -166,3 +158,5 @@ Surah At-Tahrim
 Ends here
 
 ## Personal Reflections
+
+

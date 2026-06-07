@@ -42,18 +42,6 @@ word_by_word:
     transliteration: maābin
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And has the news of the litigants reached you? In verse 25, it was said: وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ (and surely he has a place of nearness in Our presence, and an excellent resort.).
@@ -131,3 +119,5 @@ When warn, warn with wisdom!
 Yet another aspect of this event needs to be mentioned here. Let this slip of Sayyidna Dawud (علیہ السلام) be whatever it was, it was a matter between him and his Lord who could have alerted him to it even directly through a revelation. But, rather than do something of this nature, why was a particular method used when the case of a dispute was sent in his court to alert him thereby? The truth of the matter is that this method invites deliberation. It helps us realize that it provides guidance for those who are engaged in preaching and bidding the Fair and forbidding the Unfair. Those who do their duty in this field should know that the conduct of a person is not to be corrected casually. It takes a lot of wisdom to do it. To alert someone to his error, it is better to take to a method that helps the concerned person realize his error on his own, without having recourse to warn him verbally. For that purpose, it is more effective to use such examples as may convey the message without hurting the addressee in the least.
 
 ## Personal Reflections
+
+

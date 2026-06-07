@@ -121,17 +121,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But he who says to his parents: "Uff to you! ...") As for the saying "Uff" in this Ayah, it is a general description applying to anyone who says it to his parents. Some people claim that it was revealed about 'Abdur-Rahman bin Abi Bakr. But this claim is weak and rejected, because 'Abdur-Rahman bin Abi Bakr embraced Islam after this was revealed. His adherence to Islam was excellent, and he was among the best of his contemporaries.
 
 (But he who says to his parents: "Uff to you!")" When that was conveyed to 'A'ishah, she said: "Marwan is lying! By Allah, that was not revealed about him. If I wish to name the person meant by it, I could. On the other hand, Allah's Messenger ﷺ placed a curse on Marwan's father (Al-Hakam bin Abi Al-'As when Marwan was still in his loins, so Marwan (bin Al-Hakam) is an outcome of Allah's curse." As for Allah's statement:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -224,3 +216,5 @@ Incentive for avoiding worldly delights and luxuries
 The punishment stated in this verse for the disbelievers is because of their being engrossed in worldly enjoyments. So, the Holy Prophet ﷺ ، his noble companions and Tabi` in رحمۃ اللہ علیہم had made it a habit to avoid worldly enjoyments, as is evident from their lives. The Holy Prophet ﷺ had charged Sayyidna Mu` adh ؓ ، when sending him to Yemen, to keep on avoiding the luxuries of this world. Sayyidna ‘Ali ؓ has reported the Holy Prophet ﷺ saying that one who is happy with Allah Ta’ ala giving him scanty sustenance finds Allah Ta’ ala also happy at his meager deeds. (Mazhari from al-Baghawi)
 
 ## Personal Reflections
+
+

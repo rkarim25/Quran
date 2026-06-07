@@ -167,15 +167,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Although the present verses were revealed in some particular events, as detailed above, the rules laid down by them are of general application, regardless of their cause of revelation. Thus the present verses contain instructions about secret or private consultations. They are explained below.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -344,3 +336,5 @@ Mischief of the Jews
 It was narrated earlier that there was a peace treaty between the Holy Prophet and the Jews. During this period, if one of the noble Companions passed by an assembly of the Jews, they would confer secretly among themselves in such a manner as to arouse suspicion and anxiety in the mind of the believer making him think that they were conspiring to injure or hurt him. Verse [ 8] أَلَمْ تَرَ‌ إِلَى الَّذِينَ نُهُوا عَنِ النَّجْوَىٰ (Did you not see those who were forbidden to hold secret counsels,....58:8) prohibits the holding of such secret conferences. This rule applies not only to the enemies but also to the Muslims, in that they should not hold secret conference to harm or hurt another Muslim. However, the Muslims and others are allowed to hold secret conferences to promote good and righteous causes. A narration of Sayyidna ` Abdullah Ibn ` Abbas is recorded in Bukhari, Muslim and other authentic collections, according to which the Messenger of Allah ﷺ has stated اِذَا کُنتُم ثلٰثۃً فَلَا یَتَنَاجَا رَجُلَانِ دُونَ الاٰخَرِ حَتّٰی یَختَلِطُوا بِالنَّاسِ فَاِنَّ ذٰلِکَ یَحزُنُہُ , (If you were three, then two of you should not hold secret conference leaving aside the third person [ in another narration of Muslim: 'except with his permission'] because this bad manners would cause him anxiety and wound his feelings", [ i.e. because he will feel estranged or alienated and possibly suspicions may arise that the two are plotting something against him and keeping it as a secret.] [ Mazhari ]
 
 ## Personal Reflections
+
+

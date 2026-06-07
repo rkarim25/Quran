@@ -32,18 +32,6 @@ word_by_word:
     transliteration: yata-akhara
 ---
 
-## Context
-
-To understand **The Cloaked One** (Al-Muddaththir) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The first seven verses of this Surah belong to the earliest period at Makkah. Even according to some traditions which have been related in Bukhari, Muslim, Tirmidhi, Musnad Ahmad, etc., on the authority of Hadrat Jabir bin Abdullah, these are the very earliest verses of the Qur'an to be revealed to the Holy Prophet (upon whoa be peace). But the Muslim Ummah almost unanimously agreed that the earliest Revelation to the Holy Prophet (upon whom be peace) consisted of the first five verses of Surah Al-Alaq(XCVI) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We have set none but angels as guardians of the Fire. لِمَنْ شَاۗءَ مِنْكُمْ اَنْ يَّتَقَدَّمَ اَوْ يَتَاَخَّرَ (to the one who wishes to come forward [ towards good deeds ] or to go back [ from them ]...74:37) In this context, 'to come forward' signifies 'coming forward towards faith and obedience' and ta'akhkhur 'to go backward' signifies 'moving away from faith and obedience'.
@@ -137,3 +125,5 @@ Allah says,
 لِمَنْ شَاۗءَ مِنْكُمْ اَنْ يَّتَقَدَّمَ اَوْ يَتَاَخَّرَ (to the one who wishes to come forward [ towards good deeds ] or to go back [ from them ]...74:37) In this context, 'to come forward' signifies 'coming forward towards faith and obedience' and ta'akhkhur 'to go backward' signifies 'moving away from faith and obedience'. The verse purports to warn against the torment and torture of the Hellfire. This applies to all human beings in general. Some accept the warning and are guided by the truth, and the unfortunate ones hold back from accepting the warning, turn away from it and reject it.
 
 ## Personal Reflections
+
+

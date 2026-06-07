@@ -134,18 +134,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Rooms** (Al-Hujurat) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions show and the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! This verse too comprises injunctions relating to mutual rights and manners to be observed in social life.
@@ -397,3 +385,5 @@ Some narrations show that the general prohibition of backbiting in the verse is 
 But the necessary condition for invoking these exceptions is that speaking ill of someone is not with the intention of insulting or disgracing him, but only to fulfill a genuine need.
 
 ## Personal Reflections
+
+

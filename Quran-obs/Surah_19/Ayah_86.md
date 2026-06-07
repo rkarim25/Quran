@@ -24,18 +24,6 @@ word_by_word:
     transliteration: wir'dan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Day We shall gather those with Taqwa unto the Most Gracious (Allah), like a delegation (85)And We shall drive the criminals to Hell, in a thirsty state (86)None shall have the power of intercession, but such a one as… Towards the Jahannam as herds towards water" - 19:86.
@@ -101,3 +89,5 @@ Towards the Jahannam as herds towards water" - 19:86.
 وِرد means to go towards water and since only a thirsty man or animal goes towards water, this word has been translated to denote a thirsty person.
 
 ## Personal Reflections
+
+

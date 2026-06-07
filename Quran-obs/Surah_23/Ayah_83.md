@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-awalīna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We seized them with punishment, but they humbled not themselves to their Lord, nor did they invoke with submission to Him (76)Until, when We open for them the gate of severe punishment, then lo! And We have already seized them with punishment, but they did not turn humble to their Lord, nor do they supplicate in humility.
@@ -167,3 +155,5 @@ Visitation of famine upon Makkah and its deliverance on the prayers of the Holy 
 It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to punish the people of Makkah with famine and as a result they were reduced to great straits and were forced to eat dead animals. At last, Abu Sufyan presented himself before the Holy Prophet ﷺ at Madinah and said, "I appeal you in the name of Allah, did you not say that you had been sent by Him as mercy for the whole world?" The Holy Prophet ﷺ replied, "Yes I did, and what I said is true also." Then Abu Sufyan said, "You killed the leaders of your clan with sword at the battle of Badr and now you are killing those who still survive with starvation. Pray to Allah, I beseech you, to remove this curse from over our heads." The Holy Prophet ﷺ then prayed to Allah to forgive the people of Makkah and deliver them from the agony of hunger, and his prayer was granted forthwith. The verse: وَلَقَدْ أَخَذْنَاهُم بِالْعَذَابِ فَمَا اسْتَكَانُوا لِرَ‌بِّهِمْ (23:76) was revealed on this occasion and refers to this incident. (Mazhari)
 
 ## Personal Reflections
+
+

@@ -8,18 +8,6 @@ word_by_word:
     transliteration: wal-fajri
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh. Theme and Subject Matter Its theme is to affirm the meting out of rewards and punishments in the Hereafter, which the people of Makkah were not prepared to acknowledge, Let us consider the reasoning in the order in which it has been presented.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. Surely your Lord is ever on the watch.
@@ -229,3 +217,5 @@ The first among the five oaths sworn at the beginning is Fajr (dawn). It may ref
 Some commentators, like Mujahid and ` Ikramah, refer this to the dawn of 'the Day of Sacrifice' on the tenth of Dhul Hijjah. A narration from Sayyidna Ibn ` Abbas ؓ concurs with this view. The reason for this specification is that according to Islamic principles, Allah has made a night to precede the day. All days are preceded by their respective nights, except the 'the Day of Sacrifice', because the night that precedes the Day of Sacrifice is not the night of Sacrifice. In fact, the preceding night, according to Shari'ah, is the night of ` Arafah. Staying at ` Arafat is the most important and foremost rite of Hajj. If a pilgrim is not able to reach ` Arafat on the 9th of Dhul Hijjah, any time in the day or in the night following it to halt there for a while, he will not be considered to have performed Hajj at all. However if he arrives there any time during the night before the break of dawn on the 10th of Dhul Hijjah, his halt in ` Arafah will be acceptable and his Hajj will be considered valid. This shows that the day of ` Arafah has two nights, one preceding it, and another following it. The Day of Sacrifice [ 10th of Dhul Hijjah ] has no night. From this point of view, the dawn of the day of Sacrifice, among all the days of the year, occupies a special position. [ Qurtubi ].
 
 ## Personal Reflections
+
+

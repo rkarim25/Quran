@@ -80,18 +80,6 @@ word_by_word:
     transliteration: karīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 74, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who believed, and emigrated and strove hard in the cause of Allah (Al-Jihad), as well as those who gave (them) asylum and aid – these are the believers in truth, for them is forgiveness and a generous provision (74)And those who believed afterwards, and emigrated and strove hard along with you, they are of you. Mentioned in the third verse (74) are words of praise for the Sahabah who emigrated from Makkah and for the Ansar of Madinah who helped them, as well as the attestation to their being true Muslims and the promise of forgiveness and respectable provision made to them.
@@ -147,3 +135,5 @@ This is the end of the Tafsir of Surat Al-Anfal, all praise and thanks are for A
 Mentioned in the third verse (74) are words of praise for the Sahabah who emigrated from Makkah and for the Ansar of Madinah who helped them, as well as the attestation to their being true Muslims and the promise of forgiveness and respectable provision made to them. When it was said: أُولَـٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا (those are the believers in truth), the hint given was in the direction that those who did not migrate were though Muslims, but their Islam was neither perfect, nor certain - because there existed the probability that they may really be hypocrites professing Islam only outwardly. After that, it was said: لَّهُم مَّغْفِرَ‌ةٌ (For them there is forgiveness) - as it has been explained in sound (Sahih) Ahadith: اَلاِسلَامُ یَھدِمُ مَا کَانَ قَبلَہ (Islam demolishes what was before it) and: والھِجرَۃُ تَھدِمُ مَا کَانَ قَبلَھَا (Hijrah razes what was before it). In short, this means that the act of becoming a Muslim goes on to demolish the entire edifice of past sins. Similarly, the making of Hijrah razes all past sins.
 
 ## Personal Reflections
+
+

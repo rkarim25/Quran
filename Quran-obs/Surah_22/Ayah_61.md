@@ -66,18 +66,6 @@ word_by_word:
     transliteration: baṣīrun
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That is because Allah merges the night into the day, and He merges the day into the night. In an earlier verse it has been mentioned that Allah Ta’ ala helps those who are wronged unjustly وَإِنَّ اللَّـهَ عَلَىٰ نَصْرِ‌هِمْ لَقَدِيرٌ‌ (Allah is powerful to give them victory - 22:39) Some people bear their sufferings patiently and do not seek vengeance from their oppressors, but there are others who retaliate and serve a full measure of retribution on their oppressors which should, therefore, place them both on even terms as being quits.
@@ -139,3 +127,5 @@ But surely he who bears patiently and forgives - surely that is true constancy -
 In all these verses it is encouraged not to retaliate for revenge and rather forgive and forget, which is a magnanimous way of dealing with fellow human beings. This is the way Qur'anic teachings stand and call it a supreme and superior trait. Thus it may perhaps be argued that the person who retaliates against the wrongs done to him and conducts himself contrary to the course of action preferred by Allah Ta’ ala will be deprived of His support and help. But this doubt has been allayed in the final part of this verseإِنَّ اللَّـهَ لَعَفُوٌّ غَفُورٌ‌ (22:60) that is, Allah will not punish him for this lapse and will help him if he is subjected to injustice by his oppressors ever again. (Ruh-ul-Ma’ ani)
 
 ## Personal Reflections
+
+

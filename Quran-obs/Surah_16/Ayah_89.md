@@ -107,15 +107,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 89, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We shall bring you (O Muhammad) as a witness against these.) the meaning - and Allah knows best - is that the One Who obligated you to convey the Book which He revealed to you, will also ask you about that on the Day of Resurrection.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -192,3 +184,5 @@ In verse 89, by saying: وَنَزَّلْنَا عَلَيْكَ الْكِتَ
 The answer is that the Qur’ an, does carry the basic principles concerning all problems, and it is in their light that the Ahadith of the Rasul of Allah clarify these problems. Then, there are some details which are delegated to the principles of Ijma` (consensus) and Al-Qiyas (analogical deduction following the norms set by the Shari` ah of Islam). This tells us that the religious rulings deduced from the Ahadith of the Holy Prophet ﷺ ، and from Ijma` and Qiyas are also, in a way, as stated by the Qur’ an itself.
 
 ## Personal Reflections
+
+

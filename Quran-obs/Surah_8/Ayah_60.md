@@ -144,15 +144,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Nothing has been revealed to me from Allah about them except these unique, comprehensive Ayat:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -287,3 +279,5 @@ Then it was said that Muslims do know some of those people who are to be impress
 It goes without saying that the process of putting war materials together and fighting a war has to be backed financially and when it comes to actual production or procurement of military support, that too can be made available through investment of money. Therefore, at the end of the verse, the great merit and reward of spending wealth in the way of Allah has been described by saying that 'the return for whatever you spend in the way of Allah shall be given to you in full.' There are times when this return is received in the form of war spoils right here in this mortal world as well, otherwise, the return to be received in the Hereafter stands already determined - and, as obvious, that is more praiseworthy.
 
 ## Personal Reflections
+
+

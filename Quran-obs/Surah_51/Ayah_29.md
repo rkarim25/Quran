@@ -42,18 +42,6 @@ word_by_word:
     transliteration: ʿaqīmun
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. فَأَقْبَلَتِ امْرَ‌أَتُهُ فِي صَرَّ‌ةٍ (So his wife came forward with a clamour,...51:29).
@@ -151,3 +139,5 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 فَأَقْبَلَتِ امْرَ‌أَتُهُ فِي صَرَّ‌ةٍ (So his wife came forward with a clamour,...51:29). The word sarrah means vociferation or clamour or most vehement clamour of crying. Sarir is the sound of a pen when it is writing. When Sayyidah Sarah ؓ heard that the angels were giving good news to her husband Ibrahim (علیہ السلام) of the birth of a son, she thought that this news was as good to her as it was to her husband, for the son would be theirs, and therefore, they both were getting some good news. As a result, she involuntarily screamed loudly, she struck herself upon her forehead as women do when confronted with an amazing thing and said: and slapped her own face and said, عَجُوزٌ عَقِيمٌ "A barren old woman?" meaning 'How can I give birth while I am an old woman? And even when I was young I was barren and could not have children.' The angels replied that Allah has power over all things and therefore this would happen even so: "This is how your Lord has said." Thus when Holy Prophet Ishaq (علیہ السلام) was born, Sayyidah Sarah ؓ was ninety-nine years old and Holy Prophet Ibrahim (علیہ السلام) was one hundred years old. (Qurtubi)
 
 ## Personal Reflections
+
+

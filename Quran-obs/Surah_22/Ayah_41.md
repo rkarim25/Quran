@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Those who, if We give them power in the land, (they) establish the Salah, enforce the Zakah, and they enjoin the good and forbid the evil.) was revealed concerning us, for we had been expelled from our homes unjustly only because we said: 'Our Lord is Allah.' Then we were given power in the land, so we established regular prayer, paid the Zakah, enjoined what is good and forbade what is evil, and with Allah rests the end of (all) matters. This is about my companions and I." Abu Al-'Aliyah said, "They were the Companions of Muhammad ." As-Sabah bin Suwadah Al-Kindi said, "I heard 'Umar bin 'Abdul-'Aziz give a speech and say:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ Qur’ anic prophecy about the Rightly Guided Caliphs ( خُلفأے راشد�
 Having discussed the factual aspect of the circumstances leading up to the revelation of this verse it must, at the same time, be emphasized that where the Qur'an uses general words and phrases, their purpose is not restricted to a particular situation, but is universally applicable to all similar situations. Following this reasoning, Dahhak says that this verse contains an injunction for all those whom Allah Ta’ ala grants power and authority to do all those things which the Four Caliphs did when they controlled the rule. (Qurtubi)
 
 ## Personal Reflections
+
+

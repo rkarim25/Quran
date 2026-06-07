@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Hasan al-Basri (رح) has narrated the following story. Once Sayyidna Sulayman (علیہ السلام) was inspecting his cavalry horses and got so engrossed in the inspection that he missed the ` Asr prayer. When he realized his lapse, he was very sorry, and removed these horses from service since they were the cause of this lapse. As this action was taken to win the goodwill of Allah and to atone for his negligence, Allah rewarded him by making the wind subservient to him, which is a superior and faster conveyance. Details of this event will appear with the commentary of the relevant verses of Surah Sad (سُورہ ص) insh’ Allah .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -199,3 +191,5 @@ Making the air subservient to Sulayman i and related matters
 Hasan al-Basri (رح) has narrated the following story. Once Sayyidna Sulayman (علیہ السلام) was inspecting his cavalry horses and got so engrossed in the inspection that he missed the ` Asr prayer. When he realized his lapse, he was very sorry, and removed these horses from service since they were the cause of this lapse. As this action was taken to win the goodwill of Allah and to atone for his negligence, Allah rewarded him by making the wind subservient to him, which is a superior and faster conveyance. Details of this event will appear with the commentary of the relevant verses of Surah Sad (سُورہ ص) insh’ Allah .
 
 ## Personal Reflections
+
+

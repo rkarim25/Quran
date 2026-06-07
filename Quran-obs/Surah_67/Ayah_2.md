@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-ghafūru
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, The Reality of Life and Death خَلَقَ الْمَوْتَ وَالْحَيَاةَ (...the One who created death and life...67:2) Out of the human conditions, only two phenomena, i.e.
@@ -257,3 +245,5 @@ What is a Good Action?
 Sayyidna Ibn ` Umar ؓ said that once the Holy Prophet ﷺ recited verse [ 2] and when he reached the words "better in deeds", he stopped and explained that 'better in deeds' is the person who abstains most from the things Allah has forbidden and is always ready to obey Him. [ Qurtubi ]
 
 ## Personal Reflections
+
+

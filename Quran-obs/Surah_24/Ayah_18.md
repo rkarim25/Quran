@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And why did you not, when you heard it, say: "It is not right for us to speak of this. And why, when you heard of it, did you not say, It is not for us to speak about this.
@@ -98,3 +86,5 @@ A doubt and its answer
 If someone has a doubt that just as the truth of an event cannot be verified without a proof, and hence it is unlawful to mention it and spread it, likewise, the report of that event should not be believed to be a lie and a 'terrible calumny' without a proof of its being a lie. The answer to this doubt is that it is the integral spirit of Islam to consider every Muslim as free from sins, and this is based on reasoning. Anything contrary to this proven reality is a lie if put forward without a proof, and no further proof is required to prove this assertion a lie. This is enough to call it a slander if a believer Muslim is blamed for a crime without proof.
 
 ## Personal Reflections
+
+

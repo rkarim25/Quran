@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 205, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Before the night of Isra', when the five daily prayers were ordained, this Ayah was revealed in Makkah ordering that Allah be worshipped at these times, Allah said next,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -184,3 +176,5 @@ The last verse (206) depicts the particular state and style of those close to Al
 From here, we also learn that people who are blessed with the ability to engage in perpetual worship and remembrance of Allah are blessed with the sign that they are ` with' Allah all the time and fortunate to have His company.
 
 ## Personal Reflections
+
+

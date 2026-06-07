@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Dhun-Nun, when he went off in anger, and imagined that We shall not punish him! The prayer of Yunus (علیہ السلام) is invoked by all people at all times and for all their needs وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ (And this is how We rescue the believers - 21:88.) That is, just as We released Yunus (علیہ السلام) from his misery and distress, so do We deliver other believers (مُؤْمِنِينَ ) when they turn towards Us repenting their sins sincerely.
@@ -147,3 +135,5 @@ The prayer of Yunus (علیہ السلام) is invoked by all people at all time
 According to a hadith of the Holy Prophet ﷺ if a Muslim prays to Allah Ta` a1a for the grant of a wish in the words used by Yunus (علیہ السلام) when he was in the stomach of the fish i.e. لَّا إِلَـٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ (21:87) He would accept his prayer and grant his wish. (Ahmad, Tirmidhi, Mahari)
 
 ## Personal Reflections
+
+

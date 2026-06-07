@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Crouching** (Al-Jathiyah) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar... 45:7) " There are several views related to the background of revelation of this verse. Some Traditions relate that the verse was revealed in connection with Nadr Ibn Harith. Others report that it was revealed in connection with Harith Ibn Kaldah, and yet others feel it is about Abu Jahl and his comrades. (Qurtubi). There is no need to refer to a particular person in order to determine the meaning of a Qur'anic verse. The word کُل kull [ every ] refers to every person who bears the characteristics of the three persons who might have been in the background of the revelation of the verse.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -141,3 +133,5 @@ Allah explained the type of torment that these people earn on the Day of Return;
 وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar... 45:7) " There are several views related to the background of revelation of this verse. Some Traditions relate that the verse was revealed in connection with Nadr Ibn Harith. Others report that it was revealed in connection with Harith Ibn Kaldah, and yet others feel it is about Abu Jahl and his comrades. (Qurtubi). There is no need to refer to a particular person in order to determine the meaning of a Qur'anic verse. The word کُل kull [ every ] refers to every person who bears the characteristics of the three persons who might have been in the background of the revelation of the verse.
 
 ## Personal Reflections
+
+

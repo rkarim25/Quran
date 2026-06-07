@@ -97,18 +97,6 @@ word_by_word:
     transliteration: ẓālimīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 148, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the people of Musa made in his absence, out of their ornaments, the image of a calf (for worship). The next verses continue to narrate the remaining part of the story.
@@ -154,3 +142,5 @@ Among them there was a person named Samiri who was a prominent man, but at the s
 Having designed this satanic invention he invited the people to worship the calf and said that it was god. He said that the Prophet Musa (علیہ السلام) had gone to speak with God to the mount of Sinai while god had come to them in the form of this calf. Samiri already enjoyed a place of respect among them, this unusual demonstration increased their trust in him and they started worshipping the calf, and took it as their god. The verse 148 has given a short description of this event while another verse of the Holy Qur'an has described it in detail.
 
 ## Personal Reflections
+
+

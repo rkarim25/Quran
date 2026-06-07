@@ -32,18 +32,6 @@ word_by_word:
     transliteration: nadhīran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had We willed, We would have raised a warner in every town (51)So obey not the disbelievers, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has appointed for him kindred by blood, and kindred by marriage. وَلَقَدْ صَرَّ‌فْنَاهُ بَيْنَهُمْ (And We have distributed it (the water) among them - 25:50).
@@ -145,3 +133,5 @@ Allah says:
 وَلَقَدْ صَرَّ‌فْنَاهُ بَيْنَهُمْ (And We have distributed it (the water) among them - 25:50). The verse says that We keep rotating the rainfall, that is, it sometimes falls in one locality and sometimes in another. Then sometimes a locality receives in one year more rain and in subsequent years less. Sayyidna ` Abdullah Ibn ` Abbas ؓ says that the presumption of some people that the quantity of rains varies from year to year is not really correct. In fact the aggregate amount of water sent down to the world (at macro-level) is equal every year. However, according to Allah's will, its allocation for different territories may change from year to year. Sometimes the quantity of water is curtailed for a specific habitation as a punishment and warning for it, and sometimes the quantity of rain is increased for a particular population, again as a punishment for their misdeeds. Thus the water that was a blessing in its origin turns into a torment for the people who are ungrateful and disobedient.
 
 ## Personal Reflections
+
+

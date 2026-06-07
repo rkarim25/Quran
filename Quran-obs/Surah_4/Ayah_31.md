@@ -54,18 +54,6 @@ word_by_word:
     transliteration: karīman
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Righteous Deeds: Kaffarah کَفَارَہ of Minor Sins Kaffarah is what makes amends, expiation.
@@ -315,3 +303,5 @@ And it appears in a narration from the Sahib of Muslim that the Holy Prophet onc
 Concluding in the same vein, we refer to another hadith from al-Bukhari and Muslim which proclaims that the back-biter will not be admitted into the Paradise. And a hadith in Nasa` i and the Misnad of Ahmad enlarges on the theme by saying that some kinds of people will not be admitted into the Paradise, that is, the drinker, the disobeyer of parents, the unjustified severer of relations with kinsmen, the publicizer of a favour, the diviner of the unseen through jinns, satans and other mediums and the dayyuth (دَیُّوث), a wittol or cuckold who is so contented with his shamelessness that he never stops his wife and family members from going the way of immodesty. And a hadith from the Sahih of Muslim says that la'nah or the curse of Allah is for one who sacrifices an animal for anyone other than Allah.
 
 ## Personal Reflections
+
+

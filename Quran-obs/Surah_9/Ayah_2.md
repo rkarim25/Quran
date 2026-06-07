@@ -65,17 +65,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ﷺ. Al-Bukhari recorded that Al-Bara' said, "The last Ayah to be revealed was,
 
 The first part of this honorable Surah was revealed to the Messenger of Allah ﷺ when he returned from the battle of Tabuk, during the Hajj season, which the Prophet ﷺ thought about attending. But he remembered that the idolators would still attend that Hajj, as was usual in past years, and that they perform Tawaf around the House while naked. He disliked to associate with them and sent Abu Bakr As-Siddiq, may Allah be pleased with him, to lead Hajj that year and show the people their rituals, commanding him to inform the idolators that they would not be allowed to participate in Hajj after that season. He commanded him to proclaim,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -200,3 +192,5 @@ Thus, according to the first two verses, all those who were covered by some trea
 And according to the fourth verse, those who had a treaty for a specified period of time received a respite until it expired and, according to the fifth verse, the Mushriks of Makkah got their respite until the ` sacred months' expired.
 
 ## Personal Reflections
+
+

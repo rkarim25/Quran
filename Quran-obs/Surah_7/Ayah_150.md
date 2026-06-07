@@ -169,18 +169,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 150, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when Musa returned to his people, angry and grieved, he said: "What an evil thing is that which you have done during my absence. while the verse 150 describes the events followed by the arrival of the Prophet Musa (علیہ السلام) from the mount of Sinai.
@@ -252,3 +240,5 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said
 while the verse 150 describes the events followed by the arrival of the Prophet Musa (علیہ السلام) from the mount of Sinai. It described that the Prophet Musa (علیہ السلام) was extremely angry when he saw his people in this state of ignorance. It is reported that Allah had informed him of their perversion on the mount of Sinai. Now seeing them in this state with his own eyes filled him with indignation. First, he turned to his people and said: بِئْسَمَا خَلَفْتُمُونِي مِن بَعْدِي "How bad is the thing you have done in my absence". أَعَجِلْتُمْ أَمْرَ‌ رَ‌بِّكُمْ "How did you act in haste against the command of your Lord?" That is, you must have waited until the book of Allah came to you. Some of the commentators have said that it meant that they hastily decided that the Prophet Musa (علیہ السلام) was dead. Then he turned to the Prophet Harun (علیہ السلام) whom he has left among them as his deputy. He wanted to free his hand in order to grab him. He quickly put down the tablets of the Torah and grabbed the head of his brother. This has been termed as having dropped. The Arabic word used here is: القاء Ilga' which signifies dropping or throwing. This gives rise to a doubt that the Prophet Musa (علیہ السلام) showed disrespect to the tablets of the Torah by throwing or dropping them down. It is obvious that throwing the tablets of the Torah was great sin, and equally obvious is the fact that all the Prophets (علیہم السلام) are innocent and free of all sins. The implication of the verse, therefore, is that he put away the Tablets as quickly in order to free his hands, as seemed like having been dropped. The Holy Qur'an has described it by using this word as a gesture of warning. (Bayern a1-Qur'an)
 
 ## Personal Reflections
+
+

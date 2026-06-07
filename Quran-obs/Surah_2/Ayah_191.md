@@ -112,15 +112,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 191, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants. Later, Surat Bara'ah (chapter 9 in the Qur'an) was revealed." 'Abdur-Rahman bin Zayd bin Aslam said similarly, then he said that this was later abrogated by the Ayah:
 
-As already explained briefly in the opening remarks, the verse 191, that is, وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِ‌جُوهُم (And kill them; wherever you find them and drive them out from where they drove you out...), was revealed after the happening at Hudaybiyyah حُدیبیہ at a time when the Holy Prophet ﷺ decided, in accordance with the condition agreed upon in the Peace Treaty of Hudaybiyyah حُدیبیہ ، to embark on a journey to Makkah to perform the qada' قضاء of ` Umrah along with his Companions, something he was stopped from doing a year before by the disbelievers of Makkah. The noble Companions ؓ ، on the eve of this projected journey, had started to worry about the disbelievers who could not be trusted upon in a peace treaty.
+As already explained briefly in the opening remarks, the verse 191, that is, وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِ‌جُوهُم (And kill them; wherever you find them and drive them out from where they drove you out...), was revealed after the happening at Hudaybiyyah حُدیبیہ at a time when the Holy Prophet ﷺ decided, in accordance with the condition agreed upon in the Peace Treaty of Hudaybiyyah حُدیبیہ ، to embark on a journey to Makkah to perform the qada' قضاء of ` Umrah along with his Companions, something he was stopped from doing a year before by the disbelievers of Makkah. The noble Companions ؓ ، on the eve of this projected journey, had started to worry about the disbelievers who could not be trusted upon in a peace treaty. If they chose to be aggressive, as they did a year before, what option are they going to take? Thereupon, the words used in the present verse gave them the permission to meet the challenge of their aggression and kill them where they find them. And if they could, it was permissible for them to drive the disbelievers out from where they had driven the believers out.
 
 ## Tafsir Summary
 
@@ -317,3 +311,5 @@ Rulings
 2. It also comes out from this verse that the prohibition of initiating Jihad جھاد or Qital قتال is restricted to Al-Masjid al-Haram المسجد الحرام and its environs to which the sacred precincts extend in Makkah. At other places, just as the defensive Jihad جھاد is necessary, the initiating of Jihad جھاد and Qital قتال is also valid.
 
 ## Personal Reflections
+
+

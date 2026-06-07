@@ -52,13 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Ranks** (As-Saf) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saf is a **Madinah** surah—revealed as the 109th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 14 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-This is followed by a description of the Jihads which Prophets Musa and ` Isa (علیہما السلام) fought in Allah's Cause, and how they suffered at the hands of the enemies. After this description, the Muslims are directed to undertake jihad. The stories of Prophets Musa and ` Isa (علیہما السلام) have many academic and practical lessons and guidance to offer. For instance, it is described in the story of ` Isa (علیہ السلام) that when he invited the Children of Israel to accept his prophethood and obey him, he mentioned two things in particular. First, he said that he was not a unique Prophet who came with unique teachings. In fact, his teachings were the same as those of the previous prophets. They are mentioned in the earlier celestial scriptures, and the same teachings will be imparted later by the Final Messenger of Allah ﷺ . From among the earlier Scriptures, Torah is specially mentioned in this context, probably because that was the latest Scripture that was revealed to the Children of Israel. Otherwise belief in the Prophets embraces all the previous Scriptures of Allah.
+This is followed by a description of the Jihads which Prophets Musa and ` Isa (علیہما السلام) fought in Allah's Cause, and how they suffered at the hands of the enemies. After this description, the Muslims are directed to undertake jihad. The stories of Prophets Musa and ` Isa (علیہما السلام) have many academic and practical lessons and guidance to offer. For instance, it is described in the story of ` Isa (علیہ السلام) that when he invited the Children of Israel to accept his prophethood and obey him, he mentioned two things in particular. First, he said that he was not a unique Prophet who came with unique teachings. In fact, his teachings were the same as those of the previous prophets. They are mentioned in the earlier celestial scriptures, and the same teachings will be imparted later by the Final Messenger of Allah ﷺ . From among the earlier Scriptures, Torah is specially mentioned in this context, probably because that was the latest Scripture that was revealed to the Children of Israel. Otherwise belief in the Prophets embraces all the previous Scriptures of Allah. This also points out that the Shari’ ah of ` Isa (علیہ السلام) was, though an independent Shari’ ah, its most rules conformed to the sacred laws of Musa (علیہ السلام) and the Torah. Only a few laws had been changed. This theme covered the subject of belief in the previous Prophets and their Books.
 
 ## Tafsir Summary
 
@@ -133,3 +127,5 @@ It is a known fact that the previously revealed Divine scriptures have been chan
 This book was originally written in Arabic, later its translations appeared in Turkish and English. Christian missionaries attempted their utmost to destroy it. Its Urdu translation was not available until recently. A little while back, Maulana Akbar ` Ali, a lecturer at Darul Uloom Karachi, translated it into Urdu, with in-depth research into current versions of the Bible by Maulana Muhammad Taqi, lecturer at Darul Uloom, and published in three volumes. Volume [ 3] from pages 182 to 362 elaborates on the prophecies pertaining to the Holy Prophet ﷺ with reference to the currently published Bibles, and rebuts their doubts and allays their suspicions.
 
 ## Personal Reflections
+
+

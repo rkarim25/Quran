@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-ṣādiqīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So they raced with one another to the door, and she tore his shirt from the back. Sayyidna Yusuf (علیہ السلام) ، because of his prophetic gentleness, may not have, perhaps, disclosed her secret.
@@ -153,3 +141,5 @@ Apart from being a miracle of speech manifested by a child, this was something w
 The explanation of the ` shahid' or witness of Sayyidna Yusuf (علیہ السلام) given here - that he was a small child blessed with the power of speech as a miracle - stands proved from a Hadith of the Holy Prophet t. This Hadith has been reported by Imam Abmad in his Musnad, Ibn Hibban in his Sahih and Hakim in Mustadrak. They have rated this Hadith as Sahih (sound). In this Hadith, it is said: ` Allah Ta` ala has blessed four children the power of speech while still in their cradle.' These four are the same as mentioned earlier. (Mazhari) However, in some narrations, other explanations of ` shahid' or witness have also been reported. But, Tafsir authorities such as Ibn Jarir, Ibn Kathir and others have declared the first Tafsir to be the weightier one.
 
 ## Personal Reflections
+
+

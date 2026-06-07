@@ -116,13 +116,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Imam Malik recorded that 'Umar, may Allah be pleased with him, stood up and praised and glorified Allah, then he said; "O people! Allah sent Muhammad ﷺ with the truth, and revealed to him the Book. One of the things that was revealed to him was the Ayah of stoning to death, which we have recited and understood. The Messenger of Allah ﷺ carried out the punishment of stoning and after him we did so, but I am afraid that as time goes by, some will say that they did not find the Ayah of stoning in the Book of Allah, and they will go astray because they abandoned one of the obligations revealed by Allah. Stoning is something that is prescribed in the Book of Allah for the person – man or woman – who commits illegal sex, if he or she is married, if decisive evidence is produced, or if pregnancy results from that, or if they confess to it." It was also recorded in the Two Sahihs in the lengthy Hadith of Malik, from which we have quoted briefly only the portion that is relevant to the current discussion.
 
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Imam Malik recorded that 'Umar, may Allah be pleased with him, stood up and praised and glorified Allah, then he said; "O people! Allah sent Muhammad ﷺ with the truth, and revealed to him the Book. One of the things that was revealed to him was the Ayah of stoning to death, which we have recited and understood. The Messenger of Allah ﷺ carried out the punishment of stoning and after him we did so, but I am afraid that as time goes by, some will say that they did not find the Ayah of stoning in the Book of Allah, and they will go astray because they abandoned one of the obligations revealed by Allah.
+According to above tradition, the Holy Prophet ﷺ awarded the punishment of hundred stripes to one criminal and of stoning to the other and described them both as the judgment by the Book of Allah; although in Surah An-Nur only the punishment of hundred stripes is indicated and there is no mention of stoning. The reason is the same that Allah Ta’ ala had revealed to the Holy Prophet ﷺ the complete explanation and details of the injunction which all fall within the purview of the Book of Allah, although some of it is not included and mentioned in the Surah an-Nur expressly. Bukhari and Muslim have recorded an address of Sayyidna ` Umar ؓ on the authority of Ibn ` Abbas ؓ ، the wordings of which are:
 
 ## Tafsir Summary
 
@@ -335,3 +331,5 @@ Initially Islam requires not to publicize the crimes, but once they are establis
 For the control of vulgarity and shamelessness Islamic laws have imposed far reaching restrictions. It is made obligatory for women to cover themselves. Men are asked to lower their eyes on seeing women-folk. The sound of jewelry or the singing of women are prohibited as they may lead to wanton acts. However, if someone is seen wanting in adopting Islamic teachings, he should be guided in private, but is not allowed to be disgraced. But if someone has crossed all limits and has broken all the ties with Islamic laws, and his crime is established in accordance with the Islamic jurisprudence, then keeping his crime secret might embolden others for committing this crime. Hence, the extent to which Islam has cared for avoiding publicity of the crime, to the same extent the emphasis is laid in making it public for disgracing the culprits, once the crime is established. It is for this reason that not only the punishment for adultery is enjoined to be executed publicly, but the presence of a group of Muslims at the time of execution is also made mandatory.
 
 ## Personal Reflections
+
+

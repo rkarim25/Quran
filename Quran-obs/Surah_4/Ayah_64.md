@@ -103,17 +103,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him angry. Before that, Allah's Messenger ﷺ had given a generous judgment, beneficial for Az-Zubayr and the Ansari. Az-Zubayr said, 'I think the following verse was revealed concerning that case,
 
 Although, this verse (64) was revealed in the background of a particular incident relating to the hypocrites, yet its words yield a general ruling which stipulates that anyone who presents himself before the Holy Prophet ﷺ and he prays for his forgiveness he will definitely be forgiven. And 'the presence before the Holy Prophet ﷺ as it would have been during his blessed life in this mortal world, holds the same effect even today as the visit to the sacred precincts of the Mosque of the Prophet and the act of 'presenting' oneself before the blessed resident of the sanctified mausoleum falls within the jurisdiction of this rule.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -198,3 +190,5 @@ Although, this verse (64) was revealed in the background of a particular inciden
 Sayyidna Ali ؓ said: "Three days after we all had finished with the burial of the Messenger of Allah ﷺ a villager came and fell down close to the blessed grave. Weeping bitterly, he referred to this particular verse of the Qur'an and addressing himself to the blessed grave, he said: 'Allah Almighty has promised in this verse that a sinner, if he presented himself before the Rasul of Allah, and the Rasul elects to pray for his forgiveness, then he will be forgiven. Therefore, here I am, presenting myself before you so that I may be blessed with your prayer for my forgiveness.' People personally present there at that time say that, in response to the pleading of the villager, a voice coming out from the sanctified mausoleum rang around with the words: قَد غُفِرَ لَکَ meaning: You have been forgiven. (al-Bahr al-Muhit)
 
 ## Personal Reflections
+
+

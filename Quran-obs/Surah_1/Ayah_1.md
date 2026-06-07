@@ -22,17 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Opener** (Al-Fatihah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fatihah is a **Makkah** surah—revealed as the 5th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Fatihah was revealed in Makkah as Ibn 'Abbas, Qatadah and Abu Al-'Aliyah stated. Allah said,
 
 (Would you like me to teach you a Surah the likes of which nothing has been revealed in the Tawrah, the Injil, the Zabur (Psalms) or the Furqan (the Qur'an)?)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -263,3 +255,5 @@ Rulings:
 (2) In the course of salah, whether one is reciting the Holy Qur'an loudly or silently, one should not recite 'Bismillah' before beginning a Su-rah just after the Surah 'Fatihah'. Such a practice has not been reported either from the Holy Prophet ﷺ or from any of the first four Khulafa'. According to Sharh al-munyah, this is the view of Imam Abu Hanifah and of Imam Abu Yusuf رحمہم اللہ ، and Shrah al-munyah, al-Durr al-Mukhtar, al-Burhan etc. prefer it to other views. But Imam Muhammad (رح) considers it to be preferable that one should recite Bismillah' if one is reciting the Holy Qur'an in a salah offered silently. Certain reports attribute this view even to Imam Abu Hanifah (رح) ، and al-Shami (رح) has quoted some Muslim jurists in support of this view,--which has been adopted even in 'Bahishti Zewar' of Maulana Thanavi (رح) . Anyhow, there is a complete agreement among the scholars that it is not makruh or reprehensible for someone to recite 'Bismillah' in this situation.
 
 ## Personal Reflections
+
+

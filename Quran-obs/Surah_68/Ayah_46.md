@@ -33,18 +33,6 @@ word_by_word:
     transliteration: muth'qalūna
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration. فَذَرْ‌نِي وَمَن يُكَذِّبُ بِهَـٰذَا الْحَدِيثِ (So, leave Me alone with those who reject this discourse.
@@ -122,3 +110,5 @@ In the Two Sahihs it is recorded from the Messenger of Allah ﷺ that he said,
 Towards the end, the story of Sayyidna Yunus (علیہ السلام) is concisely told that when his people constantly demanded punishment, he became indignant and prayed for the punishment to be sent down. The signs of the punishment started appearing. Sayyidna Yunus (علیہ السلام) left the place and transferred himself elsewhere. In the meantime the entire nation wept, wailed, sincerely repented and begged refuge from the Divine punishment. Allah pardoned them and took away the punishment. Sayyidna Yunus (علیہ السلام) felt embarrassed and thought that if he goes back to his people, they might think he was a liar. As a result, without the clear permission of Allah, he acted purely on his ijtihad [ independent judgment ] that he would not go back to his people. At this, Allah, in order to caution him, created a situation where he had to undertake sea voyage, and then was lowered into the sea where he was swallowed up by a fish. Being thus cautioned, Sayyidna Yunus (علیہ السلام) sought the Divine pardon. Consequently, Allah once again opened the doors of the former blessings to be restored to him. Full description of the event has been given in Surah Yunus (Verse 10:98) and other Surahs. The Holy Prophet ﷺ is comforted by this story not to be impressed by people's demands nor to be anxious to get them punished hastily. Allah's wisdom is profound and unfathomable. Allah alone knows what is in the best interests of the world. Allah should be trusted and relied on.
 
 ## Personal Reflections
+
+

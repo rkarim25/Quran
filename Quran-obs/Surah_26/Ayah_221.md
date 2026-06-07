@@ -30,17 +30,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Poets** (Ash-Shu'ara) 221, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about. The reports that have been narrated about this are all Mursal and cannot be relied on. And Allah knows best. But this exception could include the poets of the Ansar and others. It even includes those poets of the Jahiliyyah who indulged in condemning Islam and its followers, then repented and turned to Allah, and gave up what they used to do and started to do righteous deeds and remember Allah much, to make up for the bad things that they had previously said, for good deeds wipe out bad deeds. So they praised Islam and its followers in order to make up for their insults, as [the poet] 'Abdullah bin Az-Zab'ari said when he became Muslim:
 
 (Ridicule them in verse, and Jibril is with you.) Imam Ahmad recorded that Ka'b bin Malik said to the Prophet ﷺ, "Allah has revealed what He revealed about the poets. The Messenger of Allah ﷺ said:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ And warn the nearest people of your clan, -26:214.
 ` Ashirah'o, عَشِيرَ‌ۃ means clan and by limiting it with 'aqrabin (the nearest people) it is used for close relatives. It is worth noting here that the mission of the Holy Prophet ﷺ as a messenger is universal to the whole Ummah, then what is the wisdom in making it special for the members of the clan? But if we look at it rather closely, we will notice in it an easy and effective way for preaching, which would have far-reaching effect. One's own family members having the privilege of closeness are also entitled to have precedence over others on initiating any act of virtue. By virtue of close mutual relations they know each other well and anyone with false claims would get exposed in no time. Conversely, the one having good reputation among the family members would be readily accepted and listened to. Once the close relatives throw their weight to support a good cause, it brings in unity and mutual help between them. This way they develop a group of the family members on the basis of trust and sincerity and it becomes very easy to spend the daily life in an atmosphere of peace to follow the religious code. Then this homogeneous and sincere group works like a small power in preaching and spreading the precepts and code of religion to others. In another verse of the Holy Qur'an it is said قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارً‌ا (66:6) that is ` Save yourself and your family members from the fire of Jahannam'. Responsibility of saving one's dependent from the fire of Jahannam is placed on every member of the clan. This is an easy and simple way of reforming the conduct and morals. It is an everyday experience that in order to follow good conduct and morals and then to stick to them is only possible when the environment is favourable for that. If only one person in the entire household wishes to perform his prayers regularly, even that devotee will find it difficult to carry it out. In the present environment it has become difficult to abstain from the unlawful things not because it is not possible to keep away from them, but the reason is that when the whole fraternity is involved in a sin, it becomes very difficult for just one person to keep himself aloof. When this verse was revealed to Holy Prophet ﷺ ، he called out all the members of the family and conveyed to them the message of truth. Although they did not accept the truth at that time but gradually the family members started converting to Islam. When the uncle of Holy Prophet ﷺ Sayyidna Hamzah ؓ ، converted to Islam it provided great strength to the mission.
 
 ## Personal Reflections
+
+

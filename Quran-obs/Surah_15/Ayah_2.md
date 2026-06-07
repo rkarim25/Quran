@@ -33,18 +33,6 @@ word_by_word:
     transliteration: mus'limīna
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. In the verses which appear onwards from here (48-51), the text re-turns to the awe-inspiring happenings of the day of Qiyamah.
@@ -132,3 +120,5 @@ In verses 50 and 51 towards the end, given there is the state in which the peopl
 Finally, in the last verse (52), it was made clear that the description of conditions to be faced by people on the day of Qiyamah was to warn them so that they would realize that there is no Being worthy of worship and obedience except the One Being of Allah T, and so that whoever from among them has some sense left in him or her would desist from Shirk while there was still the time to do so.
 
 ## Personal Reflections
+
+

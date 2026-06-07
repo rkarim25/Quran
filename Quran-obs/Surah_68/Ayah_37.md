@@ -24,18 +24,6 @@ word_by_word:
     transliteration: tadrusūna
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you? This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِ‌مِينَ (Otherwise, shall We make the obedient like the sinners?...
@@ -91,3 +79,5 @@ This verse: أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُ
 Since it is established that Resurrection is a reality and inevitable, the reward of good deeds is a reality and the punishment of evil deeds is a reality, the verses that follow describe the horrors of the Day of Judgment and the punishment of the evil ones, including the description of the exposure of the Shin [ kashf-us-saq ] in Verse 42 (the explanation of which may be seen in the foot-note given in the translation of that verse.)
 
 ## Personal Reflections
+
+

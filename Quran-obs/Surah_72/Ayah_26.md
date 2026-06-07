@@ -32,18 +32,6 @@ word_by_word:
     transliteration: aḥadan
 ---
 
-## Context
-
-To understand **The Jinn** (Al-Jinn) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-In Surah Al-Araf: 12 , Al Hijr: 26-27 and Ar-Rahman: 14-19 , it has been expressly stated that man was created out of clay and jinn out of fire.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. Verse [ 26] is the proof of the preceding verse.
@@ -149,3 +137,5 @@ The purport of the verse under comment is to affirm the totality of Allah's know
 (...except a messenger whom He chooses [ to inform through revelation ], and then He appoints [ angels as ] watching guards before him and behind him, [ so that devils may not tamper with the divine revelation,].... 72:27)
 
 ## Personal Reflections
+
+

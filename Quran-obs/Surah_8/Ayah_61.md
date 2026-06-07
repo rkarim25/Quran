@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-ʿalīmu
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But if they incline to peace, you also incline to it, and trust in Allah. The third verse (61) takes up injunctions of peace and aspects related to it.
@@ -147,3 +135,5 @@ However, should there arise a situation in which Muslims are totally encircled a
 And since the proposal of peace initiated by the enemy does have the probability that they might use it as a strategy of deceit, make them negligent and then make a surprise attack, therefore, at the end of the verse, the instruction given to the Holy Prophet ﷺ was: وَتَوَكَّلْ عَلَى اللَّـهِ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ (and place your trust in Allah. Surely, He is the All-Hearing, All-Knowing - 61). It means that Allah Ta` ala hears what they say and also knows the intentions and designs concealed in their hearts. He is sufficient to help you, therefore, do not base your decisions to do things on such probabilities which cannot be proved. The safest policy was to entrust all such apprehensions and scruples with Allah.
 
 ## Personal Reflections
+
+

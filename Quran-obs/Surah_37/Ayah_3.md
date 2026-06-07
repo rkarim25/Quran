@@ -12,18 +12,6 @@ word_by_word:
     transliteration: dhik'ran
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat As-Saffat An-Nasa'i recorded that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. 3.
@@ -109,3 +97,5 @@ The One True God is Allah
 At this place, by mentioning these three attributes of angels, the noble Qur'an has put together all essential qualities of ideal servitude. To sum up: (1) Stand in perfect linear formation for "ibadah', (2) preventing rebellious forces from disobedience to Allah and (3) to recite the good counsel and commandments of Allah in person as well as to communicate to others. It is obvious that no act of servitude can remain devoid of these three departments. Hence, the sense of all four verse (37:1-4) turns out to be: 'By the angels who imbibe in them all ideal attributes of servitude, your true Lord is but One.'
 
 ## Personal Reflections
+
+

@@ -101,18 +101,6 @@ word_by_word:
     transliteration: l-mubīnu
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They swear by Allah their strongest oaths that if only you would order them, they would leave. Four conditions for success and victory And whoever obeys, Allah and His messenger and has awe of Him and observes Tagwa of Him, then such people are the victorious.
@@ -202,3 +190,5 @@ This مَن يُطِعِ اللَّـهَ relates to the obligations toward Alla
 things he is given the good tiding of فَأُولَـٰئِكَ هُمُ الْفَائِزُونَ (that such people are the victorious). And Fa'iz is that person who gets deliverance from Jahannam and earns a place in the Paradise. After hearing this explanation Sayyidna ` Umar ؓ said the endorsement of this is available in the utterance of the Holy Prophet ﷺ ، who had said that اُوتیت جوامع الکلم Allah has graced me with such comprehensive expressions in which words are few but the meanings are vast'. (Qurtubi)
 
 ## Personal Reflections
+
+

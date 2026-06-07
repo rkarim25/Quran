@@ -12,18 +12,6 @@ word_by_word:
     transliteration: l-muqarabūna
 ---
 
-## Context
-
-To understand **The Defrauding** (Al-Mutaffifin) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mutaffifin is a **Makkah** surah—revealed as the 86th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 36 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of the Surah and its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay! يَشْهَدُهُ الْمُقَرَّبُونَ (...attended by those [ angels ] who are blessed with nearness to Allah!...83:21) The verb yash-hadu is derived from shuhud which means 'to attend, to witness, to be present, to observe'.
@@ -133,3 +121,5 @@ Similarly, the souls of the unbelievers remain in sijjin which is situated benea
 However, the hadith that informs us that the souls of the unbelievers will remain in the graves is apparently contradictory to the preceding two narratives. The Baihaqi of his time, Qadi Thana'ullah Panipati, in his Tafsir Mazhari, has reconciled them thus: It is not far-fetched to assume that ` illiyyun and sijjin are the real abodes of the souls, but they have a special connection with their graves. None, besides Allah, knows the actual nature of the connection. However, there is the sun and the moon in the sky, but their rays fall on the earth and provide to it light and heat. Similarly, the souls of ` illiyyun and sijjin may have some spiritual connection with the graves. The scholarly view of Qadi Thana'ullah Panipati has just been discussed in Surah Nazi’ at, the sum total of which is as follows: There are two types of soul: The one is a subtle substance that permeates the human body. Despite being a material substance, it is too subtle to be visible, and its other name is nafs. The other soul is abstract and non-material, pure essence. The pure, abstract and non-material soul is the life of the first soul, and therefore it is called the 'soul of soul'. Both the categories of souls are connected to human body, but the first type of soul resides in the human body. When the soul leaves the body, death occurs. The second type of soul is connected with the body more closely than the first type, but Allah alone knows the nature of the connection. The first soul, after death, is taken to the heaven, and then returned to the grave. Grave is its abode where it is rewarded and punished. The abstract soul remains in ` illiyyun or sijjin [ as the case might be ]. Thus we have several views on the issue. The final destination of souls is Paradise or ` illiyyun, or its opposite Hell or sijjin. The abode of the abstract souls is ` illiyyun or sijjin. The souls of the first type, the nafs, or the body, remains in the grave after death. And Allah knows best!
 
 ## Personal Reflections
+
+

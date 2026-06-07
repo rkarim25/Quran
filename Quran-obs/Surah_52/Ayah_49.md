@@ -25,18 +25,6 @@ word_by_word:
     transliteration: l-nujūmi
 ---
 
-## Context
-
-To understand **The Mount** (At-Tur) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Subject Matter and Topics The subject matter of its first section ( vv. 1-28 ) is the Hereafter. As arguments for its possibility, necessity and occurrence had already been given in Surah Adh-Dhariyat, these have not been repeated here. However, swearing an oath by some realities and signs which testify to the Hereafter, it has been stated most emphatically that it will surely come to pass, and none has the power to prevent its occurrence. Then, it has been stated as to what will be the fate of those who deny it when it actually occurs, and how will those who believe in it and adopt the way of piety and righteousness accordingly, be blessed by Allah. Then, in the second section ( vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if they were to see a piece of the heaven falling down, they would say: "Clouds gathered in heaps! وَمِنَ اللَّيْلِ فَسَبِّحْهُ (And, in parts of night too, proclaim His purity, and at setting of the stars...52:49) 'Proclaiming the purity of the Lord in parts of night' includes Maghrib and ` Isha' prayers, as well as the general tasbihat (proclamation of the purity of the Lord).
@@ -158,3 +146,5 @@ Surah At-Tur
 Ends here
 
 ## Personal Reflections
+
+

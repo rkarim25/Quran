@@ -20,18 +20,6 @@ word_by_word:
     transliteration: takhludūna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 129, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 'Ad denied the Messengers (123)When their brother Hud said to them: "Will you not have Taqwa? Explanation of some difficult words Do you erect on every height a sign having no sound purpose, [ 128] and take the objects of architecture as if you are going to live forever, (26:128-129)
@@ -99,3 +87,5 @@ Construction of buildings without any need is contemptible
 This verse indicates that the construction of houses and buildings without need is a condemnable act. The hadith quoted by Imam Tirmidhi (رح) on the authority of Sayyidna Anas ؓ conveys exactly the same message: النفقۃ کلھا فی سبیل اللہ إلّا البناء فلا خیر فیہ (All spendings are in Allah's way, except construction, which has no merit). It means that the building which is constructed in excess of requirement has no benefit or virtue. Another narration of Sayyidna Anas ؓ also confirms this: اِن کُلّ بناء وبال علی صاحبہ إلّا – مَالا ، إلّا مالا، یعنی اِلَّا مالا بدّ منہ - ` Every building is a tribulation for the builder, except that which is necessary, because it is not a nuisance'. It is commented in Ruh al-Ma’ ani that without genuine requirement construction of tall buildings is contemptible and condemned under the Sharl'ah of the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

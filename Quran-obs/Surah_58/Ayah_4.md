@@ -117,15 +117,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's Messenger ﷺ felt the hardship upon receiving the revelation as he usually did and then became relieved. He said to me,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -250,3 +242,5 @@ Al-Hasan Al-Basri said that it is to utilize her sexual organ, and he did not se
 ذَٰلِكَ لِتُؤْمِنُوا بِاللَّـهِ وَرَ‌سُولِهِ وَتِلْكَ حُدُودُ اللَّـهِ وَلِلْكَافِرِ‌ينَ عَذَابٌ أَلِيمٌ (...This is [ laid down ] so that you believe in Allah and His Messenger. And these are the limits set by Allah. And for the disbelievers there is a painful chastisement. 58:4) This part of the verse contains the phrase 'so that you believe'. Belief here implies 'to act upon the sacred laws, ordinances and injunctions or obey the commandments of Allah and His Messenger'. Then the verse says that the laws of expiation are limits set by Allah. It is prohibited to exceed them. It indicates that in matters of marriage, divorce, incestuous comparison and so on, Islam has abolished all traces of pre-Islamic pagan elements of customs and practices, and set down the just and approved code of conduct. Man is required to stick strictly to the parameters of Islam. Those who oppose and deny the Divine limits will be tormented most severely.
 
 ## Personal Reflections
+
+

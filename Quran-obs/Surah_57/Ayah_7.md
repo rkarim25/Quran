@@ -67,18 +67,6 @@ word_by_word:
     transliteration: kabīrun
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. [ 1] The original word used in the text is 'mustakhlafin' which has two meanings: 'deputies' and 'successors'.
@@ -260,3 +248,5 @@ Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud said, "When this Ayah,
 [ 1] The original word used in the text is 'mustakhlafin' which has two meanings: 'deputies' and 'successors'. Taken in the first meaning, the verse indicates that the wealth held by human beings originally belongs to Allah, but He has made them His deputies or representatives to use it according to His directions. Although He has allowed them to use it for their own benefit, it should always be subject to the rules prescribed by Him in Shari'ah. Once it is believed that one is not the absolute owner of this wealth, it should not be difficult for him to spend according to the command of its absolute Owner. This is the interpretation of the verse according to the majority of commentators. However, some other exegetes have taken the word 'mustakhlafin' in the sense of 'successors'. In this case the verse reminds us that whatever wealth we have in our hands today has reached us from other people who owned it before us. We have succeeded them in its ownership, and ultimately it will be passed on to some others through any mode of transfer including inheritance. All kinds of wealth are thus in transit, moving from one person to another. Therefore, one should not hesitate in spending it in Allah's way, because it has to be passed on to some others in any case. (Muhammad Taqi Usmani)
 
 ## Personal Reflections
+
+

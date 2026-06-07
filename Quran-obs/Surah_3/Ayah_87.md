@@ -42,18 +42,6 @@ word_by_word:
     transliteration: ajmaʿīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 How shall Allah guide a people who disbelieved after their belief and after they bore witness that the Messenger is true and after clear proofs came to them? On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ : 'How shall Allah give guidance...' (86), there emerges a doubt that whoever turns an apostate receives no guidance afterwards, although, the fact is contrary to this.
@@ -121,3 +109,5 @@ On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ 
 The answer is that the withholding of guidance mentioned here is in accordance with common usage. For instance, some criminal when punished by a certain ruler may say, 'I have been given a special treatment by the ruler with his own hands.' And in answer to him, it is said: 'Why are we going to give a special treatment to such a criminal?' That is, there is just no special treatment called for in this case, while it does not mean that such a person cannot, in any way, become deserving of special treatment even if he behaved well. (Bayern a1-Qur'an)
 
 ## Personal Reflections
+
+

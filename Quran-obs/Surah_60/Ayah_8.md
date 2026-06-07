@@ -92,18 +92,6 @@ word_by_word:
     transliteration: l-muq'siṭīna
 ---
 
-## Context
-
-To understand **She that is to be examined** (Al-Mumtahanah) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah deals with two incidents, the time of the occurrence of which is well known historically. The first relates to Hadrat Hatib bin Abz Balta'a, who, a little before the conquest of Makkah, had sent a secret letter to the Quraish chiefs informing them of the Holy Prophet's intention to attack them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Perhaps Allah will make friendship between you and those whom you hold as enemies. Some reports indicate that Sayyidah Asma’ s ؓ mother Qutailah was divorced by Sayyidna Abu Bakr ؓ in the Days of Ignorance.
@@ -209,3 +197,5 @@ Ruling
 This verse proves that optional charities may be spent on non-Muslim citizens of an Islamic State and on non-Muslims with whom the Muslims have a peace pact. It is, however, forbidden to spend on non-believers who are at war with Muslims.
 
 ## Personal Reflections
+
+

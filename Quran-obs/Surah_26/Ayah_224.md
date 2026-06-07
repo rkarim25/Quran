@@ -18,17 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Poets** (Ash-Shu'ara) 224, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about. The reports that have been narrated about this are all Mursal and cannot be relied on. And Allah knows best. But this exception could include the poets of the Ansar and others. It even includes those poets of the Jahiliyyah who indulged in condemning Islam and its followers, then repented and turned to Allah, and gave up what they used to do and started to do righteous deeds and remember Allah much, to make up for the bad things that they had previously said, for good deeds wipe out bad deeds. So they praised Islam and its followers in order to make up for their insults, as [the poet] 'Abdullah bin Az-Zab'ari said when he became Muslim:
 
 (Ridicule them in verse, and Jibril is with you.) Imam Ahmad recorded that Ka'b bin Malik said to the Prophet ﷺ, "Allah has revealed what He revealed about the poets. The Messenger of Allah ﷺ said:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -247,3 +239,5 @@ Surah Ash-Shu` ara'
 Ends here.
 
 ## Personal Reflections
+
+

@@ -38,18 +38,6 @@ word_by_word:
     transliteration: yastahziūna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. If We so will, We can send down to them a sign from the sky before which their necks will stay bent in submission.
@@ -149,3 +137,5 @@ If We so will, We can send down to them a sign from the sky before which their n
 Allamah Zamakhshari has explained that the real intent of the text is to say that the disbelievers themselves will stay in submission, but the act of submission is attributed in the verse to their "necks", so that the initial object of submission is pinpointed, because yielding or bowing in humility initially appears on the neck. The substance of the message of this verse is that Allah Ta’ ala also has full authority and control to evince any sign of His Oneness and Omnipotence which brings forth the religious injunctions and the Divine Truth in such a self-evident manner that no one would have the ability to reject it. But the wisdom demands that these injunctions and the understanding of God are not made self-evident but remain visionary, so that they are dependent on deliberations and pondering. This pondering and deliberation is actually the test of man on which the reward and punishment is adjudged. Acceptance of self-evident things is a natural and involuntary phenomenon which lacks the quality of deliberate obedience. (Qurtubi)
 
 ## Personal Reflections
+
+

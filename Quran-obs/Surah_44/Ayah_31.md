@@ -34,15 +34,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Smoke** (Ad-Dukhan) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -197,3 +189,5 @@ Weeping of the Sky and the Earth
 Some scholars interpret the verse metaphorically, not literally. They say that the sky and the earth do not really weep, in the primary sense of the word. The verse purports to say that their existence is so insignificant that when they were wiped out, it did not cause grief to anyone. In the light of the above narratives, the real weeping of the heaven and earth in this context appears to be preferable. If the literal or primary sense of an expression is possible, there is no need to interpret it metaphorically or figuratively. The narratives quoted above support our argument - that the verse must be interpreted in its basic sense, and not in the figurative sense. It may be objected that neither the heaven nor the earth has any sense so that they would weep in the primary sense in which we understand it. Its rebuttal is simple: Obviously, every member of the universe has some sense, to a higher or lower degree, as attested by the Qur'an وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ...And there is not a single thing that does not extol His purity and praise, but you do not understand their extolling... (17:44) ". Gradually, contemporary science - through its research and experiment - is now reaching the same conclusion. Of course, it is not necessary for the heavens and the earth to be weeping in the same way as human beings do. The way of their weeping would surely be different from humans but we are unaware of its reality.
 
 ## Personal Reflections
+
+

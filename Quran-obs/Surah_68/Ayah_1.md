@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yasṭurūna
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its subject matter shows that it was sent down at the time when opposition to the Holy Prophet (upon whom be peace) had grown very harsh and tyrannical. Theme and Subject Matter It consists of three themes: Replies to the opponents objections, administration of warning and admonition to them, and exhortation to the Holy Prophet (upon whom be peace) to patience and constancy.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (1. The preceding Surah dealt with the existence of Allah, His Oneness, and His knowledge and power, and adduced, as a positive proof of these attributes, was the fact that Allah is the Creator of death and life, and of the entire universe through whose component parts there runs the beautiful order that pervades the cosmos.
@@ -205,3 +193,5 @@ Special Note
 Scholars have explained the Qur'anic concept of 'oath': Wherever Allah has sworn an oath by an object or a phenomenon, its subject has been cited as evidence or testimony to support and substantiate the claim. Here the phrase مَا يَسْطُرُ‌ونَ 'what they write [ 1] '. Is the proof of the claim, that is, world history has been cited as testimony for critics to look into the pages of history, if they can ever find a person of such lofty calibre as the Messenger of Allah ﷺ ، with high morals insane. He takes care of other people's sanity. The next verse reinforces the subject.
 
 ## Personal Reflections
+
+

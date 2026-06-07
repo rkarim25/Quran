@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Iron** (Al-Hadid) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So if you are in doubt concerning that which We have revealed to you, then ask those who are reading the Book before you. Verily, the truth has come to you from your Lord.)(10:94)'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -153,3 +145,5 @@ Some of the Merits of Surah Al-Hadid
 It is recorded in Abu Dawud, Tirmidhi and Nasa'i that Sayyidna ` Irbad Ibn Sariyah ؓ said that the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep and said: "In them there is a verse that is more meritorious than a thousand verses." The collective name of the series Al-Musabbihat refers to the following five Surahs: [ 1] Al-Hadid; [ 2] Al-Hashar; [ 3] As-Saff; [ 4] Jumu'ah; and [ 5] At-Taghabun. Having cited this Hadith, Ibn Kathir says that the best verse referred to in Surah Al-Hadid is verse [ 3] هُوَ الْأَوَّلُ وَالْآخِرُ‌ وَالظَّاهِرُ‌ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ (He is the First and the Last, and the Manifest and the Hidden, and He is All-Knowing about everything....57:3] Among the five Surahs, the first three, namely Al-Hadid, Al-Hashr and As-Saff commence with the past perfect tense 'sabbaha' [ purity has been proclaimed ] whilst the last two, namely Al-Jumu` ah and Al-Taghabun commence with the imperfect tense yusabbihu [ purity is proclaimed ]. This implies that the purity of Allah should be declared at all times, the past, the present and the future. [ Mazhari ]
 
 ## Personal Reflections
+
+

@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Iron** (Al-Hadid) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So if you are in doubt concerning that which We have revealed to you, then ask those who are reading the Book before you. Verily, the truth has come to you from your Lord.)(10:94)'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -169,3 +161,5 @@ He is beyond all our discussions and debates.
 Whatever example I cite to explain Him is no more than a sheer failure.
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 105, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he said: "Verily, I am going to my Lord. By saying: كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ (This is how We reward those who are good in deeds - 110), the sense is, 'when a servant of Allah bows down before the command of Allah and is ready to sacrifice all personal t…
@@ -196,3 +184,5 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 By saying: كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ (This is how We reward those who are good in deeds - 110), the sense is, 'when a servant of Allah bows down before the command of Allah and is ready to sacrifice all personal thoughts and feelings, then, ultimately, We take care of him, so that he remains safe from whatever could have afflicted him here in this world, and as for the recompense and reward of the Hereafter, that We write down in his book of deeds.'
 
 ## Personal Reflections
+
+

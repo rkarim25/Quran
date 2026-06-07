@@ -40,15 +40,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (They are) refers to those who believe in the Unseen, establish the prayer, spend from what Allah has granted them, believe in what Allah has revealed to the Messenger and the Messengers before him, believe in the Hereafter with certainty, and prepare the necessary requirements for the Hereafter by performing good deeds and avoiding the prohibitions. Allah then said,
 
-This verse speaks of some other attributes of the God-fearing, giving certain details about faith in the unseen with a special mention of faith in hereafter. Commenting on this verse, the blessed Companions ` Abdullah ibn Masud and ` Abdullah ibn ` Abbs ؓ have said that in the days of the Holy Prophet ﷺ God-fearing Muslims were of two kinds, - those who used to be associators and disbelievers but accepted Islam, and those who used to be among the people of the Book (that is, Jews and Christians) but embraced Islam later on; the preceding verse refers to the first group, and this verse to the second.
+This verse speaks of some other attributes of the God-fearing, giving certain details about faith in the unseen with a special mention of faith in hereafter. Commenting on this verse, the blessed Companions ` Abdullah ibn Masud and ` Abdullah ibn ` Abbs ؓ have said that in the days of the Holy Prophet ﷺ God-fearing Muslims were of two kinds, - those who used to be associators and disbelievers but accepted Islam, and those who used to be among the people of the Book (that is, Jews and Christians) but embraced Islam later on; the preceding verse refers to the first group, and this verse to the second. Hence this verse specifically mentions belief in the earlier Divine Books along with belief in the Holy Qur'an, for, according to the Hadith, people in the second group deserve a double recompense, firstly, for believing in and following the earlier Books before the Holy Qur'an came to replace them, and secondly, for believing in and following the Holy Qur'an when it came as the final Book of Allah. Even today it is obligatory for every Muslim to believe in the earlier Divine Books except that now the belief has to take this form: everything that Allah has revealed in the earlier Books is true (excepting the changes and distortions introduced by selfish people), and that it was incumbent upon the people for whom those Books had been sent to act according to them, but now that all the earlier Books and Shari'ahs have been abrogated, one must act according to the Holy Qur'an alone.3
 
 ## Tafsir Summary
 
@@ -137,3 +131,5 @@ Before we proceed, we may point out that in speaking of faith in the hereafter a
 It is these who are on guidance given by their Lord; and it is just these who are successful.
 
 ## Personal Reflections
+
+

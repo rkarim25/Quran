@@ -88,18 +88,6 @@ word_by_word:
     transliteration: tarḍā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 130, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world)(128)So bear patiently what they say, and glorify the praises of y… فَاصْبِرْ‌ عَلَىٰ مَا يَقُولُونَ (So endure what they say - 20:130) The people of Makkah offered various excuses to justify their rejection of the religion brought to them by the Holy Prophet and these included derogatory remarks against his person also, such as branding him as a sorcerer, a poet or even an untruthful person.
@@ -195,3 +183,5 @@ Everyone in this world, whether he is big or small, good or bad, has enemies and
 وَسَبِّحْ بِحَمْدِ رَ‌بِّكَ (And proclaim the purity and praise of your Lord - 20:130) Here the direction of proclaiming Allah's purity is followed by the direction of proclaiming His praise. It implies an indication that when a person is given taufiq to remember Allah by performing dhikr or any other form of worship, it should not make him proud of it. Instead, he should praise Allah, because without His taufiq (facilitation) he could not perform that worship. Then, proclaiming the purity and praise of Allah may mean invocation of Allah and His praise, and they may also mean the prescribed prayers. The subsequent fixed times which have been mentioned obviously refer to prayer timings. Thus قَبْلَ طُلُوعِ الشَّمْسِ (before the sunrise) means early morning (fajr) prayer وَقَبْلَ غُرُ‌وبِهَا (before it sets) means midday prayers (zhur) and afternoon prayers (` asr) while وَمِنْ آنَاءِ اللَّيْلِ (and in some hours of night) means all prayers after sunset i.e. maghrib, ` isha' and tahajjud. The words أَطْرَ‌افَ النَّهَارِ‌ (the edges of the day) are intended to put additional emphasis on Fajr and Maghrib prayers.
 
 ## Personal Reflections
+
+

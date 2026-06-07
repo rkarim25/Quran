@@ -22,17 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Sincerity** (Al-Ikhlas) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ikhlas is a **Makkah** surah—revealed as the 22nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 4 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The reason for the revelation of this Surah has already been mentioned. 'Ikrimah said, "When the Jews said, 'We worship 'Uzayr, the son of Allah,' and the Christians said, 'We worship the Messiah ('Isa), the son of Allah,' and the Zoroastrians said, 'We worship the sun and the moon,' and the idolators said, 'We worship idols,' Allah revealed to His Messenger ﷺ,
 
 According to another narration, the pagans added to their question whether Allah was made of gold, silver or some other stuff, in response to which this Surah was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -277,3 +269,5 @@ Oneness of Allah
 Verse [ 112:1] قُلْ هُوَ اللَّـهُ أَحَدٌ Say, (The truth is: Allah is One.) The imperative qul (Say) is directly addressed to the Holy Prophet Muhammad ﷺ ، thus indicating that he is Allah's Prophet and Messenger. This verse directs and commands him to convey Allah's message to mankind. 'Allah' is the personal name of that Necessary Being Whose non-existence is inconceivable. He comprises all the attributes of perfection and is free from, or above, or overrides all kinds of imperfections. The epithets ahad and wahid are both applied to Allah which are normally translated as 'One' but the word ahad includes an additional sense which signifies that Allah is beyond composition, plurality and resemblance, which means that He is neither composed of any elements, nor does He has any partner, nor has He any resemblance to anything. This is a response to those who asked about Allah whether He is made of gold or silver or pearls. This concise statement covers all aspects of discussion on the Divine Being and His attributes. The imperative qul [ say ] points to the messenger-ship of the Holy Prophet ﷺ . If analyzed properly, this brief sentence covers all the detailed discussions expounded in voluminous books of theology.
 
 ## Personal Reflections
+
+

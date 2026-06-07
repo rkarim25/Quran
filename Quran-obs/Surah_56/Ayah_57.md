@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tuṣaddiqūna
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-57-74 arguments have been given, one after the other, to prove the truth of the two basic doctrines of Islam, which the disbelievers were refusing to accept, viz.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We created you, then why do you believe not (57)Do you not see the semen you emit (58)Is it you who create it, or are We the Creator (59)We have decreed death to you all, and We are not outstripped (60)To transfigure you… Proof of the occurrence of the Day of Resurrection Thus far the Surah dealt with three categories of people on the Plain of Hashr (Gathering.) The verses so far described the reward and punishment of these three groups.
@@ -123,3 +111,5 @@ Creation of Plants, Sending down of Rain and Creation of Fire are Proof of Allah
 After referring to the birth of man from very insignificant beginning, the Surah, from verse [ 63] onwards, proceeds to give a brief account of things upon which man's life on earth depends. There are three principal things upon which man's life in this world depends - food, water and fire. The first thing is food to which verse [ 63] refers.
 
 ## Personal Reflections
+
+

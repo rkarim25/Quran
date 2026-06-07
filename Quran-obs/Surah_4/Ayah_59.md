@@ -124,15 +124,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Obey Allah and obey the Messenger, and those of you who are in authority.) "Was revealed about 'Abdullah bin Hudhafah bin Qays bin 'Adi, who the Messenger of Allah ﷺ sent on a military expedition." This statement was collected by the Group, with the exception of Ibn Majah At-Tirmidhi said, "Hasan, Gharib". Imam Ahmad recorded that 'Ali said, "The Messenger of Allah ﷺ sent a troop under the command of a man from Al-Ansar. When they left, he became angry with them for some reason and said to them, 'Has not the Messenger of Allah ﷺ commanded you to obey me?' They said, 'Yes.' He said, 'Collect some wood,' and then he started a fire with the wood, saying, 'I command you to enter the fire.' The people almost entered the fire, but a young man among them said, 'You only ran away from the Fire to Allah's Messenger. Therefore, do not rush until you go back to Allah's Messenger, and if he commands you to enter it, then enter it.' When they went back to Allah's Messenger ﷺ, they told him what had happened, and the Messenger ﷺ said,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -241,3 +233,5 @@ This 'reverting back to Allah and the Messenger' takes two forms:
 The words of the expression: فَرُدُّہ (revert it back) are general, thus being inclusive of both forms.
 
 ## Personal Reflections
+
+

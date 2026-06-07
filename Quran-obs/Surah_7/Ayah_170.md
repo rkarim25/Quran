@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-muṣ'liḥīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 170, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We have broken them (the Jews) up into various separate groups on the earth: some of them are righteous and some are away from that. The preceding verse (169) contained a mention of a covenant made with the religious leaders of the Israelites in particular, that they shall not make any changes in the Torah and shall not ascribe to Allah anything but the truth.
@@ -185,3 +173,5 @@ There are some points of discussion related to this verse. The term 'Book' most 
 The next thing we note in this verse is that out of a large number of doctrines of the Torah the verse has made mention of "establishing 'Salah' only. This is because the Salah is the most significant and purposeful act among the precepts enjoined by Allah. This is, in fact, the most basic and quintessential way of expressing one's faith in, and obedience to, Allah. Offering the Salah regularly makes one capable of being regular in other worships more willingly and with more ease. The Holy Prophet ﷺ has termed the Salah as being the pillar of Islam. The whole edifice of Islam rests on it. Whoever has erected it properly has built the whole structure of his faith on a stronghold. Any one not regular in Salah, is of no worth to Allah, even if he is seen reciting His name all the times and has unusual visions and does extraordinary acts.
 
 ## Personal Reflections
+
+

@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **Mary** (Maryam) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Abi Hatim recorded that Hazm bin Abi Hazm Al-Quta'i said, "'Umar bin 'Abdul-Aziz wrote to 'Abdul-Hamid bin 'Abdur-Rahman, who was the governor of Kufah: 'Thus, to proceed: Verily, Allah prescribed death for His creatures when He created them and He determined their final destination. He said in that which He revealed in His truthful Book, which He guarded with His knowledge and made His angels testify to its preservation, that He will inherit the earth and all who are on it, and they will all be returned to Him.'"
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -159,3 +151,5 @@ And Al-Baghawi (رح) has narrated quoting Abu Hurairah ؓ that The Holy Prophet
 The companions of the Holy Prophet ﷺ asked him what would be that remorse and regret about? Then The Holy Prophet ﷺ explained that those who acted righteously will regret not having performed more righteous deeds which would have helped them attain a higher position in Paradise. On the other hand, the evil doers will repent their evil actions and sins. (Mazhari)
 
 ## Personal Reflections
+
+

@@ -81,17 +81,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 160, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr. Some people said that the Messenger of Allah ﷺ might have taken it. When this rumor circulated, Allah sent down,
 
 (Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -352,3 +344,5 @@ Verses 165-167 explain the reason why Muslims faced hardships at Uhud, while ref
 Towards the end, in verses 169-171, it has been said that those who lay down their lives in the way of Allah achieve the ultimate success, real, permanent and full. Details follow.
 
 ## Personal Reflections
+
+

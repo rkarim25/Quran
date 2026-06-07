@@ -63,18 +63,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 180, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-180-198 In conclusion, instructions have been given to the Holy Prophet, and through him to his followers, about the attitude they should adopt towards those who reject the Message and deviate from it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (all) the Most Beautiful Names belong to Allah, so call on Him by them, and leave the company of those who belie His Names. This verse has a relationship with the preceding verses in the sense that the people of Hell discussed above did not use their abilities in seeking the everlasting comforts of the Hereafter, and made themselves liable to eternal punishment.
@@ -192,3 +180,5 @@ This sinful practice has become quite common among Muslims for no gain. They hav
 Many evils are committed for certain worldly gains or benefits. Any one committing such evil deed may pretend to offer an excuse that being constrained by some necessity he had committed the sin, while a great number of evil deeds are simply of no avail, and produce no worldly benefit at all. It is a sad situation that people are seen committing such evil deeds just for being careless of the commandments of Allah and being indifferent to what is prohibited or permitted by Allah. May Allah save us from such ignorance.
 
 ## Personal Reflections
+
+

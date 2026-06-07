@@ -66,18 +66,6 @@ word_by_word:
     transliteration: murībin
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you could but see, when they will be terrified with no escape, and they will be seized from a near place (51)And they will say: "We do believe (now);" but how could they receive (Tanawush) from a place so far off (52)Indeed they did disbelieve before (in this world), and they (used to) conjecture about the Unseen, from a far place (53)And a barrier will be set between them and that which they desire, as was done in the past with the people of their kind.
@@ -169,3 +157,5 @@ Surah Saba'
 Ends here
 
 ## Personal Reflections
+
+

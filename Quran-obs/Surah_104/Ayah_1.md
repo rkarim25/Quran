@@ -20,18 +20,6 @@ word_by_word:
     transliteration: lumazatin
 ---
 
-## Context
-
-To understand **The Traducer** (Al-Humazah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Humazah is a **Makkah** surah—revealed as the 32nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 9 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation All commentators are agreed that it is a Makki Surah; a study of its subject matter and style shows that this too is one of the earliest Surahs to be revealed in Makkah. Theme and Subject Matter In the surah, some of the evils prevalent among the materialistic hoarders of wealth in the pre-Islamic days have been condemned. Every Arab knew that these evils genuinely existed in their society; they regarded them as evils and nobody thought they were good. After Allah calls attention to this kind of ugly character, the ultimate end in the Hereafter of the people with this kind of character has been stated. Both these things (i.e.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Warning against dreadful end of those committing three obnoxious sins This Surah warns of the severe punishment on three grave sins, and then highlights the nature of that severe punishment.
@@ -113,3 +101,5 @@ This Surah warns of the severe punishment on three grave sins, and then highligh
 "The worst servants of Allah are those who speak ill of someone, creating enmity between friends and finding fault with innocent people."
 
 ## Personal Reflections
+
+

@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): There is no God but I, so worship Me.)[21:25] It is similar to Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -153,3 +145,5 @@ After that, it was said: إِنَّنِي لَكُم مِّنْهُ نَذِير
 The word: نَذِیر (nadhir) is usually taken to mean a person who puts the fear of something into someone's heart. But, this word is not used to denote a fear-generating enemy or beast or others that harm. In-stead of that, nadhir is applied to a person who, out of his love and affection to someone, warns him against and saves him from some harmful things. These could be things that harm in this world and might as well could be those that bring harm in the Hereafter.
 
 ## Personal Reflections
+
+

@@ -113,18 +113,6 @@ word_by_word:
     transliteration: baṣīrun
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who 'Yulḥidūna Fī' Our Ayat are not hidden from Us. Description and Rules of Ilhad (الحاد) - A particular kind of kufr إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا (Surely those who go crooked about Our signs are not hidden from Us….41:40) In the earlier verses, there were warnings, threats and mention of scourge for those who used to openly deny the Oneness of Allah and the prophethood of the Holy Prophet ﷺ .
@@ -234,3 +222,5 @@ Therefore, in view of the serious need of the times, my respected teacher Maulan
 He says that false interpretation of the Qur'an may be of two kinds. One, is an interpretation that goes against the definite, unambiguous texts of the Qur'an or of the mutawatir ahadith or of absolute consensus of the ummah. This kind of interpretation is kufr undoubtedly. The second kind is an interpretation against the texts that are, though clear and semi-certain, are not certain or definite in absolute terms. This kind of false interpretation is not kufr, however, it is fisq and misguidance. Apart from these two kinds, any interpretation that is based on a possible understanding of the text is the field of the jurists exercising ijtihad, and it carries reward from Allah in any case, as declared by a Hadith.
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: khawfin
 ---
 
-## Context
-
-To understand **Quraysh** (Quraysh) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Quraysh is a **Makkah** surah—revealed as the 29th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 4 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although Dahhak and Kalbi regard Surah Quraysh as a Madani Surah, a great majority of the commentators are agreed that it is Makki, and a manifest evidence of this are the words Rabba hadh-al-Bait (Lord of this House) in this Surah itself. Had it been revealed at Madinah, the words "this House" for the Ka'bah could not be relevant. Moreover, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 106:4] الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ (Who gave them food against hunger, and gave them security against fear.) The verse comprehensively captures all that was needed for the Quraish to live happily and peacefully in the world.
@@ -128,3 +116,5 @@ Surah Al-Quraish
 Ends here
 
 ## Personal Reflections
+
+

@@ -68,15 +68,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 123, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 They said, why was not this Qur'an revealed to a mighty, respectable leader, honored by us,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -239,3 +231,5 @@ In this statement of guidance, Muslims have been warned against aspiring to be l
 In addition to that, the purpose here is to comfort the Holy Prophet ﷺ when he has been asked not to grieve about the hostility of the chiefs of Quraysh, for it was nothing new. Prophets in the past had also faced such people. But, in the end, they (the people) were disgraced and the word of Allah reigned supreme.
 
 ## Personal Reflections
+
+

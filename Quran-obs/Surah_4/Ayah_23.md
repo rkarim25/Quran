@@ -232,18 +232,6 @@ word_by_word:
     transliteration: raḥīman
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Forbidden to you (for marriage) are: your mothers, your daughters, your sisters, your father's sisters, your mother's sisters, your brother's daughters, your sister's daughters, your foster mothers who suckled you, your… If the father has fallen into illicit relations with some woman, even then it will not be permissible for the son to marry that woman.
@@ -491,3 +479,5 @@ These narrations tell us that just as it is not lawful, after embracing Islam; t
 إِنَّ اللَّـهَ كَانَ غَفُورً‌ا رَّ‌حِيمًا (Surely, Allah is Most-Forgiving, Very-Merciful) means that anything people did erroneously before the advent of Islam will be overlooked by Allah Almighty once they have embraced Islam and they can be sure that He will turn to them with the great reach of His mercy.
 
 ## Personal Reflections
+
+

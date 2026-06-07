@@ -92,18 +92,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. After the description of things created in the heavens and the earth, and the benefits human beings derive from them, the text now turns to the high seas wherein Divine wisdom has placed many more benefits for them.
@@ -169,3 +157,5 @@ The third benefit of the sea appears in: وَتَرَ‌ى الْفُلْكَ م
 The sense of the verse (14) is that Allah Ta’ ala has made the sea one of the means of reaching distant countries. Thus, He has made it easy for human beings to travel by sea and bring in or send out their commercial goods. The text also declares it to be an excellent means of seeking the bounty of Allah, that is, their rizq or sustenance - because, trading through the sea routes is most economical and beneficial.
 
 ## Personal Reflections
+
+

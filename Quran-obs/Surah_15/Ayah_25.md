@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And there is not a thing, but the supplies for it are with Us, and We do not send it down but in a known measure (21)And We send the winds fertilizing, then We cause the water to descend from the sky, and We give it to you to drink, and it is not you who are the owners of its supply (22)And certainly We! Going Ahead and Remaining Behind in Righteous Deeds: The Difference in Degrees Some exegetic interpretations of the words: (al-mustaqdimin) : 'those who go ahead' and: (al-musta'khirin) : 'those who remain behind' appearing in verse 24: الْمُسْتَقْدِمِينَ ~.A11 have been variously reported from Tafsir authorities among the Sahabah ؓ and Tabi`…
@@ -154,3 +142,5 @@ With this, Al-Qurtubi has also reported the saying of Sayyidn Ka'b ؓ : 'There a
 What is apparent here is that real merit does lie in praying in the first row - as stands proved from the clear statements of the Qur'an and Sunnah. But, a person who does not, for some reason, find a place in the first row, then, he too will have a sort of merit in that there may perhaps be some righteous servant of Allah praying in the front rows for whose sake, he too may be forgiven. And the way praying in the first row of Salah stands proved from this verse, also proved is the superiority of being in the front lines of Jihad.
 
 ## Personal Reflections
+
+

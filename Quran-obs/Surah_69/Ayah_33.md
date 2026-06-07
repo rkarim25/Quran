@@ -28,18 +28,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **The Reality** (Al-Haqqah) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But as for him who will be given his Record in his left hand, will say: "I wish that I had not been given my Record!") (25)"And that I had never known how my account is! ثُمَّ فِي سِلْسِلَةٍ ذَرْ‌عُهَا سَبْعُونَ ذِرَ‌اعًا فَاسْلُكُوهُ (Thereafter, make him enter into a chain, the measure of which is seventy hands....69:32).
@@ -95,3 +83,5 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 ثُمَّ فِي سِلْسِلَةٍ ذَرْ‌عُهَا سَبْعُونَ ذِرَ‌اعًا فَاسْلُكُوهُ (Thereafter, make him enter into a chain, the measure of which is seventy hands....69:32). The phrase 'make him enter into a chain' could be interpreted metaphorically as 'bind him in a chain' but it could be taken in its primary sense, that is, to pierce the chain through one side of the body, so that it could come out from the other side of it like a string is passed through a pearl or the bead of a rosary. Traditional narratives seem to support the primary sense. [ Mazhari ]
 
 ## Personal Reflections
+
+

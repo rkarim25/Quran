@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife. If one of them wants, he would marry her, give her in marriage, or prevent her from marriage, for they had more right to her than her own family. Thereafter, this Ayah was revealed about this practice,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -257,3 +249,5 @@ First, it was said: أَتَأْخُذُونَهُ بُهْتَانًا وَإِ
 This sentence refers back to the previous verse (19) where it was laid down that the husband has no right to take back the dower from his wife except when she has committed a shameful act. On the basis of this principle the present verse (20) says that if you take back the dower from your wife, it will mean that you are imputing her for a shameful act, because it is the only situation where your claim may be rightful. Since your wife has not committed a shameful act, your claim to the dower is a false imputation which is an open sin.
 
 ## Personal Reflections
+
+

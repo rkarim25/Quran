@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Smoke** (Ad-Dukhan) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In the present set of verses, the greatness of Qur'an and some of its special features are described. وَالْكِتَابِ الْمُبِينِ "By the manifest Book". This verse refers to the Holy 'Qur'an'. In the verse Allah swears an oath by the magnificent Qur'an to state that it was revealed in a blessed and auspicious Night, the purpose of which is to awaken the unmindful human beings from their deep slumber. A similar oath was taken, in exactly the same words, at the commencement of Surah Az-Zukhruf (Chapter 43). The oath-phrase has been fully discussed there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -107,3 +99,5 @@ Sayyidna Abu Hurairah رضی اللہ تعالیٰ عنہ reports that the Messe
 In the present set of verses, the greatness of Qur'an and some of its special features are described. وَالْكِتَابِ الْمُبِينِ "By the manifest Book". This verse refers to the Holy 'Qur'an'. In the verse Allah swears an oath by the magnificent Qur'an to state that it was revealed in a blessed and auspicious Night, the purpose of which is to awaken the unmindful human beings from their deep slumber. A similar oath was taken, in exactly the same words, at the commencement of Surah Az-Zukhruf (Chapter 43). The oath-phrase has been fully discussed there.
 
 ## Personal Reflections
+
+

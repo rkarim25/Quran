@@ -82,15 +82,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (1) Zihar is a term denoting a custom of the Arabs in the days of Ignorance. In case of disagreement with their wives they used to say to them, "You are for me like the back of my mother." After saying this, they used to take their wives as their real mothers in being prohibited for them, and the ties of marriage were held to have been broken for good, with no possibility of their restoration. These verses have been revealed in a similar case where a husband (Aus ibn. Samit) had declared ?ihar against his wife (Khawlah) who approached the Holy Prophet and complained about her husband. The custom of the days of Ignorance was condemned, and the rules of Shari'ah about zihar were laid down by these verses. (Muhammad Taqi Usmani)
 
-قَدْ سَمِعَ اللَّـهُ (Allah has heard....1) The reference in the verse is to Sayyidah Khaulah ؓ the wife of Sayyidna Aus Ibn Samit ؓ ، as mentioned above.
+قَدْ سَمِعَ اللَّـهُ (Allah has heard....1) The reference in the verse is to Sayyidah Khaulah ؓ the wife of Sayyidna Aus Ibn Samit ؓ ، as mentioned above. Thus this verse and the rest of the verses lay down not only the rule of Shari` ah pertaining to zihar and redress the grievances of women placed in such awkward situation, but the first verse also is in honour of the pleading lady which consoles her, in that it says that Allah was listening to her words when she was pleading her case. The word mujadalah means 'to plead, argue or dispute consistently and convincingly about one's problem or case'. According to some narratives, when the Messenger of Allah ﷺ pleaded his inability to do anything for her, as noted above, the aggrieved lady uttered spontaneously that 'you receive ordinances in all matters, then how is it that no ordinance was revealed to you in my case?' Thus the verse was revealed: وَتَشْتَكِي إِلَى اللَّـهِ "...and was complaining to Allah...[ 1] ". [ Qurtubi ]
 
 ## Tafsir Summary
 
@@ -139,3 +133,5 @@ The noble Companions ؓ greatly respected Sayyidah Khaulah ؓ because her case h
 Sayyidah ` A'ishah ؓ is reported to have said: " Pure is He, Whose hearing encompasses all things. I heard what Khaulah bint Tha'labah ؓ said about her husband while some of it I could not hear despite being so close to her in the same room, but Allah heard all her conversation and said : قَدْ سَمِعَ اللَّـهُ 'Allah has heard...'." [ Bukhari, Ibn Kathir ]
 
 ## Personal Reflections
+
+

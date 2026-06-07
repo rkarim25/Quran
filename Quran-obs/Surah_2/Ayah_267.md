@@ -128,15 +128,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 267, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! Spend of the good things which you have (legally) earned, and of that which We have produced from the earth for you, and do not aim at that which is bad to spend from it,) that it was revealed about the Ansar. When the season for harvesting date-trees would start, the Ansar would collect ripe-date branches from their gardens and hang them on a rope erected between two pillars in the Masjid of the Messenger of Allah. The poor emigrant Companions would eat from these dates. However, some of them (Ansar) would also add lesser type of dates in between ripe-date branches, thinking they are allowed to do so. Allah revealed this Ayah about those who did this,
 
-On the basis of the circumstances in which this verse was revealed, the word: (tayyib: plural, tayyibat طَيِّبَاتِ ) has been interpreted to mean 'good' since some people used to bring things which were bad and that was why this verse was revealed.
+On the basis of the circumstances in which this verse was revealed, the word: (tayyib: plural, tayyibat طَيِّبَاتِ ) has been interpreted to mean 'good' since some people used to bring things which were bad and that was why this verse was revealed. Some commentators have interpreted the word, tayyib طَيِّبَ (good) to mean حلال halal (lawful) relying on the generality of the word since something is perfectly good only when it is حلال halal (lawful) as well. So, according to this interpretation, the verse emphasizes that the thing given in charity must be from one's lawful income. However, according to the first interpretation, the stress on this condition will have to be proved by other sources. Let us remember that this is for a person who has something good yet elects to spend something not good as ما کسبتم (you have earned) and اخرجنا (We have brought forth) do indicate that good things are available with the person making charity, while the sentence لَا تَيَمَّمُوا الْخَبِيثَ (and do not opt for a bad thing spending only from there) proves the spending of something not good deliberately. As for the one who just does not possess anything good, he shall be exempted from this prohibition. His giving, even if it be bad, shall be accepted.
 
 ## Tafsir Summary
 
@@ -283,3 +277,5 @@ The word اخرجنا (akhrajna: We have brought forth) in مِمَّا أَخْ
 There is yet another difference -- 'Ushr is dropped if the land produces nothing, but زکاۃ Zakah remains obligatory at the end of the year on gold, silver and goods of commercial value even if there is no profit at all. This is not the place to discuss details relating to the problems of 'Ushr and Kharaj خراج . These can be seen in books of Fiqh. Incidentally, this humble writer has discussed this subject in some details in his book, Nizam al-Ara-di نظام الاراضی which also contains special injunctions concerning lands in Pakistan and India.
 
 ## Personal Reflections
+
+

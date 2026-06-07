@@ -62,18 +62,6 @@ word_by_word:
     transliteration: shayan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Therefore, you should plainly say to the Christians that Prophet Jesus was not the son of God." After relating the story of Prophets John and Jesus in v?v?\.?\s[0-9]+\s-\s[0-9]+, the story of Prophet Abraham has been related ( vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "My Lord! The word عِتِيًّا is derived from which actually means 'unresponsive' or 'insensitive', and in the present context it means dryness of the bones.
@@ -113,3 +101,5 @@ The Answer of the Angel
 The word عِتِيًّا is derived from which actually means 'unresponsive' or 'insensitive', and in the present context it means dryness of the bones.
 
 ## Personal Reflections
+
+

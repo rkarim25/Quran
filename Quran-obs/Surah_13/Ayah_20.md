@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-mīthāqa
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… الَّذِينَ يُوفُونَ بِعَهْدِ اللَّـهِ (those who fulfill [ their ] pledge with Allah).
@@ -136,3 +124,5 @@ People who were parties to this solemn pledge were so true to their word of hono
 That the noble Sahabah did so was the result of the great feeling of love and the passionate desire to obey their master in their hearts. Otherwise, it was fairly obvious that he had never intended to stop them from making a request of this nature. This is very much like what happened when Sayyidna ` Abdullah ibn Masud ؓ was entering the Masjid on a certain occasion. He saw that the Holy Prophet ﷺ was addressing a gathering. It was only by chance that, at the time he was entering the Masjid, the words: 'Sit down' happened to have been uttered by the Holy Prophet ﷺ as part of his address. Sayyidna ` Abdullah ibn Masud ؓ knew that this never meant that anyone, no matter where, should sit down on the street, passage way, or a spot not suitable for the purpose. But, such was his passion for obedience that it did not allow him to take even one step forward from outside the Masjid gate where he was. Just as these words of his master struck his ears, he sat down right there.
 
 ## Personal Reflections
+
+

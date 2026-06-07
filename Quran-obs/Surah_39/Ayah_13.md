@@ -41,18 +41,6 @@ word_by_word:
     transliteration: ʿaẓīmin
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Verily, if I disobey my Lord, I am afraid of the torment of a great Day. In verse 10, it was said: وَأَرْ‌ضُ اللَّـهِ وَاسِعَةٌ (and the earth of Allah is wide).In the sentence previous to this, Good deeds had been enjoined.
@@ -116,3 +104,5 @@ Qatadah reports from Sayyidna Anas ؓ that the Holy Prophet ﷺ said, 'On the Da
 Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean people who endure hardships and remain patient over sorrows of the mortal life. Some elders have said that it means people who hold their self in check against acts of disobedience and sin. Qurtubi says, 'when the word: صَابِر (sabir: patient) is uttered unaccompanied by some other word, it invariably means a person who observes patience against hardships caused during the process of making one's desiring self abstain from sins. And when the word: صَبر (sabir) is used for a person who remains patient against distress, it is coupled with some other words: صَابِرت علی کَذَا (one who is patient against such and such distress). وَاللہ سبحانہ و تعالیٰ اَعلَم Allah knows best.
 
 ## Personal Reflections
+
+

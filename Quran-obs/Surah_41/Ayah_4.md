@@ -34,18 +34,6 @@ word_by_word:
     transliteration: yasmaʿūna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. An offer by the infidel's of Makkah to the Holy Prophet ﷺ The infidels of Quraysh, who are the direct addressees of this Surah, tried very hard to suppress the propagation of Islam in early days after the revelation of the Qur'an, through the use of physical force, and tried equally hard to intimidate the Messenger of Allah and those who believed in him by causing to them all sorts of pains and agonies.
@@ -155,3 +143,5 @@ Bazzar and Baghawi narrate that, during the recitation of the verses of this Sur
 When his Qurayshi companions heard his speech, they said to him "0 Abul Walid! Muhammad has cast an enchanting spell upon you with his words." ` Utbah replied to them, "I have given you my advice, and now it is upto you to do what you like.
 
 ## Personal Reflections
+
+

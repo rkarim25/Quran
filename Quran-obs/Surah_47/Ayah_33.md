@@ -46,18 +46,6 @@ word_by_word:
     transliteration: aʿmālakum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who disbelieve, and hinder from the path of Allah, and oppose the Messenger, after the guidance has been clearly shown to them, they will not harm Allah in the least, but He will make their deeds fruitless (32)O you who believe! إِنَّ الَّذِينَ كَفَرُ‌وا وَصَدُّوا عَن سَبِيلِ اللَّـهِ (Those who disbelieve and prevent (others) from Allah's way ...
@@ -151,3 +139,5 @@ Ruling:
 If a believer starts a nafl (an act of worship that is not obligatory), and then deliberately disrupts it before its completion, this too is deemed by Imam Abu Hanifah as nullifying the deed, and is impermissible according to him. Therefore, if a person commences righteous acts that were initially not compulsory or obligatory, their completion, according to this interpretation of the verse, becomes obligatory. Otherwise he would be committing ibtal-ul-a'mal [ nullification of actions ]. If anyone does this without a legitimate reason or nullifies them purposely, he would be a sinner, and it would be obligatory for him to make qada' for such nullification. According to Imam Shafi` i, neither he is a sinner nor is it obligatory for him to make qada'. His argument is that the act was not initially compulsory or obligatory, therefore its abandonment or nullification would not entail a sin. Hanafis are that the wordings of the current verse are general in their scope embracing all righteous acts, whether obligatory or supererogatory. Therefore, if a supererogatory act is initiated, its completion becomes obligatory. On this occasion, in Tafsir Mazhari, a large number of ahadith are quoted and the issue is discussed in detail.
 
 ## Personal Reflections
+
+

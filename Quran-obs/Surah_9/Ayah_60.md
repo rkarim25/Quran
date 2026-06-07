@@ -100,13 +100,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-This was the background in which this verse was revealed. Now, before going to its explanation in full, please understand that Allah Jalla Thana'uh has promised sustenance for the entire creation. Says the Qur'an: وَمَا مِن دَابَّةٍ فِي الْأَرْ‌ضِ إِلَّا عَلَى اللَّـهِ رِ‌زْقُهَا (And there is no creature on earth but that upon Allah is its provision - 11:6). However, in His infinite wisdom, he has not done something like making all of them equal in the matter of provision or sustenance - or رِزق rizq as the Qur'an says. This would have done away with the difference of rich and poor. This is a vast field of inquiry full of hundreds of wise insights into the moral grooming of human beings and into the proper ordering of the universal system they live under - something that cannot be taken up in details at this place. So, it was in His wisdom that He made someone rich and someone else poor and then fixed a share for the poor and needy in the riches of the rich.
+This was the background in which this verse was revealed. Now, before going to its explanation in full, please understand that Allah Jalla Thana'uh has promised sustenance for the entire creation. Says the Qur'an: وَمَا مِن دَابَّةٍ فِي الْأَرْ‌ضِ إِلَّا عَلَى اللَّـهِ رِ‌زْقُهَا (And there is no creature on earth but that upon Allah is its provision - 11:6). However, in His infinite wisdom, he has not done something like making all of them equal in the matter of provision or sustenance - or رِزق rizq as the Qur'an says. This would have done away with the difference of rich and poor. This is a vast field of inquiry full of hundreds of wise insights into the moral grooming of human beings and into the proper ordering of the universal system they live under - something that cannot be taken up in details at this place. So, it was in His wisdom that He made someone rich and someone else poor and then fixed a share for the poor and needy in the riches of the rich. It was said: وَفِي أَمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُ‌ومِ (And, in their wealth, there is a share fixed for the asking and the deprived - 70:24) which was theirs as a matter of right.
 
 ## Tafsir Summary
 
@@ -435,3 +429,5 @@ Rulings:
 7. In addition to that, if it is proved later that the person who was given Zakah was rich, or a Hashimite Sayyid, that is, a lineal descendant of the Holy Prophet ﷺ or a father, or son, or wife, or husband, then, it is not necessary to repay the Zakah. The reason is that the amount of Zakah has gone out of his ownership and has al-ready reached its place of reward with Allah. As for the error in deter-mining the right recipient due to some misunderstanding, it should be taken as forgiven. (al-Durr al-Mukhtar) The explanation of the verse of Sadaqat and the details of necessary issues related to it ends here.
 
 ## Personal Reflections
+
+

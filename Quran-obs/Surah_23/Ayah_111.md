@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-fāizūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 111, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He (Allah) will say: "Remain you in it with ignominy! وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108).
@@ -117,3 +105,5 @@ Then Allah will remind them of their sins in this world and how they used to mak
 وَلَا تُكَلِّمُونِ (Do not speak to Me - 23:108). According to Hasan al-Basri (رح) these will be the last words of the people who are cast in hell and in reply Allah will say, "Do not speak to Me." After this they will not be able to speak like human beings, but will make animal sounds to each other. Baihaqi and others have quoted Muhammad Ibn Ka` b as saying that the Qur'an mentions five requests made by the people condemned to hell. Out of the five, replies were furnished to four, but in reply to the fifth Allah commanded them not to speak to Him. Thus these are the last words to be uttered by them after which they will not be able to speak. (Mazhari)
 
 ## Personal Reflections
+
+

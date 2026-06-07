@@ -138,17 +138,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Exile** (Al-Hashr) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It is recorded in Tirmidhi on the authority of Sayyidna Abu Hurairah ؓ that one night a guest came to ansari's house. The latter had only as much food as he and his children could eat. He said to his wife: 'Put the children off to sleep somehow, and put out the lamp. Then place the food in front of the guest, and sit next to him so that he may be under the impression that we too are eating, but we will not eat so that the guest may be able to eat comfortably.' At this, the present verse was revealed. [ At-Tirmidhi has rated this hadith as 'hasan, sahih'].
 
 Mahdawi narrates a similar incident of Sayyidna Thabit Ibn Qais ؓ ، a venerable Ansari who entertained his guest one night by putting the light off. There is a common statement appended to all these incidents: 'The above verse was revealed in connection with this event.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -367,3 +359,5 @@ Ibn Kathir, with reference to Imam Ahmad (رح) ، cites the following narration
 Having cited this narration, Ibn Kathir says that Nasa'i has also cited this narration in his ` Amal-ul-Yawm wal-Laylah' and its chain of narrators is authentic according to the standard of Bukhari and Muslim.
 
 ## Personal Reflections
+
+

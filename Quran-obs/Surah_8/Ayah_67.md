@@ -89,18 +89,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-67-71 In order to keep the Muslims joined together against their enemies, they have been taught to have cordial relations with one another.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is not (fitting) for a Prophet that he should have prisoners of war until he has fought (his enemies thoroughly) in the land. The verses cited above relate to a particular event of the battle of Badr.
@@ -198,3 +186,5 @@ As for the Sahabah who had recommended release against ransom, part of their vie
 At the end of the verse, by saying: وَاللَّـهُ عَزِيزٌ حَكِيمٌ (And Allah is Mighty, Wise - 67), it was pointed out that Allah Ta` ala, being the source of all might and wisdom, would have - only if they had not acted in a hurry - provided for them wealth and properties as well in their future victories through His infinite grace.
 
 ## Personal Reflections
+
+

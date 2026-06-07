@@ -105,18 +105,6 @@ word_by_word:
     transliteration: l-albābi
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is one who is obedient to Allah, Ana'a Al-Layl prostrating and standing fearing the Hereafter and hoping for the mercy of his Lord? In the first sentence of verse 9, it was said: أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ (Can (such people be equal to) the one who worships during the hours of the night, prostrating and standing, fearing the Hereafter and having hopes in his Lord's mercy?).
@@ -176,3 +164,5 @@ In the first sentence of verse 9, it was said: أَمَّنْ هُوَ قَان�
 Immediately next in verse 9, it was said: آنَاءَ اللَّيْلِ (during the hours of the night). The expression means hours of the night and denotes the early, the middle and the last part of the night. Sayyidna Ibn ` Abbas ؓ said that, 'a person who wishes that Allah Ta’ ala would make the reckoning on the plains of Resurrection easy on him should so manage himself that Allah Ta’ ala finds him in the state of Sujud (prostration) and Qiyam (stance of standing) during the darkness of the night in an emotional condition in which he is concerned about his fate in the Hereafter, yet is hoping for the mercy of Allah.' Some early commentators have identified the time between Maghrib and 'Isha' also as included in the expression آنَاءَ اللَّيْلِ ('ana'-ul-lail). (Qurtubi)
 
 ## Personal Reflections
+
+

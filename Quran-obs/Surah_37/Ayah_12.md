@@ -17,18 +17,6 @@ word_by_word:
     transliteration: wayaskharūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! As for the reaction of disbelievers on rational proofs, it was said: بَلْ عَجِبْتَ وَيَسْخَرُ‌ونَ وَإِذَا ذُكِّرُ‌وا لَا يَذْكُرُ‌ونَ (But you wonder [ at their denial ], and they mock [ at the idea of an Hereafter ].
@@ -92,3 +80,5 @@ Qatadah said, "Muhammad ﷺ was astounded by the mockery of the misguided ones a
 As for the reaction of disbelievers on rational proofs, it was said: بَلْ عَجِبْتَ وَيَسْخَرُ‌ونَ وَإِذَا ذُكِّرُ‌وا لَا يَذْكُرُ‌ونَ (But you wonder [ at their denial ], and they mock [ at the idea of an Hereafter ]. And when any advice is given to them, they pay no heed to it. – 12-13). Given here first is the stance of the Holy Prophet ﷺ who wonders as to how could these people, after having such clear proofs before them, still remain reluctant to accept the truth while these people, on the contrary, indulge in making fun of the proofs and beliefs presented by him before them. In fact, no amount of advice and counsel given to them works. They are just averse to any understanding.
 
 ## Personal Reflections
+
+

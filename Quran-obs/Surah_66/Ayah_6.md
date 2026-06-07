@@ -98,15 +98,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Prohibition** (At-Tahrim) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tahrim is a **Madinah** surah—revealed as the 107th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The word أَهْلِيكُمْ (your families) comprehends wife, children and slaves [ males as well as females ]. It is not inconceivable to include full-time servants in the imperative like slaves. When this verse was revealed, Sayyidna ` Umar ؓ inquired: "O Messenger of Allah, we understand how to save ourselves from Hell, that is, we guard ourselves against sins and carry out the Divine injunctions, but how do we safeguard our families from Hell?" The Messenger of Allah ﷺ replied: "Instruct them to refrain from deeds that Allah has prohibited, and ask them to carry out deeds that Allah has enjoined. This will rescue them from the Hell-Fire." [ Ruh-u1-Ma’ ani ]
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -221,3 +213,5 @@ The jurists have pointed out that, according to the verse under comment, it is t
 يَا أَيُّهَا الَّذِينَ كَفَرُ‌وا لَا تَعْتَذِرُ‌وا الْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ (0 those who disbelieve, do not make excuses today. You will only be recompensed for what you have been doing....66:7) After advising the general body of believers, the current verse turns attention to the non-believers who are asked not to try to make excuses, because they will not be accepted. They will be told that they are merely being repaid for what they did.
 
 ## Personal Reflections
+
+

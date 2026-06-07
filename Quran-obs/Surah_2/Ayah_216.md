@@ -108,18 +108,6 @@ word_by_word:
     transliteration: taʿlamūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 216, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Fighting is ordained for you (Muslims) though you dislike it, and it may be that you dislike a thing which is good for you and that you like a thing which is bad for you. Verse 216 establishes the obligatory nature of Jihad even though it may be burdensome for some temperaments.
@@ -201,3 +189,5 @@ This verse carries the injunction relating to the general call of Jihad mentione
 3. It is not correct for one who has a debt to pay to take part in this Fard Kifayah فرض علی الکفایہ until such time that he clears his debt off. But, should there come a time when, either due to a general call for Jihad or an aggressive encirclement of Muslims by the disbelievers, Jihad becomes Fard ` Ayn فرضِ عین ، an absolute obligation on all, then, no condition such as that of the permission of parents or of the husband or of the creditor remains operative. Towards the end of this verse, it is as a mode of persuasion that Jihad has been identified as something which may, temperamentally, appear 'hard' but one must remember that human intelligence and effort fails so many times when it comes to the outcome. It is not at all surprising that the most intelligent person around may take the beneficial to be harmful and vice versa. If everyone was to look back into the events of his or her life, it will be noticed right there that there was something they were going after as beneficial turned out ultimately to be very harmful, or there was something they were avoiding as harmful which later on proved to be very beneficial. This scenario of human reasoning and planning failing time and again is a matter of repeated experience, therefore, it was said that fighting in the way of Allah may obviously appear to be a loss of life and property, yet the time will come when realities will be unveiled and we shall find out that this loss was no loss, instead, it was the ultimate in gain, and a source of eternal peace.
 
 ## Personal Reflections
+
+

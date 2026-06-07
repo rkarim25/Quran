@@ -46,18 +46,6 @@ word_by_word:
     transliteration: wakīlan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 132, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And to Allah belongs all that is in the heavens and all that is in the earth. After having stated the rules of behaviour as related to women and orphans, the text now reminds the promise of rewards for those abiding by these rules, and the warning for those contravening them, which is the usual style of the Holy Qur'an.
@@ -135,3 +123,5 @@ Significant Inferences
 Readily noticeable here is the repetition of لِّلَّـهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ which means that everything created in the heavens and the earth belongs to Allah. Repeated thrice, these words signify three shades of meaning. In the first place, the aim is to point out to the limitless scope of Allah's power of creation which lacks nothing. In the second instance, the objective is to focus on Allah's attribute of self sufficiency, self-adequacy and His being need-free. It means: Should one disbelieve, deny or reject the good counsel given, He is in no need of anyone's obedience for He stands ever-praised in His pristine glory.
 
 ## Personal Reflections
+
+

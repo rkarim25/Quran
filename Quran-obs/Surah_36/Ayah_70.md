@@ -37,18 +37,6 @@ word_by_word:
     transliteration: l-kāfirīna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 70, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he whom We grant long life – We reverse him in creation. In the first verse cited here, it was said: وَمَا عَلَّمْنَاهُ الشِّعْرَ‌ وَمَا يَنبَغِي لَهُ (And We did not teach him poetry and it is not proper for him.) Since the deniers of the appearance of a prophet and messenger with a mission could not deny the unique effectiveness of the Qur'an and its ability to move hearts that was a matter of common experience, therefore, they invented convenient excuses.
@@ -142,3 +130,5 @@ But the holy Prophet ﷺ recited this as: وزن شعری in a manner that broke
 Ibn Kathir has reported this narration in his Tafsir, and at-Tirmidhi, an-Nasa'I and Imam Ahmad have also reported it. This tells us that he simply did not consider reciting verses of poetry composed by others as appropriate for him. That he would compose it himself was unthinkable. As for some sentences having the resonance of poetic measure reported from the Holy Prophet ﷺ himself, they did not issue forth from him with the intention of composing formal poetry. They were casual, and should some one or two lines issue forth from a person that fall into poetic measure, these do not make him a poet. But, from this natural condition of the Holy Prophet ﷺ that was based on great considerations of wisdom, it does not become necessary that poetry should be taken as blameworthy in any absolute sense - as explained under the details of injunctions relating to poetry in our commentary on verse 224 of Surah Ash-Shu` ara' (26) appearing at its end in Volume VI of Ma’ ariful-Qur'an, English. Those interested may see it there.
 
 ## Personal Reflections
+
+

@@ -48,17 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **Those who set the Ranks** (As-Saffat) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He be glorified.) Allah revealed in His Book the story of people who were arrogant, as He says:
 
 (Nay! he has come with the truth) meaning, the Messenger of Allah ﷺ has brought the truth with all that Allah has revealed to him of stories and commandments.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ When the leading elders among disbelievers who had misled their common adherents
 1. The word: يَمِينِ (yamin) in:إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ (You were the ones who used to come to [ mislead ] us forcefully.- 37:28) may have several meanings. One possible meaning of the expression: عَنِ الْيَمِينِ ('ani'l-yamin) is 'powerfully' or 'forcefully'. The translation given in the text above is based on this meaning, which seems to be fairly clear and cloudless. In addition to that, 'yamin' is also used to mean oath. Some commentators have explained it as: 'you came to us with oaths,' that is, 'you made us believe on oath that our creed is correct and the teaching of the messenger of Allah is, God forbid, false.' In terms of the words of the Qur'an, both these explanations are possible and acceptable comfortably.
 
 ## Personal Reflections
+
+

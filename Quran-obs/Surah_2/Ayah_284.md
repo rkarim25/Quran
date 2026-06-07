@@ -123,17 +123,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 284, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 There are many other Ayat on this subject. In this Ayah [2:284], Allah states that He has knowledge of what the hearts conceal, and consequently, He will hold the creation accountable for whatever is in their hearts. This is why when this Ayah was revealed, it was hard on the Companions, since out of their strong faith and conviction, they were afraid that such reckoning would diminish their good deeds.
 
 was revealed to the Messenger of Allah ﷺ, it was very hard for the Companions of the Messenger ﷺ. The Companions came to the Messenger and fell to their knees saying, 'O Messenger of Allah! We were asked to perform what we can bear of deeds: the prayer, the fast, Jihad and charity. However, this Ayah was revealed to you, and we cannot bear it.' The Messenger of Allah ﷺ said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -276,3 +268,5 @@ In this verse, it has been made known that the way an accounting of outward deed
 Let us bear in mind that ikhlas or pristine sincerity is the essence behind what we do in carrying out all these injunctions. In other words, doing something or abstaining from something should both be for nothing but the pleasure of Allah Almighty. On no account should these be tainted with a desire for public recognition or some other selfish motives. It is obvious that ikhlas (sincerity) is related to human heart, the batin. If ikhlas is there, everything comes out right. It was for this reason that man was warned through this verse at the end of the Surah, by telling him that, in carrying out obligations or in abstaining from the prohibited, it was quite possible to dodge people around, to find an excuse and to get away with it. But, Allah Almighty is Alim العلیم and Khabir الخبیر (All-Knowing and All-Aware). Nothing is hidden from Him. Therefore, let one do what one must but let him be sure that there is someone there - his Raqib and Hafiz, the One Who is watching and guarding over him, and Who is recording all that is happening to him, externally and internally, and a full accounting of which has to be given on the day of Resurrection. The noble Qur'an, by cultivating this unique spirit in human beings, has posted on human hearts a sentry on guard, in the form of the fear of Allah and the concern of the Hereafter. So, before and after every law, the sentry whistles, as a result of which, they are scared of breaking any Divine Law even in the darkness of nights and the privacy of homes.
 
 ## Personal Reflections
+
+

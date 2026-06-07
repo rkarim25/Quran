@@ -67,18 +67,6 @@ word_by_word:
     transliteration: im'ran
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So they both proceeded, till, when they boarded the boat, he (Khidr) damaged it. It was said in verse 71: أَخَرَ‌قْتَهَا لِتُغْرِ‌قَ أَهْلَهَا (Did you break it that you drown its people?).
@@ -124,3 +112,5 @@ It was said in verse 71: أَخَرَ‌قْتَهَا لِتُغْرِ‌قَ �
 boat with an axe because of which there was a danger that water would fill up the boat and it would capsize. Therefore, Sayyidna Musa (علیہ السلام) had objected to it. But, according to historical reports, water did not fill into this boat. This may have happened either because al-Khadir had somehow repaired it himself soon after - as in a report carried by al-Baghawi according to which al-Khadir (علیہ السلام) had replaced the plank with glass. Or, water just did not enter the boat in the manner of a miracle. However, the context of the Qur’ an by itself is telling us that the boat did not capsize - something which supports these reports.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tuḥ'malūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-theme of the surah is to invite disbelievers to accept Islam and follow the Message of the Holy Prophet. Summary The fact that people who have accepted the Message of the Holy Prophet started acquiring such noble qualities of character is practical proof of the truth of the Message. 1-11 In this passage, attention has been drawn to the creation of man and the universe, and to reflect on man's own self, as clear proof of the truth of the Holy Prophet's Message, which invites people to accept Tauhid and life in the Hereafter. 12-22 Furthermore, the stories of the former Prophets and their communities have been cited as historical evidences of the truth of the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you. In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22).
@@ -113,3 +101,5 @@ Here Allah mentions the benefits He has given to His servants in cattle, for the
 In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22). All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 
 ## Personal Reflections
+
+

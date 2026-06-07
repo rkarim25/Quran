@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 170, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, verily you and those whom you worshi (161)Cannot lead astray (162)Except those who are predestined to burn in Hell (163)And there is not one of us (angels) but has his known place (164)And verily, we (angels), we stand in rows (165)And verily, we (angels) indeed are those who glorify (166)And indeed they used to say (167)"If we had a reminder as had the men of old, (168)"We would have indeed been the chosen servants of Allah! After having provided proofs of the basic beliefs of Islam, these verses now mention the obstinacy of the disbelievers.
@@ -129,3 +117,5 @@ Commentary
 After having provided proofs of the basic beliefs of Islam, these verses now mention the obstinacy of the disbelievers. It has been said that, before the blessed appearance of the Holy Prophet ﷺ ، these people used to crave for the coming of some prophet from Allah, so that they could follow him. But, when he did come, they started confronting him with a posture of obstinacy and hostility. After that, the Holy Prophet has been comforted that he should not worry about the pain these people cause to him. The time was coming very soon when he will prevail, and his oppressors will be defeated and punished. That this will unfold comprehensively in the Hereafter is already settled, but in the mortal world too, Allah Ta’ ala showed the spectacle that, in every Jihad from the battle of Badr up to the conquest of Makkah, His blessed rasul came out victorious and his adversaries, disgraced.
 
 ## Personal Reflections
+
+

@@ -72,18 +72,6 @@ word_by_word:
     transliteration: khālidūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 For those who have done good is the best, and even more. The sense is that the invitation to the Abode of Peace (Daru 's-Salam) is universal, open to all human beings and, in terms of this sense, guidance too is open to all.
@@ -147,3 +135,5 @@ Then, the text describes the state of the same people of Jannah by saying that t
 In contrast, the state of the people of Jahannam has been described by saying that those who came with evil deeds in their record will have an equal return for each evil without any increase in it. They will have disgrace all over them. There will be no one to save them from the punishment of Allah. Dark will be their faces, so dark as if layers upon layers of a night have covered them up.
 
 ## Personal Reflections
+
+

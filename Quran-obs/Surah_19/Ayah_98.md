@@ -62,18 +62,6 @@ word_by_word:
     transliteration: rik'zan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 98, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-66-98 ), a strong criticism has been made of the evil ways of the disbelievers of Makkah, while the Believers have been given the good news that they would come out successful and become the beloved of the people, in spite of the worst efforts of the enemies of the Truth.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believe and work deeds of righteousness, the Most Gracious will bestow love for them (96)So, We have made this easy in your own tongue, only that you may give glad tidings to those who have Taqwa, and warn with it the people that are Ludda (97)And how many a generation before them have We destroyed! "Or hear from them even a whisper" - 19:98.
@@ -147,3 +135,5 @@ Surah Maryam
 Ends here.
 
 ## Personal Reflections
+
+

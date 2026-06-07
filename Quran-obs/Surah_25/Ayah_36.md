@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 الَّذِينَ كَذَّبُوا بِآيَاتِنَا (who have rejected Our signs - 25:36). Here it is described that the people of Pharaoh had denied Allah's verses. It is to be noted that by that time Torah was not revealed to Sayyidna Musa (علیہ السلام) . Therefore it cannot be Torah which was denied. Hence it is either the proofs of the Oneness of Allah, which can be understood by any one according to his mental level, or the traditions of the past prophets which are passed on through generations, no matter in what little detail, are referred here as rejection of His message. The same thing is referred in Qur'an as well وَلَقَدْ جَاءَكُمْ يُوسُفُ مِن قَبْلُ بِالْبَيِّنَاتِ (Joseph brought you the clear signs before - 40:34). It mentions about the teachings of the earlier prophets, which had also reached them. (Bayan ul-Quran)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ Allah threatens the idolators who denied and opposed His Messenger Muhammad and 
 الَّذِينَ كَذَّبُوا بِآيَاتِنَا (who have rejected Our signs - 25:36). Here it is described that the people of Pharaoh had denied Allah's verses. It is to be noted that by that time Torah was not revealed to Sayyidna Musa (علیہ السلام) . Therefore it cannot be Torah which was denied. Hence it is either the proofs of the Oneness of Allah, which can be understood by any one according to his mental level, or the traditions of the past prophets which are passed on through generations, no matter in what little detail, are referred here as rejection of His message. The same thing is referred in Qur'an as well وَلَقَدْ جَاءَكُمْ يُوسُفُ مِن قَبْلُ بِالْبَيِّنَاتِ (Joseph brought you the clear signs before - 40:34). It mentions about the teachings of the earlier prophets, which had also reached them. (Bayan ul-Quran)
 
 ## Personal Reflections
+
+

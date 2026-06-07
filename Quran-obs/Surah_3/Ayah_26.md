@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In these verses, Muslims have been taught and prompted to make a particular prayer which, in a subtle way, gives an indication that they are going to overpower disbelievers. This has its proof in the background in which these verses were revealed. When the Holy Prophet ﷺ promised that Byzantine and Persia will be taken, the hypocrites and the Jews laughed at the idea. Thereupon, this verse was revealedI.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -220,3 +212,5 @@ The calamities of one group are the gains of another.
 In short, the evil of things we regard as evil is partial. Looked at from its relationship to the Creator of the Universe and the Lord of all there is, and viewed in the perspective of the totality of the world of our experience, nothing is really evil or bad as such. So given the wis-dom, the power and the consideration of the created universe as a whole, everything is good, 'khair' as the verse sees sufficient to say.
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: yunzafūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th… 6.
@@ -160,3 +148,5 @@ Allah refined the wine of Paradise from the bad effects of the wine of this worl
 6. 'The word: غَوْلٌ (ghaul) in verse 47: لَا فِيهَا غَوْلٌ la fiha ghaulun) has been explained variously as 'headache' or 'abdominal pain' or 'smell or corruption' or 'muddling of reason'. The fact is that the word: غَوْلٌ (ghaul) is used to convey all these meanings, while Hafiz Ibn Jarir says that 'ghaul' appears here in the sense of bane, trouble or unwelcome consequences which makes it mean that the drink offered in Jannah will have no such evil consequences as are found in wines consumed in the mortal world - no hangovers of headache, stomach pain, bad breath or loss of reason. (Tafsir Ibn Jarir).
 
 ## Personal Reflections
+
+

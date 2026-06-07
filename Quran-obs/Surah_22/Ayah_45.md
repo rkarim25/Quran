@@ -62,18 +62,6 @@ word_by_word:
     transliteration: mashīdin
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if they deny you, so did deny before them the people of Nuh, 'Ad and Thamud (42)And the people of Ibrahim and the people of Lut (43)And the dwellers of Madyan; and denied was Musa. Qur’ anic prophecy about the Rightly Guided Caliphs ( خُلفأے راشدین ) and its fulfillment الَّذِينَ إِن مَّكَّنَّاهُمْ فِي الْأَرْ‌ضِ (Those who, when We give them power in the land - 22:41) In this verse the word (those) refers to those people who have been mentioned in the preceding verse: الَّذِينَ أُخْرِ‌جُوا مِن دِيَارِ‌هِم بِغَيْرِ‌ حَقٍّ (Those are the ones who were expelled from their homes without any just reason - 22:40).
@@ -155,3 +143,5 @@ Qur’ anic prophecy about the Rightly Guided Caliphs ( خُلفأے راشد�
 Having discussed the factual aspect of the circumstances leading up to the revelation of this verse it must, at the same time, be emphasized that where the Qur'an uses general words and phrases, their purpose is not restricted to a particular situation, but is universally applicable to all similar situations. Following this reasoning, Dahhak says that this verse contains an injunction for all those whom Allah Ta’ ala grants power and authority to do all those things which the Four Caliphs did when they controlled the rule. (Qurtubi)
 
 ## Personal Reflections
+
+

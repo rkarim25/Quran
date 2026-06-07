@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Enshrouded One** (Al-Muzzammil) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty, yet others fighting in Allah's cause.) meaning, He knows that there will be people of this nation who will have excuses for not praying the (voluntary) night prayer. They are those who are ill and therefore they are not able to perform it, and those who are traveling in the land seeking the bounty of Allah in business and trade, and others who will be busy with that which is more important to them. An example of this is going on expeditions to fight in the way of Allah. This Ayah, rather, this entire Surah was revealed in Makkah even though fighting was not legislated until after it was revealed. Thus, it is among the greatest of the signs of prophethood, because it informs about unseen matters of the future. Thus, Allah says,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ This is the end of the Tafsir of Surat Al-Muzzammil, and all praise and blessing
 These verses describe the horrors and terrors of the Day of Resurrection. Verse [ 14] describes that the punishment will take place on the Day when the earth and mountains will shake and the mountains will be reduced to a heap of dust or shifting dunes. Thereafter, reference is made to the story of Musa (علیہ السلام) and Fir'aun in order to threaten the pagans of Makkah. Allah sent a Messenger, Muhammad ﷺ ، to bear witness against the pagans of Makkah just as He sent a Messenger, Musa (علیہ السلام) to Fir'aun. But Fir'aun disobeyed Musa (علیہ السلام) and Allah seized him with terrible severity right in this world. Likewise, if the pagans of Makkah persist stubbornly in their pagan conduct, they too can be seized similarly with terrible severity in this very world. Towards the conclusion, the verse says that if no torment is inflicted in this world, no one can escape the horrors and terrors and length of the Day of Resurrection that will turn the children grey. This could be a metaphor for the most calamitous happenings which bring about disastrous changes. But some scholars say that this is a description of reality, in that the Day of Resurrection will be so long that a little child will grow old. [ Qurtubi and Ruh ].
 
 ## Personal Reflections
+
+

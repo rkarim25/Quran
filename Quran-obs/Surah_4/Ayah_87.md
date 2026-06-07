@@ -77,15 +77,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other." Allah then said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -236,3 +228,5 @@ Abu Dawud recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
 After that comes verse 87 اللَّـهُ لَا إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَ‌يْبَ فِيهِ which means that there is no object worthy of worship other than Allah. So, it exhorts: Believe in Him as the only object of your worship and whatever you do let that be with the intention of an act of worship or ` ibadah before Him. He will gather everyone on the Day of Qiyamah, the fateful Day of Doom, in which there is no doubt. That will be the Day when He will give everyone the return for whatever deeds he will come up with the promise that Qiyamah will come and the news that there will be reward and punishment at that time is all true. This is true because this °news° of what will happen is given by Allah, وَمَنْ أَصْدَقُ مِنَ اللَّـهِ حَدِيثًا - and whose word can be more true than that of Allah?
 
 ## Personal Reflections
+
+

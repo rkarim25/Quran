@@ -37,18 +37,6 @@ word_by_word:
     transliteration: mashkūran
 ---
 
-## Context
-
-To understand **The Man** (Al-Insan) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of the first section ( vv. 1-22 ). In the second section, addressing the Holy Prophet (upon whom be peace), three things have been stated: first, that "it is in fact We Ourself Who are revealing this Qur'an piecemeal to you, and this is intended to inform the disbelievers, not you, that the Qur'an is not being fabricated by Muhammad (upon whom be Allah's peace and blessings) but it is "We Who are revealing it, and it is Our Own wisdom which requires that We should reveal it piece by piece and not all at once."Second, the Holy Prophet has been told: "No matter how long ,it may take for the decree of your Lord to be enforced and no matter what afflictions may befall you in the m…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. اِنَّ هٰذَا كَانَ لَكُمْ جَزَاۗءً وَّكَانَ سَعْيُكُمْ مَّشْكُوْرًا ([ It will be said to them,] This is a reward for you, and your effort has been appreciated....76:22).
@@ -228,3 +216,5 @@ Surah Ad-Dahr
 Ends here
 
 ## Personal Reflections
+
+

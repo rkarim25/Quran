@@ -20,18 +20,6 @@ word_by_word:
     transliteration: fayud'hinūna
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, do not obey the deniers (8)They wish that you should compromise with them, so they (too) would compromise with you (9)And do not obey every Hallaf Mahin (10)A Hammaz, going about with Namim (11)Hinderer of the good, transgressor, sinful (12)'Utul, and moreover Zanim (13)(He was so) because he had wealth and children (14)When Our Ayat are recited to him, he says: "Tales of the men of old! فَلَا تُطِعِ الْمُكَذِّبِينَ وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ (So, do not obey those who reject [ the true faith ].
@@ -131,3 +119,5 @@ Ruling
 This verse indicates that any such compromise with the unbelievers is tantamount to mudahanah fid-din, flexibility in religion, and this is forbidden. [ Mazhari ]. Such a pact of leniency in matters of religion is not permissible, unless compelled by necessity.
 
 ## Personal Reflections
+
+

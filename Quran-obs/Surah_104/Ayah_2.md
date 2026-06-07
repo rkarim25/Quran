@@ -20,18 +20,6 @@ word_by_word:
     transliteration: waʿaddadahu
 ---
 
-## Context
-
-To understand **The Traducer** (Al-Humazah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Humazah is a **Makkah** surah—revealed as the 32nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 9 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation All commentators are agreed that it is a Makki Surah; a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The third evil quality denounced severely in this Surah is greed, that is, the selfish hoarding of wealth, against which is the stern warning of the dreadful end of those who have passion for worldly riches.
@@ -107,3 +95,5 @@ This is the end of the Tafsir of Surat Al-Humazah, and all praise and thanks are
 The third evil quality denounced severely in this Surah is greed, that is, the selfish hoarding of wealth, against which is the stern warning of the dreadful end of those who have passion for worldly riches. This verse, however, refers to the love of, and passion for, wealth which is accumulated and counted over and over again. Other verses and Ahadith bear testimony to the fact that amassing of wealth in principle is not prohibited or sinful. Therefore, verse [ 2] must be interpreted in the light of those verses and traditions. This verse purports to say that anyone who accumulates wealth and does not pay his obligatory dues or has greed for wealth that leads him to pride and arrogance, or has love of wealth that engrosses him in the hoarding of wealth so profoundly that he forgets his religious obligations, his practice is condemned in the strongest terms, and a person attaching such profound love, greed and passion for material riches will suffer eternal perdition as described in the verses that follow.
 
 ## Personal Reflections
+
+

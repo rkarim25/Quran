@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-ṣāliḥīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Remember) when the angels said: "O Maryam! The previous verse (44) appeared parenthetically between the present verses 45 - 46 and verses 42 - 43 and the purpose was to affirm the prophethood of Sayyidna Muhammad ﷺ .
@@ -138,3 +126,5 @@ One answer to this question appears in Bayan al-Qur'an by Maulana Ashraf Thanavi
 Hadith narrations prove that Sayyidna (علیہ السلام) while so raised, was in the approximate age bracket of 30-35 years which is youth at its best. Middle age, kohl in Arabic, was something he never reached during his life in this world. So, his talking to people in his middle age can happen only when he were to grace this world once again with his presence. Therefore, the way his childhood speech was a miracle, his speech in the middle age could be nothing else but another miracle.
 
 ## Personal Reflections
+
+

@@ -66,18 +66,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-91-110 In order to make their noble qualities look all the more conspicuous and dignified by contrast, the characteristics of the Believers have been mentioned, and they have been reassured that Allah, the Sovereign of the Universe, is their helper and guardian.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is it then he who laid the foundation of his building on Taqwa to Allah and His good pleasure better, or he who laid the foundation of his building on the brink of an undetermined precipice ready to crumble down, so that it crumbled to pieces with him into the fire of Hell. Then, in the last verse (110), it was said that this building would al-ways keep increasing the doubt and hypocrisy in their hearts unless their hearts are shredded into pieces.
@@ -117,3 +105,5 @@ Allah does not bring aright the works of those who commit mischief. Jabir bin 'A
 Then, in the last verse (110), it was said that this building would al-ways keep increasing the doubt and hypocrisy in their hearts unless their hearts are shredded into pieces. The sense is that their doubt, hypocrisy, envy and chagrin would go on increasing right to the end of their life.
 
 ## Personal Reflections
+
+

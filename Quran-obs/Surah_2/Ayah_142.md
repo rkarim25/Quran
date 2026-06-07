@@ -94,17 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 142, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It is reported in the Sahihayn (Al-Bukhari Muslim) that Ibn 'Umar narrated: While the people were in Quba' (Mosque) performing the Fajr (Dawn) prayer, a man came and said, "A (part of the) Qur'an was revealed tonight to Allah's Messenger and he was commanded to face the Ka'bah. Therefore, face the Ka'bah. They were facing Ash-Sham, so they turned towards the Ka'bah.
 
 Al-Bukhari reported in the explanation of the Ayah (2:143) that Ibn 'Umar narrated: While the people were performing the Fajr (Dawn) prayer in the Quba' Mosque, a man came and said, "Qur'an was revealed to the Prophet ﷺ and he was ordered to face the Ka'bah. Therefore, face the Ka'bah." They then faced the Ka'bah. Muslim also recorded it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -385,3 +377,5 @@ Verse 142, thus, fully refutes the antagonists of Islam, and points out that All
 According to a With reported from Sayyidah ` A'isha ؓ in the "Musnad" of Imam Ahmad, the People of the Book are specially jealous of the Muslims for three things - (1) in answer to the divine commandment to every Ummah (or religious community) to set aside a day in the week for worship, the Jews chose Saturday and the Christians, Sunday, while the Muslims opted for Friday which happened to be the favourite of Allah; (2) the Ka'bah was appointed as the Qiblah for the Muslims, and not for others; (3) the Muslims were given the privilege of saying Amin while offering Salah behind an 'Imam.
 
 ## Personal Reflections
+
+

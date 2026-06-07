@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-khāsirīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The chiefs of those who disbelieved among his people said (to their people): "If you follow Shu'ayb, be sure then you will be the losers! In verse 92, the fate of the people of Sayyidna Shu'aib (علیہ السلام) has been cited as a lesson - which is the real purpose behind the description of this event.
@@ -131,3 +119,5 @@ Therefore, Allah stated that each of these forms of punishment struck them on th
 In verse 92, the fate of the people of Sayyidna Shu'aib (علیہ السلام) has been cited as a lesson - which is the real purpose behind the description of this event. It was said: الَّذِينَ كَذَّبُوا شُعَيْبًا كَأَن لَّمْ يَغْنَوْا فِيهَا (Those who belied Shu'aib are as if they never dwelt there). One of the meanings of the word: غِنیٰ (ghina) is to live at some place in peace and comfort. At this place, this is the meaning intended. The sense of the sentence is that the homes where they lived in peace and comfort, turned so deserted after this punishment as if peace and comfort had never existed there. Then, it was said: الَّذِينَ كَذَّبُوا شُعَيْبًا كَانُوا هُمُ الْخَاسِرِ‌ينَ (Those who belied Shu'aib were themselves the losers). The hint given is that these were the people threatening to throw Sayyidna Shu'aib (علیہ السلام) and his believing companions out from their city, but, in the end, the loss hit none but them.
 
 ## Personal Reflections
+
+

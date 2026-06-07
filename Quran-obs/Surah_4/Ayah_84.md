@@ -98,15 +98,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 84, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other." Allah then said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -267,3 +259,5 @@ The verse begins with the command to the Holy Prophet ﷺ : 'So, fight in the wa
 In addition to this, the possible danger in having to fight alone has been removed by saying: 'It is likely that Allah will prevent the mischief of those who disbelieve': May be He puts awe in their hearts and they stand subdued and he succeeds all alone. How could such success become possible? The proof follows immediately when it is declared that he is being helped and supported by Allah Almighty whose strength and might at war far exceeds those of such disbelievers, therefore, it is certain that success has got to be his. After that, coupled with this statement about the Divine strength in war, the text relates how Allah is the mightiest in punishing. This punishment may be on the Day of Judgement as obvious, or may come right here in this mortal world as stated by some commentators. Whichever the case, 'Allah is the strongest in war and the mightiest in punishing.'
 
 ## Personal Reflections
+
+

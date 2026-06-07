@@ -37,18 +37,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. زَوْجٍ كَرِ‌يمٍ (noble pair - 26:7).
@@ -140,3 +128,5 @@ So, Musa asked Allah to remove these difficulties for him, as he said in Surah T
 زَوْجٍ كَرِ‌يمٍ (noble pair - 26:7). The word زَوْجٍ (zawj) literally means a pair. That is why man and woman, and male and female are called Zawj. Many species of trees have male and female among them. On this basis they can also be called Zawj (زَوْجٍ ). Sometimes the word Zawj is also used for a special kind. On the basis of this meaning all species of trees can be called Zawj. The meaning of Karim is a nice and favourite thing.
 
 ## Personal Reflections
+
+

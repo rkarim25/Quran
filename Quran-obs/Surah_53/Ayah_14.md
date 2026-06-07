@@ -18,17 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Star** (An-Najm) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (Allah) revealed to His servant whatever He revealed (10)The heart lied not in what he saw (11)Will you then dispute with him about what he saw (12)And indeed he saw him at a second descent (13)Near Sidrat Al-Muntaha (14)Near it is the Paradise of Abode (15)When that covered the lote tree which did cover it (16)The sight turned not aside, nor it transgressed beyond the limit (17)Indeed he saw of the greatest Ssgns of his Lord (18)
 
 (And was at a distance of two bow lengths or less. So (Allah) revealed to His servant whatever He revealed.) Zirr said, "Abdullah narrated to us that Muhammad ﷺ saw Jibril having six hundred wings." Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -261,3 +253,5 @@ Allah said,
 ولَقَدْ رَ‌آهُ نَزْلَةً أُخْرَ‌ىٰ عِندَ سِدْرَ‌ةِ الْمُنتَهَىٰ (And indeed he saw him another time by sidrat-ul-muntaha [ the lote-tree in the upper realm ]...53:13-14). Here too there are two views regarding the antecedent of the pronoun hu (him): [ 1] that it refers to seeing Allah; or [ 2] that it refers to seeing Jibra'il (علیہ السلام) . The adverb نَزْلَةً أُخْرَ‌ىٰ nazlatan ` ukhra [ another time or at another descent ], according to overwhelming majority, this nuzul refers to the second descent of Jibra'il (علیہ السلام) . The first vision was experienced in this world on the uppermost horizon of Makkah. The second vision was experienced on the seventh heaven near the Lote-Tree of the Uppermost Realm. Obviously, the Holy Prophet ﷺ went up to the seventh heaven on the Night of Mi` raj. Thus it is possible to determine the approximate time of the second experience, which took place on that occasion. The word sidrah literally denotes lote-tree and muntaha means the place of intiha' [ end ]. Thus sidrat-ul-muntaha is the Lote-Tree on the seventh heaven under the Throne of the Gracious Allah. According to a narration in Muslim, the Tree is on the sixth heaven. Reconciliation is possible between the two apparently conflicting versions in that its root is on the sixth heaven and its branches are spread on the seventh heaven (Qurtubi). Generally the access of angels ends at this point, and therefore, it is called muntaha (the end). Some Traditions inform us that the Divine injunctions first descend from the Divine Throne to the sidrat-ul-muntaha which are handed over to the relevant angels. Similarly, angels going up from the earth to the heaven with Books of Deeds etc. convey them to this point. Then there may be some other way for their presentation to Allah Almighty. This subject is reported from ` Abdullah Ibn Masud ؓ as recorded by Imam Ahmad in his Musnad.
 
 ## Personal Reflections
+
+

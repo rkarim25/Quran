@@ -50,18 +50,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is not (fitting) for a Prophet that he should have prisoners of war until he has fought (his enemies thoroughly) in the land. Ruling 1: In the verse under discussion, admonition came upon releasing prisoners against ransom or collecting spoils, warning of Divine punishment was given, then came forgiveness.
@@ -167,3 +155,5 @@ The report of al-Siyar al-Kabir from Imam Abu Hanifah (رح) could also be inten
 1. Some more detail about the war-prisoners will appear in the commentary of Surah Muhammad insha-allah. (Editor)
 
 ## Personal Reflections
+
+

@@ -68,17 +68,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And recite what has been revealed to you (O Muhammad) of your Lord's Book. None can change His Words, and none will you find as refuge other than Him (27)And keep yourself (O Muhammad) patiently with those who call on their Lord morning and afternoon, seeking His Face; and let not your eyes overlook them, desiring the pomp and glitter of the life of the world; and obey not him whose heart We have made heedless of Our remembrance, and who follows his own lusts, and whose affair has been lost (28)
 
 (and none will you find as a refuge other than Him.) It was reported that Mujahid said, "A shelter," and that Qatadah said, "A helper or supporter." Ibn Jarir said: "Allah is saying, 'if you O Muhammad, do not recite what is revealed to you of the Book of your Lord, then you will have no refuge from Allah.'" As Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ Yet another question arises here about the People of Kahf. During their time and
 People who deny the extraordinary miracles, or people who are in the habit of explaining them away overawed by the objections of modern day Jewish and Christian orientalists, have not spared even the Qur'an. For example, in the case of this verse (25), they have tried to use the explanation of Qatadah as a prop to reject the duration of three hundred nine years as the saying of those very people who were differing among them-selves. But, they have erred. The statement: (for a number of years - 11) which appears in an earlier sentence of the Qur'an cannot be called the saying of anyone other than Allah Ta’ ala! To prove the miraculous nature of the event even this much is sufficient that someone remains asleep for years and years and then rises and sits up all intact, fit and alive. Allah knows best.
 
 ## Personal Reflections
+
+

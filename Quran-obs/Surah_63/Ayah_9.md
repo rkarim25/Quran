@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-khāsirūna
 ---
 
-## Context
-
-To understand **The Hypocrites** (Al-Munafiqun) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Munafiqun is a **Madinah** surah—revealed as the 104th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we shall explain below this Surah was sent down either during the Holy Prophet's return journey from his campaign against Bani al- Mustaliq, or immediately after his arrival back at Madinah, and we have established by argument and research in the Introduction to Surah An-Nur that the campaign against Bani al-Mustaliq had taken place in Sha'ban A. H. 6:Thus, the date of the revelation of this Surah is determined precisely.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Linkage between Sections [ 1] and [ 2] O those who believe, your riches and your children must not divert you from the remembrance of Allah.
@@ -139,3 +127,5 @@ The preceding section dealt with the hypocrites, their false oaths and their con
 In short, we are permitted to be involved in the material wealth up to the degree that it does not divert us from Allah’ s obedience. If one becomes engrossed in the material wealth or become absorbed in the forbidden or abominable things, which divert him from our duties and obligations towards Allah, the sentence أُولَـٰئِكَ هُمُ الْخَاسِرُ‌ونَ “…they are the losers” will apply, because he has sold the great and eternal reward of the Hereafter for the petty and perishable enjoyment of this world. What loss could be greater than this!
 
 ## Personal Reflections
+
+

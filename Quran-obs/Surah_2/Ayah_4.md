@@ -56,17 +56,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And who have faith in what is revealed to you and in what was revealed before you, and in the Hereafter they are certain (4)
 
 (And who have faith in what is revealed to you and in what was revealed before you.) means, "They believe in what Allah sent you with, and in what the previous Messengers were sent with, they do not distinguish between (believing) them, nor do they reject what they brought from their Lord."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -195,3 +187,5 @@ Before we proceed, we may point out that in speaking of faith in the hereafter a
 It is these who are on guidance given by their Lord; and it is just these who are successful.
 
 ## Personal Reflections
+
+

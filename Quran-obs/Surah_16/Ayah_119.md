@@ -84,18 +84,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 119, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And for those who are Jews, We have forbidden such things as We have mentioned to you before. In the last verse (119): ثُمَّ إِنَّ رَ‌بَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ (Then your Lord – for those who did evil through ignorance ...), it will be noticed that the sense of ignorance has been conveyed by the use of the word: جَهَالَةٍ (jahalah), not: جَھل (jahl).
@@ -155,3 +143,5 @@ Repentance from Sin brings Forgiveness: Is it Open or Restricted?
 In the last verse (119): ثُمَّ إِنَّ رَ‌بَّكَ لِلَّذِينَ عَمِلُوا السُّوءَ بِجَهَالَةٍ (Then your Lord – for those who did evil through ignorance ...), it will be noticed that the sense of ignorance has been conveyed by the use of the word: جَهَالَةٍ (jahalah), not: جَھل (jahl). As for the word: جَھل (jahl), it is employed as an antonym of: عِلَم (` ilm: knowledge) and releases the sense of a lack of knowledge or understanding while the word: جَهَالَةٍ (jahalah) denotes acting ignorantly - even if done knowingly. This tells us that the forgiveness of sins through Taubah (repentance) is not restricted to a situation where a sin is committed with lack of understanding or volition. (Rather, a true taubah or repentance may forgive all sins, even though committed deliberately).
 
 ## Personal Reflections
+
+

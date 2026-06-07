@@ -76,15 +76,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife. If one of them wants, he would marry her, give her in marriage, or prevent her from marriage, for they had more right to her than her own family. Thereafter, this Ayah was revealed about this practice,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -261,3 +253,5 @@ Ruling:
 Marrying the legally wedded wife of the father has been declared unlawful in this noble verse. There is no restriction here to indicate marital consummation by the father. So, the fact that the father has married a woman is enough to forbid the son from entering into marriage with that woman. It will never be lawful. Similarly, it is not correct for the father to marry the wife of his son, even if the marriage of the son is limited to formal 'nikah' and his wife have not yet come to live with him. (Ibn ` Abidin)
 
 ## Personal Reflections
+
+

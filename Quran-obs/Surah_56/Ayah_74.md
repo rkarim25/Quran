@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 74, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-57-74 arguments have been given, one after the other, to prove the truth of the two basic doctrines of Islam, which the disbelievers were refusing to accept, viz.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do you not see what you sow (63)Is it you that make it grow, or are We the Grower (64)Were it Our will, We could crumble it to dry pieces, and you would be Tafakkahun (65)(Saying:) "We are indeed Mughramun! فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ (So, proclaim the purity of the name of your Lord, the Magnificent...56:74) The logical and rational conclusion of the above considerations should be for man to believe in the All-Encompassing Divine Power and in His Oneness, and declare the Purity of the Great Lord; for that is the way to express His gratitude.
@@ -151,3 +139,5 @@ Abdur-Rahman bin Zayd bin Aslam said that here Al-Muqwi means the hungry. Layth 
 فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ (So, proclaim the purity of the name of your Lord, the Magnificent...56:74) The logical and rational conclusion of the above considerations should be for man to believe in the All-Encompassing Divine Power and in His Oneness, and declare the Purity of the Great Lord; for that is the way to express His gratitude.
 
 ## Personal Reflections
+
+

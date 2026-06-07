@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-khāsirūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if the people of the towns had believed and had Taqwa, certainly, We should have opened for them blessings from the heaven and the earth, but they belied (the Messengers). The Arabic word بَرَکَہ :'barakah' used in this verse and translated as blessing signifies increase or growth.
@@ -147,3 +135,5 @@ The men of Allah, however, have suggested some distinct signs to differentiate b
 The verses 97 to 99 have warned the people of the world saying: "So, do the people of the towns feel secure from Our punishment coming upon them at night while they are asleep?" The verse implies that the residents of these towns (the people living in the time of the holy Prophet seem to be unmindful of the fact that they can be caught by the punishment of Allah any time when sleeping at night. They should not feel themselves secure from the punishment of Allah which may come to them suddenly any day when they are busy in their worldly pursuits. What has made them so fearless of Allah's plan? The fate of the early people referred to in the foregoing verses should be a lesson for these people. Man should be wise enough to take lesson from the events of other people and avoid things to do which had led them to death and disaster.
 
 ## Personal Reflections
+
+

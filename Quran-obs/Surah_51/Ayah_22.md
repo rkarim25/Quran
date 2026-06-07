@@ -24,18 +24,6 @@ word_by_word:
     transliteration: tūʿadūna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. وَفِي السَّمَاءِ رِ‌زْقُكُمْ وَمَا تُوعَدُونَ (And in the heavens, there is your sustenance and all that you have been promised....
@@ -169,3 +157,5 @@ When he would talk to one of his friends, Mu'adh used to say: "What I am saying 
 وَفِي السَّمَاءِ رِ‌زْقُكُمْ وَمَا تُوعَدُونَ (And in the heavens, there is your sustenance and all that you have been promised.... 51:22). The plain and simple interpretation of this is that 'in heaven' here means what has been written in the Preserved Tablet (Al-Lauh-ul-Mahfuz). It is clear that man's sustenance, what has been promised to him and whatever its consequences will be - are all preserved in the Preserved Tablet. Sayyidna Abu Said Khudri ؓ reports that the Holy Messenger ﷺ said: "Even if someone tries to avoid and run away from his designated sustenance, he will not succeed, because his sustenance will pursue him just as he cannot run away from his death". (Qurtubi) Some scholars say that 'sustenance' here signifies "rain". In this case 'heaven' will not refer to the body, arch or vault of the sky. It refers to anything that hangs overhead and covers things in its shade, including the celestial atmosphere and clouds from where the rain falls. The expression 'all that you have been promised' refers to Paradise and its delights. Allah, the Pure and Exalted, knows best.
 
 ## Personal Reflections
+
+

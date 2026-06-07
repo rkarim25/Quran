@@ -197,15 +197,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 231, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The second rule presented in this verse is that the word of Allah should not be taken lightly as some amusement: وَلَا تَتَّخِذُوا آيَاتِ اللَّـهِ هُزُوًا ‘And do not take the verses of Allah in jest.' According to one explanation of the expression -- playing games with the verses of Allah or making a mockery of it -- means acting against Divine ordinances in matters of marriage and divorce. The second explanation reported from Sayyidna Abu al-Darda' ؓ is that some people during pre-Islam Arabia would give divorce or free a slave, then they would go back on their word and start saying that this was all in fun; talaq (divorce) or ` itaq (to free a slave) was not intended. Thereupon, this verse was revealed which gave the ruling that anyone going through divorce and marriage, even if it be playfully or jokingly, would find these enforced and the plea of 'having no intention' will not be accepted as valid.
 
-That is, And remember the grace of Allah on you and what He has revealed to you of the Book and the wisdom giving you good counsel thereby.
+That is, And remember the grace of Allah on you and what He has revealed to you of the Book and the wisdom giving you good counsel thereby. And fear Allah, and be sure that Allah is all-knowing in respect of everything'
 
 ## Tafsir Summary
 
@@ -346,3 +340,5 @@ The basic rules of giving a divorce
 The third rule identified in this verse is: Should a man be left with no other option but divorce, then the basic and true method in the view of Shari'ah and Sunnah is that he should give one revocable divorce in clear and unambiguous words so that the choice of taking the wife back remains open. Words that cause sudden severance of marriage relationship should not be spoken. This is known as al-talaq al-ba` in الطلاق الباین ، the divorce that cannot be revoked. In addition to this, reaching three talaqs must be avoided following which even fresh marriage between the couple becomes haram (unlawful). This point is indicated by the use of the universal and unqualified words in طَلَّقْتُمُ النِّسَاءَ (when you have divorced women), because the injunction contained in this verse covers only one or two revocable talaqs. It does not concern the irrevocable three talaqs; but the Holy Qur'an, by not mentioning any related qualification, has suggested that the real talaq (divorce) is none other than the revocable talaq as approved by the Shari'ah. Other forms are not devoid of repugnance or undesirability.
 
 ## Personal Reflections
+
+

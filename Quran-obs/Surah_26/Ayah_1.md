@@ -8,18 +8,6 @@ word_by_word:
     transliteration: tta-seen-meem
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The subject matter and the style show, and the traditions confirms, that it was revealed during the middle Makkan period. According to Ibn Abbas, Surah Ta Ha was revealed first, then Surah Al Waqiah, and then Surah Ash-Shu'araa.( Ruh-ul-Ma'ani , Vol. xx, p. 64). About Surah Ta Ha it is well known that it had been revealed before Hadrat Umar embraced Islam. Subject Matter and Topics The background of the Surah is that the disbelievers of Makkah were persistently refusing on various pretexts to reject the message of Islam given by the Holy Prophet. They would argue that he did not show them any signs to convince them of his Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. قُلْ مَا يَعْبَأُ بِكُمْ رَ‌بِّي لَوْلَا دُعَاؤُكُمْ (Say (0 Prophet) My Lord will never care about you, if you will not invoke Him - 25:77).
@@ -123,3 +111,5 @@ Surah AI-Furqan
 Ends here.
 
 ## Personal Reflections
+
+

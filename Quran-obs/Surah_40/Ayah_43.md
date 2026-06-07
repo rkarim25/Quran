@@ -98,17 +98,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Forgiver** (Ghafir) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the period of Al-Barzakh.
 
 This chain of narration is Sahih according to the conditions of Al-Bukhari and Muslim, although they did not record it. It was said, 'how can this report be reconciled with the fact that the Ayah was revealed in Makkah and the Ayah indicates that there will be torment during the period of Al-Barzakh?' The answer is that the Ayah refers to the souls (of Fir'awn and his people) being exposed to the Fire morning and evening; it does not say that the pain will affect their bodies in the grave. So it may be that this has to do specifically with their souls. With regard to there being any effect on their bodies in Al-Barzakh, and their feeling pain as a result, this is indicated in the Sunnah, in some Hadiths which we will mention below.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -245,3 +237,5 @@ The word: صرح (sarh) in verse 36: وَقَالَ فِرْ‌عَوْنُ يَ
 My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad Ya` qub, the first principal of the famous Darul-` Uloom of Deoband in India has reported his learned teacher saying, 'For this lofty palace to collapse, it is not necessary that it be hit by some Divine punishment. The fact is that the height of every building depends on the capability of its foundation to bear weight. No matter how deep the foundation is laid, it cannot go deeper than a certain limit. Now, when levels after levels were added to this building, it was inevitable that, once it exceeded the capability of its foundation to bear additional weight, it must collapse.' This provides another proof of the folly of Pharaoh and Haman. Allah knows best.
 
 ## Personal Reflections
+
+

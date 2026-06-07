@@ -67,18 +67,6 @@ word_by_word:
     transliteration: baṣīrun
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? أَوَلَمْ يَرَ‌وْا إِلَى الطَّيْرِ‌ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّ‌حْمَـٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ‌ (Have they not looked to the birds above them spreading their wings, and (at times) they fold (them) in?
@@ -152,3 +140,5 @@ This verse invites attention to the fact that the birds have weight, and in term
 Thus far the conditions of various categories and species of existent beings were analysed and considered in order to provide evidence of Divine existence, His Oneness, His unique knowledge and power. If a fair-minded person were to consider them carefully, he will have no choice but to believe in Allah. From the next verse up to the end of the Surah, the non-believers and the unrighteous people of all categories are warned of the Divine scourge. First, they are admonished that if Allah decides to punish any nation, there is no power in the world that can stop Him. There is no fighting force or army of soldiers that can come to the support of the disbelievers and save them. Thus the next verse says:
 
 ## Personal Reflections
+
+

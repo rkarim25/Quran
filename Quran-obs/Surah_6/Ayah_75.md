@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-mūqinīna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Ibrahim said to his father Azar: "Do you take idols as gods? First, it was idol worship.
@@ -179,3 +167,5 @@ These Ayat indicate that Ibrahim was debating with his people about the Shirk th
 First, it was idol worship. He said that it was error, and straying. Then, in the next verses, he pointed out to stars as unworthy of worship. And a little earlier in verse 75, it is in the form of an introduction that Allah Ta` ala mentions a particular elegance and insight of Sayyidna Ibrahim (علیہ السلام) by saying: وَكَذَٰلِكَ نُرِ‌ي إِبْرَ‌اهِيمَ مَلَكُوتَ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَلِيَكُونَ مِنَ الْمُوقِنِينَ ﴿75﴾ that is, ` We made Ibrahim (علیہ السلام) see what We have created in the heavens and the earth in a way which would unravel the reality of all these created objects manifestly so that he may become firm in his belief.' What came to pass after that has taken the shape of a wondrous dialogue that appears in later verses (which shows a certain quality even in the translated form of the meanings of the totally untranslatable beauty, diction and elan of the original) and it would be useful to dwell upon the manner in which it emerges stage by stage.
 
 ## Personal Reflections
+
+

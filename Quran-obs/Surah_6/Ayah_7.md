@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The second verse (7) was revealed in the background of a particular event when ` Abdullah ibn Umaiyyah came up with a hostile demand before the Holy Prophet ﷺ by saying: ` I cannot believe in you until such time that I see you climbing all the way to the heavens and bringing a book from there before our eyes, in which it should be written in my name that I should attest to your prophethood.' And, on top of saying all this, he went on to even declare that he would still not be impressed enough by his accomplishing all that for he does not seem to be likely to convert to Islam anyway.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -168,3 +160,5 @@ Such were the uncalled-for and hostile demands made and mocking and insulting di
 Therefore, to comfort him, it was said that such demands from his antagonists were not being put forward for any useful purpose, nor did they want to follow it. They were a kind of people who would not stop at what they were demanding. Even if they were presented with far more clear proofs of their Prophet's veracity, they would still not believe. For example, if Allah were to send down, as they demanded, a written book from the heavens - and not only that they see it for them-selves that there is no sleight of hand or sight or magic, they may even physically touch it with their hands to make sure that they were not day-dreaming and that it was a reality - still, after all that, they would say nothing but: اَن ھٰذآ اِلَّا سِحرُ مُّبِینُ (This is nothing but sheer magic): This is because what they are saying comes from malice and hostility.
 
 ## Personal Reflections
+
+

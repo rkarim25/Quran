@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whosoever does not judge by what Allah has revealed, such are the rebellious.) meaning, the rebellious and disobedient of Allah who prefer falsehood and abandon truth. We mentioned before that this Ayah was revealed about the Christians, and this is evident from the context of the Ayah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ Allah said,
 In the fourth verse (47) it was said that the people of the Injil should enforce injunctions in accordance with the Law revealed by Al-mighty Allah in the Injil, and those who enforce what is against the in-junctions sent down by Almighty Allah are disobedient, sinners.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-lawāmati
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Interpretation of Lawwarnah Sayyidna Ibn ` Abbas, Hasan al-Basri and others have expressed the view that Allah has sworn an oath by the self-reproaching conscience in order to show honour for the believing souls who take account of their deeds, regret, and feel sorry for, their shortcomings and reproach themselves.
@@ -215,3 +203,5 @@ The second stage of development is called An-nafs-ul-lawwamah 'the self that bla
 The first stage is developed into the second stage when the traveler perform righteousness, and exerts himself in riyadah 'ascetic discipline' and mujahadah 'spiritual struggle'. This Self is conscious of its own imperfections. It regrets its evils and shortcomings, but it is not completely cut off from the evils. The third and highest stage of development is called An-nafs-ul-mutma'innah 'the self at peace'. This self develops into this stage when it progressively performs righteousness and attains Divine nearness and applies the sacred laws of Shari` ah so rigorously that Shari'ah becomes his nature and develops a natural hatred for anything contrary to Shari` ah . The title of the self at this stage is mutma'innah.
 
 ## Personal Reflections
+
+

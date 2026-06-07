@@ -84,18 +84,6 @@ word_by_word:
     transliteration: qadīrun
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-33-40 The Holy Prophet (and through him the Muslims) has been reassured that he should not mind the enmity, the evil designs, and the machinations of the Jews, but continue exerting his utmost to establish the Right Way in accordance with the Guidance of the Quran; for nothing better could be expected from those who had forsaken their own Torah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. Do you know that to Allah alone belongs the kingdom of the heavens and the earth?
@@ -239,3 +227,5 @@ Let's say Amen to the prayer.
 A word about the use of the word, ` deterrent' with nuclear weapons. They are there, just in case ... They are supposed not to be used first. They are for retaliation. The having of nuclear weapons means that everybody should behave, or else! So, they are ` deterrents', telling people to be careful and not mess around. So human beings can have deterrents to check the irresponsible behaviour of others, the behaviour of ` rogue' states, for example. Now, if God were to enforce His own deterrent against criminals, robbers and thieves and fornicators, in His wisdom, how could that become ` savage' overnight? Or, is it that what a set of human beings can do in their ` self-interest', cannot be done by God, in His Wisdom? ... Mercy! (Tr.)
 
 ## Personal Reflections
+
+

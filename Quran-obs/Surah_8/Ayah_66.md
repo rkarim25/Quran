@@ -116,17 +116,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The Ayah says, one Muslim should endure ten disbelievers. Allah abrogated this part later on, but the good news remained. 'Abdullah bin Al-Mubarak said that Jarir bin Hazim narrated to them that, Az-Zubayr bin Al-Khirrit narrated to him, from 'Ikrimah, from Ibn 'Abbas, "When this verse was revealed,
 
 Allah lowered the number [of adversaries that Muslims are required to endure], and thus, made the required patience less, compatible to the decrease in numbers." Al-Bukhari recorded a similar narration from Ibn Al-Mubarak. Muhammad bin Ishaq recorded that Ibn 'Abbas said, "When this Ayah was revealed, it was difficult for the Muslims, for they thought it was burdensome since twenty should fight two hundred, and a hundred against a thousand. Allah made this ruling easy for them and abrogated this Ayah with another Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -207,3 +199,5 @@ But, at both places, the glad tidings about this support and victory has been ma
 Towards the end of the verse, it was in the manner of a general principle that it was stated: وَاللَّـهُ مَعَ الصَّابِرِ‌ينَ (And Allah is with the patient - 66). Included here, there are those who remain steadfast in the battlefield as well as those who keep following the usual injunctions of the Shari’ ah strictly. The promise of Divine company stands good for all of them and in this state of His being with one and all of them lies the real secret of their victory - because, whoever has the good fortune of having the company of the Absolute Master simply cannot be moved away from the station of duty by anyone, not even by the whole world in unison.
 
 ## Personal Reflections
+
+

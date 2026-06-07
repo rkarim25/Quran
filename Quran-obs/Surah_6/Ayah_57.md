@@ -99,15 +99,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -212,3 +204,5 @@ The Linkage of Verses
 In the verses cited above, the answer to disbelievers who were demanding that the Divine punishment should come to them posthaste was given in: وَهُوَ خَيْرُ‌ الْفَاصِلِينَ (He is the best decision-maker) while the mention of the perfect power of Almighty Allah was made in: وَاللَّـهُ أَعْلَمُ بِالظَّالِمِينَ (Allah knows the unjust best). Next from here, there is a description of the encompassment of the Knowledge and Power of Allah Ta` ala on all conceivable data and destiny.
 
 ## Personal Reflections
+
+

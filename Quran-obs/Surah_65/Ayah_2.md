@@ -133,15 +133,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Divorce** (At-Talaq) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This occasion of revelation indicates that this verse, though related to divorcing situation in this context, has general application for all circumstances.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -302,3 +294,5 @@ A Proven Prescription to avert calamities and achieve the objectives
 According to the above Tradition, Sayyidna ` Auf Ibn Malik Ashja` i ؓ and his wife were advised to recite لَا حَولَ وَلَا قُوَّۃَ اِلَّا بِاللہِ (There is no strength nor power but with Allah) abundantly to avert afflictions and obtain benefits. Mujaddid Alf Thani (رح) says that abundant recitation of this formula is a proven prescription to avert all kinds of religious and mundane afflictions and to obtain all religious and mundane objectives and benefits. According to him, its proper way is to recite five hundred times لَا حَولَ وَلَا قُوَّۃَ اِلَّا بِاللہِ , and to recite Salah (durud) one hundred times before, and one hundred times after the formula, and then to supplicate to Allah for one's need. [ Tafsir [ Mazhari ] Imam Ahmad, Hakim [ grading the chain as sahib ], Baihaqi, Abu Natim and others have transmitted on the authority of Sayyidna Abu Dharr that one day the Messenger of Allah ﷺ continuously recited the verse 3; وَمَن يَتَّقِ اللَّـهَ يَجْعَل لَّهُ مَخْرَ‌جًا ﴿2﴾ وَيَرْ‌زُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ('And whoever fears Allah, for him Allah brings forth a way out, and gives him provision from where he does not even imagine...2/3) until the reporter started feeling sleepy. The Holy Prophet ﷺ said: "Abu Dharr! if all people choose only this verse, it would be sufficient for them all." [ Ruh-ul-Ma’ ani ] 'Sufficient' in this statement means it would be sufficient for all people to accomplish their religious and mundane objectives, if they practice it.
 
 ## Personal Reflections
+
+

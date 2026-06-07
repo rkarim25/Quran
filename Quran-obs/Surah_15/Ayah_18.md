@@ -33,18 +33,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he… The first thing these verses prove is that the shaitans have no access to the heavens.
@@ -104,3 +92,5 @@ In a Hadith of the Sahih of Muslim, there is a narration from Sayyidna Ibn ` Abb
 To sum up, it can be said that the view of scientists about the shooting stars is also not contrary to the Qur’ an, and it is also not too far out to state that these flames were made to fall directly from some stars. Whichever way it is taken, the purpose of the Qur'an stands proved clearly.
 
 ## Personal Reflections
+
+

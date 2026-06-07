@@ -44,17 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (You will not find any people who believe in Allah and the Last Day...) was revealed in the case of Abu 'Ubaydah 'Amir bin 'Abdullah bin Al-Jarrah when he killed his disbelieving father, during the battle of Badr. This is why when 'Umar bin Al-Khattab placed the matter of Khilafah in the consultation of six men after him, he said; "If Abu 'Ubaydah were alive, I would have appointed him the Khalifah." It was also said that the Ayah,
 
 (even though they were their fathers), was revealed in the case of Abu 'Ubaydah, when he killed his father during the battle of Badr, while the Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 وَيَحْلِفُونَ عَلَى الْكَذِبِ (and they swear false oaths ...58:14). It means they swear oaths profanely. According to some reports, this verse was revealed in connection with ` Abdullah Ibn 'Ubayy and ` Abdullah Ibn Nabtal: One day the Messenger of Allah ﷺ was sitting with his noble Companions ؓ and said to them: "Soon a person will come to you whose heart will be the heart of a tyrant and who sees through the Shaitan's eyes." Soon afterwards ` Abdullah Ibn Nabtal, the hypocrite, entered. He was blue-eyed, wheat-coloured, short-statured and skimpy-bearded. The Messenger of Allah ﷺ asked him: "Why do you and your comrades use obscene words against me?" He swore that he did not do that. Then he called his comrades and they too took this false oath. Allah told the Holy Prophet ﷺ ; about their lie and profane oath. [ Qurtubi ]
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yatasāalūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 101, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another (101)Then, those whose Scales (of good deeds) are heavy, these! Thereafter, when the Sur (the trumpet) is blown, there are no ties of kinship between them, - 23:101.
@@ -141,3 +129,5 @@ There is also a hadith which Ibn ` Asakir has related on the authority of Sayyid
 وَلَا يَتَسَاءَلُونَ (nor will they question one another - 23:101). However their is another verse وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ (And advance one upon another, asking each other question - 37:27). Discussing this latter verse Sayyidna Ibn ` Abbas ؓ says that in mahshar there will be different stations, and the conditions in each station will be different. There will be a time when nobody will speak to anybody, but in another station when the terror which earlier overwhelmed the gathering abates, people will converse with one another. (Mazhari)
 
 ## Personal Reflections
+
+

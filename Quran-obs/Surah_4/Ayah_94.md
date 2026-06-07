@@ -170,17 +170,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 94, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad recorded that 'Ikrimah said that Ibn 'Abbas said, "A man from Bani Sulaym, who was tending a flock of sheep, passed by some of the Companions of the Prophet ﷺ and said Salam to them. They said (to each other), 'He only said Salam to protect himself from us.' Then they attacked him and killed him. They brought his sheep to the Prophet ﷺ, and this Ayah was revealed,
 
 Imam Ahmad recorded that Al-Qa'qa' bin Abdullah bin Abi Hadrad narrated that his father 'Abdullah bin Abi Hadrad said, "The Messenger of Allah ﷺ sent us to (the area of) Idam. I rode out with a group of Muslims that included Abu Qatadah, Al-Harith bin Rab'i and Muhallam bin Juthamah bin Qays. We continued on until we reached the area of Idam, where 'Amr bin Al-Adbat Al-Ashja'i passed by us on his camel. When he passed by us he said Salam to us, and we did not attack him. Because of some previous problems with him, Muhallam bin Juthamah killed him and took his camel. When we went back to the Messenger of Allah ﷺ and told him what had happened, a part of the Qur'an was revealed about us,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -305,3 +297,5 @@ In short, the correct course of action when faced with this problem is: Take eve
 Finally, we can now see that 'the reciter of the Kalimah' (Kalimahgo کلمہ گو) or Ahl al-Qiblah (the people of Qiblah, meaning Muslims who universally turn to the direction of Holy Ka'bah when praying) are technical terms applied solely to one who, after his professing Islam, does nothing by his word and deed which can be classed as infidelity.
 
 ## Personal Reflections
+
+

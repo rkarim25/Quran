@@ -197,17 +197,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 143, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It is reported in the Sahihayn (Al-Bukhari Muslim) that Ibn 'Umar narrated: While the people were in Quba' (Mosque) performing the Fajr (Dawn) prayer, a man came and said, "A (part of the) Qur'an was revealed tonight to Allah's Messenger and he was commanded to face the Ka'bah. Therefore, face the Ka'bah. They were facing Ash-Sham, so they turned towards the Ka'bah.
 
 Al-Bukhari reported in the explanation of the Ayah (2:143) that Ibn 'Umar narrated: While the people were performing the Fajr (Dawn) prayer in the Quba' Mosque, a man came and said, "Qur'an was revealed to the Prophet ﷺ and he was ordered to face the Ka'bah. Therefore, face the Ka'bah." They then faced the Ka'bah. Muslim also recorded it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -546,3 +538,5 @@ On the other, on the basis of certain Ahadith, some early commentators have inte
 Al-Bukliari has reported from the Companion al-Bara’ 'Ibn ` Azib, and al-Tirmidhi from the Companion Ibn ` Abbas ؓ that when the Baytullah بیت اللہ was appointed as the Qiblah قبلہ ، people became worried about the fate of those Muslims who had been praying in the direction of the Baytul-Maqdis بیت المقدس ، but had died before having the opportunity to pray in the direction of the Baytullah بیت اللہ .
 
 ## Personal Reflections
+
+

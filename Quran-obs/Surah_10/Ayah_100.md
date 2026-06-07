@@ -62,18 +62,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had your Lord willed, those on earth would have believed, all of them together. In the seventh verse (98), the heedless deniers of truth have been admonished for their failure to make the optimum use of the time of life allowed to them.
@@ -245,3 +233,5 @@ Thus, Sayyidna Yunus علیہ السلام was alerted to that slip, and later o
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
 
 ## Personal Reflections
+
+

@@ -66,18 +66,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 96, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had Allah willed, He would have made you (all) one nation, but He allows whom He wills to stray and He guides whom He wills. All Worldly Gains and States will Perish - Only their Outcome with Allah shall Remain A casual look at the expression: مَا عِندَكُمْ (ma ` indakum: 'what is with you' meaning world gains) leads one to think of wealth and possessions only.
@@ -145,3 +133,5 @@ All Worldly Gains and States will Perish - Only their Outcome with Allah shall R
 A casual look at the expression: مَا عِندَكُمْ (ma ` indakum: 'what is with you' meaning world gains) leads one to think of wealth and possessions only. My revered teacher, Maulana Sayyid Asghar Husain of Deoband, may the mercy of Allah be upon him, said that the word: مَا ma (what) is general lexically and there is nothing prohibiting us from taking it in a general sense, therefore, included under it are wealth and possessions of the present world as well as all states and matters that one experiences therein. These could be happiness and sorrow, pain and comfort, sickness and health, gain and loss or someone's friendship or enmity. These form part of it for all these are transitory and must perish. However, the after-effects of all these states and matters which are to bring reward or punishment on the Day of Judgment are destined to remain. So, any reckless pursuit of states and matters that must perish and to stake one's life and its energies on this altar by becoming negligent of the eternal reward and punishment is something no sane person should elect to do.
 
 ## Personal Reflections
+
+

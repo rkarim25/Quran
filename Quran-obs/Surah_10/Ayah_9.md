@@ -68,18 +68,6 @@ word_by_word:
     transliteration: l-naʿīmi
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believe and do deeds of righteousness, their Lord will guide them through their faith; under them will flow rivers in the Gardens of delight (Paradise)(9)Their way of request therein will be: "Glory to You, O Allah!" and "Salam" (peace, safety from evil) will be their greetings therein! Mentioned in the third verse (9) are those fortunate people who pondered over the signs of the most exalted Allah.
@@ -147,3 +135,5 @@ The well known meaning of the word: ھِدَیَہ (hidayah) used here is to tel
 It will be recalled that the punishment of the first group was the outcome of their own misdeeds. Here, similar to that, it was said about the reward of the second group (of believers), that they have been blessed with this reward by virtue of their belief. And since, belief has been bracketed with good deeds earlier, therefore, 'Iman or belief mentioned at this place will mean belief that is supported by good deeds (al-a` mal as-salilhah). The return for belief and good deeds is Jannah, the place of unimaginable and unparalleled bliss.
 
 ## Personal Reflections
+
+

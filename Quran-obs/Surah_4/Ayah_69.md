@@ -82,17 +82,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whoever obeys Allah and the Messenger, then they will be in the company of those on whom Allah has bestowed His grace, of the Prophets, the true believers, the martyrs, and the righteous. And how excellent these companions are!) was revealed to him." This was collected by Al-Hafiz Abu 'Abdullah Al-Maqdisi in his book, Sifat Al-Jannah, he then commented, "I do not see problems with this chain." And Allah knows best. Muslim recorded that Rabi'ah bin Ka'b Al-Aslami said, "I used to sleep at the Prophet's house and bring him his water for ablution and his needs. He once said to me, 'Ask me.' I said, 'O Messenger of Allah! I ask that I be your companion in Paradise.' He said, 'Anything except that?' I said, 'Only that.' He said,
 
 This verse was revealed in the background of a special event which has been reported by the great commentator, Ibn Kathir as based on several sound authorities.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -285,3 +277,5 @@ The definition of the Sa1ihin
 The third rank is that of the Salihin. These are people who recognize their ultimate objective through following the precepts of Shari'ah. It is like someone sees something in a mirror from a distance. In the other part of the famous hadith quoted above: فَاِن لَّم تَکُن تراہُ فَاِنَّہ یَرَاکَ (And if you cannot see Him, then, He sees you anyway) the reference may be to this very level of 'seeing'. In short, this investigative approach taken by Imam Raghib al-Isfahani shows that all these ranks are ranks that reflect the quantum of knowledge one has of His Lord, and that the different gradations that are there are based on the respective rankings of this knowledge. As for the subject of the verse, it is clear enough. Here, all Muslims have been given the glad tidings that those who are totally obedient to Allah and His Messenger shall be with those who hold higher ranks in Paradise. May Allah Almighty bless us all with this love, آمِین Amin.
 
 ## Personal Reflections
+
+

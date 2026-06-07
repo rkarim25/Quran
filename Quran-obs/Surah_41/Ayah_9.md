@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Do you verily disbelieve in Him Who created the earth in two Days? The real objective of these eloquent verses is to warn the people who, denying the Oneness of Allah, associate others with Him.
@@ -308,3 +296,5 @@ The narration of Sayyidna Ibn ` Abbas ؓ quoted above from Ibn Jarir has also an
 Briefly, of all the ahadith wherein the duration, days and sequence of creation of the earth and skies is narrated, no narration is such which can be said to be as absolutely certain as the Qur'an. Rather, it is very likely that these may be Israelite traditions, not noble ahadith, as clarified by Ibn Kathir about the Hadith quoted in Sahih of Muslim and Nasa'i. Therefore conclusions should be drawn from the verses of the Qur'an only. The one thing found absolutely certain from the verses of the Qur'an collectively is that the earth, the skies and whatever is inside them were created in six days only. The other thing found from the verses of Surah Ha Meem Sajdah is that the creation of the earth, its mountains, trees, etc. took full four days. The third thing found is that the creation of skies took two days - it is not clarified whether it took two full days. There is some indication that two full days were not used and some part of the last day, being Friday, was left unused. It appears from these verses that it took four days for the creation of the earth and the remaining two days for the creation of the skies, the earth having been created first. But the verse of Surah Nazi` at states clearly that the laying out of the earth and its completion took place after the creation of the skies. Therefore the sequence stated above, with reference to Bayan-ul-Qur'an, that the creation of the earth took place in two stages, is not beyond reason. In the first two days, the earth and the matter for mountains, etc. were created, in the next two days the skies were created, and in the last two days the laying out of the earth and the creation of the mountains, trees rivers, springs etc. was completed. In this way the four days of the creation of the earth were not continuous. As for the sequence mentioned in the present verse of Surah Ha Meem Sajdah, it is stated first that the creation of the earth took place in two days: خَلَقَ الْأَرْ‌ضَ فِي يَوْمَيْنِ (the One who has created the earth in two days, - 41:9), then after giving a reprimand to the mushrikin,
 
 ## Personal Reflections
+
+

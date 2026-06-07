@@ -265,17 +265,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad recorded that Tariq bin Shihab said, "A Jewish man said to 'Umar bin Al-Khattab, 'O Leader of the Believers! There is a verse in your Book, which is read by all of you (Muslims), and had it been revealed to us, we would have taken that day (on which it was revealed) as a day of celebration.' 'Umar bin Al-Khattab asked, 'Which is that verse?' The Jew replied,
 
 Umar replied, 'By Allah! I know when and where this verse was revealed to Allah's Messenger ﷺ. It was the evening on the Day of 'Arafah on a Friday.'" Al-Bukhari recorded this Hadith through Al-Hasan bin As-Sabbah from Ja'far bin 'Awn. Muslim, At-Tirmidhi and An-Nasa'i also recorded this Hadith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -654,3 +646,5 @@ Towards the end of the Verse, the statement: فَمَنِ اضْطُرَّ‌ ف
 This is exactly what the words: غَيْرَ‌ مُتَجَانِفٍ لِّإِثْمٍ (having no inclination to sin) following immediately mean, that is, this act should be free from any inclination to commit a sin. Contrary to that, the purpose should only be limited to get relief from the excruciating state of compulsion. Towards the end of the Verse, the statement: فَإِنَّ اللَّـهَ غَفُورٌ‌ رَّ‌حِيمٌ to (Allah is Most-Forgiving, Very-Merciful) makes a pointed reference to the fact that these unlawful things are still unlawful as they already were, but only such a person has been given leave because of the state of compulsion he may be in.
 
 ## Personal Reflections
+
+

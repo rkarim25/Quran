@@ -59,18 +59,6 @@ word_by_word:
     transliteration: amwālakum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This worldly life is only amusement and diversion. إِنَّمَا الْحَيَاةُ الدُّنْيَا (The worldly life is but play and pastime - 47:36.) As Muslims have been enjoined to fight in the cause of Allah, they will, for this purpose, have to make sacrifices of life and money.
@@ -136,3 +124,5 @@ Earlier in this very verse, it has been declared expressly: يُؤْتِكُمْ
 Other scholars, however, assign another meaning to the words, "and will not ask you your riches". They say that "asking your riches" means to demand all of one's wealth. Their argument is that this clause needs to be read in conjunction with the next verse [ 37] lwhich says, إِن يَسْأَلْكُمُوهَا فَيُحْفِكُمْ (If He were to ask you of it, and were to press you,…) the word yuhfi is derived from ihfa which means to pursue a work persistently and insistently until it is accomplished. All scholars agree that the meaning of verse [ 37] is that if Allah demands for all of their wealth, they would become niggardly and acting upon this injunction would displease them. The displeasure would become visible at the time of expending. To sum up: the meaning of verse [ 36] is the same as verse [ 37]. The general meaning of the former verse is restricted by the latter verse. The meaning of these two verses is as follows: The pecuniary obligations, such as zaka that Allah has imposed on the believers is for their own benefit – Allah does not need their money or wealth. Further, Allah, through His grace and compassion, has imposed a nominal percentage for expending. For example, only 1/40th = 2.5% for zakah, 1/10th = 10% or 1/20th = 5% for agricultural produce, and one goat out of every hundred goats, have been imposed. Thus it is clear that Allah is not demanding for all of our wealth because that would be displeasing and a burden and it would weigh heavily on us. In fact, He has asked for so little of our wealth that we should discharge our obligation readily and happily. The concluding clause in verse [ 37] يُخْرِ‌جْ أَضْغَانَكُمْ ”...you would show miserliness, and He would expose your grudges." contains the word adghan which is the plural of dighn. It refers to secret malice, grudge or hatred. Naturally, man feels unhappy to part with all of his wealth. Even if he does not express his unhappiness openly, he would procrastinate at the time of payment. Procrastination would disclose his unhappiness. In short, if Allah had demanded from people all of their wealth, they would be tight-fisted and because of tight-fistedness their hearts will harbor rancour, malice and spite against spending in the cause of Allah which would be exposed. Therefore, He has imposed upon their wealth a small and nominal percentage to expend in the cause of Allah, but people are niggardly even in this case. This is what the Qur'an says in the last verse:
 
 ## Personal Reflections
+
+

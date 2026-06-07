@@ -50,18 +50,6 @@ word_by_word:
     transliteration: yaʿṣirūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. Said in verse 48 was: ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ (Then there shall come, after that, seven hard years which shall eat up what you have stored for them).
@@ -119,3 +107,5 @@ Said in verse 48 was: ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِك
 The context of the story shows that this person, after having found out the interpretation of the dream, returned to the king and told him about it. He was pleased with it and convinced of the intellectual and spiritual excellence of Sayyidna Yusuf (علیہ السلام) . But, the Holy Qur’ an has not considered it necessary to mention all these things because they are self-explanatory. What transpired later was described by saying:
 
 ## Personal Reflections
+
+

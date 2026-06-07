@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ghāfilūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surah Ya Sin Al-Hafiz Abu Ya'la recorded that Abu Hurayrah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said: The word: آباء (fathers) in verse 6: لِتُنذِرَ‌ قَوْمًا مَّا أُنذِرَ‌ آبَاؤُهُمْ (so that you may warn a people whose fathers were not warned) means the Arabs.
@@ -120,3 +108,5 @@ The word: آباء (fathers) in verse 6: لِتُنذِرَ‌ قَوْمًا م
 Since the coming of their patriarch, Sayyidna Ibrahim علیہ السلام and with him, Sayyidna Isma'il (علیہ السلام) no prophet had appeared among the Arabs for several centuries, even though, the work of calling people to the true faith with warnings and glad tidings kept going on as mentioned in the verse of the Qur'an:' وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ‌ (and there was no community without a warner having passed among them - 35:24) also confirms the same truth - that Divine mercy has never kept any nation or community deprived of the essential call and warning at any time and in any region. But, it is obvious that teachings of prophets when communicated by their deputies do not bring about the same effect as it is witnessed when the prophets do it in person. Therefore, in the present verse, it was said about the Arabs that no warner came to them. As fall out of this situation, there was no regular system of education in Arabia where people could learn and teach which was why they came to be called: أُمِّيِّينَ (ummiyyun: the unlettered ones).
 
 ## Personal Reflections
+
+

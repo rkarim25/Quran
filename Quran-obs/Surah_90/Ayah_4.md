@@ -24,18 +24,6 @@ word_by_word:
     transliteration: kabadin
 ---
 
-## Context
-
-To understand **The City** (Al-Balad) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Balad is a **Makkah** surah—revealed as the 35th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ (Indeed We have created man [ to live ] in hard struggle…90:4) The word kabad means 'labour, 'toil' or 'difficulty'.
@@ -321,3 +309,5 @@ The oath and its subject makes plain to man that his desire to live peacefully a
 Then, after describing a few of the ignorant disbeliever's qualities, the following verse says about an unbeliever: أَيَحْسَبُ أَن لَّمْ يَرَ‌هُ أَحَدٌ (Does he think that no one has seen him?...90:7) that is, his evil deeds. He should realise that his Creator watches every action of his.
 
 ## Personal Reflections
+
+

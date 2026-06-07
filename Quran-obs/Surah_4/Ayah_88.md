@@ -99,15 +99,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some people in Makkah who said they embraced Islam, yet they gave their support to the idolators. One time, theses people went out of Makkah to fulfill some needs and said to each other, "If we meet the Companions of Muhammad, there will be no harm for us from their side." When the believers got news that these people went out of Makkah, some of them said, "Let us march to these cowards and kill them, because they support your enemy against you." However, another group from the believers said, "Glory be to Allah! Do you kill a people who say as you have said, just because they did not perform Hijrah or leave their land? Is it allowed to shed their blood and confiscate their money in this case?" So they divided to two groups, while the Messenger ﷺ was with them, and did not prohibit either group from reiterating their argument. Thereafter, Allah revealed,
 
-(Every time they are sent back to Fitnah, they yield thereto.) meaning, they dwell in Fitnah. As-Suddi said that the Fitnah mentioned here refers to Shirk.
+(Every time they are sent back to Fitnah, they yield thereto.) meaning, they dwell in Fitnah. As-Suddi said that the Fitnah mentioned here refers to Shirk. Ibn Jarir recorded that Mujahid said that the Ayah was revealed about a group from Makkah who used to go to the Prophet ﷺ [in Al-Madinah] pretending to be Muslims. However, when they went back to Quraysh, they reverted to worshipping idols. They wanted to be at peace with both sides. Allah commanded they should be fought against, unless they withdraw from combat and resort to peace. This is why Allah said,
 
 ## Tafsir Summary
 
@@ -260,3 +254,5 @@ In short, the three groups mentioned here are:
 The injunction governing the first group is similar to that which governs the disbelievers in general. The second groups is exempted from being arrested and killed. The third group deserves the same punishment as fixed for the first. These verses yield a total of two injunctions, that is, fighting in the absence of peace; and not fighting in the event of peace.
 
 ## Personal Reflections
+
+

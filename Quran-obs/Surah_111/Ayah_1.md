@@ -26,15 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Palm Fiber** (Al-Masad) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Masad is a **Makkah** surah—revealed as the 6th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ)
 
-It is recorded in the two Sahihs that when the verse وَأَنذِرْ‌ عَشِيرَ‌تَكَ الْأَقْرَ‌بِينَ (Warn your closest relatives - 26:214) was revealed, the Holy Prophet ﷺ ascended the mount Safa and cried out to the tribe of Quraish in a manner that was known among them for warning of an attack by the enemy. Some narratives maintain that he called the different Makkah clans by name, the clan of Banu ` Abd Munaf, Banu ` Abdul-Muttalib and others. All the clans of Quraish gathered around him, and he said to them: 'If I were to tell you that the enemy is about to attack you in the morning or in the evening, would you believe me?' They all unanimously replied in the affirmative. Then he said: 'Verily, I am a warner sent to you before the coming of a severe torment (as a result of disbelief or paganism). Abu Lahab then responded: تَبَاً لَکَ اَلِھٰذَا جَمَعتَنَا 'Ruin may seize you! Is it for this purpose that you have called us together?' and picked up a stone to hit him.
+It is recorded in the two Sahihs that when the verse وَأَنذِرْ‌ عَشِيرَ‌تَكَ الْأَقْرَ‌بِينَ (Warn your closest relatives - 26:214) was revealed, the Holy Prophet ﷺ ascended the mount Safa and cried out to the tribe of Quraish in a manner that was known among them for warning of an attack by the enemy. Some narratives maintain that he called the different Makkah clans by name, the clan of Banu ` Abd Munaf, Banu ` Abdul-Muttalib and others. All the clans of Quraish gathered around him, and he said to them: 'If I were to tell you that the enemy is about to attack you in the morning or in the evening, would you believe me?' They all unanimously replied in the affirmative. Then he said: 'Verily, I am a warner sent to you before the coming of a severe torment (as a result of disbelief or paganism). Abu Lahab then responded: تَبَاً لَکَ اَلِھٰذَا جَمَعتَنَا 'Ruin may seize you! Is it for this purpose that you have called us together?' and picked up a stone to hit him. Thus this Surah was revealed.
 
 ## Tafsir Summary
 
@@ -195,3 +189,5 @@ This means that eating from the earnings of one's children is tantamount to eati
 Therefore, Sayyidah ` A'ishah, Mujahid, 'Ata’, Ibn Sirin and others interpret ma kasab [ what he earned ] as referring to 'children'. Allah had granted Abu Lahab abundant wealth and many children, and these two factors led him to be ungrateful, and caused him to be proud and arrogant. Sayyidna Ibn ` Abbas ؓ says that when the Messenger of Allah ﷺ called his people to faith and warned them about the Divine punishment, Abu Lahab said: "Even if what my nephew says is true, I will save myself from the painful torment on the Day of Judgment with my wealth and my children." Thus Allah revealed verse [ 2] مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ that is, when the Divine torment seized him in this world, neither his wealth nor his children benefited him!
 
 ## Personal Reflections
+
+

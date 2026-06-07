@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes. It was reported that the reason behind revealing this Ayah was that a man from the Ansar and a Jew had a dispute, and the Jew said, "Let us refer to Muhammad to judge between us." However, the Muslim man said, "Let us refer to Ka'b bin Al-Ashraf (a Jew) to judge between us." It was also reported that the Ayah was revealed about some hypocrites who pretended to be Muslims, yet they sought to refer to the judgment of Jahiliyyah. Other reasons were also reported behind the revelation of the Ayah. However, the Ayah has a general meaning, as it chastises all those who refrain from referring to the Qur'an and Sunnah for judgment and prefer the judgment of whatever they chose of falsehood, which befits the description of Taghut here. This is why Allah said,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -169,3 +161,5 @@ As evident, they came up with all these interpretations only when their secret w
 In short, it was a consequence of their evil deed which brought upon them the disgrace or disaster of an accomplice killed, following which they started making statements on oath with all sorts of excuses and interpretations. Allah Almighty, in this verse, makes it very clear that these people are liars in their oaths and interpretations and that everything they have done, they have done because of their disbelief and hypocrisy. Their pattern of behaviour is that, when called to come to the Book of Allah and to His Messenger, they would turn away, all averse - which is no hallmark of a true Muslim. But they, as the verse says, would become all alert once they get into trouble as a result of their own evil deeds - like when the exposure of their breach of trust or hypocrisy brings shame on them, or when it leads to the killing of their man - then, they come to the Messenger swearing by Allah that they meant nothing but good. That they took their case to somebody else was not because they did not believe in the Prophet, or that they doubted the veracity of his judgment, but that their aim was to promote good and. bring about harmony between the disputing parties.
 
 ## Personal Reflections
+
+

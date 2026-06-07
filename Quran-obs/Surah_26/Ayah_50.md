@@ -33,18 +33,6 @@ word_by_word:
     transliteration: munqalibūna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "You have believed in him before I give you leave. When the Pharaoh threatened the magicians to kill them, and to cut their limbs and to crucify them, the magicians replied rather indifferently, the gist of their reply was, ` You do whatever you can.
@@ -92,3 +80,5 @@ When the Pharaoh threatened the magicians to kill them, and to cut their limbs a
 It is worth noting here that the magicians who had involved all their lives practicing the sinful sorcery and who believed in the Pharaoh's claim to be a god, rather, used to worship him, pronounced faith in Allah before that tyrant and despotic king and the entire nation. This was in itself something most astonishing and courageous, but it was not just the pronouncement of faith in Allah, but a demonstration of such deep devotion as if they could see the Dooms Day and the Hereafter before their eyes. The blessings and bounties of the Hereafter were within their sight, for which they raised themselves over and above any punishment or torment of this world, and said فَاقْضِ مَا أَنتَ قَاضٍ that is ` You do whatever you are to do (20:72). We are not going back from our faith'. This in fact was also a miracle of Sayyidna Musa (علیہ السلام) which was no less than the miracle of the staff and the luminous hand. Many incidents of similar nature have also occurred with our Holy Prophet ﷺ . In one such incident a drastic change had occurred in a seventy years old infidel in that within a minute he not only converted to Islam, but was ready to lay down his life to become a martyr.
 
 ## Personal Reflections
+
+

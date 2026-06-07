@@ -94,17 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Muhammad bin Ishaq narrated that Az-Zuhri, Muhammad bin Yahya bin Hibban, 'Asim bin 'Umar bin Qatadah, and Al-Husayn bin 'Abdur-Rahman bin 'Amr bin Sa'id bin Mu'adh said, "The Quraysh suffered defeat at Badr and their forces went back to Makkah, while Abu Sufyan went back with the caravan intact. This is when 'Abdullah bin Abi Rabi'ah, 'Ikrimah bin Abi Jahl, Safwan bin Umayyah and other men from Quraysh who lost their fathers, sons or brothers in Badr, went to Abu Sufyan bin Harb. They said to him, and to those among the Quraysh who had wealth in that caravan, 'O people of Quraysh! Muhammad has grieved you and killed the chiefs among you. Therefore, help us with this wealth so that we can fight him, it may be that we will avenge our losses.' They agreed." Muhammad bin Ishaq said, "This Ayah was revealed about them, according to Ibn 'Abbas,
 
 (they who are the losers.)" Mujahid, Sa'id bin Jubayr, Al-Hakam bin 'Uyaynah, Qatadah, As-Suddi and Ibn Abza said that this Ayah was revealed about Abu Sufyan and his spending money in Uhud to fight the Messenger of Allah ﷺ.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -163,3 +155,5 @@ At the end of the verse (36), given there is the evil end of these people in ter
 In the verse under study, the mention of an evil end of spending wealth to stop people from following the true faith also includes the disbelievers of today who spend enormous wealth in the name of hospitals, educational institutions and charities only to stop people from following Islam and to attract them to their call for the false. Similarly, also included here are all those who have gone astray, those who spend their wealth to invite people to listen to doubts and superstitions they have generated into the established collective beliefs of Is-lam. But, Allah Ta` a1a has His ways of keeping the faith revealed by Him protected. There are many occasions when it is openly noticed that such people fail to achieve their objective despite having spent huge amount of money and materials.
 
 ## Personal Reflections
+
+

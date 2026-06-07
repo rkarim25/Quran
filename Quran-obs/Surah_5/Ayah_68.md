@@ -133,17 +133,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O People of the Scripture! You have nothing...) meaning no real religion until you adhere to and implement the Tawrah and the Injil. That is, until you believe in all the Books that you have that Allah revealed to the Prophets. These Books command following Muhammad ﷺ and believing in his prophecy, all the while adhering to his Law. Before, we explained Allah's statement,
 
 To prove one's obedience to the Divine Shari` ah, the instruction given in this verse is to follow three things. These are the Torah and Injil which had been revealed earlier for the Jews and Christians while the third one is: وَمَا أُنزِلَ إِلَيْكُم مِّن رَّ‌بِّكُمْ , that is, what has been revealed to you from your Lord.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -222,3 +214,5 @@ Allah consoles His Prophet ﷺ
 To console the Holy Prophet ﷺ it was said at the end that there will be many among the people of the Book who would fail to benefit by the Divine magnanimity shown to them. They may even react adversely by increasing the tempo of their disbelief and hostility. Let this be no cause of grief to him, nor should he have any sympathetic concern for them.
 
 ## Personal Reflections
+
+

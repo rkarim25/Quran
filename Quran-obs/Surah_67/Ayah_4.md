@@ -46,18 +46,6 @@ word_by_word:
     transliteration: ḥasīrun
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, ارْ‌جِعِ الْبَصَرَ‌ هَلْ تَرَ‌ىٰ مِن فُطُورٍ‌ (So, cast your eye again.
@@ -191,3 +179,5 @@ Qatadah said, "These stars were only created for three purposes: Allah created t
 ارْ‌جِعِ الْبَصَرَ‌ هَلْ تَرَ‌ىٰ مِن فُطُورٍ‌ (So, cast your eye again. Do you see any rifts?...67:3). Apparently, this verse shows that it is possible to see the nearest sky with the naked eyes. Sky, in this context, does not necessarily refer to the bluish atmosphere seen over the earth. In fact, the sky may be very much higher than this, and the bluish colour may be that of the upper atmosphere, as claimed by the scientists. This, on the other hand, does not necessarily imply that the sky cannot be seen at all. It is possible that the bluish atmosphere, on account of being transparent, may not block the vision of the actual sky. However, if it is proved by any evidence that the sky cannot be seen with eyes, then the 'casting ones eyes' in this verse would refer to 'intellectual observation'. [ Bayan-ul-Qur’ an ]
 
 ## Personal Reflections
+
+

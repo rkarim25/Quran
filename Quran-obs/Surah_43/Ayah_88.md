@@ -33,18 +33,6 @@ word_by_word:
     transliteration: yu'minūna
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "If the Most Gracious had a son, then I am the first of the worshippers. وَقِيلِهِ يَا رَ‌بِّ إِنَّ هَـٰؤُلَاءِ قَوْمٌ لَّا يُؤْمِنُونَ (And [ Allah has the knowledge ] of His prophet's saying, "0 my Lord, these are a people who do not believe." 43:88) The point made by this sentence is that there are very serious reasons for Allah's wrath descending upon these infidels.
@@ -178,3 +166,5 @@ And Allah knows best. This is the end of the Tafsir of Surat Az-Zukhruf.
 It should be noted that the present verse has been construed in different ways. The above translation is based on the construction adopted by Maulana Ashraf ` Ali Thanawi (رح) . Various other constructions are given in Ruh-ul-Ma` ani.
 
 ## Personal Reflections
+
+

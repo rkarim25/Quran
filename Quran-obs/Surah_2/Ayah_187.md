@@ -281,17 +281,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 187, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu Ishaq reported that Al-Bara' bin 'Azib said, "When the Companions of Allah's Messenger ﷺ observed fast but would sleep before breaking their fast, they would continue fasting until the following night. Qays bin Sirmah Al-Ansari was fasting one day and was working in his land. When the time to break the fast came, he went to his wife and said, 'Do you have food' She said, 'No. But I could try to get you some.' His eyes then were overcome by sleep and when his wife came back, she found him asleep. She said, 'Woe unto you! Did you sleep' In the middle of the next day, he lost consciousness and mentioned what had happened to the Prophet ﷺ. Then, this Ayah was revealed:
 
 As stated in a Hadith that Imam Abu 'Abdullah Al-Bukhari recorded, Sahl bin Sa'd said, "When the following verse was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -622,3 +614,5 @@ Observe the limits of Allah
 Towards the end of the verse, by saying تِلْكَ حُدُودُ اللَّـهِ فَلَا تَقْرَ‌بُوهَا ('These are the limits set by Allah, so do not go near them' ), it has been hinted that the forbiddance of eating, drinking and marital intimacy while fasting are the limits set by Allah. One should not even go near them because, if you go near them, you may cross those limits. This is why overindulgence in gargling while fasting is makruh مکروہ (reprehensible) as it holds the danger of water slipping into the throat; also makruh مکروہ is the use of some medicine inside the mouth; again, equally makruh مکروہ is the kissing and hugging of one's wife. Similarly, it is better to stop eating and drinking a couple of minutes ahead of the time allowed for sahri or suhur just as a matter of precaution, and also, delaying the if-tar a couple of minutes. Becoming heedless and ease-prone in these matters is against this command from Allah.
 
 ## Personal Reflections
+
+

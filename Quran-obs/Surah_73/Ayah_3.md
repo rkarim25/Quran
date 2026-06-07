@@ -26,15 +26,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Enshrouded One** (Al-Muzzammil) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -279,3 +271,5 @@ It repealed the obligation of staying up for a long time, and granted them conce
 نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا 'half of it, or make it a little less, [ 3] or أَوْ زِدْ عَلَيْهِ make it a little more [ 73:4] '. This is explicative of the exception 'except a little'. A question may be raised here that 'a little' cannot be 'half. The answer is that the earlier portion of the night is spent in the prayer at maghrib and ` isha'. 'Half then refers to the half of the rest of the night. Its total in relation to the whole night amounts to 'a little'. The verse permits to reduce it a little less than half and it also permits to add to it a little more than half. Thus it was compulsory to stay up at least for a little over one fourth of a night for prayer.
 
 ## Personal Reflections
+
+

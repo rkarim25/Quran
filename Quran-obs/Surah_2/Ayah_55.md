@@ -65,15 +65,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (If it had been Your will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us)' Allah revealed to Musa that these seventy men were among those who worshipped the calf. Afterwards, Allah brought them back to life one man at a time, while the rest of them were watching how Allah was bringing them back to life. That is why Allah's said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -126,3 +118,5 @@ This shows that the Children of Israel were required to fulfill the commandments
 Then Sayyidna Musa (علیہ السلام) (Moses) brought the Torah from Mount Tur طور (Sinai) and presented it to the Israelites as the book of Allah, some of them were insolent enough to say that they could not believe it until and unless Allah Himself told them in so many words. With the permission of Allah, Sayyidna Musa (علیہ السلام) replied that even this condition would be fulfilled, if they went with him to Mount Tur طور . The Israelites chose seventy men for this purpose. Arriving there, they heard the words of Allah with their own ears. Now, in their perversity, they invented a new ruse. It was not enough, they said, to hear the speech, for they could not be sure whether it was Allah Himself who had spoken to them or someone else. But they promised that they would be finally convinced if they could see Allah with their own eyes. Since it is beyond the power of a living being to be able to see Allah in the physical world, they had to pay for their impertinence, and were killed by a thunderbolt -- the next verse reports their death.
 
 ## Personal Reflections
+
+

@@ -86,15 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 A woman asked the Holy Prophet ﷺ 'A man gets a double share in the inheritance and the witness of a woman is half as compared with a man - does that mean that we shall be getting a half reward for all of our acts of worship?' Thereupon, the present verse was revealed in which an answer to both these statements has been given. The answer to Sayyidah Umm Salmah ؓ was given by 'and do not covet...' and the answer to the last-mentioned woman was given by 'for men there is a share...'
 
-While describing the background in which the present verse was revealed, which appears in the introductory remarks preceding the Commentary, it was stated that some women, when they found out that men have beers given a share equal to that of two women, wished they were men so that they too would be getting a doubled share. In a relevant manner, the law of inheritance was reiterated in the second verse (33) and it was tersely said that all shares determined therein are based on perfect wisdom and justice.
+While describing the background in which the present verse was revealed, which appears in the introductory remarks preceding the Commentary, it was stated that some women, when they found out that men have beers given a share equal to that of two women, wished they were men so that they too would be getting a doubled share. In a relevant manner, the law of inheritance was reiterated in the second verse (33) and it was tersely said that all shares determined therein are based on perfect wisdom and justice. Since human reason cannot encompass the totality of factors that contribute to the order or disorder of the created universe, it is obvious that it cannot arrive precisely at those elements of wisdom which have been taken Into consideration in determining the laws of Allah Almighty. Therefore, whosoever has been allotted whatsoever share should be pleased with it, and be grateful for it.
 
 ## Tafsir Summary
 
@@ -177,3 +171,5 @@ Inheriting through pledge
 The giving of a share on the basis of a pledge mentioned at the end of verse 33 refers to a practice during the initial period of Islam. This was later abrogated by the verse وَأُولُو الْأَرْ‌حَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ (As for the womb - relatives, some of them are closer to some...) (33:6) Now, if other heirs exist, a pledge or mutual contract between two parties does not affect the inheritance in any manner whatsoever.
 
 ## Personal Reflections
+
+

@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ya Sin** (Ya-Sin) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 There could be a possible doubt here in that the present Surah is Makki, while the event mentioned in these Hadith belongs to Madinah. This could be answered by saying that the verse might as well be in its general sense - that is, the traces of deeds are also written - and that this verse may have been revealed in Makkah. But thereafter, when this event came to pass in Madinah, he mentioned this verse in support. Then he counted footprints too within the effects and traces the writing of which has been mentioned in this verse of the Qur'an. This way the apparent contradiction between these two explanations also stands removed (as explicated and preferred by Ibn Kathir).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -275,3 +267,5 @@ The word: آثارَ (athar: traces or effects) is also used in the sense of foo
 There could be a possible doubt here in that the present Surah is Makki, while the event mentioned in these Hadith belongs to Madinah. This could be answered by saying that the verse might as well be in its general sense - that is, the traces of deeds are also written - and that this verse may have been revealed in Makkah. But thereafter, when this event came to pass in Madinah, he mentioned this verse in support. Then he counted footprints too within the effects and traces the writing of which has been mentioned in this verse of the Qur'an. This way the apparent contradiction between these two explanations also stands removed (as explicated and preferred by Ibn Kathir).
 
 ## Personal Reflections
+
+

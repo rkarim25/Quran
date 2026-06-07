@@ -50,18 +50,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who accuse chaste women, and produce not four witnesses, flog them with eighty stripes, and reject their testimony forever. Except those who repent afterwards and mend their ways; then, Allah is All-Forgiving, Very-Merciful.
@@ -103,3 +91,5 @@ Those who have been punished for false accusation of adultery, if they beg pardo
 This exemption, that isإِلَّا الَّذِينَ تَابُوا refers to only the last sentence of the previous verse according to Imam Abu Hanifah (رح) and some other Imams, which is وَأُولَـٰئِكَ هُمُ الْفَاسِقُونَ (24:4). So, with this exemption it means that the one who is punished for false accusation is a sinner, but if he repents with sincerity and improves himself after obtaining forgiveness from the one he had falsely accused, then he will no longer remain a sinner, and his punishment will be pardoned in the Hereafter. In other words the two punishments meant for this world, which are referred in the beginning of the verse, that is eighty stripes and inadmissibility of his evidence, will remain despite the repentance. It is because the big punishment of stripes has already been executed and the second punishment is part of hadd. All scholars are unanimous on the point that repentance does not remit punishment of hadd, only the torment of the Hereafter is pardoned. Since inadmissibility of the evidence is part of hadd, it will not be remitted by repentance. Imam Shafi'i (رح) and some other Imams have taken this exemption toward all the sentences of the previous verse, which means that as one does not remain sinner after repentance, hence he would also not be debarred from giving evidence. Jassas and Mazhari have provided arguments on both sides - Those interested may consult them.
 
 ## Personal Reflections
+
+

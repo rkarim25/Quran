@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-qamaru
 ---
 
-## Context
-
-To understand **The Moon** (Al-Qamar) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The incident of the shaqq-al-Qamar (splitting of the moon) that has been mentioned in it, determines its period of revelation precisely. The traditionists and commentators are agreed that this incident took place at Mina in Makkah about five years before the Holy Prophet's hijrah to Madinah. Theme and Subject Matter In this Surah the disbelievers of Makkah have been warned for their stubbornness which they had adopted against the invitation of the Holy Prophet (peace and blessings of Allah be upon him).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr. Linkage between Surah An-Najm and Surah Al-Qamar Whereas the preceding Surah An-Najm had ended on a note of warning to disbelievers in the words: اَزِفَۃِ الاٰزِفَۃ azifat-il-` azifah, i.e., the Hour of their doom has drawn near, the present Surah opens with a similar sentence, "The Hour (of doom) has drawn near" and this statement is followed by one of its proofs, that is, the appearance of the miracle of the moon being spli…
@@ -245,3 +233,5 @@ Such a thinking is too simplistic which lacks careful analysis. A careful analys
 Besides, the event is recorded in the famous and reliable history book of India called 'Tarikh-e-Farishtah'. It has been mentioned in this book that the Maharajah, a native ruler, of Malabar had witnessed this phenomenon that night with his own eyes, and had it entered in his diary. This incident was the cause of his embracing Islam. Earlier on the narratives of Abu Dawud Tayalisi and Baihaqi were quoted about the pagans of Makkah themselves who inquired from the people arriving from the neighboring parts of the country and they confirmed and verified that they had seen it. Allah, the Pure and the Exalted, knows best!
 
 ## Personal Reflections
+
+

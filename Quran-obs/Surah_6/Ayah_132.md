@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 132, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did. The sense of the fourth verse (132) is fairly clear.
@@ -111,3 +99,5 @@ Ibn Jarir commented, "All these deeds that they did, O Muhammad, they did while 
 The sense of the fourth verse (132) is fairly clear. It says that with Allah there are ranks for classes of people among human beings and the Jinn. These ranks have been assigned in terms of their deeds. When rewarded or punished, the measure used shall be that of their deeds.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-nāri
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 None disputes in the Ayat of Allah but those who disbelieve. In verse 4, it was said: مَا يُجَادِلُ فِي آيَاتِ اللَّـهِ إِلَّا الَّذِينَ كَفَرُ‌وا (No one quarrels about the verses of Allah, except those who disbelieve.).
@@ -127,3 +115,5 @@ This جِدَال (jidal) declared as: کُفر (kufr) by the Qur'an, and Hadith
 In the last sentence of verse 4, it was said: فَلَا يَغْرُ‌رْ‌كَ تَقَلُّبُهُمْ فِي الْبِلَادِ their [ prosperous ] movements in the cities should not deceive you.). The kuffar (disbelievers) from the tribe of Quraish used to travel to Yemen during winter and to Syria in summer with their trading caravans. They were held in esteem all over Arabia because of their services to Baytullah at Makkah, therefore, they remained safe during their travels and profited from their commercial ventures. This was the backbone of their wealth and territorial power. That this state of affairs with them kept continuing despite the challenge from Islam and the Holy Prophet ﷺ was a matter of pride for them - 'Had we been the culprits in the sight of Allah, all these blessings would have been taken away from us!' This situation could have made even some Muslims easy victims of doubt. Therefore, in this verse, it was said that Allah Ta’ ala had granted them a temporary respite in His wisdom and under His expedient consideration. So, let Muslims not be deceived by this leash given to them. Once this period of respite is over, they are going to be visited by a punishment, and this territorial power of theirs is going to be taken away from them. This started from the Battle of Badr, and up to the Conquest of Makkah, the foreboding manifested itself fully and conclusively within a span of six years.
 
 ## Personal Reflections
+
+

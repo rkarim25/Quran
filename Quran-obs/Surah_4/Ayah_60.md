@@ -132,13 +132,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes. It was reported that the reason behind revealing this Ayah was that a man from the Ansar and a Jew had a dispute, and the Jew said, "Let us refer to Muhammad to judge between us." However, the Muslim man said, "Let us refer to Ka'b bin Al-Ashraf (a Jew) to judge between us." It was also reported that the Ayah was revealed about some hypocrites who pretended to be Muslims, yet they sought to refer to the judgment of Jahiliyyah. Other reasons were also reported behind the revelation of the Ayah. However, the Ayah has a general meaning, as it chastises all those who refrain from referring to the Qur'an and Sunnah for judgment and prefer the judgment of whatever they chose of falsehood, which befits the description of Taghut here. This is why Allah said,
 
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes. It was reported that the reason behind revealing this Ayah was that a man from the Ansar and a Jew had a dispute, and the Jew said, "Let us refer to Muhammad to judge between us." However, the Muslim man said, "Let us refer to Ka'b bin Al-Ashraf (a Jew) to judge between us." It was also reported that the Ayah was revealed about some hypocrites who pretended to be Muslims, yet they sought to refer to the judgment of Jahiliyyah. Other reasons were also reported behind the revelation of the Ayah. However, the Ayah has a general meaning, as it chastises all those who refrain from referring to the Qur'an and Sunnah for judgment and prefer the judgment of whatever they chose of falsehood, which befits the description of Taghut here.
+Also reported are some other incidents of this nature where people had bypassed clear Islamic legal verdict to finally accept the decision of a soothsayer or astrologer. It is possible that the present verse was revealed about all such incidents.
 
 ## Tafsir Summary
 
@@ -243,3 +239,5 @@ Ashraf be the judge in that dispute and, in addition to that, later when the Hol
 The comment which follows immediately employs the word, "Taghut" which has been left un-translated. Lexically, “ Taghut” primarily means one who exceeds the limits.' In usage, the Satan is referred to as Taghut. In this verse, carrying the dispute to Ka'b ibn Ashraf has been equated with carrying it to the Satan. The reason could be that Ka'b ibn Ashraf was himself a satan personified, or it could be that bypassing a decision under the God-given law and preferring a decision contrary to it can only come from the teaching of the Satan. About anyone who follows this course, it is clear that he has virtually taken his case to the court of none else but the Satan. There-fore, right there in the end of this verse, there appears the warning that those who follow the. Satan, the Satan will mislead them to a remote wrong way.
 
 ## Personal Reflections
+
+

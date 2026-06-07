@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 245, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The third group is that of sincere Muslims who lost no time and acted as directed by the verse giving the best of their possessions in the way of Allah, such as is the case of Companion Abu al-Dahdah ؓ and others. When this verse was revealed, Sayyidna Abu al-Dahdah ؓ presented himself before the Holy Prophet ﷺ and asked him: '0 Messenger of Allah, may my father and mother be sacrificed to you, does Allah Almighty need loan from us, although He is Ghani غنی ، the one who needs no loan?' The Holy Prophet ﷺ said: 'Yes, Allah Almighty does wish to grant you entry in Paradise through it.' Hearing this, Sayyidna Abu al-Dahdah ؓ said. 'Let the Messenger of Allah ﷺ stretch his hand forward.' He stretched his hand forward. Now Abu al-Dahdah ؓ started saying:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -228,3 +220,5 @@ The best person among you is the one who fulfils his obligation (loan) in a good
 If increase or premium has been made a condition, then, that is haram (unlawful), and it is riba (interest) as well.
 
 ## Personal Reflections
+
+

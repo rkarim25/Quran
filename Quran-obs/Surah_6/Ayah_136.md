@@ -134,18 +134,6 @@ word_by_word:
     transliteration: yaḥkumūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 136, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name This Surah takes its name from ayah 136 , 138 and 139 in which some superstitious beliefs of the idolatrous Arabs concerning the lawfulness of some cattle ( an`am ) and the unlawfulness of some others have been refuted.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they assign to Allah a share of the tilth and cattle which He has created, and they say: "This is for Allah," according to their claim, "and this is for our partners." But the share of their "partners" reaches not Allah, while the share of Allah reaches their "partners"! In the fourth verse (136), the disbelievers of Arabia have been admonished for a particular error in their behaviour.
@@ -217,3 +205,5 @@ The Admonition for Disbelievers - A Lesson for Muslims
 This is an admonition directed against the waywardness of the disbelievers of Arabia. However, by implication, it holds a sharp lesson for Muslims as well - Muslims who devote their full potential, their life given by Allah, their body and mind, into different sections. They would reserve part of their years and time in life for Allah and His worship - though the right of Allah demanded that all time frames of their living years should have been reserved to obey and worship Him alone. May be, they could have taken out some time for themselves too to take care of human compulsions - and even then, the truth is that the right of Allah that we be grateful to Him would have still remained unfulfilled! But, here we are, in our time and in our places, doing unbelievable things. If, in the twenty four hours of a day and night of our lives, we do get around to fix some time to be devoted to remember Allah and engage ourselves in what we know as His essential ` Ibadah, then strange things start happening. There comes an urgent need, a call or an appointment or something like that, and we be-come pragmatic all of a sudden. The function, the business, the need comes first. No postponement is made in what is pragmatic or personal. The urgency of work stays. The inevitability of rest time stays. The axe falls on nothing but the time which had been fixed for devotion to Allah through prayers and recitation of the Qur'an. This happens most of the time - emergency, urgency, sickness or any other call - what is the first casualty in this rush is nothing but the time that we had ear-marked for our Dhikr and ` Ibadah. We just cannot say how wrong, how ungrateful and how right-compromising this attitude is. May Allah Ta` ala keep us and all Muslims protected from it.
 
 ## Personal Reflections
+
+

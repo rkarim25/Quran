@@ -20,18 +20,6 @@ word_by_word:
     transliteration: mus'taslimūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They will say: "Woe to us! After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَىٰ صِرَ‌اطِ الْجَحِيمِ (and show them the way to Jahannam - 37:23).
@@ -93,3 +81,5 @@ Allah tells us what the disbeliever will say on the Day of Resurrection, how the
 After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَىٰ صِرَ‌اطِ الْجَحِيمِ (and show them the way to Jahannam - 37:23). When the angels will take them away, and reach close to the Bridge of Sirat, they will be commanded: YP (make them stop - they are to be questioned - 37:24). Thereupon, at this place, they will be questioned about their beliefs and deeds - that have been mentioned in the Qur'an and Hadith at many places.
 
 ## Personal Reflections
+
+

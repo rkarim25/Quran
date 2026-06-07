@@ -54,18 +54,6 @@ word_by_word:
     transliteration: ʿamalan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, as for those who believed and did righteous deeds, certainly We shall not make the reward of anyone to be lost who does his (righteous) deeds in the most perfect manner (30)These! Da'wah and Tabligh admit of no discrimination Some events have been mentioned in the background of the revelation of the verse: وَاصْبِرْ‌ نَفْسَكَ (And keep yourself content - 28).
@@ -141,3 +129,5 @@ Pursuant to events of this nature, came the Divine instruction that firmly stopp
 The reason why he was prevented from accepting the advice of the Quraysh chiefs has been given towards the end of the verse. It was said that their hearts were heedless of the remembrance of Allah, everything they did was subservient to their physical desires and these conditions guaranteed that they would stand alienated far from the mercy and support of Allah Ta` ala.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: lamunqalibūna
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed if you ask them: "Who has created the heavens and the earth?" They will surely say: "The All-Mighty, the All-Knower created them. وَإِنَّا إِلَىٰ رَ‌بِّنَا لَمُنقَلِبُونَ (and of course, towards our Lord we have to return - 14).
@@ -117,3 +105,5 @@ Allah says: 'If you, O Muhammad, were to ask these idolators who associate other
 وَإِنَّا إِلَىٰ رَ‌بِّنَا لَمُنقَلِبُونَ (and of course, towards our Lord we have to return - 14). These words teach us that every time a man embarks on a journey, he should think of his last arduous journey to the Hereafter also, which one has to undertake in all circumstances; - and the only way to make it easy is to have a vehicle of good deeds.
 
 ## Personal Reflections
+
+

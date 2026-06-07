@@ -49,15 +49,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 What is this writ and what does it mean? According to a narration from Sayyidna Abu Hurairah ؓ reported in Tirmidhi, the Holy Prophet ﷺ said: Spoils were not lawful for any community before you. When, on the occasion of Badr, Muslims went after collecting spoils - though, spoils were not made lawful for them until that time - this verse was revealed. It emphasized that this initiative taken by Muslims, before the injunction making spoils lawful for them was revealed, was a sin which deserved instant punishment. But, since the writ of Allah that spoils shall be made lawful for this community was already there in the Preserved Tablet, therefore, punishment was not sent over Muslims for this misconduct. (Mazhari)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -138,3 +130,5 @@ What is this writ and what does it mean? According to a narration from Sayyidna 
 It appears in Hadith narrations that, subsequent to the revelation of this verse, the Holy Prophet ﷺ said: The Divine punishment was almost about to descend when Allah, in His grace, held it back and had this punishment come, no one except ` Umar ibn al-Khattab and Sa'd ibn Mu` adh ؓ would have remained safe from it. This tells us that the cause of Divine admonition was the act of releasing prisoners against ransom - and, in the light of the narration from Tirmidhi mentioned earlier, the reason seems to be the act of collecting spoils. But, there appears to be no contradiction between the two. Taking ransom from prisoners is also nothing but a part of spoils.
 
 ## Personal Reflections
+
+

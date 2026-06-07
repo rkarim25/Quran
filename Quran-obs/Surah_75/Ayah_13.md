@@ -29,18 +29,6 @@ word_by_word:
     transliteration: wa-akhara
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَ (Man will be informed of what he sent ahead, and what he left behind....75:13).
@@ -212,3 +200,5 @@ Qatadah said, "This means he is a witness against himself." In another narration
 يُنَبَّؤُا الْاِنْسَانُ يَوْمَىِٕذٍۢ بِمَا قَدَّمَ وَاَخَّرَ (Man will be informed of what he sent ahead, and what he left behind....75:13). Sayyidna ` Abdullah Ibn Masud and Ibn ` Abbas are reported to have said that 'what he sent ahead' refers to the good deeds he has sent forth before his death. The words 'what he left behind' refers to the good or bad, useful or harmful custom he invented and left behind which people follow. He will continue to receive its reward or punishment. Qatadah said that 'what he sent ahead' refers to a good deed he did in his lifetime; and 'what he left behind' refers to a good deed he could have done but did not do and wasted his time or opportunity.
 
 ## Personal Reflections
+
+

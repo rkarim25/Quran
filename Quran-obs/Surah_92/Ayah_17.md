@@ -14,17 +14,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night** (Al-Layl) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Layl is a **Makkah** surah—revealed as the 9th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 21 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this. There is no doubt that he is included in the meaning of these Ayat, and that he is the most deserving of the Ummah to be described with these characteristics in general, for indeed, the wording of these Ayat is general. As in Allah's saying,
 
 The wordings of the verse give good news, in general, to anyone who spends in Allah's cause in a state of faith, but the occasion of revelation indicates that atqa refers to Sayyidna Abu Bakr As-Siddiq ؓ in particular. Ibn Abi Hatim reports from Sayyidna 'Urwah ؓ that seven Muslims had been enslaved by the Makkan disbelievers. When they became Muslims, they were persecuted in a variety of ways. Sayyidna Abu Bakr ؓ spent a great amount of his money, and purchased them and set them free. Verses [ 17-21] were revealed on this occasion. [ Mazhari ]
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -171,3 +163,5 @@ This is the end of the Tafsir of Surat Al-Layl, and all praise and thanks are du
 The wordings of the verse give good news, in general, to anyone who spends in Allah's cause in a state of faith, but the occasion of revelation indicates that atqa refers to Sayyidna Abu Bakr As-Siddiq ؓ in particular. Ibn Abi Hatim reports from Sayyidna 'Urwah ؓ that seven Muslims had been enslaved by the Makkan disbelievers. When they became Muslims, they were persecuted in a variety of ways. Sayyidna Abu Bakr ؓ spent a great amount of his money, and purchased them and set them free. Verses [ 17-21] were revealed on this occasion. [ Mazhari ]
 
 ## Personal Reflections
+
+

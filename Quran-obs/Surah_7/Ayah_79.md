@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-nāṣiḥīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then he [Salih] turned from them, and said: "O my people! Other verses of the Qur'an have also mentioned: فَأَخَذَتْهُمُ الصَّيْحَةُ (that is, a Cry or Sound seized them - 15:83).
@@ -122,3 +110,5 @@ From the outward arrangement of the text, it appears that Sayyidna Salih (علی
 The question is when his people have been destroyed by the punishment, what is the use of addressing them now. The answer is that one good that may come out of it is that people in general would learn their lesson. This form of address resembles the address of the Holy Prophet ﷺ when he had said a few words addressing dead disbelievers from the tribe of Quraysh in the Battle of Badr. And then, it is also possible that this saying of Sayyidna Salih (علیہ السلام) came to pass before the coming of the punishment and the destruction of his people - though, in the textual arrangement, it has been mentioned later.
 
 ## Personal Reflections
+
+

@@ -171,17 +171,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This verse was revealed at the time of the battle of Ahzab, when the Arab disbelievers and other groups joined together and suddenly attacked Madinah. After consultations with the companions, the Holy Prophet ﷺ consented to dig up a trench to defend against the attack. For this reason this battle is also known as 'the battle of trench (Khandaq) '. This battle was fought in Shawwal 5th Hijra. (Qurtubi)
 
 Baihaqi and Ibn Ishaq have reported that the Holy Prophet ﷺ himself had taken part in the digging of the trench. But the hypocrites used to come late in the first place, and after doing a little bit of work just to show their presence, would sneak away quietly. As against this all the believers were putting in their best, and in case of any need or emergency would take permission from the Holy Prophet ﷺ before leaving the work. At that point this verse was revealed. (Mazhari)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -236,3 +228,5 @@ The second injunction
 The second injunction is given in the last verse:
 
 ## Personal Reflections
+
+

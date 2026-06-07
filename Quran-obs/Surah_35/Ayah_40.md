@@ -145,15 +145,7 @@ word_by_word:
 
 ## Context
 
-To understand **Originator** (Fatir) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Or have We given them a Book, so that they act on clear proof therefrom?) meaning, 'have We revealed to them a Book on which they base their Shirk and disbelief?' This is not the case at all.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -212,3 +204,5 @@ Commentary
 The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ (He is the One who has made you successors (of the past generations) in the earth.) is the plural of: خَلِیفَہ (khalifah) which means deputy or vice-regent. The general sense is that Allah Ta’ ala has let human beings have lands and houses that keep passing on from one to the other. In this phenomena, there is a great lesson - turn to Allah. Then, the statement could also be taken to have been addressed to the ummah of the Holy Prophet t saying, 'After past communities, We made you take their place with authority to make life better around you, so it is your duty that you learn your lesson from what happened to people earlier than you, and hence you, on your part, do not while away precious moments of your life in negligence.
 
 ## Personal Reflections
+
+

@@ -76,18 +76,6 @@ word_by_word:
     transliteration: yaḥkumūna
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah also has not been mentioned in any authentic tradition, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or do those who earn evil deeds think that We shall hold them equal with those who believe and do righteous good deeds, in their present life and after their death? The Hereafter: Divine Requital is Rationally Necessary Of the two verses mentioned, the first one argues rationally that Divine reward and punishment are necessary.
@@ -165,3 +153,5 @@ Of the two verses mentioned, the first one argues rationally that Divine reward 
 In short, the need for the Day of Requital may be denied only when it is conceded that there is no such thing as good and bad; or that whatever one acquires, by fair means or foul, it is absolutely rewardable. But no one accepts this position. Similarly it is absurd to believe that there is distinction between good and evil, but the consequences are equal, rather the criminal should have a more comfortable life than the righteous and innocent ones. There could be no greater degree of wrong than this. It is to this absurd judgment that the Qur'an refers in سَوَاءً مَّحْيَاهُمْ وَمَمَاتُهُمْ...so as their life and death becomes equal? Evil is what they judge... 45:21) ". It is a very unreasonable and unjustifiable position that evil-doers should be placed on the same pedestal as the righteous persons. Since the reward and punishment in this world are not given in full measure, then it necessarily follows that there should be life after death in the Hereafter where reward and punishment will be paid in full measure. Thus the second verse in the set complements the same subject –وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ ...and so that everybody is recompensed for what he (or she) earned. And they will not be wronged. - 45:22). In other words, the Day of Requital is necessary in order to wipe out wrong and injustice. As for the question, why the people are not requited or recompensed for the good or bad deeds in this world, we would respond that this is not in keeping with the Divine wisdom of creation: He made this world the ` domain of deeds and test-n-trial', not the ` domain of requital'. Allah knows best!
 
 ## Personal Reflections
+
+

@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Mutual Disillusion** (At-Taghabun) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Taghabun is a **Madinah** surah—revealed as the 108th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 فَاتَّقُوا اللَّـهَ مَا اسْتَطَعْتُمْ (So, observe taqwa [ total obedience to Allah in awe of Him ] as far as you can…64:16). When the verse اتَّقُوا اللَّـهَ حَقَّ تُقَاتِهِ (…Observe taqwa as is His due…3:102] was revealed, the blessed Companions felt it very difficult, because it was impossible for anyone to observe taqwa of Allah ‘as is due to Him’. On that occasion, the present verse was revealed which clarified that no imposition is made on man more than he can bear. Taqwa too must be observed as far as it is possible for man to observe. If a person tries to obey Allah’ s due. [ Ruh – condensed ]
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -193,3 +185,5 @@ Surah At-Taghabun
 Ends here
 
 ## Personal Reflections
+
+

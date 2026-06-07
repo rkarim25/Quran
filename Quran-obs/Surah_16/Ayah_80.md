@@ -110,18 +110,6 @@ word_by_word:
     transliteration: ḥīnin
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Allah had made your homes a place of rest for you, and made dwellings for you out of the hides of the cattle which you find so light when you travel and when you camp; and furnishings and articles of convenience out… In the statement: وَاللَّـهُ جَعَلَ لَكُم مِّن بُيُوتِكُمْ سَكَنًا (And Allah has made for you of your houses a place of comfort - 80), the word: بُيُوتِ (buyut) is the plural of bayt (بَیت) which means a house where night could be spent.
@@ -213,3 +201,5 @@ The Qur'an manifests the 'elan vital, the essence and the root of everything. He
 The statement: مِّن جُلُودِ الْأَنْعَامِ (from the hides of the cattle - 80) and the statement: أَصْوَافِهَا وَأَوْبَارِ‌هَا out of their wool and their fur and their hair 80) prove that it is Halal to use everything out of the hide, wool and hair of animals. Here, even the restriction that the animal be properly slaughtered or be a dead animal does not exist, nor is there any restriction as to their meat being Halal or Haram. It is perfectly Halal to use the hides of the animals of this kind by tanning them, and as for hair and wool, the death of the animal leaves just no effect on them. That remains halal and permissible without any specific technical treatment. This is the Madhab (creed) of the great Imam, Abu Hanifah. However, the hide of swine and all parts thereof are unclean and unfit for use under all conditions.
 
 ## Personal Reflections
+
+

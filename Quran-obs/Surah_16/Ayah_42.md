@@ -27,15 +27,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah tells us about the reward of those who migrated for His sake, seeking His pleasure, those who left their homeland behind, brothers and friends, hoping for the reward of Allah. This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord. Among the most prominent of these migrants were 'Uthman bin 'Affan and his wife Ruqayyah, the daughter of the Messenger of Allah ﷺ, Ja'far bin Abi Talib, the cousin of the Messenger ﷺ, and Abu Salamah bin 'Abdul-Asad, among a group of almost eighty sincere and faithful men and women, may Allah be pleased with them. Allah promised them a great reward in this world and the next. Allah said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -122,3 +114,5 @@ These six kinds belong to migration undertaken to run for safety against somethi
 9. The journey to visit relatives and friends: This too has been classed as an act deserving of return and reward. A Hadith of Sahih Muslim mentions the prayer of angels in favour of those who undertake a journey to visit relatives and friends (which is valid only when the purpose of meeting them is to seek the pleasure of Allah Ta ale and not to seek any material gains). Allah knows best. (Qurtubi, p. 349-351, v. 5, Surah An-Nisa' )
 
 ## Personal Reflections
+
+

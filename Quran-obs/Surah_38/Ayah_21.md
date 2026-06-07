@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-miḥ'rāba
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And has the news of the litigants reached you? In these verses, Allah Ta'ala has mentioned an event relating to Sayyidna Dawud (علیہ السلام) .
@@ -148,3 +136,5 @@ Most commentators have preferred the last two explanations, and they find suppor
 In the first verse (21), it was said: إِذْ تَسَوَّرُ‌وا الْمِحْرَ‌ابَ (when they entered the sanctuary by climbing over the wall?). The word: مِحْرَ‌اب (mihrab) is essentially applied to an elevated chamber, or the front elevation of a house. Later, the front portion of a mosque or any other House of Worship came to be called by that name in particular. In the Qur'an, this word has been used in the sense of a place of worship. ` Allamah Suyuti has written that contemporary arched mihrabs of mosques in vogue now were not present during the time of the Holy Prophet ﷺ (Ruh-al-Ma’ ani).
 
 ## Personal Reflections
+
+

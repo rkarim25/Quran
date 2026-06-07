@@ -38,18 +38,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-17-33 , the parable of the owners of a garden has been presented, who after having been blessed by Allah turned ungrateful to Him, and did not heed the admonition of the best man among them when it was given them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). كَذَٰلِكَ الْعَذَابُ (In this way the punishment comes.
@@ -173,3 +161,5 @@ These verses give a solid proof to the necessity of the Day of Judgment, because
 One may argue that a criminal is apprehended, he is exposed to disgrace and is punished. This distinguishes the innocent persons from the evil ones right here in this world. Laws and statutes of a government’ s establish standards of justice and fair play. But this is incorrect, because it is not possible for a government to keep an eye on every one, everywhere and in all circumstances. Wherever it does happen, it is not an easy task to gather the necessary judicial evidence, so that the guilty person may be convicted and punished. And even if the judicial evidence could be gathered, there are several escape doors through which the guilty person could get away, such as force, bribery, intercession and pressure. If we review the punishment history of the present-day governments and courts, it would appear that nowadays only those people are punished who are fools, brainless and helpless or without support. They are not cunning enough to find a loophole in the legal system, or an escape route, nor do they have enough money to pay for bribery, nor do they have an influential person to back them or intercede on their behalf or they cannot use these things because of their foolishness. The rest of the criminals are moving freely.
 
 ## Personal Reflections
+
+

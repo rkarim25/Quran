@@ -65,15 +65,7 @@ word_by_word:
 
 ## Context
 
-To understand **Sheba** (Saba) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before Muhammad ﷺ. They used to wish for that and say, 'if only a warner comes to us or a Book is revealed to us, we would be more guided than others,' but when Allah blessed them with that, they disbelieved him and stubbornly rejected him. Then Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -132,3 +124,5 @@ Commentary
 The word: مِعْشَارَ‌ (mi'shar) in verse 45: وَمَا بَلَغُوا مِعْشَارَ‌ مَا آتَيْنَاهُمْ (while these (infidels of Makkah) have not reached even one tenth of what We gave to those (before them) has been taken to mean: عُشُر ('ushr: a tenth) by some early commentators. Some scholars have interpreted it as: عُشرُ العُشر (ushr-ul-` ushr: a hundredth) while others call it: عُشرُ العَشِیر (` ushr-ul ` ashir: a thousandth). Obviously, the later has a higher degree of exaggeration as compared to 'ushr or ten. The sense of the verse is that not even a tenth, rather a thousandth, of the worldly wealth, power, blessings of age and health given to earlier communities was received by the people of Makkah. Therefore, they should take lesson from what happened to past communities and the evil end they faced. These were people who invited upon themselves the wrath of Allah when they rejected prophets and messengers and, consequently, when came the actual punishment, their power, bravery, wealth and fortified fortresses could do nothing for them.
 
 ## Personal Reflections
+
+

@@ -34,18 +34,6 @@ word_by_word:
     transliteration: l-ghābirīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then We saved him and his family, except his wife; she was of the Ghabirin (those who lagged behind)(83)And We rained down on them a rain (of stones). Mentioned in the fourth (83) and the fifth (84) verses is the Divine punishment given to the people of Sadum for their crooked and immodest practice.
@@ -95,3 +83,5 @@ Mentioned in the fourth (83) and the fifth (84) verses is the Divine punishment 
 Sayyidna Lut (علیہ السلام) followed the Divine command. He went out of the limits of Sadum with his family and companions late in the night. There are two reports about the wife: (1)-She just did not go with them; (2)-That she did start off with them and walked on for a while, but since she was eager to see the fate of the people she had left behind, quite contrary to the initial Divine command, she was seized by the punishment. This event has been mentioned in the Qur'an at several occasions in varying details. Here, in the fourth verse (83), it has been briefly said that Allah Ta` ala saved Sayyidna Lut (علیہ السلام) and his family and companions from the punishment, but his wife was left with the rest in it. The additional details of how they were saved and how they were asked to leave the habitation late in night and were not to look back appear in other verses.
 
 ## Personal Reflections
+
+

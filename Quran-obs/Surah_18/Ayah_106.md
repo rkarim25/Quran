@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 106, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink there, and the Haruriyyah are those who break Allah's covenant after ratifying it.' Sa'd used to call them Al-Fasiqin (the corrupt). 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others. This does not mean that the Ayah was revealed concerning any of these groups in particular; it is more general than that, because the Ayah was revealed in Makkah, before the Qur'an addressed the Jews and Christians, and before the Khawarij existed at all. So the Ayah is general and refers to everyone who worships Allah in a way that is not acceptable, thinking that he is right in doing that and that his deeds will be accepted, but he is mistaken and his deeds will be rejected, as Allah says:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -127,3 +119,5 @@ According to a Hadith of Sayyidna Abu Hurairah ؓ appearing in the Sahih of al-B
 Sayyidna Abu Said al-Khudri says: ' (on the day of Qiyamah) deeds as big as the mountains of Tihamah will be brought in. But, they will carry no weight on the balance of justice.' (Qurtubi)
 
 ## Personal Reflections
+
+

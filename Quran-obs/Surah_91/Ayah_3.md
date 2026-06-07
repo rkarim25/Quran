@@ -16,18 +16,6 @@ word_by_word:
     transliteration: jallāhā
 ---
 
-## Context
-
-To understand **The Sun** (Ash-Shams) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shams is a **Makkah** surah—revealed as the 26th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 15 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَالنَّهَارِ‌ إِذَا جَلَّاهَا (and by the day when it shows its brightness...91:3).
@@ -217,3 +205,5 @@ Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and w
 وَالنَّهَارِ‌ إِذَا جَلَّاهَا (and by the day when it shows its brightness...91:3). The attached pronoun ha 'its' may possibly refer to the earth or the world, although neither of the nouns precedes it. Such usage in Arabic is commonplace, especially if the phenomenon, such as the earth or the world, with which man is generally familiar. In such a case Arabs commonly refer to the phenomenon simply by using a pronoun without making prior reference to it. The addressee understands the meaning by implication. The Qur'an has many examples of, and bears ample testimony to, this grammatical phenomenon. The verse thus signifies 'by the day and by the world or the earth which the day has brightened up'. In other words, 'by the day when it is fully bright'. Another possibility, which is more pertinent to the context, is that the pronoun 'its' refers to the 'sun' in which case it signifies 'by the day when it brightens up the sun'. This relation of attribution, in this case, would be a metaphorical relationship. Although the sun is usually understood to be the cause of the day to come out, here the day is said to brighten up the sun. Thus the verse would signify 'when the sun is seen brightened up because the day is out.
 
 ## Personal Reflections
+
+

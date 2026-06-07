@@ -20,18 +20,6 @@ word_by_word:
     transliteration: saqīmun
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 145, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… In verse 145, it was said: فَنَبَذْنَاهُ بِالْعَرَ‌اءِ وَهُوَ سَقِيمٌ (Then We cast him ashore in the open while he was ill.) The word: اَلعراء (al-'ara) used in the text means an open land with no trees.
@@ -141,3 +129,5 @@ Some of them mentioned that the squash has a number of benefits: it grows quickl
 In verse 145, it was said: فَنَبَذْنَاهُ بِالْعَرَ‌اءِ وَهُوَ سَقِيمٌ (Then We cast him ashore in the open while he was ill.) The word: اَلعراء (al-'ara) used in the text means an open land with no trees. Some narrations tell us that, at that time, Sayyidna Yunus (علیہ السلام) had become very weak because of having remained confined within the belly of the fish and that he had no hair left on his body.
 
 ## Personal Reflections
+
+

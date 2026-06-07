@@ -105,18 +105,6 @@ word_by_word:
     transliteration: tadhakkarūna
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah also has not been mentioned in any authentic tradition, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or do those who earn evil deeds think that We shall hold them equal with those who believe and do righteous good deeds, in their present life and after their death? مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ ("Have you seen him who has taken his desires as his god...45:23) In other words, he who has made his selfish desires his object of worship.
@@ -196,3 +184,5 @@ Commentary
 In this couplet, the poet has portrayed selfish desires as statues. He who takes his desires as his leader and follows them is as good as their worshipper, that is why they have been described as their deities. Sayyidna Abu ` Umamah narrates that the Messenger of Allah ﷺ said: "Of all the deities worshipped under the firmament of the earth, the most detestable one in the sight of Allah is hawa, that is, selfish desires. Sayyidna Shaddad Ibn ` Aws ؓ narrates that the Messenger of Allah ﷺٍ said: "A wise person is he who keeps his desires under control and works for life after death; and sinful is he who runs after his desires and yet expects the best in the Hereafter." Sayyidna Sahl Ibn ` Abdullah Tustari ؓ said: "Your ailment is your selfish desires. And if you oppose them, it will turn into your cure." (All these narratives have been adapted from Qurtubi).
 
 ## Personal Reflections
+
+

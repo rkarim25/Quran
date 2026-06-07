@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This verse presents an argument to prove the prophethood of Sayyidna Muhammad ﷺ by referring to happenings in the lives of Sayyidna Zakariyya (علیہ السلام) and Sayyidah Maryam. These took place in the remote past and there is no likelihood of their being seen or heard or read, specially so, by the Holy Prophet ﷺ which by itself proves that his being so informed of the unknown was beyond the ordinary course of learning. He had just no way of finding out such details by any obvious means at his command. Hence, the truth is that this information was revealed to him as part of the message he gave to others. The text very eloquently states that the Holy Prophet ﷺ was not there to see them drawing lots (by throwing their reed pens in water,. based on prior agreement that the owner of the pen which flows against the current shall be the winner), nor was he present on the scene when they were initially quarreling about the custody of Maryam before agreeing upon the drawing of lots.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -167,3 +159,5 @@ The rule governing قُرعَہ Qur'ah (to the drawing of lots) according to Han
 In other words, it can be said that in a situation where the rights of all parties are equal and the purpose of the lot is only to allocate equal portions to each of them and to decide as to which portion is for whom, then drawing a lot is permissible.
 
 ## Personal Reflections
+
+

@@ -36,15 +36,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (If it had been Your will, You could have destroyed them and me before; would You destroy us for the deeds of the foolish ones among us)' Allah revealed to Musa that these seventy men were among those who worshipped the calf. Afterwards, Allah brought them back to life one man at a time, while the rest of them were watching how Allah was bringing them back to life. That is why Allah's said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -97,3 +89,5 @@ This shows that the Children of Israel were required to fulfill the commandments
 This verse refers to death, which suggests that the thunderbolt had killed them. Since the Israelites had always been mistrusting Sayyidna Musa (علیہ السلام) ، he feared that they would suspect him of having taken the men to a solitary place and got them slaughtered. So, he prayed to Allah to save him from such a vile accusation. Allah granted his prayer, and gave those a new life.
 
 ## Personal Reflections
+
+

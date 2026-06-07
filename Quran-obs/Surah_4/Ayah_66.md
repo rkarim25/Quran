@@ -119,17 +119,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whoever obeys Allah and the Messenger, then they will be in the company of those on whom Allah has bestowed His grace, of the Prophets, the true believers, the martyrs, and the righteous. And how excellent these companions are!) was revealed to him." This was collected by Al-Hafiz Abu 'Abdullah Al-Maqdisi in his book, Sifat Al-Jannah, he then commented, "I do not see problems with this chain." And Allah knows best. Muslim recorded that Rabi'ah bin Ka'b Al-Aslami said, "I used to sleep at the Prophet's house and bring him his water for ablution and his needs. He once said to me, 'Ask me.' I said, 'O Messenger of Allah! I ask that I be your companion in Paradise.' He said, 'Anything except that?' I said, 'Only that.' He said,
 
 The present verses and those appearing immediately earlier were revealed in the background of an incident relating to Bishr, the hypocrite. As we already know, he had first proposed Ka'b Ibn Ashraf, the Jew as the adjudicator of his dispute, but, later on, mutual discussions forced him to go to the Holy Prophet ﷺ for this purpose.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -256,3 +248,5 @@ Towards the end of the verse (66), it has been said that, difficult though it ma
 This great reward promised here in the end of verse 67 for those who obey Allah and His Messenger has been described immediately after in verses 69 and 70 which follow with detailed explanations of the promised ranks. it.
 
 ## Personal Reflections
+
+

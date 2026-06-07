@@ -63,18 +63,6 @@ word_by_word:
     transliteration: mukh'liṣūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 139, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say (O Muhammad ﷺ to the Jews and Christians), "Dispute you with us about Allah while He is our Lord and your Lord? These three verses bring to an end the section of the Surah in which certain claims of the Jews and the Christians have been refuted -- for example, their assertion that Sayyidna Ibrahim (علیہ السلام) (Abraham), Sayyidna…
@@ -162,3 +150,5 @@ Verse 139 brings out the essential and peculiar characteristic of the Islamic Um
 Nor should we forget another serious aspect of the problem. There is another allied notion of "sincerity" which has been disturbing the peace of many pious people even in the past, but which has acquired a devastating intensity in our own days. This notion of "sincerity" demands one to seek fixity and unrelieved continuity in an emotional state, which is, of course, not possible for man as he is constituted. It so happens with some pious people that once they start seeking this kind of "sincerity" in offering their enjoined prayers, they find that they cannot keep up an unbroken concentration of mind, and are so frightened by this lapse that they sometimes give up offering their prayers, believing such worship to be "insincere" and hence invalid. Let us make it clear once for all that the only thing the Shari` ah requires from us is to have the correct intention and attitude when we begin our prayers or perform any other good deed. This alone is the pre-requisite for attaining Ikhlas اخلاص ، which, anyhow, is not a matter of emotions and affective states. In short, Islam requires us to perfect the quality of Ikhlas اخلاص as defined by the Shari'ah, and not to seek "sincerity" in the Western sense of the term, ancient or modern. For an elaborate treatment of the subject, see Tarbiyyah al-Salik تربیہ السالک by Maulana Ashraf ` Ali Thanavi (رح) .
 
 ## Personal Reflections
+
+

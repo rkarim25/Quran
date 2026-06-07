@@ -21,18 +21,6 @@ word_by_word:
     transliteration: aḥḍarat
 ---
 
-## Context
-
-To understand **The Overthrowing** (At-Takwir) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, عَلِمَتْ نَفْسٌ مَّا أَحْضَرَ‌تْ (then everyone will know what he [ or she ] has put forward...
@@ -272,3 +260,5 @@ Concerning Allah's statement,
 Having described the horrors of Resurrection, and the accountability of deeds, Allah swears an oath by a few stars to confirms that the Qur'an is the truth that has been sent down, fully protected from any interruption or distortion, and that the Prophet ﷺ who has received it is a great personality, and the angel (Jibra'il علیہ السلام) who descended with it was known to him before hand. Therefore, there can be no room for any doubt about its veracity. The verses here swear an oath by five stars which the ancient Greeks called khamsah mutahayyirah or 'the five wandering stars', since they seemed to stray irregularly across the sky. At times they are seen moving from East to West, and at others, from West to East. Different reasons have been assigned to their irregular movements. The ancient Greeks hold several contradictory explanations for this. The research of modern scientists concurs with some of the ancient philosophers, and differs from some others. The Creator alone knows the truth and reality. The scientists merely guess and conjecture which may be wrong. The Qur'an has, therefore, not involved its readers in such a useless debate. Allah showed us what was beneficial, that is, to observe the Divine Omnipotence, His Consummate Wisdom and to repose our faith in Him.
 
 ## Personal Reflections
+
+

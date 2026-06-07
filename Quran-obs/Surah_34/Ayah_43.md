@@ -148,15 +148,7 @@ word_by_word:
 
 ## Context
 
-To understand **Sheba** (Saba) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before Muhammad ﷺ. They used to wish for that and say, 'if only a warner comes to us or a Book is revealed to us, we would be more guided than others,' but when Allah blessed them with that, they disbelieved him and stubbornly rejected him. Then Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -233,3 +225,5 @@ The hint embedded in this verse also tells us that as long as the things of use 
 Once the Arabs tapered down their use of camels for riding and transport purposes, the usual increase in the populations of their camels has also gone down. Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 
 ## Personal Reflections
+
+

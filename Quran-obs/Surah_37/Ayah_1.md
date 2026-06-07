@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **Those who set the Ranks** (As-Saffat) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This Surah is Makki, that is, it was revealed in Makkah al-Mukarramah. Like other Makki Surahs, matters of faith have been taken up as its essential subject. In it, beliefs about Divine Oneness, the mission of messengers and the certain eventuality of the Hereafter have been fortified with proofs presented in various ways. As a corollary, a refutation of the beliefs of Mushriks as well as the scenes of Paradise and Hell also appear in the Surah. After providing rational support for beliefs that formed part of the call of the noble prophets (علیہم السلام) and after removing doubts and objections raised by disbelievers, the Surah describes how Allah Ta’ ala dealt with those who embraced these beliefs in the past and what was the fate of those who opted to take the road to denial and disbelief? Accordingly, in that wise, events relating to Sayyidna Nuh, Ibrahim, Musa, Harun, Ilyas, Lut and Yunus (علیہم السلام) have been mentioned, briefly at some places and in details at others.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -137,3 +129,5 @@ So this is not for angels only. Human beings too have been induced to and bound 
 So many ahadith stressing on the need to make rows complete and keep them straight in Salah have appeared that they could fill an independent treatise on the subject. Sayyidna Abu Mas'ud al-Badri ؓ says that the Holy Prophet ﷺ would touch our shoulders with his blessed hand during Salah and say, "Stand straight, do not step ahead or fall behind, otherwise, it will cause dissension to creep up in your hearts." (Jam' al-Fawa'id, with reference to Muslim and an-Nasa'i, p. 91, v.1)
 
 ## Personal Reflections
+
+

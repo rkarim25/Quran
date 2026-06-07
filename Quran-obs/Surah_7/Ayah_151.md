@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-rāḥimīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 151, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when Musa returned to his people, angry and grieved, he said: "What an evil thing is that which you have done during my absence. Thereafter he turned to the Prophet Harun (علیہ السلام) and grasped the hair of his head.
@@ -133,3 +121,5 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ said
 Thereafter he turned to the Prophet Harun (علیہ السلام) and grasped the hair of his head. The Prophet Harun (علیہ السلام) then gave him the true account of the events and said that it was not his fault, for he stopped them from this wicked act but they did not listen to him. They were so obstinate about it that they were about to kill him. He said that he should not count him among the ignorant people and should not let his enemies laugh at him by treating him in that way. This made the Prophet Musa (علیہ السلام) cool down. At this occasion, he prayed to Allah, saying, رَ‌بِّ اغْفِرْ‌ لِي وَلِأَخِي وَأَدْخِلْنَا فِي رَ‌حْمَتِكَ ۖ وَأَنتَ أَرْ‌حَمُ الرَّ‌احِمِينَ "My Lord, forgive me and my brother, and admit us to Your mercy, and You are the most merciful of all those who show mercy." He asked forgiveness for his brother for any of his shortcoming with regard to his duties. He asked forgiveness for himself either for his putting away the tablets of the Torah in a hurry which the Holy Qur'an had described as having been 'dropped' to make a gesture of warning, or perhaps, for educating people that they should include themselves while asking forgiveness for others to preclude the sense of complacency on their part.
 
 ## Personal Reflections
+
+

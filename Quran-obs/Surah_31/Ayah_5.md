@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-muf'liḥūna
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A perusal of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The words: يُؤْتُونَ الزَّكَاةَ (pay Zakah) in Verse 4 carry the injunction of Zakah, although the verse is Makki.
@@ -83,3 +71,5 @@ The words: يُؤْتُونَ الزَّكَاةَ (pay Zakah) in Verse 4 carry 
 Ibn Kathir while commenting on verse 20 of Surah Al-Muzzammil: وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ (Establish Salah and pay Zakah - 73:20) has arrived at the same conclusion, because Surah Al-Muzzammil as one of the Makki surahs was revealed during the very initial period of the revelation of the Qur'an. This tells us that the way Salah and Zakah have been described mostly side by side in the verses of the Qur'an, its obligation had also taken effect side by side. Allah knows best.
 
 ## Personal Reflections
+
+

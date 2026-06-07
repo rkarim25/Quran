@@ -71,18 +71,6 @@ word_by_word:
     transliteration: yūqinūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when the Word is fulfilled against them, We shall bring out from the earth a beast for them, to speak to them because mankind believed not with certainty in Our Ayat (82) The Emergence Of the Beast Of the Earth The nature of the beast coming out of the earth, and its time and place It is reported in Musnad of Ahmad on the authority of Sayyidna Hudhaifah ؓ that the Holy Prophet ﷺ said that the Doomsday would not come until you witness ten signs of it.
@@ -188,3 +176,5 @@ Shaikh Jalaluddin Mahalli (رح) has said that after the appearance of Dabbah th
 As for the question as to what this Dabbah will converse with people, some commentators are of the view that it will communicate what is stated in the Qur'an, that is أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا يُوقِنُونَ (that the human beings did not believe in Our verses). It will communicate the message on behalf of Allah Ta` ala that ` Many did not believe Our verses before this'. It would mean that now the time has come that every one would believe, but then it would be too late, because it would not be acceptable then. Sayyidna Ibn ` Abbas ؓ ، Hasan Al-Basri, Qatadah رحمۃ اللہ علیہما ، have reported, which is corroborated by a narration of Sayyidna also, that the Dabbah will converse with people normally, as people do among themselves (Ibn Kathir).
 
 ## Personal Reflections
+
+

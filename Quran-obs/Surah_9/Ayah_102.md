@@ -78,17 +78,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 102, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These people admitted their error to themselves and their Lord. They had performed good deeds before, as well as, this evil deed that they committed. For them there was forgiveness and pardon of Allah. This Ayah is general, covering all sinners who combine good and evil deeds, thus becoming partly impure, even though it was revealed about some people in specific. Ibn 'Abbas said that,
 
 (And (there are) others), refers to Abu Lubabah and some of his friends who stayed away from the battle of Tabuk and the Messenger of Allah ﷺ. When the Messenger of Allah ﷺ returned from that battle, this group, Abu Lubabah and five, seven or nine with him, tied themselves to the pillars of the Masjid and refused to let anyone untie them except the Messenger of Allah ﷺ. When this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ It appears in Tafsir al-Qurtubi that this verse though revealed about a particul
 Abu ` Uthman ؓ has said, ` this verse of the Holy Qur'an brings great hope for this ummah.' A detailed Hadith relating to the Ascension of the Holy Prophet ﷺ appearing in the Sahih of Al-Bukhari on the authority of Sayyidna Samurah ibn Jundub ؓ says, ` On the seventh heaven, when the Holy Prophet ﷺ met with Sayyidna Ibrahim (علیہ السلام) ، he saw some people with him whose faces were bright. And some of them had some spots and stains on their faces. When these people went into a stream and came out all washed up, their faces had also turned bright. The Archangel Jibra'il (علیہ السلام) told the Holy Prophet ﷺ that these people with bright faces you saw first were those who had professed faith and then kept clean from sins: الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُم بِظُلْمٍ (those who have believed and have not mixed their faith with injustice - 6:82). The others were people who did what was a mixture of good and evil, but repented later. Allah accepted their repentance and their sins were forgiven.' (Qurtubi)
 
 ## Personal Reflections
+
+

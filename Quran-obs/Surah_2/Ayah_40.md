@@ -58,18 +58,6 @@ word_by_word:
     transliteration: fa-ir'habūni
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-40 - 120 The Jews have been exhorted to follow Prophet Muhammad (Allah's peace be upon him) who had come with the same Guidance and who was a descendant and follower of Prophet Abraham whom they highly honored as their ancestor, and professed to follow as a prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Children of Israel! The Surah Al-Baqarah begins by speaking of the Holy Qur'an itself, and tells us that although it provides guidance to all men, yet only true Muslims will derive a full benefit from it.
@@ -215,3 +203,5 @@ This is a subtle suggestion which brings out the superiority of this Ummah over 
 According to a hadith reported by Muslim, those who break their promises would, before being finally punished in the other world, be humiliated before the whole human race when it assembles together on the Day of Judgment, for a flag would be placed as a stigma beside everyone who has committed this sin, and the bigger the crime, the higher would the flag be.
 
 ## Personal Reflections
+
+

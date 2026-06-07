@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-kafūra
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed there was for Saba' a sign in their dwelling place – two gardens on the right and on the left; (and it was said to them:) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord (15)But they turned away, so We sent against them flood released from the dam, and We converted their two gardens into gardens producing bitter bad fruit, and Athl, and some few lote trees (16)Like this We requited them because they were ungrateful disbelievers.
@@ -167,3 +155,5 @@ And sage Hasan al-Basri (رح) said: صَدَقَ اللہُ العَطِیم ل
 An interpretation of the sense of this verse appears in Ruh-ul-Ma’ ani with reference to Kashf. There it is said that the statement is made in its real sense. Punishment as punishment is given only to a disbeliever and whatever pain is caused to a believing sinner through things like fire is only an apparent punishment. In reality, the purpose is to cleanse him from sin. This is like heating up gold in a furnace. The purpose is to remove its unwanted sediments. This holds true in the case of a believer as well. If he too is put in Jahannam as a consequence of some sin of his, it will be to burn out those elements of his body that have grown on him from consuming what is haram. Once this is taken care of, he is ready to go to Jannah and it does not take much time that he is taken out of Jahannam (Hell) and admitted into the Paradise (Jannah).
 
 ## Personal Reflections
+
+

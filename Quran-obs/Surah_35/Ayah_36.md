@@ -80,18 +80,6 @@ word_by_word:
     transliteration: kafūrin
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But those who disbelieve, for them will be the fire of Hell. In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَامَةِ مِن فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ (who, out of His grace, has made us land at a home of eternal living where neither we are touched by weariness.
@@ -205,3 +193,5 @@ Imam Al-Bukhari also recorded, in the Book of Riqaq in his Sahih, that Abu Huray
 In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَامَةِ مِن فَضْلِهِ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ (who, out of His grace, has made us land at a home of eternal living where neither we are touched by weariness. Nor are we touched by boredom." ), some characteristics of Jannah have been described: (1) That it is an eternal home with no danger of any lapse of time, or expulsion from there at any time. (2) That no one will face any sorrow while there. (3) That no one there will experience the least fatigue or boredom, as it happens in the mortal world where one needs to sleep after work. Life in Jannah will be free from this too. This subject also finds mention in some narrations of Hadith. (Mazhari)
 
 ## Personal Reflections
+
+

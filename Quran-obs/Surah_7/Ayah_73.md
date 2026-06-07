@@ -149,15 +149,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -310,3 +302,5 @@ Seeing this mind-boggling miracle of Sayyidna Salih (علیہ السلام) ، s
 The well from which the people of Thamud got their water was the one from which this she-camel got her share of water to drink. But, when this she-camel, an extra ordinary creation of Allah, drank her share of water, she would drink up all the water in the well. Sayyidna Salih (علیہ السلام) had, following the Divine will, given the verdict that the she-camel would drink water from the well one day and the next day the rest of Thamud people will have water from the well for themselves. It so happened that the day the she-camel drank water from the well, others would get milk from the she-camel, in lieu of water, in such quantity that they would fill out their water containers with it. This distribution of water has been referred to elsewhere in the Qur'an in the following words addressed to Sayyidria Salih (علیہ السلام) وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْ‌بٍ مُّحْتَضَرٌ‌ ﴿28﴾ (54:28) that is, the water of the well is to be divided between them, one day for the she-camel and the other for his people, and this distribution will be watched by angels lest anyone does against it.' In another verse (26:155), it was said: قَالَ هَـٰذِهِ نَاقَةٌ لَّهَا شِرْ‌بٌ وَلَكُمْ شِرْ‌بُ يَوْمٍ مَّعْلُومٍ ﴿155﴾ that is, ` this is a she-camel of Allah; water for one day is her right and water for the other day is fixed for you'.
 
 ## Personal Reflections
+
+

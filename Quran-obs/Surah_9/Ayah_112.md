@@ -75,15 +75,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 112, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The last verse (112) which begins with the words: التَّائِبُونَ الْعَابِدُونَ " (They are) those who repent, those who worship...) describes the attributes of the same believers about whom it was said earlier that Allah has bought their lives and their wealth from the believers, against which Paradise shall be for them. Though, the verse was revealed as relating to a particular group of participants in the Bai'atu al-'Aqabah, but the sense of the verse covers all mujahidin in the way of Allah. As for the list of their attributes which opens with: التَّائِبُونَ (those who repent), they are not there as a condition, because the promise of Paradise has been made for Jihad in the way of Allah, in an absolute sense. The purpose behind the delineation of these attributes is to stress that those who deserve Paradise do have such attributes - as was specially the case with the noble Companions ؓ who were a party to Bai'atu al-'Aqabah.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -138,3 +130,5 @@ At this place, seven attributes of believing mujahidin have been described as th
 At the end of the verse (112), it was said: وَبَشِّرِ‌ الْمُؤْمِنِين (And give the good news to the believers). It means that the Prophet of Islam should convey to believers who have the attributes mentioned above the good news of blessings nobody could ever imagine, nor could it be explained in words, nor has anyone heard about it from any source. The reference is to the ultimate blessings of Paradise.
 
 ## Personal Reflections
+
+

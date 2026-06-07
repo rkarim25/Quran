@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-mawā
 ---
 
-## Context
-
-To understand **Those who drag forth** (An-Nazi'at) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nazi'at is a **Makkah** surah—revealed as the 81st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 46 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-34-41 , it has been said: "When the Hereafter is established, men's eternal future will be determined on the criterion as to which of them rebelled against his God transgressing the bounds of service and made the material benefits and pleasures his objective of life and which of them feared standing before his Lord and refrained from fulfilling the unlawful desires of the self." This by itself provides the right answer to the above question to every such person who considers it honestly, free from stubbornness.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… Thereafter, the special marks of the inmates of Paradise are described.
@@ -183,3 +171,5 @@ Surah An-Naziat
 Ends here
 
 ## Personal Reflections
+
+

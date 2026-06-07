@@ -88,18 +88,6 @@ word_by_word:
     transliteration: tafʿalūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And fulfill the covenants (taken in the Name of) Allah when you have taken them, and do not break the oaths after you have confirmed them - and indeed you have appointed Allah as your guarantor. Breaking Pledges is Forbidden The word: عَھد ('ahd) is inclusive of all transactions, pacts and pledges the responsibility of which has been assumed verbally, whether one does or does not swear by it, and whether it relates to doing something or not doing it.
@@ -191,3 +179,5 @@ After having given a pledge or made a contract with someone, breaking it is a ma
 Similarly, acting contrary to what one has sworn by is also a major sin. In the Hereafter, it is full of unimaginably evil consequences while in the present world too there are its particular situations in which Kaffarah (expiation) becomes necessary. [ Qurtubi ]
 
 ## Personal Reflections
+
+

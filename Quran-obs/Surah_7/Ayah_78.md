@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -188,3 +180,5 @@ From the outward arrangement of the text, it appears that Sayyidna Salih (علی
 The question is when his people have been destroyed by the punishment, what is the use of addressing them now. The answer is that one good that may come out of it is that people in general would learn their lesson. This form of address resembles the address of the Holy Prophet ﷺ when he had said a few words addressing dead disbelievers from the tribe of Quraysh in the Battle of Badr. And then, it is also possible that this saying of Sayyidna Salih (علیہ السلام) came to pass before the coming of the punishment and the destruction of his people - though, in the textual arrangement, it has been mentioned later.
 
 ## Personal Reflections
+
+

@@ -48,17 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us or lest he should transgress. (45)He (Allah) said: "Fear not, verily, I am with you both, hearing and seeing. (46)"So go you both to him, and say: 'Verily, we are both Messengers of your Lord, so let the Children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance! (47)'Truly, it has been revealed to us that the torment will be for him who denies, and turns away.' (48)
 
 (And peace will be upon him who follows the guidance! Truly, it has been revealed to us that the torment will be for him who denies, and turns away.) In His flawless revelation, Allah has revealed to us that torment is prepared exclusively for those who reject the signs of Allah and turn away from His obedience. As Allah says,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -129,3 +121,5 @@ It will be recalled that when prophethood was bestowed upon Sayyidna Musa (عل�
 The second point is that fear of fearsome things is a natural instinct and even prophets are not free from it in spite of their complete faith in the promises of Allah. Sayyidna Musa (علیہ السلام) himself was afraid to pick up his staff when it turned into a snake therefore Allah re-assured him with the word لَا تَخَف (do not be afraid). On all such occasions Allah removed their fears by propitious tidings. Three other verses: فَخَرَ‌جَ مِنْهَا خَائِفًا يَتَرَ‌قَّبُ (So, he went out of it (the city) in a state of fear, waiting (for what comes next) - 28:21) and فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا (Then, next morning he was fearful, waiting [ for what comes next ] - 28:18) and فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ (So Musa concealed some fear in his heart - 20:67) can also be quoted expressing the same fear. It was this natural fear which persuaded the Holy Prophet ﷺ to migrate to Madinah and some of his Companions ؓ to migrate first to Abbysinia and later to Madinah. In the Battle of Ahzab the Muslims were so overawed by the strength of their enemies that they dug a trench as a protective measure even though Allah had promised them victory on numerous occasions. The truth is that while they did not have the least doubt about their ultimate victory, the fear which they felt was the result of a spontaneous human impulse in the face of danger, and the prophets being human are not immune to this impulse.
 
 ## Personal Reflections
+
+

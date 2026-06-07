@@ -111,13 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginning with: تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ was revealed in the Qur'an, it also condemned the wife of Abu Lahab. She went to the place where the Holy Prophet ﷺ used to sit with his Companions. At that time, Sayyidna Abu Bakr ؓ was present there. Noticing her coming well ahead of her arrival, he said to the Holy Prophet ﷺ "if you move away from here, it will be better. This woman has a sharp tongue.
+The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginning with: تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ was revealed in the Qur'an, it also condemned the wife of Abu Lahab. She went to the place where the Holy Prophet ﷺ used to sit with his Companions. At that time, Sayyidna Abu Bakr ؓ was present there. Noticing her coming well ahead of her arrival, he said to the Holy Prophet ﷺ "if you move away from here, it will be better. This woman has a sharp tongue. She will say things which may cause you pain." He said, "no, Allah Ta` ala will put a curtain between me and her." So, she reached there but when she could not see the Holy Prophet ﷺ anywhere around, she turned towards Sayyidna Abu Bakr ؓ and said, your companion has satirized us in poetry." Sayyidna Abu Bakr ؓ said, "By Allah, he is no composer of poetry, much less that of the kind in which people are satirized (hajw)." Thereupon, she left in a huff saying, "you are no more than a verifier for him." After she was gone, Sayyidna Abu Bakr ؓ submitted, "didn't she see you?" He said, "as long as she was here, an angel kept obstructing the view between me and her."
 
 ## Tafsir Summary
 
@@ -282,3 +276,5 @@ Ya Seen. By the wise Qur'an, surely you [ 0 Muhammad ] are from among the messen
 Imam al-Qurtubi (رح) says that he himself went through an incident in the Manthur Castle of al-Qartubah in his own country of al-Andalus (Spain). I ran in front of the enemy and sat in a corner. The enemy sent two horsemen after me. I was on open grounds. There was nothing to obstruct the view between us. But, I was reciting these verses of Surah Ya Sin. Both these horsemen passed by me. Then they went back towards where they had come from, saying, 'this person must be some devil,' because they could not see me. Allah Ta’ ala had turned them blind as far as I was concerned. (Qurtubi)
 
 ## Personal Reflections
+
+

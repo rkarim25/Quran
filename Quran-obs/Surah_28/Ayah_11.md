@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yashʿurūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the heart of the mother of Musa became empty. وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning.
@@ -127,3 +115,5 @@ There was only a short time between the distress and the way out, a day and nigh
 وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ (28:7) The word Wahy (inspiration) is used here in its literal meaning. It does not mean the Wahy that is peculiar to prophets. This point has already been explained under Surah Taha.
 
 ## Personal Reflections
+
+

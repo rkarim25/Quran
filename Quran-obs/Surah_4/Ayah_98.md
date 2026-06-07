@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 98, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ad-Dahhak stated that this Ayah was revealed about some hypocrites who did not join the Messenger of Allah ﷺ but remained in Makkah and went out with the idolators for the battle of Badr. They were killed among those who were killed. Thus, this honorable Ayah was revealed about those who reside among the idolators, while able to perform Hijrah and unable to practice the faith. Such people will be committing injustice against themselves and falling into a prohibition according to the consensus and also according to this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -165,3 +157,5 @@ Ruling
 Jihad is not obligatory on the lame, the crippled, the blind, the sick and on others who are excusable under the Islamic law.
 
 ## Personal Reflections
+
+

@@ -30,15 +30,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And (remember) the Day when the wrongdoer will bite at his hands, he will say: "O! Would that I had taken a path with the Messenger.") Here Allah tells us of the regret felt by the wrongdoer who rejected the path of the Messenger and what he brought from Allah of clear truth concerning which there is no doubt, and followed another path. When the Day of Resurrection comes, he will feel regret but his regret will avail him nothing, and he will bite on his hands in sorrow and grief. Whether this Ayah was revealed concerning 'Uqbah bin Abi Mu'it or someone else among the doomed, it applies to every wrongdoer, as Allah says:
 
-يَا وَيْلَتَىٰ لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا (Woe to me! would that I had not taken so-and-so for my friend - 25:28). This verse was revealed on an especial occasion, but its implication is universal. The background is that 'Uqbah Ibn Abi Mu` ait was one of the chieftains of polytheists in Makkah. It was customary with him that whenever he would return after an expedition, he used to invite the nobility of the city to dinner.
+يَا وَيْلَتَىٰ لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا (Woe to me! would that I had not taken so-and-so for my friend - 25:28). This verse was revealed on an especial occasion, but its implication is universal. The background is that 'Uqbah Ibn Abi Mu` ait was one of the chieftains of polytheists in Makkah. It was customary with him that whenever he would return after an expedition, he used to invite the nobility of the city to dinner. He also used to call on the Holy Prophet ﷺ frequently. When he presented the food to the Holy Prophet ﷺ he said "I cannot eat your food until you proclaim that Allah is one and no one can be associated with Him in worship and that I am His Rasul." 'Uqbah recited this sentence and then the Holy Prophet ﷺ ate the dinner according to his promise, 'Ubayy Ibn Khalaf was a close friend of 'Uqbah. When he learnt that 'Uqbah has accepted Islam and has recited the Kalimah Tayyabah he was very crossed with him. 'Uqbah tried to defend himself by explaining that Muhammad ﷺ was an eminent person of Quraysh and if he had returned without having his meal at his house, it would have been very degrading for 'Uqbah. Therefore, in order to please him, he repeated the sentence (کلمہ). 'Ubayy Ibn Khalaf did not accept this explanation and asked 'Uqbah to go and spit on Holy Prophet's ﷺ face if he was really ashamed. The wretched man obliged his depraved friend and did as he had suggested. Allah Ta’ ala disgraced them both in this world as well, as both were killed in the battle of Badr (Baghawi). The torment he will face on the Dooms day is described in this verse that when he will see the torment before him, he will bite his fingers in distress and repentance and say "would that he had not made 'Ubayy Ibn Khalaf his friend in the world". (Mazhari Qurtubi)
 
 ## Tafsir Summary
 
@@ -123,3 +117,5 @@ Sayyidna Ibn ` Abbas ؓ has reported that the Holy Prophet ﷺ was asked what so
 The one who reminds you of Allah when you see him, and adds to your knowledge when he speaks, and reminds you of the Hereafter when he acts. (Qurtubi)
 
 ## Personal Reflections
+
+

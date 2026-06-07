@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ḥamīman
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Day that the sky will be like the Al-Muhl (8)And the mountains will be like 'Ihn (9)And no friend will ask a friend (10)Though they shall be made to see one another, the criminal would desire to ransom himself from the punishment of that Day by his children (11)And his wife and his brother (12)And his Fasilah who sheltered him (13)And all that are in the earth, so that it might save him (14)By no means! وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا يُبَصَّرُ‌ونَهُمْ (and no friend will ask about any friend, (though) they will be made to see each other....70:10, 11).
@@ -133,3 +121,5 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا يُبَصَّرُ‌ونَهُمْ (and no friend will ask about any friend, (though) they will be made to see each other....70:10, 11). The word hamim means a 'sincere friend'. The context describes the horrors of the Day of Resurrection. On that Day, no bosom friend will inquire about his friend - let alone helping him. This is not because they will not be able to see each other. The Divine power, in fact, will make them see each other. Every person will be in a state of 'each for himself. No person will be able to pay heed to the comfort or discomfort, pleasure or pain of others.
 
 ## Personal Reflections
+
+

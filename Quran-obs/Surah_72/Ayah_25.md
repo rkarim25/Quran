@@ -50,18 +50,6 @@ word_by_word:
     transliteration: amadan
 ---
 
-## Context
-
-To understand **The Jinn** (Al-Jinn) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-24-25 the disbelievers have been warned to the effect: "Today you are trying to overpower and suppress the Messenger seeing that he is helpless and friendless, but a time will come when you will know who in actual fact is helpless and friendless.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. By common consent of the scholars, prostration to anyone other Allah is totally forbidden.
@@ -169,3 +157,5 @@ By common consent of the scholars, prostration to anyone other Allah is totally 
 The non-believers demanded that the Holy Prophet ﷺ should show them the exact time and date when the Resurrection will occur. In verse [ 25] he is enjoined to say to them that it was not for him to say when the threatened punishment would come, but come it must.
 
 ## Personal Reflections
+
+

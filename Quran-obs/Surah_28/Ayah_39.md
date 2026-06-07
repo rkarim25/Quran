@@ -54,18 +54,6 @@ word_by_word:
     transliteration: yur'jaʿūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Fir'awn said: "O chiefs! فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ (So kindle for me, 0 Haman, a fire on the clay (to bake bricks) - 28:38).
@@ -161,3 +149,5 @@ Commentary
 فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ (So kindle for me, 0 Haman, a fire on the clay (to bake bricks) - 28:38). When the Pharaoh planned to build a very tall palace for himself, he asked his minister Haman to get the bricks baked properly first, because half baked bricks could not take the load of a tall building. Some people have observed that the Pharaoh was the first one to have tough bricks baked for the buildings, as no one had used them before. Historical narrations have recorded that Haman had collected fifty thousand masons for building this palace. Skilled labour, such as carpenters and blacksmith, were additional. This palace was built so tall that there was no parallel to it in the world. When it was completed, Allah Ta` ala commanded Jibra'il (علیہ السلام) to knock it down. He struck only one blow to it and it tumbled down in three pieces, killing thousands of soldiers of the Pharaoh's army. (Qurtubi)
 
 ## Personal Reflections
+
+

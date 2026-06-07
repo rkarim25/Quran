@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Verily, we have heard a Book sent down after Musa, confirming what came before it)(46:30). Waraqah bin Nawfal said, "This is An-Namus, who came down to Musa." And those who are possessed of insight know instinctively that among the many Books which He has sent down to His Prophets, there is no Book more perfect, more eloquent or more noble than the Book which He revealed to Muhammad ﷺ, which is the Qur'an. Next to it in status and greatness is the Book which Allah revealed to Musa bin 'Imran, which is the Book concerning which Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -164,3 +156,5 @@ Certain rules for preaching
 It shows that an important trait of preaching carried out by the prophets was that they used to convey the truth to people continuously. Rejection and falsifying of truth did not deter them at all from their mission. Instead, if someone did not listen to them the first time, they repeated it the second time, and if they did not succeed even the second time, they used to reiterate it a third time, and so on, without showing any sign of exhaustion. It is true that no preacher or sympathizer has power to change one's heart, but what the prophets could do was to keep on making their efforts without being dishearted or exhausted. Even today the same principle applies, and those who preach should take a serious note of it.
 
 ## Personal Reflections
+
+

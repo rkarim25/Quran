@@ -8,18 +8,6 @@ word_by_word:
     transliteration: al-ḥāqatu
 ---
 
-## Context
-
-To understand **The Reality** (Al-Haqqah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah. Its subject matter shows that it was sent down at the time when opposition to the Holy Prophet (upon whom be peace) had started but had not yet become tyrannical. Musnad Ahmad contains a tradition from Hadrat Umar, saying: "Before embracing Islam one day I came out of my house with a view to causing trouble to the Holy Prophet, but he had entered the Masjid al-Haram before me. When I arrived I found that he was reciting surah Al-Haaqqah in the Prayer. I stood behind him and listened. As he recited the Qur'an I wondered at its literary charm and beauty.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. This Surah is almost wholly devoted to the subject of inevitability of the Resurrection, its horrors, the punishment of unbelievers and the reward of believers.
@@ -193,3 +181,5 @@ The word الْقَارِ‌عَةِ Al-Qari'ah, literally, means 'rumbling'. Th
 The word الطَّاغِيَةِ At-Taghiyah is derived from tughyan which means 'to exceed the limit', signifying an extremely severe punishment, that is, 'it would be such high pitched sound which would exceed the limit of any of the sounds of the mortal world, and the human heart or brain would not be able to bear'. When Thamud exceeded the limit in denying the Day of Judgment, they were destroyed by that dreadful cry which exceeded all limits. It was a combination of most high pitched sound of thunderbolt together with a flash of lightning that struck them which rent their hearts.
 
 ## Personal Reflections
+
+

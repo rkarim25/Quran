@@ -32,18 +32,6 @@ word_by_word:
     transliteration: tukadhibūna
 ---
 
-## Context
-
-To understand **The Defrauding** (Al-Mutaffifin) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mutaffifin is a **Makkah** surah—revealed as the 86th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 36 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-7-17 , it has been said: The deeds of the wicked are already being recorded in the black list of the culprits, and in the Hereafter they will meet with utter ruin.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay! إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ (No!
@@ -167,3 +155,5 @@ Special Note
 According to some of the learned predecessors, this verse is a proof that man, by virtue of his innate nature, is forced to love Allah. Therefore, all unbelievers in the world, no matter how deeply they are steeped in their form of disbelief or hold false beliefs regarding the [ Supreme ] Being and attributes of Allah, there is a common denominator in their hearts. They love, respect and honour Allah. They worship Him according to their belief system in quest of Him and His pleasure. Because they have taken the wrong road, they are unable to reach their destination, but they are, nonetheless, in search of the same destination of truth. If they did not have the desire to see their Lord, it would not have been said, in their punishment, that they will remain deprived of seeing Allah, because if a person is not desirous [ rather he is hateful ] of seeing Him, it would be no punishment for him.
 
 ## Personal Reflections
+
+

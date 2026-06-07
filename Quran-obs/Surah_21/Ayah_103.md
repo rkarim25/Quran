@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire. It was said that this was revealed to point out an exception in the case of those who are worshipped instead of Allah, and to exclude 'Uzayr and the Messiah from their number. Hajjaj bin Muhammad Al-A'war reported from Ibn Jurayj, and 'Uthman bin 'Ata' reported from Ibn 'Abbas:
 
 It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were also worshipped, who had spent their lives in devotion towards Allah, but the misguided people who came after them took them as lords instead of Allah. Concerning the notion of worshipping the angels as daughters of Allah, the following words were revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -209,3 +201,5 @@ What Ibn Az-Zab'ari said was a serious mistake, because the Ayah was addressed t
 لَا يَحْزُنُهُمُ الْفَزَعُ الْأَكْبَرُ‌ (They will not be grieved by the Biggest Panic - 21:103). Sayyidna Ibn ` Abbas ؓ has said that (the Biggest Panic) refers to the second call of the Horn ( صُور ), when all the dead will assemble to give an account of their actions in the world. Some others have said that الْفَزَعُ الْأَكْبَرُ‌ (the Biggest Panic) is the first call of the Horn. Ibn Al-` Arabi has said that the Horn will be blown thrice: The first call will be نَفخَہُ الفَزَع which will put everyone into utter confusion, and is referred to here as الْفَزَعُ الْأَكْبَرُ‌ (the Biggest Panic). The second call will be نَفخہُ الصِّعق when everyone will die. The third call will be نَفخَہُ البَعث when all the dead will be resurrected. This version derives support from a hadith of Abu Hurairah رضی اللہ تعالیٰ عنہ which has been quoted in Musnad Abu Ya` la and Baihaqi, ` Abd Ibn Humaid, Abu al-Sheikh, Ibn Jarir al-Tabari etc. (Mazhari).
 
 ## Personal Reflections
+
+

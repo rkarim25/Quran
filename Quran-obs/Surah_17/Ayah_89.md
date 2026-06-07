@@ -64,17 +64,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 89, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord. Verily, His grace unto you is ever great (87)Say: "If mankind and the Jinn were together to produce the like of this Qur'an, they could not produce the like thereof, even if they helped one another. (88)And indeed We have fully explained to mankind, in this Qur'an, every kind of similitude, but most of mankind refuse (the truth and accept nothing) but disbelief (89)
 
 (And if We willed, We could surely take away that which We have revealed to you.)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -105,3 +97,5 @@ Then Allah points out the great virtue of the Qur'an, and says that even if mank
 The last verse: وَلَقَدْ صَرَّ‌فْنَا (And surely We have explained - 89) tells us that the Holy Qur’ an stands out as a miracle so clear that it leaves no room for any question and doubt. Still, what is happening is that people do not thank Allah for His blessings, do not even recognize the real worth of the blessing of the Qur'an and keep wandering around in error.
 
 ## Personal Reflections
+
+

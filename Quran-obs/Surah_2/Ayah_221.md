@@ -171,18 +171,6 @@ word_by_word:
     transliteration: yatadhakkarūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 221, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And do not marry Al-Mushrikat (idolatresses) till they believe (worship Allah Alone). Verse 221 carries an injunction relating to marriage with Mushrikin (those who associate partners with Allah).
@@ -314,3 +302,5 @@ Marrying a woman from such a group of people is not correct. Those who marry wom
 2. Similarly, it is not correct to give a Muslim woman in marriage to a man who, in his outward status, is supposed to be a Muslim but whose beliefs are identical with those of a non-Muslim. And should such corruption of beliefs occur after having been married, the nikah or the marriage-contract breaks ipso facto. For instance, a large number of Muslims, in ignorance of their religion and under the influence of the so-called ` modern thinking', ruin their beliefs. It is, therefore, obligatory for the guardians of a girl that they should first investigate into the beliefs of the proposer before they accept the proposal.
 
 ## Personal Reflections
+
+

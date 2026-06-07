@@ -39,15 +39,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ali bin Abi Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about Al-'Abbas bin 'Abdul-Muttalib, for when he was captured in the battle of Badr, he said, 'If you rushed before us to embrace Islam, perform Hijrah and Jihad, we were maintaining Al-Masjid Al-Haram, providing water for the pilgrims and setting the indebted free.' Allah, the Exalted and Ever High, said,
 
-There is a Hadith [from the Prophet ﷺ] about the Tafsir of this Ayah that we should mention.
+There is a Hadith [from the Prophet ﷺ] about the Tafsir of this Ayah that we should mention. 'Abdur-Razzaq recorded that An-Nu'man bin Bashir said that a man said, "I do not care if I do not perform an action after embracing Islam other than providing drinking water for pilgrims [who visit the Ka'bah at Makkah]." Another man said, "I do not care if I do not perform an action after embracing Islam other than maintaining Al-Masjid Al-Haram." A third man said, "Jihad in the cause of Allah is more righteous than what you have said." 'Umar admonished them, "Do not raise your voices next to the Minbar of the Messenger of Allah," and as it was a Friday, he said, "but after we pray the Friday prayer, we will go to the Prophet ﷺ and ask him." This verse was revealed,
 
 ## Tafsir Summary
 
@@ -108,3 +102,5 @@ Verses 21 and 22 tell us about the great reward and ranks these successful peopl
 Their Lord gives them the happy news of Mercy from Him, and Pleasure, and of Gardens having an everlasting bliss for them, where they shall dwell forever. Surely, 'it is Allah with whom there is a great reward.
 
 ## Personal Reflections
+
+

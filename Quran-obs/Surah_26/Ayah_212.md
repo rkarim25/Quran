@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Poets** (Ash-Shu'ara) 212, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it was brought down, for the heavens were filled with guardians and shooting stars at the time when the Qur'an was being revealed to the Messenger of Allah ﷺ, so none of the Shayatin could hear even one letter of it, lest there be any confusion in the matter. This is a part of Allah's mercy towards His servants, protection of His Laws, and support for His Book and His Messenger ﷺ. Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -91,3 +83,5 @@ There is a hint in this verse that those who are bestowed with long life in this
 ` O the duped one! Your whole day is spent in negligence and the night in sleep, while death is inevitable for you. Neither you are awake among the alert and woken nor are you the one who will get salvation from among the sleepers. You keep endeavoring for things which will soon bring you unpleasant results. Cattle and animals live like this in the world'.
 
 ## Personal Reflections
+
+

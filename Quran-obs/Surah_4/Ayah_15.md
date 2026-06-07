@@ -98,17 +98,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas and Sa'id bin Jubayr said that this punishment includes cursing, shaming them and beating them with sandals. This was the ruling until Allah abrogated it with flogging or stoning, as we stated. Mujahid said, "It was revealed about the case of two men who do it." As if he was referring to the actions of the people of Lut, and Allah knows best.
 
 (Surely, Allah sent Muhammad ﷺ with the truth and sent down to him the Book. Then, in what was revealed by Allah Almighty there was the verse of Rajm. The Holy Prophet ﷺ stoned and we stoned after him and the revealed injunction of Rajm stands proved against everyone who commits zina despite being married, whether man or woman.) (al-Bukhari, Muslim, as in Mishkat, p. 309)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -221,3 +213,5 @@ Sayyidna ` Umar ؓ عنہ has said:
 To sum up, the injunction of 'torturing' and 'confining to homes' which appears in these verses was abrogated after the subsequent revelation of the legal Hadd punishment of zinc, that is, one hundred lashes or Rajm will be mandatory. More details in this connection will, God willing, appear in the commentary on Surah al-Nur.
 
 ## Personal Reflections
+
+

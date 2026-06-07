@@ -33,18 +33,6 @@ word_by_word:
     transliteration: lāʿibīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears. وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْ‌ضَ وَمَا بَيْنَهُمَا لَاعِبِينَ (And We did not create the heavens and the earth ...
@@ -132,3 +120,5 @@ Commentary
 The word لَاعِبِينَ is taken from لِعَب (play), which means having no useful objective (Raghib) while لَھَو (pastime) means an act which has no purpose at all except to provide amusement in free time. The disbelievers who argue against the Holy Prophet ﷺ and the Holy Qur'an and reject the Oneness of Allah and deny His Power, despite its abundant manifestations, then it is apparent that they have a notion that all this creation is meant for amusement and pastime. The verse rejects this false view and says that Allah's creation is not for fun and pastime. A little reflection will show that even the minutest particle of the universe has its utility and each and everything created by Allah has a purpose which speaks by itself for His omniscience and Oneness.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: lil'ʿālamīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That is of the news of the Ghayb (Unseen) which We reveal to you. After that it was said: وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ‌ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ‌ لِّلْعَالَمِين ، that is, ` your mission is to tell them the truth and call 'them to the straight path.
@@ -127,3 +115,5 @@ Allah narrated to Muhammad, peace be upon him, the story of Yusuf and his brothe
 After that it was said: وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ‌ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ‌ لِّلْعَالَمِين ، that is, ` your mission is to tell them the truth and call 'them to the straight path. For this you do not ask them to give you something in return - which could have caused them to find it difficult to listen to him or follow him. In fact, what you are telling them is for their own good. It is only an advice to heed to and a lesson to learn from. And it is for everyone. The text here also carries a hint to the effect: When the purpose behind your effort is no worldly gain, in fact it is nothing but the reward of the Hereafter and the betterment of your people, then, that purpose of yours already stands achieved. Why would you then grieve over it?
 
 ## Personal Reflections
+
+

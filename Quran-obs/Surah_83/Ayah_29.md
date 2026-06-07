@@ -37,18 +37,6 @@ word_by_word:
     transliteration: yaḍḥakūna
 ---
 
-## Context
-
-To understand **The Defrauding** (Al-Mutaffifin) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mutaffifin is a **Makkah** surah—revealed as the 86th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 36 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of the Surah and its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who committed crimes used to laugh at those who believed (29)And, whenever they passed by them, used to wink one to another (30)And when they returned to their own people, they would return jesting (31)And when they saw them, they said: "Verily, these have indeed gone astray! إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ (Indeed those who were guilty used to laugh at those who believed, 83:29).
@@ -118,3 +106,5 @@ Surah At-Tatfif
 Ends here
 
 ## Personal Reflections
+
+

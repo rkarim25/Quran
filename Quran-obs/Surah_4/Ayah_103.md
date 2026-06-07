@@ -88,18 +88,6 @@ word_by_word:
     transliteration: mawqūtan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-101-103 Before proceeding on to the next topic, the Muslims have been exhorted to persevere in their fight without showing any kind of weakness.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 When you have finished the Salah, remember Allah standing, sitting down, and on your sides, but when you are free from danger, perform the Salah. The concessions given in travel (In Islamic legal terminology, Safar means journey or travel; Qasr refers to the making of one's Salah short while in that status.
@@ -181,3 +169,5 @@ Rulings:
 In this verse (102), mention has been made of both groups making one Raka'ah each, but the method of performing the second Raka'ah has appeared in Hadith which says: 'When the Holy Prophet ﷺ turned for Salim after the completion of his two Raka’ at, the two groups went on to complete their one Raka'ah each on their own'. More details can be seen there.
 
 ## Personal Reflections
+
+

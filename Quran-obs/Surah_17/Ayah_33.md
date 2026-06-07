@@ -97,18 +97,6 @@ word_by_word:
     transliteration: manṣūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And do not kill anyone whose killing Allah has forbidden, except for a just cause. This eighth injunction is about the prohibition of killing unjustly.
@@ -170,3 +158,5 @@ An anecdote worth remembering
 Someone accused Hajjaj ibn Yusuf before certain Mujtahid Imams. Hajjaj ibn Yusuf is the most notorious tyrant of Islamic history. Since, he has killed thousands of Sahabah and Tabi` in unjustly, therefore, it generally happens that people tend to overlook the evil lurking behind calling him evil. The pious elder before whom this accusation was leveled against Hajjaj ibn Yusuf asked the accusers, "Do you have any authority or evidence to support your accusation?" They said, "No." Then he said, "If Allah Ta’ ala will avenge the unjust killing of thousands of in-nocent people by Hajjaj ibn Yusuf, remember that anyone who is unjust to Hajjaj will also not be allowed to escape from that revenge. Allah Ta` la will wreak vengeance of Hajjaj from him too. There is no partisanship in the justice of Allah Ta` ala, therefore, it is not possible that He would release others to go about maligning His sinning servants by giving them a free hand to accuse and blame them at will.
 
 ## Personal Reflections
+
+

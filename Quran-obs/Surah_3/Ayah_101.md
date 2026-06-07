@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 101, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 They took the warning to their hearts. They knew this was a slip caused by شیطان Satan. They embraced each other, wept and repented. These verses were revealed in the background of this event.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -157,3 +149,5 @@ This event appears in Ruh al-Ma'ani as narrated by Ibn Ishaq while there are oth
 The expression وَمَن يَعْتَصِم بِاللَّـهِ ,'translated as 'And whoever holds on to Allah' means one who stays firm in, and totally committed to, his ایمان 'iman or faith, for اعتصام 'i` tisam', the act of holding on to Allah firmly, denotes that one should affirm His Being and His Attributes, be staunchly faithful to what He has ordained, and in the process, be sure not to be lured into supporting the position of any adversary whoever that may be. One who acts in this manner 'is surely guided to the straight path'. It means that such a person is on the 'straight path', and being on the 'straight path' is the key to all that is good and beneficial which the Word of Allah promises to him.
 
 ## Personal Reflections
+
+

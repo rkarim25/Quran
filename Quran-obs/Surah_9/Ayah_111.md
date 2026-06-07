@@ -162,15 +162,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 111, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 As explained by the majority of commentators, these verses were revealed about the participants of Bai'atul-'Aqabah (the pledge of allegiance to the Holy Prophet ﷺ at al-'Aqabah) which was taken from the Ansar of Madinah before Hijrah in 'Makkah al-Mukarramah. Therefore, despite that the entire Surah is Madani, these verses have been termed as Makki.
 
-At this place, since the pledge took the apparent form of a transaction of give and take, this verse (111) was revealed in the terminology of a business deal: إِنَّ اللَّـهَ اشْتَرَ‌ىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم بِأَنَّ لَهُمُ الْجَنَّةَ. (Surely, Allah has bought their lives and their wealth from the believers, against which Paradise shall be for them). After hearing this verse, Sayyidna Bara' ibn Ma` rur, Abu al-Haitham and As'ad ؓ عنہم were the first ones who placed their hands on the blessed hand of the Holy Prophet ﷺ .
+At this place, since the pledge took the apparent form of a transaction of give and take, this verse (111) was revealed in the terminology of a business deal: إِنَّ اللَّـهَ اشْتَرَ‌ىٰ مِنَ الْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَالَهُم بِأَنَّ لَهُمُ الْجَنَّةَ. (Surely, Allah has bought their lives and their wealth from the believers, against which Paradise shall be for them). After hearing this verse, Sayyidna Bara' ibn Ma` rur, Abu al-Haitham and As'ad ؓ عنہم were the first ones who placed their hands on the blessed hand of the Holy Prophet ﷺ . They were promising in effect that they were readily agreeable to this deal and they would protect the Holy Prophet ﷺ as they protected their family and would stand by him to face any challenge, even if it came from the combined forces of the blacks and whites on this Earth.
 
 ## Tafsir Summary
 
@@ -247,3 +241,5 @@ At the end of the verse (111), it was said: فَاسْتَبْشِرُ‌وا ِ
 The sage, Hasan al-Basri (رح) said, ` Behold, what a profitable business is this that Allah has thrown open to every believer!' And he also said, ‘It is Allah who has blessed you with wealth and property. Spend a little out of it and buy Paradise.' (Mazhari)
 
 ## Personal Reflections
+
+

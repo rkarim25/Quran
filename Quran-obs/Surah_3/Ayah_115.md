@@ -44,17 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 115, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Muhammad bin Ishaq and others, including Al-'Awfi who reported it from Ibn 'Abbas, said; "These Ayat were revealed about the clergy of the People of the Scriptures who embraced the faith. For instance, there is 'Abdullah bin Salam, Asad bin 'Ubayd, Tha'labah bin Sa'yah, Usayd bin Sa'yah, and so forth. This Ayah means that those among the People of the Book whom Allah rebuked earlier are not at all the same as those among them who embraced Islam. Hence Allah's statement,
 
 (And there are, certainly, among the People of the Scripture (Jews and Christians), those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah.)[3:199].
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -137,3 +129,5 @@ Soon after praising those who had embraced Islam from among the people of the Bo
 Verse 117 declares through a similitude that disbelievers simply waste what they spend in this worldly life, for belief in Islam is a pre-condition in order that such spendings be acceptable with Allah, of whatever sort they may be. The similitude stresses the fact that disbelievers inflict this injustice upon themselves when their spendings go to waste in this world and remain rewardless in the Hereafter. If they were not to wrong themselves, if they were to embrace Islam, they would have been like other Muslims who, on suffering a worldly loss, are compensated by Allah through reward and forgiveness of sins, as reported in ahadith.
 
 ## Personal Reflections
+
+

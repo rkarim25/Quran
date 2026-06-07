@@ -69,13 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-The first verse says that the Holy Qur'an is Divine Word, and that it is true. The word, الْكِتَابِ (Al-Kitab: The Book) means the Qur’ an, and it is possible that the expression which follows it, that is, الَّذِي أُنزِلَ إِلَيْكَ مِن رَّ‌بِّكَ (And what has been sent down to you from your Lord) might as well mean the Qur’ an itself. But, the connective (the waw of ` atf translated as 'And' ) obviously requires that الْكِتَابِ (Al-kitab: The Book) and الَّذِي أُنزِلَ إِلَيْكَ (what has been sent down to you) should be two separate things. In that case, Al-Kitab or The Book would signify the Qur'an and (what has been sent down to you) would mean the revelation (Wahy), other than that of the Qur’ an, which has been sent down to the Holy Prophet ﷺ - because, it goes without saying, that the revelation sent to the Holy Prophet ﷺ is not restricted to the Qur'an alone. The Qur'an itself says وَمَا يَنطِقُ عَنِ الْهَوَىٰ (53:3) It means: Whatever the Holy Prophet ﷺ says, he does not say on his own, out of some desire of his; instead, it is a message revealed to him from Allah Ta'ala.
+The first verse says that the Holy Qur'an is Divine Word, and that it is true. The word, الْكِتَابِ (Al-Kitab: The Book) means the Qur’ an, and it is possible that the expression which follows it, that is, الَّذِي أُنزِلَ إِلَيْكَ مِن رَّ‌بِّكَ (And what has been sent down to you from your Lord) might as well mean the Qur’ an itself. But, the connective (the waw of ` atf translated as 'And' ) obviously requires that الْكِتَابِ (Al-kitab: The Book) and الَّذِي أُنزِلَ إِلَيْكَ (what has been sent down to you) should be two separate things. In that case, Al-Kitab or The Book would signify the Qur'an and (what has been sent down to you) would mean the revelation (Wahy), other than that of the Qur’ an, which has been sent down to the Holy Prophet ﷺ - because, it goes without saying, that the revelation sent to the Holy Prophet ﷺ is not restricted to the Qur'an alone. The Qur'an itself says وَمَا يَنطِقُ عَنِ الْهَوَىٰ (53:3) It means: Whatever the Holy Prophet ﷺ says, he does not say on his own, out of some desire of his; instead, it is a message revealed to him from Allah Ta'ala. It proves that the orders given by the Holy Prophet ﷺ ، other than those appearing in the Qur’ an, are also no other but those sent from Allah. The only difference between the two is that the Qur’ an is recited (matluww) while the later is not (ghayr matluww). The rationale for this difference is that the meanings and the words of the Qur’ an are both from Allah Ta’ ala, while, in the case of the rules of conduct (Ahkam) given by the Holy Prophet ﷺ in Hadith - in addition to those in the Qur'an - their meanings too are, no doubt, revealed from Allah Ta’ ala, but their words are not revealed from Him. Therefore, they cannot be recited in Salah.
 
 ## Tafsir Summary
 
@@ -130,3 +124,5 @@ Thus, the verse comes to mean that the Quran and its injunctions sent down to th
 That Allah Ta` ala exists and that He is One has been emphasized in the second verse. The proof stands obvious. Look at what has been created and ponder over the matchless mastery with which everything was created. One can come to only one conclusion that their maker has abso-lute power over everything and that He controls all creations and universes as the master.
 
 ## Personal Reflections
+
+

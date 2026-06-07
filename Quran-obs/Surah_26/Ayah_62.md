@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Poets** (Ash-Shu'ara) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (61)(Musa) said: "Nay, verily with me is my Lord. He will guide me. (62)Then We revealed to Musa (saying): "Strike the sea with your stick." And it parted, and each separate part became like huge mountain (63)Then We brought near the others to that place (64)And We saved Musa and all those with him (65)Then We drowned the others (66)Verily, in this is indeed a sign, yet most of them are not believers (67)And verily your Lord, He is truly the All-Mighty, the Most Merciful (68)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -104,3 +96,5 @@ More than one of the scholars of Tafsir said that they stood there not knowing w
 The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (62) "Indeed with me is my Lord. He will guide me." Such are the moments for the test of faith, when Sayyidna Musa (علیہ السلام) was not terror stricken at all, as if he was seeing for himself the way out. Almost the same thing happened with Holy Prophet ﷺ at the time of migration while hiding in the cave of Thaur. The enemy had reached right at the opening of the cave in his pursuit. In fact they were so close that they could have seen him if they had looked down towards their toes. Sayyidna Abu Bakr ؓ got alarmed a little, but Holy Prophet ﷺ said exactly the same thing لَا تَحْزَنْ إِنَّ اللَّـهَ مَعَنَا ` Do not grieve, Allah is surely with us' (9:40). It is worth noting in the two incidents that while Sayyidna Musa (علیہ السلام) said to his Ummah in order to console them مَعِيَ رَ‌بِّي ` With me is my Lord', Holy Prophet ﷺ said toSayyidna Abu Bakr ؓ in reply ` Allah is with us (two) '. It is a special privilege of the Ummah of Muhammad ﷺ that his followers are also honoured by the company of Allah when they are with their Rasul.
 
 ## Personal Reflections
+
+

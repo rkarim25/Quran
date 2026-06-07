@@ -20,18 +20,6 @@ word_by_word:
     transliteration: waghawwāṣin
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed, We tried Sulayman and We placed on his throne Jasad (a body), and he returned (34)He said: "My Lord! It was said in verse 35: هَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي (bless me with a kingdom that will not be available to anyone after me.).
@@ -117,3 +105,5 @@ Praying for office and power
 At this place, it should be borne in mind that no prayer made by the noble prophets is made without the will and permission of Allah Ta’ ala. Sayyidna Sulayman (علیہ السلام) had made this prayer too by the will and permission of Allah Ta’ ala. And since some bland seeking of power was not his aim, rather the driving desire to implement Divine laws and the passion to make truth triumph was behind it - and Allah Ta’ ala knew that once Sayyidna Sulayman (علیہ السلام) had the power, he would work for these very high objectives, and would never entertain negative feelings of office, power and recognition - therefore, he was given the permission to make this prayer, and it was accepted as well. But, common people have been prohibited in Hadith from seeking power following their own initiative. The reason is that such an initiative usually gets to be tainted with the desire for power, influence, money and property. Accordingly, where one has the certitude of being free of such selfish desires and one really would love to see the banner of truth fly high without the least hunger for power hidden anywhere in the recesses of his heart - then, for such a person, praying for power and authority of government is permissible. (Ruh-ul-Ma’ ani etc.)
 
 ## Personal Reflections
+
+

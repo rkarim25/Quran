@@ -72,17 +72,9 @@ word_by_word:
 
 ## Context
 
-To understand **Joseph** (Yusuf) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Verily, We have sent it down as an Arabic Qur'an in order that you may understand.) The Arabic language is the most eloquent, plain, deep and expressive of the meanings that might arise in one's mind. Therefore, the most honorable Book, was revealed in the most honorable language, to the most honorable Prophet and Messenger ﷺ, delivered by the most honorable angel, in the most honorable land on earth, and its revelation started during the most honorable month of the year, Ramadan. Therefore, the Qur'an is perfect in every respect. So Allah said,
 
 On the reason behind revealing Ayah (12:3), Ibn Jarir At-Tabari recorded that 'Abdullah bin 'Abbas said, "They said, 'O, Allah's Messenger! Why not narrate to us stories?' Later on, this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -139,3 +131,5 @@ In the third verse, it was said: نَحْنُ نَقُصُّ عَلَيْكَ أ
 This is to chasten the Jews that they had tried to test the Messenger of Allah ﷺ which proved to be in vain, for its effect turned out to be just the reverse of what they had intended. It only went on to prove the excellence and authenticity of the Messenger of Allah ﷺ in a far more evident manner. From this it became clear that he was already an Ummiyy and had no knowledge of world history. Now that he came to know of this needs an explanation and there can be no explanation for this except that he was Divinely educated and blessed with revelation as a prophet of Allah Ta’ ala.
 
 ## Personal Reflections
+
+

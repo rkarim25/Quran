@@ -53,13 +53,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-(Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah. So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace be upon him, till they reached a rock (on which) they both lay down their heads and slept. The fish moved vigorously in the vessel and got out of it and fell into the sea and there it took its way through the sea (straight) as in a tunnel. Allah stopped the flow of water on both sides of the way created by the fish, and so that way was like a tunnel. When Musa got up, his companion forgot to tell him about the fish, and so they carried on their journey during the rest of the day and the whole night.
+(Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah. So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace be upon him, till they reached a rock (on which) they both lay down their heads and slept. The fish moved vigorously in the vessel and got out of it and fell into the sea and there it took its way through the sea (straight) as in a tunnel. Allah stopped the flow of water on both sides of the way created by the fish, and so that way was like a tunnel. When Musa got up, his companion forgot to tell him about the fish, and so they carried on their journey during the rest of the day and the whole night. The next morning Musa said to his boy-servant,
 
 ## Tafsir Summary
 
@@ -278,3 +272,5 @@ Nevertheless, this was yet another test. After having reached the projected dest
 The first mention of the fish going into the sea was made through the word: سَرَبَاً (saraba - 61). Sarab means a tunnel that is dug to open up a passage through the mountains or an underground subway in cities. This tells us that the fish when it went into the sea had a tunnel-like passage forming itself in whatever direction it moved. Water currents did not obstruct its passage at all, rather left it open - as made explicit by the narrative from the Sahih of al-Bukhari. The second time, when Yusha ibn Nun related this event before Sayyidna Musa (علیہ السلام) after their long journey, it was done in the following وَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ‌ عَجَبًا ، amazingly, it made its way into the sea - 63). There is no contradiction between the two, because the incidence of a tunnel forming itself into the sea was by itself an extraordinarily amazing event.
 
 ## Personal Reflections
+
+

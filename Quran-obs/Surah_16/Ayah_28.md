@@ -84,18 +84,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those whose lives the angels take while they are doing wrong to themselves. It will be recalled that, after describing the blessings of Allah and proving that He was unique in the creation of the universe, the text made a pointed reference to how the polytheists chose to stick to their own ways of error.
@@ -149,3 +137,5 @@ The Holy Qur'an does not explicitly say as to who asked the question. Therefore,
 The essence of the answer given by the polytheists is that they simply refused to acknowledge that there was any word of Allah really revealed from Him. In fact, they dismissed the Qur'an as nothing but tales of people from early ages. Thereupon, the Qur’ an admonished those unjust people for disinforming people about the Qur'an by telling them that it was nothing but the tales of the ancient whereby they make others too go astray like them. As for the consequences, these they shall have to face. It means that the total curse of their sins has to fall on them anyway on the Day of Judgment, but part of the curse of the evil consequences of their role in misguiding others will also fall on them. Then it was said that the burden of sins which these people are piling up on their shoulders is a terribly evil burden.
 
 ## Personal Reflections
+
+

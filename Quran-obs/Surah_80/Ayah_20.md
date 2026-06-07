@@ -16,18 +16,6 @@ word_by_word:
     transliteration: yassarahu
 ---
 
-## Context
-
-To understand **He Frowned** ('Abasa) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah 'Abasa is a **Makkah** surah—revealed as the 24th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 42 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators and traditionists are unanimous about the occasion of the revelation of this Surah. According to them, once some big chiefs of Makkah were sitting in the Holy Prophet's assembly and he was earnestly engaged in trying to persuade them to accept Islam. At that very point, a blind man,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Qutila mankind! ثُمَّ السَّبِيلَ يَسَّرَ‌هُ (then He made the way easy for him...80:20) Allah through His consummate wisdom creates man in his mother's womb, creation after creation, within three layers of darkness [ i.e.
@@ -191,3 +179,5 @@ This report has an authentic chain of narration. More than one person has narrat
 ثُمَّ السَّبِيلَ يَسَّرَ‌هُ (then He made the way easy for him...80:20) Allah through His consummate wisdom creates man in his mother's womb, creation after creation, within three layers of darkness [ i.e. the belly, the womb and the amniotic membrane ]. It is kept in a safe place in the belly. The mother in whose belly all this is happening is totally unaware of any of the details of this process. Thereafter, when the baby becomes perfect with all its limbs and organs, Allah made it possible that a body weighing 3 to 4 kg comes out through an extremely narrow passage, and the mother does not suffer unduly. So blessed be He Who is the best Creator!
 
 ## Personal Reflections
+
+

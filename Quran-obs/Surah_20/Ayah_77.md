@@ -81,17 +81,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And indeed We revealed to Musa: "Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid. (77)Then Fir'awn pursued them with his hosts, but the sea [Al-Yamm] completely overwhelmed them and covered them up (78)And Fir'awn led his people astray, and he did not guide them (79)
 
 (The companions of Musa said: "We are sure to be overtaken." (Musa) said: "Nay, verily, with me is my Lord. He will guide me.")[26:61-62] Musa stopped with the Children of Israel and the sea was in front of them and Fir'awn was behind them. Then, at that moment, Allah revealed to Musa,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -158,3 +150,5 @@ According to Ruh ul-Ma` ani Sayyidna Musa (علیہ السلام) embarked on hi
 When the Pharaoh learned that the Bani Isra'il had taken flight, he assembled a large army of which the advance units consisted of seven hundred thousand horsemen and started off in pursuit. When the Bani Isra'il saw the river barring their way ahead and the Pharaoh hot on their heels, they cried out in despair. "Surely! We are caught". Sayyidna Musa (علیہ السلام) consoled them with the words إِنَّ مَعِيَ رَ‌بِّي سَيَهْدِينِ (With me is my Lord indeed. He will guide me - 26:62). Then by the command of Allah he struck his staff on the water and twelve dry passageways appeared on which the twelve tribes of Bani Isra'il crossed over to the other side in safety. The Pharaoh who saw all this was frightened but he urged his men on by declaring that the dry paths were formed because the river stopped flowing on account of the awe which it felt in his presence. Saying so, he spurred his horse into the river ordering his army to follow him. When they were all in the middle, Allah commanded the river to resume its flow and water covered them over. (Ruh ul-Ma` ani)
 
 ## Personal Reflections
+
+

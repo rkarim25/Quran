@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Smoke** (Ad-Dukhan) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ Ibn Jarir recorded that Sa'id bin Jubayr said, "A man came to Ibn 'Abbas, may Al
 وَأَوْرَ‌ثْنَاهَا قَوْمًا آخَرِ‌ينَ And We made other people inherit all this." (44:28) In Surah Shu'ara', it is explicitly stated that 'other people' refers to the Children of Israel. It is objected that there is no historical evidence to show that the Children of Israel ever settled again in Egypt. This objection has been rebutted in Surah Shu` ara'.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: kāfirūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the dwellers of Paradise will call out to the dwellers of the Fire (saying): "We have indeed found true what our Lord had promised us; have you also found true what your Lord promised (warned)?" They shall say: "Yes." Then a crier will proclaim between them: "The curse of Allah is on the wrongdoers. The third verse (42) mentions those who dutifully follow Divine injunctions as they are the people of Paradise and there they shall live forever.
@@ -153,3 +141,5 @@ Guidance has Degrees, the Last being the Entry into Paradise
 Imam Raghib al-Isfahani (رح) ، who has explained Hidayah or guidance in a comprehensive manner as it appears in the Holy Qur'an, has said that guidance is a popular term but it has different degrees. The truth of the matter is that guidance is another name of finding the way to reach Allah Ta` ala. Therefore, the degrees of achieving nearness to Allah are many and different and unending. Similarly, the degrees of guidance too are extremely varied and different from each other. The lowest degree of guidance is deliverance from Kufr and Shirk, and having 'Iman. One on this degree of guidance has his or her orientation changed, away from the path of error - towards Allah. Then, there is the distance between Allah Ta` ala and His servants. This distance takes a journey to cover - and every stage so covered has degrees, which is called Hidayah or guidance. Therefore, guidance is a need. At no time, can anyone claim not to need it, not even prophets and messengers of Allah. For this reason, the Holy Prophet ﷺ ، not only taught his people the lesson of: اهْدِنَا الصِّرَ‌اطَ الْمُسْتَقِيمَ ﴿6﴾ (Guide us in the straight path), but he himself kept making this prayer - because there is no end to the stages and ranks of nearness to Allah, so much so, that entry into the Paradise mentioned in this verse has been identified as Hidayah or guidance, for this is the last station of Hidayah.( Those interested in reading more about the implications, meaning and degrees of guidance may see Ma'ariful-Qur'an, English Translation, Vol.I, pages 72-77)
 
 ## Personal Reflections
+
+

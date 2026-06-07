@@ -167,15 +167,7 @@ word_by_word:
 
 ## Context
 
-To understand **Muhammad** (Muhammad) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (tighten their bonds.) 'This is referring to the prisoners of war whom you have captured. Later on, after the war ends and the conflict has ceased, you have a choice in regard to the captives: You may either act graciously toward them by setting them free without charge, or free them for a ransom that you require from them.' It appears that this Ayah was revealed after the battle of Badr. At that time, Allah reproached the believers for sparing many of the enemy's soldiers, and holding too many captives in order to take ransom from them. So He said then:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -396,3 +388,5 @@ Wisdom in the Legality of Jihad
 وَالَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّـهِ فَلَن يُضِلَّ أَعْمَالَهُمْ (And those who are killed in Allah's way, He will never let their deeds go in vain. - 47:4) At the beginning of the Surah it was asserted that those who persist in infidelity and idolatry and obstruct others from practising Islam, Allah rendered all their good deeds void, such as charity, alms, donations, and philanthropic and public welfare activities, because these deeds are not worthy of reward in the Hereafter without faith. Faith is a necessary condition for good works to be rewarded in the next world. As opposed to the case of the infidels, this verse asserts that those who sacrificed their lives to acquire the glorious privilege of a martyr in the cause of Allah - Allah will never imprint their works with irreverence, profanity or damnation. Even if they did commit sins, their sins will not have a negative impact on their good actions. In fact, often these good deeds of theirs will serve as an expiation for their sins.
 
 ## Personal Reflections
+
+

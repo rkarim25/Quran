@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **The Ranks** (As-Saf) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saf is a **Madinah** surah—revealed as the 109th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 14 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-10-13 , the believers have been told that the way to success both here and in the Hereafter is only one: that they should believe in Allah and His Messenger sincerely and should exert their utmost in Allah's Way with their selves and their wealth.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! وَأُخْرَ‌ىٰ تُحِبُّونَهَا ۖ نَصْرٌ‌ مِّنَ اللَّـهِ وَفَتْحٌ قَرِ‌يبٌ (And [ He will give you ] another thing that you love: Help from Allah, and a victory, near at hand ...61:13) This verse adds that the blessings of this trade are not restricted to the Hereafter.
@@ -115,3 +103,5 @@ Allah said,
 وَأُخْرَ‌ىٰ تُحِبُّونَهَا ۖ نَصْرٌ‌ مِّنَ اللَّـهِ وَفَتْحٌ قَرِ‌يبٌ (And [ He will give you ] another thing that you love: Help from Allah, and a victory, near at hand ...61:13) This verse adds that the blessings of this trade are not restricted to the Hereafter. There is one blessing that will be granted right here in this world, which is the Divine help and an imminent victory, that is, conquests of enemy territories. If the word qarib (near) is taken as the opposite of Hereafter, it would include all later Islamic conquests of Arab and non-Arab territories. And if the word qarib (near) is taken in its normal sense, it would, in the first instance, apply to the conquest of Khaibar, and in the second instance it would apply to the Conquest of Makkah. This 'near victory' is referred to as تُحِبُّونَهَا "that you love". It implies that this worldly blessing is dear to man, because he is by nature haste-prone as the Qur'an says وَكَانَ الْإِنسَانُ عَجُولًا "...and man is prone to haste. [ 17:11] This, however, does not imply that the blessings of the Hereafter are not dear to him. It simply means that the love of seeking the blessings of the Hereafter is quite obvious, but he naturally would love to have the blessings of this world as well. They too will be granted to him.
 
 ## Personal Reflections
+
+

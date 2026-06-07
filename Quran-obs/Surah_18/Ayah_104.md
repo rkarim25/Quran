@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink there, and the Haruriyyah are those who break Allah's covenant after ratifying it.' Sa'd used to call them Al-Fasiqin (the corrupt). 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others. This does not mean that the Ayah was revealed concerning any of these groups in particular; it is more general than that, because the Ayah was revealed in Makkah, before the Qur'an addressed the Jews and Christians, and before the Khawarij existed at all. So the Ayah is general and refers to everyone who worships Allah in a way that is not acceptable, thinking that he is right in doing that and that his deeds will be accepted, but he is mistaken and his deeds will be rejected, as Allah says:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ Who are those referred to as: الْأَخْسَرِ‌ينَ أَعْمَالً
 Similarly, the deed of anyone who acts for the pleasure of the created by way of hypocrisy, that deed too will remain deprived of thawab (reward). It is in terms of this general sense that some revered Sahabah have declared the Kharjites as the substantiation of this verse. Then, there are some commentators who take the Mu'tazilah, the Rawafid and some others as the groups who have strayed away from the straight path. But, in the next verse (105), it has been determined that meant at this place are those particular disbelievers who deny the verses of Allah Ta’ ala and the coming of Qiyamah and Akhirah. It was said: الَّذِينَ كَفَرُ‌وا بِآيَاتِ رَ‌بِّهِمْ وَلِقَائِهِ (Those are the ones who disbelieved in the signs of their Lord and in the meeting with Him). Therefore, al-Qurtubi, Abu Hayyan, Mazhari and others prefer the view that really meant at this place are particular disbelievers who deny Allah, the Last Day and the Reckoning of deeds. But, apparently too, even those people whose deeds were ruined by their corrupted beliefs and whose effort had gone waste cannot remain unaffected by its general sense. As for the related sayings re-ported from Sayyidna ` Ali and Sa` d ؓ ، this is precisely what they mean. (Qurtubi)
 
 ## Personal Reflections
+
+

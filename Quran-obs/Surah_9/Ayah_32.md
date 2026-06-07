@@ -66,18 +66,6 @@ word_by_word:
     transliteration: l-kāfirūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They want to extinguish Allah's Light with their mouths, but Allah will not allow except that His Light should be perfected even though the disbelievers hate (it)(32)It is He Who has sent His Messenger with guidance and… Then, it was said that these people chose to take the way of error although they were asked by Allah to worship only one God who is free and pure from what they associated with Him.
@@ -135,3 +123,5 @@ Tamim Ad-Dari [who was a Christian before Islam] used to say, "I have come to kn
 Then, it was said that these people chose to take the way of error although they were asked by Allah to worship only one God who is free and pure from what they associated with Him. This verse limits itself to saying that they followed the false and obeyed people other than Allah, something they were not permitted to do. In the verse that follows (32), mentioned there is another error they make. It is said that they do not stop at the error they have already made. They, rather, like to compound their errors when they try to subvert Divine guidance and black out the Faith of Truth. The statement has been dressed in a si-militude - ` they want to blow out the Light of Allah with their mouths' - although, this is something they cannot do. Allah Ta` ala has already decided that He shall see to it that His Light, that is, the Religion of Islam, reaches its perfection, no matter how displeasing this may turn out to be for those who disbelieve.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-ṭāriqu
 ---
 
-## Context
-
-To understand **The Nightcommer** (At-Tariq) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tariq is a **Makkah** surah—revealed as the 36th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 17 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat At-Tariq An-Nasa'i recorded that Jabir said, "Mu'adh lead the Maghrib prayer and he recited Al-Baqarah and An-Nisa'. After swearing an oath by the sky and stars, in this Surah, Allah asserts that He has assigned a guardian angel to every human being who watches over his deeds and actions, and accurate and immediate record is kept on the basis of which the reckoning will be made, and on the Day of Reckoning, all secrets will be revealed.
@@ -161,3 +149,5 @@ The first oath, in the beginning of the Surah, is by the sky and tariq. The word
 وَمَا أَدْرَاكَ مَا الطَّارِقُ (and what may let you know what the Night-Comer is?...86:2) and then answers the question thus: النَّجْمُ الثَّاقِبُ (The star of piercing brightness!...86:3). The word najm means 'star'. The Qur'an does not specify any particular 'star'. Therefore, it may be applied to any star. Some of the commentators say that najm refers to the Pleiades or Saturn, and they quote specimens of Arabic speech to confirm their argument. The word thaqib means 'piercing brightness'.
 
 ## Personal Reflections
+
+

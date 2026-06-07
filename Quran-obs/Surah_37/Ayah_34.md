@@ -22,17 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **Those who set the Ranks** (As-Saffat) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He be glorified.) Allah revealed in His Book the story of people who were arrogant, as He says:
 
 (Nay! he has come with the truth) meaning, the Messenger of Allah ﷺ has brought the truth with all that Allah has revealed to him of stories and commandments.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -117,3 +109,5 @@ Similarly, they are described here as saying:
 2. From verse 33: فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِ‌كُونَ (So, this day, they will be sharers in the punishment.), we learn that should a certain person invite someone else to participate in what is impermissible and use his clout to coax him into sin, then, he will certainly incur the punishment of so inviting that person to sin. But, a person who accepts his invitation of his volition and choice, he too cannot be absolved from the sin of his deed. He cannot appear in the Hereafter and get away by saying that he was made to go astray by this or that person. Yes, if he has not committed sin by his volition and choice, instead, has done so under coercion, just to save his life, then, insha'Allah, it is hoped that he will be forgiven.
 
 ## Personal Reflections
+
+

@@ -140,15 +140,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you (O Muhammad) but We revealed to him (saying): None has the right to be worshipped but I (Allah), so worship Me (alone and none else).")(21:25)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -253,3 +245,5 @@ The first doubt expressed by these disbelievers was: If Allah does not like our 
 The absurdity of this doubt was all too evident. Therefore, instead of answering it, just saying words of comfort for the Holy Prophet ﷺ was considered sufficient, so that he does not feel sad about such senseless questions. The reason why their doubt was absurd is also obvious. Allah Ta` ala has set up the system of this world on the basic arrangement that human beings have not been kept under compulsion totally. A kind of power to choose was given to them. If they use this choice in obedience to Allah, they have their reward for it; and if they use it to disobey Him, then, there stands His promise of punishment. That there will be a day of Judgment when the dead shall be resurrected and called to account for their deeds are the consequential outcome of this early warning. If Allah Ta’ ala had decided that He would force everyone to obey Him, who then would have dared to remain outside the fold of obedience to Him? But, His wisdom so required that such compulsion was not appropriate. Therefore, choice was given to human beings. Now, if the disbelievers were to say - had Allah disliked our ways, why would He not stop us by force? - It is an absurd and hostile question.
 
 ## Personal Reflections
+
+

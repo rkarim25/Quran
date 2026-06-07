@@ -71,18 +71,6 @@ word_by_word:
     transliteration: dhik'ran
 ---
 
-## Context
-
-To understand **The Divorce** (At-Talaq) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Abdullah bin Masud has Pointed out, and the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And many a town revolted against the command of its Lord and His Messengers; and We called it to a severe account, and We shall punish it with a horrible torment (8)So it tasted the evil result of its affair, and the consequence of its affair was loss (9)Allah has prepared for them a severe torment. قَدْ أَنزَلَ اللَّـهُ إِلَيْكُمْ ذِكْرً‌ا رَّ‌سُولًا (Allah has sent down to you a Reminder, a messenger...65:10-11).
@@ -168,3 +156,5 @@ Some said that the Messenger is the subject of what is being sent [as a reminder
 [ 1] This explanation is based on the premise that 'dhikr' in this verse means 'Allah's remembrance'. However, it also means 'reminder'. Taken in this sense, the word 'messenger' in the verse can be easily interpreted as an explanatory complement to the word 'dhikr', because the Holy Prophet is a 'Reminder' to the entire mankind. Our translation in the text is based on this connotation. (Muhammad Taqi Usmani)
 
 ## Personal Reflections
+
+

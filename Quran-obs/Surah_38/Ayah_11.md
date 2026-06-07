@@ -30,17 +30,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Letter "Saad"** (Sad) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Has he made the gods into One God. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah:
 
 When they said this, it indicated their ignorance and lack of understanding since they thought it was unlikely that the Qur'an would be revealed to the Messenger ﷺ and not to somebody else.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ Ad-Dahhak, said, "Then let them ascend into the seventh heaven." Then Allah says
 In verse 6, it was said: وَانطَلَقَ الْمَلَأُ مِنْهُمْ أَنِ امْشُوا وَاصْبِرُ‌وا عَلَىٰ آلِهَتِكُمْ (And the leaders among them went forth saying (to their followers)," Walk away (from the Prophet) and stay firm on (adhering to) your gods - 12). This is pointing out to the event mentioned above that, once they heard the call to pure monotheism (tauhid), they left the meeting.
 
 ## Personal Reflections
+
+

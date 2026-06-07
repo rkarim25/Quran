@@ -50,18 +50,6 @@ word_by_word:
     transliteration: karīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth. After describing these five virtues of the model believer, it was said: أُولَـٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا Those are the believers in reality) - that is, they are the same, outwardly and inwardly, they say what is th…
@@ -205,3 +193,5 @@ According to Tafsir Al-Bahr Al-Muhit, the attributes of true Muslims mentioned i
 Counter-poised against these three kinds, three rewards have been mentioned. High ranks have been set against inward and spiritual attributes; forgiveness has been placed against deeds which are related to outward human physique, like Salah and Sawm. Salah, as in Hadith, becomes the Kaffarah (expiation) of sins. Finally, 'dignified provision' has been set against spending in the way of Allah, that is, one would get what is much better and much more than what one has spent in the mortal life.
 
 ## Personal Reflections
+
+

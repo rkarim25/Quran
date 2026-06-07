@@ -97,18 +97,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! لِّئَلَّا يَعْلَمَ أَهْلُ الْكِتَابِ (so that the People of the Book may know ....57:29) The negative particle la [ no ] is grammatically redundant [ but rhetorically it serves to emphasise the expression ].
@@ -174,3 +162,5 @@ Surah Al-Hadid
 Ends here
 
 ## Personal Reflections
+
+

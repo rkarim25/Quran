@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-mus'taqīma
 ---
 
-## Context
-
-To understand **The Opener** (Al-Fatihah) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fatihah is a **Makkah** surah—revealed as the 5th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Surah Al-Fatihah is one of the very earliest Revelations to the Holy Prophet. As a matter of fact, we learn from authentic traditions that it was the first complete Surah that was revealed to Muhammad (Allah's peace be upon him). Before this, only a few miscellaneous verses were revealed which form parts of Alaq, Muzzammil, Muddaththir, etc.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Guide us to the straight path (6)The way of those on whom You have granted Your grace, not (the way) of those who earned Your anger, nor of those who went astray), Allah says, 'This is for My servant, and My servant shal… The Prayer for Guidance The last three verses of the Surah consist of a prayer on the part of man.
@@ -1063,3 +1051,5 @@ Whenever the Holy Qur'an speaks of Prophets (peace be upon them) as guides, it i
 To sum up, the Qur'anic prayer (guide us in the straight path) is most comprehensive, and certainly, one of the most important prayers taught to man. No member of the human family can claim not to need it. No success, no prosperity in this or in the other world can really come without being on the straight path. Particularly so, for man lost in the anxieties of mortal life, the prayer for the straight path is an elixir, though people do not realize it.
 
 ## Personal Reflections
+
+

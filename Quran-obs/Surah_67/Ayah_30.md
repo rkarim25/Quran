@@ -46,18 +46,6 @@ word_by_word:
     transliteration: maʿīnin
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Tell me! قُلْ أَرَ‌أَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرً‌ا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ (Say, "Tell me, Should your water vanish into the earth, who will bring you a flowing [ stream ] water?"...(67:30).
@@ -121,3 +109,5 @@ Surah Al-Mulk
 Ends here
 
 ## Personal Reflections
+
+

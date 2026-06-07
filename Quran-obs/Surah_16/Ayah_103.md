@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (The tongue of the man they refer to is foreign, while this (the Qur'an) is a (in) clear Arabic tongue.) meaning, how could it be that this Qur'an with its eloquent style and perfect meanings, which is more perfect than any Book revealed to any previously sent Prophet, have been learnt from a foreigner who hardly speaks the language? No one with the slightest amount of common sense would say such a thing.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -107,3 +99,5 @@ Sequence of Verses
 In the previous verse (98), there was an instruction to say اَعُوذ بِاللہ 'a udhu bil-lah' (I seek protection with Allah) while reciting the Qur’ an which indicates that the Shaitan puts scruples in the heart when one recites the Qur'an. In the verses cited above, there is a refutation of such Satanic instigations.
 
 ## Personal Reflections
+
+

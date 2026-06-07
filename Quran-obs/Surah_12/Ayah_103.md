@@ -28,18 +28,6 @@ word_by_word:
     transliteration: bimu'minīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That is of the news of the Ghayb (Unseen) which We reveal to you. Commentary After a full description of the story of Sayyidna Yusuf (علیہ السلام) ، first to come in the verses cited above is an address to the Holy Prophet ﷺ : ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ (That is a part of the reports of the unseen We reveal to you), and that ` you were not there with the brothers of Yusuf (علیہ السلام) when they had decided to throw Sayyidna Yusuf (علیہ السلام) into the well and were making plans for it.
@@ -119,3 +107,5 @@ From these verses we learn that Allah Ta` ala communicates to his prophets many 
 Since common people take the Knowledge of the Unseen (i1m al-Ghayb) only in the sense that a person somehow gets to become aware of the news of the unseen, and this quality is found at its best in the Holy Prophet ﷺ ، therefore, they think that the Holy Prophet ﷺ was ` Alim al-Ghayb (knower of the Unseen). But, the Holy Qur’ an has declared in very clear words that: لَّا يَعْلَمُ مَن فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ الْغَيْبَ إِلَّا اللَّـهُ (No one in the heavens, or on the Earth, knows the unseen except Allah - 27:65) which proves that no one, other than Allah Ta` ala, can be called the ` Alim al-Ghayb or the Knower of the Unseen. The ` Jim of al-Ghayb (the knowledge of the unseen) is the unique attribute of Allah Ta` ala. Taking an apostle, messenger, prophet or angel as a sharer in this attribute amounts to equating him with Allah, and is what the Christians do, who declare a Messenger to be the son of God, and a partner in Godhead. The verses of the Holy Qur’ an quoted here make the truth of the matter very clear. It stands settled that the ilm of al-Ghayb (the knowledge of the unseen) is an exclusive attribute of Allah Ta` ala and the only ` Alim al-Ghayb (the Knower of the Unseen) is Allah jalla thanauh Himself. However, there are many news of the unseen which Allah Ta` ala does give to his messengers through the medium of Wahy (revelation). This, in the terminology of the Holy Quran, is not known as the ilm of al-Ghayb (the knowledge of the unseen). Since common people do not understand this fine difference, they tend to take the news of the unseen as the knowledge of the unseen. This is why when one adheres to the terminology of the Qur’ an and asserts that no one, other than Allah, can claim to know what is unseen, they would prefer to differ, rather than accept truth as it is.
 
 ## Personal Reflections
+
+

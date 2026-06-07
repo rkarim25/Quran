@@ -159,15 +159,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 141, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In the third verse (140): وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ (... and He has revealed to you in the Book), by referring to another verse of the Holy Qur'an which had already been revealed' as a verse of the Surah al-An'-am before the event of Hijrah in Makkah al-Mukkarrmah, it has been re-emphasized that Allah had sent, much earlier, the command that they should not even sit in the company of disbelievers and sinners. Now, surprising as it is, these heedless people have gone much beyond that by establishing friendly relations with them assuming that they were the bearers of honour and the wielders of power in their own right.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -296,3 +288,5 @@ Towards the later part of the verse (140), it was said: إِنَّكُمْ إِ�
 The censure on hypocrites appearing earlier continues through the present verses. Their blameworthy approach to matters of Faith has been clearly identified here and is self-explanatory through the translation given.
 
 ## Personal Reflections
+
+

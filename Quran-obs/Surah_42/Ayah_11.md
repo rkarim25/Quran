@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-baṣīru
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or have they taken protecting friends besides Him? وَمَا اخْتَلَفْتُمْ فِيهِ مِن شَيْءٍ فَحُكْمُهُ إِلَى اللَّـهِ (Whatever dispute you have in any matter, its judgment lies with Allah.
@@ -171,3 +159,5 @@ Commentary
 وَمَا اخْتَلَفْتُمْ فِيهِ مِن شَيْءٍ فَحُكْمُهُ إِلَى اللَّـهِ (Whatever dispute you have in any matter, its judgment lies with Allah. - 10) It means that the judgment in all those matters in which you dispute lies with Allah, because the sovereignty belongs to Allah only, as stated in another verse:إِنِ الْحُكْمُ إِلَّا لِلَّـهِ (The Decision belongs to none but Allah - 6:57). The direction in many verses to obey Rasulullah ﷺ and in some verses to obey those in authority does not contradict the above, because the orders of Rasulullah ﷺ and of the authorities are also, in a way, orders of Allah. If the order has been received through ` wahy' or based upon the clear and definite verses (nusus) of the Qur'an and sunnah, then its being an order of Allah is obvious. And if the order is an 'ijtihad' (inference) which in turn is based upon nusus of Qur'an and sunnah, then also, in a way, it is an order of Allah. ijtihadat' (plural of ` ijtihad' ) of the ` mujtahidin' of the ummah (those who are competent to interpret the Qur'an and Sunnah, and infer Islamic laws from them) on this basis, are included in orders of Allah. That is why the learned scholars have declared that the fatwa (ruling) given by a ` mufti' (A competent Islamic scholar) is to be taken as a part of the religious law by the common masses who do not have the ability to understand the Qur'an and the Sunnah directly.
 
 ## Personal Reflections
+
+

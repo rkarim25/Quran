@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 A narration from Sayyidna Ibn ` Abbas ؓ tells us that this verse was revealed about the Jews of Madinah. They were very arrogant, and extremely miserly. When it came to spending money, they were miserably miserly. They also concealed the knowledge they received through their Scriptures which carried the prophecies about the coming of the Holy Prophet ﷺ . These also included clear signs of his appearance. But, the Jews, despite being convinced of these prophecies, acted niggardly. They never acted to fulfill the dictates of this knowledge, neither did they pass on the message to others who could act in accordance with it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -190,3 +182,5 @@ Sayyidna Abu Said ؓ narrates that the Holy Prophet ﷺ said:
 "Two traits cannot get combined in a true Muslim: miserliness and bad morals." (Tirmidhi)
 
 ## Personal Reflections
+
+

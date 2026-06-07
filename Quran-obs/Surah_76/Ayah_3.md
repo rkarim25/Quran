@@ -33,18 +33,6 @@ word_by_word:
     transliteration: kafūran
 ---
 
-## Context
-
-To understand **The Man** (Al-Insan) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Most of the commentators, including Allama Zamakhshari, Imam Razi, Qadi, Baidawi, Allama Nizam ad-Din Nisaburi, Hafiz Ibn Kathir and many others, regard it as a Makki Surah, and, according to Allama Alusi, the same is the opinion of the majority of scholars. However, some commentators hold the view that the Surah was revealed at Madinah, and some others say that it was revealed at Makkah but vv. 8-10 of it were sent down at Madinah. As far as the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Recitation of Surat As-Sajdah and Al-Insan in the Morning Prayer on Friday It has been mentioned previously that it is recorded in Sahih Muslim from Ibn 'Abbas that the Messenger of Allah ﷺ used to recite in the Morn… Neither we were there, nor was there any demand from us.
@@ -144,3 +132,5 @@ The interpretation of amshaj as 'cardinal humours/fluids' allays their doubt onc
 اِنَّ الْاَبْرَارَ يَشْرَبُوْنَ مِنْ كَاْسٍ كَانَ مِزَاجُهَا كَافُوْرًا (The righteous will have a drink from a goblet, blended; with [ a drink from ] Camphor....76:5). Some of the commentators say that kar (Camphor) refers to a fountain in Paradise. In order to enhance the taste and pleasure of this drink, it will be mixed with water from this spring. If the word 'camphor' is taken in its popular sense, it does not necessarily signify that the camphor of Paradise be equated with the camphor available in this world, because the latter is not palatable.
 
 ## Personal Reflections
+
+

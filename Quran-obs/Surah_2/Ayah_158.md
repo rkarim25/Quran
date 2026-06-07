@@ -107,17 +107,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 158, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 "By Allah! It is not a sin if someone did not perform Tawaf around them." 'A'ishah said, "Worst is that which you said, O my nephew! If this is the meaning of it, it should have read, 'It is not a sin if one did not perform Tawaf around them.' Rather, the Ayah was revealed regarding the Ansar, who before Islam, used to assume Ihlal (or Ihram for Hajj) in the area of Mushallal for their idol Manat that they used to worship. Those who assumed Ihlal for Manat, used to hesitate to perform Tawaf (going) between Mounts As-Safa and Al-Marwah. So they (during the Islamic era) asked Allah's Messenger ﷺ about it, saying, 'O Messenger of Allah! During the time of Jahiliyyah, we used to hesitate to perform Tawaf between As-Safa and Al-Marwah.' Allah then revealed:
 
 (Verily, As-Safa and Al-Marwah are of the symbols of Allah.)" Abu Bakr bin 'Abdur-Rahman then said, "It seems that this verse was revealed concerning the two groups." Al-Bukhari collected a similar narration by Anas.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -216,3 +208,5 @@ Details of the method that governs the performance of the Hajj, ` Umrah and Saye
 It is advisable to guard against a possible doubt that may arise while reading the words used in the verse under study. One may think that the Qur'an simply says that making Sayee سعی between Safa صفاء and Marwah مروہ is 'no sin'; at the most, it proves that it is one of the many 'allowed' acts. This approach can be corrected by looking at the leading expression لاجُناحَ :'no sin' which has been used here in relation to a question. The question related to all those idols sitting on top of the Safa صفاء and Marwah مروہ hills and it was to show their devotion to them that the people of the Jahiliyyah جاھلیہ used to do say between Safa صفاء and Marwah مروہ ، and in which case, this practice should be haram حرام (forbidden). It is in answer to this doubt that it was declared, "there is no sin" in it. This being the real and authentic Abrahamic Tradition, there is no reason why it should be considered tainted with 'sin'? The 'malpractice' of a pagan band of people in this intervening period does not end up making a 'sin' of what is 'good' in the sight of Allah. The use of the expression 'no sin', therefore, does not go against its being wajib واجب or necessary.
 
 ## Personal Reflections
+
+

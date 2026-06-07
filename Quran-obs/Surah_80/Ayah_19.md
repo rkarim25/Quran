@@ -20,18 +20,6 @@ word_by_word:
     transliteration: faqaddarahu
 ---
 
-## Context
-
-To understand **He Frowned** ('Abasa) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah 'Abasa is a **Makkah** surah—revealed as the 24th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 42 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators and traditionists are unanimous about the occasion of the revelation of this Surah. According to them, once some big chiefs of Makkah were sitting in the Holy Prophet's assembly and he was earnestly engaged in trying to persuade them to accept Islam. At that very point, a blind man,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Qutila mankind! خَلَقَهُ فَقَدَّرَ‌هُ (He created him, and designed him in due proportion..80:19).
@@ -197,3 +185,5 @@ This report has an authentic chain of narration. More than one person has narrat
 The word qaddara is derived from taqdir which is also used in the sense of 'predestination'. Taking the word in this sense, the verse may also mean here that when man is under creation in his mother's womb, Allah predetermines four things for him: his life span, his sustenance, his deeds and whether he would be miserable or happy [ as in the hadith of Ibn Mas’ ud ؓ recorded by Shaikhain ].
 
 ## Personal Reflections
+
+

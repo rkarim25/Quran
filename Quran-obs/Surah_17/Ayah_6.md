@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and would become tyrants and extremely arrogant, meaning they would become shameless oppressors of people, Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ Commentary
 The outcome of the events mentioned above is that Allah Ta’ ala had decreed that the Bani Isra'il will be successful, having the best of both worlds, the material and the spiritual, as long as they continue to obey Allah. But, whenever they deviate from the dictates of Faith, they shall be put to disgrace, and that they would be subjected to punishment at the hands of enemies and disbelievers. Then, not only that the enemies will run over them destroying their lives and properties, but it would also happen that their Qiblah, their sacred Baytul-Maqdis, will also not remain safe against the onslaught of that enemy. Their disbelieving enemies will barge into the Mosque of Baytul-Maqdis and defile and damage it. This too will be a part of the punishment of Bani Isra'il themselves. The Holy Qur'an has told us about two events relating to them. The first one dates back to the time of Mosaic religious law while the second pertains to the Christian. During both these periods, the Bani Isra'il rebelled against the divine law of the time. In the first case, a disbelieving Magian monarch was made to sit over them, and Baytul-Maqdis, who brought great destruction upon them. In the second case, a Roman emperor was set against them who killed and pillaged and made Baytul-Maqdis all demolished and rendered desolate. And along with this description, it has also been mentioned that the Bani Isra'il - when, on both occasions, they repented from their misdeeds resolving not to go near them again - Allah Ta` ala reinstated their country, wealth and children.
 
 ## Personal Reflections
+
+

@@ -65,17 +65,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas and Sa'id bin Jubayr said that this punishment includes cursing, shaming them and beating them with sandals. This was the ruling until Allah abrogated it with flogging or stoning, as we stated. Mujahid said, "It was revealed about the case of two men who do it." As if he was referring to the actions of the people of Lut, and Allah knows best.
 
 He also narrates that the Holy Prophet ﷺ said: "One who goes unto a woman in menstruation, or in her anus or goes to a soothsayer ( کاھِن kahin) and accepts his statement relating to the unknown, then, such people have rejected what was revealed to Muhammad ﷺ "
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -190,3 +182,5 @@ He also narrates that the Holy Prophet ﷺ said: "One who goes unto a woman in m
 As for a fixed punishment for this evil act, there is a difference of opinion among Muslim jurists, details of which are available in books of Fiqh. Nevertheless, the nature of such punishments reported by them is as severe as it can be, such as, burning into fire, bashing under a wall felled over, throwing down from a height, stoning and beheading with a sword.
 
 ## Personal Reflections
+
+

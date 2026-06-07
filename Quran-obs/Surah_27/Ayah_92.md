@@ -67,18 +67,6 @@ word_by_word:
     transliteration: l-mundhirīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 I have been commanded only to worship the Lord of this city, Who has sanctified it and to Whom belongs everything. رَ‌بَّ هَـٰذِهِ الْبَلْدَةِ (the Lord of this city - 27:91).
@@ -170,3 +158,5 @@ Commentary
 اَلحَمدُ للہ Today on Shawwal 24, 1391 Hijrah the commentary of Surah An-Naml is complete. The Indian army has unleashed full-scale war against Pakistan since Shawwal 14, and its aeroplanes are pounding Karachi heavily. Bombs are being dropped regularly every night on civil population as well. There is a complete blackout at nights. The houses get jolted with the explosion of the bombs. But by the grace of Allah there was no break in the writing of this commentary. During the last ten days of war twenty pages of the commentary were written.
 
 ## Personal Reflections
+
+

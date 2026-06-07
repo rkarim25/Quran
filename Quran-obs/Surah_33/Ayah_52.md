@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 More than one of the scholars, such as Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, Ibn Zayd, Ibn Jarir and others stated that this Ayah was revealed as a reward to the wives of the Prophet ﷺ expressing Allah's pleasure with them for their excellent decision in choosing Allah and His Messenger ﷺ and the Home of the Hereafter, when the Messenger of Allah ﷺ, gave them the choice, as we have stated above. When they chose the Messenger of Allah ﷺ their reward was that Allah restricted him to these wives, and forbade him to marry anyone else or to change them for other wives, even if he was attracted by their beauty – apart from slave-girls and prisoners of war, with regard to whom there was no sin on him. Then Allah lifted the restriction stated in this Ayah and permitted him to marry more women, but he did not marry anyone else, so that the favor of the Messenger of Allah ﷺ towards them would be clear.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -190,3 +182,5 @@ However, the meaning of these words in view of the first explanation of this ver
 Towards the end of these verses it is clarified that a bond woman owned by the Holy Prophet ﷺ is exempt from fifth and seventh rules in the sense that she is lawful for him, even if she is a Christian or Jew, and it is also permitted for him to replace her with another bondwoman. Lastly it has been reminded that Allah Ta’ ala is watchful of everything's reality, appearance and underlying reasons. All these injunctions and rules are based on divine wisdom and expedience, even if the wisdom is not stated specifically, and hence no one has the right to question them or raise objections against them.
 
 ## Personal Reflections
+
+

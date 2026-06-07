@@ -122,18 +122,6 @@ word_by_word:
     transliteration: mafʿūlan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-From this, it may safely be concluded that the discourse containing verse 47 must have been revealed sometime before that date.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who have been given the Scripture (Jews and Christians)! Note 1: The Qur’ anic expression: فَنَرُ‌دَّهَا عَلَىٰ أَدْبَارِ‌هَا (and turn them shaped like their backs) admits of two probabilities in this act of turning.
@@ -259,3 +247,5 @@ Note 2: When will this be is a question posed and answered by Commentators in gr
 Maulana Ashraf Thanavi (رح) ، has said: In my opinion, that question simply does not arise because there is no single word in the Qur'an which would suggest the proposition: If you do not believe, the punishment of tams and maskh will definitely materialize. In fact, it suggests probability, that is, given their crime, they do deserve this punishment, and should He spare them from the punishment, that would be His mercy.'
 
 ## Personal Reflections
+
+

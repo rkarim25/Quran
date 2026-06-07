@@ -133,15 +133,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 230, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Jarir said that the Ayah (2:229) was revealed about Thabit bin Qays bin Shammas and his wife Habibah bint 'Abdullah bin Ubayy bin Salul. In his Muwatta', Imam Malik reported that Habibah bint Sahl Al-Ansariyah was married to Thabit bin Qays bin Shammas and that Allah's Messenger ﷺ once went to the Fajr (Dawn) prayer and found Habibah bint Sahl by his door in the dark. Allah's Messenger ﷺ said, "Who is this?" She said, "I am Habibah bint Sahl, O Messenger of Allah!" He said, "What is the matter?" She said, "I and Thabit bin Qays", meaning, (she can no longer be with) her husband. When her husband Thabit bin Qays came, Allah's Messenger ﷺ said to him:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -500,3 +492,5 @@ Then the other question -- when the Holy Prophet ﷺ had already ruled three div
 Now that all doubts have been removed, let Allah be praised. The purpose here does not warrant going into comprehensive and exhaustive details on the subject of three talaqs. That appears in extensive details in Hadith commentaries and several ` ulama have explained it in detailed treatises. Here, this much is sufficient to understand the subject. And Allah is our supporter and helper.
 
 ## Personal Reflections
+
+

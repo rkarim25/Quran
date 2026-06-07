@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-ḥakīmu
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He taught Adam all the names (of everything), then He showed them to the angels and said, "Tell Me the names of these if you are truthful. Allah is the creator of the language (2) This episode, according to Imam al-Ash'ari (رح) ، shows that language as such has been created by Allah Himself, and not invented by man - its use by different kinds of men has later on produced the many forms of language.
@@ -191,3 +179,5 @@ Allah is the creator of the language
 (3) One should note a subtle suggestion here in the use of two words. In asking the angels for the names of things, Allah said, أَنبِئُونِي "Tell Me"; but in commanding Adam (علیہ السلام) to do so, He said, أَنبِئْهُم : "Tell them." The difference in the mode of expression shows that Adam (علیہ السلام) was given the rank of a teacher, and the angels that of pupils. It is thus an indication of his superiority over them. Another thing the episode indicates is that an increase or decrease is possible in the degree of knowledge the angels possess, for they were given, through Adam (علیہ السلام) ، at least a primary knowledge about a thing which they did not know before.
 
 ## Personal Reflections
+
+

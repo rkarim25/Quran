@@ -33,18 +33,6 @@ word_by_word:
     transliteration: jamīlan
 ---
 
-## Context
-
-To understand **The Enshrouded One** (Al-Muzzammil) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The two sections of this Surah were revealed in two separate periods. The first section ( vv. 1-19 ) is unanimously a Makki Revelation, and this is supported both by its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. (And bear patiently what they say, and part with them in a beautiful manner...73:10).
@@ -144,3 +132,5 @@ So the first interpretation would mean, 'how can you attain safety for yourselve
 Some scholars of Tafsir say that the injunction of this verse is repealed by verses of jihad which were revealed later on. But a careful analysis indicates that the injunction is not repealed. The above verses enjoin patience and steadfastness in the face of what the enemies say and cutting off from them courteously. This is not in conflict with verses that deal with reproof, punishment and armed struggle that were revealed subsequently. The injunction of this verse is applicable at all times and under all circumstances, whereas jihad is reproof and punishment, and is a specific injunction to be applied under specific conditions. Islamic jihad and armed struggle is not a matter of taking revenge or expression of anger, which could be in conflict with patience and fortitude or courteous severance. It is purely acting on the Divine command as is patience and courteous severance under general circumstances. Up to this point the Holy Prophet ﷺ was commanded to be steadfast and to abstain from revenge. The next verse, reprimands the deniers of Truth that instead of being grateful to Allah for "ease and plenty" provided for them, they reject the Divine Message:
 
 ## Personal Reflections
+
+

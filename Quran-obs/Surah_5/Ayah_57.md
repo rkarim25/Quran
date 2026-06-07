@@ -100,18 +100,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The Prohibition of Friendship with those who make fun of Islam In the sixth verse (57), Allah Almighty has again stressed upon the injunction mentioned in verse 51 at the beginning of the Section, the sense of which is that the Muslims should not seek close friendship with people who make fun of their religion.
@@ -197,3 +185,5 @@ Qadi Thanaullah of Panipat has said in Tafsir Mazhari that Allah Almighty calls 
 These people do know outward matters of the present life while they are heedless to the Hereafter. (30:7)
 
 ## Personal Reflections
+
+

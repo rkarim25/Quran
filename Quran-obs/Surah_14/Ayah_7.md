@@ -51,18 +51,6 @@ word_by_word:
     transliteration: lashadīdun
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Musa said to his people: "Call to mind Allah's favor to you, when He delivered you from Fir'awn's people who were afflicting you with horrible torment, and were slaughtering your sons and letting your women live; and in it was a tremendous trial from your Lord. The Outcome of Gratitude and Ingratitude In the third verse (7), it was said: وَإِذْ تَأَذَّنَ رَ‌بُّكُمْ لَئِن شَكَرْ‌تُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْ‌تُمْ إِنَّ عَذَابِي لَشَدِيدٌ (And when your Lord declared, "If you express gratitude, I shall certainly give you more, and if you are ungrateful, then My punishment is severe." ).
@@ -138,3 +126,5 @@ And then it was said: If you are ungrateful for My blessings then severe is My p
 It is worth remembering at this point that in this verse, Allah Tad does promise good return, reward and increase in blessing, and that too in an emphatic manner: لَازِیدَنَّکُم (I shall certainly give you more). But, in contrast to this, for the ungrateful it was not said: لَاُعُذِّبَںَّکُم (I shall certainly punish you). Instead of that, given here is a limited warning which conveys the sense that 'My punishment too, to whomsoever it reaches, is very severe.' In this particular interpretation, there is a hint that it is not necessary that every ungrateful person has to undergo punishment - the likelihood of forgiveness also exists.
 
 ## Personal Reflections
+
+

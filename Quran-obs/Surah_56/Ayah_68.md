@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tashrabūna
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do you not see what you sow (63)Is it you that make it grow, or are We the Grower (64)Were it Our will, We could crumble it to dry pieces, and you would be Tafakkahun (65)(Saying:) "We are indeed Mughramun! was lost in the secondary or extrinsic causes and lost sight of his Real Creator and Master, the Primary or Intrinsic Cause of his creation.
@@ -153,3 +141,5 @@ was lost in the secondary or extrinsic causes and lost sight of his Real Creator
 Next to food, water is the most important thing upon which human life depends for its sustenance. Here too the Qur'an, in its inimitable style, poses the question: 'Have you considered the water you drink? Did you send it down from the clouds, or did We send it?' The answer is obvious: 'Allah'. Fire plays a most important part in the life of man. Much of his physical comfort depends upon it. [ It is a thing of great utility. In this mechanistic age life is inconceivable without the use of fire. No industry, trade or travel is possible without it.] The Qur'an again, in its unique and unparalleled style, poses the question: 'Have you considered the fire you kindle? Did you make its timber to grow, or did We make it?' Here too the answer is obvious: 'Allah'. Of course, in both instances the Qur'anic answers are elaborate.
 
 ## Personal Reflections
+
+

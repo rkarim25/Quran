@@ -76,18 +76,6 @@ word_by_word:
     transliteration: takfurūna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 106, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Let there arise out of you a group of people inviting to all that is good (Islam), enjoining Al-Ma'ruf (all that Islam orders) and forbidding Al-Munkar (all that Islam has forbidden). On the day of Doom, you shall see those who lied against Allah (with) their faces blackened.
@@ -243,3 +231,5 @@ In the verse Allah Almighty has mentioned the بْيَضُّ bayyad first, and t
 About the statement, فی رحمۃ اللہ 'they shall rest in Allah's mercy', the blessed Companion Sayyidna Ibn ` Abbas ؓ says that 'rahmah' or 'mercy' in the verse means جَنَّت 'Jannah' or 'paradise'. Here too, the wisdom behind giving the name 'mercy' to 'paradise' is, quite obviously, that man, no matter how worshipful and pious he may be, shall not enter Paradise unless it be through the sole mercy of Allah Almighty. The reason is that being devoted in acts of worship is no feat of human excellence as such. On the contrary, the very ability to do so is, in itself, a gift of Allah. So, عبادہ 'ibadah' or worship does not, in itself, create an inherent right to enter Paradise. It is Allah's mercy alone through which one can enjoy the bliss of Paradise. (al-Tafsir al-Kabir)
 
 ## Personal Reflections
+
+

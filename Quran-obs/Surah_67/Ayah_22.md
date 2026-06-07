@@ -54,18 +54,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Who is it besides the Most Gracious that can be an army to you to help you? أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي سَوِيًّا عَلَىٰ صِرَ‌اطٍ مُّسْتَقِيمٍ (Then, tell me whether the one who walks falling down [ frequently ] on his face is better guided or the one who walks on a straight path...67:22).
@@ -183,3 +171,5 @@ This is why it will be said to them in order to scold and reprimand them,
 The phrase 'the one who walks on a straight path' refers to the believer who is rightly guided. The next verse describes the manifestation of Divine power and wisdom in the creation of man, thus:
 
 ## Personal Reflections
+
+

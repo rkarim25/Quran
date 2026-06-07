@@ -134,18 +134,6 @@ word_by_word:
     transliteration: naṣīran
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And what is wrong with you that you fight not in the cause of Allah, and for those weak, ill-treated and oppressed among men, women, and children, whose cry is: "Our Lord! Answering the call of the oppressed Left behind in Makkah were Muslims who were unable to migrate because of physical weakness and insufficiency of resources.
@@ -191,3 +179,5 @@ Left behind in Makkah were Muslims who were unable to migrate because of physica
 According to this verse, Muslims had requested Allah Almighty the favour of two things - that they be rescued from that town (meaning Makkah) and that they be blessed with some supporter and helper. The fact is that Allah Almighty granted both these prayers when He provided some of them with the opportunity to move out from there which was the fulfillment of their first wish. However, some of them remained staying right there until the Conquest of Makkah. At that time, the Holy Prophet ﷺ appointed Sayyidna ` Attab ibn Asid as their caretaker and who had the oppressed Muslims delivered from their oppressors. Thus, granted was their second wish as well. It will be noted that the Holy Qur'an, rather than give a straightforward command to fight in this verse, has elected to use the words: وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّـهِ ): (What has happened to you that you do not fight in the way of Allah?). Here the hint given is that fighting and Jihad is a natural duty under such conditions,_ not doing which is certainly far from a reasonable man.
 
 ## Personal Reflections
+
+

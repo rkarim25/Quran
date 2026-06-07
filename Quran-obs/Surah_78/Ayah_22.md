@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Tidings** (An-Naba) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance. His statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ Then he said, "They will continue increasing in torment forever."
 لِّلطَّاغِينَ مَآبًا ([ It is ] an abode for the rebellious people... 78:22). The combined sense of verses 21 and 22 is that the bridge of Hell is set in ambush for all, the good and the bad. They will have to go over it. But Hell is the abode of the rebellious people. The word taghin is the plural of taghi, being derived from tughyan, meaning 'rebellion'. Thus the word taghi refers to a 'person who exceeds the limit in disobeying the authority [ of Allah ] '. This is possible only when he gives up his faith. Hence, the word thin in this context would refer to the disbelievers. It may also refer to the stray groups of Muslims who have deviated from the limits of Qur'an and Sunnah, though they may not have adopted kufr expressly, such as Rawafid, Khawarij, Mu'tazilah and others. [ as in Mazhari ].
 
 ## Personal Reflections
+
+

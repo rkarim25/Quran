@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 When these verses were revealed during the battle of Badr, this was the operating order of the time, that is, take on the enemy, irrespective of its numbers, strength and power, and irrespective of your own numbers and strength as compared to it, then do not turn back from the combat and run for life. This is how it was in Badr. Only three hundred and thirteen Mujahidin were facing one thousand, three times their number. It was later on that injunctions relaxing restrictions were revealed in verses 65 and 66 of Surah Al-Anfal, now under study. In verse 65, twenty Muslims have been commanded to wage Jihad against two hundred disbelievers, and one hundred Muslims against one thousand of them. Then, in verse 66, the following law of additional relaxation was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ On the day of the confrontation at Badr, says the report, when the armed force o
 Finally, some fighting men from the opposing side were killed, some were taken prisoners, the rest ran away and the battle was won by the Muslims.
 
 ## Personal Reflections
+
+

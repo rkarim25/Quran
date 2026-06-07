@@ -16,18 +16,6 @@ word_by_word:
     transliteration: inshaqqat
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest Surahs to be revealed at Makkah. The internal evidence of its subject matter indicates that persecution of the Muslims had not yet started; however, the message of the Qur'an was being openly repudiated at Makkah and the people were refusing to acknowledge that Resurrection would ever take place when they would have to appear before their God to render an account of their deeds. Theme and Subject Matter Its theme is the Resurrection and Hereafter. In the first five verses not only have the state of Resurrection been described vividly but an argument of its being true and certain also have been given.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, The present Surah depicts the conditions that will prevail on the Day of Judgment, such as reckoning and accountability, reward of good and torment of evil.
@@ -183,3 +171,5 @@ Jami, this is the interpretation of the dream of life.'
 It is possible that Allah will, on that day, endow the sky and the earth with special sense and perception like humans and Jinn. When they receive a command from Allah, they, of their own volition choose to act upon it. Alternatively, the command may refer to the second kind, that is, the cosmic command that no one can violate. But the words, وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ "and will listen to [ the command on its Lord, and it ought to," are closer to the first meaning of command, while the second one is possible, if these words are taken in their figurative sense.
 
 ## Personal Reflections
+
+

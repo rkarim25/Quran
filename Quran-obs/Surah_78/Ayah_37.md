@@ -46,18 +46,6 @@ word_by_word:
     transliteration: khiṭāban
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… This sentence is probably connected to the preceding verse: جَزَاءً مِّن رَّ‌بِّكَ عَطَاءً حِسَابًا (this being a reward from their Lord, a sufficing grant...78:36) In this case, it would mean that when Allah grants a certain grade of reward, no one dare speak about the grade as to why someone got more and others got less.
@@ -227,3 +215,5 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 This sentence is probably connected to the preceding verse: جَزَاءً مِّن رَّ‌بِّكَ عَطَاءً حِسَابًا (this being a reward from their Lord, a sufficing grant...78:36) In this case, it would mean that when Allah grants a certain grade of reward, no one dare speak about the grade as to why someone got more and others got less. But if this sentence is treated as an isolated one, it will mean that no one in the Plane of Gathering will have the power to speak to Him without His permission. This permission will be granted in some of the positions of Gathering, and not in others.
 
 ## Personal Reflections
+
+

@@ -134,18 +134,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **Hud** (Hud) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He it is Who has created the heavens and the earth in six Days and His Throne was over the water, that He might try you, which of you is the best in deeds. Another manifestation of the all-encompassing knowledge and perfect power of Allah Ta` ala has been mentioned in the second verse (7) - ` And He is the One who created the heavens and the earth in six days and (before creating these) His throne was on water.' This tells us that water was created before the creation of the heavens and the earth.
@@ -325,3 +313,5 @@ The outcome is that human beings are the real purpose of the creation of the hea
 There is something we should also take note of. Allah Ta` ala said: أَحْسَنُ عَمَلًا (who among you is better in deed). He has said nothing about the number of deeds. From here we learn that Allah Ta'ala favors the quality of deed more than He does the abundance or profusion or fre-quency of good deeds such as, Salah, Sawm, Tilawah of Qur'an and Dhikr of Allah. This beauty or excellence of deeds has been expressed through the word: اِحسَان (ihsan) in Hadith. Essentially, it means the doing of a deed for the good pleasure of Allah alone with no worldly motive attached to it. Then, it is also necessary to do it in a way that is liked in the sight of Allah. This way has been demonstrated by the Holy Prophet ﷺ through his conduct and he has made it necessary for his community to follow his Sunnah. In a nutshell, we can say that a little done with total sincerity and according to Sunnah is better than a lot more done with none, or less of the two.
 
 ## Personal Reflections
+
+

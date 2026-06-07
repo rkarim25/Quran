@@ -165,18 +165,6 @@ word_by_word:
     transliteration: yaftarūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-26-53 As the Message has been sent down by Allah (Who is the Creator of the heavens and the earth and everything in them), it should be followed, for it is like the rain He sends down to give life to the dead earth.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Certainly, We have brought to them a Book (the Qur'an) which We have explained in detail with knowledge, a guidance and a mercy to a people who believe (52)Await they just for the final fulfillment of the event? Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ اللَّـهُ بِرَ‌حْمَةٍ ۚ ادْخُلُوا الْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَا أَنتُمْ تَحْزَنُونَ ﴿49﴾ (Is it these for whom you swore that Allah would not reach them with mercy?" - "Enter the Paradise; there is no fear on you, nor shall you grieve).
@@ -252,3 +240,5 @@ Said in the sixth verse (49) is: أَهَـٰؤُلَاءِ الَّذِينَ �
 Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and answers between the people of A` raf and the people of Paradise and Hell both will be over, that will be the time when the Lord of all the worlds will address the people of Hell and tell them about the people of A` raf that they swore that the people of A` raf will not be forgiven their sins and mercy will not be shown to them. Then, there comes an immediate declaration of His mercy when the people of A` raf will be told: Go and enter the Paradise. You should have no fear of what had happened in the past nor should you have any anxiety about the future. (Ibn Kathir)
 
 ## Personal Reflections
+
+

@@ -98,15 +98,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The first verse among those cited above has been revealed to identify and eliminate this absurd custom. It was said in the verse that on occasions when they did something shameful and people told them not to do so, their answer to them would be that their forefathers and elders have been doing so all along, and now for them, to forsake their practice was a matter of shame. Then, they also said that this was what Allah had told them to do. (Ibn Kathir)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -271,3 +263,5 @@ Then, come the two arguments they advanced in support of the continuance of this
 The second argument in favour of their naked Tawaf advanced by these people was that Allah had ordered them to do so. This was a flagrant lie. They were attributing to Allah what He had never commanded. Addressing the Holy Prophet ﷺ the answer given was: قُلْ إِنَّ اللَّـهَ لَا يَأْمُرُ‌ بِالْفَحْشَاءِ (Allah never bids anything shameful) – because commanding people to do something like that is against His wisdom and counter to His state of being the Purest of the pure. Then, taken to task was their false and untrue, attribution to Allah. They were warned with the words: أَتَقُولُونَ عَلَى اللَّـهِ مَا لَا تَعْلَمُونَ (Do you say about Allah what you do not know?). It means that they were attributing a falsity to Allah without having an evidence in support; and it is obvious that attributing something to someone without proper investigation and authority is an act of rank effrontery and patent injustice. Then if done in the case of Allah Jalla Sha'nuhu, reporting anything so falsely will be a crime and injustice the magnitude of which cannot be imagined. At this point, let it be understood clearly that the respected Mujtahid Imams, when they deduce, formulate and describe injunctions which appear in the verses of the Qur'an through Ijtihad, that effort does not fall under the purview of this verse. The reason is that their deduction is a process which operates under the justification of the very words and meanings of the Qur'an.
 
 ## Personal Reflections
+
+

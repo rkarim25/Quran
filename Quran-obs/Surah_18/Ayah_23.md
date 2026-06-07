@@ -34,15 +34,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 At the beginning of this Surah we discussed the reason why this Ayah was revealed: when the Prophet was asked about the story of the people of the Cave, he said, "I will tell you tomorrow." Then the revelation was delayed for fifteen days.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -97,3 +89,5 @@ In the third verse (25), a decision has been given on a controversy. This was a 
 After that, those who still differ with it have been warned once again that they are not the ones who know the reality of things as they are. The One who knows it all is none else but Allah with whom rests the knowledge of all that is unseen in the heavens and the earth. He is All Hearing. He is All Seeing. The time duration of three hundred nine years given by Him should be enough for their satisfaction.
 
 ## Personal Reflections
+
+

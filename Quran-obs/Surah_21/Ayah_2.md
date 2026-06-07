@@ -50,18 +50,6 @@ word_by_word:
     transliteration: yalʿabūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… مَا يَأْتِيهِم مِّن ذِكْرٍ‌ مِّن رَّ‌بِّهِم مُّحْدَثٍ إِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ ﴿2﴾ لَاهِيَةً قُلُوبُهُمْ (No new message comes to them from their Lord, but they listen to it in a state of playing, their hearts paying no heed.
@@ -161,3 +149,5 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 مَا يَأْتِيهِم مِّن ذِكْرٍ‌ مِّن رَّ‌بِّهِم مُّحْدَثٍ إِلَّا اسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ ﴿2﴾ لَاهِيَةً قُلُوبُهُمْ (No new message comes to them from their Lord, but they listen to it in a state of playing, their hearts paying no heed. 21:2, 3) This verse describes the state of those who disregard the punishment in the grave and in the Hereafter and do not prepare themselves to counter it with good deeds. The verse further describes their practice of making light of new Qur'anic verses when they are recited before them. They are totally oblivious of the fear of God and the Hereafter. The verse can be explained in two other ways. One, that they keep themselves engaged in their own amusement and take no notice of Qur'anic verses when they are recited before them and two, that they redicule the Qur'anic verses themselves.
 
 ## Personal Reflections
+
+

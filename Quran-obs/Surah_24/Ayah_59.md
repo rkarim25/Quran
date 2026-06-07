@@ -84,18 +84,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! It has been described in the beginning of this Surah that the injunctions of Surah Nur mostly relate to prevention of obscenity and vulgarity.
@@ -205,3 +193,5 @@ The second narration is also reported on authority of Ibn Abi Hatim by Sayyidna 
 But Qur'an teaches for a pure society so that no one interferes in anyone's freedom and everybody lives in peace and comfort. Those who do not make their family members follow the practice of seeking permission they themselves face inconvenience and curb their natural instincts and desires.
 
 ## Personal Reflections
+
+

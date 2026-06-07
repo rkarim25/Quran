@@ -186,18 +186,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If you help him (Muhammad ﷺ) not (it does not matter), for Allah did indeed help him when the disbelievers drove him out, the second of the two; when they were both in the cave, he said to his companion: "Be not sad (or… In the third verse (40), by citing the event of the Hijrah of the Holy Prophet, it has been stressed that the Rasul of Allah has no need to depend on any human help and support.
@@ -267,3 +255,5 @@ So, Allah sent down His tranquility on him and strengthened him with troops you 
 These troops could be troops of angels, and of the elemental forces of the entire universe too - for they are, so to say, a virtual army of Allah. When this happened, the ultimate came to be. The word of disbelievers was rendered low and the word of Allah remained the highest.
 
 ## Personal Reflections
+
+

@@ -75,18 +75,6 @@ word_by_word:
     transliteration: yashāu
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 At that time Zakariyya invoked his Lord, saying: "O my Lord! We have already seen that Sayyidna Zakariyya (علیہ السلام) believed in the absolute power of Allah and had seen its manifestation repeatedly and that he had himself made the prayer and knew of its acceptance as well, what then, did he mean by asking: 'how shall I have a boy?' The truth of the matter is that the question asked by him was not be-cause of any doubt in the absolute power of Allah.
@@ -192,3 +180,5 @@ Commentary
 We have already seen that Sayyidna Zakariyya (علیہ السلام) believed in the absolute power of Allah and had seen its manifestation repeatedly and that he had himself made the prayer and knew of its acceptance as well, what then, did he mean by asking: 'how shall I have a boy?' The truth of the matter is that the question asked by him was not be-cause of any doubt in the absolute power of Allah. Quite contrary to this, the purpose of the question was to find out the state in which this was to happen: whether the present extreme old age of both of them would remain just as it was, or would that state be changed. The eloquent reply given in كَذَٰلِكَ اللَّـهُ يَفْعَلُ مَا يَشَاءُ (That is how Allah does what He wills) makes it clear that they were to remain at the same age and that they would have an offspring in that very state. This resolves any doubt that may be entertained at this point. (Bayn al-Qur'n)
 
 ## Personal Reflections
+
+

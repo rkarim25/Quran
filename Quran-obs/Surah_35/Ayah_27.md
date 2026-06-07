@@ -96,18 +96,6 @@ word_by_word:
     transliteration: sūdun
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 See you not that Allah sends down water from the sky, and We produce therewith fruits of various colors, and among the mountains are Judad, white and red, of varying colors and (others) Gharabib black (27)And likewise, men and moving creature and cattle are of various colors. Some early commentators have said that these verses return to the subject of Tauhid, Oneness of Allah or pure monotheism supported by proofs of Divine power and mastery in nature.
@@ -165,3 +153,5 @@ The Holy Qur'an has mentioned different colors of fruits at the first place in V
 And in case of mountains, used there was the word: جُدَدٌ (judad). This is the plural form of: جُدَّہ (juddah) the well-recognized meaning of which is that of a mini pathway also known as: جادہ (jadah). Some respected elders have taken juddah in the sense of a tract, patch or segment that, in both situations, denotes parts of the mountains being different in colors. Out of these, white was mentioned first while black, last. In between, along with the mention of red, the expression: مُّخْتَلِفٌ أَلْوَانُهَا (of different colors) was introduced. This could be releasing a hint that, in reality, the colors in this world are no more than two - white and black. The rest of the colors in the spectrum emerge by compounding different degrees of white and black.
 
 ## Personal Reflections
+
+

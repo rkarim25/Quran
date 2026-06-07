@@ -100,18 +100,6 @@ word_by_word:
     transliteration: raḥīman
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Looking back from the beginning of Surah Al-Nisa', we see that it points out to the creation of all human beings from one father and mother and to the fact that all of them are bound in one big bond of brotherhood which suggests that rights of human beings at large have to be guarded and fulfilled.
@@ -395,3 +383,5 @@ The third sentence of the first verse (29) says: وَلَا تَقْتُلُوا
 Verse 29 closes with the statement: إِنَّ اللَّـهَ كَانَ بِكُمْ رَ‌حِيمًا ، which means that the injunctions given in this verse -- 'do not eat up each other's property by false means' or 'do not kill anyone unjustly' -- are injunctions that come to you as Divine Mercy, so that you can take your guard against falling into these misdeeds and thereby become liable to punishment in the life to come, and also that you may stay safe from punishments which could afflict you right here in the present life.
 
 ## Personal Reflections
+
+

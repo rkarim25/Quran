@@ -30,18 +30,6 @@ word_by_word:
     transliteration: l-buṭūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit st… By saying: طَلْعُهَا كَأَنَّهُ رُ‌ءُوسُ الشَّيَاطِينِ (Its fruits are like the heads of the shaitans.- 65), the fruits of zaqqum have been likened to the heads of the satans.
@@ -143,3 +131,5 @@ commentators have said that the word: الشَّيَاطِينِ (ash-shayatin) 
 The sense of the rest of the verses is clear from their translation.
 
 ## Personal Reflections
+
+

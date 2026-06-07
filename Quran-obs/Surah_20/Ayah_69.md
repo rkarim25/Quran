@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand. Thus, Allah revealed to him at the right moment, to throw what was in his right hand, which was the stick. When he did so, it swallowed what they had made. It became a huge, monstrous creature with legs, a neck, a head and fangs. It went after these ropes and sticks until none of them remained, except that it was devoured and swallowed by this beast. At the same time, the magicians and all of the people were watching with their own eyes, seeing this amazing event in broad daylight. Thus, the miracle was performed and the evidence was clear. The truth prevailed and the magic was proven to be falsehood. This is why Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -144,3 +136,5 @@ Conversion to Islam and bowing in prostration by the Pharaoh's magicians
 The Egyptian magicians who were masters of their art realized at once that what they had just witnessed was not magic but a miracle brought about by a Supreme Power. Consequently they fell in prostration and declared openly their faith in Allah - the God of Sayyidna Musa (علیہ السلام) and Sayyidna Harun (علیہ السلام) . According to some traditions these magicians did not raise their heads until they had seen a glimpse of heaven and hell. (رواہ عبد بن حمید و ابن ابی حاتم وابن ال؛منذر عن عکرمہ - روح)
 
 ## Personal Reflections
+
+

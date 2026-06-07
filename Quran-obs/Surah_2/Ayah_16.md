@@ -50,18 +50,6 @@ word_by_word:
     transliteration: muh'tadīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 These are they who have purchased error with guidance, so their commerce was profitless. The ninth verse shows the basic denseness of the hypocrites - how they failed to make use of the ordinary sense of discrimination.
@@ -105,3 +93,5 @@ The Ayah also includes those who preferred deviation over guidance. The hypocrit
 The ninth verse shows the basic denseness of the hypocrites - how they failed to make use of the ordinary sense of discrimination. They had grown up in a pagan society, and knew very well what the way of the infidels was. Now they had become familiar enough with Islam too, and could easily see the difference. But, in their greed, and for the sake of petty worldly profit, they still chose disbelief as against Islam, and bartered away something as invaluable as Iman ایمان (faith) for something as worthless, and even harmful as kufr کفر (infidelity). In giving the name of 'trade' or 'commerce' to this action, the Holy Qur'an suggests that these worldly-wise men had no understanding even of the art of trading.
 
 ## Personal Reflections
+
+

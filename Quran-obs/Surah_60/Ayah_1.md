@@ -210,17 +210,9 @@ word_by_word:
 
 ## Context
 
-To understand **She that is to be examined** (Al-Mumtahanah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! Take not my enemies and your enemies as protecting friends'...) was revealed about Hatib, but I do not know if the Ayah was mentioned in the Hadith (or was added as an explanation by one of the narrators)." Al-Bukhari also said that 'Ali bin Al-Madini said that Sufyan bin 'Uyaynah was asked, "Is this why this Ayah,
 
 The Surah opens with a prohibitory injunction to Muslims against having close and intimate friendship with disbelievers and those who associate partners with Allah. This injunction was revealed in the context of a particular incident which is mentioned below:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -383,3 +375,5 @@ It was with reference to this incident that Allah revealed the opening verses of
 تُسِرُّ‌ونَ إِلَيْهِم بِالْمَوَدَّةِ وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنتُمْ (...You express love with them secretly, while I know what you have concealed and what you have revealed ....60:1). This statement makes it clear that anyone who secretly maintains a friendly intimacy with the unbelievers should not think that it will remain secret. Allah is fully aware of what people do secretly and openly, as it happened in the story recounted above. Allah informed the Holy Prophet ﷺ by revelation and had the secret plot thwarted.
 
 ## Personal Reflections
+
+

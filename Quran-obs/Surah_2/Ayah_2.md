@@ -33,18 +33,6 @@ word_by_word:
     transliteration: lil'muttaqīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 There is no Doubt in the Qur'an The Book, is the Qur'an, and Rayb means doubt. The sentence "That Book has no doubt in it" raises a grammatical and exegetical problem, for the first phrase in the Arabic text reads as ذَٰلِكَ الْكِتَابُ :Dhcilikal kitab.
@@ -188,3 +176,5 @@ Having indicated this, the Holy Qur'an makes a claim about itself: "There is no 
 ھُدًى لِّلْمُتَّقِيْنَ :"A guidance for the God-fearing": The Arabic word for the God-fearing is Muttaqin, derived from Taqwa which literally means "to fear, to refrain from", and in Islamic terminology it signifies fearing Allah and refraining from the transgression of His commandments. As for the Holy Qur'an being a guidance to the God-fearing, it actually means that although the Holy Qur'an provides guidance not only to mankind but to all existents in the universe, yet the special guidance which is the means of salvation in the other world is reserved for the God-fearing alone. We have already explained in the commentary on the Surah "Al-Fatihah" that there are three degrees of divine guidance - the first degree being common to the whole of mankind and even to animals etc., the second being particular to men and jinns, and the third being special to those who are close to Allah and have found His favour, the different levels of this last degree being limitless. It is the last two degrees of guidance which are intended in the verse under discussion. With regard to the second degree, the implication is that those who accept the guidance will have the hope of being elevated to the rank of the God-fearing. With reference to the third degree, the suggestion is that those who are already God-fearing may receive further and limitless guidance through the Holy Qur'an. This explanation should be sufficient to remove the objection that guidance is needed much more by those who are not God-fearing, for now we know that the specification of the God-fearing does not entail a denial of guidance to those who not possess this qualification.
 
 ## Personal Reflections
+
+

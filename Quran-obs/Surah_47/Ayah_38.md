@@ -127,18 +127,6 @@ word_by_word:
     transliteration: amthālakum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This worldly life is only amusement and diversion. تُدْعَوْنَ لِتُنفِقُوا فِي سَبِيلِ اللَّـهِ فَمِنكُم مَّن يَبْخَلُ "...
@@ -202,3 +190,5 @@ This concludes the Tafsir of Surat Al-Qital. And Allah is worthy of all praise a
 Shaikh Jalal-ud-Din Suyuti wrote a book on the biography of Abu Hanifah (رح) where he identifies him and his disciples as being the people referred to in the Hadith quoted earlier, because no group among the Persians reached that high point of knowledge where Abu Hanifah (رح) and his disciples reached.
 
 ## Personal Reflections
+
+

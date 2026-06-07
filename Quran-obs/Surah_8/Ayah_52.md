@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-ʿiqābi
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Similar to the behavior of the people of Fir'awn, and of those before them – they rejected the Ayat of Allah, so Allah punished them for their sins. The third verse (52) tells us that the punishment of Allah visiting these criminals is not something totally unprecedented.
@@ -115,3 +103,5 @@ none can resist Him or escape His grasp.
 The third verse (52) tells us that the punishment of Allah visiting these criminals is not something totally unprecedented. In fact, it is nothing but the customary practice of Allah that He would give reason and understanding to His servants so that they could act as guided. Then, all around them, they have countless things they can think about and go on to know Allah Ta` ala and recognize His great power, and then do not stoop to the level of taking the weak ones from among His creation as His partners, associates or equals and, after that, He sends His Books and Messengers for additional warning. When the Messengers of Allah come, they leave no stone unturned in making people understand the message. They even go to the outer limits of demonstrating the manifestations of the inalienable subduing power of Allah Ta` ala in the form of miracles. Now, if a person or a people were to close their eyes to all these things, give no ear to any of these Divine warnings, then, for such people, there is the inevitable practice of Allah Ta` ala: That they are visited by punishment in this world too, and that they are subjected to the everlasting punishment of the Hereafter as well. It was said: كَدَأْبِ آلِ فِرْ‌عَوْنَ ۙ وَالَّذِينَ مِن قَبْلِهِمْ ' (Their way is) like the way of the people of Pharaoh and of those before them - 52.' The Arabic word: دَأْبِ (da'b) used in the text means habit or way. Thus, the sense is that the world already knows the customary practice of Allah Ta` ala vis-a-vis the haughty and the contumacious like Pharaoh and his people and has seen its manifestation when Pharaoh was made to drown in the sea with all his power and people, and similar was the fate of those before him, the people of ` Ad and Thamud, who were hit by many kinds of punishment which eliminated them totally. Then, it was said: كَفَرُ‌وا (52) which means when these people belied the verses and signs of Allah Ta` ala, He seized them with His punishment because of their sins. After that, the verse ends with the statement: إِنَّ اللَّـهَ (52) which gives the reason why it happened the way it did - that Allah Ta` ala is Strong. No one claiming any kind of strength and valour can, on that basis alone, get away from His punishment. And then, certainly very severe is the punishment which comes from Allah Ta` ala Himself.
 
 ## Personal Reflections
+
+

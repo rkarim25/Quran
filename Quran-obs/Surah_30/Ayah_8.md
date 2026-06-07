@@ -96,18 +96,6 @@ word_by_word:
     transliteration: lakāfirūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (And on that day, the believers will rejoice – with the help of Allah.) They will rejoice because the Romans, the companions of Caesar, the king of Ash-Sham, defeated the Persians, the companions of Chosroes, who were Zoroastrians. The first two verses are an appendix and endorsement to the previous subject that these disbelievers are engrossed so much in the temporary mundane glitter and transitory pleasures that they have totally forgotten the real nature of this world and its ultimate end.
@@ -133,3 +121,5 @@ Therefore, it is necessary that a time should come when this system should come 
 The gist of this discussion is that if the disbelievers had pondered over these things, then this very sky and earth and the creatures in between them would have testified that they were not permanent. They are here but for a short time, after which a new world is to come, which will be permanent. This is the essence of the first of the above verses أَوَلَمْ يَتَفَكَّرُ‌وا فِي أَنفُسِهِم (30:8) This was a matter of logical rationale. In the next verse worldly thinking and experiences are presented as a testimony, and the Makkans are addressed in the following words:
 
 ## Personal Reflections
+
+

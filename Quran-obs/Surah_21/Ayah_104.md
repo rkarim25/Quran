@@ -71,18 +71,6 @@ word_by_word:
     transliteration: fāʿilīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day when We shall roll up the heaven like a Sijill for books. يَوْمَ نَطْوِي السَّمَاءَ كَطَيِّ السِّجِلِّ لِلْكُتُبِ (The Day when We roll up the sky like a scroll rolls up the writings.
@@ -136,3 +124,5 @@ Al-Bukhari recorded that Nafi' reported from Ibn 'Umar that the Messenger of All
 Sahih al-Bukhari contains a story on the authority of Sayyidna ` Abdullah Ibn ` Umar ؓ that the Holy Prophet ﷺ said that on the Day of Judgment Allah Ta` ala would roll up all the seven skies and the seven worlds along with all the created things thereon in His hand, and all of them together would be no more than a grain of rye in His hand. (Ibn Kathir)
 
 ## Personal Reflections
+
+

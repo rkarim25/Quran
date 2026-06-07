@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud. Subject Though these discourses were revealed at different periods and on different occasions, they are so inter-linked and so inter-connected with regard to their aim, object, and central theme that they make together one continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah chose Adam, Nuh (Noah), the family of Ibrahim and the family of 'Imran above the nations (33)Offspring, one of the other, and Allah is All-Hearer, All-Knower (34) The Chosen Ones Among the People of the Earth In these verses a reference has been made to some past prophets to comfort the Holy Prophet ﷺ since disbelievers did not obey him because they doubted his prophethood.
@@ -79,3 +67,5 @@ Allah states that He has chosen these households over the people of the earth. F
 In these verses a reference has been made to some past prophets to comfort the Holy Prophet ﷺ since disbelievers did not obey him because they doubted his prophethood. It is for their guidance that names of some past prophets have been cited to help remove such doubts. However, these prophets have been referred to very briefly as the main purpose is to mention Sayyidna ` Isa (علیہ السلام) which follows immediately because he will come again to this world and will work with the followers of the Holy Prophet ﷺ ، therefore, it is necessary for the Muslims to know his identification.
 
 ## Personal Reflections
+
+

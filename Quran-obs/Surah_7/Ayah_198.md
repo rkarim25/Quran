@@ -54,18 +54,6 @@ word_by_word:
     transliteration: yub'ṣirūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 198, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-180-198 In conclusion, instructions have been given to the Holy Prophet, and through him to his followers, about the attitude they should adopt towards those who reject the Message and deviate from it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. "Surely my protector is Allah who has revealed the Book and who does protect the righteous." The Arabic word ولی rendered here as 'protector' also means helper.
@@ -187,3 +175,5 @@ The Holy Prophet ﷺ has been asked to declare that he was not fearful of their 
 The last sentence وَ ھوَ یَتَوَلَّی اَلصَّلحِین "He helps and protects the righteous" has given us a general principle that in addition to helping the prophets who hold the highest status among all the people, Allah helps and protects all the Muslims who act righteously. Therefore, the opposition or hostility of any one does not harm a true Muslim in the real sense of the word. Most often he is made to triumph over his enemies in this very world. If, for some good reason, he does not overcome and is apparently defeated, this, too, does not go to damage his real objective. His failure in this world is, in fact, his success in true sense, because the main objective of his life is to seek Allah's pleasure and to obey Him in each and every activity of his life. His failure, being from Allah draws him nearer to his objective of seeking Allah's pleasure.
 
 ## Personal Reflections
+
+

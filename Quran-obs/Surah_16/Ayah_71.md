@@ -96,18 +96,6 @@ word_by_word:
     transliteration: yajḥadūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Allah honored some of you over others with wealth and properties. In the previous verses, by referring to major manifestations of His knowledge and power and blessings which descend on human beings, Allah Ta` ala has the natural proof of His Oneness (Tauhid).
@@ -177,3 +165,5 @@ That the dream of economic equality had translated itself into its absence since
 These few examples from the contemporary scene show how deniers were themselves compelled to confirm the truth of the verse: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ (And Allah has given some of you preference over others in provision - 71) and that (Allah does what He wills). As for comments under this verse, the purpose was limited to pointing out that the dissimilarity in provision and wealth is very natural and very much in accordance with considerations for human good. That which remains is the discussion of the Islamic Principles of Distribution of Wealth and how they distinctly differ from capitalism and communism both. Insha’ Allah, this will appear under comments on: نَحنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ (We have distributed among them their livelihood - Al-Zukhruf, 43:32) appearing in Ma` ariful-Qur’ an, Volume VII. An independent treatise on this subject entitled: 'Islam Ka Nizam-e-Taqsim-e-Daulat' written by this humble writer should also be sufficient for this purpose. [ This is also available in its Engish translation made by Professor Hasan Askari under the title: DISTRIBUTION OF WEALTH IN ISLAM from the publishers, Maktaba-e-Darul-Uloom, Korangi, Karachi, Pakistan ]
 
 ## Personal Reflections
+
+

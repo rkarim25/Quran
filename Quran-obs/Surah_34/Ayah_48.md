@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-ghuyūbi
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Whatever wage I might have asked of you is yours. Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ (Say," My Lord sends forth the Truth.
@@ -110,3 +98,5 @@ Allah commands His Messenger ﷺ to say to the idolators:
 Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ (Say," My Lord sends forth the Truth. He is the Best-Knower of the Unseen." - 34:48) Say, "Truth has come, and falsehood (has vanished so as it) has no power to produce or reproduce (anything) ". It means that my Lord who is the Knower of the Unseen strikes out the false with a throw of the truth (as a result of which the false is destroyed, as it was said: فَإِذَا هُوَ زَاهِقٌ 'and there it is all gone'. Al-Anbiya', 21:18). Literally, the word: قَذَف (qadhf) means to hit by throwing. Here, the purpose is to highlight the truth as set against the false. Perhaps, there may be a wise consideration behind expressing this phenomenon through the word: یَقذِف (yaqdhifu: He throws), may be the purpose is to point out to the after effect of the truth prevailing over the false. It appears here in the form of a simile as the throwing of something heavy over something feeble that shatters into pieces. So it happens in the confrontation between truth and falsehood when the later lies shattered. Therefore, it was said next: وَمَا يُبْدِئُ الْبَاطِلُ وَمَا يُعِيدُ (and falsehood has vanished so as it has no power to produce or reproduce anything) that is, falsehood becomes so incapacitated in the face of truth that it can neither originate anything nor can it bring it back.
 
 ## Personal Reflections
+
+

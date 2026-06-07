@@ -92,18 +92,6 @@ word_by_word:
     transliteration: yasīrun
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 No calamity occurs in the earth nor in yourselves but it is inscribed in the Book of Decrees before We bring it into existence. Factors affecting Mankind are duly measured and destined There are two sets of factors that make man unmindful of Allah and the Hereafter: [ 1] wealth, comfort and other luxuries of this world; one's over-involvement in such luxuries makes him neglectful of Allah.
@@ -199,3 +187,5 @@ There are two sets of factors that make man unmindful of Allah and the Hereafter
 مَا أَصَابَ مِن مُّصِيبَةٍ فِي الْأَرْ‌ضِ وَلَا فِي أَنفُسِكُمْ إِلَّا فِي كِتَابٍ مِّن قَبْلِ أَن نَّبْرَ‌أَهَا (No calamity befalls the earth or your own selves, but it is [ pre-destined ] in a Book before We bring it into being ....57:22) The expression 'Book' refers to 'Preserved Tablet [ lawh mahfuz ] and the verse means that Allah had measured and decided the destiny of all things even before He created them. The expression 'No affliction befalls in the earth' refers to famine, earthquake, destruction of crops, loss in business, loss of wealth and property and loss of friends and loved ones. The expression 'in yourselves' refers to illnesses of all sorts, all kinds of wounds, hurt and injury.
 
 ## Personal Reflections
+
+

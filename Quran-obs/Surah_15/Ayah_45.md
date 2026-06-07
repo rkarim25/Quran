@@ -24,18 +24,6 @@ word_by_word:
     transliteration: waʿuyūnin
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Truly, those who have Taqwa, will dwell in Gardens and water springs (45)(It will be said to them): "Enter it in peace and security. According to Sayyidna ` Abdullah ibn ` Abbas ؓ ، when the people of Jannah will enter Jannah, first of all two streams of water will be presented before them.
@@ -103,3 +91,5 @@ As for the report appearing in Sahih Hadith: 'Anyone who nurses the least grudge
 It is about this kind of grudge that Sayyidna ` Ali ؓ said: "I hope that I shall be, along with Talha and Zubayr, among those the dust of mutual anxiety from whose hearts will be removed while entering Jannah." The reference here is to the difference of opinion and resulting conflict which took place between Sayyidna Talha and Sayyidna Zubayr and Sayyidna ` Ali ؓ .
 
 ## Personal Reflections
+
+

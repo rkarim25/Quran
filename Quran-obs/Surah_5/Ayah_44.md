@@ -180,15 +180,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These honorable Ayat were revealed about those who rush into disbelief, deviating from the obedience of Allah, His Messenger, prefering their opinions and lusts to what Allah has legislated,
 
-It was reported that this part of the Ayah was revealed about some Jews who committed murder and who said to each other, "Let us ask Muhammad to judge between us, and if he decides that we pay the Diyah, accept his judgement. If he decides on capital punishment, do not accept his judgement." The correct opinion is that this Ayah was revealed about the two Jews who committed adultery. The Jews changed the law they had in their Book from Allah on the matter of punishment for adultery, from stoning to death, to a hundred flogs and making the offenders ride a donkey facing the back of the donkey. When this incident of adultery occurred after the Hijrah, they said to each other, "Let us go to Muhammad and seek his judgement. If he gives a ruling of flogging, then implement his decision and make it a proof for you with Allah. This way, one of Allah's Prophets will have upheld this ruling amongst you.
+It was reported that this part of the Ayah was revealed about some Jews who committed murder and who said to each other, "Let us ask Muhammad to judge between us, and if he decides that we pay the Diyah, accept his judgement. If he decides on capital punishment, do not accept his judgement." The correct opinion is that this Ayah was revealed about the two Jews who committed adultery. The Jews changed the law they had in their Book from Allah on the matter of punishment for adultery, from stoning to death, to a hundred flogs and making the offenders ride a donkey facing the back of the donkey. When this incident of adultery occurred after the Hijrah, they said to each other, "Let us go to Muhammad and seek his judgement. If he gives a ruling of flogging, then implement his decision and make it a proof for you with Allah. This way, one of Allah's Prophets will have upheld this ruling amongst you. But if he decides that the punishment should be stoning to death, then do not accept his decision."
 
 ## Tafsir Summary
 
@@ -445,3 +439,5 @@ It means that they should not fear that their people will stop following them or
 And whoever does not judge by what Allah has sent down, then, they are the disbelievers.
 
 ## Personal Reflections
+
+

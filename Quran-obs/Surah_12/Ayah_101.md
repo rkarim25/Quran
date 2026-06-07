@@ -95,15 +95,7 @@ word_by_word:
 
 ## Context
 
-To understand **Joseph** (Yusuf) 101, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Based on a narration by Sayyidna ` Urwah ibn Zubayr (رح) ، Ibn Ishaq has reported: When Sayyidna Musa (علیہ السلام) was commanded to leave Egypt with the Bani' Isra'il, it was revealed to him that he should not leave the body of Sayyidna Yusuf (علیہ السلام) in Egypt and he was ordered to take it with him to Syria and bury him close to his ancestors. In obedi-ence to this order, Sayyidna Musa (علیہ السلام) made investigations and succeeded in locating his burial place. He found his body in a marble coffin which he took with him to Canaan in Palestine. There he buried him beside Sayyidna Ishaq and Sayyidna Ya` qub (علیہما السلام) . (Mazhari)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -174,3 +166,5 @@ This tells us that a prostration done as a token of respect for the Holy Prophet
 6. The words of prayer: تَوَفَّنِي مُسْلِمًا (Make me die a Muslim - 101) refer to the prayer of Sayyidna Yusuf (علیہ السلام) in which he has wished to die while adhering to his Belief and Faith ('Iman and Islam). This tells us that to make a dua' for death under particular conditions is not prohibited. And as for the prohibition of wishing for death in sound and authentic Aha-dith, the purpose there is to tell people that it is not correct to go about asking for death just because of depression from worldly hardships or simple lack of patience. The Holy Prophet ﷺ has said: Let no one ask for death because of some hardship. If one has to say something like that, let him say: ` Ya Allah, keep me alive as long as life is better for me, and give me death when death is better for me.'
 
 ## Personal Reflections
+
+

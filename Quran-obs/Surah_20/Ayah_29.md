@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ahlī
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. The fourth prayer was وَاجْعَل لِّي وَزِيرً‌ا مِّنْ أَهْلِي (and make for me an assistant from my own family - 20:29).
@@ -129,3 +117,5 @@ In this prayer Sayyidna Musa (علیہ السلام) has specified that the help
 In his prayer Sayyidna Musa (علیہ السلام) first asked that the helper he required should be from his own family and then specifically asked for his brother Harun to be his Wazir so that with the latter's support and assistance he could better perform the duties of his prophetic mission.
 
 ## Personal Reflections
+
+

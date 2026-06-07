@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-sabīli
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So he escaped from there, looking about in a state of fear. وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ (And when he set out towards Madyan - 28:22).
@@ -135,3 +123,5 @@ Commentary
 When Sayyidna Musa (علیہ السلام) left Egypt, he was in a condition that he had neither any provisions for the journey nor any baggage, and also he did not know the route. In this state of helplessness he turned to Allah Ta` ala and asked عَسَىٰ رَ‌بِّي أَن يَهْدِيَنِي سَوَاءَ السَّبِيلِ (I hope my Lord will guide me to the straight path - 28:22), Allah Ta` ala accepted this prayer. Scholars have observed that the only food Musa علیہ السلام had during this journey was the leaves of trees. Sayyidna Ibn ` Abbas ؓ has said that this was the first trial and test of Sayyidna Musa (علیہ السلام) . Details of trials and tests of Musa (علیہ السلام) have already been described under Surah Taha while quoting a lengthy hadith.
 
 ## Personal Reflections
+
+

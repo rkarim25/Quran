@@ -174,18 +174,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 228, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And divorced women shall wait (as regards their marriage) for three menstrual periods, and it is not lawful for them to conceal what Allah has created in their wombs, if they believe in Allah and the Last Day. A great verse defining the status of man and woman This verse contains a rule of Shari` ah concerning the mutual rights and duties enjoined upon men and women and explains the degree of their role.
@@ -365,3 +353,5 @@ There is yet another hint here which suggests that men should take the first ste
 It is worth observing at this point how the noble Qur'an has, in a sentence so small, miniaturized a whole roster of rights and duties since all rights women have over men and all rights men have over women are included under the sense of this verse. (Muhit) Simply by adding one more word (bi l'ma` ruf بالمَعروف . justly, uprightly, kindly, courteously, according to the practice approved by the Shari'ah, or simply - "as recognized", a closer expression used in the accompanying translation of the verse) the possible occurrence of mutual controversies was eliminated. It was established that rights should be given using the ma` ruf مَعروف method because the meaning of مَعروف ma` ruf includes that which is neither prohibited nor impermissible under the dictates of the Shari'ah nor does it have any element of hardship or excess under common habit or custom or ` urf عُرف . The purport is that observing the routine of legal provisions is not enough, instead, it will be examined that, according to ` urf عُرف or customarily approved practice, the other party does not in any case suffer from pain or loss. That which is judged to be a source of pain and loss, in view of ` urf عُرف ، will be forbidden and remain impermissible, for instance, coldness, indifference or such behaviour or conduct which causes pain. These can hardly be covered under an article of law but the word bi l'ma` ruf بالمَعروف does encompass them. After that it was said: وَلِلرِّ‌جَالِ عَلَيْهِنَّ دَرَ‌جَةٌ:'Though for men there is a step above them.' The well-known meaning and sense of this verse is that despite the rights of the parties being equal, Allah Almighty has bestowed upon men a certain degree of precedence and authority over women. That there is great wisdom in doing so has been hinted at by the use of the words` وَاللَّـهُ عَزِيزٌ حَكِيمٌ :"And Allah is Mighty, Wise" towards the end of the verse. Giving the meaning of this sentence, Sayyidna ` Abdullah ibn ` Abbas ؓ has added that Allah Almighty has given men a degree of precedence as compared to women, therefore they should act with much more forbearance. Even if women fall short of giving them their rights, the degree of their precedence is such that they should bear by it, be patient and do nothing to desist from giving them their rights. (Qurtubi)
 
 ## Personal Reflections
+
+

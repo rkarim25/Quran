@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Star** (An-Najm) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ Ibn Abi Hatim reports another Tradition from Sayyidna Muadh Ibn Anas ؓ that the
 فَسُبْحَانَ اللَّـهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ وَعَشِيًّا وَحِينَ تُظْهِرُ‌ونَ (ابن کثیر)
 
 ## Personal Reflections
+
+

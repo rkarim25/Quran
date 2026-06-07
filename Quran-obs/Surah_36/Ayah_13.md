@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ya Sin** (Ya-Sin) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The expression: ضرب مثل (cite an example) in verse 13: وَاضْرِ‌بْ لَهُم مَّثَلًا أَصْحَابَ الْقَرْ‌يَةِ (And cite to them the example of the People of the Town) is generally used to prove something by giving the example of a similar thing. The following event has been narrated by the Holy Qur'an to alert people against disbelievers who rejected the very notion of there being a prophet or messenger.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ In addition to that, it is also proved from the cited verses of the Qur'an that 
 Though, the author of Fath-ul-Mannan has also given answers to the doubts expressed by Ibn Kathir, however, the easiest way out has been offered by Maulana Ashraf Thanavi (رح) in Tafsir Bayan-ul-Qur'an. To understand the subject of these verses of the Qur'an, he says, it is not necessary to determine the location of this town, and since the noble Qur'an has kept it ambiguous, there is just no need to exert so much effort to determine it. The famous saying of the early forbears of Islam that: اَبھِمُوا مَا اَبھَمَہُ اللہُ (Leave ambiguous that which Allah has left ambiguous) also requires nothing but this.
 
 ## Personal Reflections
+
+

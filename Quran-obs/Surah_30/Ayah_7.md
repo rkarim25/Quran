@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Romans** (Ar-Rum) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans. Heraclius, the emperor of the Romans, was forced to flee to Constantinople where he was besieged for a lengthy period. Then Heraclius regained the upper hand. Imam Ahmad recorded that Ibn 'Abbas, may Allah be pleased with him, commented on this Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -143,3 +135,5 @@ Earning of mundane needs by neglecting the Hereafter is no sagacity
 The Holy Qur'an is full of admonitory stories of the world. Those who had earned a name for collecting all sorts of luxuries and comforts for themselves, and then their disastrous end was witnessed in this very world, will also be subjected to everlasting torment of the Hereafter. So no sane person will call them intellectual or sagacious. Unfortunately, in the present day world the height of sagacity and wisdom is attributed to the one who could accumulate the largest quantity of wealth, and arrange for himself the best of comforts and luxuries. He is called the most successful and wise, no matter how low he might be in his morals. To call such a person wise is indeed an insult to wisdom - both by religious and moral standards. By Qur'anic standard, only those are wise who are conscious of Allah and the Hereafter, and strive for the comforts of the next life, keeping their needs of this wordly life at a level at which such needs are necessary; and do not make their achievement the sole purpose of their lives. The following verse depicts the same meaning:إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ‌ لَآيَاتٍ لِّأُولِي الْأَلْبَابِ الَّذِينَ يَذْكُرُ‌ونَ اللَّـهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُ‌ونَ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْ‌ضِ رَ‌بَّنَا مَا خَلَقْتَ هَـٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ‌ (Surely, in the creation of the heavens and the earth, and in the alternation of night and day, there are signs for the people of wisdom, who remember Allah standing and sitting, and (lying) on their sides, and ponder on the creation of the heavens and the earth (saying:) "Our Lord, You have not created all this in vain. We proclaim Your purity. So, save us from the punishment of Fire." (3:190-191).
 
 ## Personal Reflections
+
+

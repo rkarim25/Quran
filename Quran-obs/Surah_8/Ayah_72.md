@@ -194,18 +194,6 @@ word_by_word:
     transliteration: baṣīrun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-72-75
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believed, and emigrated and strove hard and fought with their property and their lives in the cause of Allah as well as those who gave (them) asylum and help, – these are (all) allies to one another. These are the last four verses of Surah Al-Anfal.
@@ -323,3 +311,5 @@ A similar incident came to pass at the time of the Peace Treaty of Hudaibiyah. W
 His return in this manner was heart-rending for all Muslims present on the occasion. But, the blessed Prophet of Islam, guided by Divine words, was as if witnessing the welcome spectacle that the years of oppression were not going to last any longer and the reward of a few more days of patience was to be added to the destiny of Sayyidna Abu Jandal ؓ . Then Makkah will soon be conquered. Then all these problems were going to be all over. Still, at that time, the Holy Prophet ﷺ acted in accordance with the command of the Qur'an and preferred treaty obligations over the personal misfortune of Sayyidna Abu Jandal ؓ . This is the distinctive feature of the Shari'ah of Islam which has made its adherents deserving recipients of victory, honour, and success which awaits them in the Hereafter. Otherwise, as observed commonly, world powers play games with treaties and pacts. They use them as weights and levers to make the weak cringe and the strong walk in trap. The game plan always stays in their hands. With the slightest expediency in sight, they would unleash a hundred interpretations and kill the treaty and begin looking for scapegoats to put the blame on.
 
 ## Personal Reflections
+
+

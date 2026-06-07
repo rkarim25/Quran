@@ -97,18 +97,6 @@ word_by_word:
     transliteration: l-mutaqīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Except those of the Mushrikin with whom you have a treaty, and who have not subsequently failed you in aught, nor have supported anyone against you. 6.
@@ -132,3 +120,5 @@ They would have four months to travel the lands in search of sanctuary for thems
 6. The sixth ruling comes out from the fourth verse where Muslims have been prompted to fulfill their pledge right through the end until the term of the peace treaty expired. Immediately thereafter, the verse has been concluded with the sentence: إِنَّ اللَّـهَ يُحِبُّ الْمُتَّقِينَ (Surely, Allah loves the God-fearing). This gives a clear hint to the advice that Muslims should observe utmost precaution in fulfilling the pledge they have given. They should never look for lame excuses and far-fetched interpretations only to find a way to contravene treaty obligations, as done by nations at large.
 
 ## Personal Reflections
+
+

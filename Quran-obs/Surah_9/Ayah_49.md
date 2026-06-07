@@ -69,17 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (I give you permission.) In Al-Jadd's case, this Ayah was revealed,
 
 Therefore, Allah says that the Fitnah that he fell into because of not joining the Messenger of Allah ﷺ (in Jihad) and preferring his safety to the safety of the Messenger ﷺ is worse than the Fitnah that he falsely claimed to fear." It was reported from Ibn 'Abbas, Mujahid and several others that this Ayah was revealed in the case of Al-Jadd bin Qays, who was among the chiefs of Bani Salimah. It is also recorded in the Sahih that the Messenger of Allah ﷺ asked,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ In the seventh verse (49), after citing a particular excuse made by a noted hypo
 The last sentence of the verse: وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِ‌ينَ (and certainly the Jahannam has the disbelievers encircled) could have two meanings. It could either mean that the Hell would encircle them in the Hereafter. Or, it could mean that the very chain of causes, which are operating to take them to Hell, and which have them all encircled at that time, are what has been equated with Hell. Given this interpretation, it would suggest that they happen to be, even now, within the larger circle of nothing but Hell.
 
 ## Personal Reflections
+
+

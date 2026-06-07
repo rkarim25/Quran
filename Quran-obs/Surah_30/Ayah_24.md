@@ -92,18 +92,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And among His signs is that He shows you the lightning, for fear and for hope, and He sends down water from the sky, and therewith revives the earth after its death. Fifth sign of divine omnipotence Allah Ta’ ala shows the flash of lightning to people in which there is risk of its striking, thus destruction.
@@ -167,3 +155,5 @@ Fifth sign of divine omnipotence
 Allah Ta’ ala shows the flash of lightning to people in which there is risk of its striking, thus destruction. At the same time, there is a hope for rain following the lightning. The rain does follow with His will and gives rise to numerous types of vegetation. At the end of the verse, it is said فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ (Surely in this there are signs for a people who understand - 30:24), because the mysteries of lightning and rain, and the resultant growth of vegetation can be understood by those with intellect.
 
 ## Personal Reflections
+
+

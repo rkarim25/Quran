@@ -30,15 +30,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The majority holds Al-Khadir (علیہ السلام) to be a prophet and his knowledge was the gnosis of (the inner dimensions of the human) self which was revealed to him and the knowledge of Musa (علیہ السلام) was of the injunctions and rulings on the apparent. (Al-Bahr al-Muhit, p. 147, v. 6)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -125,3 +117,5 @@ Ibn Abi Shaibah reports an event relating to Sayyidna Ibn ` Abbas ؓ by saying t
 From this event too, the real thing becomes clear, that is, no one other than a revelation-receiving prophet has the right to declare anyone as exempted from any Islamic legal injunction.
 
 ## Personal Reflections
+
+

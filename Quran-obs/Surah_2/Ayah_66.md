@@ -42,18 +42,6 @@ word_by_word:
     transliteration: lil'muttaqīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed you knew those amongst you who transgressed in the matter of the Sabbath (i.e. This episode belongs to the time of Sayyidna Dawud (David (علیہ السلام Allah had appointed Saturday as the Sabt سبت ، or the sacred day, for the Israelites; it was specially set apart for prayers and worship, and hence fishing was prohibited on this day.
@@ -141,3 +129,5 @@ The present verse has a particular relevance to the question, and would help to 
 But this particular instance does in no way go to prove that the Hiyal are impermissible. We have explained the nature and purpose of such "devices" alone. Not only do they form an integral part of Fiqh فقہ ، but some of them have actually been suggested by the Holy Prophet ﷺ himself. For example, bartering a kilo of good dates for two kilos of bad dates is, according to the Shari'ah, a kind of usury. The Holy Prophet ﷺ has suggested a "device" (Hilah) for avoiding the infringement of this regulation in a situation where such a transaction becomes necessary - that is, instead of bartering one commodity for another, one may employ the exchange value of money: first sell two kilos of bad dates for two rupees, and then with the two rupees thus obtained buy a kilo of good dates. The intention in using this "device" is to conform to the Shari'ah, and not to by-pass it. The negation of the Shari'ah is neither intended here, nor does it actually take place. This principle holds good in the case of all the Hiyal which the Fuqaha-' (jurists) have proposed in order to save people from practicing what the Shari` ah has prohibited. It is a travesty of the truth to compare them to or represent them as the "tricks" employed by the Jews to negate and mock the Shari ah.
 
 ## Personal Reflections
+
+

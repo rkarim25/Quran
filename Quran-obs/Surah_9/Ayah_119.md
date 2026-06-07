@@ -37,18 +37,6 @@ word_by_word:
     transliteration: l-ṣādiqīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 119, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-119-127 This is the conclusion: "Follow the Messenger who is gentle and compassionate and your greatest well-wisher, and trust in Allah, the Lord of the Universe".
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (Allah has forgiven) the three who stayed behind, until for them the earth, vast as it is, was straitened and their souls were straitened to them, and they perceived that there is no fleeing from Allah, and no refuge but with Him. Advice to Muslims: Observe Taqwa and be with those true in word and deed This brings us to the last verse: يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّـهَ وَكُونُوا مَعَ الصَّادِقِينَ ﴿119﴾ ( O those who believe, fear Allah, and be in the company of the truthful - 119).
@@ -162,3 +150,5 @@ Advice to Muslims: Observe Taqwa and be with those true in word and deed
 This brings us to the last verse: يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّـهَ وَكُونُوا مَعَ الصَّادِقِينَ ﴿119﴾ ( O those who believe, fear Allah, and be in the company of the truthful - 119). The event of having remained behind as related to some other-wise sincere people, and the ultimate acceptance of their repentance, was all a result of their Taqwa, the fear of Allah and the sense of being responsible before him. Therefore, in this verse, the large masses of Muslims have been instructed to observe Taqwa (as a constant feature of their personal lives). Then, by saying: كُونُوا مَعَ الصَّادِقِينَ (be in the company of the truthful), it was hinted that the only way to achieve Taqwa was to frequent the company of those who are good in their deeds and true in their words, and to approximate one's own conduct to theirs. Perhaps, this may also be pointing out to the slip made by these people that was caused by the company they kept with hypocrites and their suggestions and advises they listened to. One should stay away from the company of those who are disobedient to Allah, and take to the company of the truthful. The Qur'an has not said ` the learned' (` ulama' ) or ` the righteous' (sulaha' ) at this place. Rather, by electing to use the word: الصَّادِقِينَ (as-sadiqin: the truthful), it has also told us about the real identity of the 'learned' and the 'righteous'. Such a truthful person has to be the one whose exterior and the interior are the same and who is also true in intention, and true in word, and true in deed as well.
 
 ## Personal Reflections
+
+

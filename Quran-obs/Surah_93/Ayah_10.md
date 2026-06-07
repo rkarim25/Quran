@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Morning Hours** (Ad-Duhaa) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Duhaa is a **Makkah** surah—revealed as the 11th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion). Therefore, the Messenger of Allah ﷺ was affected by this. Then the idolators began to say, 'His Lord has abandoned him and hates him.' So Allah revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -223,3 +215,5 @@ Injunction [ 2]
 وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ‌ (and as for the beggar, do not scold him....93:10). The verb tanhar is derived from nahr which means 'to scold'. The word sa'il means 'one who asks'. It includes a person who asks people's wealth, that is, a beggar, and it also includes the one who asks a question of knowledge, that is, an academic investigator. The Holy Prophet ﷺ has forbidden to berate either of them. The best course of action is to give the beggar something. If one is unable to give a beggar anything, one should at least apologise to him politely [ so as not to give him any further grief ]. Likewise, anyone who is searching knowledge and asks questions, it is forbidden to respond to him harshly and unkindly. The teacher should reply kindly and politely. However, if the investigator is unreasonable in his approach, it is permissible to scold him to the degree that is necessary.
 
 ## Personal Reflections
+
+

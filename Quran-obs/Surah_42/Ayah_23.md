@@ -128,15 +128,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Consultation** (Ash-Shuraa) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 There is, however, another narration reported with a weak chain of reporters, according to which Sayyidna Ibn ` Abbas ؓ says that when this verse was revealed, people asked the Holy Prophet ﷺ as to who are his kinsfolk, and he replied that Sayyidna Ali ؓ ، Sayyidah Fatimah ؓ and their offspring's. The authenticity of this narration has been considered weak by Suyuti in Ad-Dur-ul-Manthur and by Hafiz Ibn Hajar in Takhrij of the Ahadith of Kashshaf. According to this narration, the meaning would be that the only compensation the Holy Prophet ﷺ asks from the ummah for his services is that they should take care of his progeny. Obviously, this proposition does not befit the high stature of prophets (علیہم السلام) and specially that of the Holy Prophet ﷺ . Therefore the correct and preferred explanation which is generally favoured by the ummah is the one given above. But the Shiites have not only adopted this doubtful narration, but have also made up a huge stock of baseless presumptions on its basis.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -229,3 +221,5 @@ The gist is that love for the progeny and for the family members of the Holy Pro
 This statement of Imam Shafi` i, in fact, is the standpoint of the whole ummah.
 
 ## Personal Reflections
+
+

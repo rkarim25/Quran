@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cleaving** (Al-Infitar) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Infitar is a **Makkah** surah—revealed as the 82nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -189,3 +181,5 @@ Concerning Allah's statement,
 The verse further goes on to remind man of the inceptive stages of his creation. First, it says: خَلَقَكَ فَسَوَّاكَ (who created you, then perfected you...82:7). The sense is that not only did Allah create man, but He also perfected his creation and proportioned his body, limbs and organs. Every limb and organ is well placed. The body, height, length and breadth of every limb are kept in harmony, symmetry and balance. Any deviation from the symmetrical construction of the human body, the organs will become dysfunctional. Then the verse says: فَعَدَلَكَ (...then brought you in due proportion?...82:7). Man is granted such symmetry, harmony and balance that no other animal in the world is granted to that degree. Along with physical and physiological symmetry and harmony, he has been granted well-balanced disposition, despite the fact that man is made up of opposing humours - blood, phlegm, black bile and yellow bile. Some are hot and others are cold, and yet the perfect wisdom of Allah prepared a well-balanced disposition. Thereafter a third characteristic is mentioned as follows:
 
 ## Personal Reflections
+
+

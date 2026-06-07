@@ -30,15 +30,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clear Proof** (Al-Bayyinah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Bayyinah is a **Madinah** surah—revealed as the 100th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Verses [ 2-3] يَتْلُو صُحُفًا مُّطَهَّرَ‌ةً فِيه
 The word مُطَھَّرَۃً mutahharatan [ purified ] is an adjective qualifying the noun suhuf [ pages/scrolls ]. According to Ibn ` Abbas ؓ ، the Scriptures are completely free from all possible flaws, forgeries, doubt, hypocrisy and deviations. The word qayyimah is used in the sense of 'straight', and is the adjective of the noun kutub, and it means its laws, ordinances and injunctions are upright, straight, just and balanced. It could also mean 'lasting and permanent'. In this instance, the phrase would signify that the Divine injunctions of the Holy Qur'an will last permanently till the Day of Judgment. The verse thus purports to say that the sending of the Holy Prophet Muhammad ﷺ [ as the Clear Proof ] was essential to the transformation of the people of earlier revelations and the pagans who had ended up in disbelief and could not have departed from their erring ways without the help of his ﷺ Prophetic mission. His mission was to recite the pure scrolls to them which contained clear Divine injunctions. Initially he did not recite from the Scriptures but from his memory, but the sense here is that he recited to them a discourse that was later written and preserved in scrolls. The Qur'an [ as the Clear Proof ] is the compendium of all that is good, lasting and immutable teachings.
 
 ## Personal Reflections
+
+

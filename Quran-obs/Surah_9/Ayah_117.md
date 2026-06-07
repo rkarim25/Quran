@@ -120,13 +120,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 117, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Mujahid and several others said, "This Ayah was revealed concerning the battle of Tabuk. They left for that battle during a period of distress. It was a year with little rain, intense heat and scarcity of supplies and water." Qatadah said, "They went to Ash-Sham during the year of the battle of Tabuk at a time when the heat was intense. Allah knew how hard things were, and they suffered great hardship. We were told that two men used to divide a date between themselves. Some of them would take turns in sucking on a date and drinking water, then give it to another man to suck on. Allah forgave them and allowed them to come back from that battle." Ibn Jarir reported that 'Abdullah bin 'Abbas said that 'Umar bin Al-Khattab was reminded of the battle of distress (Tabuk) and 'Umar said, "We went with the Messenger of Allah ﷺ in the intense heat for Tabuk. We camped at a place in which we were stricken so hard by thirst that we thought that our necks would be severed. One of us used to go out in search of water and did not return until he feared that his neck would be severed.
+Mujahid and several others said, "This Ayah was revealed concerning the battle of Tabuk. They left for that battle during a period of distress. It was a year with little rain, intense heat and scarcity of supplies and water." Qatadah said, "They went to Ash-Sham during the year of the battle of Tabuk at a time when the heat was intense. Allah knew how hard things were, and they suffered great hardship. We were told that two men used to divide a date between themselves. Some of them would take turns in sucking on a date and drinking water, then give it to another man to suck on. Allah forgave them and allowed them to come back from that battle." Ibn Jarir reported that 'Abdullah bin 'Abbas said that 'Umar bin Al-Khattab was reminded of the battle of distress (Tabuk) and 'Umar said, "We went with the Messenger of Allah ﷺ in the intense heat for Tabuk. We camped at a place in which we were stricken so hard by thirst that we thought that our necks would be severed. One of us used to go out in search of water and did not return until he feared that his neck would be severed. One would slaughter his camel, squeeze its intestines and drink its content, placing whatever was left on his kidney. Abu Bakr As-Siddiq said, 'O Allah's Messenger! Allah, the Exalted and Most Honored, has always accepted your invocation, so invoke Allah for us.' The Prophet ﷺ said,
 
 ## Tafsir Summary
 
@@ -181,3 +175,5 @@ Coming to words: سَاعَةِ الْعُسْرَ‌ةِ (translated as ` the h
 As for the next sentence: مِن بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِ‌يقٍ مِّنْهُمْ (after the hearts of a group of them were about to turn crooked), the زَیغ (zaigh: crookedness) of the hearts of some people referred to here does not mean some deviation from faith. In fact, it means to lose heart and wish to avoid action in Jihad because of the hardship of hot weather and the dearth of necessary supplies. Hadith narratives prove that. It was in view of these hardships they faced that their repentance was accepted.
 
 ## Personal Reflections
+
+

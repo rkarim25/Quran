@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 207, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 As-Suddi said that these Ayat were revealed about Al-Akhnas bin Shariq Ath-Thaqafi who came to Allah's Messenger ﷺ and announced his Islam although his heart concealed otherwise.
 
 Ibn 'Abbas narrated that these Ayat were revealed about some of the hypocrites who criticized Khubayb and his companions who were killed during the Raji' incident. Thereafter, Allah sent down His condemnation of the hypocrites and His praise for Khubayb and his companions:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -223,3 +215,5 @@ The revelation of the verse under reference in connection with this particular e
 However, some commentators cite similar events relating to other noble Companions as the background of the verse's revelation (Mazhari).
 
 ## Personal Reflections
+
+

@@ -75,18 +75,6 @@ word_by_word:
     transliteration: muf'tarūna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-50-60 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And to the 'Ad (people We sent) their brother Hud. Mentioned in the first eleven verses (50-60) from the ones cited above are the events of the revered prophet of Allah, Sayyidna Hud by whose name this Surah is identified.
@@ -128,3 +116,5 @@ Allah Ta` ala had sent Sayyidna Hud (علیہ السلام) as a prophet to the 
 Three basic principles of the call of faith Sayyidna Hud (علیہ السلام) presented before his people have been mentioned in the first three verses (50-52). One: Belief in Tauhid (Oneness of Allah) and that taking some-one or something else worthy of worship other than Allah is nothing but a lie and fabrication. Two: He was a Messenger of Allah. He had come with the call of Tauhid for them. This was the mission of his life. He was working hard against heavy odds to convey the message to them. Why would he do that? If they thought about it, they would see that he was not asking them to pay for his services, nor did he receive any material benefits from them. If he did not honestly believe it to be the will and command of Allah, and right and true, why would he go to all that trouble of inviting them to believe and live a better life?
 
 ## Personal Reflections
+
+

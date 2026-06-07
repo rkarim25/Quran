@@ -101,18 +101,6 @@ word_by_word:
     transliteration: l-mum'tarīna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 114, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 [Say:] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book, explained in detail." Those unto whom We gave the Scripture know that it is revealed from your Lord in truth. Mentioned in previous verses was the obstinate attitude of the disbelievers of Makkah against the veracity of the Qur'an and the Prophet of Islam ﷺ .
@@ -186,3 +174,5 @@ It was regarding this that it was said in the first verse (114): أَفَغَي�
 After the description of these four qualities of the Holy Qur'an, the address is to the Holy Prophet ﷺ : فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِ‌ينَ (So, never be one of those who are suspicious). It means that in the presence of such clear proofs, there is no room for doubt. It is obvious that the Holy Prophet ﷺ was never one of those who were in doubt, nor he could be, as confirmed by his saying reported in Tafsir Ibn Kathir: "Neither I ever doubted, nor I ever asked." This tells us that, though in terms of the words, the address is to the Holy Prophet ﷺ but, in reality, the purpose is to make others hear it. That it has been ascribed to him is a manner in which the aim is to lay emphasis on and heighten the effect of the command - in the sense: ` when this has been said to the Holy Prophet ﷺ who would have the audacity to entertain any doubt?'
 
 ## Personal Reflections
+
+

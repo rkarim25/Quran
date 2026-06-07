@@ -51,18 +51,6 @@ word_by_word:
     transliteration: fa-arsilūni
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. While watching the proceedings of this event, that released prisoner recollected the message given by Sayyidna Yusuf (علیہ السلام) ، though after the passage of a long time in between.
@@ -120,3 +108,5 @@ While watching the proceedings of this event, that released prisoner recollected
 It means: Just send me (to Yusuf علیہ السلام). Things like the introduction of Sayyidna Yusuf (علیہ السلام) the official permission to see him and then the final arrival in the prison are parts of the event which can be understood contextually. Therefore, they were not described specifically, instead, the story was initiated as follows.
 
 ## Personal Reflections
+
+

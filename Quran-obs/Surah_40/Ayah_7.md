@@ -119,18 +119,6 @@ word_by_word:
     transliteration: l-jaḥīmi
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those (angels) who bear the Throne (of Allah) and those around it glorify the praises of their Lord, and believe in Him, and ask forgiveness for those who believe (saying): "Our Lord! In verse 7, it was said: الَّذِينَ يَحْمِلُونَ الْعَرْ‌شَ وَمَنْ حَوْلَهُ (Those who are bearing the Throne and those who are around it).
@@ -218,3 +206,5 @@ Said Ibn Jubayr has said, 'When a believer goes to Jannah, he will ask about his
 After having reported this Hadith narration in Tafsir Mazhari, the author said, 'this 'mawquf (a Hadith mawquf or restricted tradition from a Companion who does not connect it to the Holy Prophet ﷺ) has the same authority and force as 'marfu" (a Hadith marfu` is a tradition attributed to the Holy Prophet ﷺ) and is explicit on the point that 'doing good' that is held as a pre-condition for having this privilege means 'Iman' or adhering to the true faith.
 
 ## Personal Reflections
+
+

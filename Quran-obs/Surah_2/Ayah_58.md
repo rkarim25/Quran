@@ -88,18 +88,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when We said: "Enter this town (Jerusalem) and eat bountifully therein with pleasure and delight wherever you wish, and enter the gate in prostration (or bowing with humility) and say: 'Forgive us,' and We shall forgive you your sins and shall increase (reward) for the good-doers. There are two views as to when this incident took place.
@@ -209,3 +197,5 @@ The meaning of Ihsan احسان
 "We may add that 'sincerity' and 'wholeheartedness' are a very weak rendering in English of the essential quality of the text's Muhsinun محسنون (rendered here as "those who are good in deeds" ). This word comes from Ihsan احسان which signifies "doing a thing beautifully - that is, in the manner that is proper to it." Beside this lexical meaning, Ihsan احسان has a technical meaning which has been defined in a famous Hadith: تعبداللہ کانک تراہ ، فالم تکن تراہ فانہُ یراک : "Offer your prayers as if you can see Him, and if you do not see Him, He is seeing you (in any case)." (Bayan al-Qur'an)
 
 ## Personal Reflections
+
+

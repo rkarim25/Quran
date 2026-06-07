@@ -90,15 +90,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O People of the Scripture! You have nothing...) meaning no real religion until you adhere to and implement the Tawrah and the Injil. That is, until you believe in all the Books that you have that Allah revealed to the Prophets. These Books command following Muhammad ﷺ and believing in his prophecy, all the while adhering to his Law. Before, we explained Allah's statement,
 
-In the second verse (69), Allah Almighty addresses four traditional religious communities, persuades them to have faith and act righteously whereupon He promises salvation for them. The first of those are: الَّذِينَ آمَنُوا (those who believe) that is, the Muslims. Secondly: الَّذِينَ هَادُوا (and those who are Jews); thirdly : صابِئُونَ (the Sabians); and fourthly: نصَارَ‌ىٰ (the Christians). Three of these Communities - Muslims, Jews and Christians - are well-known and found in most parts of the world. Any community having the name Sabian does not exist today. Therefore, scholarly opinion varies as to their exact identity.
+In the second verse (69), Allah Almighty addresses four traditional religious communities, persuades them to have faith and act righteously whereupon He promises salvation for them. The first of those are: الَّذِينَ آمَنُوا (those who believe) that is, the Muslims. Secondly: الَّذِينَ هَادُوا (and those who are Jews); thirdly : صابِئُونَ (the Sabians); and fourthly: نصَارَ‌ىٰ (the Christians). Three of these Communities - Muslims, Jews and Christians - are well-known and found in most parts of the world. Any community having the name Sabian does not exist today. Therefore, scholarly opinion varies as to their exact identity. Quoting Qata-dah, the Tafsir authority, Ibn Kathir has reported that Sabians were people who worshipped angels, offered prayers contra-oriented to the Qiblah and recited the Scripture, Zabur (revealed to Sayyidna Dawud) (علیہ السلام) .
 
 ## Tafsir Summary
 
@@ -203,3 +197,5 @@ So, if they (the Companions) believe in the like of what you (the Prophets) beli
 It means that the kind of 'Iman the noble Sahabah had is the only 'Iman which deserves to be called 'Iman bil-lah. And it is obvious that 'Iman bir-rasul was a great pillar of the edifice of their 'Iman. Therefore, the words: مَن اٰمَنَ بِاللہِ (whoever believes in Allah) are inclusive of the belief in the Messenger of Allah.
 
 ## Personal Reflections
+
+

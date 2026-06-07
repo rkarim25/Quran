@@ -66,18 +66,6 @@ word_by_word:
     transliteration: rasūlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 94, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And nothing prevented men from believing when the guidance came to them, except that they said: "Has Allah sent a man as (His) Messenger? Only a human being can be a messenger of Allah: Angels cannot be sent as messengers to human beings Common disbelievers and polytheists thought that 'bashar,' that is, a man, could not be the messenger of Allah because he is someone accustomed to all human compulsions like them.
@@ -147,3 +135,5 @@ This submission also removes the doubt that arises by thinking: when human being
 As for the doubt - when the compatibility of genus is a condition between a messenger and his people, how was the Holy Prophet ﷺ made a messenger of the jinns for they are not from the same genus as men? - it can be answered by saying that the messenger is not simply a human being, instead, he also has an angelic majesty about him because of which jinns too could also be congruous to him.
 
 ## Personal Reflections
+
+

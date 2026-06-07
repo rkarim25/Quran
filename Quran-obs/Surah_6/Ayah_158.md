@@ -160,15 +160,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 158, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The major portion of Surah Al-An` am has been revealed to correct the beliefs and deeds of the people of Makkah and the disbelievers of Arabia and to remove their doubts and to answer questions raised by them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -327,3 +319,5 @@ Worth noting here is the nuance of the Arabic language in that it was first said
 At the end of the verse, it was said: قُلِ انتَظِرُ‌وا إِنَّا مُنتَظِرُ‌ونَ (Say, "Wait, of course, we are waiting" ). The address here is to the Holy Prophet ﷺ . He is being asked to tell those people that they, despite the arguments of Allah conclusively established against them, still wish to wait for death or the Day of Doom (Qiyamah), then, they are welcome to it. They can wait if they must. As for us, we too shall be waiting to see what their Rabb decides to do with them.
 
 ## Personal Reflections
+
+

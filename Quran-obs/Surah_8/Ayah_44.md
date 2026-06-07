@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-umūru
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (And remember) when Allah showed them to you as few in your dream; if He had shown them to you as many, you would surely have been discouraged, and you would surely have disputed in making a decision. In the last verse, along with this, it has also been mentioned: وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ (and reduced your number in their eyes - 44).
@@ -165,3 +153,5 @@ For this very reason, the statement: لِيَقْضِيَ اللَّـهُ أَ�
 At the end of the verse, it was said: وَإِلَى اللَّـهِ تُرْ‌جَعُ الْأُمُورُ‌ (And to Allah all matters are returned - 44). It means that He does what He wills and He commands as He wills. He can make a minority overcome a majority and weakness overtake strength. He may make less become more and more become less.
 
 ## Personal Reflections
+
+

@@ -37,18 +37,6 @@ word_by_word:
     transliteration: fāsiqīna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And in Musa, when We sent him to Fir'awn with a manifest authority (38)But (he) turned away along with his hosts, and said: "A sorcerer or a madman. After the mention of the people of Lut (علیہ السلام) ، the people of Musa (علیہ السلام) ، Fir'aun and others are taken up briefly.
@@ -144,3 +132,5 @@ After the mention of the people of Lut (علیہ السلام) ، the people of 
 After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم السلام) are told. These stories were narrated many times before.
 
 ## Personal Reflections
+
+

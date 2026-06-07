@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-sabīli
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "How do you worship besides Allah something which has no power either to harm or to benefit you? The Crookedness of Bani Isra'il : Yet Another Aspect It will be recalled that, in previous verses, mentioned there was the contumacy of Bani Isra'il along with their tyranny and injustice with reference to what they did to their benefactors, the prophets sent by Allah who had come to show them the way to succeed in this life and in the life to come.
@@ -179,3 +167,5 @@ Bani Isra'i1 Asked to Follow the Path of Moderation
 Addressing the Bani Isra'il at the end of the verse (77), it was said: وَلَا تَتَّبِعُوا أَهْوَاءَ قَوْمٍ قَدْ ضَلُّوا مِن قَبْلُ وَأَضَلُّوا كَثِيرً‌ا that is, they should not follow the de-sires and whims of a people who had themselves gone astray before them, and had made others go astray as well. The reason why they fell into that error was given immediately after by saying: وَضَلُّوا عَن سَوَاءِ السَّبِيلِ that is, these people, by moving away from the right path, had lost it. This straight path was the path of moderation between the two extremes of excess and deficiency. Thus, two things have been accomplished in this verse: It points out to the fatal error made by crossing over the norm, or lagging far behind it, and stresses upon the need to stay firm on the straight path, the ideal path of moderation.
 
 ## Personal Reflections
+
+

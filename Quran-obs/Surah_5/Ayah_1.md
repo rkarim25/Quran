@@ -102,15 +102,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and pleasure.) Ibn 'Abbas said that the word 'pleasure' in the Ayah refers to, "seeking Allah's pleasure by their Hajj." 'Ikrimah, As-Suddi and Ibn Jarir mentioned that this Ayah was revealed concerning Al-Hutam bin Hind Al-Bakri, who had raided the cattle belonging to the people of Al-Madinah. The following year, he wanted to perform 'Umrah to the House of Allah and some of the Companions wanted to attack him on his way to the House. Allah revealed,
 
-This is the initial verse of Surah al-Ma'idah. As agreed upon, Surah al-Ma'idah is a Madani (Madinite) Surah and also the last among all Madani Chapters (Surah) so much so that some revered elders have identified this as the last Surah of the Qur'an itself. On the authority of narrations from Sayyidna ` Abdullah ibn ` Umar and Sayyidah Asma' bint Yazid ؓ ، it appears in the Musnad of Ahmad that Surah al-Ma'idah was revealed to the Holy Prophet ﷺ while in travel riding the she-camel named Adba'.
+This is the initial verse of Surah al-Ma'idah. As agreed upon, Surah al-Ma'idah is a Madani (Madinite) Surah and also the last among all Madani Chapters (Surah) so much so that some revered elders have identified this as the last Surah of the Qur'an itself. On the authority of narrations from Sayyidna ` Abdullah ibn ` Umar and Sayyidah Asma' bint Yazid ؓ ، it appears in the Musnad of Ahmad that Surah al-Ma'idah was revealed to the Holy Prophet ﷺ while in travel riding the she-camel named Adba'. As explained in the introduction to this Tafsir in Volume 1, there used to be a sense of being under some heavy weight, extraordinary and unexplained, at a time the Wahy (revelation) came to the Holy Prophet ﷺ . So, this is what happened as customary. When the she-camel could bear the phenomenon of unusual weight no more, he dismounted from her back. This journey is obviously the journey he made to perform his last Hajj as supported by some relevant reports. The Last Hajj took place in the tenth year of Hijrah. After his return from there, his blessed life in the mortal world lasted for about eighty more days. In al-Bahr al-Muhit, commentator Ibn Hayyan has said that some portions of Surah al-Ma'idah were revealed during the journey of Hudaybiyah, some others during the journey of the Conquest of Makkah and still others during the journey of the Last Hajj. This tells us that Surah al-Ma'idah has been revealed during the final stages of the revelation of the Qur'an - though, it may not be the very last Surah.
 
 ## Tafsir Summary
 
@@ -391,3 +385,5 @@ Living under the Authority and Wisdom of the Creator
 Towards the end of the verse, it was said: إِنَّ اللَّـهَ يَحْكُمُ مَا يُرِ‌يدُ which means that Allah Almighty ordains what He wills. Nobody has the right to ask questions or take exception in obeying it. This statement is perhaps indicative of an element of wisdom - that the permission given to human beings to slaughter and eat some animals is no act of injustice. The Creator and Master who has made all these life forms is also the One who has formulated, in His perfect wisdom and insight, the law that the lower form shall be the sustenance of the higher. The soil of the earth is food for trees and trees are food for animals and animals are food for human beings. There is no higher form of creation in this world, therefore, human beings cannot become food for anyone.
 
 ## Personal Reflections
+
+

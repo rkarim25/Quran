@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tantashirūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And among His signs is this that He created you from dust, and then – behold you are human beings scattered (20)And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy. After narrating the incident of the war between Rum and Persia in the beginning of Surah Ar-Rum, it was declared that the cause of the misguidance of the infidels and their heedlessness towards the truth was their excessive love for material life and paying no heed to the Hereafter.
@@ -119,3 +107,5 @@ Man, the most distinguished among all creatures who is the ruler of the universe
 Creation of man from earth is obvious with reference to ‘Adam (علیہ السلام) who is the father of all mankind. Since he was created from clay, the entire mankind, being his progeny, is created indirectly from clay. Every man's creation from earth may also be explained by saying that every man or woman is created from human sperm which is constituted by different ingredients. The origin of most of these ingredients is nothing but earth.
 
 ## Personal Reflections
+
+

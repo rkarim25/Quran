@@ -97,18 +97,6 @@ word_by_word:
     transliteration: ʿaẓīmin
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 101, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And among the bedouins around you, some are hypocrites, and so are some among the people of Al-Madinah who persist in hypocrisy; you know them not, We know them. Mentioned in several previous verses there are hypocrites whose hypocrisy stood exposed through their words and deeds, and the Holy Prophet ﷺ did realize that they were hypocrites.
@@ -178,3 +166,5 @@ Commentary
 Mentioned in several previous verses there are hypocrites whose hypocrisy stood exposed through their words and deeds, and the Holy Prophet ﷺ did realize that they were hypocrites. Mentioned in the present verse appearing above there are hypocrites whose hy-pocrisy was so perfect in its camouflage that it remained hidden from the Holy Prophet ﷺ until then. In this verse, two Divine punishments to come much before 'Akhirah upon such diehard hypocrites have been mentioned. In the first instance, right here in this world, they are consumed by the concern to hide their hypocrisy and the fear that it may be exposed. Then, no less a punishment is their being under compulsion to respect and follow Islam and Muslims, at least outwardly, despite their extreme malice and hostility for them. And then, there is the other punishment, the punishment of the grave and the punishment of Barzakh (the post-death - pre-resurrection state) that will reach them well before Qiyamah (doomsday) and 'Akhirah (Hereafter).
 
 ## Personal Reflections
+
+

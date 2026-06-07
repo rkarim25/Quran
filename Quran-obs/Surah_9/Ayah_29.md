@@ -128,15 +128,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah commands His believing servants, who are pure in religion and person, to expel the idolators who are filthy in the religious sense, from Al-Masjid Al-Haram. After the revelation of this Ayah, idolators were no longer allowed to go near the Masjid. This Ayah was revealed in the ninth year of Hijrah. The Messenger of Allah ﷺ sent 'Ali in the company of Abu Bakr that year to publicize to the idolators that no Mushrik will be allowed to perform Hajj after that year, nor a naked person allowed to perform Tawaf around the House. Allah completed this decree, made it a legislative ruling, as well as, a fact of reality. 'Abdur-Razzaq recorded that Jabir bin 'Abdullah commented on the Ayah,
 
-This honorable Ayah was revealed with the order to fight the People of the Book, after the pagans were defeated, the people entered Allah's religion in large numbers, and the Arabian Peninsula was secured under the Muslims' control.
+This honorable Ayah was revealed with the order to fight the People of the Book, after the pagans were defeated, the people entered Allah's religion in large numbers, and the Arabian Peninsula was secured under the Muslims' control. Allah commanded His Messenger ﷺ to fight the People of the Scriptures, Jews and Christians, on the ninth year of Hijrah, and he prepared his army to fight the Romans and called the people to Jihad announcing his intent and destination. The Messenger ﷺ sent his intent to various Arab areas around Al-Madinah to gather forces, and he collected an army of thirty thousand. Some people from Al-Madinah and some hypocrites, in and around it, lagged behind, for that year was a year of drought and intense heat. The Messenger of Allah ﷺ marched, heading towards Ash-Sham to fight the Romans until he reached Tabuk, where he set camp for about twenty days next to its water resources. He then prayed to Allah for a decision and went back to Al-Madinah because it was a hard year and the people were weak, as we will mention, Allah willing.
 
 ## Tafsir Summary
 
@@ -291,3 +285,5 @@ It should be noted that the paying of jizyah in this verse has been qualified wi
 Regarding the instruction given in this verse that once these people have agreed to pay jizyah, fighting should be stopped; a little explanation may be useful. According to the majority of Muslim jurists, it includes all disbelievers - whether from the People of the Book or from those other than them. However, the Mushriks of Arabia stand excluded from it for jizyah was not accepted from them.
 
 ## Personal Reflections
+
+

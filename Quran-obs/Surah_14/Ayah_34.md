@@ -67,18 +67,6 @@ word_by_word:
     transliteration: kaffārun
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah is He Who has created the heavens and the earth and sends down water (rain) from the sky, and thereby brought forth fruits as provision for you; and He has made the ships to be of service to you, that they may sail… Then, in the first sentence of verse 34, it was said: وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ (And He gave you whatever you asked for) - though, what Allah Tad is pleased to give does not depend on being asked by someone for, the truth of the matter is, that we had never asked for our existence itself.
@@ -138,3 +126,5 @@ Justice demanded that, in return for these countless blessings, equally countles
 At the end of the verse (34), it was said:إِنَّ الْإِنسَانَ لَظَلُومٌ كَفَّارٌ‌ (Surely, man is very unjust, very ungrateful). It means that he should face hardship with patience, keep his words and feelings free from any complaint thinking that the fate he faces has come from a wise Master and that too, being in His infinite Wisdom is nothing but a blessing, and when he is blessed with what is good and comforting, let him be thankful for it from his heart both verbally and practically - as is the dictate of justice. But, common human habit works differently from this norm. A little discomfort or pain would make them lose patience and go about broadcasting their problem. And if they find some blessing or a little wealth, they would get intoxicated with it and forget all about Allah Ta’ ala, their Benefactor. Therefore, in a verse appearing earlier (5), the attribute of sincere believers has been identified as Sabbar (very patient) and Shakur (very grateful).
 
 ## Personal Reflections
+
+

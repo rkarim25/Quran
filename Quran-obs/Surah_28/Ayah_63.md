@@ -81,18 +81,6 @@ word_by_word:
     transliteration: yaʿbudūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day when He will call to them and say: "Where are My (so-called) partners whom you used to assert? The very first question infidels and disbelievers will be asked at the Tumultuous Place (mahshar) will be about shirk (associating someone else with Allah), that is, ` where are those Shaitans today whom you used to associate with Us?
@@ -182,3 +170,5 @@ Commentary
 The very first question infidels and disbelievers will be asked at the Tumultuous Place (mahshar) will be about shirk (associating someone else with Allah), that is, ` where are those Shaitans today whom you used to associate with Us? Can they provide you any help today?' In response to these queries the disbelievers would say that it was not a fault of theirs, as they did not associate them with Allah on their own. It was the Shaitan who deluded them. Then Allah Ta’ ala would ask the Shaitans to say if they had anything in their defense; who, while accepting their role of deceit, would plead that they had only misled them but did not force them to act upon the same. Thus, the Shaitans would confess that they did commit the crime, but the infidels too were not free from its commission. Because just as they led them astray, similarly at the same time, the prophets and their deputies also guided them towards the Right Path with sound arguments; making the Truth crystal clear to them . They rejected the Truth presented by the prophets and instead listened to us using their free will and discretion. So, how could they be free from the blame? It proves that if someone chooses to follow those who wish to put him on the wrong path on his own good will, despite the fact that he has before him clear cut arguments against them and the righteous way to follow, then he has no excuse-to offer.
 
 ## Personal Reflections
+
+

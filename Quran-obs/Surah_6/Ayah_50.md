@@ -123,13 +123,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. I but follow what is revealed to me." Say: "Are the blind and the one who sees equal? Will you not then consider? (50)And warn therewith those who fear that they will be gathered before their Lord, when there will be neither a protector nor an intercessor for them besides Him, so that they may have Taqwa (51)And turn not away those who invoke their Lord, morning and evening seeking His Face. You are accountable for them in nothing, and they are accountable for you in nothing, that you may turn them away, and thus become of the wrongdoers (52)Thus We have tried some of them with others, that they might say: "Is it these (poor believers) that Allah has favored from amongst us?" Does not Allah know best those who are grateful (53)When those who believe in Our Ayat come to you, say: "Salamun 'Alaykum" (peace be on you); your Lord has written mercy for Himself, so that, if any of you does evil in ignorance, and thereafter repents and does righteous good deeds, then surely, He is Oft-Forgiving, Most Merciful (54)
 
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. I but follow what is revealed to me." Say: "Are the blind and the one who sees equal? Will you not then consider? (50)And warn therewith those who fear that they will be gathered before their Lord, when there will be neither a protector nor an intercessor for them besides Him, so that they may have Taqwa (51)And turn not away those who invoke their Lord, morning and evening seeking His Face.
+(I but follow what is revealed to me.) and I never disobey the revelation in the least.
 
 ## Tafsir Summary
 
@@ -318,3 +314,5 @@ Imam Ahmad recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said,
 In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man. Said immediately after was: وَالْحَمْدُ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (And praise be to Allah, the Lord of the worlds) where the hint given is: Whenever the wrongdoers and the unjust are visited by some punishment or calamity, that is a blessing for the whole world for which people should be grateful.
 
 ## Personal Reflections
+
+

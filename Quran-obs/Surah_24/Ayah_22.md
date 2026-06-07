@@ -116,17 +116,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This Ayah was revealed concerning As-Siddiq, may Allah be pleased with him, when he swore that he would not help Mistah bin Uthathah after he said what he said about 'A'ishah, as we have already seen in the Hadith.
 
 When Allah revealed the innocence of the Mother of the believers, 'A'ishah, and the believers were happy and content with the outcome of this incident, and those believers who had talked about the matter repented, and the prescribed punishment had been carried out upon those on whom it was carried out, then Allah started to soften the heart of As-Siddiq towards his relative Mistah bin Uthathah. Mistah was the cousin of As-Siddiq, the son of his maternal aunt, and he was a poor man with no wealth except whatever Abu Bakr spent on him. He was one of those who had migrated for the sake of Allah. He had invented the lies and the slander, but then Allah accepted his repentance from that and the prescribed punishment was carried out on him. As-Siddiq was known for his generosity and he did favors to his relatives and strangers alike. When this Ayah was revealed:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -193,3 +185,5 @@ These are the graces of ethics which were imparted to train the illustrious comp
 ` He is not the kind hearted towards relatives who only returns their favours, but the real kind hearted towards relatives is the one who maintains his relationship with them, despite they have severed the relations' (Mazhari).
 
 ## Personal Reflections
+
+

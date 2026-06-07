@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tawīlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And come not near to the orphan's property except to improve it, until he attains the age of full strength. The prohibition of giving weights and measures short: Ruling Regarding the verse: أَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ (And give full measure when you measure - 35), Abu Hayyan says in Tafsir al-Bahr al-Muhit that the responsibility of giving full weight and measure in this verse has been placed on the seller (بَأِع : ba'i`) which tells us that it is the seller who is responsible for weighing, measuring and seeing that it is full as due.
@@ -125,3 +113,5 @@ Regarding the verse: أَوْفُوا الْكَيْلَ إِذَا كِلْتُ
 At the end of verse 35, it was said about the fulfillment of weight and measure: ذَٰلِكَ خَيْرٌ‌ وَأَحْسَنُ تَأْوِيلًا (That is good, and better in the end). As for making the weight and measure correct and even, two things have been said here: (1) Firstly, the rule is good. It means that it is intrinsically good. No normal and decent person is going to take weighing less and measuring short as something nice, neither religiously, nor rationally, nor naturally. (2) Secondly, it is better in the end. The end includes the consequent success of the Hereafter, reward of deeds and the blessing of Paradise as well as the happy outcome of the very life in this world. This is suggestive of the fact that no business can prosper until its goodwill stands recognized in the market - and that cannot happen without this commercial honesty.
 
 ## Personal Reflections
+
+

@@ -27,15 +27,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Rivalry in world increase** (At-Takathur) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takathur is a **Makkah** surah—revealed as the 16th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ayah was revealed which says;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -194,3 +186,5 @@ This is the end of the Tafsir of Surat At-Takathur, and all praise and blessings
 Verse [ 102:5] كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ (No! if you have had sure knowledge..) The word 'if requires a principal clause that seems missing here, but the context suggests that the sense is the following: "If you had the sure knowledge of accountability on the Day of Judgment, you would not have engrossed yourselves in mutual competition in acquiring worldly goods and taking pride in their abundance."
 
 ## Personal Reflections
+
+

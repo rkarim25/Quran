@@ -54,18 +54,6 @@ word_by_word:
     transliteration: lāzibin
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! After having proved the belief in the Oneness of Allah, described in the present eight verses is the belief in the 'Akhirah or Hereafter along with an answer to doubts entertained by disbelievers about it.
@@ -137,3 +125,5 @@ Anyway, the first verse (11) provides a rational proof of the belief in the 'Akh
 After that, in the five verses that follow it, described there is the reaction the disbelievers show on hearing the proofs in support of the Hereafter. The proofs of the belief in the Hereafter presented before disbelievers were of two kinds: (1) Rational proofs as given in the first verse. (2) Reported proofs, that is, they were shown miracles in support of the veracity of the mission of the Holy Prophet ﷺ as prophet and messenger of Allah asserting that he was, as such, from Allah and a prophet of Allah can never lie. He receives the authority of what he says from the heavens. And when he is telling us that the last day of Qiyamah will come, there will be a Resurrection and human beings will account for their deeds, then, this information given by him is definitely true, and it must be accepted as true.
 
 ## Personal Reflections
+
+

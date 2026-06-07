@@ -97,18 +97,6 @@ word_by_word:
     transliteration: l-mutaqīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 194, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The sacred month is for the sacred month, and for the prohibited things, there is the Law of equality (Qisas). There are four 'sacred months': Dhul-Qa'dah, Dhul-Hijjah, Muharram which are consecutive and the fourth is Rajab.
@@ -154,3 +142,5 @@ Ruling
 There are four 'sacred months': Dhul-Qa'dah, Dhul-Hijjah, Muharram which are consecutive and the fourth is Rajab. Even before Islam, fighting in these months was considered unlawful and the disbelievers of Makkah too used to observe their sanctity. Even in the early days of Islam, right through the year 7 A.H., this law was in force which is why the noble Companions were perplexed. Later, according to the consensus of the Ummah, this unlawfulness of fighting was abrogated and the permission to fight was given, but it is still preferable not to initiate fighting in these four months without the need to defend. Therefore, it can be said that the sanctity of the 'sacred months' has not been abrogated totally, but it holds good like the sanctity of Haram. Both of them have been subjected to an exception for the sake of defence.
 
 ## Personal Reflections
+
+

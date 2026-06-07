@@ -67,18 +67,6 @@ word_by_word:
     transliteration: lil'mu'minīna
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed, We have bestowed upon you seven of the Mathani, and the Grand Qur'an (87)Look not with your eyes ambitiously at what We have given to certain classes of them, nor grieve over them. Surah Al-Fatihah is the Text and Summary of the Whole Qur'an That Surah Al-Fatihah (The Opening) has been called the Glorious Qur’ an in this verse (87) indicates that Surah Al-Fatihah is, in a way, the whole Qur’ an - b…
@@ -164,3 +152,5 @@ In verse 92, swearing by His Own sacred Being, Allah Ta’ ala has declared that
 The Sahabah ؓ asked the Holy Prophet ﷺ as to what it will be about. He said that it will be about saying: لا إله إلا اللہ (la ilaha illallah: there is no god worthy of worship but Allah). Al-Qurtubi, after reporting this narration in his Tafsir, has said: It means the fulfilling of this pledge practically as signified by the Kalimah Tayyibah: La ilaha illallah. A simple verbal statement is not what is desired here because, as for verbal attestation, that was done by the hypocrites (munafiqin) too. Hazrat al-Hasan al-Basri (رح) said: 'Iman (faith) does not become a living reality by taking on a particular style and form, and Din (religion) does not prosper by simply having the best of wishes for it. 'Iman is the name of that certitude which has been poured into the heart and which has been proved true by deeds. This is well illustrated by a Hadith from Sayyidna Zayd ibn Arqam in which the Holy Prophet ﷺ has been reported to have said: A person who says: لا إله إلا اللہ (la ilaha illallah : there is no god worthy of worship but Allah) with ikhlas (totally unalloyed sincerity) will definitely go to Jannah. People asked: Ya Rasul Allah, how is 'ikhlas' related to this Kalimah? He said: When this Kalimah stops a person from what has been prohibited by Allah as unlawful and impermissible, then, it is with 'ikhlas' (with sincerity in the absolute sense). (Qurtubi)
 
 ## Personal Reflections
+
+

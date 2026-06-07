@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Rivalry in world increase** (At-Takathur) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takathur is a **Makkah** surah—revealed as the 16th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ayah was revealed which says;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -187,3 +179,5 @@ Warning Against Materialistic Attitude
 Verse [ 1] أَلْهَاكُمُ التَّكَاثُرُ‌ (You are distracted by mutual competition in amassing [ worldly benefits ].) The word takathur is derived from the root kathrah, and means 'to amass much wealth'. Sayyidna Ibn ` Abbas ؓ and Hasan Basri (رح) have assigned this interpretation to it. Qatadah رحمۃ اللہ علیہ says that this word is also used in the sense of 'taking pride in the abundance of material goods'. Sayyidna Ibn ` Abbas ؓ reports that the Messenger of Allah ﷺ recited this verse and explained its meaning, thus: "Acquiring wealth but not paying out of it the obligatory dues." [ Qurtubi ].
 
 ## Personal Reflections
+
+

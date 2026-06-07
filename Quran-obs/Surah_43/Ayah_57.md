@@ -44,17 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Ornaments of Gold** (Az-Zukhruf) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (And when the example of the son of Maryam was cited, your people started at once shouting at it [ in joy ]...43:57). Exegetes have narrated three events as background of the revelation of these verses. One is that once the Holy Prophet ﷺ had addressed the tribe of Quraish and said, "0 people of Quraish! there is no good in whatever is worshipped beside Allah." The polytheists responded by saying, "The Christians worship Sayyidna ` Isa ﷺ ، although you yourself say that he was a virtuous slave of Allah, and His prophet." These verses were then revealed in reply to this objection (Qurtubi).
 
 When this verse was revealed, 'Abdullah Ibn-uz-ziba'ra claimed that he had the proper answer to this verse which was that the Christians worship Sayyidna Masih (Isa علیہ السلام) and Jews worship Sayyidna ` Uzair (علیہ السلام) ، so will they both become fuel of Hell? Upon hearing this, the polytheists of Quraish became very joyful, and Allah then revealed the following verse of the Holy Qur'an:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -251,3 +243,5 @@ In reality, there is no conflict between these three narrations. The infidels wi
 The gist of the objection mentioned in the first and second narrations is essentially the same. The statement in the Qur'an that all those who are worshipped except Allah will become fuel for Hell or the statement of the Holy Prophet ﷺ that there is no good in whatever is worshipped except Allah, refer to the lifeless objects of worship, such as idols or those living beings who directed their followers towards their own worship, or who liked to be worshipped, such as shaitans, Fir'aun, Namrud, etc.. So Sayyidna ` Isa (علیہ السلام) is obviously not included in this category, since at no stage did he like to be worshipped. Christians do not worship him because of any direction having being given by Sayyidna ` Isa (علیہ السلام) ، rather they were misled and started worshipping him by deducing the wrong conclusion from his birth without a father which was a sample of Allah's power to show to the people that Allah does not need even any apparent cause or means to create something. This worship of Sayyidna ` Isa (علیہ السلام) by Christians was not only irrational, but also against his own teachings, because he had always preached 'tauhid' (Oneness of Allah); his own disgust against being worshipped simply does not allow his inclusion in the ranks of false gods.
 
 ## Personal Reflections
+
+

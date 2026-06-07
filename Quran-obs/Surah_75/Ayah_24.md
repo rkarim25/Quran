@@ -18,15 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Resurrection** (Al-Qiyamah) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel. For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
 
-(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger ﷺ is that their only concern is the present worldly life.
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger ﷺ is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
 
 ## Tafsir Summary
 
@@ -177,3 +171,5 @@ These are the faces of the sinners that will be Basirah on the Day of Judgement.
 وُجُوْهٌ يَّوْمَىِٕذٍ نَّاضِرَةٌ اِلٰى رَبِّهَا نَاظِرَةٌ (Many faces, that day, will be glowing, looking towards their Lord,...75:23). The word nadirah means 'fresh'. In other words, many faces that day will be happy, fresh and radiant. The words 'looking towards their Lord' mean 'gazing at their Lord'. This proves that the inmates of Paradise will see Allah in the Hereafter with physical eyes. The scholars of Ahlus-sunnah (those following the classic way of interpreting the religion) are unanimous on this issue. The Mu'tazilites and the Kharijites deny the possibility of seeing Allah, even in Paradise. Their reasoning is philosophical scepticism. They say that there are certain conditions of distance that must be met between the one who sees with his physical eyes and the object that is seen. But these conditions cannot be met between the Creator and the created. The Ahlus-sunnah respond that in the Hereafter the Beatific Vision of Allah will be beyond the need of these conditions. He will be seen [ unlike any material being ] beyond space, direction, shape or form. Hadith narratives make the subject even clearer. The inmates of Paradise will occupy different positions. Consequently, some will see Allah on a weekly basis, on Fridays. Others will see Him daily, morning and evening. Yet others will see Him all the time under all conditions. [ Mazhari ].
 
 ## Personal Reflections
+
+

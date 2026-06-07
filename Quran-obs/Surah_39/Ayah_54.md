@@ -58,18 +58,6 @@ word_by_word:
     transliteration: tunṣarūna
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "O My servants who have transgressed against themselves! Verse 53 opens with the words: قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَ‌فُوا (0 servants of Mine who have acted recklessly against their own selves, do not despair of Allah's mercy.
@@ -247,3 +235,5 @@ Therefore, the outcome of the subject taken up in the verse comes to be that, we
 Sayyidna ` Abdullah Ibn ` Umar ؓ said that, out of all verses of the Qur'an, this verse brings the strongest message of hope for sinners. But, Sayyidna Ibn ` Abbas ؓ said that the strongest such verse is: إِنَّ رَ‌بَّكَ لَذُو مَغْفِرَ‌ةٍ لِّلنَّاسِ عَلَىٰ ظُلْمِهِمْ (And surely, your Lord is the lord of forgiveness for the people against their wrongdoings - Ar-Ra'd, 13:6)
 
 ## Personal Reflections
+
+

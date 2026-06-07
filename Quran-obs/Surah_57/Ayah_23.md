@@ -67,18 +67,6 @@ word_by_word:
     transliteration: fakhūrin
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 No calamity occurs in the earth nor in yourselves but it is inscribed in the Book of Decrees before We bring it into existence. لِّكَيْلَا تَأْسَوْا عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَ‌حُوا بِمَا آتَاكُمْ (...so that you may neither grieve on what has escaped you, nor over-exult on what He has given you ...57:23) This means that Allah has informed us of His encompassing knowledge, recording all things before they occur and creating all things in due measure known to Him, so that we may know that what has met us would never have missed us, and what has missed us would never have met us.
@@ -174,3 +162,5 @@ Patience and Gratitude
 وَاللَّـهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ‌ (...And Allah does not love any self-admirer, over-proud...57:23) The expression "does not love" in fact implies that Allah 'hates' those who become proud of the bounties they enjoy in this world. But instead of using the word 'hates' the expression 'does not love' is perhaps an indication that an intelligent person should consider about all his actions whether or not the intended act is dear to Allah. This is the reason why the verse uses the phrase 'does not love'.
 
 ## Personal Reflections
+
+

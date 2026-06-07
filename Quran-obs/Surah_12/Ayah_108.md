@@ -74,18 +74,6 @@ word_by_word:
     transliteration: l-mush'rikīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 108, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say "This is my way; I invite unto Allah with sure knowledge, I and whosoever follows me. "Say, (you believe it or not) 'This is my way.
@@ -123,3 +111,5 @@ The last sentence of verse 108 is: سُبْحَانَ اللَّـهِ وَمَ�
 To this, the disbelievers of Makkah used to object. They took the plea that a Rasul or messenger of Allah should not be a human being. He should, rather, be an angel. A reply to this doubt has been given in the next verse
 
 ## Personal Reflections
+
+

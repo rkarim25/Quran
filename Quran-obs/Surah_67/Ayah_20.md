@@ -66,18 +66,6 @@ word_by_word:
     transliteration: ghurūrin
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Who is it besides the Most Gracious that can be an army to you to help you? أَمَّنْ هَـٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُ‌كُم مِّن دُونِ الرَّ‌حْمَـٰنِ ۚ إِنِ الْكَافِرُ‌ونَ إِلَّا فِي غُرُ‌ورٍ‌ (Now, who is there to become a force for you to help you, except the Rahman?
@@ -195,3 +183,5 @@ This is why it will be said to them in order to scold and reprimand them,
 Then the next verse warns the disbelievers that the sustenance Allah grants them by sending down rain from the clouds and by growing plants/ vegetation in the earth is not their personal property. It is a gift and bounty from Allah. If He wills, He can withhold it. This is the import of the following verse:
 
 ## Personal Reflections
+
+

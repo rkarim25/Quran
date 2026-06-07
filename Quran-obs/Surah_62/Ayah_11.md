@@ -95,13 +95,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Congregation, Friday** (Al-Jumu'ah) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Hasan al-Basri (رح) and Abu Malik said that that was a time when there was scarcity and dearth of things. [ Mazhari ] There were several factors on account of which a large group of the blessed Companions left the mosque when they heard the sound of the caravan. First, the fard prayer had already finished, and they did not know until then the status of the Friday sermon whether it was part of the fard prayer. Second, there was scarcity and dearth of essential goods and items. Third, buyers would rush to the caravan and they feared that if they did not make it in time, they would not be able to obtain their essentials. As a result, the noble Companions committed the mistake and the above Tradition sounded a warning, that is, if all of them had gone the Divine punishment would have overtaken them. The current verse إِذَا رَ‌أَوْا تِجَارَ‌ةً was revealed to admonish them and put them to shame. For this reason, the Holy Prophet ﷺ ، since that day, changed the order of Friday sermon and prayer, delivering the sermons before the prayer. This is now the approved way [ Sunnah ].
+Hasan al-Basri (رح) and Abu Malik said that that was a time when there was scarcity and dearth of things. [ Mazhari ] There were several factors on account of which a large group of the blessed Companions left the mosque when they heard the sound of the caravan. First, the fard prayer had already finished, and they did not know until then the status of the Friday sermon whether it was part of the fard prayer. Second, there was scarcity and dearth of essential goods and items. Third, buyers would rush to the caravan and they feared that if they did not make it in time, they would not be able to obtain their essentials. As a result, the noble Companions committed the mistake and the above Tradition sounded a warning, that is, if all of them had gone the Divine punishment would have overtaken them. The current verse إِذَا رَ‌أَوْا تِجَارَ‌ةً was revealed to admonish them and put them to shame. For this reason, the Holy Prophet ﷺ ، since that day, changed the order of Friday sermon and prayer, delivering the sermons before the prayer. This is now the approved way [ Sunnah ]. [ Ibn Kathir ]
 
 ## Tafsir Summary
 
@@ -164,3 +158,5 @@ Surah Al-Jumu’ ah
 Ends here.
 
 ## Personal Reflections
+
+

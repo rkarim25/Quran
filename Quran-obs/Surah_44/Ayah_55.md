@@ -24,18 +24,6 @@ word_by_word:
     transliteration: āminīna
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be). وَزَوَّجْنَاهُم بِحُورٍ‌ عِينٍ (We will marry them with houris having big dark eyes) - 44:54).
@@ -155,3 +143,5 @@ This is the end of the Tafsir of Surat Ad-Dukhan. All praise and thanks are due 
 وَزَوَّجْنَاهُم بِحُورٍ‌ عِينٍ (We will marry them with houris having big dark eyes) - 44:54). The word tazwij originally means 'to make one person partner of another'. Later on it came to be utilised abundantly in the sense of 'marrying'. According to the second sense, the men of Paradise will be married technically to houris having big dark eyes. This is the apparent sense of verse (54). Although the inmates of Paradise will not be legally obligated to observe the precepts of Shari'ah, the purpose of marriage will be to honour them. Therefore, this should not raise any objection. If the word is taken in the first sense, houris having big dark eyes will be given as life partners to the men of Paradise. The houris in this case will be granted to them as a gift. There will be no need for a contract of marriage as is done in this world.
 
 ## Personal Reflections
+
+

@@ -26,15 +26,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cleaving** (Al-Infitar) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Infitar is a **Makkah** surah—revealed as the 82nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -193,3 +185,5 @@ Commentary
 عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَ‌تْ (...then one will know what he sent ahead and what he left behind....82:5) In the preceding verses [ 1-4] of the Surah, Allah depicts the scene of the Day of Judgment that when the sky splits, the stars fall, the seas are poured forth [ i.e. the fresh and salt water bodies will merge to form one mass of water ] and the graves are overturned [ i.e. corpses will emerge from their graves ], every soul shall come to know what it had sent ahead and what it had left behind. The phrase 'what he sent ahead' means the good or evil act which he has done in his life; and the phrase 'what he left behind' means what he failed to do or refrained from doing. It is also possible that 'what he sent ahead' refers to the acts he has done himself, and 'what he left behind' refers to the acts one has not done himself, but he has laid down a custom in the society. The Holy Prophet ﷺ is reported to have said: "If anyone establishes a good tradition in Islam, he will have a reward for it and the equivalent of the rewards of those who act upon it after him, without theirs being diminished in any respect; but he who establishes a bad custom in Islam will bear the responsibility of it and the responsibility of those who act upon it after him, without theirs being diminished in any respect." This subject was dealt with earlier under the following verse: يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ 'Man will be informed of what he sent ahead and what he left behind. [ 75:13] '
 
 ## Personal Reflections
+
+

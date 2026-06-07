@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This is another category of people among the Jews who called to misguidance with falsehood and lies about Allah, thriving on unjustly amassing people's property. 'Waylun (woe)' carries meanings of destruction and perishing, and it is a well-known word in the Arabic language. Az-Zuhri said that 'Ubadydullah bin 'Abdullah narrated that Ibn 'Abbas said, "O Muslims! How could you ask the People of the Book about anything, while the Book of Allah (Qur'an) that He revealed to His Prophet ﷺ is the most recent Book from Him and you still read it fresh and young? Allah told you that the People of the Book altered the Book of Allah, changed it and wrote another book with their own hands. They then said, 'This book is from Allah,' so that they acquired a small profit by it. Hasn't the knowledge that came to you prohibited you from asking them? By Allah! We have not seen any of them asking you about what was revealed to you." This Hadith was also collected by Al-Bukhari. Al-Hasan Al-Basri said, "The little amount here means this life and all that it contains."
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -151,3 +143,5 @@ Verse 78 says that the illiterate Jews follow their Zann ظن ، that is to say,
 (1) To signify perfect certitude -"Those who are certain that they are going to meet their Lord" (2:46). (2) To signify the greatest likelihood - "And he said to him whom he thought was the more likely of the two to be released from the prison" (12:42). (3) To signify a mere fanciful supposition - as in the present verse. The Zann ظن which the Holy Qur'an prohibits us to follow is that of the third kind. This verse condemns the Jews for having followed this kind of Zann ظن which consists in a fanciful opinion that is not supported by a respectable argument or goes against a valid one. On the contrary, it is necessary to follow the Zann ظن of the first two kinds. When certain ahadith or certain arguments and conclusions in the Shari` ah are described as resting on Zann ظن ، it is done according to the second signification of the word. One cannot avoid this kind of Zann ظن in any sphere of life, and the Shari` ah requires us to accept and follow it. Certain verses of the Holy Qur'an, of course, condemn those who follow their Zann ظن ، but to apply this condemnation to all the possible cases, and to use such verses for rejecting all the legitimate arguments and injunctions of the Shariah based on Zann ظن is to betray one's ignorance of the Holy Qur'an.
 
 ## Personal Reflections
+
+

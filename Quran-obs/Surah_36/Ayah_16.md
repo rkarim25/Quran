@@ -29,18 +29,6 @@ word_by_word:
     transliteration: lamur'salūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And put forward to them a similitude; the Dwellers of the Town, when there came Messengers to them (13)When We sent to them two Messengers, they denied them both; so We reinforced them with a third, and they said: "Verily, we have been sent to you as Messengers. In the next sentence of verse 13: إِذْ أَرْ‌سَلْنَا إِلَيْهِمُ اثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍ فَقَالُوا إِنَّا إِلَيْكُم مُّرْ‌سَلُونَ (when the messengers came to it...
@@ -118,3 +106,5 @@ In the Qur'an, the word: رسول (rasul: messenger) and: مُرسل (mursal: se
 And it has been reported from Sayyidna Qatadah ؓ that the word: مُّرْ‌سَلُونَ (mursalun: sent ones) has not been used here in its technical sense, instead, it appears in the sense of a bearer of message, and the three elders who were sent to this town were no prophets themselves, rather, were from among the disciples of Sayyidna ` Isa (علیہ السلام) and were sent for the guidance of this town under his order (Ibn Kathir). And since their sender, Sayyidna ` Isa (علیہ السلام) was a messenger of Allah, therefore, in a way, his sending was indirectly the sending of Allah Ta’ ala. Hence, his sending has been attributed to Allah Ta’ ala. Out of the commentators, Ibn Kathir has opted for the first saying while al-Qurtubi and others have gone by the second. From the apparent sense of the text of the Qur'an too, it is generally gathered that these blessed souls were prophets of Allah. Allah knows best.
 
 ## Personal Reflections
+
+

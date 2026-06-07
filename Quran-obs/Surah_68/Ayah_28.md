@@ -33,18 +33,6 @@ word_by_word:
     transliteration: tusabbiḥūna
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, We have tried them as We tried the People of the Garden, when they swore to pluck the fruits in the morning (17)Without (saying: "If Allah wills." (18)Then there passed over it a Ta'if from your Lord while they were asleep (19)So by the morning, it became like As-Sarim (20)Then they called out (one to another as soon) as the morning broke (21)Saying: "Go to your tilth in the morning, if you would pluck (the fruits). قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ (Said he who was the best among them, "Did I not say to you, 'Why do you not pronounce tasbih (Allah's purity)?"....68:28).
@@ -160,3 +148,5 @@ It has been said, "They were hoping for something better in exchange in this lif
 قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ (Said he who was the best among them, "Did I not say to you, 'Why do you not pronounce tasbih (Allah's purity)?"....68:28). The middle brother was the best of them. He was righteous like his father. It used to please him to spend in the cause of Allah. He was not niggardly or stingy like the other brothers. He had advised them to recite tasbih which, literally, means to pronounce Allah's purity. He told them that they were withholding the share of the poor with the fear that their fruit will be depleted and will not be replenished by Allah, if they gave the poor their share. He told them that Allah is pure from such pettiness. Instead, those who spend in the way of Allah, He will not only make their wealth full again or replace what they have spent, but also will give them over and above what they have spent. [ Mazhari ].
 
 ## Personal Reflections
+
+

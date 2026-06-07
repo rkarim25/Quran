@@ -60,17 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Those who avoid At-Taghut by not worshipping them) was revealed concerning Zayd bin 'Amr bin Nufayl and Abu Dharr and Salman Al-Farisi, may Allah be pleased with them. The correct view is that it includes them and all others who avoided worshipping idols and turned to the worship of Ar-Rahman. These are the people for whom there is good news in this world and in the Hereafter. Then Allah says:
 
 Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -115,3 +107,5 @@ Then, there are many commentators who take 'al-qawl' at this place to mean what 
 Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
 
 ## Personal Reflections
+
+

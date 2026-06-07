@@ -132,17 +132,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (They say, "We believe in what was sent down to us.") meaning, it is enough for us to believe in what was revealed to us in the Tawrah and the Injil, and this is the path that we choose,
 
 (while it is the truth confirming what is with them) meaning, while knowing that what was revealed to Muhammad ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -241,3 +233,5 @@ In short, nothing that the Jews say or do is acceptable and valid from any possi
 The next verses proceed to refute the Jews on several other counts.
 
 ## Personal Reflections
+
+

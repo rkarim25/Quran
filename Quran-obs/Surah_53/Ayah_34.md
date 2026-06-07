@@ -19,15 +19,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Star** (An-Najm) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -152,3 +144,5 @@ Then Allah will remind you of your actions and recompense you for them in the be
 وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰ (and gave a little, and stopped? ...53:34) The word akda is derived from kudyah which refers to a hard or stony piece of ground or clod that appears in the course of digging a well or a trench. As a result, the digger cannot dig any further. Thus the meaning of the verse is that at first he gave a little, then he stopped giving. In view of the incident narrated under the heading of "Background of Revelation", the meaning is quite clear. [ For the person in that incident paid a little amount and then stopped payment.] Apart from this meaning, Sayyidna Mujahid, Said Ibn Jubair, ` Ikrimah, Qatadah and others interpret this word to imply that a person spent a little in Allah's way, then stopped it; or at first he was somewhat inclined towards Allah's obedience, and he obeyed Him for a while, and then gave it up [ vide Ibn Kathir ].
 
 ## Personal Reflections
+
+

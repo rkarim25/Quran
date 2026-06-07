@@ -88,18 +88,6 @@ word_by_word:
     transliteration: ʿaẓīmin
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, he went forth before his people in his finery. إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِندِي (This is given to me because of knowledge (I have) with me- 28:78).
@@ -137,3 +125,5 @@ However, it is more plausible in the context that the knowledge he was referring
 أَوَلَمْ يَعْلَمْ أَنَّ اللَّـهَ قَدْ أَهْلَكَ مِن قَبْلِهِ (Did he not know that Allah had destroyed, from the generations before him...28:78). The real answer to Qarun's assertion that he had collected all his wealth by his personal skill and efforts is the one mentioned above; that even if it is accepted for a moment that he had acquired his wealth by his personal skill and knowledge, the point is that this knowledge and experience was also the gift of Allah Ta’ ala. But in order to bring home the more important aspect of the subject, the Qur'an has stated that the abundance of wealth is of no avail and is devoid of merit, nor does it help in distress. As a proof of that, the example of the wealthy from the earlier generations has been quoted, that when they disobeyed and rejected the truth, they were suddenly caught by the torment of Allah Ta’ ala.
 
 ## Personal Reflections
+
+

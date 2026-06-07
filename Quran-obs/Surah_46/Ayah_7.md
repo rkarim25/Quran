@@ -64,17 +64,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And when Our Clear Ayat are recited to them, the disbelievers say of the truth when it reaches them: "This is plain magic! (7)Or say they: "He has fabricated it." Say: "If I have fabricated it, still you have no power to support me against Allah. He knows best of what you say among yourselves concerning it! Sufficient is He as a witness between me and you! And He is the Oft–Forgiving, the Most Merciful. (8)Say: "I am not a new thing among the Messengers, nor do I know what will be done with me or you. I only follow that which is revealed to me, and I am but a plain warner. (9)
 
 (That Allah may forgive for you your sins of the past and future). They said that when the latter Ayah was revealed, one of the Muslims said to Allah's Messenger ﷺ, "Allah has declared what He will do for you. But what will He do for us?" Then Allah revealed;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ The original word used in the text is 'atharah' which is an infinitive in the se
 The explanation given above is taken from the Tafsir of Qurtubi, and this is the explanation accepted by most exegetes. There are some other views in the interpretation of this verse, but they are neither well-established, nor in full harmony with the textual structure. Therefore, they are not adopted by the majority of the exegetes. (Allah knows best)
 
 ## Personal Reflections
+
+

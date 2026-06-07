@@ -59,18 +59,6 @@ word_by_word:
     transliteration: lil'ʿālimīna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And among His signs is the creation of the heavens and the earth, and the difference of your languages and colors. The same way there are differences of colour and hue.
@@ -110,3 +98,5 @@ The same way there are differences of colour and hue. It is seen that babies of 
 While referring to this sign of the divine omnipotence, this verse has mentioned creation or many things, such as sky, earth, the difference of languages and dialects, difference of colour in humans, which are all signs of Divine wisdom and can be recognized and understood with little attention. Hence, it is added at the end of the verse:إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْعَالِمِينَ (Surely in this there are signs for the persons of knowledge - 30:22).
 
 ## Personal Reflections
+
+

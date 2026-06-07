@@ -123,18 +123,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "Disguise her throne for her that we may see whether she will be guided, or she will be one of those not guided. The story of Bilqis has ended in the above verses on the statement that she converted to Islam after coming to Sayyidna Sulaiman ۔ (علیہ السلام) What happened after that?
@@ -234,3 +222,5 @@ Did Sayyidna Sulaiman (علیہ السلام) marry Bilqis?
 The story of Bilqis has ended in the above verses on the statement that she converted to Islam after coming to Sayyidna Sulaiman ۔ (علیہ السلام) What happened after that? The Qur'an is silent on this. It is for this reason that when someone asked ` Abdullah ibn ` Uyaynah whether Sayyidna Sulaiman (علیہ السلام) had married Bilqis, he answered that her case has finished on this أَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (I submit, along with Sulaiman (علیہ السلام) ، to Allah, the Lord of the worlds - 44). The idea behind this answer was that when Qur'an has not divulged anything after that, it is not for us to probe any further. But Ibn ` Asakir has reported on the authority of Sayyidna ` Ikrimah ؓ that Sayyidna Sulaiman (علیہ السلام) had married Bilqis after that, and she was retained as the sovereign of her country. She was then sent back to Yemen, and Sayyidna Sulaiman (علیہ السلام) used to visit her every month for three days. He got three palaces made for her in Yemen, which had no parallel of their kind. (Only God knows best)
 
 ## Personal Reflections
+
+

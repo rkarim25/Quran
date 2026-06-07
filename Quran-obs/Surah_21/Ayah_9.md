@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-mus'rifīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We sent not before you but men to whom We revealed. فَاسْأَلُوا أَهْلَ الذِّكْرِ‌ إِن كُنتُمْ لَا تَعْلَمُونَ (So, ask the people (having the knowledge) of the message, if you do not know.
@@ -121,3 +109,5 @@ Then We fulfilled to them the promise. the promise that their Lord made to destr
 Ruling: Qurtubi has said in his exegesis that this verse has made it clear that ignorant persons who are not acquainted with the rules of Shari'ah must seek knowledge from scholars and then follow them accordingly.
 
 ## Personal Reflections
+
+

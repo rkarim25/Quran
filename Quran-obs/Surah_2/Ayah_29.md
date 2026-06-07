@@ -84,18 +84,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-21 - 29 The story of the appointment of Adam as Allah's Vicegerent on Earth, of his life in the Garden, of his falling a prey to the temptations of Satan, of his repentance and its acceptance, has been related to show to mankind (Adam's offspring), that the only right thing for them is to accept and follow the Guidance.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He it is Who created for you all that is on earth. In recounting the blessings which man has received from Allah, verse 29 refers to Allah having created for man "all that the earth contains." This small phrase comprehends all kinds of benefits which accrue to him from the earth and its produce.
@@ -193,3 +181,5 @@ There are still other authentic scholars who have not taken sides in this contro
 (6) According to verse 29, the, skies are seven in number. This shows that the opinion of the ancient Greek astronomers and some Muslim philosophers, who used to speak of nine heavens, was no more than a conjecture.
 
 ## Personal Reflections
+
+

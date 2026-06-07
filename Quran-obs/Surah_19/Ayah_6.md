@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **Mary** (Maryam) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The reason for his fear was that he was afraid that the generation that would succeed him would be a wicked generation. Thus, he asked Allah for a son who would be a Prophet after him, who would guide them with his prophethood and that which was revealed to him.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -189,3 +181,5 @@ Sulayman Ali was the heir of Dawud (علیہ السلام) and Muhammad ﷺ was 
 It is quite obvious that the Holy Prophet ﷺ did not inherit any material wealth from Sulayman (علیہ السلام) ، nor did Sulayman (علیہ السلام) receive any such inheritance from Dawud (علیہ السلام) . Clearly the reference here is to the wisdom and the knowledge which all prophets of Allah possess.
 
 ## Personal Reflections
+
+

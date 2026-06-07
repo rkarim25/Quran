@@ -58,18 +58,6 @@ word_by_word:
     transliteration: ʿadadan
 ---
 
-## Context
-
-To understand **The Jinn** (Al-Jinn) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition related in Bukhari and Muslim, on the authority of Hadrat Abdullah bin Abbas, once the Holy Prophet (upon whom be peace) was going to Visit the Fair of Ukaz with some of his Companions, On the way be led the Fajr Prayer at Nakhlah. At that time a company of the jinn happened to pass that way. When they heard the Quran being recited, they tarried and listened to it attentively. This very event has been described in this Surah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا (...and has comprehensive knowledge of everything by numbers....72:28).
@@ -177,3 +165,5 @@ The question of the Unseen Knowledge is fully discussed under [ 27:65]
 Say, "No one in the heavens and the earth has the knowledge of the Unseen except Allah." [ 27:65]
 
 ## Personal Reflections
+
+

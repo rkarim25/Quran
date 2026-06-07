@@ -79,15 +79,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (They made not a just estimate of Allah such as is due to Him.) means, the idolators did not give Allah His due when they worshipped others alongside Him. He is the Almighty, and there is none mightier than Him; He is the One Who is able to do all things; He is the Owner of all things and everything is under His control and power. Mujahid said, "This was revealed concerning Quraysh." As-Suddi said, "They did not venerate Him as He deserves to be venerated." Muhammad bin Ka'b said, "If they had made a just estimate of Allah such as is due to Him, they would not have lied." 'Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -148,3 +140,5 @@ In the last verse (67), it was said: وَالْأَرْ‌ضُ جَمِيعًا 
 Later day scholars, taking this verse to be metaphorical, explain it by saying that having something grasped in hand and having something in the right hand is an allusion to having something under full possession and control - and it is this perfect possession and control that is meant here. And Allah, He is pure and high - He knows best.
 
 ## Personal Reflections
+
+

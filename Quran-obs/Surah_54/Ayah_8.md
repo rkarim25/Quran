@@ -38,18 +38,6 @@ word_by_word:
     transliteration: ʿasirun
 ---
 
-## Context
-
-To understand **The Moon** (Al-Qamar) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The incident of the shaqq-al-Qamar (splitting of the moon) that has been mentioned in it, determines its period of revelation precisely. The traditionists and commentators are agreed that this incident took place at Mina in Makkah about five years before the Holy Prophet's hijrah to Madinah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So withdraw from them. مُّهْطِعِينَ إِلَى الدَّاعِ (rushing quickly towards the caller....54:8).
@@ -95,3 +83,5 @@ Allah the Exalted says, 'O Muhammad, turn away from these people who, when they 
 مُّهْطِعِينَ إِلَى الدَّاعِ (rushing quickly towards the caller....54:8). The word muhti` in literally denotes walking quickly with one's head raised above. This, together with the two preceding verses, gives a graphic picture of the Day of Gathering or Reckoning. The people will hasten hurriedly in the direction of the voice of the Caller towards the mahshar (area of Reckoning). The words: "With their eyes humbled, "in preceding verse (7) are in no conflict with the present verse, because there will be many different occasions in mahshar. On some of these occasions, the eyes of all the people will be cast down.
 
 ## Personal Reflections
+
+

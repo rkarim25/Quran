@@ -104,18 +104,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Prohibition** (At-Tahrim) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tahrim is a **Madinah** surah—revealed as the 107th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In connection with the incident of tahrim referred to in this Surah, the traditions of the Hadith mention two ladies who were among the wives of the Holy Prophet (upon whom be peace) at that time Hadrat Safiyyah and Hadrat Mariyah Qibtiyyah. The former (i. e. Hadrat Safiyyah) was taken to wife by the Holy Prophet after the conquest of Khaiber, and Khaiber was conquered, as has been unanimously reported, in A. H. 7. The other lady, Hadrat Mariyah, had been presented to the Holy Prophet by Muqawqis, the ruler of Egypt, in A.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Allah has set forth an example for those who believe: the wife of Fir'awn, when she said: "My Lord! ضَرَ‌بَ اللَّـهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَ‌أَتَ فِرْ‌عَوْنَ إِذْ قَالَتْ رَ‌بِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ (And Allah has cited for the believers the example of the wife of Fir'aun (the Pharaoh), when she said, "My Lord, build for me, near You, a house in the Paradise...66:11) This is the example of the wife of Fir'aun (the Pharaoh) whose name was ` Asiyah bint Muzahim.
@@ -185,3 +173,5 @@ This is the end of the Tafsir of Surat At-Tahrim, all thanks and praise are due 
 ضَرَ‌بَ اللَّـهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَ‌أَتَ فِرْ‌عَوْنَ إِذْ قَالَتْ رَ‌بِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ (And Allah has cited for the believers the example of the wife of Fir'aun (the Pharaoh), when she said, "My Lord, build for me, near You, a house in the Paradise...66:11) This is the example of the wife of Fir'aun (the Pharaoh) whose name was ` Asiyah bint Muzahim. When Musa (علیہ السلام) accomplished his task in defeating the sorcerers who embraced Mosaic faith, she too embraced the Mosaic faith and became a Muslim. Fir'aun ordered that she should be tortured severely and tormented harshly. According to some reports, her hands and feet were pegged with nails to the ground and a huge rock was placed on her chest, so that she might not be able to move. In this state she supplicated to Allah as mentioned in this verse. According to other reports, it was suggested that a huge rock be dropped on her. They had hardly dropped the rock and she prayed to Allah as quoted in the verse. Allah then showed Sayyidah 'Asiyah ؓ her house in Paradise, and while looking at this vision her soul departed. When the rock fell on her body, it was lifeless. [ Mazhari ].
 
 ## Personal Reflections
+
+

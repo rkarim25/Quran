@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Mount** (At-Tur) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -171,3 +163,5 @@ Sayyidna ` Umar ؓ one day recited Surah Tur. When he came to these verses, he h
 Sayyidna Jubair Ibn Mut'im ؓ says that before embracing Islam, he once went to the holy city of Madinah to negotiate regarding the prisoners of the battle of Badr. When he arrived there, the Holy Prophet ﷺ was reciting Surah Tur in Maghrib salah and his voice could be heard outside the mosque. When he recited verses [ 7] and [ 81: 'The punishment of your Lord is sure to fall. There is nothing to push it back,' He suddenly felt that his heart would burst through fear. He instantly embraced Islam. He felt at the time that he would not be able to move unless the torment would descend on him. (Qurtubi)
 
 ## Personal Reflections
+
+

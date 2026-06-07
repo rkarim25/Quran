@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Mount** (At-Tur) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -157,3 +149,5 @@ Allah said;
 وَكِتَابٍ مَّسْطُورٍ‌ فِي رَ‌قٍّ مَّنشُورٍ‌ (and by a book, written on an unrolled scroll....52:2-3) The word raqq means fine parchment or fine piece of skin, used for the purpose of writing on it. It is, therefore, usually translated as paper. Here it could be referring to man's account-book of deeds or, according to some of the scholars, it stands for the Qur'an. (Qurtubi)
 
 ## Personal Reflections
+
+

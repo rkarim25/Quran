@@ -86,17 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Consultation** (Ash-Shuraa) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And thus We have revealed to you a Qur'an in Arabic that you may warn the Mother of the Towns and all around it, and warn (them) of the Day of Assembling of which there is no doubt, a party will be in Paradise and a party in the blazing Fire (7)And if Allah had willed, He could have made them one nation, but He admits whom He wills to His mercy. And the wrongdoers will have neither a protector nor a helper (8)
 
 (thus We have revealed to you a Qur'an in Arabic) meaning, plain, clear, and manifest
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ Imam Ahmad recorded that Abu Nadrah said, "One of the Companions of the Prophet 
 وَمَنْ حَوْلَهَا - means the suburbs in the neighborhood of Makkah Mukarramah; it could mean the neighboring Arab countries as well as the whole of the earth from east to west.
 
 ## Personal Reflections
+
+

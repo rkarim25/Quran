@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 90, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -284,3 +276,5 @@ This is the reason why it was the usual practice of the Holy Prophet ﷺ that he
 After that, the Holy Prophet ﷺ has been specially commanded to proclaim - a common practice of all past prophets (علیہم السلام) - in the words which follow: قُل لَّا أَسْأَلُكُمْ عَلَيْهِ أَجْرً‌ا ۖ إِنْ هُوَ إِلَّا ذِكْرَ‌ىٰ لِلْعَالَمِينَ (Say: "I ask you no reward for it. It is nothing but an advice for all the worlds). In other words, it means: I am not asking you to pay for the good counsel I am offering to help you better your life. I need no fees or wages or rewards. If you accept it, I gain nothing. If you do not accept it, I lose nothing. This is only a message, a message for people all over, a message of good counsel, good will. Not accepting any return for teaching and preaching has been the common legacy of all prophets (علیہم السلام) . This is a powerful factor which goes on to make Tabligh (conveying the message of religion to others) effective.
 
 ## Personal Reflections
+
+

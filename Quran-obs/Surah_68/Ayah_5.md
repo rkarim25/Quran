@@ -12,18 +12,6 @@ word_by_word:
     transliteration: wayub'ṣirūna
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (1. فَسَتُبْصِرُ‌ وَيُبْصِرُ‌ونَ بِأَييِّكُمُ الْمَفْتُونُ (So, you will see, and they will see which of you is demented....68:5-6].
@@ -163,3 +151,5 @@ Thus, the entire statement means, 'so you will know and they will know,' or 'you
 فَسَتُبْصِرُ‌ وَيُبْصِرُ‌ونَ بِأَييِّكُمُ الْمَفْتُونُ (So, you will see, and they will see which of you is demented....68:5-6]. The word maftun, in this context, means 'demented'. In the preceding verses, the Holy Prophet ', was accused of being an insane and demented. This verse turns tables upon the accusers of the Holy Prophet , and making a prophecy, tells them in challenging words that time will show whether it was he or they who suffered from insanity, or whether his claim to be Allah's Messenger ﷺ was the outpouring of heated brain, or whether they themselves were so demented as not to read the signs of time, and thus refuse to believe in him. These were the unfortunate, wretched ones who did not see the light of Truth and were thus disgraced and defeated in this world. But, on the other hand, there were thousands of other lucky ones who, at first did not see the light of Truth and denounced him as demented, soon saw the light and embraced the Faith of Islam. They took the love and obedience of the Holy Prophet as the capital asset of success, prosperity and happiness.
 
 ## Personal Reflections
+
+

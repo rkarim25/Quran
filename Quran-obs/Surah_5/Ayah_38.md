@@ -58,18 +58,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. The fourth verse (38) reverts to the subject of the punishment of crimes where the Islamic Legal Punishment of theft has been described.
@@ -209,3 +197,5 @@ After stating the Hadd حدّ Punishment for theft in this verse (38), two sente
 Finally, towards the end of the verse (38), by saying: وَاللَّـهُ عَزِيزٌ حَكِيمٌ (And Allah is Mighty, Wise), answer has been given to the doubt so widely entertained these days, that is, this punishment is very harsh. Not resting at that, there are the loudmouthed and the uninformed among them who would not even fight shy of saying that this punishment is savage. Refuge with Allah! These words are there to point out that the introduction of this severe punishment is not only that it is an out-come of Allah's being Mighty and Powerful, but that it also based on His being Wise as well. The Islamic Legal Punishments which the modern highbrows of the West label as harsh and savage shall be taken up in details with comments on the wisdom behind them, their need and benefits, soon after we have completed the explanation of the present set of verses.
 
 ## Personal Reflections
+
+

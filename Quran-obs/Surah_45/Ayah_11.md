@@ -50,18 +50,6 @@ word_by_word:
     transliteration: alīmun
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah also has not been mentioned in any authentic tradition, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 These are the Ayat of Allah, which We recite to you with truth. مِّن وَرَ‌ائِهِمْ جَهَنَّمُ "In front of them, there is Jahannam...45:10" The word وَرَ‌اءِ war' in Arabic is mostly used in the sense of "behind" and occasionally used in the sense of "front".
@@ -141,3 +129,5 @@ Allah explained the type of torment that these people earn on the Day of Return;
 مِّن وَرَ‌ائِهِمْ جَهَنَّمُ "In front of them, there is Jahannam...45:10" The word وَرَ‌اءِ war' in Arabic is mostly used in the sense of "behind" and occasionally used in the sense of "front". Most commentators have taken the word in this context to mean ` front' and we have translated it accordingly. However, some of the commentators have taken it in this context to mean ` back/behind' and interpreted it to mean that those who are living in haughtiness and arrogance, the fire of Hell is trailing behind/after them. (Qurtubi).
 
 ## Personal Reflections
+
+

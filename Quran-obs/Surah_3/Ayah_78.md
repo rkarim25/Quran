@@ -128,15 +128,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with Allah that we worship someone other than Allah or call on others to do so. Allah Almighty has not sent us to do that.' Thereupon, this verse was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Commentary
 It was during the presence of the deputation from Najran that some Jews and Christians had said: '0 Muhammad, do you want us to worship you the way Christians worship Jesus, son of Mary?' He said: 'I seek refuge with Allah that we worship someone other than Allah or call on others to do so. Allah Almighty has not sent us to do that.' Thereupon, this verse was revealed.
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: taʿlamūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 169, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O mankind! The word ‘su' in السُّوءِ وَالْفَحْشَاءِ means something which bothers somebody good and reasonable.
@@ -117,3 +105,5 @@ The word ‘su' in السُّوءِ وَالْفَحْشَاءِ means something
 The expression إِنَّمَا يَأْمُرُ‌كُم (innama ya'murukum: he only orders you' ) means instigating a suggestion in the heart. The meaning can be seen more clearly in a hadith from the blessed Companion ` Abdullah ibn Masud ؓ who said that the Holy Prophet ﷺ has said: The son of Adam آدم is influenced by a suggestion from the Satan شیطان and a suggestion from the angel. The Satanic suggestion has the effect of bringing forth the expedient gains in evil deeds and thereby opening the avenues of negating the truth, while the angelic suggestion promises reward and success for good deeds and leaves the happy effect of a heart in peace at its attestation of the truth."
 
 ## Personal Reflections
+
+

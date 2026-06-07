@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **Explained in Detail** (Fussilat) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Prostration of worship for any being other than Allah has never been lawful for any Ummah in any Shari` ah of any prophet, because it becomes a practice of shirk (polytheism) and shirk has never been allowed in any code of shari'ah revealed to any prophet. However, prostration in respect and reverence of anyone (with no intention to worshipping him) had been allowed in the codes of shari'ah revealed to some prophets. All the angels were ordered to prostrate before Sayyidna 'Adam (علیہ السلام) before he came into this world. It is stated in the Qur'an that the father and brothers of Sayyidna Yusuf (علیہ السلام) prostrated before him. But the jurisprudents of this Ummah are unanimous on the point that such a prostration was permissible in the earlier codes only, and it stands abrogated in Islam. Prostration for any being other than Allah has been declared absolutely haram (forbidden). Full details of this issue are given in the author's booklet ( المقالۃ المرضیۃ فی حکم سجدۃ التحیۃ) Al-maqalat-ulmardiyyah, fi Hukmi sajdat-it-tahiyyah' in Arabic, and its Urdu translation has also been published.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -157,3 +149,5 @@ It is Not permissible to prostrate before anyone except Allah Almighty
 Prostration of worship for any being other than Allah has never been lawful for any Ummah in any Shari` ah of any prophet, because it becomes a practice of shirk (polytheism) and shirk has never been allowed in any code of shari'ah revealed to any prophet. However, prostration in respect and reverence of anyone (with no intention to worshipping him) had been allowed in the codes of shari'ah revealed to some prophets. All the angels were ordered to prostrate before Sayyidna 'Adam (علیہ السلام) before he came into this world. It is stated in the Qur'an that the father and brothers of Sayyidna Yusuf (علیہ السلام) prostrated before him. But the jurisprudents of this Ummah are unanimous on the point that such a prostration was permissible in the earlier codes only, and it stands abrogated in Islam. Prostration for any being other than Allah has been declared absolutely haram (forbidden). Full details of this issue are given in the author's booklet ( المقالۃ المرضیۃ فی حکم سجدۃ التحیۃ) Al-maqalat-ulmardiyyah, fi Hukmi sajdat-it-tahiyyah' in Arabic, and its Urdu translation has also been published.
 
 ## Personal Reflections
+
+

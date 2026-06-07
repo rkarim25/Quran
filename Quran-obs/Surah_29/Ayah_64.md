@@ -66,18 +66,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And this life of the world is only an amusement and a play! In the preceding verses it was said about the infidels and disbelievers that if they were asked about the creation of the earth and skies, the solar system, the water cycle and its effect on growth of vegetation, they would reply that all this is created and controlled by Allah Ta a1a.
@@ -133,3 +121,5 @@ This verse tells us that when an infidel regards himself totally helpless and ca
 The declaration in another verse وَمَا دُعَاءُ الْكَافِرِ‌ينَ إِلَّا فِي ضَلَالٍ (And the prayer of the disbelievers does not but go astray - 13:14) relates to the Hereafter, where no entreaty from them will be accepted when they would appeal for mercy against the torment.
 
 ## Personal Reflections
+
+

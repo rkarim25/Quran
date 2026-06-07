@@ -305,15 +305,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Sayyidna Jabir ibn ` Abdullah has reported the following event: "Once we went out with the Messenger of Allah s until we passed by an Ansari woman in the neighbourhood of Aswaf. The woman came along with her two girls and said: 0 Messenger of Allah, these two girls are daughters of Thabit ibn Qays (my husband) who fell a martyr at the battle of Uhud while with you. The uncle of these girls has taken possession of whatever they had of their entire inheritance and has left nothing for them. What do you say' about it, 0 Messenger of Allah? By Allah, these girls can never hope to be taken in marriage by anyone unless they have some assets. Then, the Holy Prophet ﷺ ، said: Allah will decide in this matter.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -504,3 +496,5 @@ It means: 'These shares for children and parents have been determined by Allah A
 This verse of the Holy Qur'an clearlydeclares that the shares of inheritance determined by Allah ‘Almighty are settled injunctions from Him. Nobody has any right to enforce opinion or to increase or decrease its stipulations. These should be accepted whole-heartedly This command from everyone's Creator and Master is based on what is wise and beneficial for human beings. There is no aspect of benefit outside the expanse of His knowledge and there is no command He gives bereft of some or the other element of wisdom. Man cannot, all by himself, recognize his gain and loss in the real sense. If this question of the distribution of inheritance was left to man's personal opinion, it was certain that man would not have decided correctly because of his limitations in understanding and, as a result of which, lack of moderation and justice would have affected the distribution of inheritance. So, Allah Almighty, in His most exalted majesty, took this responsibility in His hands so that justice and equity reign supreme in the distribution of property and the capital left by the deceased circulates in the hands of competent inheritors in a manner which is just and equitable.
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: qudira
 ---
 
-## Context
-
-To understand **The Moon** (Al-Qamar) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The incident of the shaqq-al-Qamar (splitting of the moon) that has been mentioned in it, determines its period of revelation precisely. The traditionists and commentators are agreed that this incident took place at Mina in Makkah about five years before the Holy Prophet's hijrah to Madinah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The people of Nuh denied (their Messenger) before them. فالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ‌ قَدْ قُدِرَ‌ (so the water [ of both kinds ] met together for a destined event....54:12).
@@ -175,3 +163,5 @@ However, it appears that the meaning here is that Allah kept ships as a sign. Fo
 فالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ‌ قَدْ قُدِرَ‌ (so the water [ of both kinds ] met together for a destined event....54:12). In other words, the rain water pouring down from the skies in torrents and also bubbling water gushing forth from under the ground, caused the Deluge [ a huge flood ] which engulfed the entire land, and thus the Divine decree was fulfilled, destroying the people of Nuh (علیہ السلام) to the last man, and even the peaks of the mountains could not give them any shelter.
 
 ## Personal Reflections
+
+

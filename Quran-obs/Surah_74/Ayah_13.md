@@ -14,13 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cloaked One** (Al-Muddaththir) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-"Al-Walid bin Al-Mughirah entered the house of Abu Bakr bin Abi Quhafah and asked him about the Qur'an. When Abu Bakr informed him about it, he left and went to the Quraysh saying, 'What a great thing this is that Ibn Abi Kabshah is saying. I swear by Allah that it is not poetry, nor magic, nor the prattling of insanity. Verily, his speech is from the Words of Allah!' So when a group of the Quraysh heard this they gathered and said, 'By Allah, if Al-Walid converts (to Islam) all of the Quraysh will convert.' When Abu Jahl bin Hisham heard this he said, 'By Allah, I will deal with him for you.' So he went to Al-Walid's house and entered upon him. He said to Al-Walid, 'Don't you see that your people are collecting charity for you?' Al-Walid replied, 'Don't I have more wealth and children than they do?' Abu Jahl answered, 'They are saying that you only went to Ibn Abi Quhafah's house so that you can get some of his food.' Al-Walid then said, 'Is this what my tribe is saying? Nay, by Allah, I am not seeking to be close to Ibn Abi Quhafah, nor 'Umar, nor Ibn Abi Kabshah.
+"Al-Walid bin Al-Mughirah entered the house of Abu Bakr bin Abi Quhafah and asked him about the Qur'an. When Abu Bakr informed him about it, he left and went to the Quraysh saying, 'What a great thing this is that Ibn Abi Kabshah is saying. I swear by Allah that it is not poetry, nor magic, nor the prattling of insanity. Verily, his speech is from the Words of Allah!' So when a group of the Quraysh heard this they gathered and said, 'By Allah, if Al-Walid converts (to Islam) all of the Quraysh will convert.' When Abu Jahl bin Hisham heard this he said, 'By Allah, I will deal with him for you.' So he went to Al-Walid's house and entered upon him. He said to Al-Walid, 'Don't you see that your people are collecting charity for you?' Al-Walid replied, 'Don't I have more wealth and children than they do?' Abu Jahl answered, 'They are saying that you only went to Ibn Abi Quhafah's house so that you can get some of his food.' Al-Walid then said, 'Is this what my tribe is saying? Nay, by Allah, I am not seeking to be close to Ibn Abi Quhafah, nor 'Umar, nor Ibn Abi Kabshah. And his speech is only inherited magic of old.' So Allah revealed to His Messenger ﷺ,
 
 ## Tafsir Summary
 
@@ -187,3 +181,5 @@ This shows that just as the birth of children and their being alive are a boon o
 '...those who forgot Allah, so He made them forget their own selves_[ 59:19] '
 
 ## Personal Reflections
+
+

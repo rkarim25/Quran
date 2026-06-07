@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (What is it that your Lord has revealed?) they will reluctantly answer, "He did not reveal anything, these are just the fables of old." But the blessed, on the other hand, will say, "That which is good," meaning - He revealed something good, meaning mercy and blessings for those who followed it and believed in it. Then we are told about Allah's promise to His servants which He revealed to His Messengers. He says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -153,3 +145,5 @@ The Holy Qur'an does not explicitly say as to who asked the question. Therefore,
 The essence of the answer given by the polytheists is that they simply refused to acknowledge that there was any word of Allah really revealed from Him. In fact, they dismissed the Qur'an as nothing but tales of people from early ages. Thereupon, the Qur’ an admonished those unjust people for disinforming people about the Qur'an by telling them that it was nothing but the tales of the ancient whereby they make others too go astray like them. As for the consequences, these they shall have to face. It means that the total curse of their sins has to fall on them anyway on the Day of Judgment, but part of the curse of the evil consequences of their role in misguiding others will also fall on them. Then it was said that the burden of sins which these people are piling up on their shoulders is a terribly evil burden.
 
 ## Personal Reflections
+
+

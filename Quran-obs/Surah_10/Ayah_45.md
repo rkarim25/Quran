@@ -89,18 +89,6 @@ word_by_word:
     transliteration: muh'tadīna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And on the Day when He shall gather them together, (it will be) as if they had not stayed (in the life of this world and graves) but an hour of a day. In verse 45, it was said: يَتَعَارَ‌فُونَ بَيْنَهُمْ (they will recognize each other), that is, when the dead will be raised from their graves, they will recognize each other as if not much time had passed when they met last.
@@ -182,3 +170,5 @@ Imam al-Baghawi said: This recognition will be possible during the
 early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Doom, will unfold, this ability to recognize each other will stand disabled. According to some other narrations, the ability to recognize each other will, though, still remain, but such will be the awe of the situation that they will be unable to say anything. (Mazhari)
 
 ## Personal Reflections
+
+

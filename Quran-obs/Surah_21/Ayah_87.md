@@ -101,18 +101,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Dhun-Nun, when he went off in anger, and imagined that We shall not punish him! وَذَا النُّونِ (21:87) The story of Sayyidna Yunus Ibn Matta (علیہ السلام) appears in the Holy Qur'an in Surah Yanus, Surah Al-Anbiya', Surah As-Saffat and Surah Nun.
@@ -226,3 +214,5 @@ After learning the background of the episode it would be easier to understand th
 اللَّـهُ يَبْسُطُ الرِّ‌زْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ‌ لَهُ (Allah extends provision to whom He wills and straitens it.) The Imams of Tafsir Ata', Said Ibn Jubair, Hasan Basri and many other scholars have adopted this interpretation, and therefore the meaning of the verse would be that Yunus (علیہ السلام) thought that he would not be put in a straitened condition by Allah Ta` a1a if he abandoned his people. This second explanation is adopted by most commentators (and the translation of the text as appeared above is based on it). The third possibility is that نَقدِر is a derivative of تَقدِیر in which case the verse would mean that Yunus (علیہ السلام) was sure that he would not be blamed if he dissociated himself from his people. Qatadah, Mujahid and Farra' have adopted this explanation.
 
 ## Personal Reflections
+
+

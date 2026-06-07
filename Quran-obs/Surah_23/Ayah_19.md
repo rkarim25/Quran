@@ -58,18 +58,6 @@ word_by_word:
     transliteration: takulūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you. The Qur'an then goes on to say that it is from an assured and regular supply of water only that Allah created fruit gardens which produce dates and grapes and many other kinds of fruits.
@@ -151,3 +139,5 @@ Here Allah mentions the benefits He has given to His servants in cattle, for the
 The Qur'an then goes on to say that it is from an assured and regular supply of water only that Allah created fruit gardens which produce dates and grapes and many other kinds of fruits. People eat these fruit for their taste and flavour and also preserve some of them for future use as articles of food as is evident from the sentence وَمِنْهَا تَأْكُلُونَ (And of them you eat -, 23:19). Then special mention is made of olives and the oil extracted from it because it has many uses and offers many benefits. And since the Mount Sinai produces an abundant crop of olives therefore a reference has been made to it
 
 ## Personal Reflections
+
+

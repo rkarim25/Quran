@@ -26,17 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Ornaments of Gold** (Az-Zukhruf) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And they say) means, objecting to that which Allah has revealed to him,
 
 (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prominent in their eyes, from the two towns, i.e., Makkah and At-Ta'if? This was the view of Ibn 'Abbas, may Allah be pleased with him, 'Ikrimah, Muhammad bin Ka'b Al-Qurazi, Qatadah, As-Suddi and Ibn Zayd.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ Commentary
 We find from this verse that if anyone lives among a group or people who are misguided or involved in bad deeds, and his silence about their attitude may be construed as being agreeable to them, then it is not enough for him to simply correct his own beliefs and deeds, rather he has to disown their beliefs and deeds as well. This is what Sayyidna Ibrahim (علیہ السلام) did - he not only made his belief and actions distinctly different in practice, but he also disowned their belief and deeds vocally.
 
 ## Personal Reflections
+
+

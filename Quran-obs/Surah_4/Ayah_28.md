@@ -38,18 +38,6 @@ word_by_word:
     transliteration: ḍaʿīfan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-From this, we conclude that 1-28 was revealed on that occasion.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah wishes to make clear (what is lawful and what is unlawful) to you, and to show you the ways of those before you, and accept your repentance, and Allah is All-Knower, All-Wise (26)Allah wishes to accept your repenta… After this, in the first part of verse 28, it was said: يُرِ‌يدُ اللَّـهُ أَن يُخَفِّفَ عَنكُمْ : It means that Allah, great in His majesty, intends to make things easy on you, that is, prescribes injunctions which can be carried out by everyone obligated with them.
@@ -95,3 +83,5 @@ After this, in the first part of verse 28, it was said: يُرِ‌يدُ الل
 At the end, in the second part of verse 28, the text says: وَخُلِقَ الْإِنسَانُ ضَعِيفًا ،(And man has been created weak). It means that man is weak by nature, and constituted desire-prone. If man was asked to stay away from women, totally and absolutely, he would have been a hopeless performer when it came to obeying the injunctions of Allah. It was, in view of his weakness and limitations, that he was not only permitted to marry women, but also that he was induced to do so. It goes without saying that the post-marriage life of a couple offers great benefits of mutual self-realization and most of all they enjoy the blessings of a sight that is untainted and a character that is unalloyed. This mutual purity of the couple increases the moral quality of life for both of them, making them strong, self-reliant and happy. So, marriage is a smart mutual contract to remove any chances of weakness that may afflict men and. women - a peerless method indeed.
 
 ## Personal Reflections
+
+

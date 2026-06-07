@@ -27,15 +27,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And it has already been revealed to you in the Book that when you hear the Verses of Allah being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) certainly in that case you would be like them.)[4:140], for, if you still sit with them, agreeing to what they say, you will be just like them. Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -132,3 +124,5 @@ The Ayah above [6:68] is the Ayah mentioned in Allah's statement,
 In the second verse (66), after mentioning the anti-truth stand taken by the Quraysh of Makkah, the Holy Prophet ﷺ also from the same tribe, has been instructed that he should tell those people asking about the precise time when the promised punishment will come that he has not been appointed to do that for them. The truth is that for everything there is a point of time as determined in Divine knowledge. It will come at its own time, and they will see for themselves what happens when it does.
 
 ## Personal Reflections
+
+

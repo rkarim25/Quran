@@ -77,18 +77,6 @@ word_by_word:
     transliteration: yaftarūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the Day when He will call to them, and will say: "Where are My (so-called) partners, whom you used to assert? A question that will be asked from the infidels on the Day of Judgment to repeat what they had replied to the prophets on their invitation to truth was mentioned in an earlier verse.
@@ -128,3 +116,5 @@ Commentary
 A question that will be asked from the infidels on the Day of Judgment to repeat what they had replied to the prophets on their invitation to truth was mentioned in an earlier verse. Now in this verse it is stated that the prophets would testify about the reply that was given by the infidels.
 
 ## Personal Reflections
+
+

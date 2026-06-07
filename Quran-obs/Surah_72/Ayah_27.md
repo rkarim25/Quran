@@ -58,18 +58,6 @@ word_by_word:
     transliteration: raṣadan
 ---
 
-## Context
-
-To understand **The Jinn** (Al-Jinn) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-In Surah Al-Araf: 12 , Al Hijr: 26-27 and Ar-Rahman: 14-19 , it has been expressly stated that man was created out of clay and jinn out of fire.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I know not whether that which you are promised is near or whether my Lord will appoint for it a distant term. Difference between 'Knowledge of the Unseen' and 'Reports of the Unseen Events' The exception made here is the response to the doubt raised by unintelligent people.
@@ -179,3 +167,5 @@ Technically, this 'exception', in Arabic grammar, is referred to as istithna' mu
 Some unintelligent people do not grasp the distinction between 'Knowledge of the Unseen' and 'reports of the unseen events'. As a result, they attempt to prove 'total knowledge of the Unseen' for the Prophets of Allah, especially for the Last Prophet ﷺ . They believe that the Holy Prophet ﷺ ، like Allah, is omniscient - having knowledge of every particle of the universe. This is clearly shirk - assigning to the Holy Prophet ﷺ the status of Godhead, God forbid! If any person discloses a secret to a friend of his, of which no one else has that piece of knowledge or information, such a friend cannot be described as omniscient. Likewise, Allah has granted thousands of pieces of information of the unseen world through revelation to His Holy Prophets ﷺ ، but it is not true to say that they are omniscient. The ignorant laity do not understand the difference between the concepts. When they are told that the Holy Prophet ﷺ is not omniscient, they understand this statement to imply that the Holy Prophet ﷺ [ God forbid!] did not have any information about anything unseen. No believer in the world ever holds such a belief, nor can he ever do so because if anyone does so the whole structure of nubuwwah and risalah would come crumbling down. It is not possible for any believer to behave in this way.
 
 ## Personal Reflections
+
+

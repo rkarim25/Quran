@@ -35,15 +35,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud of themselves to follow him. This is like the Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -134,3 +126,5 @@ From the sky mountains (of clouds) having hail in them - 43.
 Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mountains) for big masses of clouds, while hails are called Barad.
 
 ## Personal Reflections
+
+

@@ -150,18 +150,6 @@ word_by_word:
     transliteration: unību
 ---
 
-## Context
-
-To understand **Hud** (Hud) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "O my people! What Sayyidna Shu'aib (علیہ السلام) had said to his people was good counsel based on earnest fellow feeling.
@@ -215,3 +203,5 @@ After that, he said: وَمَا أُرِ‌يدُ أَنْ أُخَالِفَك�
 Then, he said: إِنْ أُرِ‌يدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ (I want to do nothing but to set things right as far as I can). And since, this effort too was not by his personal choice and volition, he further said: وَمَا تَوْفِيقِي إِلَّا بِاللَّـهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ (And my ability to do things comes from none but Allah. In Him alone I have placed my trust, and to Him alone I turn in humbleness).
 
 ## Personal Reflections
+
+

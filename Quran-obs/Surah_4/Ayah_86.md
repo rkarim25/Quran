@@ -68,15 +68,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other." Allah then said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -293,3 +285,5 @@ Now a note of caution about the rule: It is obligatory to answer salam - however
 Towards the end of verse .86, it was said: إِنَّ اللَّـهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ حَسِيبًا (Surely, Allah is the Reckoner over everything). It means that with Allah rests the reckoning of everything which includes all human and Islamic rights such as salam and its answer. These too will have to be accounted for before Allah Almighty.
 
 ## Personal Reflections
+
+

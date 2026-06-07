@@ -80,18 +80,6 @@ word_by_word:
     transliteration: tadhakkarūna
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The fifth injunction regarding mutual meetings and asking permission before entering anyone's home Right from the beginning of Surah An-Nur it is enjoined to curb the obscenity and immorality in the society, and to restrain this, various punishments are prescribed.
@@ -287,3 +275,5 @@ Important Warning
 These days people do not pay any attention toward seeking permission, which is a clear sin for forsaking an obligation. But on the other hand there are some problems in our time for those who do want to take permission in the prescribed manner, that is first offer greetings from outside and then seek permission by announcing their name. One problem is that the host to whom they want their voice to reach is not available close to the door, hence it is difficult to convey to him the sound of greetings and the name of the caller. Therefore, the important thing to note is that the spirit of the injunction is not to enter anyone's house without permission. There may be different forms of seeking permission in different places in different times. One such form is to knock at the door, which is established by the record of Hadith. In the present time people fix up bells at their doors. It is sufficient for carrying out the obligation of seeking permission to press the button of the bell, provided the caller also announces his name after that in an audible voice for the host. Apart from this, it is also in order to adopt any other method of seeking permission in vogue at any place. The present day system of sending in visiting cards to disclose the identity of the caller is a good practice in that not only the name of the caller but also his address is made known to the host without any effort on his part, which fulfils the spirit behind isti'dhan. Therefore, there is no harm in adopting this system.
 
 ## Personal Reflections
+
+

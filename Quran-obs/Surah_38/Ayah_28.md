@@ -59,18 +59,6 @@ word_by_word:
     transliteration: kal-fujāri
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We created not the heaven and the earth and all that is between them without purpose! In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْ‌ضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ‌ (Shall We make those who believe and do righteous deeds equal to those who commit mischief on the earth?
@@ -104,3 +92,5 @@ Allah tells us that He did not create the creatures in vain; He created them to 
 In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِدِينَ فِي الْأَرْ‌ضِ أَمْ نَجْعَلُ الْمُتَّقِينَ كَالْفُجَّارِ‌ (Shall We make those who believe and do righteous deeds equal to those who commit mischief on the earth? Or shall We make the God-fearing equal to the sinners?) - that is, this can never be. In fact, the end of both will be totally different. Right from here, we learn that this difference between a believer and disbeliever is there in terms of the injunctions of the Hereafter. While living in the present world, it is quite possible that a disbeliever has a lot more comforts than a believer. Likewise, it cannot be deduced thereby that the material rights of the disbeliever cannot be equal to the rights of the believer, instead, the truth of the matter is that a disbeliever could be allowed human rights equal to a believer. Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim.
 
 ## Personal Reflections
+
+

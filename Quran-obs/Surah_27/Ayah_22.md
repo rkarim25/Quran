@@ -62,18 +62,6 @@ word_by_word:
     transliteration: yaqīnin
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But (the hoopoe) stayed not long, he said: "I have grasped which you have not grasped and I have come to you from Saba' with true news. أَحَطتُ بِمَا لَمْ تُحِطْ بِهِ (I have discovered what you did not - 27:22).
@@ -169,3 +157,5 @@ Is it proper for a junior to say to his senior that he knows more than him?
 On the basis of this conversation by the hoopoe, some people have deduced that it is appropriate for a pupil to say to his teacher or for a common man to say to a knowledgeable person that he knows more than the latter on the subject, provided he is absolutely confident that his knowledge on that subject is really more than others. But it is argued in Ruh ul-Ma’ ani that such an assertion before the elders and scholars is against the etiquettes, and should be avoided. This argument, however, does not apply to the conversation of the hoopoe, because it made that statement to save itself from the punishment and to justify its excuse for the absence. The hoopoe actually wanted to place before Sulaiman (علیہ السلام) the exact position, so that he could understand the reason for its absence. In such situations it is not improper if something is said against the normal etiquettes.
 
 ## Personal Reflections
+
+

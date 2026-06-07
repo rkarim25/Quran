@@ -50,18 +50,6 @@ word_by_word:
     transliteration: nushūran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have you not seen how your Lord spread the shadow. To work during day time and rest at night is based on great Wisdom And He is the One who has made the night an apparel for you, and the sleep a means of rest and has made the day a means of revival.
@@ -143,3 +131,5 @@ Similarly in وَجَعَلَ النَّهَارَ‌ نُشُورً‌ا (and h
 As in the case of sleep, Allah Ta’ ala has bestowed a great blessing on human beings by creating its need at night. He has also made it part of human nature to keep awake and attend to work during day time, so that people should look after each other's needs. He has also fixed certain timings for certain desires and needs common in all human beings. For instance, all people feel hungry in the mornings and evenings and want to eat. So the eating times of all humans are common which is again a great blessing from Allah Ta’ ala
 
 ## Personal Reflections
+
+

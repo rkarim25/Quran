@@ -115,15 +115,7 @@ word_by_word:
 
 ## Context
 
-To understand **Those who set the Ranks** (As-Saffat) 102, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Right from here comes a clear refutation of those who deny the authority of Hadith and who do not accept the existence of any revelation that is not recited. They say that wahy or revelation is only that which has been revealed in the Scripture, the Book of Allah - other than that, no other form or kind of revelation exists. You have already noticed that the command to sacrifice his son was given to Sayyidna Ibrahim ill through a dream, and Sayyidna Ismail (علیہ السلام) had declared it to be the command of Allah in very clear words. Now, if 'the revelation not recited' (wahy ghayr matluww) is nothing, then where did this command come from and in which Scriptures was it revealed?
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -290,3 +282,5 @@ Right from here comes a clear refutation of those who deny the authority of Hadi
 After that, Sayyidna Ismail (علیہ السلام) also gave an assurance to his great father from his own side by saying: سَتَجِدُنِي إِن شَاءَ اللَّـهُ مِنَ الصَّابِرِ‌ينَ (you will find me, insha۔ Allah, [ if Allah wills ] one of those who endure patiently."- 102). Just look at the extreme etiquette and modesty demonstrated by Sayyidna Ismail (علیہ السلام) in this brief statement of his. First of all, by saying "insha'Allah" (if Allah wills), he entrusted the matter with Allah Ta’ ala, and thus he eliminated any flair of having made a boastful claim through this promise. Then, he could have also said: 'You will, insha'Allah, find me enduring.' But, he did not say that. What he actually said was: "You will find me one of those who endure patiently." ). Thereby he released the hint that all this endurance and patience is no feat of his all alone, rather, there have been many more of those who have been enduring and patient - insha'Allah, he too will hope to become one of them. Thus, through this statement, he eliminated the possibility of any traces of pride, arrogance, egotism and conceit, rather replaced it with the finest in manners and modesty. (Ruh ul-Ma’ ani) From here we learn the lesson that no matter how much confidence one has in one's own self, he should never make tall claims that smack of pride and bragging. If there is a compulsive need to have to say something of this nature, due attention should be paid to the choice of words that are being said. The best course is to shift the focus from one's own person and say what shows trust in Allah. In manners and attitudes too, one should try not to cut loose from the norms of modesty to the best of one's ability.
 
 ## Personal Reflections
+
+

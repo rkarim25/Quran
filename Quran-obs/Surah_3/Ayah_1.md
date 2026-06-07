@@ -10,15 +10,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE). We will elaborate on this subject when we explain the Ayah about the Mubahalah [3:61] in this Surah, Allah willing. We should also state that we mentioned the virtues of Surah Āl-'Imrān along with the virtues of Surat Al-Baqarah in the beginning of the Tafsir of Surat Al-Baqarah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -127,3 +119,5 @@ It is narrated in some ahadith that some Christians came to the Holy Prophet ﷺ
 Lastly, while referring to the absolute power and wisdom of Allah Almighty, verse 6 invites one's attention to the fact that Allah shapes all men and women in the wombs of their mothers according to His supreme wisdom which has created billions of men and women with clear distinguishable features establishing the identity of each individual distinct from all others. He is, therefore, the only One who should be worshipped.
 
 ## Personal Reflections
+
+

@@ -85,18 +85,6 @@ word_by_word:
     transliteration: tattaqūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 171, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-59-171 As the Covenant with the Israelites was mentioned at the end of the preceding passage, the whole mankind has been reminded very appropriately of the Covenant that was made at the time of the appointment of Adam as the Vicegerent of Allah so that all of his descendants should remember it and accept and follow the Message that was delivered by the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when We Nataqna the mountain over them as if it had been a canopy, and they thought that it was going to fall on them. The next verse (171) described another incident of the Israelites when they were forced to promise their obedience to the law of the Torah.
@@ -140,3 +128,5 @@ No compulsion in Faith
 The above incident gives rise to a question. Why the Israelites were forced to make a promise of their obedience while the Holy Qur'an has declared لَا إِكْرَ‌اهَ فِي الدِّينِ "There is no compulsion in Faith?" (2:256) The answer is quite simple. None of the disbelievers has ever been forced to accept faith, nor any one is allowed to use force for this purpose. However, those who have already entered the covenant of faith out of their free will and, later, deviate from the commandments of Allah just for avoiding their commitments, shall essentially be forced to abide by the rules and regulations of the Law. In case of deviation from their duty they must be held liable to punishments prescribed by the Law. This is what exactly happened in this incident. They had already believed in Allah and in His Prophet and had entered the covenant of Faith. What they did was to deny from obeying the Law of the Torah and rightly were forced to fulfill their commitment.
 
 ## Personal Reflections
+
+

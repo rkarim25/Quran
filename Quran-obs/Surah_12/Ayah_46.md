@@ -96,18 +96,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. This begins with the address: يُوسُفُ أَيُّهَا الصِّدِّيقُ (Yusuf, 0 the truthful one ...
@@ -167,3 +155,5 @@ After having related the dream, this person said: لَّعَلِّي أَرْ‌
 According to Tafsir Mazhari, the format of events present in the world of autonomous images is what one sees in dreams. In that world, these images have particular meanings. The edifice of the art of interpreting dreams solely depends on knowing what a particular autonomous image in that world means. Allah Ta` ala had blessed Sayyidna Yusuf (علیہ السلام) with perfection in this art. As soon as he heard the dream related, he knew that seven fat cows and seven green ears denote seven years during which crops will grow well as usual - because animal-driven ploughing to level land and grow grain has a distinct role in it. Simi-larly, seven lean cows and seven dry ears of grain mean that, after the first seven years, there will be seven years of severe famine. As for the seven lean cows eating the seven fat ones, it means that the grain stored during the first seven years will all be eaten up during those years of famine - remaining there will be some grain needed for sowing.
 
 ## Personal Reflections
+
+

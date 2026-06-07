@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Congregation, Friday** (Al-Jumu'ah) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of the first section ( vv. 1-8 ) is A. H. 7, and probably it was sent down, on the occasion of the conquest of Khaiber or soon after it. Bukhari, Muslim, Tirmidhi, Nasa'i and Ibn Jarir have related on the authority of Hadrat Abu Hurairah that he and other Companions were sitting in the Holy Prophet's assembly when these verses were revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The likeness of those who were entrusted with the Tawrah, but did not carry it, is as the likeness of a donkey which carries huge burdens of books. مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَ‌اةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ‌ يَحْمِلُ أَسْفَارً‌ا (The example of those who were ordered to bear (the responsibility of acting upon) the Torah, then they did not bear it, is like a donkey that carries a load of books...5) The word asfar is the plural of sifr, which means a 'large book'.
@@ -187,3 +175,5 @@ Commentators have stated that the example given by the verse for Jews applies to
 He is but an animal of four legs, carrying the load of some books'
 
 ## Personal Reflections
+
+

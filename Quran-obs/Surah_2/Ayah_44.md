@@ -46,18 +46,6 @@ word_by_word:
     transliteration: taʿqilūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Enjoin you Al-Birr (piety and righteousness and every act of obedience to Allah) on the people and you forget (to practise it) yourselves, while you recite the Scripture (Tawrah))! An admonition to preachers without practice Verse 44 addresses the religious scholars of the Jews, and reprimands them for a strange contradiction in their behaviour - they used to advise their friends and relatives to f…
@@ -139,3 +127,5 @@ Maulana Ashraf ` Ali Thanavi (رح) used to say that when he became aware of a c
 In short, verse 44 does not imply that the man who has been indifferent to good deeds in his own life is not allowed to preach or to give good counsel, but that the man who preaches should not neglect good deeds in his own life. Now, a new question arises here - it is not permissible for a preacher and non-preacher alike to neglect good deeds, then why should the preacher alone be specifically discussed in this context? We would reply that such negligence is, no doubt, impermissible for both, but the crime of the preacher is more serious and reprehensible than that of the non-preacher, for the former commits a crime knowing that it is crime, and cannot plead ignorance as an excuse. On the contrary, the non-preacher, especially if he is illiterate , may be committing the sin of not trying to acquire knowledge, but, as far as the transgression of the Shari'ah is concerned, he can, to a certain degree plead ignorance of the law as his excuse. Moreover, if a scholar or a preacher commits a sin, he is actually mocking at the Shari'ah. The blessed Companion Anas ؓ reports from the Holy Prophet ﷺ that on the Day of Judgment, Allah will forgive illiterate and ignorant people much more readily than He will the scholars.
 
 ## Personal Reflections
+
+

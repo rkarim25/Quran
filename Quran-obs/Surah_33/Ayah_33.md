@@ -112,17 +112,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his family (Ahl Al-Bayt) here, because they are the reason why this Ayah was revealed, and the scholars are unanimously agreed that they were the reason for revelation in this case, whether this was the only reason for revelation or there was also another reason, which is the correct view. Ibn Jarir recorded that 'Ikrimah used to call out in the marketplace:
 
 "It was revealed solely concerning the wives of the Prophet ﷺ." 'Ikrimah said: "Whoever disagrees with me that it was revealed solely concerning the wives of the Prophet ﷺ, I am prepared to meet with him and pray and invoke the curse of Allah upon those who are lying." So they alone were the reason for revelation, but others may be included by way of generalization.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -311,3 +303,5 @@ We now move to the last sentence of verse 33 which says: إِنَّمَا يُر
 The word: الرِّ‌جْسَ (ar-rijs) has been used in the Qur'an for several meanings. At one place, ar-rijs has appeared in the sense of idols: فَاجْتَنِبُوا الرِّ‌جْسَ مِنَ الْأَوْثَانِ (So refrain from the filth of idols - 22:30) and on other occasions, it is used in the sense of sin in absolute terms and at times it is employed to carry the meaning of punishment or impurity or filth. The outcome is that everything which is legally or naturally (or rationally) considered detestable is ar-rijs. In the present verse, the word: الرِّ‌جْسَ arrijs) appears in this very general sense. (A1-Bahr u1-Muhit)
 
 ## Personal Reflections
+
+

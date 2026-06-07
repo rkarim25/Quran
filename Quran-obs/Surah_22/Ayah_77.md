@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tuf'liḥūna
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! يَا أَيُّهَا الَّذِينَ آمَنُوا ارْ‌كَعُوا وَاسْجُدُوا وَاعْبُدُوا رَ‌بَّكُمْ (0 those who believe, bow down in Ruku' and bow down in Sajdah and worship your Lord - 22:77) Verse 18 of this Surah is a verse of sajdah by consensus of the jurists, which means that whoever recites verse 18 or listens to someone reciting it must offer a sajdah.
@@ -187,3 +175,5 @@ Commentary
 يَا أَيُّهَا الَّذِينَ آمَنُوا ارْ‌كَعُوا وَاسْجُدُوا وَاعْبُدُوا رَ‌بَّكُمْ (0 those who believe, bow down in Ruku' and bow down in Sajdah and worship your Lord - 22:77) Verse 18 of this Surah is a verse of sajdah by consensus of the jurists, which means that whoever recites verse 18 or listens to someone reciting it must offer a sajdah. However, there is a difference of opinion about the present verse. Imam Abu Hanifah, Imam Malik and Sufyan Thauri رحمۃ اللہ علیہم are among those who think that the present verse is not a verse of sajdah in the sense that reciting this verse or listening to it does not entail the obligation to offer a sajdah, because the command to 'bow down' in sajdah in the present verse is combined with bowing down in ruku' and this circumstance is a clear indication that in the present context sajdah means the normal sajdah which is performed during the course of prayers. For example all the scholars are unanimously of the opinion that in the verse (And prostrate and bow down (in Ruku' ) with those who bow - 3:43) the sajdah is وَاسْجُدِي وَارْ‌كَعِي مَعَ الرَّ‌اكِعِينَ the normal sajdah of the prayers. However, in the context of the present verse Imam Shafi` i and Imam Ahmad) رحمۃ اللہ علیہم hold contrary views and quote a hadith according to which Surah Hajj enjoys a position of greater merit as compared to other Surahs because of two verses of sajdah occurring in it. Imam Abu Hanifah (رح) questions the authenticity of this lhadith.
 
 ## Personal Reflections
+
+

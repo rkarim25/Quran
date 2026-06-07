@@ -68,18 +68,6 @@ word_by_word:
     transliteration: l-sāmiriyu
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. قَالُوا مَا أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا (They said, "We did not back out of our own volition, of the promise made to you".
@@ -179,3 +167,5 @@ The word فَقَذَفنٰھَا - means, "we cast away the ornaments". Accordi
 فَكَذَٰلِكَ أَلْقَى السَّامِرِ‌يُّ (So did throw Samiri - 20:87) It appears from the hadith-ul-futun related by Sayyidna ` Abdullah Ibn ` Abbas ؓ (reported in earlier pages) that after the Bani Isra'il had thrown away all the ornaments, Sayyidna Harun (علیہ السلام) ordered a big fire to be lit in the pit which melted them and left them in one solid piece. The decision as to the disposal of this precious metal was deferred till the return of Sayyidna Musa' (علیہ السلام) . After all this had happened Samiri approached Sayyidna Harun (علیہ السلام) . He had something in his closed fists and sought permission to throw it in the pit. Sayyidna Harun (علیہ السلام) thinking that he held some ornaments in his fists permitted him to cast them in the pit. Then Samiri said, "I will certainly throw it, but first I want you to pray to God that a wish which I have may be granted." Sayyidna Harun (علیہ السلام) ، unaware of the evil which he planned, prayed to Allah in his behalf, and Samiri opened his hands and threw what he held in the pit. It was not ornaments but only dust from under the hoof marks of the horse of Jibra'il (علیہ السلام) which Samiri had collected after he observed that signs of life appeared in the dust under the hoof marks of the horse. Aided by Shaitan he now wished to put life into a calf by means of this dust. Nevertheless, whether it was the result of the miraculous property of the dust or whether it was a consequence of the prayer of Sayyidna Harun (علیہ السلام) in behalf of Samiri, the molten lump of gold and silver assumed the form of a calf and started making bovine sounds. There are other traditions also which relate that it was Samiri himself who persuaded the Bani Isra'il to throw the ornaments in the pit after which he carved the molten metal in the shape of a calf which had no life. He then sprinkled on it the dust from the hoof marks of the mount of Sayyidna Jibra'il (علیہ السلام) and it became a living calf. All these and similar stories which are based on Isra'ilite traditions have been related by Qurtubi in his commentary and by other writers as well. These traditions cannot be wholly relied upon, yet at the same time we do not possess sufficient ground to disprove them either.
 
 ## Personal Reflections
+
+

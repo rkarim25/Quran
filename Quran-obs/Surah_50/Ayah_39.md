@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-ghurūbi
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And how many a generation We have destroyed before them who were stronger in power than they. وَسَبِّحْ بِحَمْدِ رَ‌بِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُ‌وبِ (and proclaim His purity along with your Lord's praise before sunrise and before sunset...
@@ -185,3 +173,5 @@ Although according to the majority of commentators, tasbih in the verse refers t
 In the same collections, a narration by the same authority, says that whosoever recites subhanallahi wa bi hamdihi one hundred times in a day, his sins will be forgiven, even though they may be more than the waves of the sea. (Mazhari)
 
 ## Personal Reflections
+
+

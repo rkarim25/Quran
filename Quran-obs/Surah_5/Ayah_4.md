@@ -135,18 +135,6 @@ word_by_word:
     transliteration: l-ḥisābi
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They ask you what is lawful for them. Lawful and unlawful animals were mentioned in preceding verses.
@@ -288,3 +276,5 @@ Ruling: This injunction covers wild animals out of one's possession and control.
 Finally, at the end of the verse, there comes the instruction that hunting through a beast of prey has no doubt been made lawful by Al-mighty Allah, but, it is not permissible to ignore Salah and other necessary religious obligations for the sake of having fun chasing game.
 
 ## Personal Reflections
+
+

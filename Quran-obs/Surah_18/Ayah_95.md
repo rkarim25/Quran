@@ -54,18 +54,6 @@ word_by_word:
     transliteration: radman
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 95, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then he followed (another) way (92)Until, when he reached between two mountains, he found before them a people who scarcely understood a word (93)They said: "O Dhul-Qarnayn! The Identity of Ya'juj Ma'juj and the Location of the Wall of Dhul-Qarnain A lot of absurd and strange things disseminated through Isra'ili narratives and historical stories have found currency to the extent that some commentators have also reported them in terms of their historical status, though they themselves do not find them trustworthy.
@@ -267,3 +255,5 @@ The source of the second argument is the Hadith of Tirmidhi and the Musnad of Ah
 In short, there is no clear and definite proof in the Qur’ an and Sunnah that goes on to establish that the Wall of Dhul-Qarnain will remain standing right through the last day of Qiyamah. Or, their elementary and insignificant attacks against the human population on this side will not be possible. However, in all certainty, the time of that horrific and devastating onslaught which will destroy the entire human population will be but close to the Qiyamah as has been mentioned repeatedly. To sum up, it can be said that based on the textual authority (nusus) of the Qur'an, and Sunnah, it is not possible to give an absolute verdict that the Wall against the Ya'juj and Ma'juj has disintegrated leaving the passage open. Nor can it be said that, according to the Qur'an, and Sunnah, it is necessary that it survives up to the Qiyamah. Both probabilities exist. And Pure and High is Allah who knows reality best.
 
 ## Personal Reflections
+
+

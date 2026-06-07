@@ -38,18 +38,6 @@ word_by_word:
     transliteration: muṣ'liḥūna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 117, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! It was said in the fourth verse (117) that Allah does not destroy towns and habitations unjustly while people living there are good in their ways, that is, they are believing Muslims.
@@ -99,3 +87,5 @@ Allah, the Exalted, says that there should have been a group of wise people pres
 It was said in the fourth verse (117) that Allah does not destroy towns and habitations unjustly while people living there are good in their ways, that is, they are believing Muslims. The sense is that the probability of injustice and oppression does not exist with Allah Ta` ala. Those destroyed deserve being destroyed. Some early commentators have said that the word: ظُلُم ` zulm' (injustice) in this verse means shirk (ascribing of partners in the pristine divinity of Allah) and مُصلِحُون ` muslihun' (people good in their ways) refers to people who, de-spite being Mushriks and Kafirs, are good in morals and dealings, do not hurt and cause pain to anyone, do not lie and do not cheat. Thus, the sense of the verse comes to be that the punishment of the world does not fall on a people simply because of their being Mushriks and Kafirs - unless they were to spread disorder in the land by their very deeds and morals. The cause of all punishments that came upon the past peoples was but their particular evil deeds. The people of Sayyidna Nub (علیہ السلام) caused him all sorts of pains. The people of Sayyidna Shu'aib ؓ spread disorder by weighing and measuring short. The people of Sayyidna Lut (علیہ السلام) ، took to the worst type of evil act. The people of Sayyidna Musa and ` Isa (علیہما السلام) oppressed their prophets. The Holy Qur'an says that these very misdeeds were the reason why punishment came upon them. Divine punishment does not come in this world because of bland Kufr and Shirk. The everlasting punishment of the fire of Hell is its punishment. Therefore, some ` Ulama' have said that countries and governments can survive with Kufr and Shirk, but they cannot survive with injustice and oppression.
 
 ## Personal Reflections
+
+

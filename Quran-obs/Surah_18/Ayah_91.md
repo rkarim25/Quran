@@ -28,18 +28,6 @@ word_by_word:
     transliteration: khub'ran
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then he followed (another) way (89)Until, when he came to the rising place of the sun, he found it rising on a people for whom We (Allah) had provided no shelter against the sun (90)So (it was)! The Holy Qur'an does describe this state of the people Dhul-Qarnain found living towards the East meaning thereby that they were not accustomed to the use of ways and means like houses, tents and dresses to seek protection against the Sun.
@@ -79,3 +67,5 @@ The Holy Qur'an does describe this state of the people Dhul-Qarnain found living
 However, it is obvious that these people too were infidels and Dhul-Qarnain handled them the way he had handled the people he had found in the West as mentioned earlier. But, describing it again at this place was not considered necessary since finding it out is also possible on the analogy of the previous event. (As in al-Bahr al-Muhit from Ibn Atiyyah)
 
 ## Personal Reflections
+
+

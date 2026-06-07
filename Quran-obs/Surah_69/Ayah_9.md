@@ -29,18 +29,6 @@ word_by_word:
     transliteration: bil-khāṭi-ati
 ---
 
-## Context
-
-To understand **The Reality** (Al-Haqqah) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ (seven nights and eight consecutive days'...
@@ -212,3 +200,5 @@ The word مُؤْتَفِكَاتُ mu'tafikat (in verse 9) means 'adjacent to o
 (1) Another possible meaning of mu'tafikat is 'overthrown' as mentioned by several exegetes. The translation in the text is based on this meaning. Muhammad Taqi Usmani
 
 ## Personal Reflections
+
+

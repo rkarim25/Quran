@@ -34,18 +34,6 @@ word_by_word:
     transliteration: yaʿbudūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They will say: "Woe to us! In verse 22, it was said: احْشُرُ‌وا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ (Muster all those who were unjust, and their fellows).
@@ -109,3 +97,5 @@ In verse 22, it was said: احْشُرُ‌وا الَّذِينَ ظَلَمُ�
 In addition to that, by saying: وَمَا كَانُوا يَعْبُدُونَ (and whatever they used to worship - 37:22), it was expressly laid out that, along with the Mushriks, all those false objects and entities like idols and shaitans they used to worship and equate with Allah as His associates in the life of the world will all be mustered together - so that, at that time, the helplessness of these false objects of worship could be demonstrated publicly.
 
 ## Personal Reflections
+
+

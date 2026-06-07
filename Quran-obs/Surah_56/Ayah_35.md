@@ -16,18 +16,6 @@ word_by_word:
     transliteration: inshāan
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً (Surely We have created those [ females ] a fresh creation...56:35) The word insha' means 'to create'.
@@ -293,3 +281,5 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً (Surely We have created those [ females ] a fresh creation...56:35) The word insha' means 'to create'. The pronoun هُنَّ hunna refers to the women of Paradise, although there is no mention of them in the immediately preceding verses. However, they have been mentioned in connection with 'the Foremost' in distantly foregoing verses [ 22-23]. If the word firash in the foregoing verse (34) refers to the women of Paradise, the antecedent of the pronoun is quite obvious. Likewise, the mention of beds, couches, thrones and other delightful items gives the pronoun the context to refer to women. The meaning of the verse is: 'We have created the Paradisiacal women in a special way, that is, the houris are created without being born biologically, and the women of this world who will enter the Paradise will also be reshaped in a way that the women who were ugly, dark-coloured or old in this world will be made beautiful, young and graceful.' It is recorded in Tirmidhi and Baihaqi on the authority of Sayyidna Anas that the Holy Prophet ﷺ said in explanation of Verse 35 that the women who were old, blear eyed, with gray hair and ugly features in the world will be made beautiful and young in this new creation. Baihaqi also reports from Sayyidah ` A'ishah ؓ that an old lady asked the Messenger of Allah ﷺ to pray to Allah that she may enter Paradise. The Messenger of Allah ﷺ said in a humorous way: لَا تَدخُلُ الجَنَّۃُ عَجُوزُ "Old ladies will not enter Paradise." Hearing this the old lady got very sad, and according to some narrations, started weeping. The Messenger of Allah ﷺ then explained that she would not be old when she would enter Paradise; she would be transformed into a young beautiful woman. Then the Holy Prophet ﷺ recited this verse 35. [ Mazhari ]
 
 ## Personal Reflections
+
+

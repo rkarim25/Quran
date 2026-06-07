@@ -64,17 +64,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 156, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Or lest you should say: "If only the Book had been sent down to us, we would surely, have been better guided than they.") meaning: We also refuted this excuse, had you used it, lest you say, "If a Book was revealed to us, just as they received a Book, we would have been better guided than they are." Allah also said.
 
 Allah says, there has come to you from Allah a Glorious Qur'an revealed to Muhammad ﷺ, the Arab Prophet. In it is the explanation of the lawful and unlawful matters, guidance for the hearts and mercy from Allah to His servants who follow and implement it. Allah said;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ The reason of being ` ignorant of (or heedless to) what they studied - 156' was 
 As for their second saying: لَوْ أَنَّا أُنزِلَ عَلَيْنَا الْكِتَابُ لَكُنَّا أَهْدَىٰ مِنْهُمْ (If the Book had been sent down to us, we would have been more adhering to the right path than they' ), a question and its answer has already appeared under the commentary on verse 19 of Surah A-Ma'idah earlier in this volume. This concerns the hope of salvation during the period of Fatrah or gap between prophets.
 
 ## Personal Reflections
+
+

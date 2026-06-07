@@ -133,17 +133,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And recite what has been revealed to you (O Muhammad) of your Lord's Book. None can change His Words, and none will you find as refuge other than Him (27)And keep yourself (O Muhammad) patiently with those who call on their Lord morning and afternoon, seeking His Face; and let not your eyes overlook them, desiring the pomp and glitter of the life of the world; and obey not him whose heart We have made heedless of Our remembrance, and who follows his own lusts, and whose affair has been lost (28)
 
 (and none will you find as a refuge other than Him.) It was reported that Mujahid said, "A shelter," and that Qatadah said, "A helper or supporter." Ibn Jarir said: "Allah is saying, 'if you O Muhammad, do not recite what is revealed to you of the Book of your Lord, then you will have no refuge from Allah.'" As Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -222,3 +214,5 @@ Pursuant to events of this nature, came the Divine instruction that firmly stopp
 The reason why he was prevented from accepting the advice of the Quraysh chiefs has been given towards the end of the verse. It was said that their hearts were heedless of the remembrance of Allah, everything they did was subservient to their physical desires and these conditions guaranteed that they would stand alienated far from the mercy and support of Allah Ta` ala.
 
 ## Personal Reflections
+
+

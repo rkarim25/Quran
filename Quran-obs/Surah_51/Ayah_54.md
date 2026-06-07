@@ -25,18 +25,6 @@ word_by_word:
     transliteration: bimalūmin
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Likewise, no Messenger came to those before them but they said: "A sorcerer or a madman! فَفِرُّ‌وا إِلَى اللَّـهِ (So flee to Allah....51:50).
@@ -120,3 +108,5 @@ This is the end of the Tafsir of Surat Adh-Dhariyat; all praise is due to Allah 
 فَفِرُّ‌وا إِلَى اللَّـهِ (So flee to Allah....51:50). Sayyidna Ibn ` Abbas ؓ said: "It means: Flee from your sins and take shelter in Allah for repentance." Abu Bakr Warraq and Junaid Baghdadi رحمۃ اللہ علیہما said that the base self of man and the devil invite him to commit sins, and they deceive him. He needs to take refuge in Allah who will protect him against their evil. (Qurtubi)
 
 ## Personal Reflections
+
+

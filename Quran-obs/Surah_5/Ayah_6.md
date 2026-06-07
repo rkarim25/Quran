@@ -261,18 +261,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Some injunctions of the Shariah concerning the conduct of worldly life, choices in marriage and food appeared in the previous verses.
@@ -496,3 +484,5 @@ Muslim recorded that Ibn 'Umar said that the Messenger of Allah ﷺ said,
 Some injunctions of the Shariah concerning the conduct of worldly life, choices in marriage and food appeared in the previous verses. This verse mentions some injunctions relating to ` Ibadat, acts of worship like Salah, Wudu, Mash مسح ، Tayammum, Ghusl and Taharah
 
 ## Personal Reflections
+
+

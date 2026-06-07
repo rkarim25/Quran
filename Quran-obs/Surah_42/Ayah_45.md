@@ -118,18 +118,6 @@ word_by_word:
     transliteration: muqīmin
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And whomsoever Allah sends astray, for him there is no protector after Him. The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
@@ -207,3 +195,5 @@ It is Allah Ta’ ala alone who grants female children to whom He wills, and mal
 While stating the sex of children in this verse, Allah Ta’ ala has mentioned females first, and males later. Taking a hint from this verse, Sayyidna Wathilah Ibn Asqa' ؓ has said that blessed is the woman who gives birth to a daughter first. (Qurtubi)
 
 ## Personal Reflections
+
+

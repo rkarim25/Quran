@@ -151,17 +151,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Consultation** (Ash-Shuraa) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So unto this then invite (people),) means, 'so call people to this which We have revealed to you and which We enjoined upon all the Prophets before you,' the Prophets of major ways [of Shari'ah] that were followed, such as the Messengers of strong will, and others.
 
 (There is no dispute between us and you.) Mujahid said, "This means, no argument." As-Suddi said, "This was before Ayah of the sword was revealed." This fits the context, because this Ayah was revealed in Makkah, and Ayah of the sword [22:39-40] was revealed after the Hijrah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -250,3 +242,5 @@ The ninth sentence اَللہُ یَجمَع بیننَا (Allah will bring us t
 The tenth declaration وَاِلَیہِ المَصِیر (and to Him is the final return -) is that all of us would return to Him.
 
 ## Personal Reflections
+
+

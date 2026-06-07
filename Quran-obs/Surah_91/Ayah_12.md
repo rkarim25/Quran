@@ -16,18 +16,6 @@ word_by_word:
     transliteration: ashqāhā
 ---
 
-## Context
-
-To understand **The Sun** (Ash-Shams) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shams is a **Makkah** surah—revealed as the 26th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 15 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Thamud denied through their transgression (11)When their most wicked went forth (12)But the Messenger of Allah said to them: "Be cautious! قَدْ أَفْلَحَ مَن زَكَّاهَا ﴿9﴾ وَقَدْ خَابَ مَن دَسَّاهَا ﴿10﴾ (success is really attained by him who purifies it, and failure is really suffered by him who pollutes it....91:10).
@@ -119,3 +107,5 @@ This is the end of the Tafsir of Surat Ash-Shams, and all praise and thanks are 
 Some of the commentators have analysed that the pronouns of zakka 'He purified' and dassa 'He caused to pollute' as referring to 'Allah', signifying that 'he is successful indeed whose soul Allah has purified and he has failed whose soul Allah pollutes '. This verse has divided the entire mankind into two groups: [ 1] successful; and [ 2] unsuccessful. An example of the second group has been cited to show how it rejected the message of Allah and consequently how Allah destroyed them. Such a group will receive severe punishment in the Hereafter. Sometimes, however, an installment of punishment is meted out to them in this world as in the case of Thamud. Their story is recounted fully in Surah A` raf [ S.7:73-79; S.11:61-68; S. 26:141-159; S.27:45-53; S..41:17-18; S.54:23-32; and S. 69:4-5]. Here a brief reference is made to that story and their punishment.
 
 ## Personal Reflections
+
+

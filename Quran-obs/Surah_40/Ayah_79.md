@@ -42,18 +42,6 @@ word_by_word:
     transliteration: takulūna
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah, it is He Who has made cattle for you, that you may ride on some of them, and of some you eat (79)And you have (many other) benefits from them, and that you may reach by their means a desire that is in your breasts, and on them and on ships you are carried (80)And He shows you His Ayat. In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient.
@@ -83,3 +71,5 @@ Allah reminds His servants of His blessing in that He created the cattle [Al-An'
 In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللَّـهِ حَقٌّ فَإِمَّا نُرِ‌يَنَّكَ (Therefore, be patient. Surely, the promise of Allah is true. Then, whether We show you [ in your life ] a part of the promise We are making to them, or make you die [ before they are punished ], in any case they have to be returned to Us). From this verse it appears that the Holy Prophet ﷺ was hopefully waiting for the disbelievers to be punished. Therefore, it was to comfort him that he was asked to be somewhat patient about it. The promise of Allah for them, that they will be punished, will certainly be fulfilled - may be during his lifetime, or after he has departed from the mortal world. Waiting for the disbelievers to be punished apparently seems contrary to the dignity of one who was sent with universal mercy. But, here the matter is different. When the purpose of punishing criminals is to bring comfort to innocent believers who were oppressed, then, the punishment of criminals is not contrary to compassion and mercy. Nobody regards the punishment given to a criminal against the dictate of mercy.
 
 ## Personal Reflections
+
+

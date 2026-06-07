@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ḥisābin
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed, We tried Sulayman and We placed on his throne Jasad (a body), and he returned (34)He said: "My Lord! In verse 38, it was said: مُقَرَّ‌نِينَ فِي الْأَصْفَادِ (held in chains).
@@ -124,3 +112,5 @@ Rawh said, "so he let him go, humiliated." ) This was also recorded by Muslim an
 In verse 38, it was said: مُقَرَّ‌نِينَ فِي الْأَصْفَادِ (held in chains). Details about the subjugation of Jinns and the services they performed have appeared earlier in the commentary on Surah Saba' within this Volume VII. Here, it has been said that Sayyidna Sulayman (علیہ السلام) was holding the unruly Jinns by having them chained. Now, it is not necessary that these chains be the visible chains of iron. It is possible that there could have been some other method used to tie them up more tightly or securely - and it has been expressed as 'chains' for the sake of common comprehension.
 
 ## Personal Reflections
+
+

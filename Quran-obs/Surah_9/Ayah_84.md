@@ -81,13 +81,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 84, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Allah commands His Messenger ﷺ to disown the hypocrites, to abstain from praying the funeral prayer when any of them dies, from standing next to his grave to seek Allah's forgiveness for him, or to invoke Allah for his benefit. This is because hypocrites disbelieved in Allah and His Messenger ﷺ and died as such. This ruling applies to all those who are known to be hypocrites, even though it was revealed about the specific case of 'Abdullah bin Ubayy bin Salul, the chief hypocrite. Al-Bukhari recorded that Ibn 'Umar said, "When 'Abdullah bin Ubayy died, his son, 'Abdullah bin 'Abdullah, came to the Messenger of Allah ﷺ and asked him to give him his shirt to shroud his father in, and the Messenger ﷺ did that. He also asked that the Prophet ﷺ offer his father's funeral prayer, and Allah's Messenger ﷺ stood up to offer the funeral prayer. 'Umar took hold of the Prophet's robe and said, 'O Allah's Messenger! Are you going to offer his funeral prayer even though your Lord has forbidden you to do so?' Allah's Messenger ﷺ said,
 
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Allah commands His Messenger ﷺ to disown the hypocrites, to abstain from praying the funeral prayer when any of them dies, from standing next to his grave to seek Allah's forgiveness for him, or to invoke Allah for his benefit. This is because hypocrites disbelieved in Allah and His Messenger ﷺ and died as such. This ruling applies to all those who are known to be hypocrites, even though it was revealed about the specific case of 'Abdullah bin Ubayy bin Salul, the chief hypocrite. Al-Bukhari recorded that Ibn 'Umar said, "When 'Abdullah bin Ubayy died, his son, 'Abdullah bin 'Abdullah, came to the Messenger of Allah ﷺ and asked him to give him his shirt to shroud his father in, and the Messenger ﷺ did that. He also asked that the Prophet ﷺ offer his father's funeral prayer, and Allah's Messenger ﷺ stood up to offer the funeral prayer.
+It stands established from Sahih Ahadith, and confirmed by a consensus of the Muslim Ummah on it that this verse was revealed at the time of the death of the hypocrite, ` Abdullah ibn Ubaiyy, and about the Salah of-Janazah for him. Then, it also stands established from the report in Sahih of Muslim and the Sahih of Al-Bukhari that the Holy Prophet ﷺ offered Salah of Janazah for him. After he had done it, this verse was revealed. And thereafter, he never offered the Salah of Janazah for any munafiq (hypocrite).
 
 ## Tafsir Summary
 
@@ -164,3 +160,5 @@ Rulings
 the Holy Prophet ﷺ (Bayan al-Qur'an)
 
 ## Personal Reflections
+
+

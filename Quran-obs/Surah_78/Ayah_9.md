@@ -16,18 +16,6 @@ word_by_word:
     transliteration: subātan
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Beneficent, the Most Merciful. وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا (and made your sleep a source of rest,...78:9).
@@ -191,3 +179,5 @@ Sleep Is a Great Gift
 After mentioning in verse [ 8] that Allah has created mankind in pairs, Allah Ta’ ala states in verse [ 9] that among the means of their comfort, He created sleep, which is a great divine gift. Sleep is a great source of relaxation for the entire creation - for rich as well as for poor, for learned people, as well as for the illiterate ones, for kings as well as for labourers. This gift is made available equally and simultaneously for all. Rather, experience shows that this gift is most readily available to the poor and labouring class, as compared to the affluent and the elite class. The latter class has all the means of comfort, they have comfortable homes, they have moderately warm and cold places, they have comfortable mattresses and pillows that are rarely available to the poor. But the gift of sleep is not dependent upon the mattresses, pillows, cottages and bungalows. It is purely a divine gift that is given directly by Allah. Often the poor, with no means of comfort and without bed or bedding, enjoy the best sleep in an open space. Sometimes, the affluent and the men of means suffer from insomnia and can only get sleep when they take sleeping pills. Often the pills do not work either. Not only that this great gift is given to all creatures - humans as well as animals - and it is given free of charge, without working for it. Allah has made it compulsory for everyone in a way that even if he wishes to keep awake because of load of work, sleep is imposed on him by Allah's mercy, so that his tiredness is removed and he is refreshed to work further. This arrangement is a wonderful means of providing rest and peace for man.
 
 ## Personal Reflections
+
+

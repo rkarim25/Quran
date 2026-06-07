@@ -117,15 +117,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 219, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Umar, Ash-Sha'bi, Mujahid, Qatadah, Ar-Rabi' bin Anas and 'Abdur-Rahman bin Aslam stated that the first Ayah revealed about Khamr was:
 
-When Islam came, drinking was common practice as part of the general state of Jahili جاھلی customs. When the Holy Prophet ﷺ emigrated to Madinah, people of that city were also accustomed to wine and gambling. Common people were infatuated with these in view of their obvious benefits. They had no idea of the evils inherent in these practices. However, it is the usual practice of Allah that there are, in every nation and in every country, sensible people who use reason to control their temperaments. They would not go near an emotional urge if it goes against the dictates of reason. In this regard, the station of the noble Prophet ﷺ was way high, for he had a built-in distaste for things which were going to be declared haram حرام later on. Even among the blessed Companions ؓ there were some who had not touched wine during the days it was an open practice.
+When Islam came, drinking was common practice as part of the general state of Jahili جاھلی customs. When the Holy Prophet ﷺ emigrated to Madinah, people of that city were also accustomed to wine and gambling. Common people were infatuated with these in view of their obvious benefits. They had no idea of the evils inherent in these practices. However, it is the usual practice of Allah that there are, in every nation and in every country, sensible people who use reason to control their temperaments. They would not go near an emotional urge if it goes against the dictates of reason. In this regard, the station of the noble Prophet ﷺ was way high, for he had a built-in distaste for things which were going to be declared haram حرام later on. Even among the blessed Companions ؓ there were some who had not touched wine during the days it was an open practice. It was after reaching Madinah al-Tayyibah that some Companions ؓ became deeply concerned about the evil effects of these two involvements. It was due to this concern that Sayyidna ` Umar al-Faruq and Mu` adh ibn Jabal ؓ along with some Ansari Companions presented themselves before the Holy Prophet ﷺ and told him how wine and gambling not only spoil man's reason but also cause financial loss and sought his advice in this connection. It was in answer to their question that the present verse was revealed. This is the first verse in which the elementary step to stop Muslim from wine and gambling was taken.
 
 ## Tafsir Summary
 
@@ -442,3 +436,5 @@ The first part of verse 219 related to the question asked about wine and gamblin
 The second part of the verse appearing here relates to another question -- about how much should be spent in charity. The answer given is 'al-` afw' العفو which has been translated here as 'the surplus'. It means that one should not, by such spending, get into personal trouble in the material life of this world, or by wasting away somebody's due right, get into the pain of answerability in the life to come.
 
 ## Personal Reflections
+
+

@@ -162,15 +162,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Exile** (Al-Hashr) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Although the verse was revealed in connection with fai', its words are general. They are not specific to wealth. They cover all the commands as well. Hence, the generalized meaning of the verse is that whatever the Holy Prophet ﷺ gives to a person, be it wealth, any other grant or any command, the people must show their willingness to accept it. And whatever he forbids them, they should stay away from it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -307,3 +299,5 @@ Priority should be given to the Indigent Righteous and Religious Scholars servin
 This shows that although charities, especially fai' are meant to fulfill the needs of the indigent Muslims in general, the righteous, especially students and learned scholars serving the cause of religion should be given priority over all others. This is the reason why Islamic governments gave allowance from the fai' fund to learned scholars, muftis and judges for serving the cause of education, propagation of Islam and reform of human beings, because these verses establish two categories of the noble Companions. Under the first category fall the emigrants who in the very first instance made great sacrifices for Islam and the Messenger of Allah ﷺ . They endured great hardships, and eventually bid farewell to their wealth and property, to their land and country, and to their relatives and the near and dear ones, and emigrated to Madinah. Under the second category fall the Ansar, the natives of Madinah who helped the emigrants and cooperated with them. They invited the Messenger of Allah and with him the emigrants and thus caused the whole world around them to stand in their opposition. Their hospitality is unparalleled in the annals of the nations of the world. After these two major categories, comes a third category which comprises those people who embraced Islam after the blessed Companions and followed their footsteps closely. The last category embraces all Muslims who will follow until the Last Hour. The three categories are discussed below, in succession.
 
 ## Personal Reflections
+
+

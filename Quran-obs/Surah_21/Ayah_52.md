@@ -50,18 +50,6 @@ word_by_word:
     transliteration: ʿākifūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We bestowed aforetime on Ibrahim his guidance, and We were Well-Acquainted with him (51)When he said to his father and his people: "What are these images to which you are devoted? الْفُرْ‌قَانَ وَضِيَاءً وَذِكْرً‌ا لِّلْمُتَّقِينَ (Criterion and light and an advice for the God-fearing - 21:48) The three attributes which belong to Torah are فُرْ‌قَانَ (criterion) which differentiates between right and wrong second is 4 ' (light) which provides light and manifestation of truth to hearts, and the third is ذِکر (advice) which is a source of guidance for the people.
@@ -117,3 +105,5 @@ Commentary
 الْفُرْ‌قَانَ وَضِيَاءً وَذِكْرً‌ا لِّلْمُتَّقِينَ (Criterion and light and an advice for the God-fearing - 21:48) The three attributes which belong to Torah are فُرْ‌قَانَ (criterion) which differentiates between right and wrong second is 4 ' (light) which provides light and manifestation of truth to hearts, and the third is ذِکر (advice) which is a source of guidance for the people. Some explain فُرْ‌قَانَ as help from God which was available to Sayyidna Musa (علیہ السلام) all times. It was manifest when he was raised in the Pharaoh's house, then at the time of his contest with the Egyptian magicians which resulted in the Pharaoh's discomfiture, and again when he was pursued by the Pharaoh and his army and Allah saved him by causing dry passageways to appear in the river and, after the Bani Isra'il had crossed over to the other side, by drowning the Pharaoh and his army. Even after this incident Allah's help was available to him at all times. Qurtubi has pointed out that whereas (ضِيَاءً light) and ذِکر (advice) are the attributes of Torah, o4 (criterion) is something else and not an attribute of Torah, because of the use of the conjunctive letter Wa.'o (و) after the word فُرْ‌قَانَ (Allah knows best).
 
 ## Personal Reflections
+
+

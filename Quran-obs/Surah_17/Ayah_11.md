@@ -38,18 +38,6 @@ word_by_word:
     transliteration: ʿajūlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And man invokes (Allah) for evil as he invokes (Allah) for good and man is ever hasty (11) Man's Haste and Prayers against Himself Perhaps, it is based on this congruity that it was said in verse 11 that man would, on occasions, pray for something in a haste, something that spells out destruction for him.
@@ -87,3 +75,5 @@ O Allah, if this [ Islam ] is the truth from You, then, rain down on us rocks fr
 In that case, 'al-insan' of the text would be referring to those mentioned above, or those like them.
 
 ## Personal Reflections
+
+

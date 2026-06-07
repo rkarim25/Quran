@@ -41,18 +41,6 @@ word_by_word:
     transliteration: hadā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright. أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ (who gave everything its shape then guidance 20:50) refers to the guidance of Takwin (تکوینی ھدایت).
@@ -100,3 +88,5 @@ In other words, "If the matter is as you say, then what happened to those people
 Sayyidna Musa (علیہ السلام) reminded the Pharaoh, at the first place, of those acts of Allah Ta` ala which are obviously done by Him alone and about which no one else could claim that he has performed them. The Pharaoh totally unable to refute this argument, and in his confusion asked Sayyidna Musa (علیہ السلام) a question which was designed to entangle him into giving a reply that would greatly offend the Egyptians. The question was: how did the people of bygone ages stand who all worshipped idols, and what was their fate? The Pharaoh's purpose was that if Sayyidna Musa (علیہ السلام) replied (as the Pharaoh surmised he would) that they were all misguided and deserving of Hell, then he could instigate his people against the latter. But the reply which Sayyidna Musa (علیہ السلام) gave was so wise and discreet that the Pharaoh's evil design was completely frustrated.
 
 ## Personal Reflections
+
+

@@ -74,17 +74,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 223, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 For instance, Al-Bukhari recorded that Ibn Al-Munkadir said that he heard Jabir say that the Jews used to claim that if one has sex with his wife from behind (in the vagina) the offspring would become cross-eyed. Then, this Ayah was revealed:
 
 Ibn Abu Hatim said that Muhammad bin Al-Munkadir narrated that Jabir bin 'Abdullah told him that the Jews claimed to the Muslims that if one has sex with their wife from behind (in the vagina) their offspring will become cross-eyed. Allah revealed afterwards:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -301,3 +293,5 @@ The verse 223 points out to the lawful ways of having sexual intercourse with on
 Subject to these two conditions (namely, the purity of the woman from her menses, and avoiding the carnal intercourse) one can enjoy whatever way he wishes to have sexual intimacy with his wife. In this context, it has been said, "Come to your soil from where you will". It indicates that in so far as the ultimate place (of penetration) is a 'soil' (which stands for the female vagina which is productive like a soil), one can elect whatever way he likes to reach this ultimate place. Thus, lying over the woman or beside her or beneath her, acceding to the vagina from any side, front or back, sitting or kneeling -- all these and similar other positions are allowed while performing sexual intercourse subject to the two conditions mentioned above.
 
 ## Personal Reflections
+
+

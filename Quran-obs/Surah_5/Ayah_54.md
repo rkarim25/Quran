@@ -162,15 +162,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Therefore, Sayyidna ` Ali ؓ ، Hasan al-Basri, Dahhak, Qatadah and other Imams of Tafsir have said that this verse has been revealed about Sayyidna Abu Bakr As-Siddiq ؓ . He was the first one of the promised people about whom it was said in this verse that they will appear to defend Islam at the command of Allah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -333,3 +325,5 @@ Thus, the practical demonstration of the truth of the word of Allah mentioned to
 Pointing out to the reality of realities, it was clearly stressed that all these high qualities of character, their timely use and the ultimate success in the Islamic expedition through them were things which are not achieved by simple reliance on planning or power or numbers. This is nothing but the grace of Allah. It is He who bestows this blessing upon whom He wills.
 
 ## Personal Reflections
+
+

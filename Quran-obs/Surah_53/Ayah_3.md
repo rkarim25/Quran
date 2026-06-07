@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-hawā
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The First Surah in which a Prostration is revealed Al-Bukhari recorded that 'Abdullah [bin Mas'ud] said, "Surat An-Najm was the first Surah in which a prostration was revealed. The Holy Prophet's Words are a Revelation from Allah وَمَا يَنطِقُ عَنِ الْهَوَىٰ إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ (And he does not speak out of (his own) desire.
@@ -99,3 +87,5 @@ The Holy Prophet's Words are a Revelation from Allah
 The foregoing discussion also allays the following doubt: It seems, according to the above verses, that the Messenger ﷺ does not speak of his own desire, but whatever he conveys to the people is a revelation from Allah. It follows from this that he does not exercise independent reasoning in any matter whatsoever, whereas authentic Traditions show otherwise. There are incidents recorded .that at the beginning, he promulgated one law, but, later on, revelation descended and the law was changed. This is an indication that the earlier law was not the law of Allah, but it was based on his ijtihad. The foregoing paragraph already responded to this objection: The second type of revelation establishes a general principle of law from which the Messenger ﷺ derives laws on the basis of ijtihad, and promulgates them. Because the general principle has descended from Allah, all the laws are said to be the revelation from Allah. Allah knows best!
 
 ## Personal Reflections
+
+

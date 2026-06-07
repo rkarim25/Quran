@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-aṣnāma
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Ibrahim said: "O my Lord! Stated in the previous verses was the rational strength and cardinal position of Tauhid, the belief in the Oneness of Allah.
@@ -149,3 +137,5 @@ Allah jalla thana'uh granted the prayer of His 'friend.' His children remained p
 Sayyidna Ibrahim (علیہ السلام) . Idol-worship was very much present with them. Tafsir Al-Bahr Al-Muhit answers it on the authority of Sufyan ibn ` Uyaiynah that no one from among the progeny of Sayyidna Ismail (علیہ السلام) did really take to idol-worship. In fact, when people of the tribe of Jurhum took over Makkah and expelled the children of Sayyidna Ismail (علیہ السلام) from the حَرَم Haram, they carried away with them some stones from there out of love and respect for the sacred place. These they used to keep as a momento of the sacred House of Allah before them when they worshipped or went round them making Tawaf. Initially, in doing so, they had no desire to turn back from Allah. They thought that the way making prayers turning towards Baytullah or making Tawaf round it was nothing but devoting to the worship of Allah, so when they turn to that stone from there and make their Tawaf round it, that would not be counter to the worship of Allah. After a passage of time, this very method became the cause of idol-worship.
 
 ## Personal Reflections
+
+

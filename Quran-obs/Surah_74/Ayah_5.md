@@ -12,18 +12,6 @@ word_by_word:
     transliteration: fa-uh'jur
 ---
 
-## Context
-
-To understand **The Cloaked One** (Al-Muddaththir) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The first seven verses of this Surah belong to the earliest period at Makkah. Even according to some traditions which have been related in Bukhari, Muslim, Tirmidhi, Musnad Ahmad, etc., on the authority of Hadrat Jabir bin Abdullah, these are the very earliest verses of the Qur'an to be revealed to the Holy Prophet (upon whoa be peace). But the Muslim Ummah almost unanimously agreed that the earliest Revelation to the Holy Prophet (upon whom be peace) consisted of the first five verses of Surah Al-Alaq(XCVI) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَالرُّجْزَ فَاهْجُرْ (...and keep away from filth...74:5).
@@ -173,3 +161,5 @@ Mujahid, ` Ikramah, Qatadah, Zuhri, Ibn Zaid and other leading authorities of Ta
 never indulged in idolatry at any time in his life, he is commanded, for emphasis, to abstain from it in future as he kept away from it in the past. This command is in actual fact directed to the idolaters, so that they may realise the importance of abstaining from idol-worship, as it enjoins the Holy Prophet to shun all filth [ idols and sins ] despite being sinless and infallible.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ufika
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. يُؤْفَكُ عَنْهُ مَنْ أُفِكَ (Turned away from this (Qur'an) is the one who is turned away 51:9).
@@ -143,3 +131,5 @@ Allah the Exalted said,
 يُؤْفَكُ عَنْهُ مَنْ أُفِكَ (Turned away from this (Qur'an) is the one who is turned away 51:9). The word 'ufik literally denotes to turn away. The pronoun in ` anhu has two possibilities: [ 1] it could be referring to Qur'an and Rasul. In this case, the verse would mean that only that person turns away from the Qur'an who has been destined to be deprived of their guidance. And [ 2] the pronoun could be referring to the 'contradictory statement' in which case the meaning would be: he who turns away from the truth because of your discordant thoughts, is the one deprived of truth.
 
 ## Personal Reflections
+
+

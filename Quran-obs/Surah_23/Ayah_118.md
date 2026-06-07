@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-rāḥimīna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 118, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-98-118
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And whoever invokes besides Allah, any other god, of whom he has no proof; then his reckoning is only with his Lord. رَّ‌بِّ اغْفِرْ‌ وَارْ‌حَمْ (My Lord, forgive and have mercy - 23:118).
@@ -86,3 +74,5 @@ Here Allah is teaching us to recite this supplication, for forgiveness, in a gen
 Surah Al-Mu'minun began with the verse قَدْ أَفْلَحَ الْمُؤْمِنُونَ (Success is really attained by the believers - 23:1) and ends withإِنَّهُ لَا يُفْلِحُ الْكَافِرُ‌ونَ (Surely, the infidels will not achieve success - 23:117) which shows that success will come to believers only and that the unbelievers will have no share of it.
 
 ## Personal Reflections
+
+

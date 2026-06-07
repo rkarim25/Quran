@@ -146,18 +146,6 @@ word_by_word:
     transliteration: yasīrun
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And it is Allah Who sends the winds, so that they raise up the clouds, and We drive them to a dead land, and revive therewith the earth after its death. The sense of the verse: وَمَا يُعَمَّرُ‌ مِن مُّعَمَّرٍ‌ وَلَا يُنقَصُ مِنْ عُمُرِ‌هِ إِلَّا فِي كِتَابٍ (And no aged person is made to advance in age, nor a part is curtailed from his age, but all this is (recorded) in a book - 35:11), according to the majority of the commentators is that if Allah Ta’ ala blesses a person with a long age, it is a fact already on record in the Preserved Tablet (al-lawh al-mahfuz).
@@ -321,3 +309,5 @@ In his explanation of this verse, Imam an-Nasa` i (رح) has reported from Sayyi
 Ibn Abi Hatim (رح) reports from Sayyidna Abu-d-Darda' ؓ . He says, 'when we mentioned this (subject) before the Holy Prophet ﷺ ، he said, " (Age as such is already fixed and determined by Allah), when the fixed term is over, no one is given the least respite. In fact, increase in age means (in the Hadith cited above) that Allah Ta` a1a blesses one with good children who keep praying for him. This person is not there anymore, but he keeps receiving their prayers in his grave (that is, he keeps on receiving the benefits one would have received if one were alive. Thus, in a way, his age has increased" ). (Both narrations appearing above have been reported by Ibn Kathir). In short, Ahadith that say that some deeds cause age to increase mean increase in the barakah or bliss of age.
 
 ## Personal Reflections
+
+

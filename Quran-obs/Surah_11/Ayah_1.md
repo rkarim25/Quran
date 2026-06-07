@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): There is no God but I, so worship Me.)[21:25] It is similar to Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -171,3 +163,5 @@ And it could also mean that, as far as Allah Ta` ala's will is concerned, the en
 After that, it was said: مِن لَّدُنْ حَكِيمٍ خَبِيرٍ‌ that is, all these verses have come from a Sacred Being who is absolutely and simultaneously Wise and Aware. In other words, there are so many considerations of wisdom ingrained in everything that issues forth from Him. It is impossible for human beings to encompass them all. Then He is fully aware of every particle, present now or to be present in the future, of this multi-faceted universe. He knows all states of their existence as it is and as it will be and releases His commands keeping all this in sight. This is not like what human beings do. No matter how intelligent, smart and experienced they may be, their reason and vision are still cordoned by a limited frame of reference. Their experience is the product of what is around them. And this, mostly, proves to be unsuccessful, even wrong, especially when it concerns what would happen in the future under different times and conditions. (Interestingly enough, the observations of the commentator apply to what we now know as the intellectual phenomena of Futurology with its pundits, fellow travelers and dabblers all over the world, including Pakistan! tr).
 
 ## Personal Reflections
+
+

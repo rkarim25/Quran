@@ -112,17 +112,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Ornaments of Gold** (Az-Zukhruf) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And they say) means, objecting to that which Allah has revealed to him,
 
 (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prominent in their eyes, from the two towns, i.e., Makkah and At-Ta'if? This was the view of Ibn 'Abbas, may Allah be pleased with him, 'Ikrimah, Muhammad bin Ka'b Al-Qurazi, Qatadah, As-Suddi and Ibn Zayd.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -283,3 +275,5 @@ It is quite clear from the above discussion that complete equality in incomes is
 Islamic equality, therefore, from the purely economic point of view means that everybody should have equal opportunities to earn livelihood, and Islam does not tolerate that a few wealthy persons should control and monopolize the sources of wealth whereas small traders should be unable to do business in the market place. By forbidding interest, speculative transactions, gambling, hoarding, monopolistic trade agreements, and by applying zakah, ` ushr, kharaj, maintenance allowances, alms and other compulsory payments, an environment of freedom has been created in which every individual can get an opportunity of earning livelihood according to his ability, endeavor and investment. A prosperous society can be built upon this foundation. The differences in incomes which remain despite all this are actually unavoidable, and cannot be erased just as the differences in human beings in respect of beauty and elegance, health and vigor, sense and intelligence and offspring and progeny cannot be wiped out.
 
 ## Personal Reflections
+
+

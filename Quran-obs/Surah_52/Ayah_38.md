@@ -42,18 +42,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **The Mount** (At-Tur) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or were they created by nothing? { 1} It means that their arguments against Islam having failed on rational grounds, the only possibility was that they had a direct link with Allah whereby they have ensured that their faith was true, but no one could bring any proof of having such a link with Allah.
@@ -131,3 +119,5 @@ This Hadith is collected in the Two Sahihs using various chains of narration. Ju
 { 2} This points out to the demand of the pagans of Makkah that they would not believe in the Holy Prophet unless he brings some pieces of the sky falling down from above. (See 17:92 and 26:187 in the Qur an) The answer given is that even if Allah fulfils this absurd demand, they would still not believe and would seek other excuses like claiming that the mass they are seeing is nothing but a cloud. (Muhammad Taqi Usmani)
 
 ## Personal Reflections
+
+

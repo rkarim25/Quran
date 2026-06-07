@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (That is so. And whoever has retaliated with the like of that which he was made to suffer....) Muqatil bin Hayan and Ibn Jurayj mentioned that this was revealed about a skirmish in which the Companions encountered some of the idolators. The Muslims urged them not to fight during the Sacred Months, but the idolators insisted on fighting and initiated the aggression. So the Muslims fought them and Allah granted them victory.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -170,3 +162,5 @@ But surely he who bears patiently and forgives - surely that is true constancy -
 In all these verses it is encouraged not to retaliate for revenge and rather forgive and forget, which is a magnanimous way of dealing with fellow human beings. This is the way Qur'anic teachings stand and call it a supreme and superior trait. Thus it may perhaps be argued that the person who retaliates against the wrongs done to him and conducts himself contrary to the course of action preferred by Allah Ta’ ala will be deprived of His support and help. But this doubt has been allayed in the final part of this verseإِنَّ اللَّـهَ لَعَفُوٌّ غَفُورٌ‌ (22:60) that is, Allah will not punish him for this lapse and will help him if he is subjected to injustice by his oppressors ever again. (Ruh-ul-Ma’ ani)
 
 ## Personal Reflections
+
+

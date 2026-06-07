@@ -85,18 +85,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 124, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when the Lord of Ibrahim (Abraham) tried him with (certain) commands, which he fulfilled. (34.) So far a whole section of this Surah has been dealing directly with the conduct of the Jews in the course of their history, and their present hostility to Islam, delineating the inner motives and mainsprings of this rabid opposition.
@@ -374,3 +362,5 @@ Secondly, he did not merely have to go through emotional stress and strain, or t
 Thirdly, when he knew that Allah had chosen him to be a prophet, he did not grow silent and secretive and lonely - as the fancy of our literary artist would have us believe -, but proclaimed the fact to others. Without such a proclamation, he would not at all have been able to perform the function of a prophet. In fact, it has been said that "the Friend of Allah" would not take his daily meals until he had found a guest to share it with him. In short, all we wish to point out is that the nature of prophethood is a degree of reality which we can understand only partially and that too only with the help of Divine Books, and hence it is not a sphere in which human fantasy may be allowed to roam at its sweet will.
 
 ## Personal Reflections
+
+

@@ -122,18 +122,6 @@ word_by_word:
     transliteration: qiṭ'mīrin
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He merges the night into the day, and He merges the day into the night. In the next verse: وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِ‌يًّا وَتَسْتَخْرِ‌جُونَ حِلْيَةً تَلْبَسُونَهَا (And from each, you eat fresh meat, and derive ornaments that you wear - 35:12), it is being said that one gets fresh meat, that is, fish to eat from both waters, sweet or brackish.
@@ -197,3 +185,5 @@ In the next verse: وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا �
 By using the masculine form in the last word: تَلْبَسُونَهَا (talbasunaha: that you wear), a hint is being released that the use of pearls is permissible for men as well - contrary to gold and silver, the use of which as an ornament is not permissible for men. (Ruh-ul-Ma’ ani)
 
 ## Personal Reflections
+
+

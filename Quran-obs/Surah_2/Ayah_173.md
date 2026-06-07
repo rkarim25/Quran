@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 173, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The wordإِنَّمَا حَرَّ‌مَ (innama harrama) is a restrictive particle, therefore, the sense of the verse is that Allah Almighty has forbidden only those things which have been mentioned later, other than which, nothing else is forbidden. So, in this verse, it is the word, innama إِنَّمَا which points out to the given sense, while in another verse (6:145): قُل لَّا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّ‌مًا عَلَىٰ طَاعِمٍ the same thing has been stated more clearly. Here, the Holy Prophet ﷺ has been asked to proclaim that, in what has been revealed to him, there is nothing haram حرام except the few things mentioned later on.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -410,3 +402,5 @@ The conclusion
 The details given above help us find out what we should do about modern medicines that originate mostly from Europe and America, especially those in which the use of alcohol as base or solvent, or the introduction of other impure ingredients, is known and certain. As for medicines in which the presence of unlawful and impure ingredients cannot be ascertained with any degree of certainty, their use would have a little more technical leeway, however, there is nothing like precaution, especially when the need is not that pressing. Allah Almighty knows best.
 
 ## Personal Reflections
+
+

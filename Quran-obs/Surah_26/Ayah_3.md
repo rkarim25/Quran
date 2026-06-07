@@ -29,18 +29,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. لَعَلَّكَ بَاخِعٌ نَّفْسَكَ Seemingly you are going to let yourself collapse in grief - 26:3).
@@ -138,3 +126,5 @@ Commentary
 لَعَلَّكَ بَاخِعٌ نَّفْسَكَ Seemingly you are going to let yourself collapse in grief - 26:3). The word بَاخِعٌ (bakhi" )is derived from بَخعٌ (bakh' ) which means to reach up to Bikha`, an artery of the neck, while slaughtering. In this verse baki` is used in the sense of putting oneself into trouble and toil. "Allamah ` Askari has said, ` Although at such places the sentence appears to be informative but in fact it means to prohibit or prevent'. What it conveys is that, ` O Messenger, do not be so despondent because of your people's disbelief and rejection of Islam that you cause yourself to collapse'. One learns from this verse that even if it is apparent that a disbeliever would not convert to Islam, still it is not right to stop preaching to him. The second thing one learns is that the efforts one makes for a certain objective must be balanced and moderate, and if someone is adamant not to be guided to the right path, one should not be over-grieved.
 
 ## Personal Reflections
+
+

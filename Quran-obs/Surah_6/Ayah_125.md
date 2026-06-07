@@ -123,15 +123,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 125, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Hakim in al-Mustadrak and Baihaqi in Shu'ab al-'Iman report from Sayyidna ` Abdullah ibn Masud ؓ : When this verse was revealed, the Companions of the Holy Prophet ﷺ requested him to explain the meaning of Sharh al-Sadr, the opening of the heart for Islam. He said: ` Allah Ta` ala puts a light in the heart of a believer through which his heart opens up for the perception, understanding and acceptance of truth. The Sahabah submitted: ` Is there a sign which will help recognize the person who has such Sharh al-Sadr? He said: ` Yes! The sign is that 'Akhirah and its blessings become the object of all his desires. He avoids uncalled-for desires and fleeting enjoyments and starts getting ready for death before it comes.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -224,3 +216,5 @@ Rabbishralh li sadri
 At the end of the verse it was said: كَذَٰلِكَ يَجْعَلُ اللَّـهُ الرِّ‌جْسَ عَلَى الَّذِينَ لَا يُؤْمِنُونَ which means that this is how Allah brings damnation and disgrace upon those who do not believe. For truth, their hearts are not open while to every evil they dash.
 
 ## Personal Reflections
+
+

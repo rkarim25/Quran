@@ -18,13 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cloaked One** (Al-Muddaththir) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement. When he heard this verse which says that there are nineteen angels in charge of Hell, he addressed the youth of Quraish and said that Muhammad has only nineteen companions, so there is nothing to worry about. Baihaqi records a narrative from Suddi that when verse 30 was revealed, a foolish Quraishi unbeliever, Abul-Asalain by name, spoke out: '0 nation of Quraish, I alone am sufficient for the nineteen. I will take care of ten with my right arm, and nine with my left arm. Thus I will put an end to all nineteen of them.' On this occasion, this verse was revealed. '0 fools, first of all one angel is sufficient for all. Moreover, the number nineteen refers to the chiefs of angels. Under each of these angels, the number of Allah's angels is legion beyond human count or computation. Allah alone knows their number.
+وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement. When he heard this verse which says that there are nineteen angels in charge of Hell, he addressed the youth of Quraish and said that Muhammad has only nineteen companions, so there is nothing to worry about. Baihaqi records a narrative from Suddi that when verse 30 was revealed, a foolish Quraishi unbeliever, Abul-Asalain by name, spoke out: '0 nation of Quraish, I alone am sufficient for the nineteen. I will take care of ten with my right arm, and nine with my left arm. Thus I will put an end to all nineteen of them.' On this occasion, this verse was revealed. '0 fools, first of all one angel is sufficient for all. Moreover, the number nineteen refers to the chiefs of angels. Under each of these angels, the number of Allah's angels is legion beyond human count or computation. Allah alone knows their number. They are ready at hand to carry out the punishment to the unbelievers and transgressors.'
 
 ## Tafsir Summary
 
@@ -123,3 +117,5 @@ In the next verses, there is the mention of the Hereafter and its horrors.
 اِنَّهَا لَاِحْدَى الْكُبَرِ (saqar: Hell) is one of the greatest things....74:35) The pronoun in the phrase innaha refers to saqar 'Hell' which has been mentioned in one of the preceding verses. The word kubar is the plural of kubaa which is an adjective for dahiyah or musibah 'calamity'. The verse purports to say that Hell which the unbelievers will enter will be one of the greatest calamities. Besides, there will be many different kinds of torments and tortures.
 
 ## Personal Reflections
+
+

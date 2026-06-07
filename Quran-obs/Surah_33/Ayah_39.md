@@ -59,18 +59,6 @@ word_by_word:
     transliteration: ḥasīban
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who convey the Message of Allah and fear Him, and fear none save Allah. Mentioned next are particular attributes of the prophets علیہم السلام about whom we have learnt a while ago that they were permitted to have several wives in earlier times.
@@ -216,3 +204,5 @@ A doubt and its answer
 Here, while mentioning the prophets, it has been said that they do not fear anyone except Allah. But, in the verse previous to it while referring to the Holy Prophet ﷺ it was said: تَخْشَى النَّاسَ (you fear people - 37). How would this be correct? The answer is that, in the cited verse, this matter of prophets not fearing anyone other than Allah has been mentioned in connection with the conveying of Divine messages while the Holy Prophet t, faced the fear of being taunted in a matter which was obviously of a worldly nature. It had nothing to do with his mission and prophethood. But, as soon as it became clear to him from the cited verses that this marriage too was a part of the practical aspect of his mission and prophethood, no fear of taunts, thereafter, from anyone stopped him from doing what he had to. And this marriage took place despite the objections raised by many disbelievers - which they still keep doing.
 
 ## Personal Reflections
+
+

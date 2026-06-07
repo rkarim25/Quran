@@ -33,18 +33,6 @@ word_by_word:
     transliteration: lāʿibīna
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. أَهُمْ خَيْرٌ‌ أَمْ قَوْمُ تُبَّعٍ "Are they better or the people of Tubba?
@@ -102,3 +90,5 @@ The Story of Tubba'
 أَهُمْ خَيْرٌ‌ أَمْ قَوْمُ تُبَّعٍ "Are they better or the people of Tubba? (44:37) ". The people of Tubba` have been referred to twice in the Qur'an. Here and in Surah Qaf. In both places only their name has been mentioned without recounting their chronicle. Therefore, the commentators have discussed extensively about the people of Tubba' , trying to identify them and their history. Tubba' is not the name of a particular individual, but is said to be the royal title of the kings of Himyar in Yemen. The Kings of Yemen were only known by this title when held sway over Himyar, Arabia, Syria, ` Iraq and parts of Africa for a long time; western part of Yemen was their capital. Therefore, the plural of Tubba' is Tababi'ah, and the kings are called Tababi` ah of Yemen. It is not clear which of the Tababi` ah is referred to here. Hafiz Ibn Kathir's research and conclusion would appear to be most plausible. His conclusion is that Tubba' here refers to Tubba' Ausat (Middle Tubba`) whose name was As` ad Abu Kuraib Ibn Ma` dikarab Yamani. This King ruled at least seven hundred years before the advent of the Holy Prophet of Allah ﷺ . Among the Himyari Kings, he ruled the longest. During his rule, he went on a journey of conquest invading many regions and annexing them to his domain until he reached Samarqand, expanding his kingdom. According to Muhammad Ibn Ishaq's narration, during his conquests once he passed by the area of Madinah and intended to attack it. The inhabitants of Madinah adopted the attitude that during the day they used to resist his attacks and during the night they entertained him. He felt embarrassed and abandoned the intention of fighting. During this period, two Jewish Rabbis warned him that that was the place of migration of the Final Prophet of Allah ﷺ ، and that he would never be able to prevail over that city. He was thus persuaded and left Madinah and went away with the two Rabbis to Yemen. The Rabbis invited him to embrace the Mosaic religion, and he did accept it. As a result, his people were also influenced by him and they too embraced the Mosaic religion. However, after his death they went astray and reverted to idolatry and fire-worship. This brought down on them the Divine wrath, the details of which are available in Surah Saba'. (Condensed from Tafsir Ibn Kathir: vol. 4 /p 144). This incident shows that the Tubba` mentioned here had himself embraced Islam, but his people later went astray. On both occasions the Qur'an has made reference to the 'people of Tubba', and not to Tubba' himself . This is supported by the narratives of Sayyidna Sahl Ibn Sa'd and Ibn ` Abbas ؓ which are recorded by Ibn Abi Hatim, Imam Ahmad, Tabarani and others that the Messenger of Allah ﷺ said: لا تسبّو تبّعافانّہ، قد کان اسلم "Do not revile Tubba', because he had embraced Islam." (ibidem).
 
 ## Personal Reflections
+
+

@@ -61,15 +61,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This was revealed concerning the disbelievers among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves. So Allah issued a warning to them in this Ayah, telling them that if they expelled him, they would not stay in Makkah for very long after that. And this is what happened after he migrated from them when their persecution became so intense. Only a year and a half after that, Allah brought him and them together on the battlefield of Badr, without any pre-arranged appointment, and He caused him to prevail over them and defeat them, so he killed their leaders and took their families as captives. Hence Allah said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -100,3 +92,5 @@ As an alternate, he points out to another event which transpired in Makkah al-Mu
 Thereupon, Allah Ta’ ala revealed the verse: كَادُوا لَيَسْتَفِزُّونَكَ where the Quraysh disbelievers were warned that in the event they expelled the Holy Prophet ﷺ from Makkah, they too would not be sitting in Makkah in peace any longer. This is the event Ibn Kathir considers to be the weightier choice as the point of reference in the verse. Then, he goes on to explain that this warning of the Holy Qur’ an was seen come true by the disbelievers of Makkah with their own eyes. When the Holy Prophet ﷺ migrated from Makkah al-Mukarramah, they were unable to sit there in peace even for a day. It was within a period of a year and six months that Allah Ta` ala made them assemble on the plains of Badr where seventy of their chiefs were killed and their initial aggressive power was broken. Then came the final outcome of the battle of 'Uhud which made them more awe-stricken, and the last confrontation of the battle of al-Ahzab virtually broke their back. It was in the eighth year of Hijrah that the Holy Prophet ﷺ conquered the whole of Makkah al-Mukarramah.
 
 ## Personal Reflections
+
+

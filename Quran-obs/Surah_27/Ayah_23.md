@@ -50,18 +50,6 @@ word_by_word:
     transliteration: ʿaẓīmun
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But (the hoopoe) stayed not long, he said: "I have grasped which you have not grasped and I have come to you from Saba' with true news. I have found a woman ruling over them, - 27:23 The name of this woman is given in the history as Bilqis, daughter of Sharahil.
@@ -165,3 +153,5 @@ It means that whatever services are needed to a king or an aristocrat according 
 وَلَهَا عَرْ‌شٌ عَظِيمٌ (And she has a great throne - 23) Literal meaning of ` Arsh (عَرش) is throne of the empire. A narration is attributed to Sayyidna Ibn ` Abbas ؓ ، ' that the length of the throne of Bilqis was eighty yards, its breadth was forty yards and height thirty yards. It was profusely decorated with pearls, red rubies, topaz and olivine, and its legs were studded with precious stones and pearls. Its curtains were made of silk and fine cloth. The throne was secured within seven buildings, one within the other, all well protected and locked.
 
 ## Personal Reflections
+
+

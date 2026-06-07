@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The third verse (22) strongly condemns those who do not listen to what is the truth thoughtfully and let it go unaccepted.
@@ -135,3 +123,5 @@ In this verse, Allah Ta` ala has made it clear that human beings have been creat
 It appears in Tafsir Ruh al-Bay-an that human beings are, in terms of their original creation, superior to all animals, but are lower in rank as compared to angels. But, when human beings strive on the pathway of obedience to Allah, their creator, they rise higher in status than angels too. However, should they turn away from the pathway of obedience to Allah, they are condemned to become the lowest of the low, far too worse than animals.
 
 ## Personal Reflections
+
+

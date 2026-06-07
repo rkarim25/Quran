@@ -12,18 +12,6 @@ word_by_word:
     transliteration: qurayshin
 ---
 
-## Context
-
-To understand **Quraysh** (Quraysh) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Quraysh is a **Makkah** surah—revealed as the 29th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 4 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although Dahhak and Kalbi regard Surah Quraysh as a Madani Surah, a great majority of the commentators are agreed that it is Makki, and a manifest evidence of this are the words Rabba hadh-al-Bait (Lord of this House) in this Surah itself. Had it been revealed at Madinah, the words "this House" for the Ka'bah could not be relevant. Moreover, its subject matter so closely relates to that of Surah Al-Fil that probably it was revealed immediately after it, without any other Surah intervening between them. On this basis exactly, some of the earliest scholars regard the two Surahs as one entity.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The Subject-matter of Surah Al-Fil and Surah Al-Quraish All commentators concur that the subject-matter of the two Surahs is so closely related that in some of the copies of the Qur'an they had been written as a single Surah without the insertion of bismillah between them.
@@ -99,3 +87,5 @@ Superiority of Quraish
 This Surah indicates that Quraish, of all the tribes of Arabia, was most acceptable in the sight of Allah. The Prophet ﷺ is reported to have said: "Verily, Allah selected Kinanah from the offspring of Prophet Ismail (علیہ السلام) and selected Quraish from the progeny of Kinanah. From the Quraish, Allah selected Banu Hashim and from Banu Hashim He selected me." [ Baghawi on the authority of Wathilah Ibn Asqa']. Another Tradition reports that the Messenger of Allah ﷺ said: "People will follow Quraish in matters of good as well as in matters of evil." [ Muslim on the authority of jabir, as quoted by Mazhari ]. The reason for the selection of the tribes mentioned in the first Tradition is presumably on account of their special abilities, innate capacities and natural endowments. Even in the days of paganism and ignorance, when people practiced kufr and shirk, their morals and inborn abilities were of a very high standard. They had the perfect capacity to accept the truth. This is the reason why most of the blessed Companions and Friends of Allah were Quraishites. [ Mazhari ]
 
 ## Personal Reflections
+
+

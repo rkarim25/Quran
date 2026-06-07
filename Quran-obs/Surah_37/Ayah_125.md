@@ -25,18 +25,6 @@ word_by_word:
     transliteration: l-khāliqīna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 125, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? The word: بَعل (ba'l) in verse 125: أَتَدْعُونَ بَعْلًا (Do you invoke literally means husband, master etc.
@@ -98,3 +86,5 @@ Ascribing the attribute of creation to anyone other than Allah is not permissibl
 At this point, it should be borne in mind that خَلَق (khalq) means to create, that is, to bring something from the state of non-being into the state of being solely on the strength of the creator's inherent power. Therefore, this attribute is particular to Allah Ta’ ala. Ascribing it to someone else is not permissible. Hence, the custom prevailing in our time that the articles of writers, compositions of poets and paintings of painters are readily referred to as their 'creations' is simply not permissible. How can people who write become 'creators' of those articles? It is not correct. Allah is the khaliq, the creator. This is Him alone - no one else can be. Therefore, their good writings should be called articles or something else that alludes to their effort, imagination, research work or whatever applies as appropriate - but, not 'creation.'
 
 ## Personal Reflections
+
+

@@ -44,15 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Commentators differ on whether this Surah is Makkan or Madani. Ibn ` Abbas ؓ has expressed two views on different occasions. However, a majority of commentators believe that the Surah is a combination of both the Makkan and Madani verses, and Qurtubi prefers this view. He has also mentioned the other peculiarities of this Surah, namely that some of its verses were revealed at night and some during the day; some were revealed during travels and some when the Holy Prophet ﷺ was not traveling; some were revealed in Makkah and others at Madinah; some were revealed in the middle of battle and others in peace time. Some verses of this Surah are nasikh (verses of the Qur'an abrogating some other verses), and some are mansookh (verses of the Qur'an which have been abrogated by others); some are muhkam while others are mutashabih (مُتَشَابِہ). Indeed this Surah comprises all categories of revelations.
 
-يَا أَيُّهَا النَّاسُ اتَّقُوا رَ‌بَّكُمْ (0 men, fear your Lord. - 22:1).This verse was revealed to the Holy Prophet ﷺ while he was traveling.
+يَا أَيُّهَا النَّاسُ اتَّقُوا رَ‌بَّكُمْ (0 men, fear your Lord. - 22:1).This verse was revealed to the Holy Prophet ﷺ while he was traveling. He recited in a loud voice, so that all his companions gathered around him after hearing his voice. Then he addressed them "Do you know when the upheaval of the Resurrection, which is mentioned in this verse, will take place?" They replied, "Allah and His Prophet ﷺ knows best." Then the Holy Prophet ﷺ said, "That will be the day when Allah will command Sayyidna 'Adam (علیہ السلام) to raise those people who have been marked out for hell. Sayyidna Adam (علیہ السلام) will ask Allah Ta'ala who those people are, and Allah will inform him that nine hundred and ninety nine out of every one thousand will go to hell." The Holy Prophet ﷺ then added, "That will be the time when small children will become old on account of terror, and pregnant women will abort their fetuses." The companions were frightened when they heard this and asked the Holy Prophet ﷺ ، "0 prophet of Allah! Who are those among us who will escape this terrible fate?" The Holy Prophet ﷺ replied, "Set your minds at ease. For every one thousand of the Gog and Magog (Ya’ juj and Ma'juj) there will be only one from amongst you." This incident is reported in Sahih Muslim on the authority of Abu Said Al-Khudri ؓ . There are other versions also according to which the Holy Prophet ﷺ is reported to have said, "On the Day of Resurrection you will find yourself with two peoples who will predominate numerically all the other peoples who would be near them. One of them is the tribe of Gog and Magog (یا جوج ماجوج) and the other is the Shaitan and his descendants, and those of the progeny of Sayyidna 'Adam (علیہ السلام) who have died earlier." Thus, among the nine hundred and ninety nine the majority will be from those peoples. Qurtubi and others have quoted these narrations.
 
 ## Tafsir Summary
 
@@ -225,3 +219,5 @@ There are others who have deduced from the above-referred hadith that the earthq
 This verse also gives a picture of the earthquake of the Day of Resurrection when all the pregnant women will abort their fetuses and every breast-feeding woman nursing her child will be diverted from it. If the earthquake takes place in this world before the Dooms Day, then there is no ambiguity in all these happenings. But if the earthquake occurs after the Dooms Day, then the explanation would be that a pregnant woman would be raised on the Dooms Day in the same state, and a woman who died while breast-feeding her child will also be raised in the same condition along with her child. (Qurtubi). Allah knows best.
 
 ## Personal Reflections
+
+

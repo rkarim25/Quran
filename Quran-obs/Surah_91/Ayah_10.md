@@ -20,18 +20,6 @@ word_by_word:
     transliteration: dassāhā
 ---
 
-## Context
-
-To understand **The Sun** (Ash-Shams) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shams is a **Makkah** surah—revealed as the 26th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 15 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The subject matter and the style show that this Surah too was revealed in the earliest period at Makkah at a stage when opposition to the Holy Prophet (upon whom be Allah's peace) had grown very strong and intense. Theme and Subject Matter Its theme is to distinguish the good from the evil and to warn the people, who were refusing to understand this distinction and insisting on following the evil way, of the evil end. In view of the subject matter, this Surah consists of two parts. The first part consists of vv. 1-10 , and the second of vv. 11-15 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. قَدْ أَفْلَحَ مَن زَكَّاهَا ﴿9﴾ وَقَدْ خَابَ مَن دَسَّاهَا ﴿10﴾ (success is really attained by him who purifies it, and failure is really suffered by him who pollutes it....91:10).
@@ -227,3 +215,5 @@ Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and w
 Some of the commentators have analysed that the pronouns of zakka 'He purified' and dassa 'He caused to pollute' as referring to 'Allah', signifying that 'he is successful indeed whose soul Allah has purified and he has failed whose soul Allah pollutes '. This verse has divided the entire mankind into two groups: [ 1] successful; and [ 2] unsuccessful. An example of the second group has been cited to show how it rejected the message of Allah and consequently how Allah destroyed them. Such a group will receive severe punishment in the Hereafter. Sometimes, however, an installment of punishment is meted out to them in this world as in the case of Thamud. Their story is recounted fully in Surah A` raf [ S.7:73-79; S.11:61-68; S. 26:141-159; S.27:45-53; S..41:17-18; S.54:23-32; and S. 69:4-5]. Here a brief reference is made to that story and their punishment.
 
 ## Personal Reflections
+
+

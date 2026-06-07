@@ -59,18 +59,6 @@ word_by_word:
     transliteration: l-ṣābirīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Moving to verse 46, we see that believers have been prompted to follow a third instruction and that أَطِيعُوا اللَّـهَ وَرَ‌سُولَهُ (obey Allah and His Messenger) - because, help and support from Allah Ta` ala can be expected to come only through obedience to Him.
@@ -130,3 +118,5 @@ It was to make these very instructions become their ever-present response, the H
 "0 my people, do not look forward to fight the enemy in a combat. Rather, pray that Allah keeps you in a state of peace and well-being. However, when the inevitable happens and you have to confront them, then, stand firm and be patient and be assured that Paradise lies under the shade of swords." [ Muslim ]
 
 ## Personal Reflections
+
+

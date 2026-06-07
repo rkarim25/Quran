@@ -65,17 +65,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 139, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the tidings that there is for them a painful torment (138)Those who take disbelievers for friends instead of believers, do they seek honor with them? Verily, then to Allah belongs all honor (139)And it has already been revealed to you in the Book that when you hear the verses of Allah being denied and mocked at, then sit not with them, until they engage in talk other than that; certainly in that case you would be like them. Surely, Allah will collect the hypocrites and disbelievers all together in Hell (140)
 
 (And it has already been revealed to you in the Book that when you hear the verses of Allah being denied and mocked at, then sit not with them, until they engage in talk other than that; certainly in that case you would be like them.)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -176,3 +168,5 @@ Explaining the meaning of this verse, the famous commentator, Abu Bakr al-Jassas
 If the ` Izzah or honour mentioned here means the everlasting honour of the life-to-come, the 'Akhirah, then, its applicability to Allah's messenger and the believers in the life of the present world is quite obvious, for the honour of the 'Akhirah can never become the lot of any disbeliever or polytheist. Conversely, if it is taken to mean honour in the present life of the world, then, barring transitional periods and accidental happenings, this honour and mastery is, ultimately, the right of Islam and Muslims alone. Until such time that Muslims remained Muslims in the true sense, the whole world witnessed the spectacle. Then, there shall be the later period when Muslims will reassemble around true Islam under the leadership of Sayyidna 'Isa (علیہ السلام) ascendancy will again be theirs. That Muslims appear to be weak during the interim period, because of their weakness of faith and involvement with sins does not go against it.
 
 ## Personal Reflections
+
+

@@ -120,15 +120,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 119, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَهُمْ ; Muslims have been told that it is certainly strange that you go about loving them as friends, yet they are no friends of yours. Indeed, they are your worst enemies. Still more unusual is the situation because you believe in all Scriptures without any reservations as to the people they address, the time when they were sent down and the prophet they were revealed to. Contrary to this, they do not accept your Book and your Prophet ﷺ . Their belief in their own Books is not correct either. Given this state of affairs it would have been expected that they should have been affectionate towards you and you should have been the ones to give them a cold shoulder. But, what is happening here is just the reverse of what it should have been.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -221,3 +213,5 @@ Allah then mentions the story of Uhud, the defeat that He tested the believers w
 After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَهُمْ ; Muslims have been told that it is certainly strange that you go about loving them as friends, yet they are no friends of yours. Indeed, they are your worst enemies. Still more unusual is the situation because you believe in all Scriptures without any reservations as to the people they address, the time when they were sent down and the prophet they were revealed to. Contrary to this, they do not accept your Book and your Prophet ﷺ . Their belief in their own Books is not correct either. Given this state of affairs it would have been expected that they should have been affectionate towards you and you should have been the ones to give them a cold shoulder. But, what is happening here is just the reverse of what it should have been.'
 
 ## Personal Reflections
+
+

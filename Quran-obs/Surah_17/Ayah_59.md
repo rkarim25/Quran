@@ -92,18 +92,6 @@ word_by_word:
     transliteration: takhwīfan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And nothing stops Us from sending the Ayat but that the people of old denied them. The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِمُ الْوَسِيلَةَ (seek the means of close ness to their Lord - 57) conveys the sense of that which is used as a means of reaching someone.
@@ -155,3 +143,5 @@ The word 'al-wasilah' in: يَبْتَغُونَ إِلَىٰ رَ‌بِّهِ�
 About the sentence which follows immediately after: يَرْ‌جُونَ رَ‌حْمَتَهُ وَيَخَافُونَ عَذَابَهُ (hope for His Mercy and fear His punishment - 57), Sahl ibn ` Abdullah said: Hope and Fear, that is, hoping for mercy from Allah as well as fearing Him are two different states one is in. When they stay at par, one keeps on course, correct and stable. And if any one of the two overcomes the other, one finds the equilibrium of his spiritual state subjected to disorder to the measure of that imbalance. (Qurtubi)
 
 ## Personal Reflections
+
+

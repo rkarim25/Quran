@@ -82,15 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Romans** (Ar-Rum) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So as to be ungrateful for the graces which We have bestowed on them. Then enjoy; but you will come to know (34)Or have We revealed to them an authority, which speaks of that which they have been associating with Him (35)And when We cause mankind to taste of mercy, they rejoice therein; but when some evil afflicts them because of what their hands have sent forth, behold, they are in despair (36)Do they not see that Allah expands the provision for whom He wills and straitens (it for whom He wills). Verily, in that are indeed signs for a people who believe (37)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -155,3 +147,5 @@ Then Allah denounces the idolators for fabricating lies and worshipping others i
 مِنَ الَّذِينَ فَرَّ‌قُوا دِينَهُمْ وَكَانُوا شِيَعًا (Among those who split up religion and became sects - 30:32) that is, these disbelievers are those who have created a difference between Natural Faith and the true religion, or they have alienated themselves from the Natural Faith, as a result of which they are divided into different sects. شِيَعًا :Shiya'an is the plural of شِیعۃ shi` ah. A group of people following a leader is called shi ah. The fact is that the Natural Faith was based on the Oneness of Allah, by following which the entire human kind should have been one solid unit and one party. But it so happened that people split out from this unity and started following the personal views of their own leaders. Since the personal views and opinions of different people may always vary from person to person, different groups of people invented their own beliefs and religion. As a consequence, people were divided into various groups and sects, and the Shaitan made them believe that they were the only people on the right path كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِ‌حُونَ (Each group is happy with what it has before it - 30:32). That is, each group is happy and contended in its own beliefs and declare others being wrong, although they all are astray and treading the wrong path.
 
 ## Personal Reflections
+
+

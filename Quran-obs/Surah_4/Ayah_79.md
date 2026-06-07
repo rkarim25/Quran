@@ -82,15 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. They were also commanded to be forgiving and forbearing with the idolators and to observe patience with them at the time. However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies. The situation at that time did not permit armed conflict for many reasons. For instance, Muslims were few at the time, compared to their numerous enemies. The Muslims' city was a sacred one and the most honored area on the earth, and this is why the command to fight was not revealed in Makkah. Later on when the Muslims controlled a town of their own, Al-Madinah, and had strength, power and support, Jihad was then legislated. Yet, when the command to fight was revealed, just as Muslims wished, some of them became weary and were very fearful of facing the idolators in battle.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -255,3 +247,5 @@ The words: وَأَرْ‌سَلْنَاكَ لِلنَّاسِ رَ‌سُول�
 In fact, his prophethood is universal, open to all human beings of this entire universe, whether they'are present at this point of time, or may come to be there right through the Qiyamah, the fateful Last Day of this universe of ours. (Mazhari)
 
 ## Personal Reflections
+
+

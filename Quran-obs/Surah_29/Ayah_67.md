@@ -68,18 +68,6 @@ word_by_word:
     transliteration: yakfurūna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they not seen that We have made a secure sanctuary, while men are being snatched away from all around them? أَوَلَمْ يَرَ‌وْا أَنَّا جَعَلْنَا حَرَ‌مًا آمِنًا (Did they not see that We have made a peaceful sanctuary حَرَم[ haram ] - 67).
@@ -141,3 +129,5 @@ Some disbelievers in Makkah used to put forward the plea that although they acce
 In reply to this, Allah Ta’ ala said that this was also a bogus excuse, because He had accorded such an honour and eminence to Makkans, that is not available to any people living anywhere in the world. He had made the entire land of Makkah حَرَم haram. All Arabs respected حَرَم haram, whether they were believers or infidels. They all believed that killing was not allowed there. It was not only the killing and fighting that was banned in the حَرَم haram but the hunting and cutting of trees too were not permitted. If any stranger entered the حَرَم haram, his life would be completely secured. Therefore, putting forward the risk of life as justification for non-acceptance of Islam was only a lame excuse.
 
 ## Personal Reflections
+
+

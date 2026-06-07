@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tatamārā
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And that it is He Who destroyed the former 'Ad (50)And Thamud. فَبِأَيِّ آلَاءِ رَ‌بِّكَ تَتَمَارَ‌ىٰ (Then, which of your Lord's bounties would you dispute?....53:55).
@@ -143,3 +131,5 @@ Allah the Exalted said,
 فَبِأَيِّ آلَاءِ رَ‌بِّكَ تَتَمَارَ‌ىٰ (Then, which of your Lord's bounties would you dispute?....53:55). Tamara means to dispute and oppose. According to Ibn ` Abbas ؓ ، the verse is addressed to every human being. After seeing so many and so clear and invincible arguments in the preceding verses and the Signs in the scriptures of Musa and Ibrahim (علیہما السلام) that support and substantiate the claims of the Holy Prophet Muhammad ﷺ about the truth of his revelation, the verse says to the obstinate disbelievers: How long will you continue to deny the truth and wander in the wilderness of disbelief? The verse further makes it abundantly clear for those who think and deliberate that there should be no room for any doubt in the Messenger of Allah ﷺ ، his revelation and his teachings. Having heard about the stories of destruction and punishment of past nations, this is an opportune occasion for them to straighten out. This well-timed occasion is a favour of Allah. They should take advantage of it instead of fighting and opposing it.
 
 ## Personal Reflections
+
+

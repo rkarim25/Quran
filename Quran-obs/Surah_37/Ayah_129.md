@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-ākhirīna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 129, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? In verse 128, it was said: إِلَّا عِبَادَ اللَّـهِ الْمُخْلَصِينَ (except the chosen servants of Allah).
@@ -87,3 +75,5 @@ Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be up
 In verse 128, it was said: إِلَّا عِبَادَ اللَّـهِ الْمُخْلَصِينَ (except the chosen servants of Allah). Here, the word used is: مُخْلَصِينَ (mukhlasin) (pronounced with a fathah on the letter lam) which means chosen, elected, people Divinely identified as special. As such, these will be people whom Allah has elected to become recipients of the honor of having obeyed Him perfectly and made themselves deserving of the best returns and rewards from Him. Hence, it would be more appropriate to translate it in the sense of 'the chosen' rather than 'sincere.'
 
 ## Personal Reflections
+
+

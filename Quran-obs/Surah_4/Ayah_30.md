@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yasīran
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! After that, the next verse (30) says: وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارً‌ا .
@@ -273,3 +261,5 @@ This is the wording of Muslim. At-Tirmidhi said, "Sahih." It is recorded in the 
 After that, the next verse (30) says: وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارً‌ا . It means: If, despite the instructions of the Holy Qur'an, anyone acts otherwise, and knowingly, aggressively and unjustly, takes what belongs to someone else, or kills anyone unjustly, Allah will cast him into Fire. Here, the restriction of 'aggression' and 'injustice' shows that, should this happen out of forgetfulness or mistake, it is not included in this warning.
 
 ## Personal Reflections
+
+

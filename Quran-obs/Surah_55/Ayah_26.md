@@ -20,18 +20,6 @@ word_by_word:
     transliteration: fānin
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-26-30 both the men and the jinn have been reminded of the truths that in this Universe no one except One God is immortal and imperishable, and there is none, from the lowest to the highest, who does not stand in need of God for his survival and other requirements.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him. Allah is the Ever-living, Free of all Need كُلُّ مَنْ عَلَيْهَا فَانٍ وَيَبْقَىٰ وَجْهُ رَ‌بِّكَ ذُو الْجَلَالِ وَالْإِكْرَ‌امِ (Everyone who lives on it (the earth) has to perish, and your Lord's Countenance will remain, full of majesty, full of honour...55:26-27).
@@ -85,3 +73,5 @@ Allah is the Ever-living, Free of all Need
 كُلُّ مَنْ عَلَيْهَا فَانٍ وَيَبْقَىٰ وَجْهُ رَ‌بِّكَ ذُو الْجَلَالِ وَالْإِكْرَ‌امِ (Everyone who lives on it (the earth) has to perish, and your Lord's Countenance will remain, full of majesty, full of honour...55:26-27). The attached pronoun [ it ] refers to اَلاَرض al-ard [ the earth ] which has been explicitly mentioned antecedently in verse [ 10] وَالْأَرْ‌ضَ وَضَعَهَا لِلْأَنَامِ (And the earth is placed by Him for creatures). Furthermore, 'the earth' is one of those general things that can be referred to by a pronoun even if they are not mentioned explicitly as an antecedent. Verse [ 26] means that man and jinn that dwell on the earth are subject to decay and death. Jinn and man have specifically been singled out in this verse, because in this Surah these two species of Allah's creation are mainly addressed. This, however, does not necessarily imply that the heaven and the celestial beings are not perishable. In fact, on another occasion in the Qur'an Allah has stated in general terms: كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ (Everything is going to perish except His Face). (28:88)
 
 ## Personal Reflections
+
+

@@ -128,15 +128,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you (O Muhammad ﷺ) but We revealed to him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (alone and none else))(21:25), and,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -247,3 +239,5 @@ Injunctions and related considerations
 Talha ibn ` Umar recounts that once he said to the great master of the Sciences of Exegesis and Hadith, 'At-a' عطاء ، "One can see around you people who are not quite orthodox in their beliefs. As for me, I am rather short-tempered. If such people come to me, I deal with them harshly." ` Ata' replied, "Do not behave like this," and, reciting the present verse, he added, Allah has commanded us to speak to people politely. When Jews and Christians all are to be treated like this, would this commandment not apply to a Muslim, no matter what kind of a man he is?" (Qurtubi)
 
 ## Personal Reflections
+
+

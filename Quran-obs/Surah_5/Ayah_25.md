@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-fāsiqīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Musa said to his people: "O my people! The Determination of Sayyidna Musa (علیہ السلام) against the Treachery of his People The prayer of Sayyidna Musa (علیہ السلام) ; قَالَ رَ‌بِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي "0 My Lord, I have no control except over myself" should be seen in the perspective of the events in the life of the people of Bani Isra'il, the favours of Allah bestowed upon them and the conduct of their prophet, Sayyidna Musa (علیہ السلام) in their case.
@@ -281,3 +269,5 @@ According to authentic narrations, it was during this period of forty years that
 That it has been said: لَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِين (so do not grieve for the sinning people) at the end of verse 26 has a basis, for the blessed prophets, may peace be upon them all, are endowed with a natural disposition which makes it impossible for them to bear by the pain and hardship of their people. Even if they are punished, the prophets too are affected emotionally. Therefore, Sayyidna Musa (علیہ السلام) has been comforted here that he should not grieve over the punishment given to those people.
 
 ## Personal Reflections
+
+

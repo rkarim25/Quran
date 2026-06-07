@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 227, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who take an oath not to have sexual relation with their wives must wait for four months, then if they return, verily, Allah is Oft-Forgiving, Most Merciful (226)And if they decide upon divorce, then Allah is All-Hearer, All-Knower (227) Īlā' is a type of vow where a man swears not to sleep with his wife for a certain period, whether less or more than four months. If someone takes an oath that he will not have sexual intercourse with his wife, the case has four situations: (A) No time-limit was fixed.
@@ -104,3 +92,5 @@ If someone takes an oath that he will not have sexual intercourse with his wife,
 So, situations A, B and C are termed in Shari` ah as 'Ild' (ایلاء ). The injunction covering these situations is: If the oath-taker breaks his oath within four months and resumes sexual intercourse with his wife, he will have to come up with kaffarah کَفَّارہ for his oath while his nikah (marriage) remains intact. And should it be that the time-limit of four months did expire and the oath-taker did not break his oath, an irrevocable divorce on his wife will become effective, that is, taking her back without remarriage does not remain correct any more. However, if they, by mutual consent, enter into marriage this will be correct. Halalah حلالہ (an intermediary marriage of the woman with a third person) is not required. The injunction in the fourth situation is: If the oath is broken, kaffarah کَفَّارہ will be required and if the oath is completed, the marriage, even then, will remain valid. (Bayan al-Qur°an)
 
 ## Personal Reflections
+
+

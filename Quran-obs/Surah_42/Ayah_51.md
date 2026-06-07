@@ -98,17 +98,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Consultation** (Ash-Shuraa) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The first of the above verses (51) was revealed in response to a hostile Jewish demand. As mentioned by Baghawl, Qurtubi and others, the Jews asked the Holy Prophet ﷺ ، "How can we believe in you while you neither see Allah Ta’ ala, nor do you speak to Him face to face, as Sayyidna Musa (علیہ السلام) used to see and converse with Allah Ta’ ala?"
 
 The Holy Prophet ﷺ told the Jews that it is wrong to say that Sayyidna Musa (علیہ السلام) has seen Allah Ta’ ala. Then this verse was revealed to announce that it is not possible for any human being to converse with Allah Ta'ala face to face in this world. Sayyidna Musa (علیہ السلام) also did not hear Allah Ta'ala face to face, but only heard the voice from behind a curtain.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -205,3 +197,5 @@ This rule that no one can converse face to face with Allah Ta’ ala, without an
 The third method is mentioned in the verse as أَوْ يُرْ‌سِلَ رَ‌سُولًا "that He sends a messenger" (42:51). The messenger could be Jibra'il (علیہ السلام) or any other angel who may carry Allah Ta’ ala's message, and read it out to the prophet. And this has been the most common way. The whole of Glorious Qur'an has been revealed in this fashion through angels. It should be noted that the word ` wahy' has been explained above to mean infusion in mind or heart only, but this word is often used for all kinds of Divine discourses also, as narrated in a lengthy hadith of Bukhari where the message sent through an angel has also been termed as one kind of ` wahy'. And there are two forms in which the angel carries the message. Sometimes he appears in his original form, and sometimes in the human form. (Allah knows best).
 
 ## Personal Reflections
+
+

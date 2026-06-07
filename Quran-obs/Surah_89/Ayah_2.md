@@ -12,18 +12,6 @@ word_by_word:
     transliteration: ʿashrin
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. لَيَالٍ عَشْرٍ (and by the Ten Nights...89:2) According Sayyidna Ibn ` Abbas ؓ Qatadah, Mujahid, Suddi, Dahhak, Kalbi and other leading commentators, the 'ten nights' refers to the [ first ] ten nights of Dhul Hijjah.
@@ -223,3 +211,5 @@ Next, it says:
 لَيَالٍ عَشْرٍ (and by the Ten Nights...89:2) According Sayyidna Ibn ` Abbas ؓ Qatadah, Mujahid, Suddi, Dahhak, Kalbi and other leading commentators, the 'ten nights' refers to the [ first ] ten nights of Dhul Hijjah. It is recorded in Hadith that the Holy Prophet ﷺ said that the first ten days of Dhil Hijjah are the most meritorious days for Allah's worship. Every fast of the day is equivalent to fasts of the whole year. Worshipping Allah every night during this period is equivalent to worshipping Him on the night of Qadr. [ Transmitted by Tirmidhi and Ibn Majah with a weak chain of authorities from Abu Hurairah Mazhari ]. Abu-z-Zubair narrated from Sayyidna Jabir ؓ that the Holy Prophet ﷺ said: وَالْفَجْرِ وَلَيَالٍ عَشْرٍ (I swear by the dawn and by the Ten Nights' refers to the first ten days of Dhul Hijjah. Sayyidna Ibn ` Abbas ؓ said that these are the ten nights that are mentioned in the story of Prophet Musa علیہ السلام ; وَ اَتمَمنٰھَا بِعَشرٍ... then We supplemented them with ten' [ 7:142]. Thus these are the ten nights in the whole year which are most meritorious. Imam Qurtubi says that the Hadith reported by Sayyidna Jabir ؓ indicates that the ten nights of Dhul Hijjah are most meritorious, and that the same ten nights of Dhul Hijjah were designated for Prophet Musa (علیہ السلام) .
 
 ## Personal Reflections
+
+

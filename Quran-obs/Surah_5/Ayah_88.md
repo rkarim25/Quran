@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ali bin Abi Talhah said that Ibn 'Abbas said, "This Ayah [5:87] was revealed about some of the Companions of the Prophet ﷺ who said, 'We should cut off our male organs, abandon the desires of this life and travel in the land, just as the Ruhban (monks) do.' When the Prophet ﷺ heard of this statement, he summoned them and asked them if they made this statement and they answered 'Yes.' The Prophet ﷺ said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -145,3 +137,5 @@ The Correct Attitude towards Halal Things
 At the end of the first verse (87), it was said: وَلَا تَعْتَدُوا إِنَّ اللَّـهَ لَا يُحِبُّ الْمُعْتَدِينَ that is, ` and do not transgress the limits set by Allah because Allah does not like such transgressors.' Here, transgressing means that one abandons something Halal, without any valid excuse, as an act of Thawab. This is something an ignorant person takes to be Taqwa, fear of Allah, while, in the sight of Allah, that is transgression, which is impermissible. Therefore, it was said in the next verse (88): وَاتَّقُوا اللَّـهَ الَّذِي أَنتُم بِهِ مُؤْمِنُونَ that is, `(eat from the good and pure sustenance Allah has blessed you with) and keep fearing Allah whose believers you are.' Stated clearly in this verse is that leaving off good and pure things as a source of Thawab (reward) is no Taqwa. Rather, quite contrary to that, Taqwa lies in using them as the blessings of Allah and showing one's gratitude for them. However, if something is abandoned as a curative measure against a physical or spiritual disease, that does not count here.
 
 ## Personal Reflections
+
+

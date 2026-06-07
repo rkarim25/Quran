@@ -29,18 +29,6 @@ word_by_word:
     transliteration: l-raḥīmu
 ---
 
-## Context
-
-To understand **The Prostration** (As-Sajdah) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the style of the Surah it appears that it was sent down during the middle Makkah period, more particularly in its initial stage, for one does not find in its background that severity of the persecution and tyranny which one finds in the Surahs sent down in the later stages.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah it is He Who has created the heavens and the earth, and all that is between them in six Days. The length of the day of Qiyamah The text in verse 5 cited above says: فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ (in a day the measure of which is a thousand years according to the way you count - 5).
@@ -92,3 +80,5 @@ About it, Sayyidna ` Abdullah Ibn ` Abbas ؓ said:
 They are two days mentioned by Allah Ta’ ala in His Book. Allah Ta’ ala knows best about them and I dislike to say in the matter of the Book of Allah that which I do not know.
 
 ## Personal Reflections
+
+

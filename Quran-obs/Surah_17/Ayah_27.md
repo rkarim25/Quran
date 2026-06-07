@@ -42,18 +42,6 @@ word_by_word:
     transliteration: kafūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And give to the kinsman his due, and to the Miskin (poor), and to the wayfarer. The Qur'an expresses the sense of spending wastefully through two words: (1) Tabdhir (تَبذیر), translated as 'squandering recklessly.' (2) Israf (اِسرِاف): extravagance.
@@ -135,3 +123,5 @@ Of the early Tafsir authorities, Mujahid has said: If someone spends everything 
 Imam al-Qurtubi (رح) said: As for things unlawful and impermissible, spending even one dirham for these is tabdhir. And spending limitlessly to fulfill permissible and allowed desires - which exposes one to the danger of becoming a needy beggar in the future - is also included under tabdhir. Yes, if someone keeps his real capital holdings in tact and goes on to spend its profit liberally to fulfill his permissible desires, then, that is not included under tabdhir. (AI-Qurtubi, v. 10, p. 248)
 
 ## Personal Reflections
+
+

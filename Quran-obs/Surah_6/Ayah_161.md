@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 161, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] Allah informed us that Nuh said to his people,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ Commentary
 These are the last five verses of Surah Al-An'am. It will be recalled from previous verses how people had altered the true religion through a process of excess and deficiency, making many more out of it, and had themselves split into factions and groups. In contrast, the first three of the present verses present an authentic profile of the true religion describing its fundamental principles, and some important subsidiaries and details. The first two verses carry the principle while the third mentions their subsidiaries - and in both, the address is to the Holy Prophet ﷺ where he has been asked to convey the message to these people.
 
 ## Personal Reflections
+
+

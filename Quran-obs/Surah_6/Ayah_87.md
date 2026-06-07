@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -245,3 +237,5 @@ The second difficulty posed here relates to Sayyidna Lut (علیہ السلام)
 By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام) in these verses, two things have been made very clear. Firstly, there is the law for anyone who sacrifices whatever he holds dear in the way of Allah, on him or her Allah bestows right here in this mortal world what is better than what he or she has surrendered in the way of Allah. Secondly, the purpose is to make the disbelievers of Makkah hear this background of things in their situation so that they may be guided right. This amounts to telling them: You do not listen to what Our prophet, Muhammad al-Mustafa is telling you. If that is so, consider these you too revere as great. So, Ibrahim and his whole progeny have all been saying the same thing - that Allah is the only object worthy of worship. Associating anyone else with Him in ` Ibadah, or suggesting that someone else is a sharer in His exclusive attributes is what disbelief and straying is. This proves that they are, even in terms of what they themselves accept as established truth, subject to censure.
 
 ## Personal Reflections
+
+

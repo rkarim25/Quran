@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 98, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire. It was said that this was revealed to point out an exception in the case of those who are worshipped instead of Allah, and to exclude 'Uzayr and the Messiah from their number. Hajjaj bin Muhammad Al-A'war reported from Ibn Jurayj, and 'Uthman bin 'Ata' reported from Ibn 'Abbas:
 
 It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were also worshipped, who had spent their lives in devotion towards Allah, but the misguided people who came after them took them as lords instead of Allah. Concerning the notion of worshipping the angels as daughters of Allah, the following words were revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -209,3 +201,5 @@ What Ibn Az-Zab'ari said was a serious mistake, because the Ayah was addressed t
 إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّـهِ حَصَبُ جَهَنَّمَ (Surely, you and whatever you worship other than Allah are the fuel of Jahannam - 21:98) Here a question may arise as to the application of this verse to the case of Sayyidna Masih (علیہ السلام) ، Sayyidna ` Uzair (علیہ السلام) and angels who were also worshipped by some people. According to account given by Qurtubi in his Tafsir, this issue was adequately resolved by Sayyidna Ibn ` Abbas ؓ who wondered that there is a verse in the Qur'an about which people have reservations, yet they do not question him about it. He went on to say that this may be due to the fact that either the people have found a convincing answer to their doubts or that they are totally indifferent and do not consider the matter important enough for any kind of investigation. When people asked him which particular verse he had in mind, he recited the verse إِنَّكُمْ وَمَا تَعْبُدُونَ and went on to say that when this verse was revealed, it made the unbelievers of Quraish very angry because they felt that it offended their gods. So they approached Ibn al-Ziba` ra (A scholar of the scriptures) and complained to him about it. He said that if he were present there, he would have given them a reply which would have confounded all of them. Pressed further he said that he would have asked them what they thought about Sayyidna Masih (علیہ السلام) and about Sayyidna ` Uzair (علیہ السلام) ، who were worshipped by the Christians and the Jews respectively (meaning whether they too مَعَاذَ اللہ would be sent to Hell). The unbelievers of Quraish were delighted to hear this and were sure that Muhammad ﷺ would have no answer to their question.
 
 ## Personal Reflections
+
+

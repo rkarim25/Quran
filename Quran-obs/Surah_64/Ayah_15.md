@@ -38,18 +38,6 @@ word_by_word:
     transliteration: ʿaẓīmun
 ---
 
-## Context
-
-To understand **The Mutual Disillusion** (At-Taghabun) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Taghabun is a **Madinah** surah—revealed as the 108th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Muqatil and Kalbi say that it was partly revealed at Makkah and partly at Madinah. Hadrat Abdullah bin Abbas and Ata bin Yasar say that vv. 1-13 were revealed at Makkah and vv. 14-18 at Madinah. But the majority of commentators regard the whole of the surah as a Madinan Revelation. Although there is no internal evidence to help determine its exact period of revelation, yet a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Wealth and Children are a Trial إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ (Your riches and your children are but a trial…64:14).
@@ -173,3 +161,5 @@ Wealth and Children are a Trial
 The truth of the matter is that the love of wealth and children is a great trial for man. He mostly commits sins for their love, especially when he indulges in earning livelihood through unlawful means. According to a hadith, some people will be brought on the Day of Judgment, and the people will look at him and say اَکَلَ عَیَالُہ حَسَنَاتِہٖ (His family ate up his good deeds.) [ Ruh ]. In another narration, the Holy Prophet ﷺ ، referring to the children, said: مَبخَلَۃٌ مَّجبنَۃٌ (They are the cause of one’ s miserliness and cowardice.) It means that on account of their love, man fails to spend in Allah’ s way, and on account of their love he fails to participate in jihad. Some righteous elders have said, اَلعَیِال سُوسُ الطَّاعَات (Family is the weevil of obedience.” A weevil is small beetle that feeds on grain and seeds and destroys crops. Likewise, a family feeds on man’ s good deeds and destroys them.
 
 ## Personal Reflections
+
+

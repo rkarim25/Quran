@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-ḥamīri
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-12-19 of this Surah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "O my son! Verse 19 begins with the statement: وَاقْصِدْ فِي مَشْيِكَ (And be moderate in your walk).
@@ -181,3 +169,5 @@ All these virtues were already part of the habits and traits of the Holy Prophet
 "He was always cheerful, naturally obliging, gentle. Neither impolite, nor rude, he was not clamorous or immodest and no faultfinder and no miser. He would remain indifferent to what he did not like, yet would not make others become distracted from it (if halal and desirable to have) and would not say anything that would stop others from having what he did not want (instead, would observe silence). There were three things he had left out for good: (1) Disputation, (2) Arrogance and (3) Indulgence with what was unnecessary, not worth doing.
 
 ## Personal Reflections
+
+

@@ -55,18 +55,6 @@ word_by_word:
     transliteration: zaʿīmun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So when he furnished them forth with their provisions, he put the bowl in his brother's bag. We are missing the measuring- bowl of the king, and whoever brings it back shall deserve a camel-load, and I stand a surety for it.
@@ -116,3 +104,5 @@ Therefore, the correct answer to these questions is what has been given by al-Qu
 In this verse, Allah Ta’ ala has very clearly attributed this excuse and plan to Himself. So, when all these things took shape as Divinely commanded, calling them impermissible becomes meaningless. They would be like the incident of the dismantling of the boat and the killing of the boy in the event relating to Sayyidna Musa and Al-Khadir (علیہما السلام) . Obviously, these were sins, therefore, Sayyidna Musa (علیہ السلام) registered his disapproval of them. But, al-Khadir was doing all this with Divine assent and permission under particularly expedient considerations, therefore, he was not committing any sin.
 
 ## Personal Reflections
+
+

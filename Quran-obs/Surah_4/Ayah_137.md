@@ -90,17 +90,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 137, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the tidings that there is for them a painful torment (138)Those who take disbelievers for friends instead of believers, do they seek honor with them? Verily, then to Allah belongs all honor (139)And it has already been revealed to you in the Book that when you hear the verses of Allah being denied and mocked at, then sit not with them, until they engage in talk other than that; certainly in that case you would be like them. Surely, Allah will collect the hypocrites and disbelievers all together in Hell (140)
 
 (And it has already been revealed to you in the Book that when you hear the verses of Allah being denied and mocked at, then sit not with them, until they engage in talk other than that; certainly in that case you would be like them.)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ Important Notes
 2. The second part of the verse 137 لَّمْ يَكُنِ اللَّـهُ لِيَغْفِرَ‌ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًا Allah is not to forgive them nor lead them on the path), when read as a whole with the first part, would mean that their repeated return to disbelief will cause their very ability to receive true guidance to be taken away from them and, in that event, they will have neither the future option to repent nor the opportunity to believe. Otherwise, the general rule laid out by the definitive texts of the Qur'an and ' Sunnah is that a disbeliever (kafir) or an apostate (مُاتَد murtadd), no matter how hardened, has his past sins forgiven -- if the taubah (repentance) made by him is sincere and true. So, if such, people too change and repent, the law of amnesty and forgiveness is open.
 
 ## Personal Reflections
+
+

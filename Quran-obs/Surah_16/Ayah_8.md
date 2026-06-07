@@ -42,18 +42,6 @@ word_by_word:
     transliteration: taʿlamūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (He has created) horses, mules and donkeys for you to ride, and as an adornment. Since mention was made of 'an am' that is, camels and oxen, it was appropriate that mention be made of quadrupeds which have been created exclusively for purposes of draft and ride.
@@ -97,3 +85,5 @@ Rulings:
 2. From verse 6 and 8, it appears that beauty and embellishment are allowed - though, pride and arrogance are Haram (prohibited). The difference is that the outcome of beauty and embellishment is that it makes one happy with himself, or that it shows the blessing of Allah openly. When this happens, neither does one nurse the idea in his heart that he is deserving of this blessing, nor does he take others to be low and contemptible. Instead, such a person keeps the fact, that all good things of life given to him are but the gift and blessing of Allah Ta’ ala, foremost in his mind. Contrary to this is pride and arrogance under which one takes himself to be deserving of this blessing while taking others to be low. That is Haram (forbidden). (Bayan a1-Qur'an)
 
 ## Personal Reflections
+
+

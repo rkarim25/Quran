@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-qulūbi
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Thus it is, and whosoever honors the Sha'a'ir of Allah, then it is truly from the Taqwa of the hearts (32)In them are benefits for you for an appointed term, and afterwards they are brought for sacrifice to the 'Atiq Hou… وَمَن يُعَظِّمْ شَعَائِرَ‌ اللَّـهِ (And if one observes the sanctity of the symbols of Allah - 22:32) The word شَعَائِرَ‌ is the plural of شَعِیرہ which means a ` symbol', ` a distinctive sign', and refers to those things which are considered as the specific emblems of certain groups of people or certain faiths.
@@ -117,3 +105,5 @@ The Benefits of the Sacrificial Camels
 فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (then such things emanate from the piety of the hearts - 22:32). It means that respect for the شَعَائِرَ‌ اللَّـهِ (Symbols of Allah) is an evidence of the piety of heart, which indicates that the symbols of Allah are respected by the one who has taqwa (fear of Allah) in his heart and that taqwa is a quality which rests in one's heart. When the heart is equipped with this quality, it is reflected in all his actions.
 
 ## Personal Reflections
+
+

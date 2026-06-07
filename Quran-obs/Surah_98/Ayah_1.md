@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clear Proof** (Al-Bayyinah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Bayyinah is a **Madinah** surah—revealed as the 100th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ Situation of the People of the Book and of the Pagan Arabs before the advent of 
 Verse [ 1] draws attention to the situation of the world before the advent of the Messenger of Allah ﷺ : The entire world was sunk deeply in the darkness of ignorance, superstition, corruption, disbelief and paganism. When the whole world was so benighted, the infinite grace, mercy and wisdom of the Lord of the worlds bubbled up to dispel the darkness, to cure the obnoxious diseases and to dissipate the universally prevailing calamities. The moral and spiritual maladies were acute, excruciating, serious and severe. As a result, there was a need for an effective, expert and a competent healer who would be able to cure them. Such a healer was raised in the person of the Final Messenger of Allah ﷺ ، who is described as al-Bayyinah 'The Clear Proof. The healer came with a Book. Now follows some of the important characteristics of the Holy Qur'an.
 
 ## Personal Reflections
+
+

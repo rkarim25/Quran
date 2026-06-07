@@ -70,18 +70,6 @@ word_by_word:
     transliteration: yatafakkarūna
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah also has not been mentioned in any authentic tradition, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah, it is He Who has subjected to you the sea, that ships may sail through it by His command, and that you may seek of His bounty, and that you may be thankful (12)And has subjected to you all that is in the heavens and all that is on the earth; it is all (as a favor and kindness) from Him. اللَّـهُ الَّذِي سَخَّرَ‌ لَكُمُ الْبَحْرَ‌ لِتَجْرِ‌يَ الْفُلْكُ فِيهِ بِأَمْرِ‌هِ وَلِتَبْتَغُوا مِن فَضْلِهِ ("Allah is the One who has subjugated for you the sea, so that you may seek His grace, ...
@@ -155,3 +143,5 @@ Commentary
 اللَّـهُ الَّذِي سَخَّرَ‌ لَكُمُ الْبَحْرَ‌ لِتَجْرِ‌يَ الْفُلْكُ فِيهِ بِأَمْرِ‌هِ وَلِتَبْتَغُوا مِن فَضْلِهِ ("Allah is the One who has subjugated for you the sea, so that you may seek His grace, ... 45:12) ". Generally, when Qur'an uses the expression ` to seek His grace' it refers to exerting oneself in seeking one's livelihood. Another meaning of the phrase could be that man has been given the skill to move the boats or pilot the ships on the surface of the waters so that he may carry out his commercial activities across the globe. It is possible that ` seeking grace' does not have anything to do with the sailing of the boats or the ships. Therefore, a third meaning is possible. ` Subjugating the sea' has a special meaning, that is, Allah has created many useful things in the sea and subjugated the sea for the benefit of mankind so that they may exploit the minerals and other wealth. Contemporary science confirms that the oceans and seas have much more minerals and much more wealth hidden in them than in the dry land.
 
 ## Personal Reflections
+
+

@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 122, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (When two parties from among you were about to lose heart) was revealed about us, [the two Muslim tribes of] Bani Harithah and Bani Salamah. I (or we) would not be pleased if it was not revealed, because Allah said in it,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -167,3 +159,5 @@ Tawakkul توکل is one of the superior human qualities. It does not mean that 
 4. The focus now turns to a particular battle where Muslims had demonstrated perfect توکل tawakkul and Allah Almighty had blessed them with support and success. The reference to the battle of Badr, in the following words, has appeared in this very context.
 
 ## Personal Reflections
+
+

@@ -58,18 +58,6 @@ word_by_word:
     transliteration: ṭūlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And walk not on the earth with conceit and arrogance. The thirteenth injunction appearing in the second of the two cited verses (37) is: وَلَا تَمْشِ فِي الْأَرْ‌ضِ مَرَ‌حًا (And do not walk on the earth haughtily).
@@ -133,3 +121,5 @@ And in another Hadith the Holy Prophet ﷺ has been reported to have said, "On t
 And speaking from the pulpit, Sayyidna ` Umar ؓ said, "I have heard from the Holy Prophet ﷺ that a person who takes to humility, Allah Ta’ ala elevates him to higher ranks following which he is, though, insignificant in his own sight, but he is great in the sight of everybody else. And whoever waxes proud, him Allah Ta’ ala puts to disgrace following which he is, though, great in his own sight but he is, in the sight of people, worse than a dog and pig." (Mazhari)
 
 ## Personal Reflections
+
+

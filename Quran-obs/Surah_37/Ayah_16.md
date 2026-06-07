@@ -34,18 +34,6 @@ word_by_word:
     transliteration: lamabʿūthūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! The proof of the miracles of the Holy Prophet ﷺ The word: آيَةً ('ayt tan) in verse وَإِذَا رَ‌أَوْا آيَةً (And when they see a sign) literally means 'sign' and at this place it means 'miracle.' Hence, this verse proves…
@@ -123,3 +111,5 @@ In response, Sayyidna Musa (علیہ السلام) had shown the miracle of his 
 In addition to that, it has been the customary practice of Allah Ta’ ala that, once some people were granted the miracle they had asked for - and they still failed to believe - then, they were destroyed through a mass punishment. But, in view of the intended survival of the community of the Holy Prophet and with the objective of keeping it safe from any mass punishment, no such miracle on demand was shown before it.
 
 ## Personal Reflections
+
+

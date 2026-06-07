@@ -105,18 +105,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do you think that you shall be left alone while Allah has not yet tested those among you who have striven hard and fought, and have not taken Walijah besides Allah and His Messenger, and the believers. 1.
@@ -158,3 +146,5 @@ In summary, since Allah legislated Jihad for His servants, He explained that the
 History proves that the circumstances and events predicted in these verses were witnessed one by one as pointed out by the Holy Qur'an. Therefore, these verses contain many miracles.
 
 ## Personal Reflections
+
+

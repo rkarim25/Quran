@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (This is what We recite to you of the verses and the Wise Reminder.) meaning, "What We narrated to you, O Muhammd, regarding 'Isa, his birth and his life, is what Allah conveyed and revealed to you, sent down from the Al-Lawh Al-Mahfuz (The Preserved Tablet). So there is no doubt in it. Similarly, Allah said in Surah Maryam;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -189,3 +181,5 @@ This difficulty can be resolved by turning to an analogy. This saying is similar
 The same applies here as the punishment in the world has already been given; now the punishment of the Hereafter will be added on and the sum-total will be finally executed on the Last Day, that is, having been punished in the world will not serve as expiation for the punishment of the Hereafter. This is contrary to the condition of believers who, when struck by suffering in the mortal world, have their sins forgiven and find the punishment due in the Hereafter lightened or warded off. For this reason, a hint to this effect has been made in لَا يُحِبُّ الظَّالِمِي and Allah does not like transgressors -v. 57), that is, believers are dear because of their belief and the beloved ones are always treated in such a manner. The disbelievers are detested because of their disbelief and those detested do not receive such treatment. (Bayan a1-Qur'an)
 
 ## Personal Reflections
+
+

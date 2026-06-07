@@ -336,13 +336,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Enshrouded One** (Al-Muzzammil) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty, yet others fighting in Allah's cause.) meaning, He knows that there will be people of this nation who will have excuses for not praying the (voluntary) night prayer. They are those who are ill and therefore they are not able to perform it, and those who are traveling in the land seeking the bounty of Allah in business and trade, and others who will be busy with that which is more important to them. An example of this is going on expeditions to fight in the way of Allah. This Ayah, rather, this entire Surah was revealed in Makkah even though fighting was not legislated until after it was revealed. Thus, it is among the greatest of the signs of prophethood, because it informs about unseen matters of the future. Thus, Allah says,
 
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-(He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty, yet others fighting in Allah's cause.) meaning, He knows that there will be people of this nation who will have excuses for not praying the (voluntary) night prayer. They are those who are ill and therefore they are not able to perform it, and those who are traveling in the land seeking the bounty of Allah in business and trade, and others who will be busy with that which is more important to them. An example of this is going on expeditions to fight in the way of Allah. This Ayah, rather, this entire Surah was revealed in Makkah even though fighting was not legislated until after it was revealed. Thus, it is among the greatest of the signs of prophethood, because it informs about unseen matters of the future.
+The verse that abrogates the obligatory nature of tahajjud prayer starts from – اِنَّ رَبَّكَ يَعْلَمُ 'Your Lord knows _[ 73:20] ' and ends at فَاقْرَءُوْا مَا تَيَسَّرَ مِنْهُ ۙ '…Now, recite as much of the Qur'an as is easy (for you) [ 73:20] ' This verse was revealed one year or eight months after the initial verses of this Surah. Thus the obligatory nature of night-prayer was abrogated after a year. Musnad of Ahmad, Muslim, Abu Dawad, Ibn Majah and Nasa'I record a narration of Sayyidah ` A'ishah who stated that at the commencement of this Surah, Allah had prescribed the night-prayer. The Messenger of Allah and the blessed Companions constantly and consistently carried out the obligation for a year. Allah held back the last part of the Surah in the sky for twelve months. It was revealed after a year which abrogated the obligatory status of night-prayer and made concession - reducing its status to supererogation. [ Ruh-ul-Ma’ ani ]
 
 ## Tafsir Summary
 
@@ -507,3 +503,5 @@ Surah Al-Muzzammil
 Ends here
 
 ## Personal Reflections
+
+

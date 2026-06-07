@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yanṭiqūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. The words of Sayyidna Ibrahim (علیہ السلام) were not untrue, but only allusions قَالَ بَلْ فَعَلَهُ كَبِيرُ‌هُمْ هَـٰذَا فَاسْأَلُوهُمْ إِن كَانُوا يَنطِقُونَ (He said, "Rather, this is done by this chief of theirs.
@@ -159,3 +147,5 @@ Thus these attributes being only habitual, they can be changed whenever God so w
 حَرِّ‌قُوهُ (Burn him - 21:68) that is the entire community and Namrud decided to burn him in fire. The historic version is that for full one month the entire population of the city were busy collecting fire wood for this purpose. Then after lighting the fire wood they fanned it to make it burn ferociously for the next seven days, until the flames rose high up into the sky. When the fire blazed with full ferocity they decided to throw Sayyidna Ibrahim (علیہ السلام) into it. But the fire was burning with such intensity that no one dared to approach it. Then the Shaitan gave them the idea to use a catapult to throw him into the fire. While people were preparing to throw Allah's Friend (خلِیل) into the sea of fire all the angels and all the creatures of the earth and sky cried out in unison at the fate that lay in store for Sayyidna Ibrahim (علیہ السلام) . At that Allah Ta` ala permitted them all to help Sayyidna Ibrahim (علیہ السلام) . When the angels asked Sayyidna Ibrahim (علیہ السلام) whether he needed their help. He replied that Allah was enough to help him and that He was watching over him. Jibra'il al-Ameen (علیہ السلام) enquired whether he could render him any help to which Sayyidna Ibrahim (علیہ السلام) replied, "of course I need help, but from Allah, not from you". (Mazhari)
 
 ## Personal Reflections
+
+

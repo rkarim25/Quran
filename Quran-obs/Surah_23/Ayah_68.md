@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-awalīna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-75-76 ) was merely a warning and therefore "it is better for you to mend your ways; otherwise you will be visited by a terrible scourge." 68-77 Again they have been invited to observe the Signs in the universe and in their own selves because these are clear proofs of the truth of the Message of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they not pondered over the Word, or has there come to them what had not come to their fathers of old (68)Or is it that they did not recognize their Messenger so they deny him (69)Or they say: There is madness in him Nay, but he brought them the truth, but most of them are averse to the truth (70)And if Al-Haqq had followed their desires, verily, the heavens and the earth, and whosoever is therein would have been corrupted! The verses 68, 69 and 70 mention five reasons which might possibly have prevented the unbelievers from accepting the faith brought by the Holy Prophet ﷺ ، and also give a rebuttal of each of these causes.
@@ -181,3 +169,5 @@ Here Allah tells of their stubbornness in their disbelief, in that even if He ha
 The verses 68, 69 and 70 mention five reasons which might possibly have prevented the unbelievers from accepting the faith brought by the Holy Prophet ﷺ ، and also give a rebuttal of each of these causes. Thus on the one hand all the arguments advanced by the infidels for not accepting the true faith have been demolished, and on the other hand there are compelling grounds and irrefutable evidence which should convince any right minded person of his error and persuade him to accept the message brought by the Holy Prophet ﷺ . Their persistence in their unbelief is, therefore, the result of their unreasoning hatred towards and blind prejudice against the Holy Prophet ﷺ to which a reference has been made in the latter part of the verse (Instead, the fact is that he has come to them with truth, but it is the truth that most of them dislike - 23:70). In other words, there being no valid and rational ground for repudiating the mission of the Holy Prophet ﷺ their opposition may be explained by their dislike of truth and their unwillingness to pay heed to its message. This, no doubt is due to their love for undisputed power and their reluctance to share it with anyone else.
 
 ## Personal Reflections
+
+

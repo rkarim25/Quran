@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **Mary** (Maryam) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Abi Hatim recorded that Hazm bin Abi Hazm Al-Quta'i said, "'Umar bin 'Abdul-Aziz wrote to 'Abdul-Hamid bin 'Abdur-Rahman, who was the governor of Kufah: 'Thus, to proceed: Verily, Allah prescribed death for His creatures when He created them and He determined their final destination. He said in that which He revealed in His truthful Book, which He guarded with His knowledge and made His angels testify to its preservation, that He will inherit the earth and all who are on it, and they will all be returned to Him.'"
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -155,3 +147,5 @@ The beliefs of the Jews and the Christians about Sayyidna ` Isa (علیہ الس
 The phrase قَوْلَ الْحَقِّ (translated in the text as 'the word of truth' in the normal reading is with fathah on the letter Lam (لَ ). In this case the sentence along with its understood words will run like اَقُولُ قَولَ الحَقِّ that is, 'I say the word of truth'. However, in some readings the letter 'Lam' in 'Qawl' is rendered with Dammah i.e. قَوْلُ الْحَقِّ. In this case the sentence will mean that Sayyidna 'Isa (علیہا السلام) himself was a word of truth. It is, then, analogous to the title of کَلِمَۃُ اللہِ (the word of Allah) which is given to him to denote that he was born directly by the word of Allah, having no connection with an apparent cause in this world. (Qurtubi)
 
 ## Personal Reflections
+
+

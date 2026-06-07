@@ -80,18 +80,6 @@ word_by_word:
     transliteration: jamīʿan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 172, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Al-Masih will never be too proud to be a servant of Allah, nor the angels who are the near (to Allah). From the affirmation of Allah's absolute purity and the refutation of assumed Godhood of Sayyidna 'Isa (علیہ السلام) earlier, the text now moves to further strengthen the argument by showing that Sayyidna 'Isa (علیہ السلام) would himself confess to being a servant of Allah and so will the angels (which includes Sayyidna Jibra'il (علیہ السلام) alleged to be a person of Trinity).
@@ -141,3 +129,5 @@ The Honour of being a servant of Allah
 Maulana Shabbir Ahmad ` Usmani, in his comments on the opening statement of Verse 172: لَّن يَسْتَنكِفَ الْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّـهِ (The Masih shall never spurn being a slave of Allah, nor shall the angels, the close ones), says that so it is because being a servant of Allah, being devoted to His worship and being obedient to His will and command, is an honour by itself and certainly a nobility of the highest class. Sayyidna Masih (علیہ السلام) and the close angels are the best testifiers to the worth and value of this blessing. How could they spurn an honour like that? Quite contrary to this, the worst disgrace and dishonour there can be imagined lies in worshipping someone other than Allah. This is what the Christians did when they took Sayyidna Masih (علیہ السلام) as the son of Allah and the object of their worship. Similar was the case with disbelievers who took angels as daughters of Allah and started worshipping them alongwith their idols. So, for them, there is punishment, and disgrace. (Notes in Tafsir Usmani)
 
 ## Personal Reflections
+
+

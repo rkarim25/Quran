@@ -51,18 +51,6 @@ word_by_word:
     transliteration: mud'birīna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So verily, you cannot make the dead to hear, nor can you make the deaf to hear the call, when they show their backs and turn away (52)And you cannot guide the blind from their straying; you can make to hear only those wh… فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ (So you cannot make the dead to hear 30:52).
@@ -96,3 +84,5 @@ Allah says, 'just as you are not able to make the dead hear in their graves, or 
 فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ (So you cannot make the dead to hear 30:52). As for the issue whether the dead have the ability to hear or not, and if they have this ability, whether it is exclusive to some, or all can hear, this subject has been dealt with briefly in the commentary of Sarah An-Naml in this volume, and a detailed discussion can be seen in my book تکمیل الحبور بسماع اھل القبور .
 
 ## Personal Reflections
+
+

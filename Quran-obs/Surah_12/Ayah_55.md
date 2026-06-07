@@ -38,16 +38,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-As for the position of Sayyidna Yusuf (علیہ السلام) in this matter, not only that he accepted the office, in fact, asked for it. According to the respected Tafsir authority, Mujahid, the reason for this was that the king of Egypt had become a believer, a Muslim, at that time. Since there is no proof in the Qur'an and Sunnah which could support this proposition, the majority of commentators have given another reason for his action. According to them, Sayyidna Yusuf (علیہ السلام) had already found out about the king of Egypt that he would not interfere in the performance of his du-ties. He will not compel him to enforce laws contrary to his faith. He will give him full rights to act in accordance with his discretion and in line with the law of truth. With such rights and powers in hand when one is not compelled to obey a law counter to his Shari` ah, it is possible that one may serve under someone unjust and disbelieving - though, the repugnance of having to help and cooperate with that unjust and disbelieving person remains where it initially was.
-
 ## Tafsir Summary
 
 And the king said: "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted. Thereupon, Sayyidna Yusuf (علیہ السلام) said: اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْ‌ضِ ۖ إِنِّي حَفِيظٌ عَلِيمٌ that is, ` appoint me to the treasures of the land (which includes the produce of the land) for I am indeed a knowledgeable keeper (fully capable of conserving and guarding it, and aware of where to spend and how much to spend).
@@ -145,3 +135,5 @@ A Functional Statement of Some Personal Ability is Not Included under Self-Sanct
 4. The saying of Sayyidna Yusuf (علیہ السلام) إِنِّي حَفِيظٌ عَلِيمٌ (I am a knowledge-able keeper) proves that mentioning some personal qualities, expertise or ability when there is a need to do that is not included under self-sanctification which has been prohibited in the Holy Qur’ an - of course, subject to the condition that such mentioning is not prompted by pride, arrogance or boastfulness.
 
 ## Personal Reflections
+
+

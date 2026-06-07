@@ -76,18 +76,6 @@ word_by_word:
     transliteration: ʿāmilūna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَقَالُوا قُلُوبُنَا فِي أَكِنَّةٍ - (And they say, " Our hearts are [ wrapped ] in covers against that to which you invite us 41:5) Here three statements of the infidels of Quraysh are reproduced.
@@ -171,3 +159,5 @@ But We have put coverings on their hearts, so that they do not understand, and h
 One may doubt that there is a conflict between this verse and that of Surah An'am in this respect. But the answer is that the infidels, by saying the above, meant that they were helpless and excusable, because their hearts were curtained, their ears were leaden and there were barriers between them and him. So how could they listen to him and accept what he said? This is how they proved themselves to be helpless. And when the Holy Qur'an stated their condition (in Surah An'am) to be the same, it did not consider them to be helpless, rather held them fully capable of hearing and understanding. It is when they refused even to hear, and had no intention of understanding, then as a punishment, heedlessness and ignorance were imposed upon them, but not to the degree that they were deprived of their volition; rather if they had changed their minds even then, their abilities of hearing and understanding would have been restored fully. (Bayan-ul-Qur’ an)
 
 ## Personal Reflections
+
+

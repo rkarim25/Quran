@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Abi Hatim narrated that Ibrahim said, "Allah revealed to a Prophet from among the Children of Israel, 'Say to your nation: every people of a village or a house who used to obey Allah but changed their behavior to disobeying Him, then He will take away from them what they like and exchange it for what they dislike." Ibrahim next said that this statement has proof in Allah's Book,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -153,3 +145,5 @@ The expression: أَسَرَّ‌ الْقَوْلَ (speaks quietly) is a deriv
 The verse means that, because of the all-encompassing knowledge of Allah Ta` ala, the one who talks quietly or secretly and the one who talks loudly and openly are both equal in His sight. He hears and knows what they say, identically and uniformly. Similarly, there is the person hiding in the darkness of the night and there is another walking freely in open daylight. Both of them are alike in terms of His knowledge and power, since He knows all inward and outward conditions of both alike and His power surrounds them both alike and just no one is outside His power and control. An elaboration of this point appears in the next verse in the following words:
 
 ## Personal Reflections
+
+

@@ -55,18 +55,6 @@ word_by_word:
     transliteration: l-ʿalīmu
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the subject matter as well. Some commentators have opined that since it mentions the hypocrites, and hypocrisy appeared in Madinah, the first ten verses of this Surah were revealed at Madinah and the rest of it at Makkah; whereas the people whose hypocrisy has been mentioned here are those who had adopted a hypocritical way of life because they were afraid of the oppression and extreme physical torture to which the Muslims were being subjected by the disbelievers.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O My servants who believe! وَكَأَيِّن مِّن دَابَّةٍ لَّا تَحْمِلُ رِ‌زْقَهَا اللَّـهُ يَرْ‌زُقُهَا وَإِيَّاكُمْ (And how many an animal there is that does not carry its provision.
@@ -134,3 +122,5 @@ Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari
 وَكَأَيِّن مِّن دَابَّةٍ لَّا تَحْمِلُ رِ‌زْقَهَا اللَّـهُ يَرْ‌زُقُهَا وَإِيَّاكُمْ (And how many an animal there is that does not carry its provision. Allah gives provision to it as well as to you, - 29:60), that is, ` You should ponder over the fact that there are innumerable animals on earth who do not collect and store their sustenance, nor do they worry about its collection. But Allah Ta’ ala provides them their sustenance daily by His grace'. This applies to almost all animals, except a few. For instance, ants and rats are two such animals that store their food. Ants do not come out of their holes in winter; hence store the food during the summer season. Among the birds crow is the only one that collects food in its nest, but then forgets it. Thus, all the countless animals living on earth are those who neither collect their food for the next day, nor do they have means to do so. It is stated in a hadith that all the birds set off from their nests at dawn in a state of hunger, and return in the evening satiated. They all get their sustenance daily from the bounty of Allah Ta’ ala, and the practice goes on throughout their lifetime.
 
 ## Personal Reflections
+
+

@@ -96,18 +96,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Musa said to his people: "O my people! Previous to the verses cited above, a pledge was mentioned in which the Bani Isra'il were bound to obey Allah and His Messenger.
@@ -323,3 +311,5 @@ The third blessing mentioned in this verse is a combination of both, the spiritu
 period of Bani Isra'il which was marked by the presence of Sayyidna Musa among them. That was the time when no one in all the worlds was as blessed as were the Bani Isra'il. That any other community in times to come could be blessed more than them should not be considered contrary to this.
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tasmaʿūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The event of the battle of Badr which has been described in a somewhat detailed manner in the previous verses contains many lessons in hard advice and wisdom both for those who adhere to Islam and those who stick to disbelief.
@@ -145,3 +133,5 @@ It is obvious that the real purpose of listening is fully realized only through 
 In the verse cited above (20), the address is to Muslims who have been told that they do listen to the message of truth after all, that is, the initial requirement of listening, understanding and believing is present in their attitude as it is, but they have to do more than that. They must act, do what must be done and do it fully and faithfully. They have been asked not to do anything which would take them away from the path of obedience so that the real purpose of listening to the word of truth stands realized fully.
 
 ## Personal Reflections
+
+

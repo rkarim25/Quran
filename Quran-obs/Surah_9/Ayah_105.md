@@ -74,15 +74,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 105, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background. Some people, as mentioned a little earlier, had stayed back from the battle of Tabuk without a valid excuse. Then, out of remorse, they had tied themselves to the pillars of the Mosque. Then came the acceptance of their repentance as revealed in the previous verse (102) and. they were released from their self-imprisonment. When this happened, they presented their entire wealth as a token of their gratitude so that it could be given out as Sadaqah. The Holy Prophet ﷺ refused to accept it by saying that he did not have the authority to take it. There-upon, this verse (103): خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً. (Take out of their wealth a Sadaqah) was revealed and he accepted to take one third of it as Sadaqah. He did not take the entire wealth, rather, took a part of it - as indicated in the verse. The preposition, مِن (min: out of) proves it.
 
-This is the view preferred in Tafsir al-Qurtubi, Ahkam al-Qur'an by al-Jassas, Tafsir Mazhari and others.
+This is the view preferred in Tafsir al-Qurtubi, Ahkam al-Qur'an by al-Jassas, Tafsir Mazhari and others. Al-Qurtubi and Al-Jassas has gone on to further explain it. According to them, even if the same particular event is taken to be the cause of the revelation in this verse, still then, in terms of the Qur'anic principle, this injunction shall re-main general - and shall remain binding on Muslims right through the day of Qiyamah. The reason is that most of the injunctions of the Holy Qur'an were revealed in the background of one or the other particular event, but nobody has ever held that their application remains restricted to that particular event. In fact, unless there is a certain proof of its particularization, that injunction is invariably regarded as universally applicable to all Muslims.
 
 ## Tafsir Summary
 
@@ -167,3 +161,5 @@ The word: صلوۃ (salah) used in the expression: وَصَلِّ عَلَيْه
 Here we see that the Holy Prophet ﷺ has been asked to pray for those who give Sadaqah. On this basis, some Muslim jurists rule that it is wajib (obligatory, necessary) for the Muslim head of the state (Imam, 'Amir) to pray for those who give Sadaqah. However, there are others who take this command to be of a recommendatory nature (mustahabb: recommended). (Qurtubi)
 
 ## Personal Reflections
+
+

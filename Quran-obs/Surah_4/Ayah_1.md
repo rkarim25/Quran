@@ -124,15 +124,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi Reported that Ibn 'Abbas said that Surat An-Nisa' was revealed in Al-Madinah. Ibn Marduwyah recorded similar statements from 'Abdullah bin Az-Zubayr and Zayd bin Thabit. In his Mustadrak, Al-Hakim recorded that 'Abdullah bin Mas'ud said, "There are five Ayat in Surat An-Nisa' that I would prefer to the life of this world and all that is in it,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -295,3 +287,5 @@ The Holy Prophet ﷺ said:
 The statement in the last sentence of this verse: إِنَّ اللَّـهَ كَانَ عَلَيْكُمْ رَ‌قِيبًا (and surely, Allah is watchful over you) motivates human hearts to fulfill rights as and when they are due because Divine watchfulness implies awareness of whatever there is in human hearts - intentions, scruples, motives - everything. Doing things halfheartedly, formally, or for fear of possible embarrassment, without any genuine desire to serve, shall remain acts unacceptable to Allah. Incidentally, from here we find out why Allah should be feared - because He is watchful over everyone, always. As pointed out elsewhere too, this is typical of the usual style of the Holy Qura'n when it does not introduce laws in sheer cold print like the laws of the governments of this world, but puts them forth in the manner of education, training and affection by not restricting itself to the word of law alone, but by combining it with the grooming of minds and hearts as well.
 
 ## Personal Reflections
+
+

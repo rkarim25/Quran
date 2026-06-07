@@ -54,18 +54,6 @@ word_by_word:
     transliteration: yastahziūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you? In the fifth and the last verse here, further details of this heedlessness have been indicated through some events.
@@ -119,3 +107,5 @@ Thus, the very presence of the Holy Prophet , U1 and the Glorious Qur'an, was a 
 Now, pointed out at the conclusion of the verse is the sad end of their effort to falsify truth: فَسَوْفَ يَأْتِيهِمْ أَنبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ (Now, there shall come to them the full account of what they have been laughing at). It means that right now these people who are heedless to their fate mock at the miracles and commandments of Allah brought by the Holy Prophet ﷺ and at the all true message that there is a Qiyamah (Doomsday) and Akhirah (Hereafter), but very soon will come the time when all these realities will be before their eyes. There will be a Qiyamah in fact. There will be a Reckoning (Hisab) when everyone will have to account for one's faith and deed - and everyone shall get the reward or punishment for what he or she has done. But, believing and confessing at that time is not going to work for them because that will be no day of deeds - rather, that day will be the day of Retribution. The time to think is now. Allah Almighty has given the respite - a God-sent piece of luck, so to say. Act now, for it is by having faith alone that you will succeed in this world and in the lasting world to come.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: khālidūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, when the Trumpet is blown, there will be no kinship among them that Day, nor will they ask of one another (101)Then, those whose Scales (of good deeds) are heavy, these! So, the one whose scales (of good deeds) turn out to be heavy, then such people are the successful ones, [ 102] and the one whose scales turn out to be light, then such people are the ones who harmed their own selves; in Jahannam (Hell) they are to remain forever.
@@ -137,3 +125,5 @@ How will the deeds be weighed?
 There are different versions about the method for the weighing of deeds, and all of them are derived from hadith. One version is that the believers and the infidels will be weighed bodily in the scale of justice and the infidel will not be able to tilt the scale however obese and corpulent he may be (Bukhari and Muslim, quoting Abu Hurairah ؓ . Another version says that the scrolls on which their deeds are recorded will be weighed. Tirmidhi, Ibn Majah, Ibn Hayyan have taken this version from Sayyidna ` Abdullah Ibn ` Umar ؓ . And according to a third version a man's deeds which were weightless and intangible in this world, will be made solid on the Day of Judgment and will be placed on the scales and weighed. Tabrani has related this version from the Holy Prophet ﷺ on the authority of Sayyidna Ibn ` Abbas ؓ . The words and the text: of all these hadiths are given in full in Tafsir Mazhari which may be consulted if required. Abdur Razzaq has quoted a hadith in his book under the chapter on فَضلُ اِلعِلَم (the merits of knowledge) on the authority of Ibrahim Nakha` i which supports the just preceded version. This version has it that on the Day of Judgment a person's deeds will be brought for weighing and when placed in the pan, they will fail to tilt it. Then something resembling clouds will be brought and put in the pan of good deeds which will then weigh down. The man will then be asked what was it that lent weight to the pan of his good deeds, but he will express his ignorance. Then he will be informed that the object in question was his learning which he used to impart to other people. Dhahabi has included a hadith in فَضلُ اِلعِلَم which he heard from Sayyidna ` Imran Ibn Husain ؓ that the Holy Prophet ﷺ said, "On the Day of Judgment the blood of the martyrs will be weighed against the ink of scholars (with which they wrote books on the science of religion) and the latter will be heavier than the former." (Mazhari) After giving the above mentioned versions about the weighing of deeds, Tafsir Mazhari says that it is not wholly inconceivable that man himself and his deeds may be weighed physically or that he and his record of deeds may be weighed together. Thus there is no inconsistency in these three versions.
 
 ## Personal Reflections
+
+

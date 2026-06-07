@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Rocky Tract** (Al-Hijr) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So turn away from them, and say: "Salam (Peace!)." But they will come to know)(43:89). Mujahid, Qatadah and others said: "This was before fighting was prescribed". It is as they said, because this Surah was revealed in Makkah and fighting was prescribed after the Hijrah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -137,3 +129,5 @@ Here, he is being asked not to grieve over their hostile opposition because ther
 This being the wise arrangement of things, let him not grieve. The better course for him is to overlook their wicked behaviour in a gracious manner, that is, neither pay attention to their behavior nor complain about it. The reason is that his Lord is great as Creator and great as the Master Knower as well. He knows his patience and fortitude and He knows the evil mechanizations of his enemies too. Therefore, He is to exact the full return from them of what they have been doing.
 
 ## Personal Reflections
+
+

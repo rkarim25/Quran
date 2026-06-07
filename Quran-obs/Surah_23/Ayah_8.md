@@ -27,15 +27,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Believers** (Al-Mu'minun) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H. The apparent meaning is that the Zakah that was instituted in Al-Madinah is the one based upon the Nusub and the specific amounts, apart from which it seems that the basic principle of Zakah was enjoined in Makkah. As Allah says in Surat Al-An'am, which was also revealed in Makkah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -174,3 +166,5 @@ Fifth Attribute of a good Muslim is that he should discharge his trust truly and
 Sixth Attribute of a perfect Muslim is to fulfill his covenant. The word عھد . (covenant) has two connotations. One is a covenant between two parties specifying the duties and obligations of either party and is binding on both and a breach of this covenant by either party is a fraud and deceit and therefore forbidden in Islam. The other is where a person voluntarily promises to give something to someone or undertakes to do some job. This is known as وعدہ (promise) and its fulfillment is also obligatory under the dictates of Shari. There is a Hadith which says العدۃ دین (a promise is like a debt). It means that a promise is like a debt and must be fulfilled in the same manner as a debt must be discharged, the difference being that whereas the repayment of a debt can be enforced through a court of law, a voluntary promise is not enforceable likewise. Nevertheless the person making the promise is morally bound to abide by it and failure to do so would be a sin unless there is a religious ground for his inability to fulfill his promise.
 
 ## Personal Reflections
+
+

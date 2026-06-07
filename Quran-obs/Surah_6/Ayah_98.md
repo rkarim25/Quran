@@ -59,18 +59,6 @@ word_by_word:
     transliteration: yafqahūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 98, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is He Who has created you from a single person, and has given you a place of residing and a place of storage. In the fourth verse (98), it was said: وَهُوَ الَّذِي أَنشَأَكُم مِّن نَّفْسٍ وَاحِدَةٍ فَمُسْتَقَرٌّ‌ وَمُسْتَوْدَعٌ(And He is the One who created you from one person, then, you have a place to dwell, and a place to sojourn).
@@ -200,3 +188,5 @@ How tough I know. What next I know not.
 In conclusion, it can be said that this last verse (98) under study is showing a mirror to those who, having sold their souls to the veneer of glamour they see in the obvious and to the craze for things and trends they envy in their fellow beings, have forgotten that their place is elsewhere, that they have to go to their Creator and that there is a journey ahead, to the ultimate domain of the 'Akhirah. The message is: Open your eyes, see reality, walk away from the web of deception and walk into salvation.
 
 ## Personal Reflections
+
+

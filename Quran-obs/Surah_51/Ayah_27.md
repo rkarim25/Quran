@@ -24,18 +24,6 @@ word_by_word:
     transliteration: takulūna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. رَ‌اغَ إِلَىٰ أَهْلِهِ (Then he slipped off to his home - 51:26).
@@ -137,3 +125,5 @@ Rules of Entertaining Guests
 Ibn Kathir says that this verse indicates proper manners for entertaining guests: Holy Prophet Ibrahim (علیہ السلام) ، the host, did not first mention that he would make food for them. He slipped out quietly, and brought the food to his guests quickly, while they were unaware that it was being prepared for them. Rather, he discreetly had it prepared and placed before them. He prepared the best kind of food he had, a young, fat roasted calf. Moreover, he did not place the food far from them and invite them to come close to it to eat. Rather, he placed it close to them فَقَرَّ‌بَهُ إِلَيْهِمْ 'brought it close to them' and refrained from ordering them to eat. Instead he invited them politely, kindly and cordially to partake thus أَلَا تَأْكُلُونَ 'Would you not eat?' This statement in the form of a question is similar to one of us saying to a guest, 'Would you kindly partake of it - even if you are not hungry, at least for my sake?'
 
 ## Personal Reflections
+
+

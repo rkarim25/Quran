@@ -33,18 +33,6 @@ word_by_word:
     transliteration: baʿīdun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Beginning of Muffasal Section of the Qur'an This Surah is the first Surah in the Mufassal section of the Qur'an, according to the correct view. Linkage with the preceding Surah This Surah mostly contains subjects relating to the Day of Judgment, Resurrection, the Reckoning, Paradise, the Fire, Allah's reward and punishment etc.
@@ -186,3 +174,5 @@ Is it Possible to Observe the Heaven?
 أَفَلَمْ يَنظُرُ‌وا إِلَى السَّمَاءِ (Did they not, then, look to the sky above them? - 50:6). Apparently this sentence indicates that it is possible to see the sky, while the general impression is that the blue colour that we see above is the colour of the atmosphere, and not that of the heaven. However, there is no proof for non-existence of the sky, nor of the presumption that the colour of the heaven is not blue. Besides, the word nazar (seeing) used in the verse could mean perceiving through reason, that is, thinking, pondering etc. (Bayan-ul-Qur’ an)
 
 ## Personal Reflections
+
+

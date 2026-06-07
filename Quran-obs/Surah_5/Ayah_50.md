@@ -48,17 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So judge between them by what Allah has revealed.) The Ayah commands: O Muhammad! Rule between the people, Arabs and non-Arabs, lettered and unlettered, by what Allah has revealed to you in this Glorious Book and what it approves of for you from the Law of the previous Prophets, as Ibn Jarir said. Ibn Abi Hatim reported that Ibn 'Abbas said, "The Prophet had the choice to judge between them or to turn away from them and refer them to their own Law. Then this Ayah was revealed,
 
 (and follow not their vain desires...) This means the ideas they promote, because of which they turned away from what Allah revealed to His Messengers. This is why Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -245,3 +237,5 @@ A Summary of Subsidiary Injunctions
 The fifth injunction which emerges clearly from these verses is that all prophets, may peace be upon them, and their Shari'ahs agree in principle, but there is that difference in minute and subsidiary in-junctions with them - a difference which is based on considerations of great wisdom.
 
 ## Personal Reflections
+
+

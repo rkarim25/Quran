@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Jinn** (Al-Jinn) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Say: "It has been revealed to me that a group of Jinn listened.")(72:1) They were listening to the Qur'an." This is one opinion and it has been reported from Az-Zubayr bin Al-'Awwam. Ibn Jarir recorded from Ibn 'Abbas that he said, "The Jinns said to their people,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -171,3 +163,5 @@ Concerning Allah's statement,
 The word masajid could also have another sense. It could be the plural of masjad, with the letter jim carrying fath, in which case it would be masdar mimi 'infinitivity' and mean 'to prostrate or prostration'. The verse in this sense would signify that worship is reserved exclusively for Allah. It is not permitted to prostrate to anyone, because if he calls on anyone else for help, it is as though he is prostrating to him which must be avoided.
 
 ## Personal Reflections
+
+

@@ -58,18 +58,6 @@ word_by_word:
     transliteration: ḥarīrun
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 'Adn (Gardens) will they enter, therein will they be adorned with bracelets of gold and pearls, and their garments therein will be of silk (33)And they will say: "All praise and thanks be to Allah, Who has removed from us (all) grief. A close look at the last sentence of verse 32 and the statement in verse ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ‌ جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ‌ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِ‌يرٌ‌ (That is the great bounty, gardens of eternity they enter.
@@ -137,3 +125,5 @@ According to a narration of Sayyidna Abu Said al-Khudri ؓ ، the Holy Prophet �
 Imam al-Qurtubi (رح) Ta’ ala said: Commentators explain that every inmate of Jannah will have bracelets to wear on their hands - of gold, silver, and pearls. About this celestial bracelet, a verse mentions 'of silver' (76:21) while others, 'of gold' (18:31; 22:23; 35:33; 43:53). The present explanation brings both verses in correspondence.
 
 ## Personal Reflections
+
+

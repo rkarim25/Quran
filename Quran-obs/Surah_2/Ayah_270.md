@@ -66,18 +66,6 @@ word_by_word:
     transliteration: anṣārin
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 270, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And whatever you spend for spendings (e.g., in Sadaqah) or whatever vow you make, be sure Allah knows it all. (4) Verse 270: وَمَا أَنفَقْتُم مِّن نَّفَقَةٍ (الی قولہ) وَمَا لِلظَّالِمِينَ مِنْ أَنصَارٍ‌: "And whatever spending you do ...
@@ -137,3 +125,5 @@ Here, "and whatever spending you do" covers all spendings - those in which all r
 Similarly, all votive offerings (نذور : nudhur) come under the general purview of (nadhr نذر : singular: votive offering), for instance, it includes the nadhr نذر of monetary ` ibadah in accordance with which nadhr نذر has been introduced alongwith infaq (spending) and may also include nadhr نذر of physical ` ibadah. It may be absolute, or dependent on something else; or it may or may not have been fulfilled. The purpose of saying all this is that Allah Almighty knows all these things and He shall recompense for them duly. This was made known so that people are persuaded to observe limits and conditions and be warned of their non-observance. The word (al-zalimin الظَّالِمِينَ ) in the text refers to the unjust, the transgressors, who do not observe the necessary conditions. To them was given clear warning.
 
 ## Personal Reflections
+
+

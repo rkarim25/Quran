@@ -63,18 +63,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (as for) the male thief and the female thief, cut off their hands as a recompense for that which both committed, a punishment by way of example from Allah. And whoever repents after his transgression and corrects himself, then Allah shall relent towards him.
@@ -188,3 +176,5 @@ And whoever repents after his transgression and corrects himself, then Allah sha
 It will be recalled that forgiveness was also mentioned in connection with the Prescribed Punishment for robbery appearing a few verses earlier (34) - and forgiveness has been mentioned after the punishment for theft as well. But, the statement of forgiveness at both places has a particular difference and it is on the basis of this difference that the sense of forgiveness in both punishments has been taken differently by Muslim jurists. While ordaining the punishment for robbery, giving an exception, Almighty Allah has said: إِلَّا الَّذِينَ تَابُوا مِن قَبْلِ أَن تَقْدِرُ‌وا عَلَيْهِمْ (except those who repent before you overpower them - 5:34) the outcome of which is that the Hadd Punishment for robbery mentioned in the verse provides an exemption whereby the one who repents - before robbers are overpowered and arrested by the government - shall have his Hadd Punishment forgiven. As for the forgiveness mentioned after the punishment for theft, it does not have the exemption from this temporal punishment. It is rather in terms of the Hereafter that this repentance shall be accepted towards which a clear indication exists in the words: فَإِنَّ اللَّـهَ يَتُوبُ عَلَيْهِ (then Allah shall relent towards him). In other words, the relevant ruler of the time will not abandon the Hadd Pun-ishment because of this repentance, instead of that, Almighty Allah will, by forgiving their crime, grant deliverance to them from the punishment of the Hereafter. Therefore, Muslim jurists almost unanimously agree that the Hadd Punishment for robbery shall not be en-forced on robbers who repent before they are arrested. But, should a thief were to forsake and repent from stealing after having committed a theft - whether before or after arrest - then, the Hadd of Sariqah, the Islamic Legal Punishment, which is a temporal punishment, will not be forgiven. That the sin is forgiven and deliverance from the punishment of the Hereafter has been achieved is not contrary to this.
 
 ## Personal Reflections
+
+

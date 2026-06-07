@@ -27,15 +27,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it. Thus, the idolators of the Quraysh said, 'This Qur'an was only revealed to Muhammad to cause him distress.' Therefore, Allah revealed,
 
-مَا أَنزَلْنَا عَلَيْكَ الْقُرْ‌آنَ لِتَشْقَىٰ (We did not reveal the Qur'an to you to [ make you ] face hardship - 20:2) The word لِتَشْقَىٰ is derived from شقاء which means pain and distress. In the early days of Islam when the Qur'an was first revealed, the Holy Prophet ﷺ and his Companions ؓ used to spend whole nights in prayers and in reciting the Qur'an, as a result of which his feet used to get swollen due to standing for long hours in the prayers. Whereas during day time he would worry himself on how to bring light to the infidels in order that they should accept the teachings of the Qur’ an. This verse seeks to lessen the burden of long hours of prayers by informing the Holy Prophet ﷺ that the Qur’ an was not revealed to inflict toil and hardship on him and that it was not expected of him to stay awake the whole night reciting the Qur'an.
+مَا أَنزَلْنَا عَلَيْكَ الْقُرْ‌آنَ لِتَشْقَىٰ (We did not reveal the Qur'an to you to [ make you ] face hardship - 20:2) The word لِتَشْقَىٰ is derived from شقاء which means pain and distress. In the early days of Islam when the Qur'an was first revealed, the Holy Prophet ﷺ and his Companions ؓ used to spend whole nights in prayers and in reciting the Qur'an, as a result of which his feet used to get swollen due to standing for long hours in the prayers. Whereas during day time he would worry himself on how to bring light to the infidels in order that they should accept the teachings of the Qur’ an. This verse seeks to lessen the burden of long hours of prayers by informing the Holy Prophet ﷺ that the Qur’ an was not revealed to inflict toil and hardship on him and that it was not expected of him to stay awake the whole night reciting the Qur'an. Thereafter, the Holy Prophet ﷺ adopted a routine by which he rested in the early hours of the night and would get up later to offer the salah of tahajjud.
 
 ## Tafsir Summary
 
@@ -132,3 +126,5 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 This verse also suggests that the duty of the Holy Prophet ﷺ is merely to convey the Message of Allah Ta` ala to the unbelievers, and thereafter he need not concern himself as to who accepted the Message and who did not.
 
 ## Personal Reflections
+
+

@@ -72,18 +72,6 @@ word_by_word:
     transliteration: l-sujūdi
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when We showed Ibrahim the site of the House (saying): "Associate not anything with Me, and sanctify My House for those who circumambulate it, and those who stand up (for prayer), and those who bow and make prostration (in prayer); (26)And proclaim to mankind the Hajj (pilgrimage). The previous verse contains a warning of severe punishment to the infidels who prevented the Muslims from entering the Sacred Mosque and the precincts of Haram.
@@ -175,3 +163,5 @@ The start of founding the structure of the House of Allah (the Holy Ka'bah)
 وَإِذْ بَوَّأْنَا لِإِبْرَ‌اهِيمَ مَكَانَ الْبَيْتِ (And [ remember ] when We pointed out for Ibrahim the place of the House - 22:26.) The word بَوَّء literally means ` to assign to someone a place for his residence.' The verse calls to attention the fact that Allah assigned to Sayyidna Ibrahim علیہ السلام a place where Baitullah was located. There is a hint here that he was not settled there already, since he migrated here from Syria. And a reference to مَکَانَ البَیت (the place of the House) suggests that the House of Allah pre-existed the arrival of Sayyidna Ibrahim (علیہ السلام) ، because according to reliable traditions its first foundations were laid about the time when Sayyidna 'Adam (علیہ السلام) was sent upon the earth and he, and the prophets who came after him, used to make tawaf (circumambulation) around it. At the time of Deluge in the days of Sayyidna Nuh (علیہ السلام) its upper-structure was removed but the foundations remained intact. Sayyidna Ibrahim (علیہ السلام) was brought to this place and commanded by Allah Ta’ ala أَن لَّا تُشْرِ‌كْ بِي شَيْئًا (Do not associate with Me any one - 22:26). It is quite evident that Sayyidna Ibrahim (علیہ السلام) could not commit shirk, because he had himself suffered considerable torment at the hands of polytheists after they accused him of having destroyed their idols. The intention here is to warn the people at large against the great sin of polytheism. The second command was وَطَهِّرْ‌ بَيْتِيَ (purify My House - 22:26), even though the House of Allah did not exist at that time. But the fact of the matter is that Baitullah is not just a structure of bricks and mortar, rather the term encompasses that entire piece of sacred land where Baitullah once stood and whose structure Sayyidna Ibrahim (علیہ السلام) was now commanded to raise once again on the original foundations. As for the command to purify the place, Qurtubi says that in those days the tribes of Jurhum (جُرھَم) and Amalakites (عمالقہ) had placed idols there, which they worshipped. (Qurtubi) Another view is that this command is for the future generations not only to keep the place free from infidelity and polytheism but also to pay special attention to its external cleanliness and purity.
 
 ## Personal Reflections
+
+

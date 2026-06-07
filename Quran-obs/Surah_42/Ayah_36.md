@@ -76,18 +76,6 @@ word_by_word:
     transliteration: yatawakkalūna
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun t… The above verses state the imperfection and temporary nature of the blessings of this world, as against the perfection and permanence of the blessings of the Hereafter.
@@ -161,3 +149,5 @@ The above verses state the imperfection and temporary nature of the blessings of
 First virtue: عَلَىٰ رَ‌بِّهِمْ يَتَوَكَّلُونَ (and place their trust in Allah - 36,) meaning those who place their trust in Allah, under all circumstances, in all matters; they do not consider anyone else to be the real cause of anything.
 
 ## Personal Reflections
+
+

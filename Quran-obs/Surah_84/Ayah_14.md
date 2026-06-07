@@ -24,18 +24,6 @@ word_by_word:
     transliteration: yaḥūra
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest Surahs to be revealed at Makkah. The internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا (He had been joyful among his people...84:13).
@@ -181,3 +169,5 @@ meaning, certainly Allah will repeat his creation just as he began his creation,
 In other words, they lived among their families and yet were fearful and conscious of the Hereafter. The consequences of the two groups will be appropriate to their respective positions. Those who led a life of luxury and pleasure in this world with their families oblivious of the Hereafter, their portion will be punishment of Hell in the next world. Those who were aware of reckoning and feared punishment in the next world will live with their families in eternal luxury, pleasure and happiness. This indicates that a believer should not be immersed in the comforts of this life. At no time and in no circumstance should he be oblivious to the reckoning of the Hereafter.
 
 ## Personal Reflections
+
+

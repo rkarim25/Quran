@@ -101,18 +101,6 @@ word_by_word:
     transliteration: yu'fakūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime. In the second verse (30), the subject taken up briefly in verse 29 (where it was said that these people do not believe in Allah) has been enlarged.
@@ -202,3 +190,5 @@ After that, it was said: ذَٰلِكَ قَوْلُهُم بِأَفْوَاه�
 Finally, it was said: یضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُ‌وا مِن قَبْلُ ۚ قَاتَلَهُمُ اللَّـهُ ۚ أَنَّىٰ يُؤْفَكُونَ (They (They resemble the earlier disbelievers in their saying. Be they killed by Allah, how far turned away they are! ). It means that the Jews and Christians, by calling prophets sons of Allah, became the same as disbelievers and Mushriks of past ages, for they used to say that the angels, and their idols, Lat and Manat, were daughters of God.
 
 ## Personal Reflections
+
+

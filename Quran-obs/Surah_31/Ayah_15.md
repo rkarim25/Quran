@@ -128,15 +128,7 @@ word_by_word:
 
 ## Context
 
-To understand **Luqman** (Luqman) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not;) was revealed concerning me. I was a man who honored his mother, but when I became Muslim, she said: 'O Sa'd! What is this new thing I see you doing? Leave this religion of yours, or I will not eat or drink until I die, and people will say: Shame on you, for what you have done to me, and they will say that you have killed your mother.' I said, 'Do not do that, O mother, for I will not give up this religion of mine for anything.' She stayed without eating for one day and one night, and she became exhausted; then she stayed for another day and night without eating, and she became utterly exhausted. When I saw that, I said: 'O my mother, by Allah, even if you had one hundred souls and they were to depart one by one, I would not give up this religion of mine for anything, so if you want to, eat, and if you want to, do not eat.' So she ate."
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -219,3 +211,5 @@ Special Note
 As for the weaning period of two years for a child mentioned in the verse, it is in accordance with customary practice. It carries no clarification concerning the injunction relevant to any additional period of suckling the child. A detailed explanation of this issue will, insha'Allah, appear under the commentary on the verse: وَحَمْلُهُ وَفِصَالُهُ ثَلَاثُونَ شَهْرً‌ا (And his carrying and weaning is (in) thirty months - A1-Ahgaf, 46:15).
 
 ## Personal Reflections
+
+

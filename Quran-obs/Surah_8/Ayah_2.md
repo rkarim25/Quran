@@ -76,18 +76,6 @@ word_by_word:
     transliteration: yatawakkalūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth. Particular Attributes of the Believer Described in the verses cited above are particular attributes which should be the hallmark of every believer.
@@ -247,3 +235,5 @@ The Third Attribute : Trust in Allah
 The third attribute of a believer identified here is that he or she should place their trust in Allah. The Arabic word: Tawakkul means trust. The sense is that the believer should have total trust in Allah, One and Pure, free of all conceivable associations and ascriptions, not simply theoretically, but in deeds too, and in all states and conditions of one's life as well. In a sound Hadith, the Holy Prophet ﷺ has said: This does not mean that one should abandon material causes and means when it comes to taking care of one's legitimate needs. The point is that one should not consider material means and instruments as sufficient for real success, instead of which, one should do his best, subject to his ability and courage, to assemble and utilize necessary material means. It is only after that one should entrust his matter with Allah Ta` ala believing that He is the One who has created all means and He is certainly the One who makes means to bear fruits. What would come to be has to be what He wills. In another Hadith, he said: اجملوا فی الطلب و توکلوا علیہ . It means: Make a moderate effort to procure what you need through material means, and then place your trust in Him. In other words, do not let your heart and mind get bogged down with nothing but material ways and means.
 
 ## Personal Reflections
+
+

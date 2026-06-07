@@ -28,18 +28,6 @@ word_by_word:
     transliteration: yahjaʿūna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Remaining Awake at Night for Voluntary Prayers كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ (They used to sleep little in the night,...
@@ -191,3 +179,5 @@ In other words, acceptance in the sight of Allah is not necessarily restricted t
 "0 people, feed people, do good to kith and kin, greet each other with salam, pray at night while people are asleep, and you will enter Paradise in peace." (Ibn Kathir)
 
 ## Personal Reflections
+
+

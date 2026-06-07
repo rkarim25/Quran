@@ -210,17 +210,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And force not your slave-girls to prostitution...) Among the people of the Jahiliyyah, there were some who, if he had a slave-girl, he would send her out to commit Zina and would charge money for that, which he would take from her every time. When Islam came, Allah forbade the believers to do that. The reason why this Ayah was revealed, according to the reports of a number of earlier and later scholars of Tafsir, had to do with 'Abdullah bin Ubayy bin Salul. He had slave-girls whom he used to force into prostitution so that he could take their earnings and because he wanted them to have children which would enhance his status, or so he claimed.
 
 (And force not your slave-girls to prostitution...) was revealed." Al-A'mash narrated from Abu Sufyan that Jabir said concerning this Ayah, "This was revealed about a slave-girl belonging to 'Abdullah bin Ubayy bin Salul whose name was Musaykah. He used to force her to commit immoral actions, but there was nothing wrong with her and she refused. Then Allah revealed this Ayah:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -419,3 +411,5 @@ Then after their being compelled, Allah is Most-Forgiving, Very-Merciful - 33.
 The gist of this sentence is that it is prohibited to force the slave girls to adultery. If someone does that and the slave girl gets involved in adultery because of the compulsion exercised by her owner, then Allah Ta’ ala will pardon her sin and that sin will be passed on to the one who had forced her. (Mazhari).
 
 ## Personal Reflections
+
+

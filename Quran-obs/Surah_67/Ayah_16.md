@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tamūru
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? ءَاَمِنْتُمْ مَّنْ فِي السَّمَاۗءِ اَنْ يَّخْسِفَ بِكُمُ الْاَرْضَ فَاِذَا هِيَ تَمُوْرُ (Have you become fearless of Him who is in the sky if He makes you sink into the earth, and it starts trembling at once?...67:16).
@@ -133,3 +121,5 @@ Allah says,
 The next verse warns people of another type of punishment:
 
 ## Personal Reflections
+
+

@@ -72,18 +72,6 @@ word_by_word:
     transliteration: mus'tahziūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when they meet those who believe, they say: "We believe," but when they are alone with their Shayatin (devils), they say: "Truly, we are with you; verily, we were but mocking. As we have seen, the Surah Al-Baqarah opens with the declaration that the Holy Qur'an is beyond all doubt.
@@ -231,3 +219,5 @@ Removal of a doubt
 We may also dispel a misunderstanding which often arises - and is more often made to arise with an ulterior motive - with regard to the famous dictum in the Hadith and Fiqh (Islamic Jurisprudence) that the 'people of the Ka'bah' کعبہ (Ahl al-Qiblah), that is, those who turn towards the Ka'bah کعبہ in offering prescribed Salah نماز cannot be branded as infidels. The verse under discussion clearly defines the meaning of the phrase, Ahl al-Qiblah. The term pertains only to those who do not deny any of the basic essential doctrines and commandments of Islam which are called the Daruriat ضروریات (essentials). For that matter even the hypocrites mentioned in the Holy Qur'an used to offer their prayers exactly as the Muslims did; but turning towards Ka'bah کعبہ while praying was not taken to be sufficient to make them acceptable as true Muslims, simply because they did not have faith in all the essentials of Islam as the blessed Companions did.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-shiʿ'rā
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And that to your Lord is the End (42)And that it is He Who makes laugh, and makes weep (43)And that it is He Who causes death and gives life (44)And that He creates the pairs, male and female (45)From Nutfah when it is emitted (46)And that upon Him is another bringing forth (Resurrection)(47)And that it is He Who Aghna and Aqna (48)And that He is the Lord of Ash-Shi'ra (49)And that it is He Who destroyed the former 'Ad (50)And Thamud.
@@ -143,3 +131,5 @@ Allah the Exalted said,
 وَأَنَّهُ هُوَ رَ‌بُّ الشِّعْرَ‌ىٰ (and that He is the One who is the Lord of Sirius ...53:49) The word shi` ra with the diacritical symbol kasrah under the letter shin is the name of a star, called Sirius which is behind Jauza'. Some of the Arab tribes worshipped the mighty star, Sirius, because they regarded it as a source of good or bad luck for them. Allah mentions this star in particular in order to refute their false notion and to affirm that He is the Lord and Master of this star as well, although He is the Creator, Master and Lord of all the stars, heavens and the earth.
 
 ## Personal Reflections
+
+

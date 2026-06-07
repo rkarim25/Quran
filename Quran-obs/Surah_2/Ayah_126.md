@@ -131,18 +131,6 @@ word_by_word:
     transliteration: l-maṣīru
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 126, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (cont.) And We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (t… Sayyidna Ibrahim (علیہ السلام) always carried out the commandments of Allah without losing a moment, and was ready to make all kinds of sacrifices in His way, whether they involved worldly goods, or wife and children, or his own likes and dislikes.
@@ -576,3 +564,5 @@ The point becomes all the more clear if we consider the word Thamarat (plural of
 Verse 126 also provides an example of the rectitude of Sayyidna Ibrahim (علیہ السلام) The first phrase of his prayer for the well-being and prosperity of the people of Makkah seems to suggest that he wished to include the infidels as much as the faithful. But earlier when he had prayed for all his descendants without making any distinction between the faithful and the infidels (as reported in Verse 124), Allah had answered that the prayer would be granted in the case of the faithful, but not in the case of the unjust - that is, mushrikin مشرکین (associators). On that occasion, he had prayed for the position of imamah (leadership). But the fear of Allah and the solicitude for being totally obedient to Him was so deeply ingrained in the heart of "the Friend of Allah" that even in praying for the prosperity of his people the earlier proviso came to his mind, and he at once added a rejoinder to the effect that he was praying only for the faithful. Allah was pleased with his rectitude, and told him that the worldly prosperity would be given to the disbelievers too, but that in the other world the faithful would be the only ones to prosper, while the disbelievers would receive nothing more than the punishment due to them.
 
 ## Personal Reflections
+
+

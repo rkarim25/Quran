@@ -63,18 +63,6 @@ word_by_word:
     transliteration: nuk'ran
 ---
 
-## Context
-
-To understand **The Divorce** (At-Talaq) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Abdullah bin Masud has Pointed out, and the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And many a town revolted against the command of its Lord and His Messengers; and We called it to a severe account, and We shall punish it with a horrible torment (8)So it tasted the evil result of its affair, and the consequence of its affair was loss (9)Allah has prepared for them a severe torment. فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُّكْرً‌ا (so We called them to a severe account, and punished them with an evil punishment...65:8).
@@ -160,3 +148,5 @@ Commentary
 فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُّكْرً‌ا (so We called them to a severe account, and punished them with an evil punishment...65:8). The severe account and evil punishment of nations mentioned in this verse refers to what will happen in the Hereafter. However, the past tense has been employed presumably to indicate the occurrence of these events is as certain as if it has already been materialised. [ Ruh ]. The other possibility is that the hisab or 'account' in this context does not refer to interrogation, but to the determination of punishment, (in which case it may refer to the punishment faced by the infidels right here in this world.) Another possibility is that the 'severe account' will though take place in the Hereafter, it has already been recorded and is being recorded on daily basis in the ledger of deeds and is therefore described as 'called them to a severe account'. In this interpretation, the 'punishment' refers to the past nations who were destroyed by Divine punishment in this world because they defied Allah's and His Messengers' commandments. In this case, only the next statement أَعَدَّ اللَّـهُ لَهُمْ عَذَابًا شَدِيدًا (Allah has prepared for them a severe punishment...10) would refer to the terrible punishment of the Hereafter.
 
 ## Personal Reflections
+
+

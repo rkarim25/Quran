@@ -20,18 +20,6 @@ word_by_word:
     transliteration: kal-muh'li
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Day that the sky will be like the Al-Muhl (8)And the mountains will be like 'Ihn (9)And no friend will ask a friend (10)Though they shall be made to see one another, the criminal would desire to ransom himself from the punishment of that Day by his children (11)And his wife and his brother (12)And his Fasilah who sheltered him (13)And all that are in the earth, so that it might save him (14)By no means! إِنَّهُمْ يَرَ‌وْنَهُ بَعِيدًا وَنَرَ‌اهُ قَرِ‌يبًا (They see it far off, and We see it near....70:6-7).
@@ -133,3 +121,5 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 إِنَّهُمْ يَرَ‌وْنَهُ بَعِيدًا وَنَرَ‌اهُ قَرِ‌يبًا (They see it far off, and We see it near....70:6-7). In this context, the expressions 'far off and 'near' do not refer to time or space, but 'far off in terms of possibility and occurrence. The verse purports to describe that the pagans see the occurrence of Resurrection as impossible, and Allah sees its occurrence not only possible, but a certain reality.
 
 ## Personal Reflections
+
+

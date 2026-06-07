@@ -80,18 +80,6 @@ word_by_word:
     transliteration: tafʿalūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day on which the Trumpet (Şūr) will be blown – and all who are in the heavens and all who are on the earth, will be terrified except him whom Allah wills. And you see the mountains (at present) taking them as fixed, while they will fly like the flight of clouds - 27:88 The word تَرَ‌ى in the beginning of this verse is used in Arabic for both present and future tense.
@@ -223,3 +211,5 @@ An act of Allah who has perfected every thing. - 27:88
 Sun' means skillful act, and 'itqan' means to make perfect and firm. Apparently this sentence is related to all the preceding subjects wherein Allah Ta` ala's omnipotence and marvelous creations are described, where the alteration of day and night is mentioned, and the blowing of Sur and resulting conditions of the Doomsday are related. It is to emphasize that all these situations should not amaze and astonish any one, because their Creator is not a man or an angel having limited knowledge and power, but the Lord of all the worlds. But if this sentence is read as referring only to the adjacent preceding sentence تَرَ‌ى الْجِبَالَ تَحْسَبُهَا جَامِدَةً (And you see the mountains (at present) taking them as fixed - 27:88) then it would mean that the phenomenon about the mountains, that they look stationary, whereas in reality they are moving, is not something astonishing, because all these happenings are not beyond the power of Allah Ta` ala, who is All Powerful.
 
 ## Personal Reflections
+
+

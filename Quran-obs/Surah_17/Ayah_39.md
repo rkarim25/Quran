@@ -81,15 +81,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This is (part) of Al-Hikmah (wisdom) which your Lord has revealed to you. And set not up with Allah any other god lest you should be thrown into Hell, blameworthy and rejected (from Allah's mercy)(39)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -126,3 +118,5 @@ A gist of Torah in fifteen verses
 Sayyidna ` Abdullah ibn ` Abbas ؓ said that the commandments of the entire Torah have been reduced to fifteen verses of Surah Bani Isra'il. (Mazhari)
 
 ## Personal Reflections
+
+

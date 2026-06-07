@@ -58,18 +58,6 @@ word_by_word:
     transliteration: tuf'liḥūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! In verses previous to those cited above, the Islamic Prescribed Punishment of robbery and rebellion, as well as the details of injunctions relating to them, were mentioned while the Prescribed Punishment for theft is coming up after three verses later.
@@ -171,3 +159,5 @@ It is reported that the Holy Prophet ﷺ had himself taught a blind Sahabi to pr
 Moving on to the second (36) and the third (37) verses, one notices the manner in which the grave curse of Kufr (disbelief), Shirk (the associating of partners in the Divinity of Allah) and sin has been pointed out. It is so poignant that even a little reflection on it could bring an instant revolution in the lives of men and women of such persuasion compelling them to abandon all Kufr and Shirk and sin. To explain the curse of sinful living a little further, it can be said that sins in which one gets involved usually is because of personal desires and needs or for the desires and needs of family and children. Since their Fulfillment comes through an increase in wealth and property, one goes after amassing wealth and property without making any distinc-tion between what is Halal (lawful) and what is Haram (unlawful) in it. In these verses, Almighty Allah has censured the acquisition mania of such people which will prove to be futile in the ultimate analysis because its cure lies in realizing that things of comfort collected to satisfy a short lived span of life by working hard day and night still remain unattained. More and more stays to be the order of every other day in life. What begins must end and this race of gold and greed will also end when the punishment of the Doomsday will appear in sight and, at that time, if these people were to offer all they had collected in the mortal world, wealth and property, things and things of comfort, taste and value, offer all of it in return for their release from the punishment, then, this would not be possible anymore. Even if the wager is increased higher, suppose everything of value were to be owned by one person, nay, let us say twice as much, and if he were to offer all of it to have his release from the punishment, still then, nothing would be accepted from him and he will not have his deliverance from the punishment of the Hereafter.
 
 ## Personal Reflections
+
+

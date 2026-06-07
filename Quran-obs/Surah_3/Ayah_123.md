@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 123, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (When two parties from among you were about to lose heart) was revealed about us, [the two Muslim tribes of] Bani Harithah and Bani Salamah. I (or we) would not be pleased if it was not revealed, because Allah said in it,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -165,3 +157,5 @@ The expression وَأَنتُمْ أَذِلَّةٌ translated as 'when you wer
 The verse ends with the statement: فَاتَّقُوا اللَّـهَ لَعَلَّكُمْ تَشْكُرُ‌ونَ (So, fear Allah, that you may be grateful). This may remind one of the many places in the Holy Qur'an where Taqwa (fear of Allah) and Sabr (patience) have been prescribed as a security shield against the machinations of the hypocrites and the harmful effects of hostile enemies. Right here, in these two behaviour models, there lies the secret of an entire organized struggle, and clear victory, that comes in its wake. As mentioned elsewhere, Taqwa and Sabr have not been mentioned here, in conjunction. Instead, Taqwa has been considered sufficient for, in reality, Taqwa is such a comprehensive human attribute that صبر Sabr too gets to be included therein.
 
 ## Personal Reflections
+
+

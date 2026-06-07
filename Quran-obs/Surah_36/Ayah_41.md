@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-mashḥūni
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And an Ayah for them is that We bore their offspring in the laden ship (41)And We have created for them of the like thereunto, on which they ride (42)And if We will, We shall drown them, and there will be no shout for th… In verse 41 and 42, it was said: وَآيَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّ‌يَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ وَخَلَقْنَا لَهُم مِّن مِّثْلِهِ مَا يَرْ‌كَبُونَ (And a sign for them is that We boarded their children at the loaded ship, and created for them things similar to it on which they ride.).
@@ -107,3 +95,5 @@ Allah tells us: another sign for them of His might and power is that He has subj
 In verse 41 and 42, it was said: وَآيَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّ‌يَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ وَخَلَقْنَا لَهُم مِّن مِّثْلِهِ مَا يَرْ‌كَبُونَ (And a sign for them is that We boarded their children at the loaded ship, and created for them things similar to it on which they ride.). Mentioned earlier to these verses were manifestations of Divine power and wisdom in what was created on the earth and in the heavens in that order. In the present verses, Divine power over the sea and its adjuncts has been mentioned. It was said that Allah Ta’ ala has made heavily laden boats and ships capable of sailing on the surface of the waters and reach distant places without getting drowned in route. Then, it was said in the verse that "We boarded their children at the loaded ship" - although, those who embarked the Ark were these very people. Perhaps, children were mentioned for the reason that one's children and family place a great burden of responsibility on parents, particularly when unable to move around. Thus, the sense of the verse is to emphasize that it is not only they who were riding the boat, but there also were young children and aged men and women and their belongings with them. The boat carried both, people and their things. In the verse following immediately (42), it was said: خَلَقْنَا لَهُم مِّن مِّثْلِهِ مَا يَرْ‌كَبُونَ (and created for them things similar to it on which they ride.- 36:42). It means that human beings have not only been provided with boats and ships that serve as rides for themselves and carry their things, but Allah has also created other rides like the boat. From this, people of Arabia have taken it to mean the ride of camels as habitually familiar to them, particularly so, because the camel is a carrier of things. It takes heavy loads across countries, therefore, the Arab called camels: The Boat of the Land.
 
 ## Personal Reflections
+
+

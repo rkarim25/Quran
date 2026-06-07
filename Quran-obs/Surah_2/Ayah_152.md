@@ -29,18 +29,6 @@ word_by_word:
     transliteration: takfurūni
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 152, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-142-152 In this portion, practical measures have been prescribed to enable the Muslims to discharge the heavy responsibilities of the leadership that had been entrusted to them for the promulgation of Guidance.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Similarly (to complete My blessings on you), We have sent among you a Messenger (Muhammad ﷺ) of your own, reciting to you Our verses (the Qur'an) and purifying you, and teaching you the Book (the Qur'an) and the Hikmah (i. Dhikr ذکر : or "Remembrance" essentially pertains to the heart, but in so far as the tongue is the interpreter of the heart the oral recitation of a Divine Name or a verse of the Holy Qur'an is also described as Dhikr ذکر .
@@ -136,3 +124,5 @@ This explanation is fully supported by a hadith cited by Al-Qurtubi on the autho
 The great Sufi Master Dhu al-Nun al-Misri has said that the man who remembers Allah in the full sense of the term forgets everything else, and that, in reward of such a total absorption, Allah Himself takes care of all his concerns, and grants him something far more valuable for everything he loses. Similarly, the blessed Companion Mu` adh ؓ has remarked that in so far as winning absolution from divine wrath is concerned, no good deed on the part of man can compare with Dhikr ذکر . And in a hadith reported by the blessed Companion Abu Hurayrah ؓ ، Allah Himself says that so long as the servant keeps remembering Him and his lips keep moving in Dhikr ذکر ، Allah is with him (for a more elaborate discussion of the subject, see Dhikrulldh ذکراللہ by the author).
 
 ## Personal Reflections
+
+

@@ -123,18 +123,6 @@ word_by_word:
     transliteration: ʿazīzun
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name The Surah takes its title from the sentence, Wa anzalna' l-hadida , of verse 25 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed We have sent Our Messengers with clear proofs, and revealed with them the Scripture and the Mizan that mankind may keep up justice. Establishing Justice: The Real Purpose of sending Prophets and Divine Books We have indeed sent Our messengers with clear proofs, and sent down with them the Book and the Balance, so that people may uphold justice.
@@ -242,3 +230,5 @@ Another point of consideration here is that the Holy Qur'an has set forth two fa
 وَلِيَعْلَمَ اللَّـهُ مَن يَنصُرُ‌هُ وَرُ‌سُلَهُ بِالْغَيْبِ (...and [ We did it ] so that Allah knows the one who helps Him and His messengers without seeing ....57:25) Here the conjunction 'and', according to Ruh-ul-Ma’ ani, explains that this subjunctive phrase is conjoined to another subjunctive phrase that is understood in the context: لِيَعْلَمَ (so that it may benefit them) in their trade and industry; so that Allah may legally and outwardly know who will assist Him and His Messenger ﷺ by carrying weapons of war made of iron and fight jihad in defence of His religion'. The restrictive adverbs 'legally and outwardly' have been added because Allah knows everything pre-eternally as He pre-recorded them in the Book of Decrees, and when man performs the action, it is recorded in his Account Book by the angels. In this way, its legal manifestation becomes plainly apparent.
 
 ## Personal Reflections
+
+

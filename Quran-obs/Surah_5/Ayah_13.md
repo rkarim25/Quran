@@ -139,18 +139,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed, Allah took the covenant from the Children of Israel (Jews), and We appointed twelve leaders among them. The first verse is telling us that Bani Isra'il were heedless to clear instructions given to them.
@@ -280,3 +268,5 @@ The result of the intellectual and spiritual punishment mentioned above was that
 Upto this point, the description of the misconduct of the Ban' Isra'il was obviously demanding enough that the Holy Prophet ﷺ should hold them in contempt and never allow them to come to him. Therefore, in the last sentence of this verse, the instruction given to the Holy Prophet ﷺ was فَاعْفُ عَنْهُمْ وَاصْفَحْ ۚ إِنَّ اللَّـهَ يُحِبُّ الْمُحْسِنِينَ (So for-give them and forego. Indeed, Allah loves the good-in-deed). It means that, despite their peculiar condition being what it is, it is better that the Prophet of Islam abstains from doing what is otherwise quite natural. In other words, he should not treat them with contempt or hatred because after knowing what they are - hardhearted and cold - the chances that any good counsel would affect them are very remote. Granted. But, toleration and civility of morals are wonder virtues which could probe out some sense and sensibility from out of such in-sensate people. Even if this effort to drive some sense into them fails, something worth doing still remains - keeping one's own matters and morals correct is, after all, quite necessary. Allah Almighty likes what is done with good grace - and it will definitely bring Muslims closer to Him.
 
 ## Personal Reflections
+
+

@@ -98,15 +98,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 125, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah commands His Messenger Muhammad ﷺ to invite the people to Allah with Hikmah (wisdom). Ibn Jarir said: "That is what was revealed to him from the Book and the Sunnah."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -419,3 +411,5 @@ At this point ends our submission relating to Da'wah and its principles and etiq
 After that, we can move on to explain the last part of verse 125: إِنَّ رَ‌بَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ ۖ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ (Surely, your Lord knows best the one who strays from His way, and He knows best the ones who are on the right path). This statement has been made to comfort those who carry the Call of their Faith because one is naturally shocked when the addressee does not accept the truth presented despite that all rules of Da'wah have been observed. And there are occasions when this could produce another effect. When one sees no benefit coming out of Da'wah, he can become disappointed, even leave the work itself. Therefore, in this sentence, it was said:' Your duty is only to invite people to the Truth in accordance with its correct principles. Beyond that, its acceptance or rejection is something you have nothing to do with, nor is that one of your responsibilities. That falls in the domain of Allah alone. He knows who will remain astray and who will stand guided. You should not worry about it. Go on doing your duty. Do not lose hope. Do not despair.' This tells us that this sentence too is really a complement of the etiquette of Da'wah.
 
 ## Personal Reflections
+
+

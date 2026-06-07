@@ -118,18 +118,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And there entered with him two young men in the prison. Mentioned in the verses cited above is a supplementary event relating to the story of Sayyidna Yusuf (علیہ السلام) .
@@ -189,3 +177,5 @@ Worth pondering on are many Ahkam, Masa'il, useful lessons and elements of guida
 Another view of this problem is that Allah Ta` ala does not like His great prophets making efforts to achieve everything permissible and go on to make a human being the medium of their release. This is so because the absence of any medium between them and Allah Ta ala spells out the true identity of prophets. Perhaps, that was why this prisoner forgot about the message given by Sayyidna Yusuf (علیہ السلام) which made him stay in the prison for many more years. In a Hadith too, the Holy Prophet has pointed out in this direction.
 
 ## Personal Reflections
+
+

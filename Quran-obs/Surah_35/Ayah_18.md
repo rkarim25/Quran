@@ -147,18 +147,6 @@ word_by_word:
     transliteration: l-maṣīru
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O mankind! Verse 18: وَلَا تَزِرُ‌ وَازِرَ‌ةٌ وِزْرَ‌ أُخْرَ‌ىٰ (And no bearer will bear the burden of any other person) means that, on the Day of Judgment, no one will be able to bear the burden of another person's sins.
@@ -222,3 +210,5 @@ Explaining this verse, Sayyidna ` Ikrimah ؓ said: On that Day, a father would s
 Sayyidna ` Ikrimah ؓ said that this is what the verse: لَا تَزِرُ‌ وَازِرَ‌ةٌ وِزْرَ‌ أُخْرَ‌ىٰ (And no bearer will bear the burden of any other) means. Then he said that the noble Qur'an has taken up this subject in several of its verses. At one place, it has said: لَّا يَجْزِي وَالِدٌ عَن وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ شَيْئًا that is, on that Day, neither a father would be able to have his son be spared from the punishment, nor would a son be able to do that for his father (31:33). The essential sense is that no one will save another person by carrying the burden of his sins over one's own shoulders. However, the matter of intercession (shafa'ah) is dierent. Similarly, in another verse, it was said: يَوْمَ يَفِرُّ‌ الْمَرْ‌ءُ مِنْ أَخِيهِ وَأُمِّهِ وَأَبِيهِ that is, on that Day, one will run from his brother and his mother and father and his wife and children (80:34, 35). The purpose of running is no other but that he would be in fear, lest these people try to pass on the burden of their sins on him or come up with a request for some of his good deeds. (Ibn Kathir)
 
 ## Personal Reflections
+
+

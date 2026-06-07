@@ -42,18 +42,6 @@ word_by_word:
     transliteration: ruḥ'man
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 81, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And as for the boy, his parents were believers, and we feared he would oppress them by rebellion and disbelief. In verse 81, it was said: فَأَرَ‌دْنَا أَن يُبْدِلَهُمَا رَ‌بُّهُمَا خَيْرً‌ا مِّنْهُ زَكَاةً وَأَقْرَ‌بَ رُ‌حْمًا " We, therefore, wished that their Lord would replace him with someone better than him in piety [ having good deeds and morals ] and more akin to affection [ fulfilling due rights of the parents ]." It will be noticed that the form used in this situation is plural: خَشِينَا (we apprehended) and: أَرَ‌دْنَا (we wished).
@@ -101,3 +89,5 @@ It can be answered by saying that it was there in Divine knowledge with the appe
 Ibn Abi Shaibah, Ibn al-Mundhir and Ibn Abi Hatim have reported from Ibn ` Atiyyah that Allah Ta` ala had blessed the parents of the slain boy with a girl in his place who became the mother of a prophet. And, as in a report from Sayyidna Ibn ` Abbas ؓ she gave birth to two prophets. Some other reports say that through the prophet she gave birth to, Allah Ta` ala gave guidance to a large community.
 
 ## Personal Reflections
+
+

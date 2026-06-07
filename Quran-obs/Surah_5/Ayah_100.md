@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad recorded that 'Ali said, "When this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -230,3 +222,5 @@ Of course, Islam too has declared numerical majority to be decisive on some occa
 At the end of the verse it was said: فَاتَّقُوا اللَّـهَ يَا أُولِي الْأَلْبَابِ (So, fear Allah, O men of understanding). By addressing the men of understanding this verse indicates that it is not the attitude of the men of wisdom to be attracted to something because of its numerical or quantitative abundance, or to take the majority as the touchstone of what is true and correct. Intelligent people would not do something like that. Therefore, it is to caution all people of understanding against these at-titudes that they have been commanded with: فَاتَّقُوا اللَّـهَ (fear Allah).
 
 ## Personal Reflections
+
+

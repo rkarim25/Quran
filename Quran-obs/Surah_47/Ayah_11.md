@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **Muhammad** (Muhammad) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah in His own sacred place, who kills a person who is not trying to kill him, or who kills because of Jahiliyyah vengeance. Allah then revealed to His Prophet ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -159,3 +151,5 @@ Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah
 وَأَنَّ الْكَافِرِ‌ينَ لَا مَوْلَىٰ لَهُمْ (As for the disbelievers, there is no supporter them. - 47:11). The word for "mawla" is used in several different senses. One of its meanings is "protector" or "supporter". This is the sense in which it is used here. Another sense of the word is "owner/master". In Qur'an [ 10:30] we come across: وَرُ‌دُّوا إِلَى اللَّـهِ مَوْلَاهُمُ الْحَقِّ "They will be returned to Allah, their Master, the Truth" (10:30). In this phrase, Allah is called the "mawla" of the infidels, that is, their Master / Owner because the mastership / ownership of Allah extends over all - the believers as well as the non-believers; without any exclusion.
 
 ## Personal Reflections
+
+

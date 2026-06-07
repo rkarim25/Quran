@@ -58,18 +58,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (It will be said): "And O you the criminals! In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ (Did I not direct you, 0 children of 'Adam, that you must not worship the Shaitan, (because) he is an open enemy for you,- 36:60).
@@ -119,3 +107,5 @@ Allah tells us what the end of the disbelievers will be on the Day of Resurrecti
 In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ (Did I not direct you, 0 children of 'Adam, that you must not worship the Shaitan, (because) he is an open enemy for you,- 36:60). In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn). But, the question remains that the disbelievers did not generally worship the Shaitan. They worshipped idols or other things. Therefore, how does this blame fall on them? The answer is that submitting before some entity in the absolute sense and to obey that entity in word and deed in everything and under all conditions is nothing but worship. Since these people always followed Shaitanic teachings, therefore, they were called the worshipers of the Shaitan - as said in Hadith that a person who, driven by love for money or spouse, starts doing everything that would increase wealth or please the spouse, even at the cost of the displeasure of Allah, is an obedient servant of the silver coin and the obedient servant of the spouse (Abd-ud-dirham, Abd-uz-zawjah).
 
 ## Personal Reflections
+
+

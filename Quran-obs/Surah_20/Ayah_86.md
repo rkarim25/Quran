@@ -113,18 +113,6 @@ word_by_word:
     transliteration: mawʿidī
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. أَلَمْ يَعِدْكُمْ رَ‌بُّكُمْ وَعْدًا حَسَنًا (Did your Lord not promise you a good promise?
@@ -210,3 +198,5 @@ In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that th
 أَمْ أَرَ‌دتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّ‌بِّكُمْ (Or did you wish that wrath from your Lord befalls you? - 20:86) But since neither of the two eventualities mentioned above could be contemplated, the only conclusion was that they knowingly and of their own choice invited the wrath of Allah.
 
 ## Personal Reflections
+
+

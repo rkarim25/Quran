@@ -135,18 +135,6 @@ word_by_word:
     transliteration: l-kāfirīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-1-37 ), was revealed in Zil-Qa'adah A.H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The postponing (of a Sacred Month) is indeed an addition to disbelief: thereby the disbelievers are led astray, for they make it lawful one year and forbid it another year in order to adjust the number of months forbidden by Allah, and make such forbidden ones lawful. The second verse (37) also refers to this very custom of Jahiliyyah by saying: اِنَّمَا الںَّسِٓیُ زِیَادَۃُ فِی الکُفرِ (...
@@ -198,3 +186,5 @@ The verses cited above prove that the order of months and the names by which the
 The month intercalated to complete the count of years has also been considered by some as impermissible under this verse. But, that is not correct because the system of reckoning under which the intercalation of a month is made has nothing to do with the laws of the Shari’ ah of Islam. The people of Jihiliyyah changed these religious laws by adding to the lunar and legal months, therefore, they were censured. As for the practice of intercalation, it does not affect Islamic legal injunctions, therefore, it is not included under this prohibition.
 
 ## Personal Reflections
+
+

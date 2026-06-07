@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Consultation** (Ash-Shuraa) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came before you.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -183,3 +175,5 @@ A'ishah, may Allah be pleased with her, said, "I saw him receiving the revelatio
 These angels in the heavens proclaim the perfection of their Lord and utter His praises. They also ask for forgiveness of the dwellers of this earth who do not give what is due to Allah's greatness, rather indulge in associating others with Him and in infidelity and hence become liable to suffer scourge. Their asking for forgiveness for disbelievers is for a limited period only and is a supplication that some severe worldly scourge may not befall the humans which may destroy all of them; their safety against ordinary punishments of this world and the real scourge of the Hereafter are not included in this supplication. And Allah, the Almighty accepts this supplication, and saves them from the general scourge in this world. It must be understood thoroughly that Allah and Allah alone is the forgiver and Merciful although this forgiveness of infidels is for a limited duration and is limited to this world only.
 
 ## Personal Reflections
+
+

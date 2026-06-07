@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Inevitable** (Al-Waqi'ah) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ Some Rulings about touching the Holy Qur’ an
 (4) Scholars have ruled it which is proved by this very verse with grater force that a person in the state of janabah (sexual defilement) and a woman in the state of menstruation or postpartum bleeding cannot recite it, even from memory until bath has been taken, because if it is obligatory to honour the written letters of the Holy Qur'an by touching them only in the state of purity, its spoken words deserve the same honour with greater importance. The requirement of this honour should have been that even in the state of minor impurity a person should not be allowed to recite the Holy Qur'an. But Sayyidna Ibn ` Abbas and ` Ali ؓ report that the Holy Prophet ﷺ recited the Qur'an without wudu'. On this basis, the jurists have ruled that it is permissible to recite it without wudu'. (But in the case of major impurity the rule will remain intact). [ Mazhari ]
 
 ## Personal Reflections
+
+

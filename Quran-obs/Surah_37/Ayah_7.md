@@ -24,18 +24,6 @@ word_by_word:
     transliteration: māridin
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, We have adorned the near heaven with the stars (6)And to guard against every rebellious Shaytan (7)They cannot listen to the higher group for they are pelted from every side (8)Outcast, and theirs is a constant t… In the last four verses, (37:7-10): وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِ‌دٍ ﴿7﴾ لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ ﴿8﴾ دُحُورً‌ا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ ﴿9﴾ إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ ﴿10﴾ and [ have made them ] a security against every rebellious shaitan [ shaitan ].
@@ -119,3 +107,5 @@ At this place, by mentioning the skies, the stars and the meteors, two objective
 In addition to that, also refuted here is the objection of those who used to degrade the Divine revelation (wahy) sent to the Holy Prophet ﷺ as the predictions of the soothsayers. These verses clearly indicate that the noble Qur'an rejects the soothsayers for the sum-total of their information is what they receive through the shaitans. And the Qur'an says that the shaitans do not have access to the higher echelons. They cannot bring back the true information out of what remains in the realm of the Unseen (alghayb). When the Qur'an states this as its creed relating to soothsaying, how can it become soothsaying as such? Thus, these verses carry clear hints to the subject of Allah's Oneness and the veracity of the mission of the prophet. Later on, through the example of these very cosmic creations, the belief in the Hereafter has been proved.
 
 ## Personal Reflections
+
+

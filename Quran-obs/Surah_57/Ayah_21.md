@@ -110,18 +110,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Know that the life of this world is only play and amusement, pomp and mutual boasting among you, and rivalry in respect of wealth and children. سَابِقُوا إِلَىٰ مَغْفِرَ‌ةٍ مِّن رَّ‌بِّكُمْ وَجَنَّةٍ عَرْ‌ضُهَا كَعَرْ‌ضِ السَّمَاءِ وَالْأَرْ‌ضِ (Compete each other in proceeding towards forgiveness from your Lord and to Paradise, the width of which is like the width of the sky and the earth ...57:21) The competition or race referred to in this verse may have either of the two meanings: [ 1] No one has a guarantee for the continuance of his life, health and strength.
@@ -213,3 +201,5 @@ The verse under comment defines that Paradise will be as wide as the heaven and 
 ذَٰلِكَ فَضْلُ اللَّـهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّـهُ ذُو الْفَضْلِ الْعَظِيمِ (That is the bounty of Allah that He gives to whomever He wills, and Allah is the Lord of the great bounty...57:21) The foregoing verse enjoined upon us to march forth and compete each other in marching to Paradise and its bounties. This could give rise to the thought that Paradise and its eternal pleasures and delights are the direct result of our actions. This verse clarifies the point that good actions are not necessarily the sufficient cause for the attainment of Paradise. Man's life-long actions cannot be an adequate price even for the bounties he has received in this world, let alone the everlasting bounties of Paradise and its eternal blessings. Anyone who enters Paradise will do so out of Allah's grace and mercy, as is mentioned in a Prophetic Hadith, recorded in Sahilhain on the authority of Sayyidna Abu Hurairah ؓ who reports that the Messenger of Allah ﷺ has said: "No one will attain salvation by means of his actions only." The Companions enquired: "Not even you, 0 Messenger of Allah?" He replied: "No, not even I will attain Paradise because of my actions, unless Allah bestows His grace and compassion on me." [ Mazhari ]
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: lillahi
 ---
 
-## Context
-
-To understand **The Cleaving** (Al-Infitar) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Infitar is a **Makkah** surah—revealed as the 82nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah and the Surah At-Takwir closely resemble each other in their
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the Abrar (the righteous believers) will be in Delight (13)And verily, the wicked will be in the blazing Fire (Hell)(14)Therein they will enter, and taste its burning flame on the Day of Recompense (15)And they w… وَمَا هُمْ عَنْهَا بِغَائِبِينَ (and they will not [ be able to ] keep away from it...82:16) The inmates of Hell will never be able to get away from it, because the torment will be eternal, as the concluding verse of the Surah asserts: لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا (A Day when no one [ with his own free will in the Plain of Gathering ] will have power to do anything for another!
@@ -133,3 +121,5 @@ Surah Al-Infitar
 Ends here
 
 ## Personal Reflections
+
+

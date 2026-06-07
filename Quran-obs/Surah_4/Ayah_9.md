@@ -67,18 +67,6 @@ word_by_word:
     transliteration: sadīdan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 There is a share for men and a share for women from what is left by parents and those nearest in relation, whether the property be small or large – a legal share (7)And when the relatives, and the orphans, and the poor are present at the time of division, give them from the property, and speak to them words of kindness and justice (8)And let those (executors and guardians) have the same fear in their minds as they would have for their own, if they had left weak offspring behind.
@@ -180,3 +168,5 @@ The third verse (9) addresses Muslims in general exhorting them to make it certa
 Also included in the general sense of the verse is that guardians of the orphaned children should protect their property and give it to them in full when they become mature. They should take pains to accomplish this mission of trust and never let the least negligence on their part affect their duty; if they wish that others treat their children well after them, without causing them any harm or injustice, then, they should treat the children of others - the orphans - in the same manner.
 
 ## Personal Reflections
+
+

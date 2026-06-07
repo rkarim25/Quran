@@ -62,18 +62,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 74, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-74-90 Another proof of his Prophethood is the Book, which has been sent down to him by Allah, for its teachings show the right guidance in regard to creed and practice.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Ibrahim said to his father Azar: "Do you take idols as gods? Previous verses contained a description of the call given by the Holy Prophet ﷺ in which he addressed the disbelievers of Arabia and appealed to them that they should forsake the worship of idols and believe in a single object of worship: Allah.
@@ -223,3 +211,5 @@ This tells us that the two-nation theory which brought Pakistan into existence -
 The brotherhood of Sayyidna Ibrahim and his father were involved in a two-fold Shirk: They worshipped idols as well as stars. So, Sayyidna Ibrahim (علیہ السلام) debated both issues with his father and with his people.
 
 ## Personal Reflections
+
+

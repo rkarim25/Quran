@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yajmaʿūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O mankind! 4.
@@ -117,3 +105,5 @@ Special Note
 At this point it is worth our attention that there is another verse of the Qur'an which, in terms of its outward literal sense, seems to indicate that this world is just no place for any highly stimulated expression of joy and merriment. It was said: لَا تَفْرَ‌حْ ۖ إِنَّ اللَّـهَ لَا يُحِبُّ الْفَرِ‌حِين (Do not exult. Indeed, Allah does not like the exultant - Al-Qasas 28:76). The word: لَا تَفْرَ‌حْ (la tafrah) translated here as ` do not exult' means rejoicing in triumph or intoxication. But, in the verse under study (58), the command to rejoice appears in the imperative mood. One answer for this seemingly apparent contradiction is that the place where rejoicing has been prohibited is a place where rejoicing relates to the fleeting enjoyments of the mortal world. And the place where rejoicing is commanded is a place where rejoicing is related to the grace and mercy of Allah Ta` ala. Then, there is yet another difference here. Wherever rejoicing is prohibited, it does not refer to rejoicing in the absolute sense. Instead, it means getting euphoric and intoxicated in exultation and rejoicing. And wherever permitted, it means rejoicing in an absolute sense.
 
 ## Personal Reflections
+
+

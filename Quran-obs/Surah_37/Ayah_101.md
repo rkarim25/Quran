@@ -16,18 +16,6 @@ word_by_word:
     transliteration: ḥalīmin
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 101, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he said: "Verily, I am going to my Lord. Thus, by saying 'forbearing' in: فَبَشَّرْ‌نَاهُ بِغُلَامٍ حَلِيمٍ (So, We gave him the good news of a forbearing boy- 101), it was indicated that this newborn would demonstrate such patience, control and forbearance in his life as would be exemplary in the world.
@@ -179,3 +167,5 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 Thus, by saying 'forbearing' in: فَبَشَّرْ‌نَاهُ بِغُلَامٍ حَلِيمٍ (So, We gave him the good news of a forbearing boy- 101), it was indicated that this newborn would demonstrate such patience, control and forbearance in his life as would be exemplary in the world. The birth of this son had a background of its own. When Sayyidah Sarah ؓ realized that she is not being blessed with children, she took herself to be barren. On the other hand, the Pharaoh had given his daughter named Hajirah ؓ as gift to Sayyidah Sarah ؓ ، so that she could help her in household chores. Sayyidah Sarah ؓ passed on this very Hajirah as gift to Sayyidna Ibrahim (علیہ السلام) who married her. Then the son mentioned here was born to this Hajirah ؓ and he was named Ismail (علیہ السلام) .
 
 ## Personal Reflections
+
+

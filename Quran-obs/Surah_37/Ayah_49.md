@@ -16,18 +16,6 @@ word_by_word:
     transliteration: maknūnun
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th…
@@ -143,3 +131,5 @@ Allah refined the wine of Paradise from the bad effects of the wine of this worl
 8. In verse 49: كَأَنَّهُنَّ بَيْضٌ مَّكْنُونٌ (as if they were hidden eggs). As obvious, the hurs of Jannah have been likened to hidden eggs in this verse. The simile was popularly recognized among the people of Arabia. The egg hidden under feathers remains safe from the pollution, therefore it is always neat and clean. Moreover, its color is yellowish white, which was deemed by the Arabs as the most attractive color for women. Then there are other commentators who say that this simile does not relate to eggs as such, instead, the simile relates to the membrane hidden in the egg, and the sense is that the skin of those women will be as soft as the membrane of the eggs. (Ruh-ul-Ma ani) Allah knows best.
 
 ## Personal Reflections
+
+

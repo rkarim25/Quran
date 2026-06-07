@@ -118,18 +118,6 @@ word_by_word:
     transliteration: l-shākirīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 144, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. Related to the battle of Uhud, these verses recount events which have a particular significance of their own for several reasons.
@@ -295,3 +283,5 @@ And Muhammad is but a messenger, there have been messengers before him. So, if h
 Here, Muslims are being warned that the Messenger of Allah ﷺ . is going to leave this mortal world on one or the other day but they have to hold on to the Faith firmly after him as well, in the same measure as they did during his blessed times. From here, we also come to know that the injury caused to the Holy Prophet ﷺ during that temporary setback and the news of his passing away on the battlefield was concealed divine arrangement through which all that could happen to the noble Companions ؓ after him was revealed during his very life-time so that any slip in their conduct of affairs could be corrected in the very words of the Holy Prophet ﷺ as a result of which it could be ensured that these ardent lovers and devotees of the Messenger of Allah ﷺ do not lose their coolness under exacting conditions, especially when this event of the passing away of the Messenger of Allah ﷺ does actually take place. This is exactly what happened later on when the noble Companions ؓ ، even the greatest among them, were overwhelmed with the severest emotional shock at the time of his passing away. At this juncture, it was Sayyidna Abu Bakr ؓ ، may Allah be pleased with him, who used the authority of Qur'anic verses such as these to explain the situation to them as a result of which all of them were able to accept the truth and control their emotions.
 
 ## Personal Reflections
+
+

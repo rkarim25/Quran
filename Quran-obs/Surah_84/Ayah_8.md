@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yasīran
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest Surahs to be revealed at Makkah. The internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, (So, as for him whose book [ of deeds ] will be given to him in his right hand, he will be called to account in an easy manner, and he will go back to his people joyfully....7-9) This verse describes the condition of the believers.
@@ -185,3 +173,5 @@ At this Sayyidah ` A'ishah ؓ asked, "What is the meaning of the [ following ] v
 This explanation of the Holy Prophet ﷺ clarifies that the deeds of the believers will also be presented before Allah, but by virtue of their faith, not all of their actions will be scrutinised. This is referred to as 'account in an easy manner'. The words 'he will go back to his people joyfully' may be interpreted in one of two ways. This may refer to the Houris who will be his family members in Paradise, or it may refer to his family members in the world who will be present in the Plain of Gathering, and he, after knowing about his success, will impart to them, according to the custom of this life, the welcome news of his achievement. The commentators have mentioned both possibilities in interpreting this sentence. [ Qurtubi ].
 
 ## Personal Reflections
+
+

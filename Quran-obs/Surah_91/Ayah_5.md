@@ -16,18 +16,6 @@ word_by_word:
     transliteration: banāhā
 ---
 
-## Context
-
-To understand **The Sun** (Ash-Shams) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shams is a **Makkah** surah—revealed as the 26th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 15 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. وَالسَّمَاءِ وَمَا بَنَاهَا (and by the sky, and the One who built it...91:5).
@@ -221,3 +209,5 @@ The fifth oath is:
 1. It should be kept in mind that the translation of the text is not based on this construction. It is based on taking 'ma' as mousulah in the sense of 'the one' as adopted by Maulana Thanawi, and explained by the author in the following verse. word taswiyah means, to proportion, balance, perfect. The meaning of this word has been explained in the previous Surah.
 
 ## Personal Reflections
+
+

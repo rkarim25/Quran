@@ -33,18 +33,6 @@ word_by_word:
     transliteration: bimuʿ'jizīna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 134, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And your Lord is Al-Ghani, full of mercy; if He wills, He can destroy you; and in your place make whom He wills as your successors, as He raised you from the seed of other people (133)Surely, that which you are promised, will verily come to pass, and you cannot escape (134)Say: "O my people! After having established in the first verse that Allah is All-Independent (Ghaniyy), Master of Mercy (Dhur-Rahmah) and All-Powerful too, the text carries a warning given to disobedient people: إِنَّ مَا تُوعَدُونَ لَآتٍ…
@@ -150,3 +138,5 @@ After having established in the first verse that Allah is All-Independent (Ghani
 Another method to awaken them from their heedlessness was adopted in the third verse (135) where it was said: قُلْ يَا قَوْمِ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ إِنِّي عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ‌ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ ﴿135﴾ (Say, "0 my people, do at your place (whatever you do) I am to do (in my way). So, you will know for whom is the ultimate abode. Surely, the unjust shall not be successful). This is addressed to the Holy Prophet ﷺ . He is being asked to tell those people of his in Makkah that the choice of not accepting what he is saying is theirs. Let them not accept it, stay as they are and keep on doing what their belief and hostility tell them to do - and he too will keep on doing what his belief tells him to do. In that, there was no loss for him. But, very soon, they will be the ones to find out who will be blessed with the ultimate salvation and success of the Hereafter. And, in this, let them not forget that the Zalim, the unjust, the usurpers of rights, never succeed.
 
 ## Personal Reflections
+
+

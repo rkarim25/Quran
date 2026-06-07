@@ -12,18 +12,6 @@ word_by_word:
     transliteration: kaydan
 ---
 
-## Context
-
-To understand **The Nightcommer** (At-Tariq) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tariq is a **Makkah** surah—revealed as the 36th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 17 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 By the sky which gives rain, again and again (11)And the earth which splits (12)Verily, this is the Word that separates (13)And it is not a thing for amusement (14)Verily, they are but plotting a plot (15)And I am planni… إِنَّهُ لَقَوْلٌ فَصْلٌ (this is a decisive word..86:13) In other words, the Qur'an is truly a Decisive Word that decides between truth and falsehood, and there is no room for any doubt in it.
@@ -95,3 +83,5 @@ Surah At-Tariq
 Ends here
 
 ## Personal Reflections
+
+

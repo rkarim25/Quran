@@ -54,18 +54,6 @@ word_by_word:
     transliteration: yafsuqūna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when Our messengers came to Ibrahim with the glad tidings they said: "Verily, we are going to destroy the people of this town; truly, its people have been wrongdoers. وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ (And [ We sent ] Sayyidna Lut (علیہ السلام) when he said to his people, "Indeed you commit the shameful act - 29:28).
@@ -115,3 +103,5 @@ Commentary
 Out of the three sins mentioned in this verse the first one is most disgusting, which was never committed before in the whole world, and even wild beasts abstain from it. The entire ummah is unanimous on that it is a worse sin than adultery. (Ruh)
 
 ## Personal Reflections
+
+

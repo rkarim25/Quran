@@ -43,18 +43,6 @@ word_by_word:
     transliteration: munkarūna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. Comforting the Messenger of Allah فَقَالُوا سَلَامًا قَالَ سَلَامٌ ("We greet you with salam." He said, "Salam on you." 51:25).
@@ -156,3 +144,5 @@ Comforting the Messenger of Allah
 قَوْمٌ مُّنكَرُ‌ونَ ("[ They are ] unknown people."... 51:25). The word munkar, the letter [م m ] carrying dammah and the letter [ ک k ] carrying fath means "unknown". As sin or sinful work is unknown in Islam, it is also referred to as munkar. The angels came to Holy Prophet Ibrahim (علیہ السلام) in the image of handsome young wonderfully graceful men; therefore he could not recognize them. He thought to himself that these are strangers and said to himself 'They are unknown to me'. Or it is possible that he might have mentioned this to the guests in the form of a question and the purpose might have been to find out who they were.
 
 ## Personal Reflections
+
+

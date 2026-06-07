@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-awalūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… بَلْ قَالُوا أَضْغَاثُ أَحْلَامٍ (they said, [ The Further Qur'an is ] a mixture of hotch-potch dreams.
@@ -176,3 +164,5 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 فَلْيَأْتِنَا بِآيَةٍ (So let him bring to us a sign - 21:5) It means that the unbelievers demanded from the Holy Prophet ﷺ certain specific miracles to be shown as a proof of his being a real Prophet. In response to this demand, Allah Ta` ala said in this verse that the same demand for miracles was also made by the people in the past from other prophets, and when their request was met, it was of no avail. They did not submit to Allah even after witnessing the miracles of their choice. And Allah has decreed that people who do not submit to Him even after they have seen the miracle of their choice are subjected to His wrath even in this world and are destroyed. Allah, in His Divine Mercy and in view of the honoured position of the Holy Prophet ﷺ had granted to his Ummah immunity from the terrible punishment which is the inevitable fate of those people who defy the Will of Allah. It was not, therefore, considered desirable to show them miracles of their choice because if they, like the earlier people, persisted in their unbelief even after seeing those miracles, they too would invite the wrath of Allah Ta` ala.
 
 ## Personal Reflections
+
+

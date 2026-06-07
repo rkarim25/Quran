@@ -63,18 +63,6 @@ word_by_word:
     transliteration: ṣādiqīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 194, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. The Holy Prophet ﷺ has been asked to say to the unbelievers that your false gods are nothing but slaves like you, and being devoid of essential faculties of moving, seeing, hearing and speaking cannot help themselves, far from coming to your help in your need.
@@ -186,3 +174,5 @@ He also said to his father and his people,
 The Holy Prophet ﷺ has been asked to say to the unbelievers that your false gods are nothing but slaves like you, and being devoid of essential faculties of moving, seeing, hearing and speaking cannot help themselves, far from coming to your help in your need. If you are not sure, then "Call them and they should respond to you," and "Call to your associate-gods, then plot against me and allow me no respite."
 
 ## Personal Reflections
+
+

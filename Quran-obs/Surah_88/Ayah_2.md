@@ -16,18 +16,6 @@ word_by_word:
     transliteration: khāshiʿatun
 ---
 
-## Context
-
-To understand **The Overwhelming** (Al-Ghashiyah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ghashiyah is a **Makkah** surah—revealed as the 68th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 26 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The whole
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Reciting Surat Al-A'la and Al-Ghashiyah in the Friday Prayer It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ عَامِلَةٌ نَّاصِبَةٌ (Many faces on that day will be humbled, working hard, exhausted...88:3).
@@ -119,3 +107,5 @@ Sayyidna Hasan Basri رحمۃ علیہ reports that when Sayyidna ` Umar ؓ went
 Many faces on that day will be humbled, 'working hard, exhausted. [ 88:2-3] '
 
 ## Personal Reflections
+
+

@@ -68,18 +68,6 @@ word_by_word:
     transliteration: takulūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle there is indeed a lesson for you. The reason why olive tree has been associated with the Tur mountain is that this tree first grew on that mountain.
@@ -163,3 +151,5 @@ The reason why olive tree has been associated with the Tur mountain is that this
 Then there is a mention of the blessings and the numerous gifts which Allah has provided for the benefitof ankind so that they may ponder and worship Him. The words of the verse are وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَ‌ةً (And indeed there is a sure lesson in the cattle for you - 23:21). The lesson to which this verse refers has been described further in the words نُّسْقِيكُم مِّمَّا فِي بُطُونِهَا (We give you a drink from that which lies in their bellies - 23:21). Some of the ways in which the cattle serve mankind are that they provide milk which is a very clear and nourishing food; every part of their body is put to some use, and their wool, hides, intestines etc. are all utilized, in industries which support a country's economy, the meat of the animals, which are halal (permissible) is a favourite food for all men. وَمِنْهَا تَأْكُلُونَ (and of them you eat - 23:21). And finally they are used, together with ships, as mounts and as means of transporting goods from one place to another.
 
 ## Personal Reflections
+
+

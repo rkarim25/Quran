@@ -71,18 +71,6 @@ word_by_word:
     transliteration: jadīdin
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who disbelieve say: "Shall we direct you to a man who will tell you (that) when you have become fully disintegrated into dust with full dispersion, then you will be created (again) anew? Reported in verse 7: وَقَالَ الَّذِينَ كَفَرُ‌وا هَلْ نَدُلُّكُمْ عَلَىٰ رَ‌جُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِي خَلْقٍ جَدِيدٍ (Shall we point out to you a man...).
@@ -156,3 +144,5 @@ It is obvious that the person alluded to here is no other but the Holy Prophet �
 The word: مُزِّقْتُمْ (when you are totally torn into pieces) is a derivation from: مزقِ (mazq) which means splitting apart and rendering to pieces, and: كُلَّ مُمَزَّقٍ (kulla mumazzaq: (totally torn) means the disintegration of the human body in a manner that all its particles get dispersed separately. Onwards from here, they take up another mode to comment on his statement relating to the Qiyamah.
 
 ## Personal Reflections
+
+

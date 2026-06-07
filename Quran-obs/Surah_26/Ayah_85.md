@@ -24,18 +24,6 @@ word_by_word:
     transliteration: l-naʿīmi
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 My Lord! The word لِسَانَ (lisan, which literally means tongue) is used in this verse in the sense of description and 'for me' means 'for my benefit.
@@ -145,3 +133,5 @@ Dailami has reproduced a narration on the authority of Sayyidna Ibn ` Abbas ؓ w
 Ibn ` Arabi has said that it is evident from this verse that the desire for a righteous deed which results in people's praise is allowed. Imam Ghazzali (رح) has ruled that the love for being praised and the position of respect is permissible under three conditions. One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him. Second, when the object is not to earn false praise against a trait one does not possess, and desire that people should eulogize him for that. Third, when one does not have to indulge in a sin or negligence in the matter of faith in order to achieve it.
 
 ## Personal Reflections
+
+

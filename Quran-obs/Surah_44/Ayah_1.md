@@ -8,18 +8,6 @@ word_by_word:
     transliteration: hha-meem
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the subject matter shows that this Surah too was sent down in the same period in which Surah Zukhruf and a few other earlier Surahs had been revealed. However, this Surah was sent down somewhat later. Its historical background is this: When the disbelievers of Makkah became more and more antagonistic in their attitude and conduct, the Holy Prophet prayed: O God, help me with a famine like the famine of Joseph.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In Musnad Al-Bazzar, it is recorded from Abu At-Tufayl 'Amir bin Wathilah from Zayd bin Harithah that the Messenger of Allah ﷺ said to Ibn Sayyad: (I am concealing something, what is it?) And the Messenger of Allah ﷺ was concealing Surat Ad-Dukhan from him. وَقُلْ سَلَامٌ (and say, Salam [ good-bye ].
@@ -105,3 +93,5 @@ SUrah Az-Zukhruf (The Gold)
 Ends here
 
 ## Personal Reflections
+
+

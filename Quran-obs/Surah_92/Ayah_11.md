@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night** (Al-Layl) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Layl is a **Makkah** surah—revealed as the 9th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 21 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bakr used to free servants upon their acceptance of Islam in Makkah. He used to free the elderly and the women when they accepted Islam. So his father said to him, 'O my son! I see that you are freeing people who are weak. But if you freed strong men they could stand with you, defend you and protect you.' Abu Bakr replied, 'O my father! I only want – and I think he said – what is with Allah.' Some people of my family have told me this Ayah was revealed about him:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -242,3 +234,5 @@ Mujahid said, "This means when he dies." Abu Salih and Malik said – narrating 
 وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَ‌دَّىٰ (And his wealth will not help him when he will fall down...92:11). The word taradda literally denotes 'to fall into a pit and perish'. The expression 'When he fall' signifies that when Divine decree regarding his destruction comes into operation, nothing - not even his wealth - will save him, whether in grave after his death, or on the Day of Judgment, when he will be falling into the abyss of Hell.
 
 ## Personal Reflections
+
+

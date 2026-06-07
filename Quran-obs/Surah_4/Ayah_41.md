@@ -56,17 +56,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ said to me, 'Recite to me.' I said, 'O Messenger of Allah! Should I recite (the Qur'an) to you, while it was revealed to you?' He said, 'Yes, for I like to hear it from other people.' I recited Surat An-Nisa' until I reached this Ayah,
 
 Sayyidna ` Abdullah ibn Masud ؓ to recite the Qur'an to him. Sayyidna ` Abdullah ؓ said : 'You want to hear it from me, although the Qur'an was revealed to you?' He ﷺ said: 'Yes. Recite.' Sayyidna ` Abdullah ibn Masud ؓ says: 'I started reciting Suratun-Nisa' and when I reached the verse: فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍ بِشَهِيدٍ (41), he said: "Enough for now;" and when I raised my eyes to look at him, I saw tears trickling from his blessed eyes.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -225,3 +217,5 @@ Special Note:
 Some commentators, have said that the word, هَـٰؤُلَاءِ (them), in this verse (41) points to the disbelievers and hypocrites present during the age of prophethood. Some others say that it refers to the entire community right through the Day of Doom. This is so because, as indicated in some hadith narrations, the deeds of his community are being continuously presented before him. Nevertheless, from here we know that the prophets of past communities will appear as witnesses over their respective communities and that the Holy Prophet ﷺ too will testify to the deeds of his community. This textual style of the noble Qur'an tells us that there is to be no prophet after him who could appear as a witness over a possible community of his - otherwise, the Qur'an would have mentioned him and his community and the testimony he would give. Seen from this angle, this verse is a proof of the finality of prophethood as well.
 
 ## Personal Reflections
+
+

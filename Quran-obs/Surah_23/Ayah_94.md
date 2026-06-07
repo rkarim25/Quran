@@ -28,18 +28,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 94, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "My Lord! (0 prophet) say (in prayer), "0 my Lord, if You are to show me (in my life) that (punishment) which they (the infidels) are threatened with, then, my Lord, do not place me among the wrongdoing people." (23: 93, 94) There are many verses of the Qur'an which contain warnings of punishment to the unbelievers.
@@ -109,3 +97,5 @@ Commentary
 There are many verses of the Qur'an which contain warnings of punishment to the unbelievers. While the award of punishment is a certainty on the Day of Judgment, it is possible that it may be awarded in this world also - and even during the life time of the Holy Prophet ﷺ . And when Allah's wrath descends upon a people, it is not confined to sinners alone, but sometimes it afflicts virtuous people too, who may not be punished in the Hereafter and may even be compensated by extra rewards for the undeserved punishment which they suffered in this world. The Qur'an says اتَّقُوا فِتْنَةً لَّا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنكُمْ خَاصَّةً (And beware of a punishment which shall not fall on the wrongdoers only - 8:25). In these verses, the Holy Prophet has been told by Allah to pray to Him that if His wrath were to descend upon the infidels in his life time, then He should be removed from their company. This prayer was suggested to the Holy Prophet ﷺ in spite of the fact that he was impeccable and infallible, the intention being that He should at all times remember Allah and beseech His mercy so as to increase his own reward in the Hereafter.
 
 ## Personal Reflections
+
+

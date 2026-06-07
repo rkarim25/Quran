@@ -106,15 +106,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 70, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Most commentators have said that this verse was revealed about Sayyidna ` Abbas ؓ the uncle of the Holy Prophet ﷺ because he too was one of the prisoners of Badr and ransom was taken from him too. His case was special in that he had left Makkah to participate in the battle of Badr with almost seven hundred guineas of gold on his person which was meant to be spent on the army of the disbelievers. However, before this could be spent, he was taken a prisoner with the gold.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -221,3 +213,5 @@ When came the time to pay ransom, he said to the Holy Prophet ﷺ that the gold 
 Following this conversation with Sayyidna ` Abbas ؓ ، the Holy Prophet ﷺ also told him about the promise appearing in the present verse which says that should he embrace Islam and become a Muslim with unalloyed sincerity of heart, then, the money he has spent in ransom shall be returned to him by Allah Ta` ala making it much more and much better for him. Hence, it was after his adherence to Islam had become public knowledge, he used to say: As for me, I am seeing the manifestation of this promise with my own eyes - because the amount of gold taken from me in ransom at that time was seven hundred guineas (20 Uqiyah). Now, at present, twenty of my slaves are running businesses at several places and no business venture being run by them is worth any less than twenty thousand dirhams each. And on top of all this, I have been blessed with the opportunity to serve Hujjaj, the visiting pilgrims, by providing to them drinking water from the sacred well of Zamzam - a service I consider to be so valuable as would pale out the possession of the entire wealth of the people of Makkah.
 
 ## Personal Reflections
+
+

@@ -76,18 +76,6 @@ word_by_word:
     transliteration: yashkurūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-54-58 Events from the lives of some well-known Prophets - Noah, Hud, Salih, Lot, Shu\`aib, Moses (Allah's peace be upon them all) -- have been related to show the consequences of the rejection of the Message, and the addressees of Prophet Muhammad (Allah's peace be upon him) have been admonished to accept and follow the Message in order to escape perdition.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And it is He Who sends the winds as heralds of glad tidings, going before His mercy (rain). Stated in the second verse (58) is: وَالْبَلَدُ الطَّيِّبُ يَخْرُ‌جُ نَبَاتُهُ بِإِذْنِ رَ‌بِّهِ ۖ وَالَّذِي خَبُثَ لَا يَخْرُ‌جُ إِلَّا نَكِدًا (As for the good land, its vegetation comes out with the permission of its Lord.
@@ -163,3 +151,5 @@ At the end of the verse, it was said: كَذَٰلِكَ نُخْرِ‌جُ ا�
 The hint given here is: Though the open blessing of Allah's guidance and His clear 'Ayat is open and common to all human beings very much like the general mercy of rain, but every land does not derive benefit from the rain and, similarly, every human being does not de-rive benefit from Divine guidance. Rather, the benefit is derived by only those who are grateful for what they receive and recognize its real worth and value.
 
 ## Personal Reflections
+
+

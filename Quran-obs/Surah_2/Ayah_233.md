@@ -275,18 +275,6 @@ word_by_word:
     transliteration: baṣīrun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 233, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The mothers should suckle their children for two whole years, (that is) for those (parents) who desire to complete the term of suckling, but the father of the child shall bear the cost of the mother's food and clothing on a reasonable basis. The injunctions of suckling the children by the mothers This verse contains injunctions relating to rada` ah (رضاعۃ) or the suckling of children.
@@ -478,3 +466,5 @@ From this we also learn that the wages or salary of the woman employed for suckl
 After stating all these injunctions relating to rada` ah (suckling) رضاعہ ، the Qur'an once again returns to its special manner and style whereby it brings into focus the fear of Allah Almighty and the concept of His all-encompassing Knowledge so that acting in accordance with law becomes easy, and one remains bound by it under all conditions, seen or unseen. It is said: وَاتَّقُوا اللَّـهَ وَاعْلَمُوا أَنَّ اللَّـهَ بِمَا تَعْمَلُونَ بَصِي that is, 'keep fearing Allah and know for sure that Allah Almighty is fully watching over your open and secret, and your seen and unseen, and He is aware of all intents and purposes hidden in your hearts.' Any party that acts against these injunctions of suckling and weaning or takes a decision in this connection disregarding the welfare of the child, shall deserve punishment.
 
 ## Personal Reflections
+
+

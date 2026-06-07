@@ -102,15 +102,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 101, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (if you fear that the disbelievers may put you in trial (attack you)), refers to the typical type of fear prevalent when this Ayah was revealed. In the beginning of Islam, and after the Hijrah, Muslims used to experience fear during most of their travels. Rather, they restricted their movements to large or short military expeditions. During that era, most areas were areas of combatant enemies of Islam and its people. But when the prevalent circumstances cease, or a new situation is prevalent, decrees of this nature may not be understood, as Allah said;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -183,3 +175,5 @@ Commentary
 The subject of Jihad and Hijrah were taken up in previous verses. Since travel is involved in Jihad and Hijrah under most conditions, the likelihood of confrontation with the enemy is strong and frequent while making such a trip. Therefore, special mention has been made in the verses cited above of some particular leaves and concessions in the performance of Sarah in due consideration of travel and its dangers.
 
 ## Personal Reflections
+
+

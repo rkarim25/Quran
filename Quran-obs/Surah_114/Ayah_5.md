@@ -24,18 +24,6 @@ word_by_word:
     transliteration: l-nāsi
 ---
 
-## Context
-
-To understand **Mankind** (An-Nas) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nas is a **Makkah** surah—revealed as the 21st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 6 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Hasan Basri, 'Ikrimah, 'Ata' and Jabir bin Zaid say that these Surahs are Makki. A tradition from Hadrat 'Abdullah bin 'Abbas also supports the same view. However, according to another tradition from him, it is Madani and the same view is held also by Hadrat 'Abdullah bin Zubair and Qatadah. One of the traditions which strengthens this second view is the Hadith which Muslim, Tirmidhi, Nasa'i and Imam Ahmad bin Hanbal have related on the authority of Hadrat 'Uqbah bin 'Amir.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I seek refuge with the Lord of An-Nas, (1)"The King of An-Nas, (2)"The God of An-Nas, (3)"From the evil of the whisperer who withdraws. Verse [ 114:4] مِن شَرِّ‌ الْوَسْوَاسِ الْخَنَّاسِ (from the evil of the whisperer who withdraws [ when Allah's name is pronounced ].) After invoking three attributes of Allah, the present verse describes the one from whom protection is sought.
@@ -131,3 +119,5 @@ The word خَنَّاسِ khannas is derived from khanasa which means 'to sneak,
 "Allah has built two houses in the heart of man, in one of which an angel resides and in the other the Shaitan. The angel urges him to do good works and the Shaitan induces him to do evil works. When man remembers Allah, the Shaitan withdraws. And when he stops remembering Allah, the Shaitan perches on the heart of man and pecks with his beak to whisper into it to do evil things." [ Transmitted by Abu Ya` la on the authority of Anas ؓ ، as quoted by Mazhari ].
 
 ## Personal Reflections
+
+

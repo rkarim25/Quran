@@ -42,18 +42,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 139, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Many similar ways (and mishaps of life) were faced [by nations (believers and disbelievers) that have passed away] before you, so travel through the earth, and see what was the end of those who denied (137)This is a plain statement for mankind, a guidance and instruction for the Muttaqin (138)So do not become weak, nor be sad, and you will be triumphant if you are indeed believers (139)If a wound has touched you, be sure a similar wound has touched the others. Once again, Muslims are being consoled through these verses about what happened to them at the Battle of Uhud.
@@ -191,3 +179,5 @@ In other words, the object was to impress upon Muslims that they should not wast
 This call of the Qur'an made broken hearts throb again. Sulking bodies were aglow with a fresh spirit. Just- imagine how Allah Almighty groomed the men carrying His message and gave Muslims for all times to come a principle and a rule of procedure whereby it was made necessary that Muslims should never shed tears over dead issues. Instead, they should do all they can to get together the means to strength and power. Then, right along with it, it was made very clear that supremacy and glory can be achieved through one, and only one, basic source, which is, having faith and fulfilling its demands. The demands of Faith include among other things, preparations which must be made in view of an impending war. It means that it is necessary to consolidate military power, assemble and make ready all relevant hardware, and harness all other means to that end, of course, in proportion to ability and capacity. The events of the Battle of Uhud, from the beginning to the end, are a testimony to all these considerations.
 
 ## Personal Reflections
+
+

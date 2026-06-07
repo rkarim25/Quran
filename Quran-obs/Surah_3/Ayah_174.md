@@ -69,17 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 174, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 
 (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with Allah, delighted because of the bounty and happiness they are enjoying. They are also awaiting their brethren, who will die in Allah's cause after them, for they will be meeting them soon. These martyrs do not have fear about the future or sorrow for what they left behind. We ask Allah to grant us Paradise. The Two Sahihs record from Anas, the story of the seventy Ansar Companions who were murdered at Bir Ma'unah in one night. In this Hadith, Anas reported that the Prophet ﷺ used to supplicate to Allah in Qunut in prayer against those who killed them. Anas said, "A part of the Qur'an was revealed about them, but was later abrogated, 'Convey to our people that we met Allah and He was pleased with us and made us pleased.'"
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -302,3 +294,5 @@ The imperative in the present verse obligates Muslims that they must always keep
 Abu ` Ali al-Daqqaq, may Allah's mercy be upon him, says that Abu Bakr ibn al-Fuwarrak ؓ was sick so he paid him a visit. When Abu Bakr saw him, he was in tears. Abu ` Ali consoled him by saying that there was nothing to worry about, Allah Almighty will give him health soon enough. Abu Bakr corrected Abu 'Ali's impression and said that he was certainly not weeping because of any fear of death. What he really worried about was his fate after death lest he may be awarded some punishment then. (Qurtubi)
 
 ## Personal Reflections
+
+

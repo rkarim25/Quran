@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-munīri
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Not alike are the blind and the seeing (19)Nor are (depths of) darkness and light (20)Nor are the shade and the sun's heat (21)Nor are the living and the dead. At the beginning of the verse: وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ‌ (And you cannot make hear those who are in the graves - 22.), disbelievers have been likened to the dead and believers, to the living.
@@ -147,3 +135,5 @@ At the beginning of the verse: وَمَا أَنتَ بِمُسْمِعٍ مَّ
 This verse has itself clarified it that, at this place, making someone hear means the kind of listening that is going to be useful, effective and beneficial. Otherwise, the effort to make disbelievers listen, in the absolute sense, has remained an exercise in futility since ever. It has even been a matter of common observation that a call was beamed at them, and they did listen to it. Therefore, the verse means that 'the way you cannot bring the dead to the right path by making them hear the Divine Word because they have shifted from the avenue of deeds in the world to the arena of recompense in the Hereafter where, even if they confess to their faith, it will not be deemed as trustworthy, similar to that is the condition of the disbelievers. This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true. From this presentation, it becomes clear that the present verse has nothing to do with the issue of the ability of the dead to hear. Whether or not the dead hear the living is a different issue in its own place. A detailed discussion about it has appeared in the commentary on Surah Ar-Rum and Surah An-Naml (Ma’ ariful-Qur’ an, Volume VI).
 
 ## Personal Reflections
+
+

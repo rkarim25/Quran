@@ -50,18 +50,6 @@ word_by_word:
     transliteration: yunfiqūna
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name It is derived frog the sentence, wa amru-hum shura baina hum , of verse 38 , implying thereby that it is a Surah in which the word shura has occurred.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun t… Fourth virtue: وَالَّذِينَ اسْتَجَابُوا لِرَ‌بِّهِمْ وَأَقَامُوا الصَّلَاةَ (and those who have responded to their Lord [ in submission to Him ] and have established Salah - 38,).
@@ -157,3 +145,5 @@ As reported in a hadith, the Holy Prophet ﷺ said, "So far as your rulers are t
 Sixth virtue:- مِمَّا رَ‌زَقْنَاهُمْ يُنفِقُونَ (who spend out of what We have given to them - 38) It refers to spending for virtuous deeds, such as zakah, obligatory and optional alms. Qur'an usually mentions zakah and sadaqat (alms) immediately after salah. But the mention of mutual consultation immediately after salah and the mention of Zakah after it is perhaps to attract attention to the possibility of utilizing the five times daily salah congregation in mosques for the purpose of consultation also in matters which require mutual consultation. (Ruh-ul-Ma'ani)
 
 ## Personal Reflections
+
+

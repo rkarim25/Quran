@@ -20,18 +20,6 @@ word_by_word:
     transliteration: watakhallat
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest Surahs to be revealed at Makkah. The internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ (and it will throw up whatever it contains, and will become empty...84:4) The earth will, with one convulsion, throw up whatever it contains in its belly, whether natural treasures or buried treasures, or mines, or dead human bodies and their remains and particles.
@@ -171,3 +159,5 @@ meaning, certainly Allah will repeat his creation just as he began his creation,
 وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ (and it will throw up whatever it contains, and will become empty...84:4) The earth will, with one convulsion, throw up whatever it contains in its belly, whether natural treasures or buried treasures, or mines, or dead human bodies and their remains and particles.
 
 ## Personal Reflections
+
+

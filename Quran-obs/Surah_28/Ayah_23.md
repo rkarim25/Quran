@@ -118,18 +118,6 @@ word_by_word:
     transliteration: kabīrun
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So he escaped from there, looking about in a state of fear. (And when he arrived at the waters of Madyan, he found a large number of people watering (their animals) - 28:23) مَاءَ مَدْيَنَ (waters of Madyan) refers to the well from where people of that place used to make their animals drink water.
@@ -203,3 +191,5 @@ When the man told Musa about how Fir'awn and his chiefs were conspiring against 
 Some very important points are learnt by this incident. One, that it was the practice of the prophets to help the weak. Sayyidna Musa (علیہ السلام) saw that two girls had brought their goats for drinking water, but they were unable to find room because of the rush of people. Therefore, he asked them about their problem. Two, that there is no harm to talk to stranger women, if no mischief is involved. Three, that although this incident had happened when hijab was not enjoined, a situation that continued even in the early days of Islam (hijab was enjoined in Madinah after the Hijrah), but the underlying spirit of hijab, i.e the natural instinct of modesty and bashfulness, was there even in those days. Because of this natural instinct the two girls preferred hardship rather than getting mixed with men-folk. Four, that it was not considered desirable for women even in those days to go out and perform such type of duties. It was for this reason that they put forward the justification that their father was very old and weak.
 
 ## Personal Reflections
+
+

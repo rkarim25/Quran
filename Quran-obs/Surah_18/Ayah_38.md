@@ -37,18 +37,6 @@ word_by_word:
     transliteration: aḥadan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 His companion said to him during his discussion: "Do you disbelieve in Him Who created you out of dust, then out of Nutfah, then fashioned you into a man? The word: ثَمَرٌ‌ (thamar) in: وَكَانَ لَهُ ثَمَرٌ‌ (And he had wealth - 34) means the fruit of trees as well as wealth, in an absolute sense.
@@ -130,3 +118,5 @@ These verses have described the event of two persons one of whom had a lot of we
 The other person, though less than him in wealth, was a true believer. He refuted the argument of the former one by saying that the worldly wealth is not a sign of one's being close to Allah, because the worldly benefits are given by Allah, in one way or the other, even to the disbelievers and sinful persons, rather to the snakes, scorpions and beasts. It is a horrible mistake to presume that they are the signs of one's being approved by Allah. Therefore, neither your wealth is the proof of your behaviour being approved by Allah, nor my lesser wealth is a proof of disapproval by Him. Allah's approval or disapproval depends on one's faith and deeds alone and not on the amount of wealth one has.
 
 ## Personal Reflections
+
+

@@ -24,18 +24,6 @@ word_by_word:
     transliteration: nādimīna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, after them, We created another generation (31)And We sent to them a Messenger from among themselves (saying): "Worship Allah! There is nothing but our worldly life.
@@ -97,3 +85,5 @@ There is nothing but our worldly life. We die and we live and we are not to be r
 This is the argument which the unbelievers advance when denying belief in the Day of Judgment. Those who deny it publicly are confirmed infidels, but it is very unfortunate that many Muslims also act in a manner that the same denial can be felt from their deeds and actions. They seem to be totally oblivious of the coming in of the Hereafter. May Allah Ta'ala grant them faith to release themselves from the clutches of this belief of theirs.
 
 ## Personal Reflections
+
+

@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-muṭahirīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 108, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And as for those who put up a Masjid by way of harm and disbelief and to disunite the believers and as an outpost for those who warred against Allah and His Messenger aforetime, they will indeed swear that their intention is nothing but good. About this Masjid Dirar, the Holy Prophet ﷺ has Been given the order: لَا تَقُمْ فِيهِ أَبَدًا 'Do not ever stand there (in prayer) - 108.' The word ` qiyam' in the text denotes standing for prayer.
@@ -213,3 +201,5 @@ Special Note
 From here we also come to know that the merit or superiority of a masjid really depends on the fact that it should have been made with absolute sincerity for the sake of Allah. And to put it conversely, there should not be any trace of duplicity, any motive to earn name, fame and recognition, or any other false and corrupting interest involved in its making. Then, we also learn that the quality of those who pray in a masjid is significant. If they are good, righteous, knowledgeable about their religion ('Alim عَالِم ) and are devoted to the worship of Allah ('Abid عَابِد ), the superiority of the masjid increases. Offering prayers in a masjid frequented by such God-fearing people is more merit worthy.
 
 ## Personal Reflections
+
+

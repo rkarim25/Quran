@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **Abraham** (Ibrahim) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 ((This is) a Book which We have revealed unto you...) Allah says, 'This is a Book that We have revealed to you, O Muhammad. This 'Book', is the Glorious Qur'an, the most honored Book, that Allah sent down from heaven to the most honored Messenger of Allah sent to all the people of the earth, Arabs and non-Arabs alike,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -151,3 +143,5 @@ The Meaning in Summation
 The gist of the verse is that the Qur'an has been revealed so that it rescues all human beings from darkness and brings them into the light of the way of Allah. But, certainly unfortunate are those who reject the Qur'an itself - they, by doing so, are bringing punishment on themselves with their own hands. So, those who deny from the very outset that the Qur’ an is the Divine Word, are the targets of this warning of punishment obviously. But, those who, despite their belief in the Holy Qur'an, have abandoned it in their practical life, in the sense that they never re-cite it, nor try to understand it, nor act upon its teachings, they too can-not be considered totally free and safe from becoming targets of this warning.
 
 ## Personal Reflections
+
+

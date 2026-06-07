@@ -67,18 +67,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He (the father) said: "O my son! The response given by Sayyidna Ya` qub X11 appears in verses 5 and 6 in the following words: قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُ‌ؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا ۖ إِنَّ الشَّيْطَانَ لِلْإِنسَانِ عَدُوٌّ مُّبِينٌ ` He said, 'My son, do not relate your dream to your brothers lest they [ by finding out your greatness to come ] should devise against you a plan.
@@ -182,3 +170,5 @@ To make your objectives succeed, seek help from keeping them secret - because, e
 6. From this verse and from the later in which the plan and execution of killing or throwing Sayyidna Yusuf (علیہ السلام) in a well has been mentioned, it becomes evident that the brothers of Sayyidna Yusuf (علیہ السلام) were no prophets or messengers of Allah, otherwise, they would have not stooped to the act of conspiring to kill him, then to put him out of their way by lowering him down in a desolate well, and ultimately, to disobey their father - because, the blessed prophets ﷺ have to be free of all sins, and protected from them. Their reference as ` prophets' in the book of al-Tabari is not correct. (Qurtubi)
 
 ## Personal Reflections
+
+

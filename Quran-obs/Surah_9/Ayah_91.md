@@ -114,15 +114,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Mujahid said; "It was revealed about Bani Muqarrin from the tribe of Muzaynah."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -191,3 +183,5 @@ The present verses mention sincere Muslims who were deprived of participation in
 There are many events of this nature recorded in books of Exegesis and History. So, different things happened. To some of them who came initially, the Holy Prophet ﷺ had no choice but to say that they had no arrangements to provide mounts to warriors. But, these people returned from him weeping and when they kept weeping in despair, Allah Ta` ala took care of them in His own way. Six camels arrived before the Holy Prophet ﷺ right at that time. He let them have these. (Mazhari) Then, Sayyidna ` Uthman ؓ arranged mounts for three of them, although he had already made similar ar-rangements for many more of them earlier.
 
 ## Personal Reflections
+
+

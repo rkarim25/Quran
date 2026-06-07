@@ -52,15 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed,
 
-In the first (82) of the present verses, it was said that only those who believe in Allah and then do not go on to mix up their faith with injustice shall be the people who can hope to be safe against punishment. It appears in Hadith, when this verse was revealed, the noble Sahabah were frightened. They said: Ya Rasul Allah, who among us has not been unjust to himself by committing one or the other sin? Now, in this verse, the only condition of remaining safe from punishment is that one should have done no injustice to himself while in the state of Im an. If so, how can we ever achieve salvation? The Holy Prophet ﷺ said: You have not understood the correct meaning of the verse. Here, ` Zulm' (injustice) means ` Shirk' (ascribing of partners to Allah) as said in another verse: إِنَّ الشِّرْ‌كَ لَظُلْمٌ عَظِيمٌ (Joining others in the worship of Allah is a great injustice - 31:13).
+In the first (82) of the present verses, it was said that only those who believe in Allah and then do not go on to mix up their faith with injustice shall be the people who can hope to be safe against punishment. It appears in Hadith, when this verse was revealed, the noble Sahabah were frightened. They said: Ya Rasul Allah, who among us has not been unjust to himself by committing one or the other sin? Now, in this verse, the only condition of remaining safe from punishment is that one should have done no injustice to himself while in the state of Im an. If so, how can we ever achieve salvation? The Holy Prophet ﷺ said: You have not understood the correct meaning of the verse. Here, ` Zulm' (injustice) means ` Shirk' (ascribing of partners to Allah) as said in another verse: إِنَّ الشِّرْ‌كَ لَظُلْمٌ عَظِيمٌ (Joining others in the worship of Allah is a great injustice - 31:13). Therefore, the sense of the verse is that one, who enters (the bliss of) Iman and then does not associate anyone with the Being and the Attributes of Allah Ta` ala, shall remain safe from punishment, and considered well guided.
 
 ## Tafsir Summary
 
@@ -191,3 +185,5 @@ Said in this verse وَلَمْ يَلْبِسُوا إِيمَانَهُم بِ
 We also come to know from this verse that Shirk is not restricted to becoming a Mushrik or idolater. In fact, also Mushrik is a person who does not worship idols in the customary sense, but recites the Kalimah of Islam, yet takes some angel or messenger or waliy or ‘saint’ of Allah as partners or sharers in some exclusive attributes of Allah. This verse carries a stern warning for those who take the Aulia' of Allah (The Men of Allah) and their Mazars (resting places, tombs) as capable of answering their prayers and granting their needs, and go as far as believing practically as if the Divine powers have been delegated to them. Refuge with Allah!
 
 ## Personal Reflections
+
+

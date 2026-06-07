@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-warīdi
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We have created man, and We know what his self whispers to him. The preceding verses purported to quell the doubt of those who denied the possibility of Resurrection and who thought that raising the dead was inconceivable.
@@ -240,3 +228,5 @@ The Lord of the people has a special contact with the people which is beyond one
 This nearness and proximity cannot be perceived by the ordinary sensation of physical sight, but it is attained through farasah of 'iman [ perspicacity through faith ]. Tafsir Mazhari interprets qurb and ittisal in this verse in the same sense. We have learnt earlier the interpretation of the majority of the commentators that it is not physical proximity, but rather the all-encompassing, full and complete knowledge of Allah. Apart from these two interpretations, Ibn-Kathir interprets it in a third way. He says that the pronoun "We" does not refer to the "Being" of Allah, but to His angels who are all the time with man. They know man's soul so closely that man himself is not so well aware of it. Allah knows best!
 
 ## Personal Reflections
+
+

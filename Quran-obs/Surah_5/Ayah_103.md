@@ -92,18 +92,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah has not instituted things like Bahirah or a Sa'ibah or a Wasilah or a Ham. The Definition of Bahirah and Sa'ibah The names Bahirah, Sa'ibah, WasiIah and Hami are connected with customs prevailing during the days of Jahiliyyah.
@@ -211,3 +199,5 @@ WASILAH, a she-camel giving birth to female offspring continuously, uninterrupte
 In addition to doing what was Shirk, these people were challenging the right of benefiting from the meat of an animal, or its milk, or riding it, declared permissible by Almighty Allah, and placing their own restrictions on their being lawful or unlawful - as if the office of making Divine laws belonged to them! And the cruel joke was that they took these polytheistic customs of theirs to be the source of attaining the pleasure and nearness of Almighty Allah. The answer to this was: Almighty Allah had never appointed these customs. If their elders did it, they fabricated lies against Him, and the ignorant masses accepted them. In short, a two-pronged warning has been given here by saying that the way it is a crime to invite hardships in Divine injunctions by asking purposeless questions, similarly, it is much more serious a crime that one goes about proposing things as Halal or حَرَام haram based on one's personal opinions and desires without the will and command of the Law-Giver. (Tafsir Usmani )
 
 ## Personal Reflections
+
+

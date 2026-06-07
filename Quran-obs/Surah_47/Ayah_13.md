@@ -65,15 +65,7 @@ word_by_word:
 
 ## Context
 
-To understand **Muhammad** (Muhammad) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah in His own sacred place, who kills a person who is not trying to kill him, or who kills because of Jahiliyyah vengeance. Allah then revealed to His Prophet ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -186,3 +178,5 @@ Honey, in this world, is the secretion derived principally from the nectarines o
 All four kinds of rivers - of water, milk, wine and honey - are used in their primary senses. There is no need to apply them unnecessarily in their figurative sense. However, it is obvious that the bounties of Paradise cannot be compared to things of this world. The taste and quality of the bounties of Paradise will be unique and can only be experienced in the gardens of Paradise.
 
 ## Personal Reflections
+
+

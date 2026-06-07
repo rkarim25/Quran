@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-ḥubuki
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَالسَّمَاءِ ذَاتِ الْحُبُكِ إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ (By the sky, having paths, you are (involved) in a contradictory statement - 51:7-8) Hubuk is the plural habikah and primarily denotes thin irregular lines or streaks on fabrics when woven.
@@ -145,3 +133,5 @@ Differing Beliefs of the Pagans
 إِنَّكُمْ لَفِي قَوْلٍ مُّخْتَلِفٍ (you are [ involved ] in a contradictory statement... 51:8) Verse [ 7] was an oath and this verse is the statement for which oath is sworn. Apparently, the verse addresses the pagans of Makkah who assigned contradictory attributes to the Holy Prophet ﷺ ، calling him at different times a madman, a sorcerer, a poet and other discordant names. According to another possible interpretation, the verse addresses the entire humankind - Muslims as well as non-believers. Thus 'contradictory statement' would mean that a sector believed in the Holy Prophet ﷺ and accepted him; and another sector rejected him and opposed him (Mazhari).
 
 ## Personal Reflections
+
+

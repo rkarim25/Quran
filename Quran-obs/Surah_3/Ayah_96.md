@@ -46,18 +46,6 @@ word_by_word:
     transliteration: lil'ʿālamīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 96, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the first House (of worship) appointed for mankind was that at Bakkah (Makkah), full of blessing, and a guidance for Al-'Alamin (mankind and Jinn (96)In it are manifest signs (for example), the Maqam (station) of Ibrahim; whosoever enters it, he attains security. The above verse points out to the distinction and superiority of the House of Allah, the Ka'bah, as compared to the houses, and even mosques, of the whole world.
@@ -273,3 +261,5 @@ This was a view of the outward blessings which, of course, are not the ultimate 
 As far as the merits of Hajj are concerned, Muslims generally know the Hadith which declares that a Muslim who performs his Hajj obligations correctly is so cleansed of his past sins as if he was born on that day, all pure and pristine. Obviously, all these are spiritual blessings of the بیت اللہ Baytullah. These very blessings have been identified bythe word ھدی towards the end of the verse: مُبَارَ‌كًا وَهُدًى لِّلْعَالَمِينَ (having blessings and guidance for all worlds).
 
 ## Personal Reflections
+
+

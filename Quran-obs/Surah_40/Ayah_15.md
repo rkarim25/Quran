@@ -71,18 +71,6 @@ word_by_word:
     transliteration: l-talāqi
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (He is Allah) Owner of high ranks and degrees, the Owner of the Throne. The word: دَرَجَات (darajat, translated above as 'stations' ) in: رَ‌فِيعُ الدَّرَ‌جَاتِ (He is High in stations - 40:15) has been taken by some commentators as meaning 'attributes.' If so, the sense of the expression would be that His attributes of perfection are most exalted.
@@ -172,3 +160,5 @@ The word: دَرَجَات (darajat, translated above as 'stations' ) in: رَ�
 According to some further investigation into this verse by Ibn Kathir, it should be borne in mind that this measure of fifty thousand years is a description of the travel distance from the seventh level of the earth up to the 'arsh, and this is what has been declared as the preferred position by a majority of earlier and later scholars. He has also said that according to many scholars, 'arsh is made of a red ruby the diameter of which is so big as would take a travel distance of fifty thousand years to cover. Similarly, its height would take an identical travel distance to cover. Then there are commentators who have said that رَ‌فِيعُ الدَّرَ‌جَاتِ (rafi` u-d-darajat) appears in the sense of رَافعُ الدَّرَ‌جَاتِ (rafi'u-d-darajat: that is, the One who elevates others in ranks), that is, Allah Ta'la is the one who elevates the ranks of believers who have His fear in their hearts as borne by verses of the Qur'an, such as: نَرْ‌فَعُ دَرَ‌جَاتٍ مَّن نَّشَاءُ (We raise in ranks whom We will -Al-An am, 6:83) and هُمْ دَرَ‌جَاتٌ عِندَ اللَّـهِ (They are of various ranks with Allah -'Al-'Imran, 3:163).
 
 ## Personal Reflections
+
+

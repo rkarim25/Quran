@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-raḥīmu
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Bukhari and Muslim contain a tradition from Hadrat Sa'id bin Jubair to the effect "When I asked Hadrat Abdullah bin Abbas about Surah Al-Hashr, he replied that it was sent down concerning the battle against the Bani an-Nadir just as Surah Al-Anfal was sent down concerning the Battle of Badr.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. A Few of Allah's Attributes of Perfection Having urged the people to be concerned about the Hereafter and having asserted the greatness of the Qur'an, this Surah is concluded with a few of Allah's attributes of perfectio…
@@ -231,3 +219,5 @@ Having urged the people to be concerned about the Hereafter and having asserted 
 الِمُ الْغَيْبِ وَالشَّهَادَةِ (...the Knower of the unseen and the seen - 22). The attribute 'the Knower of the Unseen and the seen' means that Allah knows all things, visible or invisible.
 
 ## Personal Reflections
+
+

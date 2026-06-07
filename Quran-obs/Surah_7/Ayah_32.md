@@ -113,18 +113,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Who has forbidden the adornment with clothes given by Allah, which He has produced for His servants, and At-Tayyibat (good things) of sustenance?" Say: "They are, in the life of this world, for those who believe, (… Warned in the first verse are those who practice excess in acts of worship and introduce self-invented restrictions into it.
@@ -182,3 +170,5 @@ Some other commentators have determined its meaning by saying that all blessings
 At the end of the verse, it was said: كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ (This is how We elaborate the verses for people who understand). This verse carries a refutation of the excessive deeds and ignorant views of people who suggested that Allah Ta` ala is pleased with the practice of abandoning good dress and good food.
 
 ## Personal Reflections
+
+

@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It appears in some narrations that this sentence has been revealed about Sayyidna Ali ؓ ، in the background of a particular event. It is said that Sayyidna Ali ؓ was busy making Salah on a certain day. When he bowed in Ruku`, someone needy turned up and asked for something. He, within that state of Ruku`, took out a ring from one of his fingers and tossed it towards him. He could have taken care of the need of this person after having finished his Salah, but he did not wish to make even that much of a delay in removing the need of a poor faqir. This act of ` racing towards good deeds' was pleasing in the sight of Almighty Allah and it was through this sentence that it was appreciated.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -189,3 +181,5 @@ People of Allah shall prevail ultimately
 The next verse (56) gives the good news that such people will over-come the world as come forward in obedience to the Qur'anic injunctions given in this verse and stay away from forging close friendship with others by limiting themselves to taking Allah, His Messenger and those who have faith in them as their genuine friends. The words of the verse are:
 
 ## Personal Reflections
+
+

@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ukh'rā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Allah) said: "You are granted your request, O Musa! وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّ‌ةً أُخْرَ‌ىٰ (And We have bestowed Our favour on you once more - 20:37).
@@ -105,3 +93,5 @@ Commentary
 وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّ‌ةً أُخْرَ‌ىٰ (And We have bestowed Our favour on you once more - 20:37). Having bestowed His gifts and special favours on Sayyidna Musa (علیہ السلام) such as the honour of conversation with Allah, the grant of prophethood and miracles etc. Allah Ta'ala reminds him of the benefits and favours which He had showered on him throughout his life - from his birth uptill that time and how He had saved his life from numerous risks and hazards. In relation to time, these benefits (which will be discussed in the following pages) pertain to an earlier period.
 
 ## Personal Reflections
+
+

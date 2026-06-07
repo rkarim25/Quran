@@ -35,17 +35,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prostration** (As-Sajdah) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So turn aside from them and await, verily, they (too) are awaiting.) meaning, 'turn away from these idolators, and convey that which has been revealed to you from your Lord.' This is like the Ayah,
 
 (Follow what has been revealed to you from your Lord, there is no God but Him.)(6:106) 'Wait until Allah fulfills that which He has promised you, and grants you victory over those who oppose you, for He never breaks His promise.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -124,3 +116,5 @@ This is the end of the Tafsir of Surat As-Sajdah.
 Verse 28 carries a question posed by disbelievers: وَيَقُولُونَ مَتَىٰ هَـٰذَا الْفَتْحُ (And they say, "When will this decision take place?) Here, they are referring to the victory of believers against disbelievers as promised by the Holy Prophet ﷺ and are wondering about it since they see no traces of this likelihood anywhere around. Instead, they see Muslims as a group of people, scared, hiding,
 
 ## Personal Reflections
+
+

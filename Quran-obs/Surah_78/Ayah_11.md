@@ -16,18 +16,6 @@ word_by_word:
     transliteration: maʿāshan
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Beneficent, the Most Merciful. وَجَعَلْنَا النَّهَارَ‌ مَعَاشًا (and made the day a source of livelihood....78:11).
@@ -191,3 +179,5 @@ Thereafter the verse reads:
 Now attention is drawn to the comforts we get from the sky. The most useful thing in the sky is the light of the sun. It is mentioned in the following verse: وَجَعَلْنَا سِرَ‌اجًا وَهَّاجًا . (and created a luminous lamp [ the sun ]....78:13). Then, among the useful things below the sky, the most beneficial and the most essential thing is the raining clouds which are mentioned thus:
 
 ## Personal Reflections
+
+

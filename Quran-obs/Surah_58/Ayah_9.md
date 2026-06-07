@@ -84,18 +84,6 @@ word_by_word:
     transliteration: tuḥ'sharūna
 ---
 
-## Context
-
-To understand **The Pleading Woman** (Al-Mujadila) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no tradition to tell as to when this incident of pleading and arguing took place, but there is a hint in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have you not seen those who were forbidden to hold secret counsels, and afterwards returned to that which they had been forbidden, and conspired together for sin and wrongdoing and disobedience to the Messenger. Manners of the Secret Conference يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَنَاجَيْتُمْ فَلَا تَتَنَاجَوْا بِالْإِثْمِ وَالْعُدْوَانِ وَمَعْصِيَتِ الرَّ‌سُولِ وَتَنَاجَوْا بِالْبِرِّ‌ وَالتَّقْوَىٰ (0 those who believe, when you hold secret counsel, do not whisper for sinful act and wrongdoing and disobedience of the Messenger, and do whisper for righteousness and taqwa [ God-fearing ]...
@@ -241,3 +229,5 @@ Return Good for Evil
 It was narrated earlier that one of the evil practices of some of the Jews of Madinah was that when they came to the Messenger of Allah ﷺ ، they greeted him by invoking curses upon him, thus: اَلسَّام عَلَیکُم As-Samu` alaykum' [ death to you!] instead of saluting him with the usual اَلسَّلَام عَلَیکُم 'As-Salamu ` alaykum' [ peace be upon you ]. The word 'As-Sam' means 'death' instead of 'As-Salam' which means 'peace'. The latter word was distorted and pronounced with a little twist of the tongue, which sounded like the former word, but the difference between the two words was so subtle that the Companions ؓ could hardly detect the difference. One day, however, Sayyidah Siddiqah 'A'ishah ؓ detected that the Jews were invoking curses upon the Messenger of Allah ﷺ by saying 'As-Samu ` alaykum' [ death to you!], so she replied: اَلسَّام عَلَیکُم وَ لَعَنَکُمُ اللہُ وَ غَضِبَ عَلَیکُم As-Samu ` alaykum wa la` anakumullah wa ghadiba ` alaykum' [ death to you, and the curse of Allah be on you, and His wrath!]. The Messenger of Allah ﷺ prevented her from this and said: "0 ` A'ishah , Allah does not like rudeness and foul speech." Sayyidah Siddiqah ` A'ishah ؓ said: "0 Messenger of Allah, did you not hear what they said." He said to her: "Did you not hear my answering them back by saying وَعَلَیکُم 'wa ` alaykum' [ same to you ]?" He further said to her 'Allah accepts our supplication against them, but not theirs against us'. This event tells us that even in response to the mischievous words of the infidels, the Muslims should always adopt a soft and noble way.
 
 ## Personal Reflections
+
+

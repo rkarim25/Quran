@@ -101,18 +101,6 @@ word_by_word:
     transliteration: l-ẓālimūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And she, in whose house he was, sought to seduce him (to do an evil act), and she closed the doors and said: "Come on, O you." He said: "I seek refuge in Allah! And she, in whose house he was, seduced him away from his (resisting) self and bolted the doors, and said, 'come on!'.
@@ -172,3 +160,5 @@ And it is also possible that the pronoun in: إِنَّهُ (innahu) reverts to 
 Some commentators, Suddiyy, Ibn Ishaq and others have reported that during the course of this privacy, Zulaikha started praising his looks with the purpose of softening his resistance. She said: How beautiful are your hair! Sayyidna Yusuf (علیہ السلام) said: After death, these hair will be the first to part away from my body. Then, she said: How beautiful are your eyes! He said: After death, they will become water and flow down my face. Once again, she said: How beautiful is your face! Thereupon, he said: All this will be eaten up by the earth below. He was looking ahead. This was his concern for the 'Akhirah. Allah Ta’ ala had set it upon him in the prime of his youth and that made all charms of mortal life turn into dust before him. It is true that the concern for 'Akhirah is something which can keep every human being protected from every evil wherever he or she may be. May Allah bless us all with this concern.
 
 ## Personal Reflections
+
+

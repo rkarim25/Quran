@@ -41,18 +41,6 @@ word_by_word:
     transliteration: sabīlin
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The recompense for an evil is an evil like thereof; but whoever forgives and makes reconciliation, his reward is with Allah. Seventh virtue:۔ وَالَّذِينَ إِذَا أَصَابَهُمُ الْبَغْيُ هُمْ يَنتَصِرُ‌ونَ (and those who, when they are subjected to aggression, defend themselves - 39.) The original word used in the text is ` yantasirun' which may be translated as ` defend themselves' and also as ` retaliate'.
@@ -136,3 +124,5 @@ Ibrahim Nakha (رح) has stated that former virtuous elders did not like that Mu
 Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Bayan-ul-Qur'an from a little different angle. He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses. The verse emphasizing on forgiveness tells us that they are not overcome by anger, rather kindness and generosity remains dominant in their temperament because of which they forgive the ones who commit excess against them. And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better for them.
 
 ## Personal Reflections
+
+

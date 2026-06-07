@@ -31,17 +31,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 106, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And indeed We have written in Az-Zabur after Adh-Dhikr). He said: 'Az-Zabur means the Tawrah, the Injil and the Qur'an.'" Mujahid said, "Az-Zabur means the Book." Ibn 'Abbas, Ash-Sha'bi, Al-Hasan, Qatadah and others said, "Az-Zabur is that which was revealed to Dawud, and Adh-Dhikr is the Tawrah." Mujahid said: "Az-Zabur means the Books which came after Adh-Dhikr, and Adh-Dhikr is the Mother of the Book (Umm Al-Kitab) which is with Allah." This was also the view of Zayd bin Aslam: "It is the First Book." Ath-Thawri said: "It is Al-Lawh Al-Mahfuz."
 
 (Verily, in this (the Qur'an) there is a plain Message for people who worship Allah.) means, 'in this Qur'an which We have revealed to Our servant Muhammad ﷺ, there is a plain Message which is beneficial and is sufficient for a people who worship Allah.' This refers to those who worship Allah in the manner which He has prescribed and which He loves and is pleased with, and they would rather obey Allah than follow the Shaytan or their own desires.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -132,3 +124,5 @@ Yet another verse says: إِنَّا لَنَنصُرُ‌ رُ‌سُلَنَا
 The history has already witnessed the control of the pious believers over the better part of the world, and it will again come under their control during the time of Sayyidna Mahdi ؓ . (Ruh ul-Ma` ani Ibn Kathir)
 
 ## Personal Reflections
+
+

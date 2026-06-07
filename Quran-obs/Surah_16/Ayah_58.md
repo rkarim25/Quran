@@ -42,18 +42,6 @@ word_by_word:
     transliteration: kaẓīmun
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they assign a portion of that which We have provided them with, to what they have no knowledge of (false deities). In these verses, two peculiar traits of the disbelievers of Arabia have been censured.
@@ -141,3 +129,5 @@ Commentary
 In these verses, two peculiar traits of the disbelievers of Arabia have been censured. To begin with, they would take the birth of a baby girl to be so bad that they would go about hiding from people to avoid being disgraced before them. This predicament would then throw them into a fix as to what they should do about it. Should they swallow their pride, em-brace the disgrace of becoming the father of a baby girl and resign to the disaster with patience, or just ditch it alive into the dust and get rid of it? Then, on top of it, they had turned so irrational that the child they did not like to have as their own, that they would be audacious enough to attribute to Allah Almighty by declaring that the angels were His daughters!
 
 ## Personal Reflections
+
+

@@ -123,18 +123,6 @@ word_by_word:
     transliteration: wal-maṭlūbu
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O mankind! Illustrating the futility of polytheism and idol-worship by citing a parable Generally the words ضُرِبَ مَثَلُ are used for quoting an incident as an example.
@@ -214,3 +202,5 @@ Illustrating the futility of polytheism and idol-worship by citing a parable
 Generally the words ضُرِبَ مَثَلُ are used for quoting an incident as an example. However, it is not used here in that sense but the foolishness of idol worship has been illustrated by citing a parable. The infidels are told that the idols from which they seek the gratification of their desires are so utterly helpless that all of them together cannot create a humble thing like a fly. Indeed they cannot even protect the offerings of eatables, which their worshippers bring them daily, against the inroads of flies. Then how can they protect you from any calamity? The stupidity and foolishness of the idol-worshippers has been described at the end of the verse by the words ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ (Feeble are the invoker and the invoked - 22:73) meaning thereby that if the object of worship is so utterly weak and powerless, those worshipping it must be more so.
 
 ## Personal Reflections
+
+

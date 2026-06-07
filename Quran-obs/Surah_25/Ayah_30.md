@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 وَقَالَ الرَّسُوْلُ يٰرَبِّ اِنَّ قَوْمِي اتَّخَذُوْا ھٰذَا الْقُرْاٰنَ مَهْجُوْرًا (That is Rasul will say, 0 my Lord my people have forgotten and forsaken Qur'an - 25:30). There is a difference of opinion among the commentators whether this complaint of the Holy Prophet ﷺ to Allah Ta’ ala about his people would be on Dooms Day or was made in his life time. Both views appear valid. But the verse following this verse suggests that he made this complaint during his lifetime and the next verse was revealed to appease him.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -95,3 +87,5 @@ Allah tells how His Messenger and Prophet Muhammad will say: "O my Lord! Verily,
 وَقَالَ الرَّسُوْلُ يٰرَبِّ اِنَّ قَوْمِي اتَّخَذُوْا ھٰذَا الْقُرْاٰنَ مَهْجُوْرًا (That is Rasul will say, 0 my Lord my people have forgotten and forsaken Qur'an - 25:30). There is a difference of opinion among the commentators whether this complaint of the Holy Prophet ﷺ to Allah Ta’ ala about his people would be on Dooms Day or was made in his life time. Both views appear valid. But the verse following this verse suggests that he made this complaint during his lifetime and the next verse was revealed to appease him.
 
 ## Personal Reflections
+
+

@@ -18,15 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 122, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And We revealed to Musa (saying): "Throw your stick," and behold! It swallowed up straight away all the falsehood which they showed (117)Thus truth was confirmed, and all that they did was made of no effect (118)So they were defeated there and returned disgraced (119)And the sorcerers fell down prostrate (120)They said: "We believe in the Lord of all that exists (121)"The Lord of Musa and Harun. (122)
 
-Muhammad bin Ishaq commented, "It followed the ropes and sticks one after another, until nothing that the sorcerers threw remained. Musa then held it in his hand, and it became a stick again just as it was before. The magicians fell in prostration and proclaimed, 'We believe in the Lord of all that exists, the Lord of Musa and Harun. Had Musa been a magician, he would not have prevailed over us.'" Al-Qasim bin Abi Bazzah commented, "Allah revealed to Musa to throw his stick. When he threw his stick, it became a huge, manifest snake that opened its mouth and swallowed the magicians' ropes and sticks. On that, the magicians fell in prostration.
+Muhammad bin Ishaq commented, "It followed the ropes and sticks one after another, until nothing that the sorcerers threw remained. Musa then held it in his hand, and it became a stick again just as it was before. The magicians fell in prostration and proclaimed, 'We believe in the Lord of all that exists, the Lord of Musa and Harun. Had Musa been a magician, he would not have prevailed over us.'" Al-Qasim bin Abi Bazzah commented, "Allah revealed to Musa to throw his stick. When he threw his stick, it became a huge, manifest snake that opened its mouth and swallowed the magicians' ropes and sticks. On that, the magicians fell in prostration. They did not raise their heads before seeing the Paradise, the Fire, and the recompense of their inhabitants."
 
 ## Tafsir Summary
 
@@ -65,3 +59,5 @@ Next, the verse said:
 The sorcerers were so overawed by the miracle of the prophet Musa (علیہ السلام) that they fell in prostration. This may also imply that Allah blessed them with favour and put them in prostration. They added the phrase, the Lord of Musa and Harun (علیہما السلام) after saying, the Lord of the worlds, to make it clear that the Lord worshipped by Musa (علیہ السلام) and Harun (علیہ السلام) is, in fact, the Lord of the Universe, and not the Pharaoh as he pretended to be.
 
 ## Personal Reflections
+
+

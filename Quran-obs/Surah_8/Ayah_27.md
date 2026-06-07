@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 However, it appears that this Ayah is more general, even if it was revealed about a specific incident. Such rulings are dealt with by their indications, not the specific reasons behind revealing them, according to the majority of scholars.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ Therefore, loving the Messenger of Allah ﷺ comes before loving children, wealt
 In the third verse (27), Muslims have been instructed not to commit any breach of trust خِیَانہ (khiyanah) in the dual rights due against them, that is, in the rights of Allah (Huququllah) or in the mutual rights of the servants of Allah as enjoined on each other (Huququl-` Ibad) - either by failing to fulfill them totally, or by fulfilling them in a defective manner leaving one or the other shortcoming behind. Then, by saying: وَأَنتُمْ تَعْلَمُونَ (while you know) at the end of the verse, it was stressed that they already knew that breach of trust was an evil conduct lined with many a curse, therefore, going ahead to do something like that was not what an intelligent person would choose to do - and, since the cause of negligence or shortcoming in fulfilling the rights of the servants of Allah is usually one's attachment to property and children, a warning was given in verse 28 by saying:
 
 ## Personal Reflections
+
+

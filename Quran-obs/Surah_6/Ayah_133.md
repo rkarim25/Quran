@@ -80,18 +80,6 @@ word_by_word:
     transliteration: ākharīna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 133, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And your Lord is Al-Ghani, full of mercy; if He wills, He can destroy you; and in your place make whom He wills as your successors, as He raised you from the seed of other people (133)Surely, that which you are promised, will verily come to pass, and you cannot escape (134)Say: "O my people! Stated in previous verses was that Allah Ta` ala has always been sending His messengers and the rules of conduct required by Him to every set of people among the Jinn and the human beings and, unless they were fully warned through their messengers, punishment was never given to them for their disbelief and disobedience.
@@ -209,3 +197,5 @@ It is certainly a great blessing of Allah, otherwise human beings have their own
 After that, it was also made clear that the way His mercy is universal and perfect, in the same way His power holds control over everything. If He wills, He could undo everyone in a moment - and even this undoing of the entire creation would not cause the slightest difference to the working of His power. Then, if He wills to undo the present system of the entire universe and replace it with another set of creation in the same manner and at the same time - He can certainly do that. An evidence of this possible happening always remains before human beings of all ages. Think of the millions of human beings who inhabit the near and far corners of the earth and run the business of their lives, then think of the time a hundred years earlier. You shall realize that the earth was inhabited as it is now, and things were going on as usual, but none of the present inhabitants of the earth, the movers and shakers of things, were there. What was there was a different set of people - and that different set of people lies buried under the earth with no traces to be found today. The people on the earth to-day are the descendants of the earlier generation of people. Says the Qur'an: إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِن بَعْدِكُم مَّا يَشَاءُ كَمَا أَنشَأَكُم مِّن ذُرِّ‌يَّةِ قَوْمٍ آخَرِ‌ينَ He wills, He shall take you away and shall bring after you whom He wills just as He has raised you from the progeny of other people -133). The sense of " يُذْهِبْكُمْ ": yudhhibkum, translated as ` take you away,' is to undo or make absent with no traces left behind. This is why there is no reference to destroying, killing or exterminating. The statement in the text restricts itself to ` taking' which denotes a state of unmaking, unbeing, loss of name, identity and trace.
 
 ## Personal Reflections
+
+

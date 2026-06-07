@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengthen your heart thereby. And We have revealed it to you gradually, in stages (32)And no example or parable do they bring, but We reveal to you the truth, and the better explanation thereof (33)Those who will be gathered to Hell on their faces, such will be in an evil state, and most astray from the path (34)
 
 The Reason Why the Qur'an Was Revealed in Stages, the Refutation of the Disbelievers, and Their Evil End
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -119,3 +111,5 @@ Commentary
 Verse no. 33 supports and accentuates the explanation given above for the wisdom in the gradual revelation of Qur'an in as much as it promises Allah's support in any situation of awkward questions asked by the infidel.
 
 ## Personal Reflections
+
+

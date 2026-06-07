@@ -22,15 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **Explained in Detail** (Fussilat) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The first addressees of this Surah are Quraysh of ` Arabia among whom Qur'an was revealed in their own language. They had witnessed the marvel of the Qur'an, and they had also seen innumerable miracles of the Holy Prophet ﷺ . And yet they turned away from the Qur'an. What to say of understanding, they did not even bear to listen to the Qur'an. Eventually, in response to the affectionate advices of the Holy Prophet ﷺ ، they declared that they neither understand what he says, nor do their hearts accept it, nor are their ears prepared to listen to it, and that there are double barriers between him and them, so he should carry on with his business and leave them to their own.
 
-This is the meaning of the first five verses of this Surah. In these verses, Allah Almighty has specially addressed and advised Quraysh that Qur'an has been revealed in Arabic language, so that you do not have any difficulty in understanding the contents. At the same time three qualities of the Holy Qur'an have been stated.
+This is the meaning of the first five verses of this Surah. In these verses, Allah Almighty has specially addressed and advised Quraysh that Qur'an has been revealed in Arabic language, so that you do not have any difficulty in understanding the contents. At the same time three qualities of the Holy Qur'an have been stated. Firstly it is said, فُصِّلَتْ آيَاتُهُ Here, the word fussilat' is a derivative of fasl which originally means distinguishing the subjects by separating them. So فُصِّلَتْ means stating things very clearly by explaining in detail, either by separating them subject - wise in different chapters, or by mentioning them at one place. Different subjects like injunctions of Shari'ah, stories, beliefs, refutation of the people of false beliefs, etc. have been stated separately in the verses of the Holy Qur'an, and each subject has been explained by examples as well. The second and third qualities of the Holy Qur'an have been stated as that of communicating good news of everlasting happiness to the believers and of warning the non-believers of perpetual scourges.
 
 ## Tafsir Summary
 
@@ -115,3 +109,5 @@ The first addressees of this Surah are Quraysh of ` Arabia among whom Qur'an was
 This is the meaning of the first five verses of this Surah. In these verses, Allah Almighty has specially addressed and advised Quraysh that Qur'an has been revealed in Arabic language, so that you do not have any difficulty in understanding the contents. At the same time three qualities of the Holy Qur'an have been stated. Firstly it is said, فُصِّلَتْ آيَاتُهُ Here, the word fussilat' is a derivative of fasl which originally means distinguishing the subjects by separating them. So فُصِّلَتْ means stating things very clearly by explaining in detail, either by separating them subject - wise in different chapters, or by mentioning them at one place. Different subjects like injunctions of Shari'ah, stories, beliefs, refutation of the people of false beliefs, etc. have been stated separately in the verses of the Holy Qur'an, and each subject has been explained by examples as well. The second and third qualities of the Holy Qur'an have been stated as that of communicating good news of everlasting happiness to the believers and of warning the non-believers of perpetual scourges.
 
 ## Personal Reflections
+
+

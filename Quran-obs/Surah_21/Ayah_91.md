@@ -50,18 +50,6 @@ word_by_word:
     transliteration: lil'ʿālamīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-48-91 , examples have been cited from the important events of the life stories of the Prophets to show that all the Prophets, who were sent by God, were human beings and had all the characteristics of a man except those which were exclusive to Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And she who guarded her chastity, We breathed into her through Our Ruh, and We made her and her son a sign for nations (91) Isa and Maryam the True Believer This verse directs the Holy Prophet ﷺ to tell his people the story of the pious lady who controlled her passions and then through Jibra'il (علیہ السلام) Allah had breathed His Spirit into her and she gave birth to a son…
@@ -97,3 +85,5 @@ Commentary
 This verse directs the Holy Prophet ﷺ to tell his people the story of the pious lady who controlled her passions and then through Jibra'il (علیہ السلام) Allah had breathed His Spirit into her and she gave birth to a son (Sayyidna ` Isa علیہ السلام) who was a symbol of Allah's Divine Power that He can cause babies to be born without a father, and also without both the parents as in the case of Sayyidna 'Adam (علیہ السلام)
 
 ## Personal Reflections
+
+

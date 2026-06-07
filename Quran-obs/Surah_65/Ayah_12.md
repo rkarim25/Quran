@@ -109,18 +109,6 @@ word_by_word:
     transliteration: ʿil'man
 ---
 
-## Context
-
-To understand **The Divorce** (At-Talaq) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Abdullah bin Masud has Pointed out, and the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is Allah Who has created seven heavens and of the earth the like thereof. اللَّـهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الْأَرْ‌ضِ مِثْلَهُنَّ (Allah is the One who has created seven skies, and their like from earth...65:12).
@@ -178,3 +166,5 @@ Surah At-Talaq
 Ends here
 
 ## Personal Reflections
+
+

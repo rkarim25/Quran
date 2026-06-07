@@ -16,18 +16,6 @@ word_by_word:
     transliteration: ḥushirat
 ---
 
-## Context
-
-To understand **The Overthrowing** (At-Takwir) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا الْعِشَارُ‌ عُطِّلَتْ (and when the ten-months pregnant she-camels will be abandoned...81:4).
@@ -265,3 +253,5 @@ Concerning Allah's statement,
 وَإِذَا الْعِشَارُ‌ عُطِّلَتْ (and when the ten-months pregnant she-camels will be abandoned...81:4). The Arabic word ` ishar is the plural of the word ` ushara' and is applied to she-camels having ten months pregnancy. Such she-camels were considered by the Arabs to be a very valuable asset, because they expected her to give birth to more camels and abundant milk. As such, they used to protect her and never left her free. The verse referring to this custom of the Arabs, who were the immediate addressees, depicts the horrible scene of the Doomsday when even the most favorite wealth, like such a she-camel, will be abandoned and neglected by its owners because of the calamity they will be facing.
 
 ## Personal Reflections
+
+

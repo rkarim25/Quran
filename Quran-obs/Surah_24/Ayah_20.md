@@ -42,18 +42,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it. It is important to decide this issue in order to determine whether this Surah was sent down earlier or Surah Al- Ahzab(XXXIII), which is the only other Surah containing the Commandments about the observance of purdah (viel) by women. Surah Al-Ahzab was most probably sent down on the occasion of the Battle of the Trench.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had it not been for the grace of Allah and His mercy on you, and that Allah is full of kindness, Most Merciful (20)O you who believe! Surely, those who like that shamelessness spreads among the believers, for them there is a painful punishment in this world and the Hereafter - 24:19.
@@ -111,3 +99,5 @@ The Qur'anic system for the prevention of obscenity
 The Holy Qur'an has drawn out this unique system for the prevention of obscenity that, in the first place such a news should not spread, and if at all it is leaked out, it should be backed up with lawful proof, so that the punishment of adultery is also executed publicly, immediately after the spread of the news. This way the publicity itself will serve as a preventive measure. If there were no condition of lawful proof, then it would have been lot easy to pass on and publicize such scandals, especially, when there is no punishment attached to it. Absence of any fear against spreading scandals leads to minimizing the repulsion against immorality and obscenity from the people's mind; rather it encourages to indulge in such crimes and to propagate them. This is an everyday experience that this sort of scandals is published in the newspapers daily. Young men and women read them frequently. As a result, the intensity of such wicked acts is minimized gradually, and instead a slow inclination for indulging in them develops in their minds. It is for this reason that the Holy Qur’ an has allowed publicity of such news only in such situations when it is supported with lawful evidence, so that people should see the severe punishment for the obscene crime along with the news of adultery when they learn about it. Where there is no proof and punishment, Qur'an has proclaimed the publicity of such news as a tool for spreading obscenity among the Muslims. This vital point needs to be pondered by the Muslims. This verse actually emphasizes that to give publicity to scandals without proof will invite very severe punishment both in this world and in the Hereafter. The punishment in the Hereafter will naturally follow after the Dooms Day, and thus cannot be experienced here, but the punishment of the world can be seen. So, those who were punished for false accusation have in fact experienced the punishment of the world. If anyone has escaped the execution of the punishment for want of proof needed for the award of this punishment, even then he has earned the punishment (which will be executed in the Hereafter). For the implication of the verse even this is enough.
 
 ## Personal Reflections
+
+

@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 190, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants. Later, Surat Bara'ah (chapter 9 in the Qur'an) was revealed." 'Abdur-Rahman bin Zayd bin Aslam said similarly, then he said that this was later abrogated by the Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -263,3 +255,5 @@ The following instructions from the Holy Prophet ﷺ given to the Companions goi
 When Sayyidna Abu Bakr al-Siddiq ؓ sent Yazid ibn Abi Sufyan ؓ to Syria, he gave him the same instructions. Also added there is the prohibition of killing the religiously-devoted, the monks and priests, and the labourers employed by disbelievers, especially when they do not take part in fighting (Qurtubi).
 
 ## Personal Reflections
+
+

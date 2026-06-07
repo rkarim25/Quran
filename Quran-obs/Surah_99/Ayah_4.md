@@ -16,18 +16,6 @@ word_by_word:
     transliteration: akhbārahā
 ---
 
-## Context
-
-To understand **The Earthquake** (Az-Zalzalah) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zalzalah is a **Madinah** surah—revealed as the 93rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Whether or not Surah Az-Zalzalah was revealed in Makkah or Madinah is disputed. Ibn Masud, Ata, Jabir, and Mjahid say that it is a Makki Surah and a statement of Ibn Abbas also supports this view. On the contrary, Qatadah and Muqatil say that it is Madani and another statement of Ibn Abbas also has been cited in support of this view. That it is a Madani Surah is reasoned from a tradition from Hadrat Abu Said Khudri, which Ibn Abi Hatim has related from him.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Az-Zalzalah Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "A man came to the Messenger of Allah ﷺ and said, 'Teach me what to recite, O Messenger of Allah!' The Prophet ﷺ said, Verse [ 2] وَأَخْرَ‌جَتِ الْأَرْ‌ضُ أَثْقَالَهَا (and the earth will bring forth its burdens.) Muslim has recorded in his Sahih from Abu Hurairah ؓ that the Messenger of Allah ﷺ said: "The earth will throw out the pieces of its liver [ contents ].
@@ -235,3 +223,5 @@ Verse [ 2] وَأَخْرَ‌جَتِ الْأَرْ‌ضُ أَثْقَالَ�
 "The earth will throw out the pieces of its liver [ contents ]. Gold and silver will come out like columns. A murderer will come and say: 'I killed for this?' The one who broke the ties of kinship will say: 'For this I severed the ties of kinship?' The thief will say: 'For this I got my hand amputated?' Then they will leave it there, and no one will take anything from it."
 
 ## Personal Reflections
+
+

@@ -40,17 +40,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The Ayah says, one Muslim should endure ten disbelievers. Allah abrogated this part later on, but the good news remained. 'Abdullah bin Al-Mubarak said that Jarir bin Hazim narrated to them that, Az-Zubayr bin Al-Khirrit narrated to him, from 'Ikrimah, from Ibn 'Abbas, "When this verse was revealed,
 
 Allah lowered the number [of adversaries that Muslims are required to endure], and thus, made the required patience less, compatible to the decrease in numbers." Al-Bukhari recorded a similar narration from Ibn Al-Mubarak. Muhammad bin Ishaq recorded that Ibn 'Abbas said, "When this Ayah was revealed, it was difficult for the Muslims, for they thought it was burdensome since twenty should fight two hundred, and a hundred against a thousand. Allah made this ruling easy for them and abrogated this Ayah with another Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -119,3 +111,5 @@ Thereafter, if Muslims were half as many as their enemy, they were not allowed t
 In the second verse (64) as well, by stating the same subject briefly, the Holy Prophet ﷺ has been comforted by telling him that sufficient for him is Allah Ta` ala in the real sense, and the group of believers in the physical sense. So, he should have no fear of an enemy, no matter how big, strong, numerous or well-equipped. Commentators have said that this verse was revealed before actual fighting started in the battle of Badr so that Muslims, small in numbers and virtually unequipped, would not be overawed by the heavy numerical and technical superiority of their adversary.
 
 ## Personal Reflections
+
+

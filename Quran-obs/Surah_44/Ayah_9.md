@@ -26,17 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Smoke** (Ad-Dukhan) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then wait you for the Day when the sky will bring forth a visible smoke, covering the people, this is a painful torment) A man came to the Messenger of Allah ﷺ and said, "O Messenger of Allah! Pray to Allah to send rain to Mudar, for they are dying. So the Prophet ﷺ prayed for rain for them, and they got rain. Then the Ayah was revealed:
 
 The statement that the Qur’ an was revealed in the Night of Power’ means that it was revealed in its entirety from the Preserved Tablet to the lowest Firmament in one night of the month of Ramadan. But, it was revealed to the Prophet ﷺ gradually over a period of twenty-three years. Some scholars have expressed the opinion that the installment of the Qur'an that was destined to be revealed in a given year used to be sent down on the Night of Power from the Preserved Tablet to the Firmament of the Earth. (Qurtubi).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -185,3 +177,5 @@ Some other scholars of Tafsir, like ` Ikrimah ؓ ، interpret the phrase 'laylah
 Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Night of Immunity'. But this is not correct, because here the revelation of the Qur'an is mentioned first; and its revelation in the month of Ramadan is confirmed by the clear texts of the Qur'an. Some versions state that sustenance and other things are decreed in the Night of Immunity. Ibn Kathir, first of all, says this Tradition is mursal and such Tradition cannot be reliable in the presence of clear/express texts. Qadi Abu Bakr Ibn ` Arabi asserts that no authentic Tradition relating to mid-Sha'ban is available which may show that sustenance, births and deaths are determined and decreed in that night. He further rejects the idea that there is any reliable Tradition on the merit of this night. Ruh-ul-Ma` ani, however, cites a Tradition, without a chain of transmitters, narrated by Sayyidna Ibn ` Abbas ؓ in which he says that sustenance, life and death are determined in the mid-Sha'ban night, and in the Night of Power the decrees are handed over to the angels. If this Tradition is confirmed, then the two interpretations can be reconciled and synchronized. Otherwise, the express words of Qur'an and authentic Traditions relating to 'laylah mubarakah' and 'fiha yufraqu...' in the verse of Surah Dukhan فِيهَا يُفْرَ‌قُ clearly show that they refer to the 'Night of Power'. As far as the merit of the night of mid-Sha'ban is concerned, it is a separate issue. Some Traditions do speak about it but they are weak. Therefore, Qadi Abu Bakr Ibn ` Arabi denied any merit of this night. Chains of Transmission of Traditions concerning mid-Sha'ban are all weak but, it may be suggested that, if the various ways of transmission are put together, they gain strength. Therefore, many great scholars have accepted the Traditions about mid-Sha'ban because there is room to act upon weak Traditions relating to meritorious actions. Allah knows best!
 
 ## Personal Reflections
+
+

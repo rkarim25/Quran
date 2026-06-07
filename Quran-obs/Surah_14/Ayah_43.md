@@ -41,18 +41,6 @@ word_by_word:
     transliteration: hawāon
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Prophets. That is why in v.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Consider not that Allah is unaware of that which the wrongdoers do, but He gives them respite up to a Day when the eyes will stare in horror (42)(They will be) hastening forward with necks outstretched, their heads raise… In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
@@ -124,3 +112,5 @@ And their hearts shall be hollow.
 After the shape of things to come upon them has been stated, the address is to the Holy Prophet ﷺ who has been asked to warn his people of the punishment of that day, the day on which the unjust and the wrong-doing will have no choice but to call their Lord for some more time to return to the world they knew so that they could say yes to the call of prophets and follow them this time and may thereby have their deliverance from this punishment. The answer to their request will come from Allah Ta’ ala wherein it will be said: This is what you are saying now. Is it not that you had been giving sworn statements to the effect that your wealth and power shall never part with you, and that you shall go on living in the world just like that, in comfort and luxury, forever; and is it not that you had rejected the idea that you will live again and that there was a world hereafter?
 
 ## Personal Reflections
+
+

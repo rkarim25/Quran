@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 126, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This describes the hypocrites that when a Surah is revealed to the Messenger of Allah ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -151,3 +143,5 @@ They neither understand Allah's Word nor attempt to comprehend it nor want it. R
 In verse 126: يُفْتَنُونَ فِي كُلِّ عَامٍ مَّرَّ‌ةً أَوْ مَرَّ‌تَيْنِ (they are put to trial every year once or twice), hypocrites have been warned about their incorrigible hypocrisy and constant breach of trust which brought all sorts of troubles for them every year once or twice. They saw the defeat of their disbelieving accomplices, the kuffar of Makkah. Then, they had to face the disgrace brought upon them when their hypocrisy was exposed. So, there was no dearth of warning signals for them. Incidentally, the count of ` once' or ` twice' here does not signify the numbers one and two as such. In fact, the purpose is to stress that this chain of action and reaction keeps moving all the time yet they take no lesson from what happens to them.
 
 ## Personal Reflections
+
+

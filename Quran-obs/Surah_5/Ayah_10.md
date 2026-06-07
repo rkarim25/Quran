@@ -36,15 +36,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of two persons whom Muslims killed. The Jews left the execution of this plot to 'Amr bin Jihash bin Ka'b and ordered him to throw a stone on the Prophet ﷺ from above, when he came to them and sat under the wall. Allah told His Prophet ﷺ about their plot, and he went back to Al-Madinah and his Companions followed him later on. Allah sent down this Ayah concerning this matter. Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -209,3 +201,5 @@ To recapitulate, our vote has a three-pronged status: Shahadah (evidence), Shafa
 Therefore, it is the duty of every Muslim, man and woman, that he or she must fully investigate into the background of the candidate being voted for well before the vote is cast. Let them make sure that the candidate is deserving, capable and honest - and not otherwise. Negligence, apathy and heedlessness are poor reasons to go about committing such grave crimes. If done for no reason, it is absurdity at its worst.
 
 ## Personal Reflections
+
+

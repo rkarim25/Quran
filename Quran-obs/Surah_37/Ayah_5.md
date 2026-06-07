@@ -34,18 +34,6 @@ word_by_word:
     transliteration: l-mashāriqi
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat As-Saffat An-Nasa'i recorded that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. It was said: رَّ‌بُّ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَمَا بَيْنَهُمَا وَرَ‌بُّ الْمَشَارِ‌قِ (the Lord of the heavens and the earth and what is between them, and Lord of the points of the sunrise.
@@ -129,3 +117,5 @@ The One True God is Allah
 It was said: رَّ‌بُّ السَّمَاوَاتِ وَالْأَرْ‌ضِ وَمَا بَيْنَهُمَا وَرَ‌بُّ الْمَشَارِ‌قِ (the Lord of the heavens and the earth and what is between them, and Lord of the points of the sunrise. - 37:5). Now, a Being to whom goes the credit of having created and sustained such a mind-boggling range of creations has to be the One most deserving of ownership. And this entire universe is a positive proof of His existence and Oneness. The word: الْمَشَارِ‌قِ (al-mashariq) as used here is the plural form of مَشرِق mashriq or East. Since, the sun rises from a new point every day of the year, therefore, its orientations in the East are many, and it is on this basis that the plural form has been employed here.
 
 ## Personal Reflections
+
+

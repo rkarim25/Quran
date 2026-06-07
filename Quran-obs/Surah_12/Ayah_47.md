@@ -63,18 +63,6 @@ word_by_word:
     transliteration: takulūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king (of Egypt) said: "Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. Obviously, the dream of the king had told him only about seven years of good crops followed by seven years of famine.
@@ -130,3 +118,5 @@ During the seven years of drought, they will eat from the harvest they collected
 Obviously, the dream of the king had told him only about seven years of good crops followed by seven years of famine. But, Sayyidna Yusuf (علیہ السلام) also added to it that, following the year of drought, there will be an year of good rains and crops. Sayyidna Yusuf (علیہ السلام) came to know about it either because the total number of years of famine were no more than seven whereby, as the customary practice of Allah would have it, the eighth year would be that of rains and crops. According to early commentator, Qatadah, Allah Tai a had Sayyidna Yusuf (علیہ السلام) know about it through a revelation so that the amount of information they receive could be over and above that which was to be interpreted through the dream - so that the spiritual excellence of Sayyidna Yusuf (علیہ السلام) is further enhanced to become the cause of his being released. Then, another factor was added to this. Sayyidna Yusuf (علیہ السلام) did not consider it sufficient to limit himself to the technical interpretation of the dream only. The fact was that he also gave them a good counsel based on wisdom and fellow-feeling. He advised them to keep the extra produce yielded during the first seven years within the ears of the crop of wheat, so that it may not be affected by bacteria when old. It is borne by experience that grain while in ears is not affected by bacteria.
 
 ## Personal Reflections
+
+

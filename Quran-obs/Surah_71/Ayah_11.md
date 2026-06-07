@@ -20,18 +20,6 @@ word_by_word:
     transliteration: mid'rāran
 ---
 
-## Context
-
-To understand **Noah** (Nuh) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Nuh is a **Makkah** surah—revealed as the 71st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This also is one of the earliest Surahs to be revealed at Makkah, but the internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: O my Lord! يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4).
@@ -149,3 +137,5 @@ Commentary
 يَغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ and Allah will forgive you your sins, 71:4). The particle min is often used to indicate division into parts, that is, to refer to only a part of an amount, group or number. If it is taken in that sense here, it would signify that by embracing the faith only those sins would be forgiven which pertains to the Divine rights because violation of human rights would be forgiven only when the believer fulfills the human rights which he has violated [ such as pecuniary obligations ] and if they cannot be fulfilled [ such as hurting somebody physically or verbally ], then the person who has been so hurt must first be requested to forgive. The hadith which reports that by embracing the faith all sins are forgiven must be understood in the light of the foregoing explanation. In other words, the hadith has the same conditions attached to it as the verse under comment, that is, violation of the rights of the human beings is not forgiven except upon fulfillment of those rights or seeking forgiveness from the victims of that violation. Other scholars of Tafsir interpret the particle min as za'idah, (having no meaning, and added only because of usage). In this way, it signifies that all their sins would be forgiven. However, on the basis of other texts, this general expression is subject to the conditions mentioned above.
 
 ## Personal Reflections
+
+

@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spider** (Al-'Ankabut) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Although the background under which this verse was revealed, according to many narrations, was the harassment faced by the companions of the Holy Qur’ an from the infidels at the time of hijrah, but otherwise its message is common to all times. The sense is that the pious, saints and scholars will face the trials and tribulations in all times. (Qurtubi).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -125,3 +117,5 @@ Commentary
 Although the background under which this verse was revealed, according to many narrations, was the harassment faced by the companions of the Holy Qur’ an from the infidels at the time of hijrah, but otherwise its message is common to all times. The sense is that the pious, saints and scholars will face the trials and tribulations in all times. (Qurtubi).
 
 ## Personal Reflections
+
+

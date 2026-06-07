@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-ʿaẓīmu
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be). لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ (They will not taste death therein, except for the first death (they faced in the world) - 44:56).
@@ -172,3 +160,5 @@ Surah Ad-Dukan
 ends here.
 
 ## Personal Reflections
+
+

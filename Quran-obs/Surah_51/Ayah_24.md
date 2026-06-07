@@ -28,18 +28,6 @@ word_by_word:
     transliteration: l-muk'ramīna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Has the story reached you, of the honored guests of Ibrahim (24)When they came in to him and said: "Salaman!" He answered: "Salamun" and said: "You are a people unknown to me. إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ (...it [ the Day of Recompense ] is a reality, as sure as that you speak....51:23).
@@ -137,3 +125,5 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 إِنَّهُ لَحَقٌّ مِّثْلَ مَا أَنَّكُمْ تَنطِقُونَ (...it [ the Day of Recompense ] is a reality, as sure as that you speak....51:23). It means that all of the matters relating to Judgment, Resurrection and Recompense that they have been promised shall certainly occur. Therefore, it is the truth, there being no doubt about it, so they should not doubt its coming, just as they do not doubt that they can speak. There are five physical sensations of perception: sight, hearing, tasting, feeling and smelling. Here 'speaking' has been singled out probably because the faculty of speech is the only one where there can be no trace of deception or illusion, whereas the other sensations, on account of ailments, can get contorted. Differences in hearing and seeing are known. In sickness the sensation of tasting gets reversed or distorted in some other way. Sometimes sweet things taste bitter and bitter things taste sweet. (Qurtubi)
 
 ## Personal Reflections
+
+

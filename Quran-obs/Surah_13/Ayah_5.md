@@ -111,18 +111,6 @@ word_by_word:
     transliteration: khālidūna
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you wonder, then wondrous is their saying: "When we are dust, shall we indeed then be (raised) in a new creation?" They are those who disbelieved in their Lord! Contained in the first three verses cited above (5-7) there is a refutation of the doubts expressed by the disbelievers about prophethood.
@@ -186,3 +174,5 @@ After that, mention has been made of the punishment of hostile deniers of the tr
 2. The second doubt expressed by the deniers of the Holy Prophet ﷺ was: 'If you are, in reality, the prophet and messenger of Allah, then, the warnings of punishments you announce against the opponents of prophets should materialize - why is it that this punishment would not come? The answer given appears in the next verse in the following words:
 
 ## Personal Reflections
+
+

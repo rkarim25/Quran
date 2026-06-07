@@ -137,18 +137,6 @@ word_by_word:
     transliteration: l-muṣ'liḥīna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So he became afraid, looking about in the city, when behold, the man who had sought his help the day before, called for his help (again). قَالَ رَ‌بِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرً‌ا لِّلْمُجْرِ‌مِينَ (He [ Musa ] said, "0 my Lord, since You have favoured me, I will never be a supporter to the sinners." -28:17).
@@ -186,3 +174,5 @@ Rulings
 It is worth noting here that this saying of Musa (علیہ السلام) has established two rulings about two issues. One, that even if an oppressed person is a sinner or infidel, he should be helped. The second ruling is that it is not permitted to help any criminal or oppressor. Scholars have argued on the basis of this verse that working in the employment of cruel rulers is also not permitted, for they too would be regarded as their associates. Many citations from the righteous salaf (elders) have also been quoted in support of this argument. (Ruh u1-Ma’ ani) To provide support to the oppressors or to the infidels may take different forms. The different rulings about these forms are laid down in the books of fiqh in detail. This humble writer has also dealt with the subject in his Arabic book Ahkamul-Qur'an with greater elaboration. The scholars interested in the subject may consult it.
 
 ## Personal Reflections
+
+

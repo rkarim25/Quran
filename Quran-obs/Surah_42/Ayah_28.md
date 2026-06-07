@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-ḥamīdu
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty. وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا (And He is the One who sends down rain after they have lost hope - 42:28) ".
@@ -163,3 +151,5 @@ The Reason why Provision is not Increased
 وَهُوَ الَّذِي يُنَزِّلُ الْغَيْثَ مِن بَعْدِ مَا قَنَطُوا (And He is the One who sends down rain after they have lost hope - 42:28) ". It is usual for Allah Almighty to send down rain whenever the earth is in severe need of water. But by saying "after they have lost hope", attention is being drawn towards the fact that sometimes Allah Almighty, in deviation from His usual norm, delays sending down rain so much that people begin losing hope. Apart from trial, such a happening is to warn that rain and famine are all in the power of Allah Ta’ ala; whenever He wants, He stops rain because of people's misdeeds, etc., so that people turn their attention towards His kindness, and display their humility and dependence. If rains had been subject to a strict time-table without any deviation, people would have considered rains to be purely subject to apparent causes, and would have become inattentive to Allah's Almighty's power. Here losing hope means losing hope in their contrivances because disappointment with Allah's kindness is kufr (infidelity).
 
 ## Personal Reflections
+
+

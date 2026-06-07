@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yāmūsā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And what is that in your right hand, O Musa? وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ The question: "What is in your right hand, 0 Musa"?
@@ -87,3 +75,5 @@ Commentary
 وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ The question: "What is in your right hand, 0 Musa"? - 20:17 marks the beginning of the special favour which Allah Ta` ala showed towards Sayyidna Musa (علیہ السلام) in order to dispel the fear created by the unusual sights that he had seen and the Divine Word that he had heard. The style in which Allah Ta` ala addressed him was friendly, inquiring from him what he held in his hand. Besides there was a subtle purpose in the question, namely to make him aware that what he held in his hand was a staff made of wood and nothing more. And when he had satisfied himself again that it was indeed a wooden staff, then the miracle of turning it into a serpent was revealed, thus precluding any doubt in his mind that in the darkness of the night he might have picked up a serpent instead of his staff.
 
 ## Personal Reflections
+
+

@@ -28,18 +28,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-23-55 ) and through this story three different lessons have been taught to the three groups: The disbelievers have been admonished: "Whatever you intend to do against Muhammad (upon whom be Allah's peace), the same did the Pharaoh with his might intend against the Prophet Moses.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We sent Musa with Our Ayat, and a manifest authority (23)To Fir'awn, Haman and Qarun, but they called (him): "A sorcerer, a liar! In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust.
@@ -133,3 +121,5 @@ Allah consoles His Prophet Muhammad ﷺ for the disbelief of his people and give
 In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust. It means the action of a person who would, secretly and surreptitiously, cast a glance over something haram and impermissible for him or her, for example, casts a glance at a non-mahram person with sexual desire, and takes it away in the event someone was around, or casts a glance in a manner that is not noticed by others. All these things are open before Allah Ta’ ala.
 
 ## Personal Reflections
+
+

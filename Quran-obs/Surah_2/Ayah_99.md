@@ -48,13 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+(And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secrets of the knowledge that the Jews possess, which they hid, and the stories of their earlier generations. The Book of Allah also mentions the texts in the Books of the Jews that are known to only the rabbis and scholars, and the sections where they altered and distorted the rulings of the Tawrah. Since Allah mentioned all of this in His Book revealed to His Prophet Muhammad ﷺ, then this fact alone should be enough evidence for those who are truthful with themselves and who wish to avoid bringing themselves to destruction due to envy and transgression. Further human instict testifies to the truth that Muhammad ﷺ was sent with and the clear signs that he brought which he did not learn or acquire from mankind. Ad-Dahhak said that Ibn 'Abbas said that,
 
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-(And indeed We have sent down to you manifest Ayat) means, "We have sent to you, O Muhammad, clear signs that testify to your prophethood." These Ayat are contained in the Book of Allah (Qur'an) which narrates the secrets of the knowledge that the Jews possess, which they hid, and the stories of their earlier generations. The Book of Allah also mentions the texts in the Books of the Jews that are known to only the rabbis and scholars, and the sections where they altered and distorted the rulings of the Tawrah. Since Allah mentioned all of this in His Book revealed to His Prophet Muhammad ﷺ, then this fact alone should be enough evidence for those who are truthful with themselves and who wish to avoid bringing themselves to destruction due to envy and transgression. Further human instict testifies to the truth that Muhammad ﷺ was sent with and the clear signs that he brought which he did not learn or acquire from mankind.
+(Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ.)
 
 ## Tafsir Summary
 
@@ -251,3 +247,5 @@ Allah then said,
 In denying the Holy Prophet ﷺ ، the Jews used to say that no clear evidence or sign of his prophethood had been revealed to him such as they could recognize and accept. In reply to this the Holy Qur'an says that Allah has revealed a number of very clear signs and evidences of his prophethood which even they know and understand very well. So, their denial is not based on a lack of recognition or knowledge, but on their habitual disobedience, for, as a general rule, no one denies such evidence except those who are willful and stubborn in their disobedience.
 
 ## Personal Reflections
+
+

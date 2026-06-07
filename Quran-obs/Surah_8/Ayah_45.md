@@ -54,18 +54,6 @@ word_by_word:
     transliteration: tuf'liḥūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Qur'anic Instructions for Success in Jihad Given in the first two verses cited above is a special set of instructions for Muslims when they confront enemies on the battlefield.
@@ -135,3 +123,5 @@ In the present context, the command to remember Allah abundantly while on the ba
 One method of remembering Allah on the battlefield is what we generally recognize as the well-known battle cry of 'Allāhu-Akbar' (the Na'rah or cry of Takbir which is a positively voiced statement of belief in the greatness of Allah in the setting of a battlefield). saying: 'Allahu-Akbar' is also a form of Dhikr or remembrance of Allah. In addition to this, it also includes the attitude of keeping the thought of Allah always in sight, having confidence and trust in Him and remembering Him with all your heart in it. As such, the term Dhikr of Allah includes all that.
 
 ## Personal Reflections
+
+

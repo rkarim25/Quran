@@ -139,18 +139,6 @@ word_by_word:
     transliteration: yastahziūna
 ---
 
-## Context
-
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is determined by an historical event that has been mentioned in vv. 29-32 . This incident of the visit of the jinn and their going back after listening to the Qur'an had occurred, according to agreed traditions of the Hadith and biographical literature, at the time when the Holy Prophet had halted at Makkah during his return journey from Ta'if to Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We had firmly established them with that wherewith We have not established you! { 1} The reference here is to the towns of Thamud and the people of Sayyidna Lut (علیہ السلام) that were in the way of the people of Arabia while they travelled to Syria.
@@ -198,3 +186,5 @@ Commentary
 These verses are to remind the infidels of the severe punishments faced by earlier people who rejected the messengers sent to them. Special reference is made to ` Ad, the people of Sayyidna Hud (علیہ السلام) who has been described as their 'brother', firstly because he belonged to their tribe, and secondly because he was their well-wisher as a brother. Since this nation lived in valleys surrounded by long, curved sand dunes, called in Arabic Ahqaf , special reference is made to these dunes, so that one could find out their places, if he so wishes when traveling to their localities. It is mentioned in verse 22 that they themselves demanded Allah's punishment to be brought upon them. Then verse 24 states that the punishment was sent to them in the form of a cloud that appeared to be benign, and therefore they were happy to see it in the hope that it would bring rain to them, but in fact it contained the divine punishment in the form of a violent wind that destroyed everything, leaving nothing except their empty homes that remained as a sign for those who might learn a lesson. The detailed account of the story of ` Ad and Thamud has already been given in Surah Hud (11:50) for which volume 4, page 643 of this book may be consulted. Mention of these events in these verses is in the form of a brief reference, and in verse 26 the infidels of Makkah are reminded that those nations were much more powerful and well-established than the people of Makkah. Still, their power and strength was of no use to them against Allah's punishment. Moreover, verse 28 points out that the false gods believed by them to be their patrons could not save them from the torment they faced, because they were coined only by their false imagination, having no real existence at all.
 
 ## Personal Reflections
+
+

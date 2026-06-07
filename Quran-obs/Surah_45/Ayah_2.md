@@ -30,15 +30,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Crouching** (Al-Jathiyah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This entire Surah was revealed at Makkah except for one verse. According to one view, the following verse was revealed at Madinah: لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ... 45:14) ". According to this opinion, the rest of the Surah was revealed at Makkah. The overwhelming view, however, is that the entire Surah was revealed before hijrah or migration. Like other Makki Surahs, its basic subject-matter is the basic beliefs of Islam, such as Oneness of Allah, messenger-ship of the Holy Prophet ﷺ and the Hereafter.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -93,3 +85,5 @@ This entire Surah was revealed at Makkah except for one verse. According to one 
 Arguments and evidence have been adduced in favour of all fundamental articles of Islamic Faith. Evidence, especially in favour of the Hereafter, has been advanced. Criticisms of atheists, and the fallacious arguments of the sceptics have been refuted elaborately.
 
 ## Personal Reflections
+
+

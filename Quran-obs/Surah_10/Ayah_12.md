@@ -117,18 +117,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when harm touches man, he invokes Us, lying on his side, or sitting or standing. An eloquent approach has been made in the second verse (12) to convince those who denied that Allah was One (Tauhid) and that there was a life to come ('Akhirah).
@@ -174,3 +162,5 @@ The Prophet ﷺ said:
 An eloquent approach has been made in the second verse (12) to convince those who denied that Allah was One (Tauhid) and that there was a life to come ('Akhirah). It was said: When conditions are normal, people would find time to engage in debating the nature and existence of God and the Hereafter. They would feel free to ascribe all sorts of partners and associates to His pristine divinity and look forward to them in the hope that they would respond at their hour of need. But, as soon as some major distress overtakes them, even these very people, disappointed by the entire range of their false gods they pinned their hopes on, do nothing but call Allah for help, not simply once but repeatedly, lying, sitting, standing. They have no choice. They must invoke Him for help. However, along with this attitude, certainly terrible is their ingratitude. When Allah Ta` ala removes their distress, they forget all about Him becoming so disconnected and indifferent to Him as if they had never called Him and never sought His help in their hour of need. This tells us that those who associate anyone or anything else with Allah Ta` ala in His exclusive domain as the Dispenser of all that is needed by His creation do themselves get to experience the demolition of this belief of theirs. But, because of their hostility and obstinacy, they keep glued to their false notion.
 
 ## Personal Reflections
+
+

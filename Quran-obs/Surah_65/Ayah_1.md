@@ -177,18 +177,6 @@ word_by_word:
     transliteration: amran
 ---
 
-## Context
-
-To understand **The Divorce** (At-Talaq) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, for it contains commandments about Talaq (divorce) itself. Hadrat \`Abdullah bin Mas\`ud has described it as Surah an-Nisa al-qusra also, i.e. the shorter Surah an-Nisa. Period of Revelation Hadrat Abdullah bin Masud has Pointed out, and the internal evidence of the subject matter of the Surah confirms the same, that it must have been sent down after those verses of surah Al-Baqarah in which commandments concerning divorce were given for the first time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (In the Name of Allah, the Most Gracious, the Most Merciful. The Status of Marriage and Divorce in Shari’ ah: The Wise Legal Framework In Ma’ ariful Qur’ an, Volume [ 1], p 573, in Surah Al-Baqarah, full details of the subject under similar heading are given.
@@ -416,3 +404,5 @@ However, our misery comes to an end, but the liability of oppressor for good.
 لَا تَدْرِ‌ي لَعَلَّ اللَّـهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرً‌ا (You do not know; it may be that Allah brings about a new situation thereafter…65:1). These words signify that after estranged relations between the espouses, Allah may create a situation where the husband may recall the comforts he enjoyed in his wife’ s company, and realize the services offered by her in taking care of children and the home. On realizing this, he may be remorseful on what he did, retract the divorce and retain her as his wife. This is possible only if at the time of divorcing the limits prescribed by the Shari’ ah is kept in view and instead of making the divorce ba’ in, a revocable divorce is pronounced, in which case the husband has the right to retract it and retain the wife. Irrevocable divorce should not be resorted to unnecessarily because it terminates the marriage at once. Nor should three divorces should be pronounced, because after the third pronouncement, the husband does not have the right to retract, nor is it possible to renew the marriage contract, even if the divorced parties agree mutually.
 
 ## Personal Reflections
+
+

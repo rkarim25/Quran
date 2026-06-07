@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Palm Fiber** (Al-Masad) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Masad is a **Makkah** surah—revealed as the 6th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Tale-Bearing: A Gravely Major Sin
 It is recorded in the two Sahihs that the Messenger of Allah ﷺ is reported to have said that a tale-bearer (to harm others) will not enter Paradise. Fudail Ibn ` Iyad (رح) says that there are three evil deeds of man that destroy all his righteous actions. They are: [ 1] backbiting; [ 2] tale-bearing; and [ 3] lying. ` Ata' Ibn Sa'ib (رح) says that he asked Sha'bi (رح) about the Prophetic Tradition in which the Messenger of Allah ﷺ is reported to have said: لَا یدخل الجنّۃ سافک دم ولا مشّاء بنمیمۃ ولا تاجر یربی . "Three types of people will not enter Paradise: [ 1] a murderer; [ 2] a tale-bearer; and [ 3] a trader who is involved in usury." ` Ata' (رح) says that I cited this Tradition to Sha'bi and asked him in a surprising tone that the Holy Prophet ﷺ has equated 'a tale-bearer' with a murderer and a usurer. He replied: "Indeed, tale-bearing is the root cause of murder and usurpation of wealth." [ Qurtubi ]
 
 ## Personal Reflections
+
+

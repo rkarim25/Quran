@@ -118,18 +118,6 @@ word_by_word:
     transliteration: l-mutawakilūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he said: "O my sons! In the present verses, the second visit of the brothers of Sayyidna Yusuf (علیہ السلام) ، this time accompanied by their younger brother, has been mentioned.
@@ -195,3 +183,5 @@ It means: I know that the necessary precautions I have ordered you to take so as
 The reality which Sayyidna Ya` qub (علیہ السلام) was talking about became all too visible in this trip as well. By chance it so happened that all measures taken to bring Benyamin back home safely just failed and he was detained in Egypt. As a consequence of which, Sayyidna Yaqub (علیہ السلام) received another severe shock. That the measure taken by him failed, as categorically mentioned in the next verse, had a purpose behind it. It means that this measure failed in terms of the essential objective, that is, the safe return of Benyamin back home - though, the measure taken to keep them protected against the evil eye or envy did succeed, because no such incident showed up during this trip. But, the unforeseen inci-dent Divine destiny had in store for them was a factor not noticed by Sayyidna Ya` qub (علیہ السلام) nor could he do anything to counter it. However, despite this visible failure, it was the barakah (blessing) of his tawakkul (trust) that this second shock turned out to be an antidote for the first one, and resulted in the happy reunion with both his sons, Yusuf and Benyamin, safely and honourably.
 
 ## Personal Reflections
+
+

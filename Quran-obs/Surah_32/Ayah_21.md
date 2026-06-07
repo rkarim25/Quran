@@ -45,15 +45,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Prostration** (As-Sajdah) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection. 'Ata' bin Yasar, As-Suddi and others mentioned that this was revealed concerning 'Ali bin Abi Talib and 'Uqbah bin Abi Mu'it. Hence Allah has judged between them when He said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -132,3 +124,5 @@ the word: أَدْنَىٰ (adna) has been used in the sense of 'nearer' and ا�
 Hence, this verse seems to tell us that all these sufferings, accidents, diseases and pains that inflict sinners in the world are nothing but a sort of mercy for them in as much as they help them get out of their heedlessness and save themselves from the punishment of the 'Akhirah. However, for people who take no lesson even from such unwelcome happenings and fail to turn to Allah, for them, this punishment becomes twofold - first, the cash punishment right here in this world and then, the other being the Great Punishment of the Hereafter. As for the hardships of many kinds that come upon prophets and men of Allah, that is a separate matter. These hardships are a trial for them and trials are the source through which their ranks are raised. At is the hallmark of this trial? How do you recognize the quality of their response? If one were to observe such people even under the stress of calamities and hardships, it will be noticed that they have a kind of peace and tranquility emanating from their trust in Allah Ta’ ala. And it is Allah who knows best.
 
 ## Personal Reflections
+
+

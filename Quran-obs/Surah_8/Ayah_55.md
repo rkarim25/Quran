@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Sa’ id ibn Jubayr said that this verse was revealed about six men from the Jews about whom Allah Ta` ala has declared in advance that they will never enter the fold of Faith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -97,3 +89,5 @@ Sa’ id ibn Jubayr said that this verse was revealed about six men from the Jew
 In addition to that, through this word, the aim is to grant an exemption from punishment for people who were though engaged at that time, in tandem with disbelievers, in their struggle against Muslims and Islam but the likelihood was that, in future, a time will come when they will repent their past mistakes and embrace Islam. The fact is that this is how it came to be. A very large group from among them became, by embracing Islam, not only personally pious and righteous, but rose to be - in word and deed alike - leaders among men and women of the world as heralds of moral betterment and paradigms of responsible conduct of life before the Creator.
 
 ## Personal Reflections
+
+

@@ -80,18 +80,6 @@ word_by_word:
     transliteration: yantahūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-12-18 ) that all the customs and practices of the shirk of the era of 'ignorance' should be forcibly abolished: that the mushriks should not be allowed even to come near the "House" (v.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But if they violate their oaths after their covenant, and attack your religion with disapproval and criticism, then fight (you) against the leaders of disbelief – for surely, their oaths are nothing to them – so that the… It will be recalled that a cease-fire agreement with the Quraysh of Makkah was concluded at Hudaibiyah in the Hijrah year 6.
@@ -139,3 +127,5 @@ In the same verse (12), it was said: إِنَّهُمْ لَا أَيْمَان�
 At the end of verse 12, it was said: لَعَلَّهُمْ يَنتَهُونَ (so that they may stop). This last sentence tells us that the objective of Jihad carried out by Muslims should never be the conquest of countries like common kings or to hurt the enemy and to take vengeance as belligerent people around the world would love to do. Instead of doing anything like that, when it comes to fighting that they must, the driving objective should be compassion for the enemy, the empathy and the desire that they would stop doing what was not right.
 
 ## Personal Reflections
+
+

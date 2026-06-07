@@ -46,18 +46,6 @@ word_by_word:
     transliteration: mus'limīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "O chiefs! Qurtubi has reported, giving references of historical record, that Bilqis's envoys returned from the court of Sulaiman (علیہ السلام) totally dumb-founded and awe-struck, and conveyed his declaration of war to the queen.
@@ -165,3 +153,5 @@ him to perform such super-human things. (Ibn Jarir)
 قَبْلَ أَن يَأْتُونِي مُسْلِمِينَ (before they come to me submissively - 27:38). The word مُسْلِمِينَ (muslimin) is the plural of Muslim, the literal meaning of which is obedient or submissive. In conventional expression, 'Muslim' is equivalent of 'believer'. According to Sayyidna ibn ` Abbas ؓ ، here Muslimin is used in its literal meaning, that is, obedient or submissive. It is so because it was not established at that time that Queen Bilqis had converted to Islam. She actually converted to Islam after talking to Sayyidna Sulaiman (علیہ السلام) as is evident from the verses to follow now.
 
 ## Personal Reflections
+
+

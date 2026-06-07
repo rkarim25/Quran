@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-āminīna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, when Musa had fulfilled the term, and was traveling with his family, he saw a fire in the direction of At-Tur. نُودِيَ مِن شَاطِئِ الْوَادِ الْأَيْمَنِ فِي الْبُقْعَةِ الْمُبَارَ‌كَةِ مِنَ الشَّجَرَ‌ةِ أَن يَا مُوسَىٰ إِنِّي أَنَا اللَّـهُ رَ‌بُّ الْعَالَمِينَ He was called by a voice coming from a side of the right valley in the blessed ground, from the tree, saying" 0 Musa, I am Allah, the Lord of the worlds" - 28:30).
@@ -205,3 +193,5 @@ The place also becomes auspicious if righteous deeds are performed there
 فِي الْبُقْعَةِ الْمُبَارَ‌كَةِ (In the blessed ground - 28:30). The Holy Qur'an has termed the mount Tur as blessed ground. It is obvious that the reason of its being auspicious is the refulgence of Allah Ta` ala, which was manifested at that spot in the form of fire. It proves that if something virtuous happens at a place, that particular spot also turns auspicious.
 
 ## Personal Reflections
+
+

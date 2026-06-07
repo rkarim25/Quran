@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Musaylamah thought for a while and then said: "Something similar to that was also revealed to me." 'Amr asked: "And what is it?" He then recited: "'O Wabr, O Wabr! You are only two ears and a breast .The rest of you is hollow.' What do you think, 'Amr?" 'Amr then said: "By Allah, you know that I know that you are a liar."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -125,3 +117,5 @@ No one is more unjust than he who belies the truth which the Messengers have bro
 The last verse (17) emphasizes the subject conclusively by warning that attributing any statement to Allah Ta` ala that was not His Word, or denying what actually was, were crimes deserving severe punishment.
 
 ## Personal Reflections
+
+

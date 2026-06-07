@@ -56,17 +56,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Forgiver** (Ghafir) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the period of Al-Barzakh.
 
 This chain of narration is Sahih according to the conditions of Al-Bukhari and Muslim, although they did not record it. It was said, 'how can this report be reconciled with the fact that the Ayah was revealed in Makkah and the Ayah indicates that there will be torment during the period of Al-Barzakh?' The answer is that the Ayah refers to the souls (of Fir'awn and his people) being exposed to the Fire morning and evening; it does not say that the pain will affect their bodies in the grave. So it may be that this has to do specifically with their souls. With regard to there being any effect on their bodies in Al-Barzakh, and their feeling pain as a result, this is indicated in the Sunnah, in some Hadiths which we will mention below.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ The people of Fir'awn are like foolish camels, stumbling into rocks and trees wi
 In verse 44, it was said: فَسَتَذْكُرُ‌ونَ مَا أَقُولُ لَكُمْ وَأُفَوِّضُ أَمْرِ‌ي إِلَى اللَّـهِ إِنَّ اللَّـهَ بَصِيرٌ‌ بِالْعِبَادِ (Soon you will remember what I am saying to you. And I entrust my matter with Allah. Surely, Allah has all (His) servants in sight.). This is what the believer from the House of Pharaoh said at the end of his address to his people inviting them to accept the message of truth. Here, it was said that, should they not listen to him within that point of time, there would come a time when the punishment would seize them, and they would remember what he had told them. But, the remembrance of that particular time will be useless. And when by virtue of this lengthy dialogue, advice and invitation, the 'iman or faith of this believer from the House of Pharaoh stood disclosed before these people, he realized that they might bring some harm to him, therefore, he said that he was leaving his case to rest with Allah, for He is the guardian and protector of His servants. Early tafsir authority, Muqatil says: When the people of the Pharaoh, as he had apprehended, went after him, he escaped towards the mountains and they could not catch him.
 
 ## Personal Reflections
+
+

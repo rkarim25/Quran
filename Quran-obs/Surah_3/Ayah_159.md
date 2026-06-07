@@ -133,17 +133,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 159, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr. Some people said that the Messenger of Allah ﷺ might have taken it. When this rumor circulated, Allah sent down,
 
 (Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -540,3 +532,5 @@ At this point, especially at the conclusion of the verse, it is very important t
 The statement, 'And once you have taken a decision, place your trust in Allah' also clarifies that placing one's trust in Allah does not mean that the efforts to provide means and make plans should be abandoned. The fact is that placing one's trust in Allah while leaving off means near at hand is contrary to the blessed practice of prophets, and against the teachings of the Holy Qur'an. However, if one sits idle dreaming about distant means and irrelevant concerns, or if one relies solely on means and plans as effective agents and ignores the Prime Causer of means and the Planner-par-Excellence of all affairs and plans, then this would certainly be against توکل tawakkul, the placing of trust in Allah.
 
 ## Personal Reflections
+
+

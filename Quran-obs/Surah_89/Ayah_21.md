@@ -30,15 +30,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Dawn** (Al-Fajr) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -145,3 +137,5 @@ word jamm means 'excessive'. This verse refers to the fourth evil trait of the u
 كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا (No! When the earth will be crushed thoroughly to be turned into bits...89:21). The word dakk literally means 'to pound or crush a thing into bits and pieces'. This refers to the earthquakes that will crush and ground the mountains to dust. The world will thus be dissolved. This will be the first stage of Resurrection. When this stage of Resurrection ends, the second stage of Resurrection will begin. The word dakkan is repeated in order to show that there will be a series of earthquakes before the dissolution of the world.
 
 ## Personal Reflections
+
+

@@ -132,15 +132,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 156, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and give the Zakah), purify themselves, according to one opinion. It was also said that, 'the Zakah', here pertains to wealth. It is possible that both meanings are included here, for this Ayah was revealed in Makkah [before Zakah in fixed shares was ordained],
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -317,3 +309,5 @@ make His mercy common to all without regard to their belief or disbelief, but th
 The next verse, however, has indicated that people who shall perfectly fit the above description will be those coming after them in the last age, and follow the last Prophet ﷺ ، consequently deserving perfect Mercy or favour of Allah. According to the report of Qatadah cited above, the Satan claimed that he also deserves the Mercy of Allah, for His Mercy extends to everything but the condition of 'Iman (belief) etc. specified in the verse excluded him. Similarly, the Jews and the Christians claimed that they too believed in Allah and paid Zakah, therefore, they shall also get the perfect Mercy of in the worlds. The next verse, however, included the condition of belief in the last Prophet ﷺ and in the verses of the Qur'an. This has excluded the Jews and the Christians who did not believe in the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

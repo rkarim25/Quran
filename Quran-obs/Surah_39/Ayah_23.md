@@ -149,15 +149,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Here Allah praises His Book, the Noble Qur'an, which was revealed to His noble Messenger ﷺ. Allah says,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -252,3 +244,5 @@ Verse 23 opens with the words: اللَّـهُ نَزَّلَ أَحْسَنَ 
 It has been narrated by Sayyidna ` Abdullah Ibn ` Abbas ؓ that the Holy Prophet ﷺ said, "A servant over whose body hair would stand on end due to the fear of Allah, then, Allah Ta’ ala forbids the Fire from ever touching his body. (Qurtubi)
 
 ## Personal Reflections
+
+

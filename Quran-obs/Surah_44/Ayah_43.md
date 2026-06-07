@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-zaqūmi
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the tree of Zaqqu (43)Will be the food of the sinners (44)Like boiling oil, it will boil in the bellies (45)Like the boiling of scalding water (46)(It will be said:) "Seize him and drag him into the midst of blazing Fire, (47)"Then pour over his head the torment of boiling water. Punishment and Reward of the Hereafter In these verses, according to the style of the Qur'an, Allah describes Hell and the way the unbelievers will be punished, and Paradise and the way the believers will be rewarded.
@@ -109,3 +97,5 @@ Punishment of the Dwellers of Hell
 "Indeed the tree of zaqqum... (44:43) ". Some necessary information regarding the reality of zaqqum has been given in Surah As-Saffat. Please see under (37:64-65). Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seized by the keepers of Hell and dragged into the middle of the blazing fire of Hell. According to some commentators, this is the meaning of (56:56) Surah –Al-Waqi'ah هَـٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ (This will be their entertainment on the Day of Requital". They argue that the word nuzul (entertainment) originally refers to the starter food and provision served to guests to make them feel welcome before the main course of entertainment is served. The main course of food and provision served later on is called diyafah or ma'dubah. The wordings of the Qur'an do carry the possibility that the feeding of zaqqum could be after the entry into Hell. In this case the word nuzul would refer, by extension, to the main course of meals and provisions served. The verse under comment which speaks about 'dragging the dweller of Hell towards the middle of the blazing fire' means, he would already be in Hell but after feeding him zaqqum he will be dragged towards the middle of the fire to expose him to a greater degree of disgrace and torture. Allah knows best! (Condensed from Bayan-ul-Qur'an).
 
 ## Personal Reflections
+
+

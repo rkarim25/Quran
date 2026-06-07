@@ -70,18 +70,6 @@ word_by_word:
     transliteration: masūlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And follow not that of which you have no knowledge. Two injunctions in these verses, the twelfth and the thirteenth, relate to mores of common social living.
@@ -141,3 +129,5 @@ Perhaps, the ears, the eyes and the heart have been particularized here on the b
 Now, the senses through which man becomes aware of different things are five: the ears, the eyes, the nose, the faculty of speech and the sensation in the whole body that tells one about something being hot or cold. But, habitually man finds out more through the ears and eyes. Awareness about things acquired through the senses of smell, taste and touch is fairly lower in frequency as compared to things heard or seen. That it has been considered sufficient to mention only two of the five senses at this place may, perhaps, be because of this very reason. Then, even from among these two, it is the ear that has been made to precede the eye - and on other occasions of the Holy Qur'an as well, wherever these two has been mentioned, it is the ear that has been mentioned first. In all likelihood, the reason for it is that the major part of man's in-formation is comprised of things heard through the ears. Things seen through the eyes happen to be comparatively much less.
 
 ## Personal Reflections
+
+

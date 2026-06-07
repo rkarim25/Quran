@@ -71,18 +71,6 @@ word_by_word:
     transliteration: laḥāfiẓūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, when they returned to their father, they said: "O our father! The verses appearing above carry the remaining segment of the event, that is, when the brothers of Yusuf (علیہ السلام) returned home with food-grains from Egypt, they told their father about what had happened there, specially about the condition imposed by the ` Aziz of Misr that they would receive food grains in the future only if they would bring their younger brother with them.
@@ -126,3 +114,5 @@ Their father asked them if they wanted him to trust them with Benyamin as he had
 This much was an answer to what they had said. But, he had the need of the family in sight, and because he was blessed with the quality of trust in the Divine dispension of matters, he talked about the reality as he knew it saying, in effect, that man has no control over his gain or loss unless Allah Ta ala Himself so wills. And when He wills it, it cannot be diverted or averted by anyone. Therefore, it is incorrect to place one's trust in the created beings of Allah in this matter and equally inappropriate is the dependence on their complaints to settle it.
 
 ## Personal Reflections
+
+

@@ -152,18 +152,6 @@ word_by_word:
     transliteration: baṣīrun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 237, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you divorce them before you have touched (had a sexual relation with) them, and you have appointed for them their due (dowry), then pay half of that, unless they (the women) agree to remit it, or he (the husband), in whose hands is the marriage tie, agrees to remit it. In the second situation, when the woman's dower has been fixed before marriage and divorce occurs before actual consummation, the injunction says that the man shall be obligated to pay half of the dower already fixed.
@@ -237,3 +225,5 @@ Explaining the words of the verse الَّذِي بِيَدِهِ عُقْدَة
 This also proves that the authority to continue or terminate the bond of marriage rests with the husband. It is he who can pronounce talaq (divorce). The woman cannot divorce her husband.
 
 ## Personal Reflections
+
+

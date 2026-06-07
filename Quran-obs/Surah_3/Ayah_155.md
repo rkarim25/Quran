@@ -92,18 +92,6 @@ word_by_word:
     transliteration: ḥalīmun
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 155, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then after the distress, He sent down security for you. The noble Companions as evident from: وَلِيَبْتَلِيَ اللَّـهُ مَا فِي صُدُورِ‌كُمْ (154), were actually tested through their sufferings at the battle of Uhud.
@@ -271,3 +259,5 @@ Abridged below is what Hafiz Ibn Taymiyyah (رح) has said in al-'Aqidatul Wasit
 "It is a cardinal belief of Ahl al-Sunnah wal-Jama'ah that Muslims must refrain from accusing or criticizing any Companion of the Holy Prophet ﷺ in the matter of disagreements or armed conflicts which may have come up among them. There is a reason for this. Most of the narrations imputing drawbacks in them which have crept into history are a pack of lies planted by enemies. They simply have no truth in them. Then, there are others in which the reality has been reversed by additions and alterations. Even if, there was some truth about something, that has to be taken as the independent judgment of the Companions in which they have no choice. Going a step further, we can assume a situation where they may not be helpless but be capable of using their choice, then, what works there is the Divine Law إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ that is, good deeds make up for the bad ones. And it is more than obvious that nobody can claim equality with them in the matter of good deeds. The good they did cannot be matched by the good done by anybody else. Similarly, nobody else can be more deserving of the mercy and forgiveness of Allah Almighty as compared to them. Therefore, nobody has the right to sit on judgment against them and call their deeds to account and in that process, criticise or speak ill of them."
 
 ## Personal Reflections
+
+

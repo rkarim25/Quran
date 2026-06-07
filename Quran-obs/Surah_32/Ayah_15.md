@@ -67,18 +67,6 @@ word_by_word:
     transliteration: yastakbirūna
 ---
 
-## Context
-
-To understand **The Prostration** (As-Sajdah) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name The Surah has been entitled As-Sajdah after the theme of Sajdah (prostration) as expressed in verse 15 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Only those believe in Our Ayat, who, when they are reminded of them, fall down prostrate, and glorify the praises of their Lord, and they are not proud (15)Their sides forsake their beds, to invoke their Lord in fear and… In verse 11, it was said: قُلْ يَتَوَفَّاكُم مَّلَكُ الْمَوْتِ الَّذِي وُكِّلَ بِكُمْ (Say, "The angel of death who has been assigned for you will take you in full" -11).
@@ -216,3 +204,5 @@ Ruling:
 The angel of death does not know the time of anyone's death in advance - until he is ordered to exact the soul of a certain person. (Deduced by Ahmad and Ibn Abi ad-Dunya from Ma'mar, Mazhari)
 
 ## Personal Reflections
+
+

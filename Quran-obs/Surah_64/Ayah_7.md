@@ -80,18 +80,6 @@ word_by_word:
     transliteration: yasīrun
 ---
 
-## Context
-
-To understand **The Mutual Disillusion** (At-Taghabun) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Taghabun is a **Madinah** surah—revealed as the 108th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Muqatil and Kalbi say that it was partly revealed at Makkah and partly at Madinah. Hadrat Abdullah bin Abbas and Ata bin Yasar say that vv. 1-13 were revealed at Makkah and vv. 14-18 at Madinah. But the majority of commentators regard the whole of the surah as a Madinan Revelation. Although there is no internal evidence to help determine its exact period of revelation, yet a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The disbelievers pretend that they will never be resurrected. فَقَالُوا أَبَشَرٌ‌ يَهْدُونَنَا (…but they said, “ Shall some mortals give us guidance?”…64:6).
@@ -167,3 +155,5 @@ Allah explained His statement saying;
 فَقَالُوا أَبَشَرٌ‌ يَهْدُونَنَا (…but they said, “ Shall some mortals give us guidance?”…64:6). Though the word basher [ mortal (s)] is singular, but in meaning it is plural. Therefore, the verb يَهْدُونَنَا ‘give us guidance’ is plural. All unbelievers held the notion that prophets and messengers cannot be human beings. The Qur’ an has time and again falsified and refuted this notion of the unbelievers. Alas, there is also a group of Muslims who denies the mortality of the Allah’ s Messenger. They need to think in which direction they are moving. His mortality is not contradictory to his prophet-hood, nor is it incompatible with his high station of messenger-ship, nor is his being a Messenger inconsistent with his being a Nur (light). He is Nur (light) as well as a mortal. It is a false analogy to compare his light with that of a lamp or of the sun or the moon.
 
 ## Personal Reflections
+
+

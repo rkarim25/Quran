@@ -93,18 +93,6 @@ word_by_word:
     transliteration: saḥīqin
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That and whoever honors the sacred things of Allah, then that is better for him with his Lord. حُرُ‌مَاتِ اللَّـهِ (22:30) are the things sanctified by Allah Ta’ ala, that is the religious laws.
@@ -208,3 +196,5 @@ Commentary
 وَاجْتَنِبُوا قَوْلَ الزُّورِ‌ (And refrain from a word of falsehood - 22:30) The phrase قَوْلَ الزُّورِ‌ means lies. Anything which is contrary to truth is a lie and false, whether it is corrupt beliefs and practices or whether it is false evidence. The Holy Prophet ﷺ once said ` Among the major sins are associating anyone with Allah, disobedience of one's parents, giving false evidence and telling lies in general talk'. He used the phrase; قَوْلَ الزُّورِ‌ (word of falsehood) repeatedly. (Bukhari)
 
 ## Personal Reflections
+
+

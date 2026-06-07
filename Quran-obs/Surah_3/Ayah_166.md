@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 166, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -159,3 +151,5 @@ Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed abou
 Immediately later, in verse 166, the words fa bi idhnillahi: فَبِإِذْنِ اللَّـه indicate that whatever happened there was with the leave and will of Allah Almighty operating behind which are many wise divine arrangements, some of them having been explained earlier. One such wise arrangement is that Allah will 'see' His true believers, and the hypocrites too, that is, the sincerity of Muslims and the hypocrisy of the hypocrites will become so clear that everybody could see it for himself. Here, the reference to Allah's knowing or seeing means seeing in the perspective of our own sense-experience in the mortal world. Otherwise, as far as Allah is concerned, He knows and sees everything, all the time. So, the wise arrangement became all the more clear when, at the time of the trial, the hypocrites bowed out of the harm's way while true Muslims stood undaunted' in the middle of the battle front.
 
 ## Personal Reflections
+
+

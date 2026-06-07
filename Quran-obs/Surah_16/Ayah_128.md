@@ -39,17 +39,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 128, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Sirin said, "If a man among you takes something from you, then you should take something similar from him." This was also the opinion of Mujahid, Ibrahim, Al-Hasan Al-Basri, and others. Ibn Jarir also favored this opinion. Ibn Zayd said: "They had been commanded to forgive the idolators, then some men became Muslim who were strong and powerful. They said, 'O Messenger of Allah, if only Allah would give us permission, we would sort out these dogs!' Then this Ayah was revealed, then it was latter abrogated by the command to engage in Jihad."
 
 ((Remember) when your Lord revealed to the angels, "Verily, I am with you, so support those who believe.")(8:12) And Allah said to Musa and Harun:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -134,3 +126,5 @@ Surely, Allah is with those who fear Him and those who are good in deeds.
 The essence of this formula is that the help of Allah Ta’ ala is with people who have two virtues: Taqwa and Ihsan. The essence of Taqwa is acting righteously or being good in deed while the sense of Ihsan at this place is to be good to those created by Allah Ta’ ala, that is, those who are duty-bound to do righteous deeds and are particular in dealing with others nicely - Allah Tais with them. And it is obvious, if someone is-blessed with the 'company' (help) of Allah Ta’ ala, who can touch him!
 
 ## Personal Reflections
+
+

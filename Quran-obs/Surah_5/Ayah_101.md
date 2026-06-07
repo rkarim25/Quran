@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 101, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad recorded that 'Ali said, "When this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -270,3 +262,5 @@ One of the qualities making someone a good Muslim is that one leaves what is unn
 This tells us that many of our brother Muslims who keep investigating into unnecessary subjects, such as, the name of the mother of Sayyidna Musa (علیہ السلام) or the precise length and breadth of the Ark of Sayyidna Nuh (علیہ السلام) ، indulge in what has no effect on one's conduct in life. Therefore, asking such questions is blameworthy - especially when it is already known that people who tend to ask such questions are mostly unaware of the basics of their religion. The problem is that falling for what is wasteful invariably results in making one stay deprived of doing what is necessary. As for the large body of work left by Muslim jurists in which they have answered assumed religious problems and questions, it was not something unnecessary. Later events proved that they were needed by future generations. Therefore, they do not fall under the purview of wasteful or meaningless questions. It is also a part of Islamic teachings that one should not indulge in any activity, whether intellectual or practical, a task or a conversation, and waste precious time through it, unless there is some gain to be made from it in terms of the worldly or other-wordly life.
 
 ## Personal Reflections
+
+

@@ -112,17 +112,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spider** (Al-'Ankabut) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And argue not with the People of the Scripture, except with that which is better – except with such of them as do wrong; and say (to them): "We believe in that which has been revealed to us and revealed to you; our God and your God is One, and to Him we have submitted. (46)
 
 (and say (to them): "We believe in that which has been revealed to us and revealed to you;) means, 'if they tell you something which you do not know to be true or false, say to them: We do not hasten to say it is a lie, because it may be true, and we do not hasten to say it is true because it may be false. We believe in it in general, under the condition that it has been revealed and has not been altered or deliberately misinterpreted.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -191,3 +183,5 @@ Torah and Injil in their present form can neither be believed nor rejected altog
 It is recorded in Sahih Al-Bukhari that Sayyidna Abu Hurairah ؓ has reported that the People of the Book used to read Torah and Injil in their original language, Hebrew, but for Muslims they would relate only its translation in Arabic. the Holy Prophet ﷺ instructed the Muslims in this regard that they should neither believe nor reject what they (Jews and Christians) tell them, and instead simply say آمَنَّا بِالَّذِي أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ (We believe in what is sent down to us and sent down to you - 29:46). That is ` We have symbolic faith in that what was revealed on your prophets, but what you are telling us we do not consider it as authentic. Therefore, we abstain from endorsing or rejecting it'.
 
 ## Personal Reflections
+
+

@@ -120,15 +120,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Victory** (Al-Fath) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 “ And if you turn away, as you had turned away before, He will punish you with a painful punishment. [ 48:16] " they expressed their concern about the warning. Verse [ 17] was revealed to exempt them from the injunction of jihad. These people included blind, lame or sick persons (Qurtubi). And Allah knows best!
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ Allah then mentions the legal reasons that allow one to be excused from joining 
 “ And if you turn away, as you had turned away before, He will punish you with a painful punishment. [ 48:16] " they expressed their concern about the warning. Verse [ 17] was revealed to exempt them from the injunction of jihad. These people included blind, lame or sick persons (Qurtubi). And Allah knows best!
 
 ## Personal Reflections
+
+

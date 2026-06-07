@@ -66,18 +66,6 @@ word_by_word:
     transliteration: ghāfilūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who hope not for their meeting with Us, but are pleased and satisfied with the life of the present world, and those who are heedless of Our Ayat (7)Those, their abode will be the Fire, because of what they… In the previous verses, by mentioning the heavens and the earth and the Moon and the Sun, prominent manifestations of Allah's perfect power and wisdom, the belief in the Oneness of Allah and the Hereafter was proved eloquently.
@@ -105,3 +93,5 @@ The punishment of people whose signs have been given above is the fire of Jahann
 How regrettable that the signs of disbelievers and deniers pin-pointed by the Qur'an are no different as far as our own present condition as Muslims is concerned. By looking at our way of life and the pattern of our activities and thoughts, no one can come to the conclusion that we have some other concern bothering us except the concerns of this world under our noses. Yet, despite all that, we sit comfortably believing that we are Muslims, as staunch and true as they come. The hard reality is that the kind of staunch and true Muslims our worthy forbears were has become unimaginable for us. They were the ones a look at whose faces would remind one of God and transmit unmistakably that they feared someone above them and their hearts throbbed with the concern of being accountable to Him. Not to say more about these wonderful people, even the Holy Prophet ﷺ despite being protected from sins (ma` sum مَعصُوم), lived his blessed life in that state. It appears in Shama'il al-Tirmidhi that the Holy Prophet ﷺ looked sad and concerned fairly often.
 
 ## Personal Reflections
+
+

@@ -48,17 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Forgiver** (Ghafir) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the period of Al-Barzakh.
 
 This chain of narration is Sahih according to the conditions of Al-Bukhari and Muslim, although they did not record it. It was said, 'how can this report be reconciled with the fact that the Ayah was revealed in Makkah and the Ayah indicates that there will be torment during the period of Al-Barzakh?' The answer is that the Ayah refers to the souls (of Fir'awn and his people) being exposed to the Fire morning and evening; it does not say that the pain will affect their bodies in the grave. So it may be that this has to do specifically with their souls. With regard to there being any effect on their bodies in Al-Barzakh, and their feeling pain as a result, this is indicated in the Sunnah, in some Hadiths which we will mention below.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -193,3 +185,5 @@ The people of Fir'awn are like foolish camels, stumbling into rocks and trees wi
 This has been mentioned in verse 45 in the following words: فَوَقَاهُ اللَّـهُ سَيِّئَاتِ مَا مَكَرُ‌وا وَحَاقَ بِآلِ فِرْ‌عَوْنَ سُوءُ الْعَذَابِ (Then Allah saved him from the evils of what they designed, and the House of the Pharaoh was encircled by an evil punishment.), that is, Allah Ta’ ala saved the believer from the harm the people of Pharaoh planned to bring to him, but they themselves were seized by a severe punishment. First of all, Allah Ta’ ala, in His mercy, saved the believer belonging to the House of Pharaoh right here in this world from the aggressive designs of the people of the Pharaoh against him, the details of which have not been mentioned in the Qur'an. But, the words of the Qur'an seem to say simply that the people of the Pharaoh had made many plans to hurt and kill him, and when the people of Pharaoh were drowned, Allah Ta ala saved this believing servant of Allah along with Sayyidna Musa (علیہ السلام) . As for salvation in the Hereafter, it is fairly obvious.
 
 ## Personal Reflections
+
+

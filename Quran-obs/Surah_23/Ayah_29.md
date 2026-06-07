@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Believers** (Al-Mu'minun) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He said: "O my Lord! Help me because they deny me. (26)So, We revealed to him: "Construct the ship under Our Eyes and under Our revelation. Then, when Our command comes, and (water) gushes forth from the oven, take on board of each kind two, and your family, except those thereof against whom the Word has already gone forth. And address Me not in favor of those who have done wrong. Verily, they are to be drowned. (27)"And when you have embarked on the ship, you and whoever is with you, then say: 'All the praise be to Allah, Who has saved us from the people who are wrongdoers. (28)"And say: 'My Lord! Cause me to land at a blessed landing place, for You are the Best of those who bring to land.' (29)Verily, in this, there are indeed Ayat, for sure We are ever putting (men) to the test (30)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -107,3 +99,5 @@ as Allah mentions in another Ayah:
 وَفَارَ‌ التَّنُّورُ‌ (And the oven gushes forth - 23:27). The word تَّنُّور‌ means oven which is used for making flat, round bread, and is also used in the sense of the whole earth. According to some people تَّنُّور‌ is a specific oven in the Kufah mosque, while others believe that it was somewhere in Syria. Sayyidna Nuh (علیہ السلام) was informed by Allah that when water began boiling forth from the تَّنُّور‌ (oven) that would be the sign of the coming of the Deluge (Mazhari). The story of Sayyidna Nuh (علیہ السلام) ، the Deluge and his Ark has been reported in some earlier Surahs (See Volume 4, p. 626 to 643).
 
 ## Personal Reflections
+
+

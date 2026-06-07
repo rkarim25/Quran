@@ -126,18 +126,6 @@ word_by_word:
     transliteration: l-ṣāliḥīna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then there came to him one of them, walking shyly. Two important conditions for hiring a person, and assigning a job Allah Ta` ala made the daughter of Sayyidna Shu'aib (علیہ السلام) say something of great wisdom.
@@ -245,3 +233,5 @@ Ruling
 The word أُنكِحَكَ (I wish to marry...with you) has proved that the father had arranged the nikah. Jurists are unanimous that it should be done as such. It is the father's duty and privilege to make arrangements of daughter's marriage. A girl should not arrange her own marriage. But there is difference of opinion between jurists on the issue whether the nikah is lawful or not, if a girl arranges her own marriage due to some need or pressure. Imam Abu Hanifah (رح) has ruled that it is lawful. However, this verse is silent on the issue.
 
 ## Personal Reflections
+
+

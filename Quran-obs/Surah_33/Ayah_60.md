@@ -84,18 +84,6 @@ word_by_word:
     transliteration: qalīlan
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Prophet! The previous verses have maintained that causing pain to any Muslim, man or woman, is forbidden and is a major sin, and in particular, inflicting pain on the Holy Prophet ﷺ is an act of infidelity, liable to Allah's curse.
@@ -189,3 +177,5 @@ This verse instructs free women to observe Hijab in a particular manner, that is
 This submission makes it clear that the interpretation offered in this verse by ` Allamah Ibn Hazm and others - as different from the majority of scholars and in an effort to escape the doubt mentioned above - is something just no necessary. A doubt could have come up only when no arrangement was made for the protection of bondwomen.
 
 ## Personal Reflections
+
+

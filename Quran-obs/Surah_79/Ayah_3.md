@@ -12,18 +12,6 @@ word_by_word:
     transliteration: sabḥan
 ---
 
-## Context
-
-To understand **Those who drag forth** (An-Nazi'at) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nazi'at is a **Makkah** surah—revealed as the 81st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 46 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Hadrat Abdullah bin Abbas, this Surah was sent down after Surah An-Naba. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَالسَّابِحَاتِ سَبْحًا (and by those who float [ in the atmosphere ] swiftly...
@@ -183,3 +171,5 @@ The third quality of the angels:
 وَالسَّابِحَاتِ سَبْحًا (and by those who float [ in the atmosphere ] swiftly... 79:3). The word sabh literally means to 'swim' or 'float'. Here it signifies 'to glide along swiftly as in the sea where there is no mountain barrier'. The one who swims fast and goes far in swimming or a boatman who moves directly towards his final destination. The 'angels who float swiftly' refer to the quality of the angels of death who extract human souls and take them quickly towards the sky.
 
 ## Personal Reflections
+
+

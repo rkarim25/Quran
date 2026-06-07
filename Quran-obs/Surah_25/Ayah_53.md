@@ -67,18 +67,6 @@ word_by_word:
     transliteration: maḥjūran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had We willed, We would have raised a warner in every town (51)So obey not the disbelievers, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has appointed for him kindred by blood, and kindred by marriage. And He is the One who joined the two seas - this is sweat, very sweat and this is bitter, very bitter - and made between them a buffer and a barrier, prohibited (to cross) - 25:53.
@@ -188,3 +176,5 @@ Allah Ta’ ala in His own Wisdom has created two types of waters. One is enormo
 In this verse it is elucidated that it is a great blessing and grace of Allah Ta` a1a to have provided two types of waters in accordance with the needs of mankind. Then it is a perfect demonstration of His complete power that when a river of sweet water falls into the sea, the two waters .(the sweet and the brackish) do not mingle immediately where they meet, but for miles they remain separated from each other, despite the fact that there is no physical curtain between them. This is yet another example of His omnipotence.
 
 ## Personal Reflections
+
+

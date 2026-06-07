@@ -50,18 +50,6 @@ word_by_word:
     transliteration: rush'dan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Musa said to him: "May I follow you so that you teach me something of that knowledge which you have been taught (by Allah)? Following the teacher is incumbent on the student In verse 66: هَلْ أَتَّبِعُكَ عَلَىٰ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُ‌شْدًا ، Sayyidna Musa (علیہ السلام) despite being a prophet and messenger of great resolve, has most reverentially requested al-Khadir (علیہ السلام) if he could follow him to learn his knowledge from him.
@@ -125,3 +113,5 @@ Following the teacher is incumbent on the student
 In verse 66: هَلْ أَتَّبِعُكَ عَلَىٰ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُ‌شْدًا ، Sayyidna Musa (علیہ السلام) despite being a prophet and messenger of great resolve, has most reverentially requested al-Khadir (علیہ السلام) if he could follow him to learn his knowledge from him. This tells us that the etiquette of acquiring knowledge is nothing but that the student should show respect for the teacher and follow him (as an individual who is eager to learn) - even if the student happens to be superior to his teacher. (Qurtubi, Mazhari)
 
 ## Personal Reflections
+
+

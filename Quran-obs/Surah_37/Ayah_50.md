@@ -24,18 +24,6 @@ word_by_word:
     transliteration: yatasāalūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then they will turn to one another, mutually questioning (50)A speaker of them will say: "Verily, I had a companion (in the world), (51)"Who used to say: 'Are you among those who believe (52)(That) when we die and become dust and bones, shall we indeed be indebted (Madinun)?' (53)(The speaker) said: "Will you look down? An inmate of Jannah and his disbelieving acquaintance After having described the general condition of the people of Jannah, one of them has been mentioned particularly.
@@ -135,3 +123,5 @@ An advice to avoid bad company
 Anyhow, whoever this person may be - it does not matter. This event has been mentioned with a purpose. The noble Qur'an is really alerting people towards a beneficial rule operative in human relations. Let everyone make a careful survey of his or her circle of friends, and try to find out whether or nor there is someone included therein who may actually be dragging them towards the sad end of the Jahannam. The destruction bad company can bring about can only be discovered fully and truly in the Hereafter - and that will be a time when there will be no escape from such destruction. Therefore, it is better to take one's guard right here in this world in matters concerning the taking of friends and promoting of relationships, something that must be done with due caution and judgment. There are occasions and circumstances when one does not foresee what would happen after having inculcated relationships with someone who disbelieves or disobeys. What ultimately happens is that one starts becoming affected by his ideas, thoughts and way of life without having any sense of that which is happening to him. This attitude proves lethal for one who is so affected in terms of the end he would have in the Hereafter.
 
 ## Personal Reflections
+
+

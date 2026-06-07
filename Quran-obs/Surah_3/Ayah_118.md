@@ -132,13 +132,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 118, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-These verses were revealed in a particular background. There were Jewish settlements around Madinah. They had old friendly ties with the tribes of Aws and Khazraj. Individuals from these tribes were also on friendly terms with other individuals from the Jewish settlements. In their tribal capacity too, Aws and Khazraj were to the Jews their neighbours and allies. When these two tribes embraced Islam, they continued to maintain their old ties with them. Individuals from these tribes saw no problems in meeting their old Jewish friends with the same love and sincerity. But, Jews were so hostile to the Holy Prophet ﷺ and the religion brought by him that they were unwilling to be sincere and loving to anyone who had said yes to the prophetic call and had embraced Islam. So, they outwardly went along with the same old relationships with'the Ansars of Madinah, but inwardly they had turned into their enemies. The apparent friendship they had allowed to remain became their cover which they utilized in their sinster efforts to foment trouble among Muslims so that their unity could be disintegrated.
+These verses were revealed in a particular background. There were Jewish settlements around Madinah. They had old friendly ties with the tribes of Aws and Khazraj. Individuals from these tribes were also on friendly terms with other individuals from the Jewish settlements. In their tribal capacity too, Aws and Khazraj were to the Jews their neighbours and allies. When these two tribes embraced Islam, they continued to maintain their old ties with them. Individuals from these tribes saw no problems in meeting their old Jewish friends with the same love and sincerity. But, Jews were so hostile to the Holy Prophet ﷺ and the religion brought by him that they were unwilling to be sincere and loving to anyone who had said yes to the prophetic call and had embraced Islam. So, they outwardly went along with the same old relationships with'the Ansars of Madinah, but inwardly they had turned into their enemies. The apparent friendship they had allowed to remain became their cover which they utilized in their sinster efforts to foment trouble among Muslims so that their unity could be disintegrated. They even went to the limit of banking on this feigned friendship with Muslims to find out their organizational secrets and pass them on to the enemies.
 
 ## Tafsir Summary
 
@@ -285,3 +279,5 @@ The reason why this command has been given is explained soon after. Starting fro
 The sentence وَدُّوا مَا عَنِتُّمْ ; (they want you to be in trouble) is a perfect mirror of the mentality of disbelievers. Here, the in-depth teaching is that no non-Muslim can ever be the real friend and well-wisher of Muslims.
 
 ## Personal Reflections
+
+

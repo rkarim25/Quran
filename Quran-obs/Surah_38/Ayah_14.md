@@ -32,18 +32,6 @@ word_by_word:
     transliteration: ʿiqābi
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Before them denied – the people of Nuh; and 'Ad; and Fir'awn the man of stakes (12)And Thamud, and the people of Lut, and the Dwellers of Al-Aykah; such were the Confederates (13)Not one of them but denied the Messengers; therefore My torment was justified (14)And these only wait for a single Sayhah there will be no pause or ending thereto (15)They say: "Our Lord! أُولَـٰئِكَ الْأَحْزَابُ (They were the [ strong ] groups.
@@ -89,3 +77,5 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 أُولَـٰئِكَ الْأَحْزَابُ (They were the [ strong ] groups. - 38:13) One explanation of this statement is that it is the description of the word 'groups' in verse 11. In other words, 'these are the groups or Confederates that have been pointed out in this verse.' Maulana Thanavi (رح) has gone by this Tafsir in his explanation of the verse. But, other commentators explain it in the sense that actually they were the groups that were really strong, not these people of Makkah. In other words, those who possessed real strength and power were the people of Nuh and ` Ad and Thamud and others like them. Compared with them, the Mushrihs of Makkah were nothing. When such powerful people could not escape Divine punishment, they would hardly count. (Qurtubi)
 
 ## Personal Reflections
+
+

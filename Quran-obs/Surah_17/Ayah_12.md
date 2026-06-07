@@ -102,18 +102,6 @@ word_by_word:
     transliteration: tafṣīlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We have appointed the night and the day as two Ayat (signs). In the verses cited above, first it was declared that the alternation of night and day was a sign of the most perfect power of Allah Ta` ala.
@@ -197,3 +185,5 @@ As for the day being bright, it has two elements of wisdom. Firstly, one can ear
 Similarly, other calculations are also related to the alternation of night and day. If this variation of night and day were not there, it would have been difficult to fix the wages of the wage earner, the employment of the employee and the time duration of transactions.
 
 ## Personal Reflections
+
+

@@ -16,18 +16,6 @@ word_by_word:
     transliteration: nushirat
 ---
 
-## Context
-
-To understand **The Overthrowing** (At-Takwir) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا الْمَوْءُودَةُ سُئِلَتْ (and when the girl-child that was buried alive will be asked, for what sin she was killed...81:8) The word mau'udah is the girl-child buried alive.
@@ -281,3 +269,5 @@ Ruling [ 2]: Birth Control
 Birth control, whose many forms are invented today, is also termed by the Holy Prophet ﷺ as 'hidden infanticide' in a hadith reported by Muslim from Judhamah bint Wahb ؓ . There are, however, some ahadith in which the Holy Prophet ﷺ is reported to have allowed ` azl (coitus interruptus) or to have observed silence when asked about it, which is a sign of permissibility of such an act. But it should be remembered that its permissibility is restricted to genuine needs, and that too in a way that productivity of the woman is not permanently blocked. [ Mazhari ]. The present-day medical science has invented some measures that prevent pregnancy forever. The Shari'ah does not permit such measures under any circumstances. Allah knows best!
 
 ## Personal Reflections
+
+

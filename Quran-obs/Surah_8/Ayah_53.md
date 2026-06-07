@@ -78,18 +78,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves. Stated in the fourth verse (53) there is a standing rule which spells out the condition under which Allah Ta` ala allows a people to continue enjoying blessings bestowed by Him.
@@ -137,3 +125,5 @@ However, a return to the subject of the verse tells us that there are occasions 
 At the end of the verse, it was said: وَأَنَّ اللَّـهَ سَمِيعٌ عَلِيمٌ (and that Allah is All-Hearing, All-Knowing - 53). It means that Allah Ta` ala is the one who hears everything they say and knows everything they do, there-fore, there is no probability of some error or misunderstanding in the decision He finally takes.
 
 ## Personal Reflections
+
+

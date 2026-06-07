@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-mutaqīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 How can there be a covenant with Allah and with His Messenger for the Mushrikin except those with whom you made a covenant near Al-Masjid Al-Haram (at Makkah)? Uphold truth and commit no excess or injustice even against disbelievers is the teaching of Qur'an This statement of the Qur'an provides guidance for Muslims that they should never surrender truth and justice even when they are dealing with confronting enemies.
@@ -153,3 +141,5 @@ Uphold truth and commit no excess or injustice even against disbelievers is the 
 This statement of the Qur'an provides guidance for Muslims that they should never surrender truth and justice even when they are dealing with confronting enemies. Whenever they have to take up an issue with them, they are required not to slip into taking exaggerated approaches and stances against them. This is as it has been demonstrated in these verses where full consideration has been given to the case of the disbelievers of Makkah. The fact was that most of them had broken their pledge. Naturally, when something like this happens in that setting, people tend to make a sweeping allegation against every-one. But, the Holy Qur'an, by saying: إِلَّا الَّذِينَ عَاهَدتُّمْ عِندَ الْمَسْجِدِ الْحَرَ‌امِ (except those with whom you made a treaty near al-masjid-al-Haram), has exempted those who had not broken their pledge. In fact, it has ordered that Muslims should stay firm on their commitment as long as the others remain committed and faithful to their pledge. The breach of trust committed by other people should in no case influence their stance whereby they themselves may be led to become breakers of the pledge given to them.
 
 ## Personal Reflections
+
+

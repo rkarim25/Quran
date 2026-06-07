@@ -63,18 +63,6 @@ word_by_word:
     transliteration: mus'limīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "Disguise her throne for her that we may see whether she will be guided, or she will be one of those not guided. قَالَ الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِتَابِ (Said the one who had the knowledge of the book - 27:40).
@@ -182,3 +170,5 @@ The assertion أَنَا آتِيكَ بِهِ قَبْلَ أَن يَرْ‌ت
 This explanation is taken from the commentary ` Ahkam ul Qur'an' by Sayyidi Hakimul Ummah Maulana Ashraf ` Ali Thanawi (رح) ، on Surah An-Naml. Apart from that, he has also written a pamphlet on Tasarruf in Arabic under the title ` At-Tasarruf, which I have translated in Urdu and has been published separately.
 
 ## Personal Reflections
+
+

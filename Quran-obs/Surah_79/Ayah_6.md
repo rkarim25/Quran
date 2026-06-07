@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-rājifatu
 ---
 
-## Context
-
-To understand **Those who drag forth** (An-Nazi'at) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nazi'at is a **Makkah** surah—revealed as the 81st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 46 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Hadrat Abdullah bin Abbas, this Surah was sent down after Surah An-Naba. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. فَالْمُدَبِّرَ‌اتِ أَمْرً‌ا (then manage [ to do ] everything [ they are ordered to do,]...79:5).
@@ -199,3 +187,5 @@ The readers are referred to a special research and analysis by the Baihaqi of hi
 The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecters of Resurrection. The next verses recount the story of Musa (علیہ السلام) and Fir'aun to console him, and to show that the adverse attitude of the pagans is not confined to him. The previous prophets have also faced similar situations, but they endured them with patience. The Holy Prophet ﷺ too should exercise patience and fortitude.
 
 ## Personal Reflections
+
+

@@ -68,17 +68,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 281, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (if you indeed have been believers) believing in the trade that He allowed you and the prohibition of Riba. Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin 'Umayr, a sub-tribe of Thaqif, and Bani Al-Mughirah, from the tribe of Bani Makhzum, between whom were outstanding transactions of Riba leftover from time of Jahiliyyah. When Islam came and both tribes became Muslims, Thaqif required Bani Al-Mughirah to pay the Riba of that transaction, but Bani Al-Mughirah said, "We do not pay Riba in Islam." 'Attab bin Usayd, the Prophet's deputy on Makkah, wrote to the Messenger of Allah ﷺ about this matter. This Ayah was then revealed and the Messenger of Allah ﷺ conveyed it to 'Attab,
 
 Sayyidna ` Abdullah ibn ` Abbas ؓ says that this verse is the last in the order of its revelation. No other verse was revealed after that. Thirty-one days later, the Holy Prophet ﷺ left this mortal world. There are other reports which say that this happened after only nine days.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -263,3 +255,5 @@ In this verse, it has been stated that spending on relatives, the poor and the w
 Anyhow, there are, beside this particular verse, several other verses cited earlier which do deal with the prohibition of ربا riba. Out of these, there is the verse from Surah Al-` Imran which prohibits doubled and multiplied ربا riba; the rest of the verses state the prohibition of riba as such. These details, at the least, clear this much that ربا riba is حرام haram (unlawful) anyway, be it doubled and multiplied, simple or compound. It may be kept in mind that the degree of its being حرام haram is so severe that a declaration of war has been made on behalf of Allah and His Messenger against those who challenge the injunction.
 
 ## Personal Reflections
+
+

@@ -25,18 +25,6 @@ word_by_word:
     transliteration: wal-maḥrūmi
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Special Guidance for Philanthropists وَفِي أَمْوَالِهِمْ حَقٌّ لِّلسَّائِلِ وَالْمَحْرُ‌ومِ (and in their wealth, there was a right for the one who asks and the one who is deprived...51:19) The word sail means the poor or needy who begs others, that is, he expresses his needs to people who help him.
@@ -174,3 +162,5 @@ Special Guidance for Philanthropists
 The purpose of the verse is to show that the believers and the righteous do not only perform bodily worship, such as prayers and remaining awake at night, but they also play a major role in performing pecuniary worship, in that besides helping the people who beg they also look for, and help, those who out of self-respect do not express their needs to anyone. When mentioning this pecuniary worship, the expression used by the Qur'an is the following, وَفِي أَمْوَالِهِمْ حَقٌّ "and in their wealth, there was a right". It means that when they meet the needs of the poor, they do not deem it a favour shown to them, but they appreciate that the poor have a 'right' in the wealth Allah has blessed them with, and fulfilling one's right is not a favour; it is rather a duty and responsibility that one has to discharge.
 
 ## Personal Reflections
+
+

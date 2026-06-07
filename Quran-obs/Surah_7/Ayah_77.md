@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -234,3 +226,5 @@ At last came the second day and, true to the prophecy, everyone's face turned re
 In this state of theirs, a severe earthquake struck from down below the earth, and. from above tore in a horrendously shrill cry, an awesomely severe sound. This cry or sound caused everyone to die, instantly and simultaneously, fallen upside down, (like some dead bird landing on the ground on its breast - see ` Jathimin' in Mufradat al-Qur'an). As for the coming of the earthquake, it does find mention in verse 78 which appears above, that is: فَأَخَذَتْهُمُ الرَّ‌جْفَةُ (So, the earthquake seized them). The word:' الرَّ‌جْفَةُ (ar-rajfah) means earthquake.
 
 ## Personal Reflections
+
+

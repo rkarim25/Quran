@@ -134,17 +134,9 @@ word_by_word:
 
 ## Context
 
-To understand **Explained in Detail** (Fussilat) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And if We had revealed it unto any of the non-Arabs, and he had recited it unto them, they would not have believed in it.)(26:198-199). If the Qur'an had been revealed in the language of the non-Arabs, they would have said, because of their stubbornness:
 
 (Why are not its verses explained in detail? What! not in Arabic and an Arab?) meaning, why is it not revealed in detail in Arabic? And by way of denunciation they would have said, "What! not in Arabic nor from an Arab? – i.e., how can foreign words be revealed to an Arab who does not understand them? This interpretation was reported from Ibn 'Abbas, Mujahid, 'Ikrimah, Sa'id bin Jubayr, As-Suddi and others.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -221,3 +213,5 @@ Taking Musa as an Example
 أُولَـٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ (Such people are being called from a distant place. - 44) This is a similitude. A person who understands what is being said, the Arabs say to him, اَنتَ تسمَعُ مِن قَرِیب (you are listening from a near place) and if a person does not understand the discourse, they say to him اَنتَ تُنَادٰی مِن بَعِید (you are being called from a distant place) (Qurtubi). The meaning is that since these people do not intend to listen and to understand the directions of the Qur'an, their ears are almost deaf and their eyes are blind, therefore teaching them the Qur'anic guidance is like calling someone from such a distant place that the voice does not reach his ears.
 
 ## Personal Reflections
+
+

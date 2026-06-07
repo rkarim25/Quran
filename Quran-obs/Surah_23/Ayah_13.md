@@ -28,18 +28,6 @@ word_by_word:
     transliteration: makīnin
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We created man out of an extract of Tin (12)Thereafter We made him a Nutfah in a safe lodging (13)Then We made the Nutfah into a clot, then We made the clot into a little lump of flesh, then We made out of that little lump of flesh bones, then We clothed the bones with flesh, and then We brought it forth as another creation. In the next verse : ثُمَّ جَعَلْنَاهُ نُطْفَةً (then We made him a sperm-drop) this same point has been mentioned differently.
@@ -135,3 +123,5 @@ Imam Ahmad recorded from Abu Musa that the Prophet ﷺ said:
 In the next verse : ثُمَّ جَعَلْنَاهُ نُطْفَةً (then We made him a sperm-drop) this same point has been mentioned differently. The meaning of all this is that the first life i.e. Sayyidna 'Adam علیہ السلامٍ was created from earth and continued further with the sperm which is a refined element of the same earth. This is how a majority of commentators have explained this verse. Another view is that (extract of clay) may also mean human seed because it is produced from the food which a man takes and the food grows out of the earth.
 
 ## Personal Reflections
+
+

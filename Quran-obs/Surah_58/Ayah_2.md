@@ -103,15 +103,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's Messenger ﷺ felt the hardship upon receiving the revelation as he usually did and then became relieved. He said to me,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -248,3 +240,5 @@ The current set of verses brought about reform in the custom in two ways: [ 1] z
 [ 2] The second reform the Qur'an brought about is as follows: If an ignorant person or a person unacquainted with the legal formalities of Islam were to utter the zihar formula, his wife does not become permanently unlawful to him, nor does he have an open licence to do as he wishes - like enjoying intimacy with her. The guilty person will have to pay a penalty for uttering such evil, false and obnoxious words. He cannot take back his wife without first paying the prescribed expiation. The following verse prescribes this expiation.
 
 ## Personal Reflections
+
+

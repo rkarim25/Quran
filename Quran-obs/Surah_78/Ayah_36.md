@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ḥisāban
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-31-36 , the best rewards of those who lived as responsible people in the world and have provided for their Hereafter beforehand have been mentioned.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… زَاءً مِّن رَّ‌بِّكَ عَطَاءً حِسَابًا (this being a reward from their Lord, a suffering grant...78:36).
@@ -205,3 +193,5 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 The word hisaban has two meanings: [ 1] a grant [ that is ] sufficient [ and ] abundant. This meaning is adapted from the following idiom: اَحسبتُ فُلاناً ای اَعطَیتُہ، ما یَکفِیہِ حَتَٰی قَالَ حَسبِی 'ahsabtu means that I gave him so much so that it was sufficient for him until he yelled out "enough, this is too much for me"; and [ 2] the second meaning 'balancing of account' and 'comparing'. Sayyidna Mujahid ؓ says that in this context the verse purports to say that the Divine grant will be given gratis to the inmates of Paradise. The grant will be in keeping with the degree of sincerity as reported in authentic Traditions. The deeds of the noble Companions are greater than the deeds of the rest of the Ummah. If a Companion were to spend in the way of Allah one mudd = [ 815, 39 grams ] and a non-Companion were to spend to the equivalent of Mount Uhud, the Companion's one mudd will weigh heavier than the mountain. And Allah knows best!
 
 ## Personal Reflections
+
+

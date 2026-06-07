@@ -67,18 +67,6 @@ word_by_word:
     transliteration: biḥafīẓin
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, Basa'ir (proofs) have come to you from your Lord, so whosoever sees, will do so for (the good of) himself, and whosoever blinds himself, will do so against himself, and I am not a 'Hafīz' over you (104)Thus We explain variously the verses so that they (the disbelievers) may say: "You have Darasta (studied)" and that We may make the matter clear for the people who have knowledge (105) Basa'ir are the proofs and evidences in the Qur'an and the Message of Allah's Messenger ﷺ.
@@ -214,3 +202,5 @@ So, whoever has used these means has become the one blessed with true insight wi
 Towards the end of the verse, it was said: ` I do not stand guard over you.' It means that the Holy Prophet ﷺ has not been given the responsibility of forcing people to stop doing what was improper, as usually done by one appointed to oversee and guard (or self-appointed as vigilantes in our day). Instead, the functional responsibility of a messenger of Allah is only to convey commands, and explain. After that, following or not following the message conveyed becomes a matter of personal discretion and responsibility of the addressees.
 
 ## Personal Reflections
+
+

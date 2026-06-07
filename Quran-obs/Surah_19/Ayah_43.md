@@ -58,18 +58,6 @@ word_by_word:
     transliteration: sawiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And mention in the Book, Ibrahim. How to give counsel to elders.
@@ -135,3 +123,5 @@ How to give counsel to elders.
 يَا أَبَتِ (My dear father - 19:42) In Arabic language this word conveys deep respect and intense love for one's father. Allah Ta` ala had combined in the person of Sayyidna Khalilullah (علیہ السلام) the noble qualities and attributes, and his address to his father is a perfect example of moderation and restraint on the one hand, and the balancing of the opposites on the other. He finds his father living a life of unbelief and polytheism, and also calling upon other people to follow him in a life of sin - the very things which he was sent to eradicate. At the same time there is the filial love and respect which he feels towards his father. Now, the thing to note is, how well he combines the two conflicting feelings together. In the first place he uses the word يَا أَبَتِ , which is the mark of love and respect for his father, in the beginning of each sentence of the address. Then there is not a single derogatory word in his address which could hurt the feelings of his father, and words such as infidel or sinner have been carefully avoided. Instead, guided by prophetic wisdom he merely invited his father's attention to the helplessness and insensitivity of his idols, so that he might himself realize the fallacy of his beliefs. In the second sentence he made a mention of the prophetic knowledge that was granted to him by Allah Ta’ ala. Then in the third and fourth sentences he warned him against the Divine wrath, which would surely fall on him as a punishment for infidelity and idolatry. Even to these respectful entreaties his father did not pay any heed and, instead of giving any thought to what was said to him and adopting a gentle attitude, he addressed him ina very harsh language. Whereas Sayyidna Ibrahim (علیہ السلام) had addressed him with the loving words of يَا أَبَتِ , which should have called for a soft and tender response, such as یَا بُنَیَّ (My dear son) he chose to call him by his name and said يَا إِبْرَ‌اهِيمُ , and not only threatened to stone him to death but also asked him to leave his house. How Sayyidna Khalilullah' (علیہا السلام) responded to this threat is worthy of deep reflection.
 
 ## Personal Reflections
+
+

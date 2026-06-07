@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was revealed in Makkah at night, accompanied by seventy thousand angels, raising their voices in glorification of Allah" As-Suddi said that Murrah said that 'Abdullah said, "Surat Al-An'am was revealed in the company of seventy thousand angels."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -163,3 +155,5 @@ Meaning, it is He Who is called Allah, throughout the heavens and the earth, tha
 The third verse contains the consequential outcome of what was said in the first two verses. It declares that Allah is the only Being who is worthy of worship and obedience in all the heavens and the earth, and He is the One who knows everything human beings conceal or reveal and, particularly, everything they say or do.
 
 ## Personal Reflections
+
+

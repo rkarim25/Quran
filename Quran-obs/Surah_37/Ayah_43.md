@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-naʿīmi
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, you are going to taste the painful torment (38)And you will be requited nothing except for what you used to do (39)Save the chosen servants of Allah (40)For them there will be a known provision (41)Fruits; and th… 2.
@@ -145,3 +133,5 @@ Allah refined the wine of Paradise from the bad effects of the wine of this worl
 3. Then, by saying: وَهُم مُّكْرَ‌مُونَ (wa hum mukramun: and they will be honored), it was given to understand that this provision will be presented to the people of Jannah with full protocol of hospitality and honor, for an absence of it would render even the most delicious offering remain without relish. From here, we also learn that the right of a guest is not fulfilled simply by feeding him or her. In fact, the warmth of hospitality and the according of honor to a guest is also included under his or her rights.
 
 ## Personal Reflections
+
+

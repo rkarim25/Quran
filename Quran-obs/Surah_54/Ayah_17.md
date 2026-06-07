@@ -33,18 +33,6 @@ word_by_word:
     transliteration: muddakirin
 ---
 
-## Context
-
-To understand **The Moon** (Al-Qamar) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The incident of the shaqq-al-Qamar (splitting of the moon) that has been mentioned in it, determines its period of revelation precisely. The traditionists and commentators are agreed that this incident took place at Mina in Makkah about five years before the Holy Prophet's hijrah to Madinah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The people of Nuh denied (their Messenger) before them. وَلَقَدْ يَسَّرْ‌نَا الْقُرْ‌آنَ لِلذِّكْرِ‌ فَهَلْ مِن مُّدَّكِرٍ‌ (And indeed We have made the Qur'an easy for seeking advice.
@@ -174,3 +162,5 @@ In this verse the verb یَسَّرنَا yassarna [ We have made easy ] is qual
 This indicates the error of some of the deviant people who, on the strength of this statement, wish to pose as mujtahid and derive laws and injunctions with their own reasoning, without acquiring complete and profound knowledge of the Qur'an, and without fully grasping its methodological principles and rules. This is clear deviation!
 
 ## Personal Reflections
+
+

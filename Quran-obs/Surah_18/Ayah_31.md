@@ -122,18 +122,6 @@ word_by_word:
     transliteration: mur'tafaqan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, as for those who believed and did righteous deeds, certainly We shall not make the reward of anyone to be lost who does his (righteous) deeds in the most perfect manner (30)These! At this point, someone may doubt that this advice was reasonably practicable.
@@ -205,3 +193,5 @@ It has been mentioned in verse 31: يُحَلَّوْنَ فِيهَا (They wil
 The answer is that embellishment and beauty are subservient to practice or custom as recognized in a society. What is considered to be embellishment and beauty in one country or region could more than often be detested in other countries and regions. And this could be the other way round as well. Similarly, something is taken to be an embellishment in a given period of time. Comes another time and it becomes a blemish. When ornaments and silk dresses will come to be established as embellishment and beauty for men of Jannah too, no one is going to feel strange with it there. That which puts restraints on us here is a law of this world which stipulates that it is not permissible for men to wear any ornament of gold, even a ring or chain for watch made of gold. Similarly, silk clothes are not permissible for men. This will not be the law of Jannah. That is a universe of existence separate from this entire universe of our experience. It cannot be imagined on the analogy of anything in and around us on this basis alone.
 
 ## Personal Reflections
+
+

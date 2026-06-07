@@ -98,17 +98,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And offer your Salah neither aloud) Imam Ahmad reported that Ibn 'Abbas said: "This Ayah was revealed when the Messenger of Allah ﷺ was preaching underground in Makkah."
 
 (but follow a way between.)" This was the view of 'Ikrimah, Al-Hasan Al-Basri and Qatadah that this Ayah was revealed concerning recitation in prayer. It was narrated from Ibn Mas'ud: "Do not make it so soft that no one can hear it except yourself."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -227,3 +219,5 @@ In prayers with voiced recitation, included there are the Fard of Maghrib, ` Ish
 Problems and their solutions relating to the loud or lowered rendering of the recitation of the Qur'an in Salah, or on occasions other than it, have been already explained in Surah al-A` raf (see commentary under Verse 55, Volume III). About the last verse beginning with: قُلِ الحَمدُ للہِ (say, 'alhamdulillah: praise belongs to Allah' ), the Hadith says that this is the 'ayah' (verse) of 'izzah' (power and glory). [ The reference is to the efficacy of the verse in seeking the help of Allah to overcome weaknesses and difficulties ]. (Reported by Abmad and at-Tabarani on the authority of Sayyidna Mu۔ adh al-Juhaniyy as in Mazhari) This verse also provides an essential guidance. The drive of the meaning is that it does not matter how much one devotes to the worship of Allah, one is still obligated to take his or her deed to be deficient as compared with His due right and confess to the likely shortfall in performing it. (Mazhari)
 
 ## Personal Reflections
+
+

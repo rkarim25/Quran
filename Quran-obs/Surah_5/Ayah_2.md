@@ -226,15 +226,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and pleasure.) Ibn 'Abbas said that the word 'pleasure' in the Ayah refers to, "seeking Allah's pleasure by their Hajj." 'Ikrimah, As-Suddi and Ibn Jarir mentioned that this Ayah was revealed concerning Al-Hutam bin Hind Al-Bakri, who had raided the cattle belonging to the people of Al-Madinah. The following year, he wanted to perform 'Umrah to the House of Allah and some of the Companions wanted to attack him on his way to the House. Allah revealed,
 
-These events have been narrated by Ibn Jarir on the authority of ` Ikrimah and al-Suddi. It was on the basis of some of these events that the present verse was revealed. Through it, Muslims were told that holding the signs of Allah in esteem was their own bounden duty. Malice and hostility against an enemy was no reason to disturb this standing rule. This was absolutely impermissible. Even fighting during the sacred months was not permissible. Also not permissible was stopping sacrificial animals from reaching the Haram or taking them away forcibly.
+These events have been narrated by Ibn Jarir on the authority of ` Ikrimah and al-Suddi. It was on the basis of some of these events that the present verse was revealed. Through it, Muslims were told that holding the signs of Allah in esteem was their own bounden duty. Malice and hostility against an enemy was no reason to disturb this standing rule. This was absolutely impermissible. Even fighting during the sacred months was not permissible. Also not permissible was stopping sacrificial animals from reaching the Haram or taking them away forcibly. As for the disbelievers who have donned the Ihram garments and who, in their estimation, have embarked on their pilgrimage to seek the good pleasure of Allah Almighty (though, because of their disbelief, this is a mistaken notion, yet) the sanctity of the signs of Allah demands that they should not be confronted in any way. Then there was the case of people who had stopped their ` Umrah. Any effort to avenge their past hostility against Muslims in the form of Muslims stopping Muslims from performing their rites of Ha them was not permissible. This is so because this amounts to Muslims doing an injustice in return for an injustice to them which was not permissible in Islam. We can now go to a detailed explanation of the verse.
 
 ## Tafsir Summary
 
@@ -549,3 +543,5 @@ This is the teaching of the Qur'an and Sunnah which aimed at spreading the virtu
 On the other side, there were the masses of people who took it for granted that the eradication of crimes is the exclusive responsibility of the government. In fact, they have become used to keeping crimes covered up. The idea of coming up with true witnesses to confirm truth and eliminate crime is no more a favoured practice among them. Such people must understand that covering up the crime of the criminal and avoiding to put their witness on record is an, abetment of crime which, according to the Holy Qur'an, is Haram (unlawful) and a grave sin in-deed. Furthermore, it is also a flagrant disobedience of the Divine command: وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ (And help each other in righteousness and piety, and do not help each other in sin and aggression) (5:2).
 
 ## Personal Reflections
+
+

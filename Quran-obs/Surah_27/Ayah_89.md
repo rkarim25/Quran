@@ -50,18 +50,6 @@ word_by_word:
     transliteration: āminūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 89, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day on which the Trumpet (Şūr) will be blown – and all who are in the heavens and all who are on the earth, will be terrified except him whom Allah wills. "Whoever will come with the good deed will have (a reward) better than that" - 27:89 This description relates to the situation that will take place after the Doomsday and the account taking.
@@ -191,3 +179,5 @@ and such people will be immune on that day from any panic -27:89.
 Word Faza' is purported here for any big calamity or perplexity. Thus the meaning of the sentence is that, while living in this world, every pious person is scared of his fate in the Hereafter, and as a matter of fact, he should be scared in the light of Qur'anic verse إِنَّ عَذَابَ رَ‌بِّهِمْ غَيْرُ‌ مَأْمُونٍ (70:28). The torment of Allah is not something to be forgotten and set aside. It is for this reason that even the prophets, the companions, and saints were always frightened and daunted. But after the account taking on Doomsday those who would bring the hasanah (the good deed contemplated in this verse) with them would be free from all fear and grief, and will live forever in complete tranquility. (Only Allah knows best)
 
 ## Personal Reflections
+
+

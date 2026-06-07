@@ -173,18 +173,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 152, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! As obvious, the noble Companions made an error of judgement during the battle of Uhud which forms the subject of admonition and correction in the previous continuity of verses.
@@ -348,3 +336,5 @@ As stated in the verses, the noble Companions were split in two groups at that t
 Keeping this in view, it is obvious that their action cannot be classed as the unqualified pursuit of the material. Instead of that, it is participation in what مجاہدین mujahidin are supposed to do. However, given the workings of human nature, the thought of spoils entering their hearts at that time is not totally unimaginable. But, Allah Almighty has His ways with people; He very much likes to see the hearts of the Companions of His Messenger clean and untouched even by the remotest idea of any tilt towards material possession. So, this very idea of going to possess things of دنیا dunya has been equated with 'seeking of the mundane' which explains the element of divine distaste for the action.
 
 ## Personal Reflections
+
+

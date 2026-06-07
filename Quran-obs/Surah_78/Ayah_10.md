@@ -16,18 +16,6 @@ word_by_word:
     transliteration: libāsan
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Beneficent, the Most Merciful. وَجَعَلْنَا اللَّيْلَ لِبَاسًا (and made the night a covering...
@@ -187,3 +175,5 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 وَجَعَلْنَا اللَّيْلَ لِبَاسًا (and made the night a covering... 78:10) This points to the fact that man naturally feels sleepy when light decreases and darkness prevails, when there is tranquility all around and there is absence of noises. The verse under comment additionally signifies that Allah did not only give man sleep, but created in the entire world conditions that are suitable for sleep. That is to say: [ 1] darkness of night; [ 2] the state of sleep is imposed on all humans and animals simultaneously, so that they sleep at the same time. In this way, there will be peace and tranquility throughout the world. Like other works, if there are different times for different people to sleep, no one will have peace and tranquility.
 
 ## Personal Reflections
+
+

@@ -119,18 +119,6 @@ word_by_word:
     transliteration: l-ʿadhābu
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 On the Day you shall see the believing men and the believing women – their light running forward before them and in their right hands. يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا انظُرُ‌ونَا نَقْتَبِسْ مِن نُّورِ‌كُمْ (...the Day when the hypocrite men and hypocrite women will say to those who believe, "Wait for us, so that we may have a share from your light...(57:13) The meaning is self-evident.
@@ -260,3 +248,5 @@ Special Note
 In the matter of light, the infidels are not mentioned anywhere, because in their case there is no question of having such a light. The hypocrites are, however, mentioned and there are two narrations concerning them: [ 1] That they will not receive light at all from the outset; or [ 2] They will receive it at first, but when they arrive at the Bridge of Sirat, it will be extinguished. A wall will be erected as a barrier between them and the believers. This goes to show that only the believers will cross the Bridge of Sirat from above the Hell. The infidels and pagans will not pass through the Bridge. They will be pushed into the Fire direct through the doors of Hell. The sinful believers, who will be kept in the Hell for a while to be cleansed of their sins, will fall into the Hell while crossing the Bridge. The rest of the believers will cross the bridge safely and enter Paradise, as explicitly stated by Shah ` Abdul-Qadir Dehlawi (رح) and supported by Durr. Allah knows best!
 
 ## Personal Reflections
+
+

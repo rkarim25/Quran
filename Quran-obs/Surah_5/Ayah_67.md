@@ -106,17 +106,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari recorded that 'A'ishah said, "Whoever says to you that Muhammad hid any part of what Allah revealed to him, then he is uttering a lie. Allah said,
 
 (And if you do not, then you have not conveyed His Message.) "It means, if you hide only one Ayah that was revealed to you from your Lord, then you have not conveyed His Message." Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -225,3 +217,5 @@ In a Hadith narrated by Sayyidna Hasan, the Holy Prophet ﷺ has been reported t
 Thus, after the revelation of this verse, no one dared to harm the Holy Prophet ﷺ during his efforts to spread the message of Islam as a prophet of Allah. Any casual injury received in Jihad battles is not contrary to this.
 
 ## Personal Reflections
+
+

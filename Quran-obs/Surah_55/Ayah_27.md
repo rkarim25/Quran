@@ -29,18 +29,6 @@ word_by_word:
     transliteration: wal-ik'rāmi
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him. وَجْهُ رَ‌بِّكَ (...your Lord's Countenance ....55:27).
@@ -100,3 +88,5 @@ Other exegetes have interpreted the phrases وَجْهُ رَ‌بِّكَ 'your
 ذُو الْجَلَالِ وَالْإِكْرَ‌امِ (...full of majesty, full of honour...55:27). In other words, the Lord is the Master of Greatness, Grandeur and Tremendousness. This is Allah's Majesty that overwhelms His creation and fills them with awe. The Lord is also the Master of Honour, signifying that those who benefit by the great favours Allah has bestowed upon them and walk in the path of truth and righteousness will be granted more favours by the Lord of Honour. Despite being the Lord of Greatness and Majesty, Allah is not like the worldly kings and rulers who would not pay attention to others or the indigent people. He grants their petition and invocation. The next verse [ to be analysed in the forthcoming paragraph ] bears testimony to this interpretation. The current phrase under discussion constitutes one of those special Attributes of Allah which if a suppliant were to invoke before calling upon Allah for help, protection, inspiration and a host of other things, the supplication will be readily granted as recorded in Tirmidhi, Nasa'i and Musnad of Ahmad. Ibn ` Amir, has transmitted that the Messenger of Allah ﷺ said: اَلِظُّوا بِیَا ذَا الجَلَال وَالاِکرَام (Persist [ in invoking Allah ] with '0 Lord of Majesty and Honour'." The imperative alizzu is derived from the infinitive ilzaz which means 'to continue firmly in some course of action'. [ Mazhari ]
 
 ## Personal Reflections
+
+

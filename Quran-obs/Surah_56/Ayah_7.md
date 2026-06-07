@@ -16,18 +16,6 @@ word_by_word:
     transliteration: thalāthatan
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-7-56 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! Three Categories of People on the Day of Resurrection وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً (and you will be [ divided into ] three categories...56:7).
@@ -173,3 +161,5 @@ The second category comprises those who will be placed to the left of Allah's Th
 The third category consists of As-sabiqun [ the foremost ] who are described as Al-muqarrabun [ the fortunate believers who are granted special nearness to Allah ]. They will be placed in front of the Divine Throne. They include the Messengers, the Prophets, Siddiqin, martyrs and the friends of Allah. They are fewer than those on the right side. Towards the end of the Surah, the description of the three categories will be taken up again to mention that some signs start appearing, right from the time of death of a person, to indicate in which category he or she is going to fall.
 
 ## Personal Reflections
+
+

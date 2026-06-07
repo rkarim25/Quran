@@ -50,18 +50,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Messengers! يَا أَيُّهَا الرُّسُلُ كُلُوا مِنَ الطَّيِّبَاتِ وَاعْمَلُوا صَالِحًا (0 messengers, eat from the good things and act, righteously - 23:51.) The word means pure and good things.
@@ -197,3 +185,5 @@ Commentary
 Scholars have expressed the view that the Juxtaposition of these two commands points to the fact that the consumption of lawful food has a very important bearing on human actions and when a person takes lawful food only, a divine guidance takes his actions along the path of righteousness. But if the food is unlawful, then serious obstacles will prevent the accomplishment of good deeds in spite of his best intentions. According to a hadtth, people travel long wearing miles and are covered with dust and they pray to Allah with hands upraised calling out "0 Lord, 0 Lord!" But since they eat forbidden things and their clothes are also made from forbidden material, there is little hope of their prayers being granted. (Qurtubi) Thus it is evident that a person hoping that his worship will get him the pleasure of Allah or that his prayers will be granted by Him must pay scrupulous attention to what he eats and must, at all times, avoid eating unlawful things.
 
 ## Personal Reflections
+
+

@@ -58,18 +58,6 @@ word_by_word:
     transliteration: taṣifūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears. بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ فَإِذَا هُوَ زَاهِقٌ (Instead, We launch the truth against the falsehood, which smashes it, and in no time it is nothing.
@@ -155,3 +143,5 @@ Everything belongs to Allah and serves Him
 This verse explains that Allah has not created this marvelous universe with earth and the sky for amusement. This creation is the result of a carefully thought out plan which aims at distinguishing right from wrong. Observation of Nature's creations leads people along the righteous path and protects them from evil. This idea is conveyed in the verse by saying that virtue is hurled against evil and smashes its head so completely that it disappears without a trace.
 
 ## Personal Reflections
+
+

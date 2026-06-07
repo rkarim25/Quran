@@ -50,18 +50,6 @@ word_by_word:
     transliteration: munīran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Blessed be He Who has placed in the heaven Al-Buruj, and has placed therein a great lamp, and a moon giving light (61)And He it is Who has put the night and the day in succession (Khilfatan), for such who desires to reme… Glorious is the One who made stellar formations in the sky and placed therein a lamp (sun) and a bright moon.
@@ -205,3 +193,5 @@ The gist of the matter is that the study of cosmology for making it a source of 
 It is, therefore, clear that all the modern researches and discoveries cannot be held to be the exact objective of the Qur'an, as suggested by modern scholars. Similarly, these discoveries cannot be held to be repugnant to the Holy Qur'an, as observed by some conservative scholars. The fact is that these issues are not the subject matter of the Qur'an which is silent about them. If a reality is proved by experiments or observations, it cannot be taken as contradictory to the Qur'an, and that which is not yet proved no effort should be made to impose it on the Qur'an through fanciful interpretations.
 
 ## Personal Reflections
+
+

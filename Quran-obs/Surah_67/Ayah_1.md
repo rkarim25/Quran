@@ -42,18 +42,6 @@ word_by_word:
     transliteration: qadīrun
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the subject matter and the style indicate that it is one of the earliest Surahs to be revealed at Makkah. Theme and Subject Matter In this surah, on the one hand, the teachings of Islam have been introduced briefly, and, on the other, the people living in heedlessness have been aroused from their slumber in a most effective way. A characteristic of the earliest surahs of the Makkan period is that they present the entire teachings of Islam and the object of the Holy Prophet's mission, not in detail, but briefly, so that they are assimilated by the people easily.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Mulk Imam Ahmad recorded from Abu Hurayrah that Allah's Messenger ﷺ said, The Virtues of Surah Al-Mulk Prophetic Tradition has named this Surah as Waqiyah (protector) and Munjiyah (saviour) as well.
@@ -213,3 +201,5 @@ In short, the basic subject of the Surah is to prove the existence of Allah and 
 The proofs of the divine knowledge and power found in the man himself are indicated in the following two words:
 
 ## Personal Reflections
+
+

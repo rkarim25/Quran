@@ -38,18 +38,6 @@ word_by_word:
     transliteration: taʿqilūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed, We have sent down for you a Book in which there is Dhikrukum. The Holy Qur'an is an honour and pride for the Arabs كِتَابًا فِيهِ ذِكْرُ‌كُمْ (a book having a good name for you - 21:10): The word (Book) is meant for Qur'an and ذکر (name) is used here for honour, excellence and fame.
@@ -123,3 +111,5 @@ The Holy Qur'an is an honour and pride for the Arabs
 كِتَابًا فِيهِ ذِكْرُ‌كُمْ (a book having a good name for you - 21:10): The word (Book) is meant for Qur'an and ذکر (name) is used here for honour, excellence and fame. Thus what is meant here is that the revelation of Qur'an in Arabic language is a great honour and everlasting fame for the Arabs and they should value it as such. History has proved that by Allah's Mercy and by the blessings of Qur'an Arabs have dominated the world and ruled over it for a long time. This is also a fact of life that Arabs gained dominance over the world not because of any tribal or linguistic supremacy but because of Qur'an. If there was no Qur'an, probably no one would have known about the Arabs at all.
 
 ## Personal Reflections
+
+

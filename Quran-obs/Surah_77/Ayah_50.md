@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yu'minūna
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who had Taqwa, shall be amidst shades and springs (41)And fruits, such as they desire (42)"Eat and drink comfortably for that which you used to do. فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ (Now, in which discourse, after this, will they believe?
@@ -111,3 +99,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ (Now, in which discourse, after this, will they believe? ...77:50) The Holy Qur'an is the last Book of Allah which explains its message and wisdom most lucidly, excellently, eloquently, elegantly, and its arguments most convincingly. Its style is extremely effective and the admonition soul-capturing. If they do not believe in such a Book, then for which word are they waiting? This is to express disappointment in them. A Hadith narrative instructs that when one recites this verse, he should say 'I believe in Allah'. This statement must be made outside the prayer, or in voluntary prayer. He must abstain from this statement in obligatory and Sunnah prayer. Hadith narratives are clear on this point. And Allah knows best!
 
 ## Personal Reflections
+
+

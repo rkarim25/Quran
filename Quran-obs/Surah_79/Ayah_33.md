@@ -16,18 +16,6 @@ word_by_word:
     transliteration: wali-anʿāmikum
 ---
 
-## Context
-
-To understand **Those who drag forth** (An-Nazi'at) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nazi'at is a **Makkah** surah—revealed as the 81st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 46 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-27-33 , arguments have been given for the Hereafter and life after death.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Has there come to you the story of Musa (15)When his Lord called him in the holy valley of Tuwa (16)Go to Fir'awn; verily, he has transgressed all bounds (17)And say to him: "Would you purify yourself? فَأَخَذَهُ اللَّـهُ نَكَالَ الْآخِرَ‌ةِ وَالْأُولَىٰ (So, Allah seized him for the deterrent punishment in the Hereafter and the present world....79:25).
@@ -217,3 +205,5 @@ Further, the Qur'an again disposes of the doubt of the rejecters of resurrection
 In the verses that follow, the horrors of the Day of Judgment are depicted. It is mentioned that on that Day, every person will be presented with his deeds. Described also are the abodes of the inmates of Paradise and Hell. Towards the end, special traits of the people of Paradise and those of Hell are portrayed by which a man can decide in this very world whether, according to the rules, his abode would be Paradise or Hell. The expression 'according to the rules' has been used because many verses and narratives indicate that there could be 'exceptions to the rules'. For example, a person might attain freedom from Hell and enter Paradise by virtue of intercession or directly through the grace of Allah. This is an exception to the rule. The general rule is the same as has been mentioned in these verses.
 
 ## Personal Reflections
+
+

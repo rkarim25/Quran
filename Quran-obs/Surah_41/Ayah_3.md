@@ -33,18 +33,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. And after stating these qualities, it is said towards the end of the verse-3, لِّقَوْمٍ يَعْلَمُونَ (for a people who understand) which means that the verses of the Holy Qur'an being in Arabic, their being clear and evident and their communicating good news as well as warnings can only benefit those people who intend to ponder over them and understand them.
@@ -122,3 +110,5 @@ Description of the Qur'an, and what Those Who turn away from it say
 And after stating these qualities, it is said towards the end of the verse-3, لِّقَوْمٍ يَعْلَمُونَ (for a people who understand) which means that the verses of the Holy Qur'an being in Arabic, their being clear and evident and their communicating good news as well as warnings can only benefit those people who intend to ponder over them and understand them. But the Arabs and the Quraysh, despite all this, turned away from the Qur'an, and let alone trying to understand, they did not even bear to listen to the Qur'an. This has been mentioned at the end of verse 4: "Yet most of them turned away, so they do not listen."
 
 ## Personal Reflections
+
+

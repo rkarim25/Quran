@@ -125,17 +125,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (nor has He made your adopted sons your real sons.) This was revealed concerning Zayd bin Harithah, may Allah be pleased with him, the freed servant of the Prophet ﷺ. The Prophet ﷺ had adopted him before prophethood, and he was known as Zayd bin Muhammad. Allah wanted to put an end to this naming and attribution, as He said:
 
 Imam Ahmad narrated from Ibn 'Abbas that 'Umar said: "Allah sent Muhammad ﷺ with the Truth and revealed to him the Book. One of the things that was revealed in it was the Ayah of stoning, so the Messenger of Allah ﷺ stoned [adulterers] and we stoned [them] after he died." Then he said, "We also used to recite, 'Do not attribute yourselves to anyone other than your fathers, for this is disbelief, to attribute yourselves to anyone other than your fathers.'" The Messenger of Allah ﷺ said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -332,3 +324,5 @@ This tells us about many people who call the children of others as 'son' which, 
 And this is the same matter which, by throwing the Quraish of Arabia into deception, led them to commit a sin of terribly serious proportions to the extent that they started blaming the Holy Prophet t by saying that he had married the divorced wife of his 'son', while in fact, he was not his son, but only a mutabanna (adopted son) - something that will be mentioned in this very Surah a little later.
 
 ## Personal Reflections
+
+

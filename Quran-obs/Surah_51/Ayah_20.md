@@ -20,18 +20,6 @@ word_by_word:
     transliteration: lil'mūqinīna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Allah's Signs on the Earth and in Mankind وَفِي الْأَرْ‌ضِ آيَاتٌ لِّلْمُوقِنِينَ (And in the earth, there are signs for those who [ seek truth to ] believe,...
@@ -171,3 +159,5 @@ Tafsir Mazhari is of the view that this verse too describes the quality of the b
 Allah's signs on earth include what Allah has placed on the earth, the various plants, animals, valleys, mountains, deserts, rivers and oceans. He also created mankind with different languages, colours, intentions and abilities, and a variety among them, differences in the power of understanding and comprehension, their deeds, and ultimately earning happiness or misery. Allah put every organ in their bodies in its rightful place where they most need it to be.
 
 ## Personal Reflections
+
+

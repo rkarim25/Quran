@@ -30,18 +30,6 @@ word_by_word:
     transliteration: jāthimīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The chiefs of those who disbelieved among his people said (to their people): "If you follow Shu'ayb, be sure then you will be the losers! The punishment of the people of Sayyidna Shu'aib (علیہ السلام) has been identified as earthquake (Rajfah, Zalzalah) while in other verses it appears as: فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ (26:189) which means that they were seized by the punishment of Yowm az-Zullah.
@@ -107,3 +95,5 @@ To accommodate and reconcile the sense of the two verses given above, Sayyidna `
 Some commentators have said that it is also possible that the people of Sayyidna Shu'aib (علیہ السلام) were split in different groups or sections where some were hit by the earthquake while others were destroyed by the punishment of the shade.
 
 ## Personal Reflections
+
+

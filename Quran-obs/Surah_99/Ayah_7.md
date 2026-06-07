@@ -28,18 +28,6 @@ word_by_word:
     transliteration: yarahu
 ---
 
-## Context
-
-To understand **The Earthquake** (Az-Zalzalah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zalzalah is a **Madinah** surah—revealed as the 93rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Whether or not Surah Az-Zalzalah was revealed in Makkah or Madinah is disputed. Ibn Masud, Ata, Jabir, and Mjahid say that it is a Makki Surah and a statement of Ibn Abbas also supports this view. On the contrary, Qatadah and Muqatil say that it is Madani and another statement of Ibn Abbas also has been cited in support of this view. That it is a Madani Surah is reasoned from a tradition from Hadrat Abu Said Khudri, which Ibn Abi Hatim has related from him.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Az-Zalzalah Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "A man came to the Messenger of Allah ﷺ and said, 'Teach me what to recite, O Messenger of Allah!' The Prophet ﷺ said, Verse [ 7] فَمَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ خَيْرً‌ا يَرَ‌هُ (So, whoever does good [ even ] to the weight of a particle shall see it.) The word 'good' here refers to what is good in terms of Shari` ah, that is, only a good deed done in the wake of faith is recognized by Allah.
@@ -245,3 +233,5 @@ This is the end of the Tafsir of Surat Idha Zulzilat (Az-Zalzalah) and all prais
 Verse [ 7] فَمَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ خَيْرً‌ا يَرَ‌هُ (So, whoever does good [ even ] to the weight of a particle shall see it.) The word 'good' here refers to what is good in terms of Shari` ah, that is, only a good deed done in the wake of faith is recognized by Allah. Any good deed done in the state of disbelief is not recognized, and consequently it will not be rewarded in the Hereafter, though it might have been rewarded in this world. It is argued on the basis of this verse that anyone who has an atom's weight of faith will eventually be taken out of Hell. The reason being that, according to the promise made in this verse, man must reap the fruit of his righteousness in the Hereafter. If he has not done any righteous deeds, faith itself is a great righteousness. Thus no matter how sinful a believer may be, he will not be condemned to Hell for good. On the other hand, if a non-believer has done tons of good deeds, they will be rendered vain in the Hereafter on account of lack of faith. He will, however, receive reward for them here in this world.
 
 ## Personal Reflections
+
+

@@ -192,15 +192,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 185, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah praised the month of Ramadan out of the other months by choosing it to send down the Glorious Qur'an, just as He did for all of the Divine Books He revealed to the Prophets. Imam Ahmad reported Wathilah bin Al-Asqa' that Allah's Messenger ﷺ said:
 
-The present verse is an extension of the previous brief verse and also an assertion of the great merit the month of Ramadan holds in its fold. This is an extension because the expression أَيَّامًا مَّعْدُودَاتٍ (Days few in number) in Verse 184 is a bit vague and which has been explained out in the present verse by saying that those counted number of days mean the days of the month of Ramadan. As far as the merit of this month is concerned, it has been said that Allah Almighty has chosen this month to reveal Scriptures. Consequently, the Holy Qur'an was revealed in this very month.
+The present verse is an extension of the previous brief verse and also an assertion of the great merit the month of Ramadan holds in its fold. This is an extension because the expression أَيَّامًا مَّعْدُودَاتٍ (Days few in number) in Verse 184 is a bit vague and which has been explained out in the present verse by saying that those counted number of days mean the days of the month of Ramadan. As far as the merit of this month is concerned, it has been said that Allah Almighty has chosen this month to reveal Scriptures. Consequently, the Holy Qur'an was revealed in this very month. According to a narration from the blessed Companion Wathilah ibn Asga' appearing in the Musnad of Ahmad, the Holy Prophet ﷺ said that Abrahamic scriptures were revealed on the first of Ramadan, the Torah on the sixth, the Evangel on the thirteenth and the Qur'an on the twenty fourth of Ramadan. In another narration from the blessed Companion Sayyidna Jabir ؓ ، it appears that Zabur (the Book of Psalms) was revealed on the twelfth of Ramadan and the Evangel on the eighteenth. (Ibn Kathir)
 
 ## Tafsir Summary
 
@@ -389,3 +383,5 @@ Note:
 In the sentence وَمَن كَانَ مَرِ‌يضًا أَوْ عَلَىٰ سَفَرٍ‌ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَر (should anyone be sick, or on a journey, then, a number from other days), the sick and the travelling have been granted leave that they may not fast at that time. When the sick person regains his health and the traveller returns home, they can make up for the days they missed by doing qada' قضاء fasts. It will be recalled that this injunction had appeared in the previous verse, but now that the choice of paying fidyah (ransom) for not fasting has been cancelled, a doubt could creep up in relation to the concession granted to the sick and the travelling, that it may have been abrogated as well, therefore, the provision was positively repeated.
 
 ## Personal Reflections
+
+

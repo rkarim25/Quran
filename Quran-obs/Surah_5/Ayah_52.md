@@ -122,18 +122,6 @@ word_by_word:
     transliteration: nādimīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Now, you see those who have disease in their hearts race to-wards them saying, "We apprehend that some misfortune may overtake us." It means that after hearing the religiously binding injunction of the abandonment of close friendships, people who have the disease of hypocricy in their hearts started racing towards their disbelieving friends saying that cutting off relationships with these people is dangerous for them.
@@ -217,3 +205,5 @@ So, it is likely that Allah may bring victory or a command from His own side, wh
 It means that these people are under the impression that the disbelievers and the Jews will overcome Muslims. But, Allah has decided that it will not happen. Rather, close is the conquest of Makkah. Or, even before the conquest of Makkah, Allah may, by exposing the hypocrisy of the hypocrites, put them to disgrace. Then, at that time, these people will regret thoughts they had concealed.
 
 ## Personal Reflections
+
+

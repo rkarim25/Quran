@@ -92,18 +92,6 @@ word_by_word:
     transliteration: qadran
 ---
 
-## Context
-
-To understand **The Divorce** (At-Talaq) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Abdullah bin Masud has Pointed out, and the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then when they are about to attain their term appointed, either take them back in a good manner or part with them in a good manner. وَيَرْ‌زُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّـهِ فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّـهَ بَالِغُ أَمْرِ‌هِ ۚ قَدْ جَعَلَ اللَّـهُ لِكُلِّ شَيْءٍ قَدْرً‌ا whoever places his trust in Allah, He is sufficient for him.
@@ -207,3 +195,5 @@ Sahihs of Bukhari and Muslim transmit on the authority of Sayyidna Ibn ` Abbas �
 Tawakkul (Trust in Allah) does not mean to forsake the causes and means Allah has created for us to acquire things. One should utilise the means at our disposal. However, instead of relying solely on them, one should rather put his trust in Allah, in that no task shall be accomplished unless Allah wills it. After describing the virtues and blessings of taqwa and Twakkul, the next verses lay down some more rules about divorce and "iddah.
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: laḥāfiẓūna
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "O you (Muhammad) to whom the Dhikr (the Qur'an) has been revealed! An Episode from the Court of Ma'mun Imam Al-Qurtubi has authentically reported an event from the court of ` Abbasi Khalifah, Al-Ma'mun.
@@ -118,3 +106,5 @@ One who says that the Ahadith of the Rasul ﷺ of Allah are not absolutely prote
 There are people around who would like to deceive the whole world by saying that the treasure of Ahadith present in authentic books is not trustworthy because it has been documented much later than the blessed age of the Holy Prophet ﷺ . First of all, even this assumption of theirs is not correct because the process of protection and documentation of Ahadith had already started within the age of prophethood itself, though it was completed later. In addition to that, the Hadith of the Rasul of Allah is really the explanation of the Qur’ an and the meaning of the Qur’ an. Their protection is something which Allah Ta’ ala has taken upon Himself. Then, how can it be possible that only the words of the Qur’ an remain protected while the meanings of the Qur’ an (that is, the Ahadith of the Rasul) go to waste?
 
 ## Personal Reflections
+
+

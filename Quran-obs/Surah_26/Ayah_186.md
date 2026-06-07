@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-kādhibīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 186, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "You are only one of those bewitched! And do not make people short of their things - 26:183 What it means is that it is unlawful to reduce any quantity or amount from that which has been contracted with anyone, whether it is a measurable thing or otherwise.
@@ -153,3 +141,5 @@ And do not make people short of their things - 26:183
 What it means is that it is unlawful to reduce any quantity or amount from that which has been contracted with anyone, whether it is a measurable thing or otherwise. Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning. Imam Malik (رح) has reported a narration in his Muwatta' that Sayyidna ` Umar ؓ noticed that someone did not join in the ` Asr prayer. So, he enquired about the reason for that, to which he offered some excuse. Then Sayyidna ` Umar ؓ said, طَفَّفتَ ` You have reduced in measuring'. As prayer is not something to be measured, hence after quoting this hadith Imam Malik (رح) has said that this command is not restricted to measurable things. Rather, performing any obligation less than due is included in prohibition highlighted in this verse and in Surah "At-tatfif 84".
 
 ## Personal Reflections
+
+

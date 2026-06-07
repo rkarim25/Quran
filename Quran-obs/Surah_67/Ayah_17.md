@@ -55,18 +55,6 @@ word_by_word:
     transliteration: nadhīri
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib? أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْ‌سِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ‌ (Or, have you become fearless of Him who is in the sky if He looses a violent wind with stones against you?
@@ -142,3 +130,5 @@ The next verse refers to the former nations who denied and rejected the truth an
 The next verse turns once again to the central theme of the Surah, that is, the description of various forms and functions of Allah's creation to prove His Oneness, His knowledge and power. Thus far human souls, forms and functions of the sky, the stars, the earth and so on were discussed. The next verse mentions birds that fly about in the atmosphere above us.
 
 ## Personal Reflections
+
+

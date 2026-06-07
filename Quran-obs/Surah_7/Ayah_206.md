@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 206, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Before the night of Isra', when the five daily prayers were ordained, this Ayah was revealed in Makkah ordering that Allah be worshipped at these times, Allah said next,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ But, if a person were to go in Sajdah alone and supplicate after that, it really
 Surah al-A` raf ends here. Its last verse is an Ayah of Sajdah (requiring the person reciting and the person listening to prostrate in Sajdah). According to a report from Sayyidna Abu Hurairah al appearing in Sahih Muslim, the Holy Prophet ﷺ said, ` when a son of Adam recites a verse of Sajdah and then prostrates in Sajdah, the Shaitan runs crying. He says: Alas, man was asked to prostrate in Sajdah and when he obeyed, Paradise became his home, and I was asked to prostrate in Sajdah and when I disobeyed, Hell became my home.'
 
 ## Personal Reflections
+
+

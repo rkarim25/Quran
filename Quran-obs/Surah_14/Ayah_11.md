@@ -126,18 +126,6 @@ word_by_word:
     transliteration: l-mu'minūna
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Their Messengers said: "(What!) Can there be a doubt about Allah, the Creator of the heavens and the earth? In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَكْفُرُ‌وا أَنتُمْ وَمَن فِي الْأَرْ‌ضِ جَمِيعًا (And Musa said, "If you are ungrateful, you and all those on earth, then, Allah is free of all needs, worthy of every praise.) " This was said by Sayyidna Musa (علیہ السلام) to his people.
@@ -223,3 +211,5 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
 ## Personal Reflections
+
+

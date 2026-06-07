@@ -88,18 +88,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-13-37 In this discourse, the Muslims have been told clearly and explicitly that they will inherit the rewards promised by Allah only if they take active part in the conflict with kufr , for that is the criterion which distinguishes true Muslims from hypocrites.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Will you not fight a people who have violated their oaths and intended to expel the Messenger while they did attack you first? After that, to persuade Muslims to fight, they were told in verse 13 that there was no reason why they would not be ready to fight against the kind of people who had conspired to expel the Messenger of Allah.
@@ -167,3 +155,5 @@ Giving the second reason for fighting against them, it was said: وَهُم بَ
 Then, to remove the awe of the enemy from the hearts of Muslims, it was said: أَتَخْشَوْنَهُمْ ۚ فَاللَّـهُ أَحَقُّ أَن تَخْشَوْهُ (Do you fear them? Then, Allah is worthier that you fear Him) for there is no power that can cause His punishment to disappear. Finally, by saying: إِن كُنتُم مُّؤْمِنِينَ (if you are be-lievers), it was made clear that fearing anyone or anything other than Allah in a manner that obstructs the fulfillment of the injunctions of the Shari’ ah of Islam is not what a true believing-practicing Muslim would do.
 
 ## Personal Reflections
+
+

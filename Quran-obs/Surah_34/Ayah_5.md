@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **Sheba** (Saba) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Those who disbelieve say: "The Hour will not come to us." Say: "Yes, by my Lord, the All-Knower of the Unseen, it will come to you; not even the weight of a speck of dust or less than that or greater escapes His knowledge in the heavens or in the earth but it is in a Clear Book. (3)That He may recompense those who believe and do righteous good deeds. Those, theirs is forgiveness and generous provision (4)But those who strive against Our Ayat to frustrate them – those, for them will be a severe painful torment (5)And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and that it guides to the path of the Exalted in might, Owner of all praise (6)
 
 (And those who have been given knowledge see that what is revealed to you from your Lord is the truth,)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ The word: مُعَاجِزِينَ which appears immediately after the verse cit
 The sentence that follows immediately after: أُولَـٰئِكَ لَهُمْ عَذَابٌ مِّن رِّ‌جْزٍ أَلِيم ; means that these people shall receive punishment, a severe punishment that will be painful.
 
 ## Personal Reflections
+
+

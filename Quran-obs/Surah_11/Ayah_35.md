@@ -55,18 +55,6 @@ word_by_word:
     transliteration: tuj'rimūna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or they (the pagans of Makkah) say: "He has fabricated it." Say: "If I have fabricated it, upon me be my crimes, but I am innocent of (all) those crimes which you commit (35) This is presented in the middle of the story to affirm the story itself. Fourthly, it was stated: In your sight these poor people may appear lowly and disgraceful.
@@ -94,3 +82,5 @@ Fourthly, it was stated: In your sight these poor people may appear lowly and di
 Then, it was said: If I too were to start calling them lowly and disgraceful, I too would become unjust.
 
 ## Personal Reflections
+
+

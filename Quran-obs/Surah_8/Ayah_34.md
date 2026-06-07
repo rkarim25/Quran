@@ -92,18 +92,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And why should not Allah punish them while they hinder (men) from Al-Masjid Al-Haram, and they are not its guardians? It was said in previous verses that the disbelievers of Makkah were though deserving, because of their disbelief and denial, of heavenly punishment coming down upon them, but the presence of the Holy Prophet ﷺ in Makkah was a prohibitive factor against the coming of a mass punishment on them.
@@ -197,3 +185,5 @@ In the first verse cited above, it has been considered sufficient to state that 
 According to the Tafsir mentioned immediately above, the outcome of the verse would be that those who, despite acting contrary to Shari` ah and Sunnah, claim to be a Waliyy of Allah are liars and those who take such people to be a Waliyy of Allah are down in deception.
 
 ## Personal Reflections
+
+

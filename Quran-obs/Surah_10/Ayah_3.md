@@ -128,15 +128,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ad-Darawardi narrated from Sa'd bin Ishaq bin Ka'b bin 'Ujrah that he said: "When this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -235,3 +227,5 @@ As for the later day ` Ulama who have suggested some meanings to these things, t
 This brings us to the next statement: يُدَبِّرُ‌ الْأَمْرَ‌ (He manages all matters). It means that, positioned on the Throne, He Himself manages all universes by virtue of His power. Then, comes the succeeding sentence: مَا مِن شَفِيعٍ إِلَّا مِن بَعْدِ إِذْنِهِ translated as: ` There is no intercessor except after His permission.' It tells us that such is the majesty of Allah Ta'ala that even a Prophet and Messenger cannot intercede on behalf of anyone, on their own, before Him - unless Allah Ta` ala Himself grants them the permission to intercede, without which even they could not do that.
 
 ## Personal Reflections
+
+

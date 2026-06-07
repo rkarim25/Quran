@@ -12,18 +12,6 @@ word_by_word:
     transliteration: l-najdayni
 ---
 
-## Context
-
-To understand **The City** (Al-Balad) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Balad is a **Makkah** surah—revealed as the 35th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. (Did We not make for him two eyes, and a tongue and two lips, and showed him the two ways?...90:8-10) The word najdain is the dual form of najd which means an elevated or conspicuous road.
@@ -313,3 +301,5 @@ Thus in the first instance man receives guidance from his own conscience. This i
 In sum, an ignoramus and heedless person, who denies the power of the Omnipotent, should look into his own being, he would be able to observe His attribute of perfect power and consummate wisdom. He should observe with his two eyes and confess with his tongue. He has been shown the two ways of good and evil; and of right and wrong so that he may choose between the two. Obviously, he should choose the good way. In his make-up, there exists the ability to take either way. All these bounties have not motivated man to attempt the steep course. Then the heedless man is warned that he should reflect on the clear proofs and arguments pertaining to Allah's Omnipotence, pertaining to the Day of Judgment, life after death and Reckoning, and believe in these articles of faith. This faith requires that man should be a source of benefit and comfort to others; he should abstain from hurting them; he should believe in Allah; he should amend his own conduct and think of reforming others also, so that, on the Day of Judgment, he may be among the people of the right hand, the inmates of Paradise, enjoying a happy recompense for what he has done in this life. The unfortunate ones who persistently denied the Truth shall be encircled by the Hell-fire. This theme has been taken up from this point onward to the end of the Surah. Failing to do a few of the good deeds have been [ selectively ] described in a unique style.
 
 ## Personal Reflections
+
+

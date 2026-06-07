@@ -34,18 +34,6 @@ word_by_word:
     transliteration: l-mus'taqīma
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Iblis) said: "Because You have 'Aghwaytni', surely, I will sit in wait against them (human beings) on Your straight pat (16)"Then I will come to them from before them and behind them, from their right and from their left, and You will not find most of them to be thankful. The event relating to Sayyidna 'Adam (علیہ السلام) and the Shaytan has appeared earlier in Section four of Surah Al-Baqarah (Ma` ariful-Qur'an, English Translation, under verse 34).
@@ -163,3 +151,5 @@ In the present verse (17), Iblis is said to have identified four sides from whic
 In the cited verses (13 18), the Shaytan has been commanded to leave the heavens twice. First, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (So, go. You are of the low.) and then, when it was said: فَاخْرُ‌جْ إِنَّكَ مِنَ الصَّاغِرِ‌ينَ (Get out of here, condemned ...). Here, the first saying is perhaps a proposal while the other is its implementation. (Abridged from Bayan a1-Qur'an)
 
 ## Personal Reflections
+
+

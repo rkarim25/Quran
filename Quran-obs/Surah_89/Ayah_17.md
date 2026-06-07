@@ -25,18 +25,6 @@ word_by_word:
     transliteration: l-yatīma
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. Spending on the Orphan is not Sufficient.
@@ -100,3 +88,5 @@ Spending on the Orphan is not Sufficient. Their respect is also necessary
 وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ (and do not encourage one another to feed the needy....89:18). This is the second evil trait of the unbelievers. The style of this verse, in condemning the evil trait of the unbelievers, indicates that it is an obligation of the affluent to spend on the poor and indigent from their own wealth. Obviously, the poor are unable to spend owing to lack of means, but they should at least encourage others to feed the needy.
 
 ## Personal Reflections
+
+

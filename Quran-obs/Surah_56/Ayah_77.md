@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Inevitable** (Al-Waqi'ah) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -137,3 +129,5 @@ Qatadah said, "Al-Hasan used to say, 'How evil is that all that some people have
 إِنَّهُ لَقُرْ‌آنٌ كَرِ‌يمٌ فِي كِتَابٍ مَّكْنُونٍ لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُ‌ونَ (It is surely the Noble Qur'an (recorded already) in a protected book [ i.e. the Preserved Tablet ] that is not touched except by the purified ones [ the angels ]....77-79) Verses [ 75-76] constituted oath and the current set of verses is the subject of the oath jawab-ul-qasam ]. The Qur'an is a noble and glorious Book. The verse refutes the assumption of the pagans that this Book has been forged by a human being or that [ God forbid!] it is a speech inspired by the devil.
 
 ## Personal Reflections
+
+

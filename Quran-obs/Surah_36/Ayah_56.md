@@ -33,18 +33,6 @@ word_by_word:
     transliteration: muttakiūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the dwellers of the Paradise, that Day, will be busy with joyful things (55)They and their wives will be in pleasant shade, reclining on thrones (56)They will have therein fruits and all that they ask for (57)(It… Next, in verse 56, it was said: هُمْ وَأَزْوَاجُهُمْ They and their spouses...).
@@ -98,3 +86,5 @@ Allah tells us that on the Day of Resurrection, when the people of Paradise have
 Next, in verse 56, it was said: هُمْ وَأَزْوَاجُهُمْ They and their spouses...). The word: اَزوَاج (azwaj) as used here includes the Hurs حُور of Jannah as well as wives of the mortal world.
 
 ## Personal Reflections
+
+

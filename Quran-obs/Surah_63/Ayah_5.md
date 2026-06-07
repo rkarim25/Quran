@@ -65,17 +65,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Hypocrites** (Al-Munafiqun) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Munafiqun is a **Madinah** surah—revealed as the 104th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Several of the Salaf mentioned that this entire passage was revealed in the case of 'Abdullah bin Ubay bin Salul, as we will soon mention, Allah willing and our trust and reliance are on Him.
 
 Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay. A young relative of his went to Allah's Messenger ﷺ and conveyed to him an awful statement that 'Abdullah said. The Messenger ﷺ called 'Abdullah, who swore by Allah that he did not say anything. The Ansar went to that boy and admonished him. However, Allah sent down what you hear about 'Abdullah's case and Allah's enemy was told, 'Go to Allah's Messenger,' but he turned his head away, saying that he will not do it."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -154,3 +146,5 @@ Let us now study some specific sentences of the Surah:
 Ibn Ubayy, after this incident, returned to Madinah, lived for a few days, and died soon thereafter. [ Mazhari ]
 
 ## Personal Reflections
+
+

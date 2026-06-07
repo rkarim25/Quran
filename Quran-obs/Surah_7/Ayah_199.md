@@ -35,17 +35,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 199, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Show forgiveness) was only revealed about the peoples [bad] character."
 
 Under the comment on this verse Ibn Marduwaih has reported, on the authority of Sayyidna Sa'ad ibn ` Ubadah ؓ ، that this verse was revealed when, in the battle of Uhud, Sayyidna Hamzah ؓ was martyred and parts of his body were savagely cut off. The Holy Prophet ﷺ ، seeing his body in such miserable condition, said, "I shall behave to seventy of their people the way they have behaved with Hamzah." This verse was revealed to him implying that it does not suit his dignified position. He should pardon and forgive people.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -176,3 +168,5 @@ But, once ` Uyaiynah was in the company of Sayyidna ` Umar al-Faruq ؓ ، he spo
 This verse carries a comprehensive statement of noble traits of character. Some scholars have explained these briefly by saying that there are two kinds of people: (1) Those who are good in deeds and (2) those who are evil and unjust. This verse tells us to treat both kinds nobly. As for those who do good, accept what they offer as such. Do not investigate too much and do not be unnecessarily inquisitive. Do not demand good at its highest from them and accept what they come up with as sufficient. As for the evildoing, the instruction given is: Teach them to do what is good. Show them the way of righteousness. If they do not accept it and choose to stick to their straying and error and talk haughtily and aggressively, the appropriate course is to stay away from them and avoid responding to their ignorant comments. It is hoped that this approach may bring them round at some stage when they may realize their error.
 
 ## Personal Reflections
+
+

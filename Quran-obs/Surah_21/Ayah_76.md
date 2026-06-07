@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Nuh, when he cried (to Us) aforetime. And (remember) Nuh, when he called (for help) earlier - 21:76 Here مِن قَبْلُ (earlier) means before the time of Sayyidna Ibrahim and Sayyidna Lut (علیہما السلام) ، whose account has just preceded in previous verses.
@@ -119,3 +107,5 @@ Here مِن قَبْلُ (earlier) means before the time of Sayyidna Ibrahim and
 فَاسْتَجَبْنَا لَهُ فَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْ‌بِ الْعَظِيمِ (So, We responded to him and saved him and his family from the terrible agony - 21:76) Here the expression 'terrible agony' either refers to the drowning in the deluge which annihilated the entire people or the torture which he and his followers suffered at the hands of those people.
 
 ## Personal Reflections
+
+

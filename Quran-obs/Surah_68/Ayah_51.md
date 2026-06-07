@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pen** (Al-Qalam) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Baghawi (رح) and some other commentators have reported another event as background of this verse. The evil eye is a reality which causes loss, illness and destruction. Authentic Traditions report that it is a reality. The Arabs also believed that an evil eye is a reality. There was a person famous in Arabia to cast an evil eye on camels or animals to cause instant death or destruction. The pagans of Arabia were enemies of the Holy Prophet ﷺ and in every possible way they were after persecuting him and killing him. They left no stone unturned in harming him. They even contemplated afflicting him with an evil eye. They therefore decided to secure the services of the particular person who could effectively cast an evil eye. He was instructed to cast the evil eye on the Messenger of Allah ﷺ so that he would become ill. He exerted himself to the utmost, but to no avail. Allah protected him and he was unaffected. The verses were revealed in connection with this incident.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -285,3 +277,5 @@ Surah Al-Qalam
 Ends here
 
 ## Personal Reflections
+
+

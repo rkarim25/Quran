@@ -38,18 +38,6 @@ word_by_word:
     transliteration: nabiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then she brought him to her people, carrying him. إِنِّي عَبْدُ اللَّـهِ ("I am the servant of Allah" - 19:30) There is a report that when her family members started berating and censuring Sayyidah Maryam (علیہا السلام) ، Sayyidna ` Isa (علیہ السلام) was sucking milk.
@@ -175,3 +163,5 @@ This is his affirmation that 'he is a worshipper of Allah, the Mighty and Sublim
 In these words, Sayyidna ` Isa I even in his infancy announced his future prophethood and the revelation to him of a sacred book from Allah Ta` ala. Since no prophet has been granted prophethood and a sacred book before the age of forty years, therefore this pre-announcement of his prophethood by Sayyidna ` Isa (علیہا السلام) here means to convey in advance that he would be bestowed prophethood and the Book at the proper time. In a similar manner The Holy Prophet ﷺ said that he was bestowed prophethood even before Adam (علیہ السلام) was yet in the process of his creation. This shows that the promise for granting prophethood to Sayyidna Muhammad Al-Mustafa ﷺ was firm and final. Here too, because of the certainty of occurrence, the grant of prophethood is referred to in the past tense. By announcing his future prophethood he (Sayyidna ` Isa علیہ السلام) dispelled peoples' doubts and exonerated his mother from the charge of fornication, because his being a Prophet was proof enough that his birth was free from any blemish.
 
 ## Personal Reflections
+
+

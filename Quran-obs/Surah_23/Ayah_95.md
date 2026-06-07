@@ -33,18 +33,6 @@ word_by_word:
     transliteration: laqādirūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 95, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-78-95 The Holy Prophet has been told not to adopt any wrong way in retaliation to counteract the evil ways of the enemies, and to guard against the incitement of Satan.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "My Lord! Some commentators say that even though Allah has promised, on account of His regard for the Holy Prophet ﷺ that He will not punish the entire community while he (Holy Prophet ﷺ) lives among them وَمَا كَانَ اللَّـهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ (And Allah is not to send punishment upon them while you are in their midst-- 8:33) yet the punishment of some selected persons in special circumstance does not negate the promise.
@@ -112,3 +100,5 @@ And of course, We do have the power to show you what We threatened them with. (2
 Some commentators say that even though Allah has promised, on account of His regard for the Holy Prophet ﷺ that He will not punish the entire community while he (Holy Prophet ﷺ) lives among them وَمَا كَانَ اللَّـهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ (And Allah is not to send punishment upon them while you are in their midst-- 8:33) yet the punishment of some selected persons in special circumstance does not negate the promise. The punishment of the infidels of Makkah through famine and through their defeat at the hands of the Muslims at the Battle of Badr had taken place in the lifetime of the Holy Prophet ﷺ ، which is emphasized in this verse that "We have the power to show you what We threatened them with".
 
 ## Personal Reflections
+
+

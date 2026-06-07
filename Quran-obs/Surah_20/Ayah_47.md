@@ -95,17 +95,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us or lest he should transgress. (45)He (Allah) said: "Fear not, verily, I am with you both, hearing and seeing. (46)"So go you both to him, and say: 'Verily, we are both Messengers of your Lord, so let the Children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance! (47)'Truly, it has been revealed to us that the torment will be for him who denies, and turns away.' (48)
 
 (And peace will be upon him who follows the guidance! Truly, it has been revealed to us that the torment will be for him who denies, and turns away.) In His flawless revelation, Allah has revealed to us that torment is prepared exclusively for those who reject the signs of Allah and turn away from His obedience. As Allah says,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -178,3 +170,5 @@ This point calls for some elucidation which is given in the following lines. The
 In brief, every created thing has been programmed, by Allah, with a guidance of Takwin (creation) which it is genetically bound to follow and deviating from the same is beyond its power. The other kind of guidance which is given to the human beings and to Jinns is not inherent in the nature and thus, is not compulsory but optional. It is this freedom of choice which renders them liable to reward for good deeds and to punishment for their sins. The verse
 
 ## Personal Reflections
+
+

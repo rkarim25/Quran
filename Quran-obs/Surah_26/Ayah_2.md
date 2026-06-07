@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-mubīni
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. قُلْ مَا يَعْبَأُ بِكُمْ رَ‌بِّي لَوْلَا دُعَاؤُكُمْ (Say (0 Prophet) My Lord will never care about you, if you will not invoke Him - 25:77).
@@ -135,3 +123,5 @@ Surah AI-Furqan
 Ends here.
 
 ## Personal Reflections
+
+

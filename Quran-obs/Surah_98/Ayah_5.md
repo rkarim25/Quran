@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clear Proof** (Al-Bayyinah) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Bayyinah is a **Madinah** surah—revealed as the 100th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -217,3 +209,5 @@ A discussion of the word Hanif has already been mentioned previously and in Sura
 Verse [ 5] وَذَٰلِكَ دِينُ الْقَيِّمَةِ (And that is the way of the straight religion.) The word qayyimah [ the straight ] is apparently the qualifier of the noun kutub [ Books ] which occurred earlier. Some treat the adjective as qualifying the noun millah [ religion ]. The verse purports to say that Allah commanded the People of the former Scriptures that they should render full and sincere obedience to Divine commandments, that is, to worship Allah alone. They should also establish the regular prayers and pay the obligatory alms. Then the Qur'an reminds them that this is not their distinctive feature exclusively. All former religions that are upright and received Books from Allah have the same features. This is the true religion of all the Prophets (علیہم السلام) that they preached to their respective people. It would appear that the phrase hutubun qayyimah [(right and) straight writings ], contextually, refers to the Qur'anic ordinances and injunctions. From this point of view, the verse would signify that the ordinances and injunctions of the Shari` ah of the Holy Prophet Muhammad ﷺ are exactly the same as those that were given to them in their revealed Scriptures. They were not divergent so that they could find a pretext to oppose.
 
 ## Personal Reflections
+
+

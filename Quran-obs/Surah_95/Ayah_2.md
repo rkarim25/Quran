@@ -12,18 +12,6 @@ word_by_word:
     transliteration: sīnīna
 ---
 
-## Context
-
-To understand **The Fig** (At-Tin) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tin is a **Makkah** surah—revealed as the 28th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Qatadah, this Surah is Madani. Two different views have been reported from Ibn Abbas: first that it is a Makki Surah, and second that it is Madani. But the majority of scholars regard it as a Makki revelation, a manifest symbol of which is the use of the words hadh-al-balad-il-amin (this city of peace) for Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. وَالتِّينِ وَالزَّيْتُونِ (I swear by the Fig and the Olive...95:1).
@@ -117,3 +105,5 @@ Commentary
 وَالتِّينِ وَالزَّيْتُونِ (I swear by the Fig and the Olive...95:1). This verse takes an oath by four objects. Two of them are trees, the fig tree and the olive tree. [ The third object ] is Tur, the mount of Sinai, and the fourth object is the City of Makkah. The two trees have been specified because they possess abundant blessings and advantages in the same way as Tur and the City of Makkah possess abundant blessings. Some authorities say that the 'fig' and the 'olive' symbolise, in this context, the lands in which these trees predominate: that is, the countries bordering on the eastern part of the Mediterranean, especially Palestine and Syria. Most of the Prophets (علیہم السلام) lived and preached in these lands, including Holy Prophet Ibrahim (علیہ السلام) . The latter Prophet was made to migrate from here to Makkah. The oaths, in this way, comprehend all the holy places where Allah-inspired men were born and raised as Prophets t. Syria was the land and home of all the Prophets (علیہم السلام) . Mount Sinai stresses specifically the messenger-ship of Musa (علیہ السلام) where Allah spoke to him. 'Peaceful City' refers to Makkah, the birthplace and residence of the Final Messenger of Allah ﷺ .
 
 ## Personal Reflections
+
+

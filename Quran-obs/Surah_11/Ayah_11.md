@@ -46,18 +46,6 @@ word_by_word:
     transliteration: kabīrun
 ---
 
-## Context
-
-To understand **Hud** (Hud) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "… In order to make such perfect models of humanity distinct from those having common human temperament, it was said in the third verse (11): إِلَّا الَّذِينَ صَبَرُ‌وا وَعَمِلُوا الصَّالِحَاتِ (except those who are patient and do good deeds).
@@ -121,3 +109,5 @@ At the end of this very verse, also identified there is the recompense of these 
 At this place, it should be noted that the Holy Qur'an uses the word: اَذَقنَا (adhaqna: We give them a taste of) for blessing and suffering both. By this device, it was indicated that real blessing and suffering is that of the Hereafter. Neither is the comfort of the mortal world the whole of it, nor is its suffering the whole of it. Instead of that, it should be taken at the level of tasting and sampling so that human beings could have some idea of the blessings and sufferings of the Hereafter. Therefore, neither are the comforts of this world something to be happy about unnecessarily, nor are its sufferings something to grieve about too much. If you were to think, this whole world is, to borrow a commercial term, only a showroom of the Hereafter with sample displays of comfort and suffering.
 
 ## Personal Reflections
+
+

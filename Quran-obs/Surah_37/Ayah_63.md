@@ -20,18 +20,6 @@ word_by_word:
     transliteration: lilẓẓālimīna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit st… In verse 63, it was said: إِنَّا جَعَلْنَاهَا فِتْنَةً لِّلظَّالِمِينَ (We have made it [ the tree of zaqqum ] a test ['fitnah'] for the unjust).
@@ -129,3 +117,5 @@ Ibn Abi Hatim recorded that Sa'id bin Jubayr said, "When the people of Hell get 
 In verse 63, it was said: إِنَّا جَعَلْنَاهَا فِتْنَةً لِّلظَّالِمِينَ (We have made it [ the tree of zaqqum ] a test ['fitnah'] for the unjust). Here, according to some commentators, فِتْنَةً (fitnah) means punishment, that is, 'have turned this tree into a source of punishment.' But, most commentators say that it is more appropriate to translate 'fitnah' at this place as 'trial' or 'test'. The purpose here is to say that Allah wishes to test as to who believes in it, and who ridicules it. Consequently, what happened was that the disbelievers of Arabia failed this test. Rather than fear this punishment and believe, they opted for the method of confrontation and ridicule. According to Hadith narrations, when the verses of the Qur'an in which it has been mentioned that the disbelievers will be made to eat the fruit of zaqqum, Abu Jahl said to his accomplices: "Your friend (Sayyidna Muhammad al-Mustafa ﷺ) says that there is a tree in the Fire - although, fire eats the tree - while we, by God, do know this much that zaqqum is the name of butter-topped dates. So, come and eat this date and butter" (ad-Durr-ul-Manthur, p. 277, v. 5). In fact, in the language of the Berbers, dates topped with butter or cream were known as zaqqum, therefore, Abu Jahl made use of this opportunity to ridicule the prophet of Islam. To the two things he said,
 
 ## Personal Reflections
+
+

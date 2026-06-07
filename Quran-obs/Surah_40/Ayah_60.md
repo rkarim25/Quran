@@ -58,18 +58,6 @@ word_by_word:
     transliteration: dākhirīna
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And your Lord said: "Call upon Me, I will answer you. The reality of du` a' (supplication) and its merits, levels and conditions of acceptance And your Lord has said, “ Call Me, I will respond to you.
@@ -173,3 +161,5 @@ As for the present verse, it obviously seems to have no condition, almost to the
 Similarly, if we were to say the words of dua' negligently, heedlessly, without paying any attention, the Hadith says something about that too - that such a dua' is also not accepted. (Tirmidhi from Sayyidna Abu Hurairah ؓ .
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: lakārihūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to… It has already been stated at the beginning of the Su-rah that most of the subjects taken up in Surah Al-Anfal relate to the retribution and punishment which visited the disbelievers and polytheists, and to the favour shown and reward given to Muslims.
@@ -195,3 +183,5 @@ Explanation of Verses in the Light of the Details of the Event
 After having heard the details of the event, let us go back to the verses cited above. That it has been said in the first verse (5): وَإِنَّ فَرِ‌يقًا مِّنَ الْمُؤْمِنِينَ لَكَارِ‌هُونَ (while a group from the believers was averse to this Jihad) is actually a hint towards the state of mind which some noble Companions were in while being consulted on the advisability of waging Jihad and to which they seemed to be averse or not courageous enough to undertake it.
 
 ## Personal Reflections
+
+

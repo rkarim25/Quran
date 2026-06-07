@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These stubborn, lying disbelievers said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih. Allah sent the she-camel to Thamud. They wanted Allah to change the mount of As-Safa into gold or remove the mountains of Makkah and replace them with gardens and rivers. Allah is capable of doing all of that, but He is All-Wise in His actions and statements. Allah said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ Then, it is also obvious that there is a long period of time between Sayyidna Ad
 Of course, when Kufr and Shirk spread out and posed a threat to 'Iman or true belief, Kafirs and Mushriks were declared to be a separate community of people as indicated in: فَاخْتَلَفُوا (later, they differed). Another verse of the Holy Qur'an: هُوَ الَّذِي خَلَقَكُمْ فَمِنكُمْ كَافِرٌ‌ وَمِنكُم مُّؤْمِنٌ is He who created you; yet there is among you a disbeliever and there is among you a believer - At-taghabun, 64:2) makes it more explicit. It tells that the thing that separates the progeny of Sayyidna Adam (علیہ السلام) created by Allah into different peoples is the deviation from 'Iman and Islam. Bonds of lineage or country do not make people separate. Bracketing human beings into different groups on the basis of language, homeland, color or race is ignorance dished out in the garb of enlightenment. It is new. But everything new is not necessarily true and wise. In fact, it might as well be the exact opposite of what is wise. Today, there are many educated people who have also fallen into the trap of this narrow concept of nationalism based on the factors enumerated above. Unfortunately, this approach towards ordering the social life of human beings is fraught with seeds of countless unseen disasters. May Allah keep Muslims safe from its evil effects.
 
 ## Personal Reflections
+
+

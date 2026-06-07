@@ -36,15 +36,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 181, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abd ibn Humaid has reported that the Holy Prophet ﷺ said addressing his companions, "This verse has been revealed in your favour and prior to you there has been a group of people bearing the same attributes." Then he recited this verse:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -109,3 +101,5 @@ From the day the Muslims started to show disregard to these two distinctive feat
 There is none to make them realize that this course of thought and action has to bring disaster to the Muslims at large. The only way to restore the dignity of the Muslim Ummah and to bring them back to the path. of progress and prosperity is to follow the way of truth and justice suggested by this verse. Conscious efforts should be made to create an awareness of these values among the Muslims.
 
 ## Personal Reflections
+
+

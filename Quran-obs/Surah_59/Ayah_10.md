@@ -101,18 +101,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-6-10 it has been stated how the lands and properties which come under the control of the Islamic State as a result of war or peace terms, are to be managed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (And there is also a share in this booty) for the poor emigrants, who were expelled from their homes and their property, seeking bounties from Allah and (His) good pleasure, and helping Allah and His Messenger. All Muslims after the Muhajirin and the Ansar are entitled to fai' وَالَّذِينَ جَاءُوا مِن بَعْدِهِمْ "And [ fai' is also ] for those who came after them ....59:10) This verse lays down that all Muslims until the Last Hour, after the noble Companions from amongst the Muhajirin and Ansar, are entitled to a share in the fai' property.
@@ -284,3 +272,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ says: "When you hear anyone reviling a Compani
 ` Amr Ibn Haushab (رح) says: "I have found the earlier generations of this Ummah uniformly and strongly advise people to describe the merits of the noble Companions ؓ and their good qualities, so that they may develop love for them. Do not ever talk about their conflicts and disagreements, so that people may become bold and show disrespect to them." [ All these narratives have been adapted from Qurtubi ].
 
 ## Personal Reflections
+
+

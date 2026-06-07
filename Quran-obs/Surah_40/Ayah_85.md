@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-kāfirūna
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they not traveled through the earth and seen what was the end of those before them? In verse 85, it was said: فَلَمْ يَكُ يَنفَعُهُمْ إِيمَانُهُمْ (But, their profession of faith was not [ competent ] to benefit them, once they had seen Our punishment), that is, it is after seeing the punishment that these people are confessing to the true faith, but a declaration of faith at this late hour is not acceptable and trustworthy with Allah.
@@ -161,3 +149,5 @@ Surah Al-Mu'min
 [ Ghafir ]
 
 ## Personal Reflections
+
+

@@ -135,18 +135,6 @@ word_by_word:
     transliteration: ittaqā
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And to Allah belongs all that is in the heavens and all that is on the earth, that He may requite those who do evil with that which they have done, and reward those who do good, with what is best (31)Those who avoid great sins and Al-Fawahish (immoral sins) except Al-Lamam – verily, your Lord is of vast forgiveness. Allah Forgives the Small Faults, Al-Lamam الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ‌ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ (those who abstain from the major sins and from shameful acts, except minor involvements....53:32) The preceding verse praises those who follow the right guidance of Allah and do good deeds.
@@ -270,3 +258,5 @@ In other words, the merit of a person lies not only in his outer actions, but in
 Sayyidah Zainab bint Abi Salamah ؓ was named by her parents as Barrah which means 'righteous or upright'. The Holy Prophet ﷺ recited the concluding part of this verse فَلَا تُزَكُّوا أَنفُسَكُمْ (Do not claim purity for your selves.) and suggested the name be changed. Therefore, they changed her name to 'Zainab'. Imam Ahmad records on the authority of ` Abdur-Rahman Ibn Abi Bakrah ؓ that a person praised another person in the presence of the Holy Prophet ﷺ . He stopped him and said "If you have to praise a person, then say, 'according to my knowledge the person appears to be upright and God-fearing وَلَا اُزَکِّی عَلَی اللہِ - and I cannot say that he is so` in the sight of Allah as well'.
 
 ## Personal Reflections
+
+

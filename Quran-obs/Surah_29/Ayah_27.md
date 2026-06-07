@@ -80,18 +80,6 @@ word_by_word:
     transliteration: l-ṣāliḥīna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, Lut believed in him. because the next sentence, i.e وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ (And We granted him Ishaque and Yaqub) is pointing certainly toward Sayyidna Ibrahim (علیہ السلام) .
@@ -175,3 +163,5 @@ The reward for some actions is bestowed in this world as well
 وَآتَيْنَاهُ أَجْرَ‌هُ فِي الدُّنْيَا (And gave his reward in the world - 29:27). That is, ` We rewarded Ibrahim for his sacrifices in the way of Allah and righteous actions in this world also'. He is made popular and the Imam among the people of the world. He is respected by all alike, whether Jews, Christians or idol worshippers. In the Hereafter he will be among the Salihin (righteous) of the Paradise. It clarifies that although the real reward for good deeds will be awarded in the Hereafter, but a small part of it is also given in this world. Some authentic ahadith have also described about the award of benefits in this world against good deeds, and depraved outcome of the bad deeds. Maulana Hakim-ul-Ummah (رح) has put together all such acts in his booklet ` Jaza'-ul-A` mal' (جَزَاّء الاَعمَال ).
 
 ## Personal Reflections
+
+

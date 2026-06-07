@@ -84,18 +84,6 @@ word_by_word:
     transliteration: yasmaʿūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is it not a guidance for those who inherit the earth from its previons inhabitants that had We willed, We would have punished them for their sins. After relating events of the early people, the above verses invite the people of Arabia and the people of the world to take lesson from these events by abstaining from deeds that incurred Allah's wrath, and by following the practices that led the prophets and their believers to eternal success.
@@ -157,3 +145,5 @@ The word: طبع is used for printing or stamping. It implies that these people 
 This perversion of human understanding has been termed in the Holy Qur'an as ' ra'n' signifying the rust of the heart. In this verse, as in many other verses of the Holy Qur'an, this stage has been named as 'taba". The result of their hearts being sealed has been mentioned at the end of the verse by saying (لَا يَسْمَعُونَ ) "so that they do not listen". One may think that more appropriate expression in this context was (S' ) they do not understand" as the adverse effect of sealing, of فَهُمْ لَا يَفقھُونَ the heart is obviously related to the faculty of understanding and not to the listening. The Holy Qur'an has used the word 'listen' to indicate that understanding is usually the result of listening to the truth. Now, since their hearts have been sealed they are rendered unable to listening the truth. Another explanation to this may be that all human faculties and limbs are controlled by human heart, that is, the function of all human parts is adversely affected by malfunctioning of the heart. When one loves anyone or anything he likes everything - good or bad - in that person or object.
 
 ## Personal Reflections
+
+

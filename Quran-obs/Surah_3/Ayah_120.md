@@ -93,18 +93,6 @@ word_by_word:
     transliteration: muḥīṭun
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 120, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud. Subject Though these discourses were revealed at different periods and on different occasions, they are so inter-linked and so inter-connected with regard to their aim, object, and central theme that they make together one continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The mentality of disbelievers has been further clarified by saying: إِن تَمْسَسْكُمْ حَسَنَةٌ in the first part of verse 120 which has been translated as, 'if something good happens to you, it annoys them and if something evil befalls you, they are delighted with it.' How can Muslims remain protected against the aftermath of sinister moves of the hypocrites and the deadly hostility of opponents?
@@ -234,3 +222,5 @@ The Holy Prophet ﷺ has said, as narrated by Sayyidna Abu Dharr ؓ
 I know a verse which, if people were to take to it, would suffice them. And that is: And whoever fears Allah, for him He shall make a way out (of the difficulties) - 65:2.
 
 ## Personal Reflections
+
+

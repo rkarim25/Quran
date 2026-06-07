@@ -85,18 +85,6 @@ word_by_word:
     transliteration: ḥīnin
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We said: "O Adam! A question arises here as to how Satan got into Paradise for seducing Adam and Hawwa (علیہما السلام) when he had already been expelled from there for refusing to prostrate himself.
@@ -204,3 +192,5 @@ Paradise, Allah also said, بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ:
 They were also told that the earth would be a temporary dwelling-place for them, and that they would have to leave it too, which also meant that they would not find real peace of mind there.
 
 ## Personal Reflections
+
+

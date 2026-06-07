@@ -61,15 +61,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Have you seen him who disbelieved in Our Ayat and said: "I shall certainly be given wealth and children [if I will be alive again).")[19:77] He took it for granted that Allah would give him this, without any sound evidence for that. The reason why this Ayah was revealed was because of Al-'As bin Wa'il, as we will explain in the appropriate place, if Allah wills. In Allah we put our trust.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -150,3 +142,5 @@ These verses have described the event of two persons one of whom had a lot of we
 The other person, though less than him in wealth, was a true believer. He refuted the argument of the former one by saying that the worldly wealth is not a sign of one's being close to Allah, because the worldly benefits are given by Allah, in one way or the other, even to the disbelievers and sinful persons, rather to the snakes, scorpions and beasts. It is a horrible mistake to presume that they are the signs of one's being approved by Allah. Therefore, neither your wealth is the proof of your behaviour being approved by Allah, nor my lesser wealth is a proof of disapproval by Him. Allah's approval or disapproval depends on one's faith and deeds alone and not on the amount of wealth one has.
 
 ## Personal Reflections
+
+

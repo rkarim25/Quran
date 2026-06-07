@@ -91,17 +91,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Hypocrites** (Al-Munafiqun) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Munafiqun is a **Madinah** surah—revealed as the 104th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Several of the Salaf mentioned that this entire passage was revealed in the case of 'Abdullah bin Ubay bin Salul, as we will soon mention, Allah willing and our trust and reliance are on Him.
 
 Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay. A young relative of his went to Allah's Messenger ﷺ and conveyed to him an awful statement that 'Abdullah said. The Messenger ﷺ called 'Abdullah, who swore by Allah that he did not say anything. The Ansar went to that boy and admonished him. However, Allah sent down what you hear about 'Abdullah's case and Allah's enemy was told, 'Go to Allah's Messenger,' but he turned his head away, saying that he will not do it."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -176,3 +168,5 @@ In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Har
 هُمُ الَّذِينَ يَقُولُونَ لَا تُنفِقُوا عَلَىٰ مَنْ عِندَ رَ‌سُولِ اللَّـهِ حَتَّىٰ يَنفَضُّوا (They are the ones who say, “ Do not spend on those who are with Allah’ s Messenger, so that they disperse…63:7). This verse points out to the foolish statement that Ibn Ubayy had made at the time of the dispute between Jahjah, the Emigrant, and Sinan, the Helper. Allah Ta’ ala has responded to it that these foolish people have presumed that the Emigrants need their donations and they are their sustainers, while all treasures of heavens and the earth belong to Allah. If He will, He can provide to them everything without any contribution from their side. Since the statement made by Ibn Ubayy was an evidence of his foolishness, the Holy Qur’ an states لَا یَفقَھونَ “…but the hypocrites do not understand [ 7].”
 
 ## Personal Reflections
+
+

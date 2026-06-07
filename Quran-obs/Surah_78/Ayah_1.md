@@ -12,18 +12,6 @@ word_by_word:
     transliteration: yatasāalūna
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, for Naba implies the news of Resurrection and Hereafter and the whole Surah is devoted to the same theme. Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the theme of all the Surahs, from Al-Qiyamah to An-Naziat, closely resembles one another's, and all these seem to have been revealed in the earliest period at Makkah. Theme and Subject Matter Its theme also is the same as of Surah Al-Mursalat, i. e. to affirm the Resurrection and Hereafter, and to warn the people of the consequences of acknowledging or disacknowledging it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Beneficent, the Most Merciful. عَمَّ يَتَسَاءَلُونَ (About what are they asking each other?...78:1).
@@ -185,3 +173,5 @@ Commentary
 عَمَّ يَتَسَاءَلُونَ (About what are they asking each other?...78:1). The word ` amma is made up of two particles: [ 1] The preposition' عن an (about); and [ 2] the interrogative particle ما 'ma' (what?) (the last letter, that is, 'ma' has been omitted according to the grammatical composition. The sense is: About what are they asking each other?' Allah Himself replies to the question when He says:
 
 ## Personal Reflections
+
+

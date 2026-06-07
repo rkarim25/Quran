@@ -46,18 +46,6 @@ word_by_word:
     transliteration: waʿum'yānan
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who do not bear witness to falsehood, and if they pass by some evil play or evil talk, they pass by it with dignity (72)And those who, when they are reminded of the Ayat of their Lord, fall not deaf and blind thereat (73)And those who say: "Our Lord! The Twelveth Characteristic And those who, when they are reminded of the verses of their Lord, do not fall at them as deaf and blind ones - 25:73
@@ -145,3 +133,5 @@ As it is condemned in the verses under study that Divine message is ignored. It 
 It is a matter of great satisfaction that there is a new tendency among the younger generation and modern educated people to study the Qur’ an but to achieve this purpose they often deem it enough to study the Qur’ an and try to understand it through the translations of the Qur'an on their own. This practice being against the correct principles of learning something, often makes them fall into misconceptions. It is a well-settled fact that education and knowledge cannot be imparted only through books unless guidance of a teacher is available for explaining the intricacies of the subject which normally go unnoticed by an ordinary reader. It is rather strange why people feel that this basic rule does not apply to Qur'an and its related subjects and try to indulge in interpreting the Holy Book according to their own wishes. This type of study and interpreting Qur'an on one's own without the help and guidance of a well qualified teacher also falls under the purview of this verse i.e. "they do not throw themselves upon as if they were blind and dumb". May Allah lead us to the right path.
 
 ## Personal Reflections
+
+

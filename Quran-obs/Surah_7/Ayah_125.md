@@ -24,18 +24,6 @@ word_by_word:
     transliteration: munqalibūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 125, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Fir'awn said: "You have believed in him [Musa] before I gave you permission. The Pharaoh made all the efforts that he could to control his people.
@@ -123,3 +111,5 @@ The Pharaoh made all the efforts that he could to control his people. The belief
 The sorcerers were fully aware of Pharaoh's power and authority over them. They did not say that Pharaoh will not be able to kill them because of their new faith. Their answer was to suggest that the whole life of this temporary world had no value in their eyes. Their satisfaction was due to the fact that they were sure of meeting the Lord of the worlds after passing away from this world. There they shall get an everlasting life of peace and comfort. Another interpretation of their answer is that though the Pharaoh had all the power to finish their life, but soon he will be presented before the Lord of the worlds where he shall be taken to account for his despotism. In another verse, the following statement is also included in the answer of the sorcerers, فَاقْضِ مَا أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِي هَـٰذِهِ الْحَيَاةَ الدُّنْيَا You may pass any judgment you can against us, but your judgment will be restricted to this worldly life." (72:20) This also shows their total indifference towards the temporary life of this world.
 
 ## Personal Reflections
+
+

@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Mentioned in the first verse (79) are taunts thrown at Muslims who gave away in charity on a voluntary basis (Nafli Sadaqat). It appears ؓ in the Sahih of Muslim that Sayyidna Abu Masud ؓ said: ` we had orders from Allah Ta` ala that we must give Sadaqah and, believe it, we used to do manual labor for that (that is, we had no money or thing with us. We used to take out that Sadaqah too from whatever we earned through this very manual labor). Thus, Abu 'Aqil offered Sadaqah to the measure of 0.5 Sa` (approximately 1.75 kilos). Then, someone came and gave a little more than that. The hypocrites mocked at them for having brought something so insignificant in the name of Sadaqah. Allah never needs things like that. And whoever gave a little more in Sadaqah, they accused him that he had done it to show off before people. Thereupon, this verse was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -164,3 +156,5 @@ Please note that, in the sentence: سَخِرَ‌ اللَّـهُ مِنْهُ
 In the second verse (80), there is a statement about the hypocrites. It has been addressed to the Holy Prophet ﷺ . He has been told whether or not he seeks forgiveness for them makes no difference - and no matter how many times he seeks forgiveness for them, they shall not be forgiven. A detailed explanation of this appears under the comments on verse 84: لَا تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم (and never offer a prayer on anyone of them who dies) appearing a little later.
 
 ## Personal Reflections
+
+

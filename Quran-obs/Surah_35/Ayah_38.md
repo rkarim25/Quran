@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-ṣudūri
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, Allah is the All-Knower of the Unseen of the heavens and the earth. When the people in Jahannam will plead with their Lord that they be delivered from its punishment, so that they could do good deeds then, and not do the bad ones they did earlier, at that time they will be told: أَوَلَمْ…
@@ -105,3 +93,5 @@ And it has been reported from Sayyidna Ibn ` Abbas, ` Ikrimah and Imam Ja'far Ba
 And the truth of the matter is that all conditions faced by human beings after their age of puberty and all minor and major changes that take place in their persons and in that they are surrounded with are, all of them, heralds of warning for human beings.
 
 ## Personal Reflections
+
+

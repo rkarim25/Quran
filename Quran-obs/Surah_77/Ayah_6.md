@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Emissaries** (Al-Mursalat) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 عُذْرً‌ا أَوْ نُذْرً‌ا ( to provide excuses [ for the believers ] or giving warnings (to disbelievers…77:6) This phrase is complement to verse [ 5]: فَالْمُلْقِيَاتِ ذِكْرً‌ا then bring down the advice, [ 77:5] The 'advice' refers to the 'revelation' that came down upon the Prophets. Verse 6 says that it serves two purposes. In the case of the people of truth and believers, it persuades them to seek excuse from Allah for their shortcomings, and pray for forgiveness; and in the case of the people of falsehood and disbelievers, it contains a warning for them of Allah's torment, if they oppose His command.
 
 ## Personal Reflections
+
+

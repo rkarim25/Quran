@@ -147,18 +147,6 @@ word_by_word:
     transliteration: l-nāri
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If you disbelieve, then verily, Allah is not in need of you; He likes not disbelief for His servants. In the opening verse (7), it was said: إِن تَكْفُرُ‌وا فَإِنَّ اللَّـهَ غَنِيٌّ عَنكُمْ (If you disbelieve, then, Allah does not need you at all,) that is, neither does your faith bring any benefit to Allah Ta’ ala, nor does your disbelief or ingratitude, any loss.
@@ -246,3 +234,5 @@ Ahl-us-sunnah wa-l-Jama'ah believe that nothing good or bad, faith or disbelief 
 The creed (madhhab) of people who follow the truth (ahl-ul-haqq) is to believe in destiny (al-qadr) and that all existents, good or bad, come into existence under the decision (qada' ) and destination (qadar) of Allah Ta’ ala, and Allah Ta’ ala does make the intention to create these, but He dislikes acts of disobedience and sin - though, the intention of creating these materializes in view of some wise consideration which He alone knows in His most exalted majesty. (Ruh-ul-Ma` ani)
 
 ## Personal Reflections
+
+

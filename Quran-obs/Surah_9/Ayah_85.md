@@ -72,18 +72,6 @@ word_by_word:
     transliteration: kāfirūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And let not their wealth or their children amaze you. Once again, the present verses carry the description of hypocrites who had avoided participating in the battle of Tabuk under one or the other pretext.
@@ -101,3 +89,5 @@ Once again, the present verses carry the description of hypocrites who had avoid
 In response, it was said that a little thinking would unfold the reality behind what they possess in the form of wealth and children. These are no mercy and blessing for them. Instead, these are their trial and punishment in this world - not to say much about the additional punishment due in the Hereafter. It is not difficult to understand the reason. They love wealth, guard it and keep worrying as to how they can go on increasing it. They are never at peace. They collect things of comfort around them but genuine peace and comfort never knock at their doors, for they are things of the heart. And since this engrossment in the pursuit of wealth makes them heedless towards the concerns of the Hereafter, they indulge in acts of disobedience to their Creator that in turn becomes the cause of their punishment. So, whether a cause or its effect, it remains a punishment. This is the reason why the Qur'an has used the words: لِيُعَذِّبَهُم بِهَا (to punish them with these) in the sense that Allah Ta` ala wants to punish them by and through these very possessions.
 
 ## Personal Reflections
+
+

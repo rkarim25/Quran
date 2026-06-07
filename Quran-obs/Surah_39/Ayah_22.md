@@ -90,13 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-In the first sentence of verse 22, it was said: أَفَمَن شَرَ‌حَ اللَّـهُ صَدْرَ‌هُ لِلْإِسْلَامِ فَهُوَ عَلَىٰ نُورٍ‌ مِّن رَّ‌بِّهِ (So I ask about a person whose heart Allah has opened up for Islam, and consequently he proceeds in a light from his Lord.). The word: شَرَ‌حَ (sharh) literally means to open, enlarge or extend. The expression: شرح الصدر (sharh-us-sadr) means the capacity or capability of the heart (to receive and accommodate input). The sense is that one's heart is capable of learning lessons and receiving benefits by deliberating into Divine signs of creation in the heavens and the earth, particularly so by deliberating in his own creation. Similar is the case with other signs of Allah revealed in the form of scriptures and injunctions. One's heart also has to have the ability to deliberate in them and be benefited by them. In contrast, there is a heart that is straightened or hardened.
+In the first sentence of verse 22, it was said: أَفَمَن شَرَ‌حَ اللَّـهُ صَدْرَ‌هُ لِلْإِسْلَامِ فَهُوَ عَلَىٰ نُورٍ‌ مِّن رَّ‌بِّهِ (So I ask about a person whose heart Allah has opened up for Islam, and consequently he proceeds in a light from his Lord.). The word: شَرَ‌حَ (sharh) literally means to open, enlarge or extend. The expression: شرح الصدر (sharh-us-sadr) means the capacity or capability of the heart (to receive and accommodate input). The sense is that one's heart is capable of learning lessons and receiving benefits by deliberating into Divine signs of creation in the heavens and the earth, particularly so by deliberating in his own creation. Similar is the case with other signs of Allah revealed in the form of scriptures and injunctions. One's heart also has to have the ability to deliberate in them and be benefited by them. In contrast, there is a heart that is straightened or hardened. The statement in a verse of the Qur'an: يَجْعَلْ صَدْرَ‌هُ ضَيِّقًا حَرَ‌جًا He makes his heart narrow, much too narrow - Al-An am, 6:125) and the one in the next verse at this place: لِّلْقَاسِيَةِ قُلُوبُهُم "woe to those whose hearts are too hard to remember Allah - 39:22" has appeared in contrast to this very 'sharh-us-sadr' (a heart opened to acceptance of truth and at ease with it).
 
 ## Tafsir Summary
 
@@ -171,3 +165,5 @@ The verse under study has been initiated as headed by an interrogative particle:
 In this verse (22), it was said: فَوَيْلٌ لِّلْقَاسِيَةِ قُلُوبُهُم (woe to those whose hearts are too hard to remember Allah). The word: الْقَاسِيَةِ (al-qasiyah) is a derivation from: قَسَاوَت (qasawah) which means to be hard-hearted, having no mercy for anyone, and also the one who remains totally unaffected by the need to remember Allah and follow His injunctions.
 
 ## Personal Reflections
+
+

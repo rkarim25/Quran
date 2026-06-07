@@ -90,15 +90,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 159, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These Ayat sternly warn against those who hide the clear signs that the Messengers were sent with which guide to the correct path and beneficial guidance for the hearts, after Allah has made such aspects clear for His servants through the Books that He revealed to His Messengers. Abu Al-'Aliyah said that these Ayat, "were revealed about the People of the Scripture who hid the description of Muhammad ﷺ." Allah then states that everything curses such people for this evil act. Certainly, just as everything asks for forgiveness for the scholar, even the fish in the sea and the bird in the air, then those who hide knowledge are cursed by Allah and by the cursers.
 
-These narrations tell us that in the view of the blessed Companions, the Hadith of the Holy Prophet ﷺ enjoys some privileges mentioned in relation to the Qur'an. It may be noted that the verse in question warns those who may conceal what has been revealed in the Holy Qur'an; it does not mention Hadith as such.
+These narrations tell us that in the view of the blessed Companions, the Hadith of the Holy Prophet ﷺ enjoys some privileges mentioned in relation to the Qur'an. It may be noted that the verse in question warns those who may conceal what has been revealed in the Holy Qur'an; it does not mention Hadith as such. But, the blessed Companions ruled that the Hadith of the Holy Prophet ﷺ was covered under this reference to the Qur'an and that is why they thought that concealing the Hadith would also put them under this warning.
 
 ## Tafsir Summary
 
@@ -223,3 +217,5 @@ The evil consequences of some sins
 The exact words of the Holy Qur'an in وَيَلْعَنُهُمُ اللَّاعِنُونَ :'And curse them those who curse', as obvious, have not identified those who do that. Commentators Mujahid and ` Ikrimah have said that this absence of specification suggests that they are cursed by everything and every living being, so much so, that all animals and insects join in since their misdeeds hurt all created life forms. This is supported by a hadith from the blessed Companion, Bard' ibn ` Azib where the Holy Prophet ﷺ has been reported to have said that the word al-la` inun اللَّاعِنُون ('those who curse' ) refers to all animal life that moves on the earth. (Qurtubi quoting Ibn Majah)
 
 ## Personal Reflections
+
+

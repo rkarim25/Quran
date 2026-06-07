@@ -30,18 +30,6 @@ word_by_word:
     transliteration: l-mutaqīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 241, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those of you who die and leave behind wives should bequeath for their wives a year's maintenance (and residence) without turning them out, but if they (wives) leave, there is no sin on you for that which they do of themselves, provided it is honorable (e.g., lawful marriage). Verse 241: The divorced women deserve a benefit Providing compensatory benefits (` mata متاع `) for divorced women has also been dealt with in verses earlier than this, but that was restricted to two types of divorced women who were divorced before privacy and consummation.
@@ -177,3 +165,5 @@ Verse 241: The divorced women deserve a benefit
 Providing compensatory benefits (` mata متاع `) for divorced women has also been dealt with in verses earlier than this, but that was restricted to two types of divorced women who were divorced before privacy and consummation. The first case of providing compensatory benefits was the giving of a set of clothes. The second case was of providing compensatory benefit in the form of half of the dower. Now remains the case of divorcees who were divorced after privacy and con-summation. Here, providing compensatory benefits to one whose dower has already been fixed lies in giving her the full amount of dower or mahr. For one whose dower has not already been fixed, a post-consummation divorce will make it obligatory to give her mahr almithl مھر المثل or 'equivalent dower' (as customarily given in the immediate family circle of the woman). If the word 'benefit' used in this verse is taken to mean 'dower', its payment is obligatory according to these de-tails. However, if we take math' to mean a particular benefit, that is, the giving of a gift or set of clothes, then giving this to a particular type of divorced woman is obligatory which has been pointed out earlier. In the rest of the cases, this is mustahabb مستحب or desirable. And should math` be taken to mean maintenance or nafaqah, then it is obligatory until the expiry of ` iddah in the case of a divorce after which ` iddah has to be observed. The divorce may be revocable (رجعی) or irrevocable (باین) --it does not matter. To sum up, the verse, by using universally applicable words, covers all situations.
 
 ## Personal Reflections
+
+

@@ -191,17 +191,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah says that those who rejected His Messengers did not give Allah due consideration. Ibn 'Abbas, Mujahid and 'Abdullah bin Kathir said that this Ayah was revealed about the Quraysh. It was also said that it was revealed about some Jews.
 
 (Those who believe in the Hereafter believe in it,) meaning, those who believe in Allah and the Last Day, believe in this blessed Book, the Qur'an, which We revealed to you, O Muhammad ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -322,3 +314,5 @@ After that, addressing the same people, it has been said: وَعُلِّمْتُ
 At the end of verse (91), it was said: قُلِ اللَّـهُ ۖ ثُمَّ ذَرْ‌هُمْ فِي خَوْضِهِمْ يَلْعَبُونَ (Say, "Allah." Then leave them playing with what they are indulged in). In other words, the sense is: As for the question - if Allah just did not send any book, who sent the Torah? - it was something they would not know how to answer, so, you go ahead and tell them that it was revealed by none but Allah. Now that the argument against them stands concluded, your mission as far as they are concerned is over. So, let them be lost in the game they are playing.
 
 ## Personal Reflections
+
+

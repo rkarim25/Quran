@@ -28,18 +28,6 @@ word_by_word:
     transliteration: ākharīna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, after them, We created another generation (31)And We sent to them a Messenger from among themselves (saying): "Worship Allah! In the earlier verses the story of Sayyidna Nuh (علیہ السلام) was told who was sent to his people to guide them along the path of righteousness and the following verses contain a brief account of some other prophets without mentioning their names and the people for whose guidance they were sent.
@@ -99,3 +87,5 @@ In the earlier verses the story of Sayyidna Nuh (علیہ السلام) was told
 An alternative explanation is that the word صَیحَہ (Cry) has been used in the general sense of punishment from Allah in which case it would include the tribe of ` Ad also.
 
 ## Personal Reflections
+
+

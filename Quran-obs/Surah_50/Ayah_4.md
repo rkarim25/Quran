@@ -42,18 +42,6 @@ word_by_word:
     transliteration: ḥafīẓun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Beginning of Muffasal Section of the Qur'an This Surah is the first Surah in the Mufassal section of the Qur'an, according to the correct view. Removal of a Doubt relating to Resurrection قَدْ عَلِمْنَا مَا تَنقُصُ الْأَرْ‌ضُ مِنْهُمْ (We know very well how much of them is diminished by the earth,...
@@ -191,3 +179,5 @@ This interpretation of 'diminishing by earth' is reported from Sayyidna Ibn ` Ab
 فِي أَمْرٍ‌ مَّرِ‌يجٍ (so they are in a confused state... 5). The word Mar, (translated above as 'confused' ) means something mixed up with different elements. Such a thing generally becomes corrupt or spoiled. Therefore, Sayyidna Abu Hurairah ؓ ، translates the word marij as "corrupt". Sayyidna Dahhak, Qatadah, Hasan Basri رحمۃ اللہ علیہم and others interpret the word marij to mean "in disarray, in a confused state". This is the state of those who deny the prophethood of the Holy Prophet ﷺ : whatever they say and utter is no more than confusion. They are not even consistent in their claims. Sometimes they call the Holy Prophet ﷺ a sorcerer, at other times a poet; and yet at other times they refer to him as a soothsayer or an astrologer. They were so confused that they could not extricate themselves from their perplexity.
 
 ## Personal Reflections
+
+

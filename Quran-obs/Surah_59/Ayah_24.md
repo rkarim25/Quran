@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-ḥakīmu
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-18-24 ) is an admonition for all those people who had professed to have affirmed the faith and joined the Muslim community, but were devoid of the true spirit of the faith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. الْمُصَوِّرُ‌ (...the Originator of all Shapes....59:24) In other words, He gives shape to everything He creates.
@@ -261,3 +249,5 @@ Surah Al-Hashr
 Ends here
 
 ## Personal Reflections
+
+

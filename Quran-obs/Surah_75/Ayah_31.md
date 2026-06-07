@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ṣallā
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? (When the soul [ of a patient ] reaches the clavicles, and it is said, "Who is an enchanter [ that can save him?] ", and he realizes that it is [ the time on departure [ from the world,] and one shank is intertwined with the other shank, then on that day, it is to your Lord that one has to be driven....
@@ -189,3 +177,5 @@ In the preceding verses, reckoning on the Day of Reckoning and conditions of the
 Sayyidna Ibn ` Abbas says that the two 'shanks' refer to the two worlds: the Here and the Hereafter. The verse signifies 'the last day of the days of this world and the first day of the days of the Hereafter; one affliction will be joined to another, and the agony of leaving this world will be joined to the agony of the punishment awaiting the disbeliever in the next world'. And Allah knows best!
 
 ## Personal Reflections
+
+

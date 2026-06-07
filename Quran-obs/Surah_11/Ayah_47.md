@@ -83,18 +83,6 @@ word_by_word:
     transliteration: l-khāsirīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Nuh called upon his Lord and said, "O my Lord! Mentioned in the third verse (47) is the apology tendered by Sayyidna Nuh (علیہ السلام) .
@@ -134,3 +122,5 @@ Mentioned in the third verse (47) is the apology tendered by Sayyidna Nuh (عل�
 From here we learn that, should one commit a mistake, let him not rely on his personal resolve to stay safe from it in the future. He should, rather, seek the protection of Allah Ta` ala and pray to Him that He is the One who can keep him safe from errors and sins.
 
 ## Personal Reflections
+
+

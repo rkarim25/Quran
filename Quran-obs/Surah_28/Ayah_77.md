@@ -113,18 +113,6 @@ word_by_word:
     transliteration: l-muf'sidīna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, Qarun was of Musa's people, but he behaved arrogantly towards them. وَابْتَغِ فِيمَا آتَاكَ اللَّـهُ الدَّارَ‌ الْآخِرَ‌ةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ الدُّنْيَا (And seek the (betterment of) the ultimate Abode with what Allah has given to you, and do not neglect your share from this world - 28:77).
@@ -186,3 +174,5 @@ What is his 'share in this world'? Many commentators have explained that it refe
 However, some other commentators have explained that the meaning of the second sentence is that whatever Allah has given you, make use of it for the Hereafter, without loosing sight of your needs in this world. In other words do not become a pauper by giving away everything in charity. Instead, retain something for your own needs as well. Under this explanation, 'your share in the world' means one's own needs in this world.
 
 ## Personal Reflections
+
+

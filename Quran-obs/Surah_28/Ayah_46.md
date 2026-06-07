@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and you were not among the witnesses.) 'to that event, but Allah has revealed this to you,' so that it may be evidence and proof of events which happened centuries ago, for people have forgotten the evidence that Allah established against them and what was revealed to the earlier Prophets.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -193,3 +185,5 @@ Allah points out the proof of the prophethood of Muhammad ﷺ, whereby he told o
 لِتُنذِرَ‌ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ‌ ( so that you warn a people to whom no warner has come before - 28:46). The expression ` a people' is purported here for the Arabs, who are the progeny of Sayyidna Ismail (علیہ السلام) . No prophet was sent to this ` people' after Sayyidna Ismail علیہ السلام until the Holy Prophet ﷺ was sent. The same subject will follow in Surah Yasin. But this verse is not in conflict with the other verse إِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ‌ (There is no community, but there has come a warner among them - 35:24). What the present verse means here is that there was no prophet in ` this people' for a long time after Ismail . But after the arrival of the Holy Prophet ﷺ this void was filled up.
 
 ## Personal Reflections
+
+

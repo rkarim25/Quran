@@ -34,15 +34,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Believers** (Al-Mu'minun) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H. The apparent meaning is that the Zakah that was instituted in Al-Madinah is the one based upon the Nusub and the specific amounts, apart from which it seems that the basic principle of Zakah was enjoined in Makkah. As Allah says in Surat Al-An'am, which was also revealed in Makkah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -179,3 +171,5 @@ According to another version: the Messenger of Allah ﷺ said:
 فَمَنِ ابْتَغَىٰ وَرَ‌اءَ ذَٰلِكَ فَأُولَـٰئِكَ هُمُ الْعَادُونَ (However, those who seek (sexual pleasure) beyond that are the transgressors - 7). Satisfying one's desire with someone other than one's own wife or a lawfully acquired slave-girl is strictly forbidden and the ban includes adultery (marrying a woman whom one is not allowed to marry under the religious code is also adultery), having sex with one's wife or slave-girl when she is menstruating or is confined, or having unnatural sex with them, homosexuality and bestiality, while most jurists include masturbation also in the ban. (Tafsir Bayan ul-Qur’ an, Qurtubi, al-Bahr ul-Muhit, etc.)
 
 ## Personal Reflections
+
+

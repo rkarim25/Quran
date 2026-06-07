@@ -46,18 +46,6 @@ word_by_word:
     transliteration: arḥāmakum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death. فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا فِي الْأَرْ‌ضِ وَتُقَطِّعُوا أَرْ‌حَامَكُمْ (So, [ O hypocrites,] do you not apprehend that, in case you turn away (from Jihad), you will spread disorder in the land, and will sever your ties of kinship?
@@ -175,3 +163,5 @@ The word اَرحَام 'arham' is the plural of رَحَم 'rahim' (womb). This
 "The person who perfectly maintains the ties of kinship is not the one who does it because he gets recompensed by his relatives for being kind and good to them, but the one who truly maintains the bonds of kinship is he who treats his kinsmen fairly, even though others have severed the ties of kinship with him." (Ibn Kathir)
 
 ## Personal Reflections
+
+

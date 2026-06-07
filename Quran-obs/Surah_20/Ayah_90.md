@@ -71,18 +71,6 @@ word_by_word:
     transliteration: amrī
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 90, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Harun indeed had said to them beforehand: "O my people! When the Bani Isra'il were smitten with the mischief of calf-worship Sayyidna Harun (علیہ السلام) as the deputy of Sayyidna Musa (علیہ السلام) remonstrated with them but to no avail.
@@ -116,3 +104,5 @@ Differences between two prophets when the opinions of both could be right
 In this affair the considered opinion of Sayyidna Musa (علیہ السلام) ، by way of ijtihad was that in the situation as it took shape Sayyidna Harun (علیہ السلام) should have totally dissociated himself from the Bani Isra'il by removing himself and his followers from their company, and that by continuing to stay with them he had compromised his position. On the other hand Sayyidna Harun (علیہ السلام) felt, by way of ijtihad, that such an action would have caused a permanent split among the Bani Isra'il and divided them into factions, and since there was hope that they would see the error of their way when Sayyidna Musa (علیہ السلام) returned, he thought it wise to adopt a conciliatory attitude towards them. The purpose of both the prophets was a strict adherence to the commands of Allah and to ensure that the Bani Isra'il remained steadfast in the observance of the True Faith and in their belief in the Oneness of Allah. Where they differed, however, was the manner in which these objectives could be achieved whether to make a complete break with the dissidents or to bear with them in the hope those things would improve ultimately. Both these views have merit and it is not possible to pass a firm and final judgment on them. The differences among the jurists based on ijtihad are of a similar nature and those holding different opinions cannot be charged of having broken any religious laws. As regards Sayyidna Musa (علیہ السلام) seizing his brother by the hairs, it only shows his anger and frustration with the situation which had developed during his absence, but on hearing his explanation, he prayed to Allah to forgive them both.
 
 ## Personal Reflections
+
+

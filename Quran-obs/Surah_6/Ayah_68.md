@@ -103,15 +103,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And it has already been revealed to you in the Book that when you hear the Verses of Allah being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) certainly in that case you would be like them.)[4:140], for, if you still sit with them, agreeing to what they say, you will be just like them. Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -242,3 +234,5 @@ As for the statement: فَلَا تَقْعُدْ بَعْدَ الذِّكْر�
 The same subject has been taken up in another verse of the Holy Qur'an more explicitly where it is said: وَلَا تَرْ‌كَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ‌ (And do not incline towards the wrong doers, lest the Fire should catch you ... 11:113).
 
 ## Personal Reflections
+
+

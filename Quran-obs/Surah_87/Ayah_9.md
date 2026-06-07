@@ -23,15 +23,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Most High** (Al-A'la) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'la is a **Makkah** surah—revealed as the 8th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companions of the Prophet were ﷺ Mus'ab bin 'Umayr and Ibn Umm Maktum, who taught us the Qur'an; then 'Ammar, Bilal and Sa'd came. Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. I have not seen the people of Al-Madinah happier with anything more than their happiness with his coming (to Al-Madinah). This was reached to such an extent that I saw the children and little ones saying, 'This is the Messenger of Allah who has come.' Thus, he came, but he did not come until after I had already recited (i.e., learned how to recite)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -260,3 +252,5 @@ Then, a man from among the people present said, "It is as if the Messenger of Al
 فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ (So, extend advice [ to people ] if advice is useful....87:9) The preceding verses described the facilities created by Allah for the Holy Prophet in performing his Prophetic obligation. This verse commands him to perform his obligation. The verse contains the conditional particle 'in' (if) that apparently makes the sentence a conditional statement. But, in fact, the command is not intended to be made conditional. It is rather an emphatic statement. This is similar to the grammatical phenomenon in many languages. The particle 'if' is sometimes used when something is always true. It is used for introducing a situation that always has the same meaning, result or effect. For example: "If you are a 'man' [ obviously he is a man ], then you will have to do this work;" In neither of such sentences, the particle 'if is conditional, but rather emphatic. Likewise, the verse purports to say that preaching truth and righteousness is certainly useful. Therefore, the beneficial thing should never be abandoned at anytime.
 
 ## Personal Reflections
+
+

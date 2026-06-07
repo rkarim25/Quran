@@ -46,18 +46,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 113, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he said: "Verily, I am going to my Lord. In the last verse, it was said: وَمِن ذُرِّ‌يَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ (and among the progeny of both of them, some are good and some are utterly unjust to their own selves.- 37:113).
@@ -209,3 +197,5 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 In the last verse, it was said: وَمِن ذُرِّ‌يَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ (and among the progeny of both of them, some are good and some are utterly unjust to their own selves.- 37:113). Refuted through this verse is the false pride of the Jews that being among the progeny of these noble prophets (علیہم السلام) is in itself sufficient to bless one with merit and salvation. This verse openly declares that having lineal connection with a man of virtue is not a sufficient guarantee of one's salvation, in fact, this thing depends on one's own beliefs and deeds.
 
 ## Personal Reflections
+
+

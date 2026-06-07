@@ -97,18 +97,6 @@ word_by_word:
     transliteration: qadīrun
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And from among His signs are the night and the day, and the sun and the moon. وَهُمْ لَا يَسْأَمُونَ (and they do not get weary.
@@ -168,3 +156,5 @@ Here Allah reminds His Creation of His power, and that He is the One Who has no 
 Sayyidna ` Abdullah Ibn ` Umar ؓ has also advised prostration at this place. Masruq, Abu ` Abdur Rahman Sulami, Ibrahim Nakha` i, Ibn Sirin, Qatadah, etc., and most jurists used to prostrate at verse 38, i.e. at the end of لَا يَسْأَمُونَ ۩. Imam Abu Bakr Jassas has said in Ahkam-ul-Qur'an that this has been the view of all the leading Hanafi scholars. He has further said that in view of the differences, it is on the safer side to prostrate at the end of the verse 38, because even if prostration becomes wajib at the end of the verse 37, then the obligation would be discharged if it is performed after the recitation of the verse 38, and if it becomes wajib at the verse 38, then, the discharge of obligation (if it is performed after verse 38) is more obvious.
 
 ## Personal Reflections
+
+

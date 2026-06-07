@@ -43,17 +43,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth. And those who disbelieve in the Ayat of Allah, such are they who will be the losers (63)Say: "Do you order me to worship other than Allah O you fools! (64)And indeed it has been revealed to you, as it was to those before you: "If you join others in worship with Allah, surely your deeds will be in vain, and you will certainly be among the losers. (65)Nay! But worship Allah, and be among the grateful (66)
 
 (Say: "Do you order me to worship other than Allah O you fools!") The reason for the revelation of this Ayah was narrated by Ibn Abi Hatim and others from Ibn 'Abbas, may Allah be pleased with him, that the idolators in their ignorance called the Messenger of Allah ﷺ to worship their gods, then they would worship his God with him. Then these words were revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -106,3 +98,5 @@ As-Suddi said:
 In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِي فَكَذَّبْتَ بِهَا (Why not? My verses had reached you, but you called them untrue, and waxed proud, and became of those who disbelieved...). In this verse, what the disbelievers said in: (If Allah were to show me the way, I would have surely been among those who fear Allah",- 39:57) has been answered. The outcome of this verse is that Allah had already given the necessary guidance, fully and conclusively. He had sent His books, verses and signs. Therefore, their claim that Allah gave them no guidance was absurd. Of course, once He had given the guidance, Allah never forced anyone to be good and obedient. In fact, every servant of His was given the choice to take to either the way of the truth or the way of the false. This was a test for the maker of the choice. On this depended his or her success or failure. Whoever took to the way of error by one's own free will, choice and volition, he or she is, himself or herself, responsible for it.
 
 ## Personal Reflections
+
+

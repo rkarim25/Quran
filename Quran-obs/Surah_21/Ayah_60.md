@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ib'rāhīmu
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And by Allah, I shall plot a plan for your idols after you have gone away and turned your backs. فَجَعَلَهُمْ جُذَاذًا (21:58) The word جُذَاذً is the plural for جُذَ.
@@ -126,3 +114,5 @@ Muhammad bin Sirin said, "When Abu Hurayrah narrated this Hadith, he said, 'This
 لَعَلَّهُمْ إِلَيْهِ يَرْ‌جِعُونَ (So that they may come back to him - 21:58) There can be three explanations to this expression. One, if the object of إِلَيْهِ (to him) is Sayyidna Ibrahim (علیہ السلام) then the meaning would be that he himself wanted the unbelievers to ask him why he had broken the idols which would give him a chance to sneer at them that what they worshipped could not even look after themselves. The second meaning of إِلَيْهِ يَرْ‌جِعُونَ could be that he destroyed the idols in the hope that when the unbelievers saw them in pieces it might convince them of the futility of idol-worship and cause their return toward the religion of Sayyidna Ibrahim (علیہ السلام) . The third explanation is given by Kalbi. He says that the object of إِلَيْهِ is کَبِیر (the big). In that case the explanation would be that when the unbelievers, on their return saw the idols in pieces except the big one, who had a hammer resting on his shoulder, they might turn towards it for an explanation and getting no response from it they would see for themselves the helplessness of the idol.
 
 ## Personal Reflections
+
+

@@ -97,18 +97,6 @@ word_by_word:
     transliteration: yastahziūna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He it is Who has created the heavens and the earth in six Days and His Throne was over the water, that He might try you, which of you is the best in deeds. Described in the seventh verse is the condition of those who denied that there was to be a Last Day and a Hereafter.
@@ -276,3 +264,5 @@ Described in the seventh verse is the condition of those who denied that there w
 In the eighth verse, an answer has been given to people who doubted the warnings of punishment given by prophets, peace be on them. Not willing to believe them, they used to ask them if they were true, and if they were, why the punishment they warned them of would not come?
 
 ## Personal Reflections
+
+

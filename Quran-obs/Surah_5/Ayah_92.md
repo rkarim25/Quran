@@ -60,17 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It is recorded in the Two Sahihs, that 'Umar bin Al-Khattab said in a speech; while standing on the Minbar of the Messenger of Allah (in the Prophet's Masjid in Al-Madinah) "O people! The prohibition of Khamr was revealed; and Khamr was extracted from five things: From grapes, dates, honey, wheat and barley. Khamr is what intoxicates the mind." Al-Bukhari recorded that Ibn 'Umar said, "The prohibition of Khamr was revealed when there were five kinds of intoxicants in Al-Madinah, besides what was produced from grapes."
 
 Al-Hafiz Abu Bakr Al-Bayhaqi recorded that Sa'd said, "There were four Ayat revealed about Khamr..." He then said, "A man from Al-Ansar made some food and invited us. We drank Khamr before it was prohibited and became intoxicated, and thus started to boast about our status. The Ansar said that they were better, while Quraysh (the Muhajirin) said that they were better. So a man from the Ansar took a bone and struck Sa'd's nose with it and made a flesh wound on it. Ever since that happened, Sa'd's nose had a scar from that wound. The Ayah,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -261,3 +253,5 @@ And obey Allah and obey the Messenger, and be careful. If you turn back, be sure
 The lesson to be learnt is that the command to obey Allah and His Messenger is in one's own interest, and benefit. If one does not listen to the good counsel, their action brings no loss to Allah Jalla Sha'nuhu or to His Messenger. That Allah is far above any gain or loss was quite obvious, but in the case of the Messenger someone might have thought that a refusal to listen to him might affect or lessen the degree of his reward or station. To remove this doubt, it was said: أَنَّمَا عَلَىٰ رَ‌سُولِنَا الْبَلَاغُ الْمُبِي . It means: Even if none of you were to listen to and obey Our Messenger, it would still not make any difference to his integrity and station because he has completed the mission entrusted with him. His mission was to convey the commands of Allah Ta ala, openly and clearly. This he has accomplished. Now, after that, whoever chooses not to obey him will bring loss on his or her person - Our Messenger has nothing to lose in this case.
 
 ## Personal Reflections
+
+

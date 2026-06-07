@@ -12,18 +12,6 @@ word_by_word:
     transliteration: dharwan
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The subject matter and the style clearly show that it was sent down in the period when although the Holy Prophet's invitation was being resisted and opposed with denial and ridicule and false accusations stubbornly, persecution had not yet started. Therefore, this Surah also seems to have been revealed in the same period in which the Surah Qaf was revealed. Subject Matter and Topics The Surah mostly deals with the Hereafter, and in the end it presents the invitation to Tauhid .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Affirmation of After-Life The subject-matter of Surah Adh-Dhariyat, like its predecessor Surah Qaf, is mainly the Hereafter, Resurrection, Reckoning, Judgment, and Allah's reward and punishment.
@@ -143,3 +131,5 @@ The subject-matter of Surah Adh-Dhariyat, like its predecessor Surah Qaf, is mai
 There is a Hadith whose attribution to the Holy Prophet ﷺ has been held by Ibn Kathir as da` eef [ weak ], but it is also reported as a saying of Sayyidna ` Umar ؓ and Ali ؓ . It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression jariyat-i-yusran refers to the ships that sail smoothly and with ease in the water; and the expression muqassimat-i-amran refers to the angels who distribute to all creatures their sustenance and water, and different kinds of difficulties and comfort as determined by Allah's orders and decrees (Ibn Kathir, Qurtubi and Ad-Durr-ul-Manthur quote these narrations both as mar' mawquf).
 
 ## Personal Reflections
+
+

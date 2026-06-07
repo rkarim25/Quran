@@ -124,13 +124,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Victory** (Al-Fath) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Some people have tried to argue that the restrictive injunction is found in the Qur'an itself, that is in verses 18 and 19 of this very Surah "so He sent down tranquility upon them, and rewarded them with a well-nigh victory, and many spoils that they would receive." This verse was revealed in the beginning of the journey to Hudaibiah, and "well-nigh victory" refers, according to consensus of Qur'anic scholars, to the victory of Khaibar. Thus the phrases Kalamullah (the statement of Allah) and qalallah (Allah said) could refer to verses 18 and 19, and it is not necessary that it is construed as an injunction conveyed through Wahy Ghayr-Matluww. But this argument is misconceived because verse 18 and 19 contain a promise that the participants of Hudaibiah would receive many spoils in the victory of Khaibar, but it is nowhere mentioned in these verses that these spoils will be restricted to the participants of Hudaibiah and no one else will participate in them.
+Some people have tried to argue that the restrictive injunction is found in the Qur'an itself, that is in verses 18 and 19 of this very Surah "so He sent down tranquility upon them, and rewarded them with a well-nigh victory, and many spoils that they would receive." This verse was revealed in the beginning of the journey to Hudaibiah, and "well-nigh victory" refers, according to consensus of Qur'anic scholars, to the victory of Khaibar. Thus the phrases Kalamullah (the statement of Allah) and qalallah (Allah said) could refer to verses 18 and 19, and it is not necessary that it is construed as an injunction conveyed through Wahy Ghayr-Matluww. But this argument is misconceived because verse 18 and 19 contain a promise that the participants of Hudaibiah would receive many spoils in the victory of Khaibar, but it is nowhere mentioned in these verses that these spoils will be restricted to the participants of Hudaibiah and no one else will participate in them. Therefore, No doubt, this restriction was made by Wahy Ghayr-Matluww or the Hadith of the Holy Prophet ﷺ which is meant by the Qur'anic phrases Kalamullah and qalallah.
 
 ## Tafsir Summary
 
@@ -205,3 +199,5 @@ We need to bear in mind the verse foretells that they will be invited to take pa
 تُقَاتِلُونَهُمْ أَوْ يُسْلِمُونَ ("...you will have to fight them, or they will submit" ) According to the gira’ ah (reading) of Sayyidna 'Ubaiyy in the second disjunctive clause أَوْ يُسْلِمُوا au yuslimu the nun has been omitted. Therefore, Imam Qurtubi takes the disjunctive particle au originally standing for "or" in the sense of hatta (until). In other words, the fighting will carry on with that nation until they surrender - whether by embracing Islam or by submitting to the Islamic rule.
 
 ## Personal Reflections
+
+

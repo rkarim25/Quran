@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-matīnu
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Likewise, no Messenger came to those before them but they said: "A sorcerer or a madman! مَا أُرِ‌يدُ مِنْهُم مِّن رِّ‌زْقٍ (I do not want any sustenance from them, nor do I want them to feed Me...51:57).
@@ -128,3 +116,5 @@ This is the end of the Tafsir of Surat Adh-Dhariyat; all praise is due to Allah 
 مَا أُرِ‌يدُ مِنْهُم مِّن رِّ‌زْقٍ (I do not want any sustenance from them, nor do I want them to feed Me...51:57). It means that by creating jinn and mankind, Allah does not stand in need of them, so that they will have to produce sustenance for Him or for themselves or for any of His other creations or that they earn to feed Him. This has been stated according to the general trend of people. The most affluent of men buys a slave and spends on him not for nothing, but he has an underlying purpose: He expects the slaves to work for him, help him in his tasks, fulfill his needs and earn livelihood for his master. Allah is immaculate, pure and above all these things. In creating human beings, He does not profit or benefit anything.
 
 ## Personal Reflections
+
+

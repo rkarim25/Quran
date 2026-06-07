@@ -29,18 +29,6 @@ word_by_word:
     transliteration: banānahu
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Then an oft-repeated objection of the disbelievers is mentioned, that is, when they are dead and reduced to bones and dust, how will they be raised again to life.
@@ -224,3 +212,5 @@ Another reason why banan 'fingertips' finds a special mention is that Allah has 
 In sum, man is amazed as to how Allah will reassemble his bones and give him a new life again, but he should think further than this. He will be raised with the same face, shape and size, and with the same distinctive features, so much so that his fingertips and fingerprints will be reshaped as they were in the first instance of his creation. Fa-tabarak Allahu Ahsanul khaliqin - 'Glorious is Allah, the Best of Creators!'
 
 ## Personal Reflections
+
+

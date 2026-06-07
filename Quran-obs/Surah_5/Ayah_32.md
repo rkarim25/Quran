@@ -174,17 +174,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Allah is Of-Forgiving, Most Merciful,) "Were revealed about the idolators. Therefore, the Ayah decrees that, whoever among them repents before you apprehend them, then you have no right to punish them. This Ayah does not save a Muslim from punishment if he kills, causes mischief in the land or wages war against Allah and His Messenger and then joins rank with the disbelievers, before the Muslims are able to catch him. He will still be liable for punishment for the crimes he committed." Abu Dawud and An-Nasa'i recorded that 'Ikrimah said that Ibn 'Abbas said that the Ayah,
 
 (The recompense of those who wage war against Allah and His Messenger and do mischief in the land...) "Was revealed concerning the idolators, those among them who repent before being apprehended, they will still be liable for punishment for the crimes they committed."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -417,3 +409,5 @@ Sayyidna ` Umar ibn ` Abd al-` Aziz, may Allah be pleased with him, gave the fol
 And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not small. And how a deed which has been accepted can be called small? (Ibn Kathir)
 
 ## Personal Reflections
+
+

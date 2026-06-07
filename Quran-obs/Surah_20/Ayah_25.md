@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ṣadrī
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. When Sayyidna Musa (علیہ السلام) received the high honour of conversing with Allah Ta` ala and was granted the mission of prophethood, then, instead of relying on his own self and on his own ability, he turned to Allah Ta` ala and sought His help in the discharge of his duties without which it would be impossible for him to endure and persevere in the face of the trials and tribulations inherent in the performance of his mission.
@@ -127,3 +115,5 @@ When Sayyidna Musa (علیہ السلام) received the high honour of conversin
 The first prayer was اشْرَ‌حْ لِي صَدْرِ‌ي ! (Put my heart at peace for me - 20:25). Meaning to expand the ability of his heart to enable him to receive all the knowledge and wisdom of prophethood, and at the same time to bear with equanimity the slander of those people who will oppose him in his mission.
 
 ## Personal Reflections
+
+

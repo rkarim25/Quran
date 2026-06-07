@@ -85,18 +85,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And remember when you were few and were reckoned weak in the land, and were afraid that men might kidnap you, but He provided a safe place for you, strengthened you with His help, and provided you with good things (for l… The second verse (26) also mentions several things which could make Divine injunctions easy on them.
@@ -128,3 +116,5 @@ And remember when you were few in number, oppressed on the earth, fearing that t
 In this verse, Muslims are being asked to remember the conditions they were facing in Makkah during the pre-Hijrah period following which they were given the finest sanctuary at Madinah. Not only that, they were also blessed with Divine support, power and victory over adversaries, as well as assets of great value. Then, towards the end of the verse, it was said: لَعَلَّكُمْ تَشْكُرُ‌ونَ (so that you may be grateful). It means that the purpose behind this great transformation of conditions around them supported by the flow of Divine blessings was to give them an opportunity to show their gratefulness as obedient servants of Allah, for the finest demonstration of gratefulness, in the real sense, comes through nothing but obedience to what Allah commands them to do.
 
 ## Personal Reflections
+
+

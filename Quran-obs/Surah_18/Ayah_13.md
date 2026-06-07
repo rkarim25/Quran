@@ -50,18 +50,6 @@ word_by_word:
     transliteration: hudan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We narrate unto you their story with truth: Truly, they were young men who believed in their Lord (Allah), and We increased them in guidance (13)And We made their hearts firm and strong when they stood up and said: "Our Lord is the Lord of the heavens and the earth, never shall we call upon any god other than Him; if we did, we should indeed have uttered an enormity in disbelief (14)These our people have taken for worship gods other than Him. The word: فِتْيَةٌ(fityah) in: إِنَّهُمْ فِتْيَةٌ (They were young men - 13) is the plural of: فَتٰی (fata) which means someone young.
@@ -175,3 +163,5 @@ Commentary
 The word: فِتْيَةٌ(fityah) in: إِنَّهُمْ فِتْيَةٌ (They were young men - 13) is the plural of: فَتٰی (fata) which means someone young. According to Tafsir scholars, this word indicates that the time ripe for correction of deeds and morals, and the inculcation of guidance and righteousness, is invariably the time when one is young. When old, formerly acquired deeds and morals become so deeply rooted that - no matter how evident becomes the truth against these - it is very difficult to break loose from their shackles. Those among the noble Companions who responded to and believed in the call of the Holy Prophet ﷺ were, after all, mostly young people. (Ibn Kathir, Abu Hayyan)
 
 ## Personal Reflections
+
+

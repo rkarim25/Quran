@@ -24,18 +24,6 @@ word_by_word:
     transliteration: taqdīran
 ---
 
-## Context
-
-To understand **The Man** (Al-Insan) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Most of the commentators, including Allama Zamakhshari, Imam Razi, Qadi, Baidawi, Allama Nizam ad-Din Nisaburi, Hafiz Ibn Kathir and many others, regard it as a Makki Surah, and, according to Allama Alusi, the same is the opinion of the majority of scholars. However, some commentators hold the view that the Surah was revealed at Madinah, and some others say that it was revealed at Makkah but vv. 8-10 of it were sent down at Madinah. As far as the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. قَوَا۩رِيْرَا۟ مِنْ فِضَّةٍ (vessels of silver...76:16).
@@ -201,3 +189,5 @@ Allah says,
 Sayyidna Ibn ` Abbas said: The blessings given in Paradise have their likes in this world also, except these vessels that are made of silver, but as transparent as a mirror."
 
 ## Personal Reflections
+
+

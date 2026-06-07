@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In a nutshell, the answer is: Because of your hostility towards Qur'an and Islam, you very much deserve to have stones rain at you but the presence of the Holy Prophet ﷺ in Makkah prohibits it. According to Imam Ibn Jarir, this part of the verse was revealed at a time when he was present in Makkah. Then, came Hijrah to Madinah where the second part was revealed as follows: وَمَا كَانَ اللَّـهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُ‌ونَ (nor would Allah send punishment on them while they are seeking forgiveness - 33). It means that following his migration to Madinah, though the preventive factor of a mass punishment stood removed as he was not present there in Makkah, yet there did remain another factor preventing the coming of mass punishment even at that time since many weaker ones among Muslims who were unable to migrate had remained behind in Makkah and they were the ones who kept praying to Allah Ta` ala for their forgiveness. It was for their sake that punishment was not sent upon the people of Makkah.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ As for the phenomenon of the presence of the Holy Prophet ﷺ in this world, it 
 The essence of the submission is that the marvel of the Holy Prophet ﷺ being alive in his resting place and the unbroken continuity of his prophethood right through the Last Day of Qiyamah prove that he is in this world right through Qiyamah, therefore, this community of his shall remain safe against any mass punishment until that fateful Day.
 
 ## Personal Reflections
+
+

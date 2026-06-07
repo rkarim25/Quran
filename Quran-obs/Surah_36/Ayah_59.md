@@ -21,18 +21,6 @@ word_by_word:
     transliteration: l-muj'rimūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (It will be said): "And O you the criminals! In verse 59, it was said: وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِ‌مُونَ (And get apart (from the believers) today 0 the guilty ones.- 36:59) On the plains of the Resurrection, initially when people rise from their graves, they will be scattered all mixed up as said in the Qur'an: كَأَنَّهُمْ جَرَ‌ادٌ مُّنتَشِرٌ‌- (kaannahum jaradum-muntashir: as if they are scattered locusts - Al-Qamar, 54:7).
@@ -82,3 +70,5 @@ Allah tells us what the end of the disbelievers will be on the Day of Resurrecti
 In verse 59, it was said: وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِ‌مُونَ (And get apart (from the believers) today 0 the guilty ones.- 36:59) On the plains of the Resurrection, initially when people rise from their graves, they will be scattered all mixed up as said in the Qur'an: كَأَنَّهُمْ جَرَ‌ادٌ مُّنتَشِرٌ‌- (kaannahum jaradum-muntashir: as if they are scattered locusts - Al-Qamar, 54:7). But, later on, group by group, they will be separated in terms of their deeds - disbelievers at one place and the believers, at another, and sinners at one place and the righteous and the accepted, at another - as it has been stated elsewhere: وَإِذَا النُّفُوسُ زُوِّجَتْ (And when the persons will be divided into pairs- at-Takwir, 81:7) In the said verse, this same distinction to be made has been described.
 
 ## Personal Reflections
+
+

@@ -39,15 +39,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Prostration** (As-Sajdah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 There is a reason for this specific treatment and marked attention. Things of the Unseen that one is generally keen to find out are just these five. Then, there are astrologers and their kind who lay a claim to the knowledge of the unseen. Things they usually pick up to inform people about, and thereby prove that they are possessors of the knowledge of the unseen, are again these very five things. And in some narratives of Hadith it has been reported that someone had asked the Holy Prophet ﷺ about these five things whereupon this verse was revealed and wherein it has been stated that the knowledge of these five is particular with Allah Ta’ ala. (Ruh u1-Ma’ ani)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -160,3 +152,5 @@ Surah Luqman
 Ends here
 
 ## Personal Reflections
+
+

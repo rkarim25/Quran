@@ -55,18 +55,6 @@ word_by_word:
     transliteration: l-khāinīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid! In the second (52) of the two verses cited above, Sayyidna Yusuf (علیہ السلام) has himself pointed out to two considerations implied in the way he acted and in the option of delaying his release.
@@ -182,3 +170,5 @@ The second consideration he mentions is: وَاَنَّ اللّٰهَ لَاي�
 This statement could be taken to mean that an investigation would expose the betrayal of the betrayers and people would stand warned that betrayers are finally disgraced leaving a lesson for others to stay away from doing things like that in the future. Also possible here is another meaning, that is, had Sayyidna ~suf~ received the royal honours in the same climate of doubt, it may have occured to all watchers that it was not impossible to betray and be honoured at the same time. This would have distorted their faith in fidelity and would have driven away the distaste for betrayal from their hearts. However, it was because of these two considerations that Sayyidna Yusuf (علیہ السلام) did not favour his leaving the prison immediately after having received the message of his release. In fact, there was a touch of royal elegance in his manner when he demanded that his case be investigated first.
 
 ## Personal Reflections
+
+

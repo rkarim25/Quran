@@ -92,18 +92,6 @@ word_by_word:
     transliteration: l-kabīru
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then We gave the Book as inheritance to such of Our servants whom We chose. The word: ثُمَّ (thumma: Then) in verse 32: ثُمَّ أَوْرَ‌ثْنَا الْكِتَابَ الَّذِينَ اصْطَفَيْنَا مِنْ عِبَادِنَا (Then We conveyed the Book as an heritage to those of Our slaves whom We chose.) serves as a conjunction to denote that the two things mentioned before and after it, despite having common characteristic, are marked by precedence and succession.
@@ -203,3 +191,5 @@ Special Note
 In this verse, mentioned first was the category of the unjust, then of those following the middle course, and finally, of those who are ahead in good deeds. The reason for this order may, perhaps, be that the number of those unjust to themselves is larger, those following the middle course are less than them and those ahead in good deeds happen to be less than the later. Thus, those whose number was large were made to appear first.
 
 ## Personal Reflections
+
+

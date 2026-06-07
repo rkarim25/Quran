@@ -46,18 +46,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed, We destroyed generations before you when they did wrong, while their Messengers came to them with clear proofs, but they were not such as to believe! In verse 14, it was said: ثُمَّ جَعَلْنَاكُمْ خَلَائِفَ فِي الْأَرْ‌ضِ مِن بَعْدِهِمْ لِنَنظُرَ‌ كَيْفَ تَعْمَلُونَ ﴿14﴾ (Then We made you vice-regents on the earth, in order to see how you would act), that is, ` after the destruction of past peoples, We made you successors to them giving you the vice-regency of the earth.
@@ -89,3 +77,5 @@ In verse 14, it was said: ثُمَّ جَعَلْنَاكُمْ خَلَائِف
 This tells us that worldly power is not something to be proud of or arrogant about. This is responsibility at its toughest, a charge very heavy and very fragile to handle.
 
 ## Personal Reflections
+
+

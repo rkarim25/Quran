@@ -92,18 +92,6 @@ word_by_word:
     transliteration: taʿlamūna
 ---
 
-## Context
-
-To understand **The Congregation, Friday** (Al-Jumu'ah) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name It is derived from the sentence idha nudiya-lis-salat-imin-yaum-il- Jumu'ati of verse 9 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! O you who believe, when the call for salah (prayer) is proclaimed on Friday, hasten for the remembrance of Allah, and leave off business…[ 62:9] The Arabic word for Friday is ‘Yaum-ul-Jumu’ ah1 and is so called because it is the day of congregation for Muslims.
@@ -301,3 +289,5 @@ This is no occasion to go into details of the issue and proofs thereof. Venerabl
 In brief, the generality of the command to attend Salat-ul-Jumu’ ah is restricted to a specific sector of the addressees. It is not obligatory on every member of the Muslim community, but for it to be compulsory, there are some conditions and pre-requisites. The disagreement exists only in identifying the pre-requisites. But where the pre-requisites apply and Salat-ul-Jumu’ ah becomes obligatory according to any school of thought, it is very important to observe it, and there is grave warnings for those who neglect it without any vaid reason in terms of Shari’ ah. On the other hand, there is a promise of great reward and blessings for those who offer in fulfilling all its conditions and pre-requisites.
 
 ## Personal Reflections
+
+

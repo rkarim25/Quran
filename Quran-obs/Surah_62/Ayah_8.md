@@ -80,18 +80,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Congregation, Friday** (Al-Jumu'ah) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of the first section ( vv. 1-8 ) is A. H. 7, and probably it was sent down, on the occasion of the conquest of Khaiber or soon after it. Bukhari, Muslim, Tirmidhi, Nasa'i and Ibn Jarir have related on the authority of Hadrat Abu Hurairah that he and other Companions were sitting in the Holy Prophet's assembly when these verses were revealed. About Abu Hurairah it is confirmed historically that he entered Islam after the truce of Hudaibiyah and before the conquest of Khaiber, and Khaiber was conquered, according to Ibn Hisham, in Muharram, and, according to Ibn Sa\`d, in Jamadi al-Awwal, A.H. 7.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The likeness of those who were entrusted with the Tawrah, but did not carry it, is as the likeness of a donkey which carries huge burdens of books. قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّ‌ونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ (Say, “ Indeed, the death from which you [ try to ] run away has to visit you,…62:8).
@@ -163,3 +151,5 @@ There are many normal causes of death, from which both reason and Shari’ ah re
 As for as bubonic plague or epidemic is concerned, it is a separate issue. The details appear in books of jurisprudence and Hadith which may be consulted. The author of Ruh-ul-Ma’ ani has on this occasion discussed this issue exhaustively and clarified it to a great degree. Some of its details have already been given in this book under the verses 2:243 to 244. See vol. 1, pp. 619-622.
 
 ## Personal Reflections
+
+

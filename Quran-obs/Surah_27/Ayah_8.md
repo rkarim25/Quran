@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. So when he came to it, he was called: "Blessed is the one who is in the fire and the one who is around it And pure is Allah, the Lord of the worlds.
@@ -248,3 +236,5 @@ A narration of Sayyidna Ibn ` Abbas ؓ and Hasan Al-Basri (رح) and its explana
 Ibn Jarir, Ibn Abi Hatim, Ibn Marduwaih etc., have also quoted another explanation put forward by Sayyidna Ibn ` Abbas, Sayyidna Hasan Al- Basri and Said Ibn Jubair ؓ about the phrase مَن فِی النَّارِ (who is in the fire) that it is meant for Allah Ta’ ala Himself. It is but obvious that fire is created by Allah, and incarnation of the Creator into anything created by Him is impossible. Therefore, this narration cannot be taken to mean that Allah Ta’ ala had transfigured into the fire, as many idol-worshippers believe in transfiguration of God in their idols. This is absolutely against the concept of Tauhid (Oneness of Allah). All it means is manifestation, like the reflection in the mirror. The image is manifested in the mirror but it is not transfigured in it. What is seen in the mirror is outside it, having its own entity. It is also quite evident that this manifestation, which is also called refulgence, was not the refulgence of Allah Ta’ ala. It is for the simple reason that if Sayyidna Musa (علیہ السلام) had already witnessed the Divinity, he would not have requested at the mount of Tur رَ‌بِّ أَرِ‌نِي أَنظُرْ‌ إِلَيْكَ that is, ` O my Lord, show Your Self to me (7:143), so that I may look at you'. In that case the reply لَن تَرَ‌انِي (You will never see me - 7:143) would also have been meaningless. It is now clear that Sayyidna Ibn ` Abbas ؓ in his explanation had meant the manifestation of Allah Ta’ ala, that is refulgence, which appeared in the form of fire. As it was not the transmigration, it was also not the refulgence of His real Self. The phrase لَن تَرَ‌انِي (You will never see me) has also clarified that in this world no one can witness the refulgence of His real Self. Then what do manifestation and refulgence really mean? The answer to this is that this refulgence was figurative, which is commonly known among the mystics. It is rather difficult to comprehend it fully, but in order to make it simple according to common understanding, I have tried to explain it in my book Ahkam ul-Qur'an, in Arabic language, in the explanation of Surah Al-Qasas. Those who are interested can see it there.
 
 ## Personal Reflections
+
+

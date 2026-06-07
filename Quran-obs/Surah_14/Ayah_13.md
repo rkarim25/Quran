@@ -74,17 +74,9 @@ word_by_word:
 
 ## Context
 
-To understand **Abraham** (Ibrahim) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers. (13)"And indeed, We shall make you dwell in the land after them. This is for him who fears standing before Me and also fears My threat. (14)And they sought victory and help; and every obstinate, arrogant dictator (who refuses to believe in the Oneness of Allah) was brought to a complete loss and destruction (15)In front of him is Hell, and he will be made to drink boiling, festering water (16)He will sip it unwillingly, and he will find great difficulty in swallowing it down his throat, and death will come to him from every side, yet he will not die, and in front of him, will be a great torment (17)
 
 (So their Lord revealed to them: "Truly, We shall destroy the wrongdoers. And indeed, We shall make you dwell in the land after them.")[14:13-14] Allah said in other Ayat,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -257,3 +249,5 @@ In the last verse here (8), it was said: قَالَ مُوسَىٰ إِن تَك
 So, whatever good there is in gratitude, that is for you alone. There-fore, when you are asked to be grateful by Allah Ta’ ala, there is no gain for Him in doing so. In fact, it is His infinite mercy reaching out to you in your interest.
 
 ## Personal Reflections
+
+

@@ -31,15 +31,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Resurrection** (Al-Qiyamah) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel. For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
 
-(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger ﷺ is that their only concern is the present worldly life.
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger ﷺ is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
 
 ## Tafsir Summary
 
@@ -222,3 +216,5 @@ According to an authentic Hadith, Imam (one who leads a congregational prayer) i
 This explains the function of an Imam. In matters of bowing and prostrating, the followers should do as he does, that is, they should perform the acts of bowing and prostrating along with him. However, following him in the matter of recitation is different. When the Imam recites, the followers should be silent and listen. This is the argument of Imam Abu Hanifah and some other Imams in holding that the mugtadis should not recite when following an Imam in prayer. And Allah knows best!
 
 ## Personal Reflections
+
+

@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 278, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (if you indeed have been believers) believing in the trade that He allowed you and the prohibition of Riba. Zayd bin Aslam, Ibn Jurayj, Muqatil bin Hayyan and As-Suddi said that this Ayah was revealed about Bani 'Amr bin 'Umayr, a sub-tribe of Thaqif, and Bani Al-Mughirah, from the tribe of Bani Makhzum, between whom were outstanding transactions of Riba leftover from time of Jahiliyyah. When Islam came and both tribes became Muslims, Thaqif required Bani Al-Mughirah to pay the Riba of that transaction, but Bani Al-Mughirah said, "We do not pay Riba in Islam." 'Attab bin Usayd, the Prophet's deputy on Makkah, wrote to the Messenger of Allah ﷺ about this matter. This Ayah was then revealed and the Messenger of Allah ﷺ conveyed it to 'Attab,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -219,3 +211,5 @@ The subject verse refers to this happening and sets out the injunction to leave 
 As the verse opens addressed to Muslims, they were first given the command of اتَّقُوا اللَّـهَ that is, 'fear Allah.' Given after that was the injunction covering the real issue. This is the same unique style of the Qur'an which distinguishes it from all the law books of the world. When a law, which is somewhat difficult to act upon, is given, it has the prefixes and suffixes of accountability of deeds before Allah Almighty, and the punishment and reward of the Hereafter, so that Muslim minds and hearts become prepared to act upon it; the injunction is announced after that. Here too, the forsaking of the amount of matured ربا riba could weigh heavy on human disposition, therefore, said first was اتَّقُوا اللَّـهَ (fear Allah). After that, came the injunction: وَذَرُ‌وا مَا بَقِيَ مِنَ الرِّ‌بَا that is, 'leave off ربا riba that remains.' Towards the end of the verse it was said: إِن كُنتُم مُّؤْمِنِين that is, 'if you are believers.' Here it was indicated that ‘Iman (faith, belief) requires that Divine injunctions should be followed faithfully. Acting otherwise negates ایمان 'Iman. Since this injunction was somewhat heavy on temperaments, اتَّقُوا اللَّـهَ (Fear Allah) was added before it, and; إِن كُنتُم مُّؤْمِنِين (If you are believers) after it.
 
 ## Personal Reflections
+
+

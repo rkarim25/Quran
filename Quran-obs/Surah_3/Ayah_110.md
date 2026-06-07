@@ -101,18 +101,6 @@ word_by_word:
     transliteration: l-fāsiqūna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 You are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (all that Islam has ordained) and forbid Al-Munkar (all that Islam has forbidden), and you believe in Allah. In previous verses, Muslims were asked to take special care in order to remain steadfast in their faith, bid the Fair and forbid the Unfair.
@@ -326,3 +314,5 @@ The second distinguishing feature of this community is that they 'believe in All
 Towards the end of the verse, it has been said about the people of the Book that there are some Muslims among them. This refers to those who had confirmed the prophethood of our Holy Prophet ﷺ such as, Sayyidna ` Abdullah ibn Sal-am ؓ and others.
 
 ## Personal Reflections
+
+

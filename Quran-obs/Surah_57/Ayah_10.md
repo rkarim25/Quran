@@ -160,18 +160,6 @@ word_by_word:
     transliteration: khabīrun
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its subject matter shows that it was probably sent down some time during the interval between the Battle of Uhud and the Truce of Hudaibiyah. This was the time when the tiny Islamic State of Madinah had been hemmed in by the disbelievers and the handful of the ill equipped Muslims were entrenched against the combined power of entire Arabia. In this state Islam not only stood in need of the sacrifice of Life from its followers, but it also needed monetary help and assistance. In this Surah a forceful appeal has been made for the same.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Believe in Allah and His Messenger, and spend of that whereof He has made you trustees. وَلِلَّـهِ مِيرَ‌اثُ السَّمَاوَاتِ وَالْأَرْ‌ضِ (...while to Allah belongs the inheritance of the heavens and the earth?....57:10) The word mirath [ inheritance, heritage ] is the process by which the assets of a deceased person pass to the living heirs and beneficiaries.
@@ -409,3 +397,5 @@ Ibn Taimiyyah confirms, in Sharh-ul-` Aqidah Al-Wasitiyyah, the consensual belie
 A detailed account of the status of the sahabah is given in Surah Al-Fath under verse [ 29]. I have written a book entitled maqam-e-sahabah in which I have collected relevant Qur'anic verses and Prophetic Traditions pertaining to the status of the Companions. This book has already been published. The Ummah is unanimous on the point that all the blessed Companions ؓ are impartial, unbiased, reliable and worthy of confidence. The book deals elaborately with their disagreements and the civil wars that took place among them. It deals with the status of the historical narratives and their true place in critical study. Some of these issues to the degree necessary have been included in the commentary of Surah Muhammad and Surah Al-Fath. Please refer to the relevant sections there. Allah's help is sought and on Him is our reliance!
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-1-10 The story of Adam has been related with a view to warning his descendants against the evil devices of Satan who is ever ready to mislead them as he did in the case of Adam and Eve.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And surely, We gave you authority on the earth and appointed for you therein livelihoods. In the first verse, it was said: وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ` (And the Weighing on that day is definite).
@@ -159,3 +147,5 @@ In the two verses the Tafsir of which you have just read through, sinners were w
 In short, Allah Ta` ala has placed all that human beings need on and in this earth which demands that they should be grateful to Him all the time under all conditions. But, human beings are prone to heedlessness. They would not take much time to forget the favours of their Creator and Master - only to return to the same world of things. So, at the end of the verse, it is in a mode of complaint that it was said: قَلِيلًا مَّا تَشْكُرُ‌ونَ (Little you are receptive to advice).
 
 ## Personal Reflections
+
+

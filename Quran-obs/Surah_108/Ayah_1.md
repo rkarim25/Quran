@@ -18,17 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Abundance** (Al-Kawthar) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kawthar is a **Makkah** surah—revealed as the 15th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Qatadah all said, "This Ayah was revealed about Al-'As bin Wa'il. Whenever the Messenger of Allah ﷺ would be mentioned (in his presence) he would say, 'Leave him, for indeed he is a man who is cut off having no descendants. So when he dies he will not be remembered.' Therefore, Allah revealed this Surah." Shamir bin 'Atiyah said, "This Surah was revealed concerning 'Uqbah bin Abi Mu'ayt."
 
 Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin Al-Ashraf and a group of the disbelievers of the Quraysh."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -199,3 +191,5 @@ There are Traditions that describe the cleanness and sweetness of water of Kauth
 If the revelation of Surah Al-Kauthar is in response to the taunting of the heathens who called him 'abtar' because he had lost his sons, as explained earlier, this Surah comforts him. They used to say that when he would pass away, there shall be none to take his name on account of having no male offspring and his activities will cease. This Surah tells him that he has been granted Al-Kauthar and completely dismisses the reproach of his enemies, in that his lineage does not stop here in this world, but his spiritual lineage will continue till the Day of Gathering. His spiritual sons and daughters will outnumber the Ummahs of the previous Prophets. They will also enjoy the greatest respect and honor.
 
 ## Personal Reflections
+
+

@@ -61,17 +61,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord. Verily, His grace unto you is ever great (87)Say: "If mankind and the Jinn were together to produce the like of this Qur'an, they could not produce the like thereof, even if they helped one another. (88)And indeed We have fully explained to mankind, in this Qur'an, every kind of similitude, but most of mankind refuse (the truth and accept nothing) but disbelief (89)
 
 (And if We willed, We could surely take away that which We have revealed to you.)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -102,3 +94,5 @@ Then Allah points out the great virtue of the Qur'an, and says that even if mank
 We can now move to verse 86: وَلَئِن شِئْنَا لَنَذْهَبَنَّ (And if We so will, We will surely take away...). It will be recollected that, in the previous verse (85), by giving an answer to the question about Ruh as true to the measure of its necessity, the underlying effort to find out the reality of the Ruh was blocked and it was declared that man's knowledge, no matter how much, still remains relatively insignificant in terms of the great span of the ultimate reality of things. Therefore, getting entangled with unnecessary debates and investigations is a waste of precious time. The present verse: وَلَئِن شِئْنَا (And if We so will) indicates that the sum total of whatever knowledge human beings have been given, even that is no private property of theirs. Allah Ta` ala can, if He so wills, take away that too. Therefore, they should be grateful to Allah for whatever of knowledge they have and stay away from wasting time in redundant and unnecessary investigations - specially when pure investigation is just not the objective, instead, testing others or belittling them is. If one did that, it is not out of the realm of possibility that this crookedness may result in all that one has in the name of knowledge taken away in toto. The address in this verse is, though, to the Holy Prophet ﷺ ، but the purpose is to really make his followers listen and get the message - when even the knowledge of the Rasul of Allah ﷺ is not within his exclusive power and control, not much can be said about others!
 
 ## Personal Reflections
+
+

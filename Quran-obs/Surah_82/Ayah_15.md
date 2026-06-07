@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-dīni
 ---
 
-## Context
-
-To understand **The Cleaving** (Al-Infitar) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Infitar is a **Makkah** surah—revealed as the 82nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah and the Surah At-Takwir closely resemble each other in their
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the Abrar (the righteous believers) will be in Delight (13)And verily, the wicked will be in the blazing Fire (Hell)(14)Therein they will enter, and taste its burning flame on the Day of Recompense (15)And they w… إِنَّ الْأَبْرَ‌ارَ‌ لَفِي نَعِيمٍ وَإِنَّ الْفُجَّارَ‌ لَفِي جَحِيمٍ (Surely the righteous will be in bliss, and surely the sinners will be in Hell,...82:13-14).
@@ -103,3 +91,5 @@ This is the end of the Tafsir of Surat Al-Infitar. All praise and blessings are 
 The verse informs us that each person, on the Day of Reckoning, will know what he has done, and what will be the consequences of his deeds. The present verse says that the righteous will be in perfect bliss, while the sinners will be in a Blazing Fire of Hell.
 
 ## Personal Reflections
+
+

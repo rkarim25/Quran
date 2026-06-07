@@ -107,15 +107,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (never will their repentance be accepted. And they are those who went astray.) to those who abandon the path of truth for the path of wickedness. Al-Hafiz Abu Bakr Al-Bazzar recorded that Ibn 'Abbas said that some people embraced Islam, reverted to disbelief, became Muslims again, then reverted from Islam. They sent their people inquiring about this matter and they asked the Messenger of Allah ﷺ. On that, this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -198,3 +190,5 @@ On a superficial view of the verse كَيْفَ يَهْدِي اللَّـهُ 
 The answer is that the withholding of guidance mentioned here is in accordance with common usage. For instance, some criminal when punished by a certain ruler may say, 'I have been given a special treatment by the ruler with his own hands.' And in answer to him, it is said: 'Why are we going to give a special treatment to such a criminal?' That is, there is just no special treatment called for in this case, while it does not mean that such a person cannot, in any way, become deserving of special treatment even if he behaved well. (Bayern a1-Qur'an)
 
 ## Personal Reflections
+
+

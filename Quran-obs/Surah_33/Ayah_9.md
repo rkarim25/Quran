@@ -92,18 +92,6 @@ word_by_word:
     transliteration: baṣīran
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-In verses 9-27 an appraisal has been made of the Battle of the Trench and the raid against the Bani Quraizah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! At the beginning of the Surah, by saying: وَ اتَّبع مَا یُوحٰٓی اِلَیکَ , the Holy Prophet ﷺ was asked to follow the Divine revelation sent to him.
@@ -213,3 +201,5 @@ After having generally mentioned prophets, peace be on them all, before saying: 
 'I am the first human being in the creation and the last of them in being sent (with the prophetic mission).' (Reported by Ibn Sa'd and Abu Nu'aim in Al-Hilyah from Maisirah al-Mafjar and At-Tabarani in al-Kabir from Ibn ` Abbas ؓ - Mazhari)
 
 ## Personal Reflections
+
+

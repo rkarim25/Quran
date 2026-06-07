@@ -21,18 +21,6 @@ word_by_word:
     transliteration: l-mīzāna
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the Surah have been couched in brief sentences in a specific sequence: In vv. 1-4 it has been stated that the teaching of the Qur'an is from Allah Almighty and it is the very demand of His mercy that He should provide guidance to mankind through this teaching, for it is He Who has created man as a rational and intelligent being. In vv. 5-6 it has been said that the whole system of the Universe is functioning under Allah's Sovereignty and everything in the earth and heavens is subject to His Command alone. In vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! وَالسَّمَاءَ رَ‌فَعَهَا وَوَضَعَ الْمِيزَانَ (And He raised the sky high, and has placed the scale....55:7) The verbs rafa'a and wada` a are antonyms: rafa'a means 'to raise up' and wada'a means 'to put down'.
@@ -168,3 +156,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 The word مِيزَانَ mizan has been interpreted variously. In the current verse, scholars like Mujahid, Qatadah, Suddi رحمۃ اللہ علیہم and others interpret it in the sense of 'justice', because that is the purpose of mizan [ scale ]. Other scholars have taken the word in its obvious sense of a piece of equipment used to determine the weights of people or things. This equipment could be a pair of scales, consisting of a bar with a pan or a dish at each end or it may be some modern equipment used for the purpose of measuring and weighing. The ultimate sense of this interpretation in any case is maintaining rights and establishing justice and fair play.
 
 ## Personal Reflections
+
+

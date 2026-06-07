@@ -39,18 +39,6 @@ word_by_word:
     transliteration: wawaladan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have you seen him who disbelieved in Our Ayat and said: "I shall certainly be given wealth and children [if I live again]. لَأُوتَيَنَّ مَالًا وَوَلَدًا ("I shall certainly be given wealth and children".
@@ -114,3 +102,5 @@ Commentary
 لَأُوتَيَنَّ مَالًا وَوَلَدًا ("I shall certainly be given wealth and children". - 19:77) Bukhari and Muslim relate the story of Sayyidna Khabab Ibn Al-'Aratt ؓ who had lent some money to ` As Ibn Wa’ il. When pressed to return the loan, ` As Ibn Wa’ il said that he would not make the payment until he (Sayyidna Khabab ؓ dissociated himself from the Holy Prophet ﷺ . Sayyidna Khabab ؓ replied that he would never do that - not until ` As was dead and rose to life again. At this ` As Ibn Wa’ il said, "What? Will I be brought to life again after I am dead? If so I will repay the loan only after I am brought back to life again because even then I will have my wealth and my children." (Qurtubi)
 
 ## Personal Reflections
+
+

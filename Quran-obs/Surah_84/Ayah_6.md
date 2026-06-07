@@ -38,18 +38,6 @@ word_by_word:
     transliteration: famulāqīhi
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Subject Matter Its theme is the Resurrection and Hereafter. In the first five verses not only have the state of Resurrection been described vividly but an argument of its being true and certain also have been given. It has been stated that the heavens on that Day will split asunder, the earth will be spread out plain and smooth, and it will throw out whatever lies inside it of the dead bodies of men and evidences of their deeds so as to become completely empty from within. The argument given for it is that such will be the Command of their Lord for the heavens and the earth; since both are His creation. they cannot dare disobey His Command.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ (0 man, you have to work hard constantly to reach your Lord, then you have to meet Him...84:6) The word kadh means to 'exert one's efforts fully', and 'to your Lord' means 'to meet your Lord'.
@@ -195,3 +183,5 @@ Mankind is addressed in this verse and shown a road that if he were to think abo
 The verses that follow depict separately the consequences of the good and the bad people, of the believers and the non-believers. First, the ledger of deeds must be received in the right or the left hand. Those who receive the ledgers in their right hands will be the inmates of Paradise with its eternal blessings. Those who receive the ledgers in their left hands will be the inmates of Hell. The point for careful consideration is that necessities of life, as well as unnecessary desires are fulfilled by both righteous and wicked people in this world, and thus both spend their lives in some way or the other, but the consequences of the two [ for the Hereafter ] are diametrically opposite to each other. One results in eternal and unending comfort, and the other results in eternal perdition, torture and torment. Man still has the chance [ while he is living ] to redirect his attention to working hard towards switching the situation in a direction that not only fulfils his legitimate needs and desires in this world, but also attains the eternal pleasures of the Hereafter.
 
 ## Personal Reflections
+
+

@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Emissaries** (Al-Mursalat) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 This is the subject of these oaths. It means that the Day of Judgment, Reckoning, and Reward and Punishment that is promised by the Prophets (علیہم السلام) has certainly to be fulfilled. Allah then describes some of the events that will occur on the Day of Judgment. The stars will be extinguished, which could mean that they will be completely destroyed, or they will exist, but their lights will be lost. In this way the entire world will be plunged in absolute darkness. The second event to occur is the splitting of the sky. The third event to occur is that the mountains will be blown away as dust. The fourth event is described in the following verse:
 
 ## Personal Reflections
+
+

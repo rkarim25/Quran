@@ -46,18 +46,6 @@ word_by_word:
     transliteration: maḥjūran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day. حِجْرً‌ا مَّحْجُورً‌ا (25:22) The literal meaning of حِجر is protection, and مَّحْجُورًا is fully protected.
@@ -205,3 +193,5 @@ Allah says:
 According to this interpretation, the phrase will mean that on the Dooms Day when the infidels will see the angels approaching them with chastisement, they will seek their pardon and plead to let them in the paradise. In response to their pleading the angels will reply حِجْرً‌ا مَّحْجُورً‌ا that is the Paradise is banned and prohibited for infidels. (Mazhari)
 
 ## Personal Reflections
+
+

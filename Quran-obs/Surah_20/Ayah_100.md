@@ -37,18 +37,6 @@ word_by_word:
     transliteration: wiz'ran
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Thus We relate to you some information of what happened before. مَّنْ أَعْرَ‌ضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرً‌ا (Whoever turns away from it shall certainly bear a heavy burden on the Doomsday - 20:100) Turning aside from the Qur'an can take different forms: not…
@@ -90,3 +78,5 @@ Allah, the Exalted, is saying to Prophet Muhammad ﷺ, 'We have told you (O Muha
 مَّنْ أَعْرَ‌ضَ عَنْهُ فَإِنَّهُ يَحْمِلُ يَوْمَ الْقِيَامَةِ وِزْرً‌ا (Whoever turns away from it shall certainly bear a heavy burden on the Doomsday - 20:100) Turning aside from the Qur'an can take different forms: not paying proper attention and respect when it is being recited; showing scant desire to learn to read it or to comprehend its meaning, or reading it incorrectly without regard to correct pronunciation etc.; reading it without full concentration; reading it not to win God's goodwill but to attain worldly rewards such as wealth and fame. Likewise not striving to comprehend the laws laid down by the Qur'an or, having understood them, not complying with them or acting in their defiance are extreme forms of disregard for the Qur'an. Any neglect of the rights and claims of the Qur'an is a great sin and the guilty person will bear it on his head on the Day of Judgment in the shape of a heavy load. It has been related in several traditions that the evil deeds and the sins which a person has committed in his life time will be placed on his head in the shape of a heavy burden on the Day of Resurrection.
 
 ## Personal Reflections
+
+

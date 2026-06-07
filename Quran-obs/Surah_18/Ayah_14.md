@@ -84,18 +84,6 @@ word_by_word:
     transliteration: shaṭaṭan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We narrate unto you their story with truth: Truly, they were young men who believed in their Lord (Allah), and We increased them in guidance (13)And We made their hearts firm and strong when they stood up and said: "Our Lord is the Lord of the heavens and the earth, never shall we call upon any god other than Him; if we did, we should indeed have uttered an enormity in disbelief (14)These our people have taken for worship gods other than Him. The first sentence of verse 14: وَرَ‌بَطْنَا عَلَىٰ قُلُوبِهِمْ (And We made their hearts firm) refers to the event described by Ibn Kathir a little earlier.
@@ -207,3 +195,5 @@ The story of this cave (Thawr) is far greater and more wondrous than that of the
 The first sentence of verse 14: وَرَ‌بَطْنَا عَلَىٰ قُلُوبِهِمْ (And We made their hearts firm) refers to the event described by Ibn Kathir a little earlier. This tells us that Allah made the hearts of these people firm when the king who was cruel and worshipped idols summoned them in his court and questioned them. This was a matter of life and death. But, despite their apprehension for the worst, Allah Ta` ala made His love, awe and grandeur prevail over their hearts which empowered them to face any eventuality of death or distress. The outcome was that they proclaimed their belief clearly and courageously saying that they did not worship anyone or anything other than Allah and would not do that in future as well. People who firmly resolve to do something for the sake of Allah, this is how they receive help from Allah Ta’ ala.
 
 ## Personal Reflections
+
+

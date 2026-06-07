@@ -85,18 +85,6 @@ word_by_word:
     transliteration: yush'rikūna
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Bukhari and Muslim contain a tradition from Hadrat Sa'id bin Jubair to the effect "When I asked Hadrat Abdullah bin Abbas about Surah Al-Hashr, he replied that it was sent down concerning the battle against the Bani an-Nadir just as Surah Al-Anfal was sent down concerning the Battle of Badr.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. الْقُدُّوسُ The attribute Al-Quddus means 'the Most Pure from all defects', that is, Allah is the Being Who is free from all kinds of defect, deficiency and imperfection which are not in conformity to His Supreme status.
@@ -264,3 +252,5 @@ This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 الْمُتَكَبِّرُ‌ The attribute Al-Mutakabbir [ the Lord of Greatness ] is derived from takabbur and that from kibriya' meaning 'greatness' which is one of the peculiar characteristics of Allah. It implies that every greatness is attributable only to Allah who is not in need of anyone. Whoever is in need cannot be great. Therefore, if this word is used for a person other than Allah, it is a defect and sin, because the claim of greatness by a person who is not actually great is false and tantamount to a claim of being a partner of Allah, the Besought of all, in one of His exclusive attributes. That is why the word Al-Mutakabbir, when attributed to Allah is an attribute of perfection, but in respect of others it is no more than a false claim.
 
 ## Personal Reflections
+
+

@@ -211,18 +211,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 213, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Mankind was one community and Allah sent Prophets with glad tidings and warnings, and with them He sent down the Scripture in truth to judge between people in matters wherein they differed. Earlier, the real cause of the opposition to truth has been identified as the love of the worldly life.
@@ -376,3 +364,5 @@ Let there be no misgiving that during the course of history the coming of prophe
 3. The third lesson we learn from this verse is that evil people have always elected to oppose every prophet and every divine Book and have been even eager to line up their maximum forces against them. This being the customary situation allowed to prevail by Allah Almighty, people who have the strength of faith in their hearts should not feel bad about the chronic pursuit of intrigues and hostility by the evil ones against them. Very simply, just as the disbelievers took to the ways of their elders in the form of denial, hostility and prophet-bashing, all true Muslims on the straight path should take to the consistent practice of their elders, the great prophets (علیہم السلام) ، by staying patient against injuries inflicted on them, nevertheless, keep calling them to the true Faith with wisdom, sound advice and good grace. Perhaps, it is because of this congruity of purpose, that the next verse counsels Muslims to maintain a stance of forbearance and patience against all situations of distress.
 
 ## Personal Reflections
+
+

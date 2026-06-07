@@ -73,15 +73,9 @@ word_by_word:
 
 ## Context
 
-To understand **Luqman** (Luqman) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This verse was revealed because of a particular event relating to Nadr Ibn Harith. He was one of the top businessmen from among the Mushriks of Makkah who used to travel to different countries in connection with his business. Once he bought and brought back a collection of historical stories featuring Cyrus and other Persian kings from Iran. Thus armed, he said to the Quraish of Makkah: "Muhammad tells you the stories of the people of ` Ad and Thamud and others. I shall tell you better stories, those of Rustam, Isfandyar and other kings of Persia. They started listening to his stories eagerly simply because they contained no lessons to learn and no work to do. It was nothing but some delicious stories. Because of these, many Mushriks who had some measure of interest in the Divine Word because of its miraculous nature, rather listened to it stealthily, found an excuse to draw away from the Qur'an. (ذکرہ فی الروح عن اسباب النزول للواحدی و مقاتل و ذکرنحوہ فی الدر المنثور بروایۃ البیھقی)
 
-The verse of the Qur'an being referred to here was revealed in relation to this very event.
+The verse of the Qur'an being referred to here was revealed in relation to this very event. Here, the ishtira' (buying) of lahw al-hadith (the distracting amusement of things) means either those tales of the Persian kings, or this singing bondwoman. In terms of the event in the background of the revelation, the word: (ishtira) has been used in the real sense for buying.
 
 ## Tafsir Summary
 
@@ -246,3 +240,5 @@ In contrast to what has been stated above, there are narrations that seem to hin
 As for the reports attributed to some revered Sufis, that they listened to 'ghina" (sama' ), it is based on this kind of permissible 'ghina"- because, it is certain that they followed the Shari` ah and Sunnah faithfully. That they would ever commit some such sin, simply cannot be imagined. Those learned among the Sufis have themselves explained it explicitly. The treatise mentioned earlier carries the sayings of the jurists of the four schools of jurisprudence as well as those of the Sufi authorities. At this place, the summary as given has been considered sufficient in the present context.( The original work in Arabic and its Urdu translation with exhaustive notes under the title, "Islam our Mausiqi" (Islam and Music) has been published by Maktaba-e-Darul-Uloom, Jamia Darul-Uloom, Korangi, Karachi-75180, Pakistan. Those interested in a detailed discussion of the subject would find both versions useful.)
 
 ## Personal Reflections
+
+

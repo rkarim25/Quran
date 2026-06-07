@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-ʿalīmu
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… أَفَتَأْتُونَ السِّحْرَ‌ وَأَنتُمْ تُبْصِرُ‌ونَ (Would you then go along with sorcery while you have eyes to see?
@@ -157,3 +145,5 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 أَفَتَأْتُونَ السِّحْرَ‌ وَأَنتُمْ تُبْصِرُ‌ونَ (Would you then go along with sorcery while you have eyes to see? - 21:3) Those people used to discuss among themselves secretly that the claim of the Holy Prophet about his prophethood should not be accepted, because he was an ordinary human being like all others and not an angel. On the other hand not even the most rigid among the unbelievers could deny the supreme charm and eloquence of the Book of Allah nor its power to influence people when it was recited before them. Therefore, in order to turn people away from the Holy Book they started calling it magic and black art. They thought that they could keep people away from Islam by labeling the Qur'an as a book of magic thereby dissuading people from going to the Holy Prophet ﷺ and listening to Qur'an. Probably they used to discuss this subject secretly among themselves lest the Muslims come to know about their foolish views and unveil their fallacy.
 
 ## Personal Reflections
+
+

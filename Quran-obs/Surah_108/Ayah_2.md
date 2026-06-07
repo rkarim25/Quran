@@ -18,17 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Abundance** (Al-Kawthar) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kawthar is a **Makkah** surah—revealed as the 15th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Qatadah all said, "This Ayah was revealed about Al-'As bin Wa'il. Whenever the Messenger of Allah ﷺ would be mentioned (in his presence) he would say, 'Leave him, for indeed he is a man who is cut off having no descendants. So when he dies he will not be remembered.' Therefore, Allah revealed this Surah." Shamir bin 'Atiyah said, "This Surah was revealed concerning 'Uqbah bin Abi Mu'ayt."
 
 Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin Al-Ashraf and a group of the disbelievers of the Quraysh."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -171,3 +163,5 @@ My prayer, my offering, my life and my death are all for Allah, the Lord of the 
 According to Sayyidna Ibn ` Abbas ؓ ، ` Ata', Mujahid, Hasan Basri رحمۃ اللہ علیہما and others, the imperative wanhar means 'sacrifice or offer oblation'. Some people have attributed to some leading exegetes that they have taken this imperative to mean: 'Fold your hands or arms on the chest' Ibn Kathir holds such narrations as 'munkar', (that is, a narration which is narrated by a weak narrator and contradicts the narration of a stronger and more reliable authority.)
 
 ## Personal Reflections
+
+

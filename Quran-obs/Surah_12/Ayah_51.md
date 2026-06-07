@@ -126,18 +126,6 @@ word_by_word:
     transliteration: l-ṣādiqīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid! When the royal emissary delivered to Sayyidna Yusuf (علیہ السلام) the order of his release and invited him to see the king, he asked him to first have his case investigated through the women who had cut their hands.
@@ -273,3 +261,5 @@ To set this unseen plan in motion, the king of Egypt was made to see a disturbin
 Taught here are the highest and noblest traits of character. We can see that Sayyidna Yusuf (علیہ السلام) had suffered the loss of his freedom for seven or twelve years in the prison but, when he was released, the taking of revenge was a far cry, he did not even bear by the idea that some-one would be put to the least inconvenience on his account - as particularly taken into consideration in the verse: لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ (so that he may know that I did not betray him in his absence - 52).
 
 ## Personal Reflections
+
+

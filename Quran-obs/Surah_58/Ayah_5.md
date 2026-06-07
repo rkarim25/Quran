@@ -80,18 +80,6 @@ word_by_word:
     transliteration: muhīnun
 ---
 
-## Context
-
-To understand **The Pleading Woman** (Al-Mujadila) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no tradition to tell as to when this incident of pleading and arguing took place, but there is a hint in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who oppose Allah and His Messenger will be disgraced as those before them were disgraced. The Fate of those who Challenge Allah and His Apostle إِنَّ الَّذِينَ يُحَادُّونَ اللَّـهَ وَرَ‌سُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِن قَبْلِهِمْ (Surely those who oppose Allah and His Messenger shall be disgraced, just as those before them were disgraced....58:5).
@@ -167,3 +155,5 @@ The Fate of those who Challenge Allah and His Apostle
 إِنَّ الَّذِينَ يُحَادُّونَ اللَّـهَ وَرَ‌سُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِن قَبْلِهِمْ (Surely those who oppose Allah and His Messenger shall be disgraced, just as those before them were disgraced....58:5). In the preceding verse, stress was laid on keeping to Divine limits and to the sacred laws of Islam. The current verse warns those who oppose or reject them. Their profane designs shall be foiled and they shall be humiliated in this world and a condign torment shall be inflicted on them in the Hereafter.
 
 ## Personal Reflections
+
+

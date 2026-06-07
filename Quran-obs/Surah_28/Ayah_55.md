@@ -69,17 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
 
 (so write us down among the witnesses)(5:82-83). Sa'id bin Jubayr said, "This was revealed concerning seventy priests who were sent by An-Najashi (ruler of Ethiopia). When they came to the Prophet ﷺ, he recited to them:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -166,3 +158,5 @@ Allah tells us that the pious scholars among the People of the Book believe in t
 سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ (Peace be on you. We do not seek (the way of) the ignorant. - 28:55). These people have a good quality in that when they hear something stupid from an ignorant foe, they simply say salam, instead of giving a reply. They do not entangle themselves with the ignorant. Imam Jassas (رح) has said that there are two kinds of salarns. One is for salutation, as Muslims do to one another. The other type is for musalamah (adopting peaceful attitude with others) and mutarakah, (to avoid debate) which is to convey to one's adversary that he does not wish to take note of the latter's stupidity. At this place the latter meaning is intended.
 
 ## Personal Reflections
+
+

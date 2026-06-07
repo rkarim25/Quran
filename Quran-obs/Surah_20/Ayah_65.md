@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand. Thus, Allah revealed to him at the right moment, to throw what was in his right hand, which was the stick. When he did so, it swallowed what they had made. It became a huge, monstrous creature with legs, a neck, a head and fangs. It went after these ropes and sticks until none of them remained, except that it was devoured and swallowed by this beast. At the same time, the magicians and all of the people were watching with their own eyes, seeing this amazing event in broad daylight. Thus, the miracle was performed and the evidence was clear. The truth prevailed and the magic was proven to be falsehood. This is why Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -119,3 +111,5 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said, "The magicians were seventy men who
 فَأَجْمِعُوا كَيْدَكُمْ ثُمَّ ائْتُوا صَفًّا (So, make your plot firm and forth in one row - 20:64). Formation of troops in ranks in battle has an unsettling effect on the enemy, so the Egyptian magicians arranged themselves in ranks for the contest.
 
 ## Personal Reflections
+
+

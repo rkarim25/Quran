@@ -34,15 +34,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Man** (Al-Insan) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Concerning the poor person and the orphan, an explanation of them and their characteristics has already preceded. In reference to the captive, Sa'id bin Jubayr, Al-Hasan and Ad-Dahhak all said, "He is the captive among the people of the Qiblah (i.e., the Muslims)." Ibn 'Abbas said, "At that time (when this Ayah was revealed) their (the Muslims') captives were idolators." Proof for this is that on the day of Badr the Messenger of Allah ﷺ commanded his Companions to treat the captives respectfully. They (the Companions) would give them preference over themselves when eating their meals. 'Ikrimah said, "They (captives) are the slaves." Ibn Jarir preferred this opinion since the Ayah generally refers to both the Muslim and the idolators. Sa'id bin Jubayr, 'Ata', Al-Hasan and Qatadah all made similar statements. The Messenger of Allah ﷺ advised treating servants well in more than one Hadith. This held such importance with him that the last statement of advice that he gave (before dying) was his saying,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -183,3 +175,5 @@ This is because if the heart is happy, then the face will be enlightened. As Ka'
 عَلٰي حُبِّهٖ (despite their love for it). This would mean that they give food to the needy while they themselves love it and desire it_ not that they eat to their fill and give the left-over food to the needy and poor. That feeding the poor and orphans is a form of worship and attracts reward is obvious. The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. It is the responsibility of the Islamic government to feed them. Anyone who feeds them is actually assisting the government and the public treasury. Therefore, feeding the prisoners, even Non-Muslims, is an act of reward. In the early days of Islam, especially, feeding the prisoners and taking care of them or protecting them was a responsibility that was shared by the general body of Muslims, as it happened with the prisoners of the Battle of Badr.
 
 ## Personal Reflections
+
+

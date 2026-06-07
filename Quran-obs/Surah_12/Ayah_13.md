@@ -58,18 +58,6 @@ word_by_word:
     transliteration: ghāfilūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He (Ya'qub) said: "Truly, it saddens me that you should take him away. When the brothers of Sayyidna Yusuf (علیہ السلام) requested their father that he should send Yusuf with them on a recreational outing, Sayyidna Ya'qub (علیہ السلام) told them that he did not favour sending him out for two reasons: (1) He remains uncomfortable without him in sight and (2) he apprehends that, in the wilderness out there, it might so happen that they become neglectful at some time and a wolf might eat him up.
@@ -105,3 +93,5 @@ The interpretation of that dream manifested later when it turned out that the te
 In a narration from Sayyidna ` Abdullah ibn ` Abbas ؓ ، it has been reported that Sayyidna Ya` qub (علیہ السلام) ، because of this dream, felt the danger of an unfortunate situation coming at the hands of these brothers. Thus, in fact, they were the ones he had alluded to as wolves - but, in consideration of his wisdom, he did not lay the truth bare. (Qurtubi)
 
 ## Personal Reflections
+
+

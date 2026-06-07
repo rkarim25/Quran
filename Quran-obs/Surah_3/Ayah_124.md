@@ -59,18 +59,6 @@ word_by_word:
     transliteration: munzalīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 124, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Remember) when you said to the believers, "Is it not enough for you that your Lord should help you with three thousand angels sent down? Badr : Location and Importance Badr is located about eighty miles south-west of Madinah and used to be a halting-place while travelling between Makkah and Madinah, before the modern Tariq al-Hijrah was commissioned into service which by passes it.
@@ -316,3 +304,5 @@ The expression وَأَنتُمْ أَذِلَّةٌ translated as 'when you wer
 The verse ends with the statement: فَاتَّقُوا اللَّـهَ لَعَلَّكُمْ تَشْكُرُ‌ونَ (So, fear Allah, that you may be grateful). This may remind one of the many places in the Holy Qur'an where Taqwa (fear of Allah) and Sabr (patience) have been prescribed as a security shield against the machinations of the hypocrites and the harmful effects of hostile enemies. Right here, in these two behaviour models, there lies the secret of an entire organized struggle, and clear victory, that comes in its wake. As mentioned elsewhere, Taqwa and Sabr have not been mentioned here, in conjunction. Instead, Taqwa has been considered sufficient for, in reality, Taqwa is such a comprehensive human attribute that صبر Sabr too gets to be included therein.
 
 ## Personal Reflections
+
+

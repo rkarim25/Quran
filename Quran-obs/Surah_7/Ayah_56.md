@@ -67,18 +67,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Invoke your Lord Tadarru'an and Khufyah. In the second verse (56), it was said: وَلَا تُفْسِدُوا فِي الْأَرْ‌ضِ بَعْدَ إِصْلَاحِهَا (And do no mischief on the earth after it has been set in order).
@@ -206,3 +194,5 @@ According to yet another Hadith, the Holy Prophet ﷺ said: Whenever you make Du
 It means that one should keep his or her sight on the most extensive mercy of Allah Ta' ala and let the heart believe that the prayer being made shall be answered. This is not contrary to the danger one may feel that his or her sins may become an impediment in the acceptance of one's Du` a'. صلی اللہ تعَالیٰ علی نَبِیِّنَا وسلم
 
 ## Personal Reflections
+
+

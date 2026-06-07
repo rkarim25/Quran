@@ -12,18 +12,6 @@ word_by_word:
     transliteration: fa-awʿā
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Day that the sky will be like the Al-Muhl (8)And the mountains will be like 'Ihn (9)And no friend will ask a friend (10)Though they shall be made to see one another, the criminal would desire to ransom himself from the punishment of that Day by his children (11)And his wife and his brother (12)And his Fasilah who sheltered him (13)And all that are in the earth, so that it might save him (14)By no means! تَدْعُو مَنْ أَدْبَرَ‌ وَتَوَلَّىٰ وَجَمَعَ فَأَوْعَىٰ (It will call him who had turned his back and fled away (from the truth.) and accumulated (wealth) and hoarded (it)....70:17, 18).
@@ -125,3 +113,5 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 تَدْعُو مَنْ أَدْبَرَ‌ وَتَوَلَّىٰ وَجَمَعَ فَأَوْعَىٰ (It will call him who had turned his back and fled away (from the truth.) and accumulated (wealth) and hoarded (it)....70:17, 18). The phrase 'accumulated wealth' signifies 'wealth accumulated by unlawful means' and the phrase 'hoarded it' signifies 'not fulfilling the pecuniary obligations as imposed by the Shari` ah', as is confirmed by authentic ahadi'th.
 
 ## Personal Reflections
+
+

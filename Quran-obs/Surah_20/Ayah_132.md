@@ -57,15 +57,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 132, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 وَأْمُرْ‌ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ‌ عَلَيْهَا (And bid your family to perform salah and adhere to it yourself - 132) Here the Holy Prophet has been asked to direct the members of his family to say prayers and that he himself should be very particular about his prayers. These appear to be two separate commands, i.e. one for the family and the other for himself but the fact is that for a person to be steadfast in saying prayers it is essential that his family and friends should be equally mindful of their duty in this matter. The word اھل ahl used for the family is quite comprehensive and includes a person's wife, children and his associates because all of them influence the environment and are an integral part of society. After this verse was revealed to the Holy Prophet ﷺ he used to go to the house of Sayyidna Ali and Sayyidah Fatimah ؓ every morning at the time of morning prayers and call out الصَّلَاةِ الصَّلَاةِ (Come to salah, come to salah). (Qurtubi)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -196,3 +188,5 @@ The meaning of the words لم اسد فقرک (I will not free you from want) is
 "A man who makes his concern for the Hereafter the focal point of all his efforts, Allah will take care of his concerns, but a person whose concerns are all about worldly affairs, Allah does not care in which valley he perishes."
 
 ## Personal Reflections
+
+

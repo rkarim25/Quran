@@ -123,18 +123,6 @@ word_by_word:
     transliteration: lakādhibūna
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-11-17 the attitude that the hypocrites had adopted on the occasion of the battle against the Bani an-Nadir has been reviewed and the causes underlying it have been pointed out.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have you not observed the hypocrites who say to their disbelieving brethren among the People of the Scripture, "If you are expelled, we indeed will go out with you, and we shall never obey anyone against you; and if you are attacked, we shall indeed help you." But Allah is Witness that they verily are liars (11)Surely, if they (the Jews) are expelled, never will they (hypocrites) go out with them; and if they are attacked, they will never help them.
@@ -248,3 +236,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ says: "When you hear anyone reviling a Compani
 ` Amr Ibn Haushab (رح) says: "I have found the earlier generations of this Ummah uniformly and strongly advise people to describe the merits of the noble Companions ؓ and their good qualities, so that they may develop love for them. Do not ever talk about their conflicts and disagreements, so that people may become bold and show disrespect to them." [ All these narratives have been adapted from Qurtubi ].
 
 ## Personal Reflections
+
+

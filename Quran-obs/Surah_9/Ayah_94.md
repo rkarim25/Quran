@@ -131,18 +131,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 94, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They (the hypocrites) will present their excuses to you (Muslims), when you return to them. Mentioned in the previous verses were hypocrites who came up with false excuses at the time Jihad forces were getting ready to march out and succeeded in being allowed to stay behind.
@@ -196,3 +184,5 @@ Three instructions about them have been given to the Holy Prophet ﷺ in the ver
 1. When they come to make excuses, they should be told that they do not have to make false excuses for they were not going to be believed in their word. Allah Ta` ala had already told the Holy Prophet ﷺ about the condition of their thinking and doing including the details of their wicked plans and secret intentions. This was enough to prove that they were liars, therefore, offering excuses makes no sense. After that, it was said: وَسَيَرَ‌ى اللَّـهُ عَمَلَكُمْ (And Allah will see what you do...). Here, respite has been given to them so that they could still make their Taubah (repentance), renounce Nifaq (hypocrisy) and become true Muslims - because, the wording of the text stipulates that Allah and His Messenger shall see what they do and how they do it. In other words, action shall be taken in consonance with their behavior pattern. If they repented sincerely and became true Muslims, their sins shall stand forgiven. Otherwise, these false excuses were not going to do them any good.
 
 ## Personal Reflections
+
+

@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-ʿibādi
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And, when they will dispute in the Fire, the weak will say to those who were arrogant: "Verily, we followed you, can you then take from us some portion of the Fire? In the last verse cited here, it was said: النَّارُ‌ يُعْرَ‌ضُونَ عَلَيْهَا غُدُوًّا وَعَشِيًّا ۖ وَيَوْمَ تَقُومُ السَّاعَةُ أَدْخِلُوا آلَ فِرْ‌عَوْنَ أَشَدَّ الْعَذَابِ.
@@ -129,3 +117,5 @@ Punishment in graves
 This verse is a proof of punishment in graves. Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. This humble writer has put together all such material, along with relevant verses from the Qur'an, in a regular treatise entitled: السبر بعذاب القبر As-sabr bi'adhabi-l-qabr. This treatise has been published in Arabic as part of Ahkam-ul-Qur'an.
 
 ## Personal Reflections
+
+

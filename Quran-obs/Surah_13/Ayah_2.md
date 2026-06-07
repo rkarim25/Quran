@@ -114,18 +114,6 @@ word_by_word:
     transliteration: tūqinūna
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah is He Who raised the heavens without any pillars that you can see. Allah is the One who raised the heavens without pillars.
@@ -227,3 +215,5 @@ And the word, الْآيَاتِ (al-ayat) could also mean the 'signs' of the mo
 Said in the last sentence of the verse was: لَعَلَّكُم بِلِقَاءِ رَ‌بِّكُمْ تُوقِنُونَ (so that you may be sure of meeting your Lord). This means that Allah Ta` ala has initiated and activated this whole universe and its astonishing system of operation so that by pondering over it you may come to believe in and become certain of the Hereafter ('Akhirah) and the Doomsday (Qiyamah). The reason is that once you have pondered over the creation of this universe and its wonderous system, any likelihood of doubting that it may be beyond the power of Allah Ta’ ala to resurrect human beings in the Hereafter simply cannot be entertained. And once we realize that it is within His power, and possible, and that it has been reported by no less a person than the one about whom it is universally settled that he never said anything in his whole life which was not the truth - then, there remains no room for doubt that this phenomena is real, actual and proven.
 
 ## Personal Reflections
+
+

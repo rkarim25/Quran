@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then He rose over (Istawa) the Throne. The Most Gracious! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example. It is known that there is no one who knows more about Allah than His servant and Messenger Muhammad , the absolute leader of the sons of Adam in this world and the Hereafter, who does not speak of his own desire, but conveys revelation revealed to him. What he says is true, and he is the leader whose decision counts; when there is a dispute, people are obliged to refer to him, and whatever is in accordance with his words and deeds is right, and whatever goes against them should be rejected no matter who says or does it. Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -219,3 +211,5 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرً‌ا فَجَعَلَهُ نَسَبًا وَصِهْرً‌ا (And He is the One who created man from water then made of him kinship of blood and kinship of in-laws. 25:54) نَسَب (nasab, translated above as 'kinship of blood' ) is that relationship which emanates from either parent, and صِهْر (sihr, translated above as 'kinship of in-laws' ) is that kinship which is drawn from the wife's side and is called in - laws. All these relations and bonds are Allah's graces given to mankind for a pleasant and tranquil life. If these relations are taken away from someone's life it will be impossible for him to live by himself.
 
 ## Personal Reflections
+
+

@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 74, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -268,3 +260,5 @@ Some fundamental and subsidiary rulings emerge from the cited verse. These are a
 However, this is an entirely different matter that the noble prophets and the men of Allah have not favoured them as they make people heedless. The sayings of the Holy Prophet ﷺ about high rising buildings are of this nature.
 
 ## Personal Reflections
+
+

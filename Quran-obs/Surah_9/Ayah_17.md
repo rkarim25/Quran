@@ -80,18 +80,6 @@ word_by_word:
     transliteration: khālidūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is not for the Mushrikin, to maintain the Masjids of Allah, while they witness against themselves of disbelief. Mentioned in the previous verses was how crooked the Mushrikin of Makkah were, how they broke their pledges and what they did to defend their false ways in religion.
@@ -211,3 +199,5 @@ So, the sense of the Qur'anic word ` imarah' covers building, maintenance and pr
 The expression: ` witnesses of their own infidelity' could have two meanings. It could either mean that they were virtually confessing to their Kufr and Shirk because of what they were doing as Mushriks. Or, it could refer to their implied confession and witnessing of their Kufr and Shirk when they identify themselves in social situations. Customarily, when a Christian or Jew is asked as to his religious identity, he would say that he was a Christian or Jew. The same would be the case with a fire-worshipper or idolater. They would identify them-selves with what they believe in. Thus, the Mushriks will become witnesses of their infidelity against themselves. (Ibn Kathir)
 
 ## Personal Reflections
+
+

@@ -104,18 +104,6 @@ word_by_word:
     transliteration: yatafakkarūna
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And it is He Who spread out the earth, and placed therein firm mountains and rivers and of every kind of fruit He made Zawjayn Ithnayn (two in pairs). And He is the One who spread out the earth and made mountains and rivers therein.
@@ -195,3 +183,5 @@ The next sentence of the verse declares: يُغْشِي اللَّيْلَ ال�
 The last sentence of the verse: إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُ‌ونَ translated as 'surely, in that there are signs for a people who think,' means that there is no doubt about the fact that many signs of the most perfect power of Allah Ta’ ala are present all over for those who care to think about and deliberate in the arrangement and system of this whole universe.
 
 ## Personal Reflections
+
+

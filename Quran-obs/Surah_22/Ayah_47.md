@@ -63,18 +63,6 @@ word_by_word:
     transliteration: taʿuddūna
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they ask you to hasten on the torment! How the Day of Resurrection will be equal to one thousand years by our reckoning In this verseإِنَّ يَوْمًا عِندَ رَ‌بِّكَ كَأَلْفِ سَنَةٍ (22:47) means that one day with your Lord is like one thousand years of what you count.
@@ -134,3 +122,5 @@ A doubt and its explanation
 There is a verse in Surah Al-Ma'arij which says that the day with your Lord will be equal to fifty thousand years كَانَ مِقْدَارُ‌هُ خَمْسِينَ أَلْفَ سَنَةٍ. (Whereof the measure is fifty thousand yours - 70:4) This can also be explained by applying either of the two explanations of the present verse and in the first case since every person will suffer different levels of severity, to some it will appear as if he has suffered pain for one thousand years, while to others the period will appear equal to fifty thousand years. If, however, the second explanation is applied to this verse, then there would appear to be a contradiction between the verses where one verse equates the Day of Resurrection to one thousand years and the other to fifty thousand years. But this so-called contradiction has been reconciled by Sayyidna Ashraf ` Ali Thanavi (رح))in his commentary Bayan ul-Qur'an, by saying that this difference may be due to different horizons. Just as we see in our world that the length of day and night is different on different horizons, (on zero latitude it is of 24 hours while at the latitude of 900 it is one year. Likewise it is possible that the length of the Day of Resurrection would be different on different horizons, and if its length right below the day line is one thousand years because of miraculously slow rotation of sun or earth), the areas falling 50 times far from it may have a day 50 times more in length. And Allah knows best.
 
 ## Personal Reflections
+
+

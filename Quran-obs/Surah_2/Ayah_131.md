@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 131, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu Al-'Aliyah and Qatadah said, "This Ayah (2:130) was revealed about the Jews who invented a practice that did not come from Allah and that defied the religion of Ibrahim." Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -183,3 +175,5 @@ A man keeps doing the kind of good deeds for which Paradise has been promised an
 We have said that there is no contradiction involved, for some texts of this hadith mention a proviso too - "as it appeared to people." That is to say, the first of these two men appeared in the eyes of the onlookers to be performing good deeds, while in fact he was doing just the opposite; similarly, the second man had from the outset been doing what would make him worthy of Paradise, though people thought him to be a sinner. (Ibn Kathir) We conclude this discussion with the remark that the man who has been steadfast in doing good deeds, should trust the divine promise, rely on the usual way of Allah with His creatures, and hope that through the grace of Allah he would depart from this world in this blessed state.
 
 ## Personal Reflections
+
+

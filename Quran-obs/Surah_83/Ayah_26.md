@@ -29,18 +29,6 @@ word_by_word:
     transliteration: l-mutanāfisūna
 ---
 
-## Context
-
-To understand **The Defrauding** (Al-Mutaffifin) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mutaffifin is a **Makkah** surah—revealed as the 86th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 36 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of the Surah and its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay! وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ (and inaspiring for this, the competitors should compete....83:26) The word تَنَافَسِ tanafus means for a few people 'to try or strive to gain some desirable things before others can get them.' Having mentioned the bounties of Paradise, the attention of heedless people are drawn to the fact that they are thinking that certain material things are desirable, and therefore they are competing one another to obtain them before others.
@@ -138,3 +126,5 @@ Say to the mind, the life is little.
 If you wish to remind me, remind me of God.'
 
 ## Personal Reflections
+
+

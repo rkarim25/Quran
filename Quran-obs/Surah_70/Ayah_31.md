@@ -32,18 +32,6 @@ word_by_word:
     transliteration: l-ʿādūna
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… فَمَنِ ابْتَغَىٰ وَرَ‌اءَ ذَٰلِكَ فَأُولَـٰئِكَ هُمُ الْعَادُونَ (but the one who seeks [ sexual gratification ] beyond that, then such people are the transgressors...70:31).
@@ -175,3 +163,5 @@ According to most jurists, masturbation falls under the generality of verse [ 31
 The chain of authorities of this Hadith is weak. [ Mazhari ].
 
 ## Personal Reflections
+
+

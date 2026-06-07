@@ -63,18 +63,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Prostration** (As-Sajdah) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the style of the Surah it appears that it was sent down during the middle Makkah period, more particularly in its initial stage, for one does not find in its background that severity of the persecution and tyranny which one finds in the Surahs sent down in the later stages.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Who made everything He has created good and He began the creation of man from clay (7)Then He made his offspring from semen of despised water (8)Then He fashioned him in due proportion, and breathed into him the soul; and He gave you hearing, sight and the sense of deduction. Everything is good in this world.
@@ -130,3 +118,5 @@ The author of Bayan ul-Qur'an has said, 'the text's كُلَّ شَيْءٍ (wha
 The sentence that follows next reads: وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ (and started the creation of man from clay - 7). Earlier, it was said that Allah Ta’ ala has made everything 'good' in this world. Mentioned thereafter was man, the most beautiful of all. Then, to give expression to His most perfect power alongside, it was also said that the making of man as the most superior form of creation was not because the essential ingredient of his creation was most noble, elegant and superior, which may have made it so. In fact, as for the essential ingredient that went into his making, it was something as mean and lowly as the semen. Thereafter, the rest was a masterpiece of His perfect power and profound wisdom. It was this great combination that took something so low to such a height that man was rated as the most noble Divine creation.
 
 ## Personal Reflections
+
+

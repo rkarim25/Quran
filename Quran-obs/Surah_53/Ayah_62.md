@@ -16,18 +16,6 @@ word_by_word:
     transliteration: wa-uʿ'budū
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This is a warner from the warners of old (56)The Azifah draws near (57)None besides Allah can avert it (58)Do you then wonder at this recitation (59)And you laugh at it and weep not (60)While you are Sāmidūn (61)So fall… فَاسْجُدُوا لِلَّـهِ وَاعْبُدُوا۩ ﴿62﴾ (Now, fall down in prostration and worship [ Allah ]...
@@ -135,3 +123,5 @@ Surah An-Najm
 Ends here
 
 ## Personal Reflections
+
+

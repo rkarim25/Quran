@@ -183,17 +183,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad recorded that Abu Sa'id Al-Khudri said, "We captured some women from the area of Awtas who were already married, and we disliked having sexual relations with them because they already had husbands. So, we asked the Prophet ﷺ about this matter, and this Ayah was revealed,
 
 (So with those among them whom you have enjoyed, give them their required due,) was revealed about the Mut'ah marriage. A Mut'ah marriage is a marriage that ends upon a predeterminied date.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -388,3 +380,5 @@ Like mut'ah, a time bound marriage is also unlawful. A time-bound marriage (term
 There are many people, educated but ignorant, visibly spread out in our contemporary Muslim and non-Muslim societies, who go about gopher-like, searching for the causes of Divine injunctions. When they fail to find any, they side-track the need to comply with the injunction by saying that the Word of God was, God-forbid, contrary to the requirements of the modern age, or worse still, unsuitable. The words of the verse have silenced such people for ever by telling them: 'You are ignorant. Your Creator is All-Knowing. You lack understanding. Allah is All-Wise. Do not make your reason the touchstone of the Truth.'
 
 ## Personal Reflections
+
+

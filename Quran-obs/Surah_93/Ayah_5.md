@@ -23,17 +23,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Morning Hours** (Ad-Duhaa) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Duhaa is a **Makkah** surah—revealed as the 11th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion). Therefore, the Messenger of Allah ﷺ was affected by this. Then the idolators began to say, 'His Lord has abandoned him and hates him.' So Allah revealed,
 
 وَلَسَوْفَ يُعْطِيكَ رَ‌بُّكَ فَتَرْ‌ضَىٰ (And of course, your Lord will give you so much that you will be pleased....93:5). Allah does not specify here what he will give him. The statement is open and general. The Holy Prophet ﷺ will be granted everything he desires so much that he will be pleased. Among his desired thing is the progress of Islam; the general spread of Islam in the world; fulfillment of every need of the Ummah; triumph of the Holy Prophet himself over his enemies and raising the word of Allah in the land of the enemy. When this verse was revealed, the Holy Prophet ﷺ said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -250,3 +242,5 @@ Then he raised his hands, he wept and prayed:
 Allah sent Jibra'il علیہ السلام to inquire as to why he was weeping [ while Allah knows the reason ]. Jibra'il Amin علیہ السلام came and inquired why he was weeping. The Holy Prophet ﷺ replied: "I seek my ummah's forgiveness." Allah sent Jibra'il (علیہ السلام) back to inform him that He has pardoned them, and that Allah would please him and would not displease him regarding his ummah.
 
 ## Personal Reflections
+
+

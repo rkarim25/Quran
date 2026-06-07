@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yuṣ'liḥūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And there were in the city nine Rahtin, who made mischief in the land, and would not reform (48)They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.' (49)So, they plotted a plot, and We planned a plan, while they perceived not (50)Then see how was the end of their plot! تِسْعَةُ رَ‌هْطٍ (nine persons - 27:48).
@@ -129,3 +117,5 @@ They said: 'Salih claims that he will finish with us in three days, but we will 
 تِسْعَةُ رَ‌هْطٍ (nine persons - 27:48). The word رَ‌هْطٍ (Raht) is used for a group. Here each of the nine persons is called Raht presumably because they were regarded superior among their clan for having wealth and dignity. Each one of them had his own separate group of people, hence they are called nine groups. They were known as the chiefs of Hijr, which was a city of the people of Salih (علیہ السلام) . Hijr was a well-known city of Syria.
 
 ## Personal Reflections
+
+

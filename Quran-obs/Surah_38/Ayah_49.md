@@ -29,18 +29,6 @@ word_by_word:
     transliteration: maābin
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, for those who have Taqwa is a good final return (49)'Adn Paradise, whose doors will be opened for them (50)Therein they will recline; therein they will call for fruits in abundance and drinks (51)And beside them will be Qasirat-at-Tarf, (and) of equal ages (52)This it is what you are promised for the Day of Reckoning (53)(It will be said to them)! In verse 48, it was said: وَالْيَسَعَ (and [ remember ] al-Yasa`).
@@ -118,3 +106,5 @@ In verse 48, it was said: وَالْيَسَعَ (and [ remember ] al-Yasa`). Sa
 Historical chronicles report that he is a cousin of Sayyidna Ilyas (علیہ السلام) and was his deputy. He lived in his company and was made a prophet after him. Details about him appear in the Bible, the Book of Kings I, Chapter 19, and Kings II, Chapter 2, and elsewhere. There he has been mentioned by the name of اِلِیشَع بن سافط (Elisha son of Safit).
 
 ## Personal Reflections
+
+

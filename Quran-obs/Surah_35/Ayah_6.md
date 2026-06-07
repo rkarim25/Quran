@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-saʿīri
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if they deny you, so were Messengers denied before you. The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that means one who is very deceiving (hence, rendered here as 'big deceiver' ).
@@ -121,3 +109,5 @@ Commentary
 The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that means one who is very deceiving (hence, rendered here as 'big deceiver' ). It refers to the Shaitan (Satan) whose sole job is to deceive people and throw them into disbelief and sin. And the expression لَا يَغُرَّ‌نَّكُم بِاللَّـهِ الْغَرُ‌ورُ‌ (5) means 'nor should you be deceived about Allah'. To explain this deception, it can be said that the Shaitan may not, by showing your evil deeds as good, cause you to become so involved with these that you reach the stage when you go on committing a sin and, at the same time, keep thinking that you are of those accepted in the sight of Allah, and that you will not have to undergo any punishment.' (Qurtubi)
 
 ## Personal Reflections
+
+

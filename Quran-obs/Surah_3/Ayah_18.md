@@ -80,18 +80,6 @@ word_by_word:
     transliteration: l-ḥakīmu
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah bears witness that none has the right to be worshipped but He, and the angels, and those having knowledge (also bear witness to this); (He always) maintains His creation in justice. The subject of توحید Tauhid (Oneness of Allah) which began with the opening of Surah 'Al-` Imran reappears in the first verse in a very special manner.
@@ -241,3 +229,5 @@ And a narration from Imam al-A'mash (رح) says: Whoever recites this verse and 
 Another hadith from Sayyidna Abu Ayyub al-Ansari ؓ narrates that the Holy Prophet ﷺ said: 'Whoever recites Ayah al-Kursi (2:255) and the Ayah : شَهِدَ اللَّـهُ Shahidal-lahu (3:18) and قُلِ اللَّـهُمَّ مَالِكَ الْمُلْكِ : Qulil-lahumma malik al-mulki upto بِغَيْرِ‌ حِسَابٍ bighairi hisab (3:26, 27), Allah Almighty will forgive all his sins, admit him to Paradise and take care of seventy (i.e. plenty) of his needs, the simplest of these being his forgiveness.' (Ruh a1-Ma` ani with reference to Dailami)
 
 ## Personal Reflections
+
+

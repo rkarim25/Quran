@@ -81,15 +81,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This rule applies to each and every word of the Holy Qur'an. All the Injunctions with regard to the recitation of the Holy Qur'an strictly pertain to those words alone which Allah has revealed to the Holy Prophet ﷺ . According to the hadith, the merit of reciting the Holy Qur'an is so great that for every letter that one reads or recites one gets the reward which one would get for performing ten good deeds. But if one reads a very accurate translation of the Holy Qur'an or even an Arabic version in which the original words have been replaced by certain other words without injuring the sense, the Shari'ah shall not accept it as a recitation of the Holy Qur'an, and one will not get any reward of recitation for it. For, it is not the meanings alone which constitute the Holy Qur'an; "Qur'an" is the name of meanings inherent in the words revealed by Allah to the Holy Prophet ﷺ so that the two are inseparable from each other.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -210,3 +202,5 @@ On the other hand, certain masters of the science of Hadith do not allow the sli
 Most of the jurists and the masters of the science of Hadith, however, believe that although it is better to report a hadith as far as possible in exactly the same words as one has heard without making any change intentionally, yet if one cannot recall the exact words, it is also permissible to report the meaning in one's own words, and that the words of the hadith quoted above - "... conveyed it exactly as he had heard" - might also mean that one should report the meaning of a hadith exactly and without any alteration. Obviously, changing the words does not necessarily go against this provision. Imam al-Qurtubi (رح) has, in support of his view, pointed out that this very hadith goes to prove that changing words, when necessary, is permissible, for this hadith itself has come down to us in different words in different versions. As for the other hadith in which the Holy Prophet ﷺ has insisted that the word Nabiyy should be recited and not the word Rasul, one might explain it in this way. The word Nabiyy (prophet) carries the sense of sublimity much more than does the word Rasul, for the latter is employed for any messenger whatsoever, while the former is reserved only for those who are specially chosen by Allah for being directly addressed through revelation (Wahy وحی ), and who thus occupy a rank higher than all other men. There is another explanation too. As far as prayers are concerned, the words appointed for the purpose by Allah or by the Holy Prophet ﷺ have a much greater efficacy than any other words can have. (Qurtubi) That is why those who prepare تعویذ : ta'widh (translated as 'charms' in absence of an exact counterpart) or ` awdhah, or suggest words to pray are very careful in keeping to the authentically reported words without the slightest change. So, one may say that the prayers which are considered to be very efficacious, should be included in the first category of speech in which not only the meanings but the words also must be carefully safeguarded, for both are equally intended.
 
 ## Personal Reflections
+
+

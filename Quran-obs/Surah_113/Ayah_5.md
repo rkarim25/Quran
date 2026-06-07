@@ -26,15 +26,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Daybreak** (Al-Falaq) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Falaq is a **Makkah** surah—revealed as the 20th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Do you not see that there have been Ayat revealed to me tonight the like of which has not been seen before?) They are
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -309,3 +301,5 @@ Surah Al-Falaq
 Ends here
 
 ## Personal Reflections
+
+

@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In adding to the phrase: الَّذِي خَلَقَكُمْ :"who created you" the words, الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ ; and those before you," the verse shows that Allah alone is the Creator of all mankind. It is also significant that the verse mentions only "those before you" and not "those who will come after you", and through this omission suggests that there will not be any Ummah (a traditional community formed by all the followers of a prophet) to succeed the Ummah of the Holy Prophet ﷺ ، for no prophet will be sent down after the Last Prophet ﷺ ، and hence no new ` Ummah' will arise.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ Tauhid توحید ، the most fundamental doctrine of Islam, is not a mere theor
 This is the significance of the basic declaration of the Islamic creed, لَا الٰہَ الا اللہ (there is no God but Allah). But, obviously, it is not enough to affirm the Oneness of God orally; one must have a complete certitude, and must also have the truth always present close to one's heart, for Tauhid توحید is to see God as one, and not merely to say that He is one. Today, the number of those who can respect this basic formula of the Islamic creed runs to millions all over the world - far more than it ever did, but mostly it is just an expense of breath: their lives do not show the colour of Tauhid توحید ; or otherwise, they should have been like their forefathers who were daunted neither by wealth nor by power, awed neither by numbers nor by pomp and show to turn their back upon the Truth - when a prophet could all by himself stand up against the world, and say: ثُمَّ كِيدُونِ فَلَا تُنظِرُ‌ونِ :"So try your guile on me, then give me no respite" (7 :195). If the blessed Companions and their successors came to dominate the world in a few years, the secret lay in this Tauhid توحید ، correctly understood and practised. May Allah bless all the Muslims with this great gift!
 
 ## Personal Reflections
+
+

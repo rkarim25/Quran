@@ -28,18 +28,6 @@ word_by_word:
     transliteration: yarkabūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And an Ayah for them is that We bore their offspring in the laden ship (41)And We have created for them of the like thereunto, on which they ride (42)And if We will, We shall drown them, and there will be no shout for th… But, it is obvious that the Qur'an has not specifically named a camel or some other particular mode of conveyance at this place.
@@ -99,3 +87,5 @@ No wonder if the Qur'an is alluding to the aeroplane!
 But, it is obvious that the Qur'an has not specifically named a camel or some other particular mode of conveyance at this place. This includes every such means of transportation that carries people and their baggage, accompanied or unaccompanied, right up to their desired destination. In our time, the invention of aeroplanes has made it amply clear that aeroplanes are the greatest substantiation of the Qur'anic statement: مِّن مِّثْلِهِ (mim-mithlihi: things similar to it). Then, its similarity with boat or ship is strongly supportive of it, because the way the ship of the sea sails on the surface of the water, and the mass of water does not make it drown, similarly, the airplane sails or flies over the bed of air and it does not throw it down. No wonder if the Qur'an may have left the statement: مِّن مِّثْلِهِ مَا يَرْ‌كَبُونَ (mim-mithlihi ma yarkabun: things similar to it that they ride) ambiguous, so that all modes of conveyance and transportation that continue to be invented right through the last Day of Qiyamah get to be included therein. And Allah knows best.
 
 ## Personal Reflections
+
+

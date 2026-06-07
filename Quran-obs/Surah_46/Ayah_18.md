@@ -76,17 +76,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But he who says to his parents: "Uff to you! ...") As for the saying "Uff" in this Ayah, it is a general description applying to anyone who says it to his parents. Some people claim that it was revealed about 'Abdur-Rahman bin Abi Bakr. But this claim is weak and rejected, because 'Abdur-Rahman bin Abi Bakr embraced Islam after this was revealed. His adherence to Islam was excellent, and he was among the best of his contemporaries.
 
 (But he who says to his parents: "Uff to you!")" When that was conveyed to 'A'ishah, she said: "Marwan is lying! By Allah, that was not revealed about him. If I wish to name the person meant by it, I could. On the other hand, Allah's Messenger ﷺ placed a curse on Marwan's father (Al-Hakam bin Abi Al-'As when Marwan was still in his loins, so Marwan (bin Al-Hakam) is an outcome of Allah's curse." As for Allah's statement:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ In another report recorded by An-Nasa'i, Muhammad bin Ziyad reported that when M
 Marwan's saying, in one of his addresses, that this verse holds true for ` Abdur Rahman Ibn Abi Bakr ؓ has been contradicted by Sayyidah ` A'ishah ؓ ، as narrated in Sahih of Bukhari. The fact of the matter is that the verse is general in sense, and there is no correct narration which states this verse to hold true for a particular person.
 
 ## Personal Reflections
+
+

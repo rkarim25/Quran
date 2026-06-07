@@ -147,18 +147,6 @@ word_by_word:
     transliteration: khālidūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And give glad tidings to those who believe and do righteous good deeds, that for them will be Gardens under which rivers flow (Paradise). Verse 24 spoke of the fire of hell which has been prepared to punish those who do not believe in the Holy Qur'an; the present verse announces the reward for those who believe.
@@ -236,3 +224,5 @@ The joys of Paradise will also be unlike the joys of the earth in that they will
 In giving these good tidings to those who believe, the Holy Qur'an adds another condition - that of good deeds -, for without good deeds, one cannot deserve such good tidings on the merit of 'Iman ایمان (faith) alone. 'Iman itself can, no doubt, save a man from being consigned to the fires of hell for ever, and every Muslim, even if he is a great sinner, will finally be taken out of hell, once he has undergone a period of punishment. But no one can altogether escape the fires of hell unless he has been doing good deeds defined by the Sharl'ah. (Ruh al Bayan: Qurtubi)
 
 ## Personal Reflections
+
+

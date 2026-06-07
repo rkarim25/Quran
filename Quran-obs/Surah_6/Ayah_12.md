@@ -109,18 +109,6 @@ word_by_word:
     transliteration: yu'minūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-1-12 These verses inculcate Tauhid , and refute shirk which is the greatest obstacle in the way of its acceptance.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. In the opening verse (12), قل لِّمَن مَّا فِي السَّمَاوَاتِ the disbelievers have been asked as to who is the Master of the entire universe and all that it contains.
@@ -226,3 +214,5 @@ As for the sentence: كَتَبَ عَلَىٰ نَفْسِهِ الرَّ‌ح�
 The sentence which appears at the end of the verse: الَّذِينَ خَسِرُ‌وا أَنفُسَهُمْ (Those who have brought loss to themselves ... ) indicates that the deprivation of the disbelievers from the universal mercy of Allah Almighty mentioned earlier was caused by their own deeds, for they did not take to the way which brings mercy - that is, the way of belief and faith. (Qurtubi)
 
 ## Personal Reflections
+
+

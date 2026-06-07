@@ -39,13 +39,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+As Sayyidna Musa and Bani Isra'il continued their journey they came across a people who worshipped idols which they themselves had fashioned. Bani Isra'il were tempted and they said to Sayyidna Musa (علیہ السلام) يَا مُوسَى اجْعَل لَّنَا إِلَـٰهًا كَمَا لَهُمْ آلِهَةٌ ۚ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ إِنَّ هَـٰؤُلَاءِ مُتَبَّرٌ‌ مَّا هُمْ فِيهِ ' ( O Musa! make a god for us like they have gods". He (Musa) said, "You are really an ignorant people. at these people are in, is sure to be destroyed" - 7:138, 139). He also reminded them of the miracles which Allah had revealed in their behalf and the bounties which He had showered on them and asked them how they could entertain such wicked ideas. Having admonished them thus, he and his party proceeded on their travel until they came to a place where they camped. There he said to his men, "You stay here while I go to my Lord. I will return after thirty days. In my absence my brother Harun (علیہ السلام) will act as my deputy and you should obey him in all matters".
 
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-As Sayyidna Musa and Bani Isra'il continued their journey they came across a people who worshipped idols which they themselves had fashioned. Bani Isra'il were tempted and they said to Sayyidna Musa (علیہ السلام) يَا مُوسَى اجْعَل لَّنَا إِلَـٰهًا كَمَا لَهُمْ آلِهَةٌ ۚ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ إِنَّ هَـٰؤُلَاءِ مُتَبَّرٌ‌ مَّا هُمْ فِيهِ ' ( O Musa! make a god for us like they have gods". He (Musa) said, "You are really an ignorant people. at these people are in, is sure to be destroyed" - 7:138, 139). He also reminded them of the miracles which Allah had revealed in their behalf and the bounties which He had showered on them and asked them how they could entertain such wicked ideas. Having admonished them thus, he and his party proceeded on their travel until they came to a place where they camped. There he said to his men, "You stay here while I go to my Lord. I will return after thirty days.
+According to the present narration of this Hadith-ul-Futun, Sayyidna Ibn ` Abbas ؓ had attributed it to the Holy Prophet ﷺ . That Sayyidna Ibn ` Abbas ؓ did not tell this story on his own, or after hearing it from someone else is the correct view in my opinion which is supported by the following event:
 
 ## Tafsir Summary
 
@@ -308,3 +304,5 @@ The Pharaoh, who claimed to be a god, was also absolutely guilty of the massacre
 An unfortunate tendency is in vogue among the scholars of criticizing each other which they regard as a service to Islam. There is a need for curbing this tendency and the true teaching of Islam should be adopted.
 
 ## Personal Reflections
+
+

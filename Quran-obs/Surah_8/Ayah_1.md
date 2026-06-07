@@ -82,13 +82,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Al-Bukhari recorded that Ibn 'Abbas said, "Al-Anfal are the spoils of war." Al-Bukhari also recorded that Sa'id bin Jubayr said, "I said to Ibn 'Abbas, 'Surat Al-Anfal?' He said, 'It was revealed concerning (the battle of) Badr.'" 'Ali bin Abi Talhah reported, as Al-Bukhari recorded from Ibn 'Abbas without a chain of narration, that Ibn 'Abbas said, "Al-Anfal are the spoils of war; they were for the Messenger of Allah ﷺ, and none had a share in them." Similar was said by Mujahid, 'Ikrimah, 'Ata', Ad-Dahhak, Qatadah, 'Ata' Al-Khurasani, Muqatil bin Hayyan, 'Abdur-Rahman bin Zayd bin Aslam and several others. It was also said that the Nafl (singular for Anfal) refers to the portion of the spoils of war that the commander gives to some of the fighters after dividing the bulk of the spoils. It was also said that Anfal refers to the Khumus; one-fifth of the captured goods after four-fifths are divided [between the fighters]. It was also said that the Anfal refers to the Fay', the possessions taken from the disbelievers without fighting, and the animals, servants or whatever other possessions escape from the disbelievers to Muslims.
 
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Al-Bukhari recorded that Ibn 'Abbas said, "Al-Anfal are the spoils of war." Al-Bukhari also recorded that Sa'id bin Jubayr said, "I said to Ibn 'Abbas, 'Surat Al-Anfal?' He said, 'It was revealed concerning (the battle of) Badr.'" 'Ali bin Abi Talhah reported, as Al-Bukhari recorded from Ibn 'Abbas without a chain of narration, that Ibn 'Abbas said, "Al-Anfal are the spoils of war; they were for the Messenger of Allah ﷺ, and none had a share in them." Similar was said by Mujahid, 'Ikrimah, 'Ata', Ad-Dahhak, Qatadah, 'Ata' Al-Khurasani, Muqatil bin Hayyan, 'Abdur-Rahman bin Zayd bin Aslam and several others. It was also said that the Nafl (singular for Anfal) refers to the portion of the spoils of war that the commander gives to some of the fighters after dividing the bulk of the spoils. It was also said that Anfal refers to the Khumus; one-fifth of the captured goods after four-fifths are divided [between the fighters].
+Imam Ahmad recorded that Abu Umamah said, "I asked 'Ubadah about Al-Anfal and he said, 'It was revealed about us, those who participated in (the battle of) Badr, when we disputed about An-Nafl and our dispute was not appealing. So Allah took Al-Anfal from us and gave it to the Messenger of Allah ﷺ. The Messenger ﷺ divided it equally among Muslims.'"
 
 ## Tafsir Summary
 
@@ -227,3 +223,5 @@ Therefore, after proposing the method of Taqwa in this verse, it was said: أَ�
 After that, it was further explained by saying: إِن كُنتُم مُّؤْمِنِينَ (and obey Allah and His Messenger, if you are believers) that is, the obedience to Allah and the Messenger should be total and perfect, if you are believers. In other words, 'Iman (faith) demands I to ah (obedience) and Itaah (obedience) is the outcome of Taqwa (the fear of Allah). When people become the practitioners of these virtues, their mutual disputes shall stand resolved automatically and hearts shall be filled with love rather than hostility.
 
 ## Personal Reflections
+
+

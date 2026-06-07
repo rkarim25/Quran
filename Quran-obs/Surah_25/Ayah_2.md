@@ -86,17 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Here Allah praises Himself for the Noble Qur'an He has revealed to His noble Messenger . This is like the Ayat:
 
 (And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengthen your heart thereby. And We have revealed it to you gradually, in stages. And no example or similitude do they bring, but We reveal to you the truth, and the better explanation thereof.)(25:32-33) This Surah was named Al-Furqan, because it is the criterion that decides between truth and falsehood, guidance and misguidance, right and wrong, lawful and unlawful.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -193,3 +185,5 @@ Special Wisdom in every creation
 These verses define the sacred and exalted position of the Holy Qur’ an and by addressing the person on whom the book is revealed as عَبدَہ (His slave) in the very beginning of the Surah, his honoured position is highlighted. There cannot be a greater honour for any one than to be called by Allah Ta’ ala as 'His own'..
 
 ## Personal Reflections
+
+

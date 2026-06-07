@@ -146,17 +146,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 232, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ali bin Abu Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about the man who divorces his wife once or twice and her 'Iddah finishes. He later thinks about taking her back in marriage and the woman also wishes that, yet, her family prevents her from remarrying him. Hence, Allah prohibited her family from preventing her." Masruq, Ibrahim An-Nakha'i, Az-Zuhri and Ad-Dahhak stated that this is the reason behind revealing the Ayah (2:232). These statements clearly conform to the apparent meaning of the Ayah.
 
 It was reported that this Ayah was revealed about Ma'qil bin Yasar Al-Muzani and his sister. Al-Bukhari reported in his Sahih, when he mentioned the Tafsir of this Ayah (2:232), that the husband of the sister of Ma'qil bin Yasar divorced her. He waited until her 'Iddah finished and then asked to remarry her, but Ma'qil refused. Then, this Ayah was sent down:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -267,3 +259,5 @@ Moreover, a rather long-term benefit that comes out of this method of Qur'an and
 Aside from identifying limits and restrictions of law, the distinction of a Qur'anic system of government is that by using the tools of persuasion and warning, it raises the standards of human morals and character to heights where legal limits and restrictions become second nature to him, before which he makes his personal desires and preferences take the back seat. A hard look into the history and governments of nations and the roster of crimes and punishments they offer would show that law alone has never reformed any nation or individual. The police and the army alone have never succeeded in rooting crimes out unless the fear of Allah Almighty and the realization of His supreme greatness is impinged on human hearts. That which helps prevent crimes is, in reality, the fear of Allah and the fear of accountability on the Day of Judgment. If this is not there, nobody can keep anybody away from crimes.
 
 ## Personal Reflections
+
+

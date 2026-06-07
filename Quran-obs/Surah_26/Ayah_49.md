@@ -93,18 +93,6 @@ word_by_word:
     transliteration: ajmaʿīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "You have believed in him before I give you leave. بِعِزَّةِ فِرْ‌عَوْنَ (By the majesty of the Pharaoh - 26:44).
@@ -146,3 +134,5 @@ His threats against them resulted only in an increase in their faith and submiss
 بِعِزَّةِ فِرْ‌عَوْنَ (By the majesty of the Pharaoh - 26:44). This was an expression of pledge from the magicians, which was in vogue in the olden times. It is unfortunate that similar oaths have now become common among the Muslims as well, which are even more evil and vile, for instance, 'by the king,' 'by the head of yours,' 'by the beard of yours,' 'by the grave of your father' etc. It is not permitted to make an oath of this nature under the Islamic law (because swearing in the name of someone other than Allah is a sin). Rather, it will not be wrong to say that swearing a true oath in this way is as much sinful as swearing a false oath in the name of Allah. (Ruh)
 
 ## Personal Reflections
+
+

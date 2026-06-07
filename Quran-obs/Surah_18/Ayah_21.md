@@ -140,18 +140,6 @@ word_by_word:
     transliteration: masjidan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And thus We made their case known, that they might know that the promise of Allah is true, and that there can be no doubt about the Hour. Described in this verse which opens with the words: وَكَذَٰلِكَ أَعْثَرْ‌نَا عَلَيْهِمْ (And in this way We made them known) is the disclosure of the secret of the People of Kahf before the residents of the city.
@@ -229,3 +217,5 @@ Ruling
 This event tells us that making a masjid for Salah near the graves of men of Allah is no sin. As for the Hadith in which words of curse have appeared against those who make the graves of prophets a masjid, it means making the graves as such a place of sajdah or prostration - which is, by consensus, Shirk, and Haram. (Mazhari)
 
 ## Personal Reflections
+
+

@@ -141,13 +141,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture! Why do you disbelieve in the Ayat of Allah, while you bear witness. (70)"O People of the Scripture! Why do you mix truth with falsehood and conceal the truth while you know? (71)And a party of the People of the Scripture say: "Believe in the morning in that which is revealed to the believers, and reject it at the end of the day, so that they may turn back (72)And believe no one except the one who follows your religion." Say (O Prophet): "Verily, right guidance is the guidance of Allah." (And they say:) "Do not believe that anyone can receive like that which you have received, otherwise they would engage you in argument before your Lord." Say: "All the bounty is in the Hand of Allah; He grants to whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower. (73)He selects for His Mercy whom He wills and Allah is the Owner of great bounty (74)
 
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture! Why do you disbelieve in the Ayat of Allah, while you bear witness. (70)"O People of the Scripture! Why do you mix truth with falsehood and conceal the truth while you know? (71)And a party of the People of the Scripture say: "Believe in the morning in that which is revealed to the believers, and reject it at the end of the day, so that they may turn back (72)And believe no one except the one who follows your religion." Say (O Prophet): "Verily, right guidance is the guidance of Allah." (And they say:) "Do not believe that anyone can receive like that which you have received, otherwise they would engage you in argument before your Lord." Say: "All the bounty is in the Hand of Allah; He grants to whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower.
+(And a party of the People of the Scripture say: "Believe in the morning in that which is revealed to the believers, and reject it at the end of the day,)
 
 ## Tafsir Summary
 
@@ -218,3 +214,5 @@ The reason why they act in the way they do is envy, that is, they envy Muslims a
 That this envy is based on not knowing the nature, timing and wisdom of Allah's grace and mercy is explained in the later part of verse 73 and in verse 74.
 
 ## Personal Reflections
+
+

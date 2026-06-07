@@ -42,18 +42,6 @@ word_by_word:
     transliteration: munẓarīna
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "O you (Muhammad) to whom the Dhikr (the Qur'an) has been revealed! 1.
@@ -103,3 +91,5 @@ Explanatory Notes
 And these disbelievers (of Makkah) said to the Holy Prophet ﷺ : "0 you to whom the Qur’ an has been revealed, (as you claim, then,) you are certainly (God forbid) insane (and your claim to prophethood is false, otherwise) why would you not bring the angels to us (who will testify your truthfulness before us - as in Surah Al-Furqan: لَوْلَا أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُ نَذِيرً‌ا : 'Why is not an angel sent down unto him, to be a warner with him? [ 25:7] which is answered by Allah Ta’ ala:) We send down the angels (in the manner asked by them) only to enforce a decision (and had that been the case) then they would have been given no respite either (in fact, when they would have not believed even after their having come - as their ways guarantee - they would have been destroyed instantly, the reason for which has already appeared in the later verses of the first section of Surah Al-An’ am: 6:8, 9).
 
 ## Personal Reflections
+
+

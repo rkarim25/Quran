@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Believers** (Al-Mu'minun) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H. The apparent meaning is that the Zakah that was instituted in Al-Madinah is the one based upon the Nusub and the specific amounts, apart from which it seems that the basic principle of Zakah was enjoined in Makkah. As Allah says in Surat Al-An'am, which was also revealed in Makkah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -167,3 +159,5 @@ Those are the inheritors who will inherit Firdaus (Paradise) - 23:10, 11.
 The good Muslims who possess the attributes described above have been declared in this verse to be the heirs to the garden of Paradise. There is a suggestion here that just as the assets of a deceased person must devolve on his heirs, similarly the possessors of these attributes will, without doubt, enter Paradise. It should be noted that the possessors of these seven qualities have been mentioned in the beginning as those who attain falah or success, then after describing these qualities it is mentioned in this last sentence that possessors of these qualities will inherit Paradise. This indicates that the total falah (success) may be achieved in Paradise only.
 
 ## Personal Reflections
+
+

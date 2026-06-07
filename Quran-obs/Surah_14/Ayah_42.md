@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-abṣāru
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Consider not that Allah is unaware of that which the wrongdoers do, but He gives them respite up to a Day when the eyes will stare in horror (42)(They will be) hastening forward with necks outstretched, their heads raise… Stands for 'Qatiran', the original Qur’ anic word which means a highly inflammable oil extracted from the Pine-tree.
@@ -133,3 +121,5 @@ Initially, the first verse (42) is to comfort the Holy Prophet ﷺ and the oppre
 In this verse: وَلَا تَحْسَبَنَّ اللَّـهَ غَافِلًا And never think that Allah is unaware of what the wrongdoers are doing), the address is obviously to every such person whom his own negligence, and shaitan, have tricked to believe in something like that. And should it be that the Holy Prophet ﷺ himself is the addressee here, still then, the purpose of saying this would be to let the negligent of the community hear it and be warned - because, there exists just no possibility that the Holy Prophet ﷺ would, God forbid, ever think that Allah Ta’ ala is unaware or indifferent to what is happening.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-qiyāmati
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the subject matter of this Surah an internal evidence, which shows that it is one of the earliest Surahs to be sent down at Makkah. After verse 15 the discourse is suddenly interrupted and the Holy Prophet (upon whom be peace) told: "Do not move your tongue to remember this Revelation hastily. It is Our responsibility to have it remembered and read. Therefore, when We are reciting it, listen to its recital carefully. Again, it is Our responsibility to explain its meaning." Then, from verse 20 onward the same theme which was interrupted at verse 15 , is resumed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. لَآ اُقْسِمُ بِيَوْمِ الْقِيٰمَةِ وَلَآ اُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ (I swear by the Day of Resurrection, [ 1] and I swear by the self-reproaching conscience, (that Resurrection is a reality.)...75:1-2).
@@ -207,3 +195,5 @@ Commentary
 On the same basis, Sayyidna Hasan al-Basri interpreted nafs lawwamah as nafs mu'minah meaning, the 'believing soul' and said that 'By Allah! A believer at all times upbraids his own self. It is obvious why he should reproach himself when he commits evil. He reproaches himself when he does good deeds as well, because he feels that he has not performed his duties of servitude and Divine worship adequately. He feels that he has not fulfilled and consummated his obligations of slave-hood perfectly. Therefore, he reproaches himself for his shortcomings in the performance of his duties and obligations.'
 
 ## Personal Reflections
+
+

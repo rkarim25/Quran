@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This marvelous system of causes and effects was, in fact, a masterpiece of Allah's creation and a solid proof of His boundless power and infinite wisdom, but it was this firmness of the system which ultimately made people neglectful of Allah's power. When they perceived that all the 'effects' in this universe are linked with some visible causes, they confined their eyes to these visible causes only and started believing them to be the original creator of all these events. The real power of the Creator which was the original cause of all causes remained hidden behind the covers of visible causes only. The prophets are sent and the divine books are revealed to remind human beings that they must rise above this shortsightedness, and see behind the cover of these apparent causes and the omnipotence of their creator who is in fact running and controlling the whole system. This is the only way to discover the real truth about this universe. The verses under consideration are meant to point out to this reality.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ If He so willed, Allah would have made sunlight and shades stationary so that wh
 In order to explain the phenomenon of lengthening and shortening of shades, it is stated in the verse قَبَضْنَاهُ إِلَيْنَا قَبْضًا يَسِيرً‌ا (46) that is "We pulled it toward Us in a gradual manner." It is well known that Allah Ta’ ala is beyond the purview of body or direction and hence there is no question of the shade being pulled toward Him. What it means is that shortening of the shades takes place by His Supreme Power.
 
 ## Personal Reflections
+
+

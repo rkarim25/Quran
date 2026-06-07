@@ -50,18 +50,6 @@ word_by_word:
     transliteration: mud'birīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, this Qur'an narrates to the Children of Israel most of that in which they differ (76)And truly, it is a guide and a mercy for the believers (77)Verily, your Lord will decide between them by His judgement. It was the demand of love and affection the Holy Prophet ﷺ had for all human beings that he should save them all from the fire of jahannam by making them accept the message of Allah.
@@ -125,3 +113,5 @@ Commentary
 It was the demand of love and affection the Holy Prophet ﷺ had for all human beings that he should save them all from the fire of jahannam by making them accept the message of Allah. It used to hurt him a lot if someone did not accept it. He used to feel as if someone's children were proceeding toward the fire by not heeding to the advice of his parents. Therefore, Qur'an has adopted different expressions to console him at many places. One such advice was contained in the sentence وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُن فِي ضَيْقٍ مِّمَّا يَمْكُرُ‌ونَ (And do not grieve for them, and do not be straitened because of what they plan - 27:70) which has appeared in the earlier verse. In the above verse he has been consoled in a slightly different manner, that his job was only to convey the message of truth, which he had done admirably. If someone had not accepted this, it was not his fault or deficiency. So, he need not worry and be despondent. Rather it is their own fault that they have lost their sense of direction. Qur'an has described the loss of their sense of direction by presenting three examples. First, that they were like dead bodies in the matter of acceptance of truth, and thus cannot take any one's advice to their advantage. Second, that they were like the deaf man who does not wish to hear anything, rather they turn their back and go away if someone tries to give them any advice. Third, that they were like the blind that cannot see even if someone tries to show them the path. After providing these three examples it is said:
 
 ## Personal Reflections
+
+

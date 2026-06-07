@@ -54,18 +54,6 @@ word_by_word:
     transliteration: manḍūdin
 ---
 
-## Context
-
-To understand **Hud** (Hud) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So when Our commandment came, We turned them upside down, and rained on them stones of clay, in an array (82)Marked from your Lord; and they are not ever far from the wrongdoers (83) The Town of Lut's People is overturne… At that time, the angels under Divine command said to Sayyidna Lut (علیہ السلام) : فَأَسْرِ‌ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ (So, move with your family in a part of night).
@@ -135,3 +123,5 @@ After that, the Qur'an portrays the occurrence of the punishment by saying: So, 
 Reports say that these habitations were composed of four major towns where those people lived. These very habitations have been named as 'al-mu'tafikat' (the towns overturned) elsewhere in the Holy Qur'an (9:70, 69:9). When the Divine command came, the archangel Jibra'il al-Amin dissected the base of the land mass holding all those towns on top of it with his wing, raised all of it upwards in a way that everything stayed where it was, even water in a water vessel. It was in the backdrop of human, animal and canine voices coming from the sky that he heaved all these habitations straight up towards the sky and, then, threw the whole thing back upside down - as appropriate to and as called for by the evil they indulged in.
 
 ## Personal Reflections
+
+

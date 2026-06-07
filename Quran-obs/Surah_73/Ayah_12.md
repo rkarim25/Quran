@@ -20,18 +20,6 @@ word_by_word:
     transliteration: wajaḥīman
 ---
 
-## Context
-
-To understand **The Enshrouded One** (Al-Muzzammil) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The two sections of this Surah were revealed in two separate periods. The first section ( vv. 1-19 ) is unanimously a Makki Revelation, and this is supported both by its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. اِنَّ لَدَيْنَآ اَنْكَالًا وَّجَحِــيْمًا (Surely with Us are fetters and flaming fire, and food that chokes, and a painful punishment...73:12-13).
@@ -131,3 +119,5 @@ Sayyidna Ibn ` Abbas ؓ said: "In it will be thorns of fire that will
 choke." [ God save us!].
 
 ## Personal Reflections
+
+

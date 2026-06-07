@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 274, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said that they, "Disliked giving charity to their polytheist relatives, but were later on allowed to give it to them when they inquired about this matter, and this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -241,3 +233,5 @@ Presented in this verse is the great reward and excellence of those who are used
 Based on the authority of Ibn ` Asakir, there is a report in Ruh al-Ma` ani which says that Sayyidna Abu Bakr ؓ spent forty thousand dinars in the way of Allah - making it ten thousand during the day, ten thousand during the night, ten thousand openly and ten thousand secretly. Some commentators have said that this very event related to Sayyidna Abu Bakr ؓ was the background of the revelation of this verse. There are other views also regarding the circumstances of its revelation.
 
 ## Personal Reflections
+
+

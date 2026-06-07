@@ -136,15 +136,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah)], so worship Me (Alone and none else).") [21:25] and,
 
-Muhammad bin Ishaq and other scholars said that the beginning of Surah Āl-'Imrān, and more than eighty verses thereafter; were revealed about the delegation of Najran. Az-Zuhri stated that the people of Najran were the first people to pay the Jizyah (tax money paid to the Muslim State). However, there is no disagreement that the Ayah that ordained the Jizyah [9:29] was revealed after the Fath (conquering Makkah, and therefore, after the delegation of Najran came to Al-Madinah). So, how can this Ayah [3:64] be contained in the Prophet's letter to Heraclius before the victory of Makkah, and how can we harmonize between the statements of Muhammad bin Ishaq and Az-Zuhri? The answer is that the delegation of Najran came before Al-Hudaybiyyah (before the victory of Makkah), and what they paid was in lieu of the Mubahalah; not as Jizyah.
+Muhammad bin Ishaq and other scholars said that the beginning of Surah Āl-'Imrān, and more than eighty verses thereafter; were revealed about the delegation of Najran. Az-Zuhri stated that the people of Najran were the first people to pay the Jizyah (tax money paid to the Muslim State). However, there is no disagreement that the Ayah that ordained the Jizyah [9:29] was revealed after the Fath (conquering Makkah, and therefore, after the delegation of Najran came to Al-Madinah). So, how can this Ayah [3:64] be contained in the Prophet's letter to Heraclius before the victory of Makkah, and how can we harmonize between the statements of Muhammad bin Ishaq and Az-Zuhri? The answer is that the delegation of Najran came before Al-Hudaybiyyah (before the victory of Makkah), and what they paid was in lieu of the Mubahalah; not as Jizyah. The Ayah about the Jizyah was later revealed, and its ruling supported what occurred with the Najran people. In support of this opinion, we should mention that in another instance, the ruling on dividing the booty into one - fifth (for the Prophet ﷺ) and four-fifths (for the fighters) agreed with the practice of 'Abdullah bin Jahsh during the raid that he led before Badr. An Ayah later on upheld the way 'Abdullah divided the booty. Therefore, it is possible that the Prophet ﷺ wrote this statement (Say, "O People of the Scripture...") in his letter to Heraclius before the Ayah was revealed. Later on, the Qur'an agreed with the Prophet's statement, word by word. It is also a fact that the Qur'an was revealed in agreement with what 'Umar said regarding the captured disbelievers at Badr, the Hijab (Muslim woman code of dress), refraining from performing prayer for the hypocrites, and regarding his statements:
 
 ## Tafsir Summary
 
@@ -219,3 +213,5 @@ I begin with the name of Allah who is All-Merciful, Very-Merciful. From Muhammad
 The statement, 'you be witness...' in the last sentence of the verse teaches us a lesson, that is, should someone refuse to accept the truth, even after it has been proved clearly, then the proper course is to re-state one's own belief and conclude the conversation. Entering into fur-ther debate and verbal altercation is not appropriate.
 
 ## Personal Reflections
+
+

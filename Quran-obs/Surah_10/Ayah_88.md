@@ -126,18 +126,6 @@ word_by_word:
     transliteration: l-alīma
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Musa said: "Our Lord! Mentioned in the second verse (88), there is a curse which Sayyidna Musa (علیہ السلام) invoked after having lost all hopes of reforming the people of the Pharaoh.
@@ -203,3 +191,5 @@ The invocation of this curse obviously appears to be something far out as coming
 But, in terms of the hard facts of the situation here, Sayyidna Musa (علیہ السلام) has already made whatever efforts he could. He was to-tally disappointed. Now he wanted that they better learn through the punishment for their deeds. In doing so, it was probable that these people, once they see the punishment coming, may make a confession and declare that they now believed, whereby the punishment could stand warded off. Therefore, what became the cause of this invocation from him was his hatred for kufr (disbelief, infidelity). This is similar to what happened to the Pharaoh. When he started to announce his belief at the time he was drowning, the angel, Jibra'il shut his mouth lest Divine mercy turns to him and he stands delivered from the punishment.
 
 ## Personal Reflections
+
+

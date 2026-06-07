@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yurīdu
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Whoever thinks that Allah will not help him in this world and in the Hereafter, let him stretch out a rope to the ceiling and let him strangle himself. مَن كَانَ يَظُنُّ (If someone thinks - 22:15).
@@ -107,3 +95,5 @@ Commentary
 Qurtubi also thinks that this is the best interpretation of this verse. There are some others who are of the view that the word سَمَاء (sky) occurring in this verse means the ceiling of one's house and the verse means that a person who entertains hostile feelings towards Islam and the Holy Prophet ﷺ must realize that he can do them no harm. Hence the best thing for him to do is to hang himself from the ceiling out of sheer mortification. (Mazhari and others).
 
 ## Personal Reflections
+
+

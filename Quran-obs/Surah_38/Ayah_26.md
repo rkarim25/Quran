@@ -130,18 +130,6 @@ word_by_word:
     transliteration: l-ḥisābi
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Dawud! Not only that Allah Ta’ ala had made Sayyidna Dawud (علیہ السلام) a prophet, He had also placed a government and state at his command.
@@ -197,3 +185,5 @@ The first thing to watch around offices charged with responsibility is the chara
 Right from here we also learn that in order to place someone in a position of authority, such as an official of the government, or a judge of the judiciary (or someone in any other role of public or private responsibility), the first thing one has to look for is whether or not this person has the fear of Allah in his heart, the concern for 'Akhirah, the life to come on his mind and, of course, the state of his morals and character. If it is realized that he has nothing of the sort as the fear of Allah in his heart, instead, his desiring self sits there as the monarch of all it surveys, then, no matter how high his degrees in education, and no matter how superb his expertise and experience in the field, he is not deserving of any high office of responsibility in the sight of Islam.
 
 ## Personal Reflections
+
+

@@ -96,18 +96,6 @@ word_by_word:
     transliteration: l-rāziqīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 114, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Remember) when Al-Hawariyun said: "O 'Isa, son of Maryam! A True Believer Should Not Demand Miracles When the disciples of Sayyidna ` Isa (علیہ السلام) asked him to make ` Ma'idah' (food-spread) come down from the heavens, he replied by saying: قَالَ اتَّقُوا اللَّـهَ إِن كُنتُم مُّؤْمِنِين (Fear Allah if you are believers).
@@ -207,3 +195,5 @@ From the words of the verse 115: فَإِنِّي أُعَذِّبُهُ عَذ�
 Whether or not the ` Ma'idah' (food-spread) came down from the heaven is something commentators differ in. The majority of them hold that it did. Accordingly, it has been reported from Sayyidna ` Ammar ibn Yasir ؓ as in a Hadith of Tirmidhi, that ` Ma'idah' did come from the heavens which included bread and meat. It also appears in this Hadith that some of those people committed a breach of trust, and put it off for the next day as well. As a result, they were transformed into monkeys and swines. (May Allah keep us protected from His wrath). This very Hadith also tells us that they ate from it as they wanted to do as mentioned in the word, ` na'kulu' (we eat) - however, storing it for future use was prohibited. (Mayan al-Qur'an)
 
 ## Personal Reflections
+
+

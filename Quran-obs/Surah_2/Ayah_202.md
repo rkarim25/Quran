@@ -40,17 +40,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 202, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Sa'id bin Jubayr said that Ibn 'Abbas said, "During the time of Jahiliyyah, people used to stand during the (Hajj) season, and one of them would say, 'My father used to feed (the poor), help others (end their disputes, with his money), pay the Diyah (i.e., blood money),' and so forth. The only Dhikr that they had was that they would remember the deeds of their fathers. Allah then revealed to Muhammad ﷺ:
 
 Sa'id bin Jubayr said that Ibn 'Abbas said, "Some bedouins used to come to the standing area ('Arafat) and supplicate saying, 'O Allah! Make it a rainy year, a fertile year and a year of good child bearing.' They would not mention any of the affairs of the Hereafter. Thus, Allah revealed about them:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -179,3 +171,5 @@ It is masnun to make this prayer particularly while making tawaf. This verse als
 In the concluding part of this verse, the end of the other class of people who pray for the good of the dunya دنیا (mortal world) and akhirah آخِرَ‌ةِ (Hereafter) both has been stated by saying that they will be rewarded in both the worlds for their correct and righteous conduct and for their prayers. Following that, it has been said: وَاللَّـهُ سَرِ‌يعُ الْحِسَابِ (And Allah is swift at reckoning) because His all-pervading knowledge and most perfect power is sufficient to assess the life-long deeds of each and every person who ever breathed in His creation; for this He needs none of those computing mechanisms and means on which only man depends. So, the time will soon come when He shall make man account for what he did, and it will be on the basis of that accounting that he will spread out His reward and punishment.
 
 ## Personal Reflections
+
+

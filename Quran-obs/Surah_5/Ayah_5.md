@@ -189,17 +189,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Abi Hatim recorded that Abu Malik Al-Ghifari said that Ibn 'Abbas said that when this Ayah was revealed,
 
 (And do not marry idolatresses till they believe,)[2:221] the people did not marry the pagan women. When the following Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -368,3 +360,5 @@ In recapitulation, it can be said that in the sight of the learned elders of the
 Therefore, all leading authorities in Tafsir - Ibn Jarir, Ibn Kathir, Abu Hayyan and others - are unanimous in holding that there was no abrogation (Naskh) in the verses of Surah al-Baqarah and Surah al. An'-am. This is also the favoured position of the majority of Sahabah and Ta
 
 ## Personal Reflections
+
+

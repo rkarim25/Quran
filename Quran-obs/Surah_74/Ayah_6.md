@@ -16,18 +16,6 @@ word_by_word:
     transliteration: tastakthiru
 ---
 
-## Context
-
-To understand **The Cloaked One** (Al-Muddaththir) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The first seven verses of this Surah belong to the earliest period at Makkah. Even according to some traditions which have been related in Bukhari, Muslim, Tirmidhi, Musnad Ahmad, etc., on the authority of Hadrat Jabir bin Abdullah, these are the very earliest verses of the Qur'an to be revealed to the Holy Prophet (upon whoa be peace). But the Muslim Ummah almost unanimously agreed that the earliest Revelation to the Holy Prophet (upon whom be peace) consisted of the first five verses of Surah Al-Alaq(XCVI) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَلَا تَمْنُنْ تَسْتَكْثِرُ (...and do no favour [ to anyone merely ] to ask more [ in exchange ]....74:6).
@@ -173,3 +161,5 @@ Injunction [ 5]
 وَلَا تَمْنُنْ تَسْتَكْثِرُ (...and do no favour [ to anyone merely ] to ask more [ in exchange ]....74:6). In other words, no gift should be given to anyone seeking to get back in return more than what was given. This indicates that it is reprehensible to give to someone a gift with the intention that the person will give him a higher gift. Although it seems to be allowed, by another verse of the Qur'an, for common people, yet it is reprehensible and morally unrighteous - especially for the Holy Prophet, it is unlawful, as explained by Ibn ` Abbas
 
 ## Personal Reflections
+
+

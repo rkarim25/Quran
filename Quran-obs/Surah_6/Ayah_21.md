@@ -64,17 +64,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted with all things (18)Say: "What thing is the most great in witness?" Say: "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach. Can you verily bear witness that besides Allah there are other gods?" Say "I bear no (such) witness!" Say: "Only He is God, alone, and truly I am innocent of what you join in worship with Him. (19)Those to whom We have given the Scripture recognize him, as they recognize their own children. Those who have lost (destroyed) themselves will not believe (20)And who does more wrong than he who invents a lie against Allah or rejects His Ayat? Verily, the wrongdoers shall never be successful (21)
 
 (this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach.)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -185,3 +177,5 @@ Sayyidna Zayd ibn Sa'nah who first belonged to the people of the Book had recogn
 In the last verse (21), it was said that these people of the Book who, despite knowing the true identity of the Holy Prophet ﷺ do not accept Islam were simply ruining themselves at their own hands: الَّذِينَ خَسِرُ‌وا أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ (Those, who have brought loss on themselves, they are not going to believe).
 
 ## Personal Reflections
+
+

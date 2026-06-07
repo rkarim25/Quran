@@ -110,18 +110,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 236, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 There is no sin on you, if you divorce women while yet you have not touched them, nor appointed for them their due (dowry). Keeping dower and consummation in view, divorce can be of four situations.
@@ -149,3 +137,5 @@ The injunction related to the first two situations has been stated in the verses
 give something on his own to the woman -- the least being a set of clothes. In fact, the Holy Qur'an has not fixed any amount for this gift. However, it does indicate that the affluent should give in accordance with their capacity, which carries an element of persuasion for the man of means who should not behave tight-fisted in this act of grace. Sayyidna Hasan ؓ ، in a situation like this, gave a gift of twenty thousand dirhams to the divorced woman, and Qadi Shurayh, that of five hundred dirhams; and Sayyidna Ibn ` Abbas ؓ has said that the lowest degree here is to give one set of clothes. (Qurtubi)
 
 ## Personal Reflections
+
+

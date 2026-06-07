@@ -60,13 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Ornaments of Gold** (Az-Zukhruf) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+And whosoever Ya'shu (turns away blindly) from the remembrance of the Most Gracious, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they are guided aright (37)Till, when (such a one) comes to Us, he says, "Would that between me and you were the distance of the two easts (or the east and west) a worst companion (indeed)! (38)It will profit you not this Day as you did wrong, (and) that you will be sharers in the punishment (39)Can you make the deaf to hear, or can you guide the blind or him who is in manifest error (40)And even if We take you away, We shall indeed take vengeance on them (41)Or (if) We show you that wherewith We threaten them, then verily, We have perfect command over them (42)So hold you fast to that which is revealed to you. Verily, you are on the straight path (43)And verily, this is indeed a Dhikr for you and your people, and you will be questioned (44)And ask whom We sent before you of Our Messengers: "Did We ever appoint gods to be worshipped besides the Most Gracious? (45)
 
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-And whosoever Ya'shu (turns away blindly) from the remembrance of the Most Gracious, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they are guided aright (37)Till, when (such a one) comes to Us, he says, "Would that between me and you were the distance of the two easts (or the east and west) a worst companion (indeed)! (38)It will profit you not this Day as you did wrong, (and) that you will be sharers in the punishment (39)Can you make the deaf to hear, or can you guide the blind or him who is in manifest error (40)And even if We take you away, We shall indeed take vengeance on them (41)Or (if) We show you that wherewith We threaten them, then verily, We have perfect command over them (42)So hold you fast to that which is revealed to you.
+(So hold you fast to that which is revealed to you. Verily, you are on the straight path.) means, hold fast to the Qur'an which has been sent down to your heart, for it is truth and what it leads to is truth that shows the way to the straight path that leads to Gardens of Delight and eternal, everlasting goodness.
 
 ## Tafsir Summary
 
@@ -207,3 +203,5 @@ It is narrated that once Sayyidna Masih (علیہ السلام) (Jesus Christ) s
 [ 1] These excerpts are taken from Good News Bible, Today's English Version, Published by the Bible Societies in 1976. (Muhammad Tagi Usmani)
 
 ## Personal Reflections
+
+

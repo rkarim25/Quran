@@ -81,18 +81,6 @@ word_by_word:
     transliteration: alīmun
 ---
 
-## Context
-
-To understand **Hud** (Hud) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It was said: "O Nuh! In the fourth verse (48), described there is the end of the flood.
@@ -126,3 +114,5 @@ This was the reason why it became necessary to elaborate the subject of peace an
 When the Holy Prophet ﷺ came to know of this detailed information about Sayyidna Nuh (علیہ السلام) and the Flood through revelation, he related it to his people - this event, then became a standing witness to the veracity of the Holy Prophet ﷺ himself as a genuine prophet. To alert him to this situation, it was said in the fifth verse (49): ` As for Sayyidna Nuh (علیہ السلام) and the flood that came during his time, these were pieces of information that lay in the domain of the unseen. He had no knowledge of it beforehand, nor his people, the Arabs, knew about it. It was he who told them about it. What was the explanation for it? How could it happen? There was no other explanation but that Allah had Himself told him about it through revelation, because, had his people been educated and conversant with world history, it could be surmised that he had related these events after having heard them from those learned people. But, when the whole lot of his people was unaware of these events and their prophet too had never gone to another country to get his education there, then, the only inlet of this information stands determined conclusively. It was وَحِی Wahy, the divine revelation, which is a clear proof that the prophet is a true messenger of Allah.
 
 ## Personal Reflections
+
+

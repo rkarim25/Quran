@@ -71,18 +71,6 @@ word_by_word:
     transliteration: yub'ʿathūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Until, when death comes to one of them, he says: "My Lord! Never!
@@ -196,3 +184,5 @@ Never! It is just a word he has to utter. And in front of them there is a barrie
 The word بَرْ‌زَخٌ (Barzakh) means "barrier" and implies anything which intervenes between two conditions or two objects. For this reason it also means the intervening period between death and the Day of Judgment. The meaning of this verse is that the wish of the infidel who has died to be returned to this world is fruitless, because he has reached the Barzakh from which no return is possible and a second life cannot be given until the Day of Resurrection, when all the dead will rise and be brought back to life.
 
 ## Personal Reflections
+
+

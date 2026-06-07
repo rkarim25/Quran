@@ -67,18 +67,6 @@ word_by_word:
     transliteration: khaṣīman
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 105, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-105-135 Resuming the theme of defense, the Muslims have been warned to be on their guard against their enemies.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Surely, We have sent down to you (O Muhammad ﷺ) the Book in truth that you might judge between men by that which Allah has shown you, so be not a pleader for the treacherous (105)And seek the forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, Most Merciful (106)And argue not on behalf of those who deceive themselves. While discussing the matters relating to the open disbelievers, the Holy Qur'an has, in some places in the previous verses, referred to the hypocrites and has pointed out that Kufr or disbelief was the common denominator between them.
@@ -140,3 +128,5 @@ Sequence
 While discussing the matters relating to the open disbelievers, the Holy Qur'an has, in some places in the previous verses, referred to the hypocrites and has pointed out that Kufr or disbelief was the common denominator between them. Further on, a particular episode relating to some hypocrites finds mention in the present verses, details of which are being given below.
 
 ## Personal Reflections
+
+

@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-ḥisābi
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… The third attribute of the obedient servants of Allah Ta’ ala stated here is: وَالَّذِينَ يَصِلُونَ مَا أَمَرَ‌ اللَّـهُ بِهِ أَن يُوصَلَ (and those who maintain the relations Allah has commanded to be maintained).
@@ -157,3 +145,5 @@ past prophets and their books.
 The fourth attribute has been identified as: وَيَخْشَوْنَ رَ‌بَّهُمْ (and fear their Lord). The use of the word: خَشیَہ (khashyah) rather than خَوف - (khawf) indicates that their 'fear' of Allah is not the kind of fear one naturally has when facing some beast or dangerous man. Instead of that, this fear is like the habitual fear children have of their parents, and students of their teacher, for that is no fear of being harmed or hurt by them. In-stead, such fear is grounded in love and esteem because of which one apprehends lest something said or done may become displeasing and repugnant in the sight of Allah Ta ala. Therefore, whenever the fear of Allah finds mention in an occasion of praise and glorification, generally the word used there is Khashyah because Khashyah is the name of the fear which emerges out of love and esteem. Therefore, in the next sentence, where the fear of strict reckoning has been mentioned, the word used is not Khashyah, instead the word used there is fear as such. It was said: وَيَخَافُونَ سُوءَ الْحِسَابِ (and they are frightful of evil reckoning). 'Evil reckoning' denotes reckoning which is strict and minute. Sayyidah A’ ishah ؓ has said: It is Divine Mercy alone which can bring salvation for human beings when things are forgone and forgiven summarily at the time the reckoning of deeds takes place. Otherwise, anyone who is made to account for everything said and done, cannot escape from punishment. It is virtually impossible because who is there to claim that he or she has never made a mistake or committed a sin? So, this fear of having to face strict reckoning of deeds is the fifth attribute of righteous and obedient people.
 
 ## Personal Reflections
+
+

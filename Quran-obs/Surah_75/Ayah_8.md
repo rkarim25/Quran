@@ -12,18 +12,6 @@ word_by_word:
     transliteration: l-qamaru
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. فَاِذَا بَرِقَ الْبَصَرُ وَخَسَفَ الْقَمَرُ وَجُمِعَ الشَّمْسُ وَالْقَمَرُ (So, when the eyes will be dazzled, and the moon will lose its light, and the sun and the moon will be joined together,...75:7-9).
@@ -197,3 +185,5 @@ Qatadah said, "This means he is a witness against himself." In another narration
 The verb bariqa means for the eyes 'to be dazzled and unable to see'. On the Day of Resurrection, the eyes of all will be dazzled and will not be able to see consistently. The verb khasafa is derived from khusuf which means 'to lose light and become dark'. The verse purports to say that the moon will lose its light or will be eclipsed. The statement that 'the sun and the moon will be joined together' signifies that not only the moon will lose its light, but also the sun will be eclipsed. Astronomers have discovered that the sun has the original light, and the light of the moon is borrowed from the sun. Allah says that the sun and the moon on the Day of Resurrection will be fused together, so that they both will lose their lights. Some scholars interpret this statement to mean that on that Day the sun and the moon will rise from the same point, as some narratives report. And Allah know best!
 
 ## Personal Reflections
+
+

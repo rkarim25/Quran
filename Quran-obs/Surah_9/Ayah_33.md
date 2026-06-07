@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-mush'rikūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They want to extinguish Allah's Light with their mouths, but Allah will not allow except that His Light should be perfected even though the disbelievers hate (it)(32)It is He Who has sent His Messenger with guidance and… After that, the same subject has been further stressed in the third verse (33) by saying that Allah Ta` ala has sent His Messenger with guidance, that is, the Qur'an, and with the Faith of Truth, that is, Islam, in order to have it prevail over all other faiths.
@@ -136,3 +124,5 @@ This glad tiding regarding the ascendancy of Islam is, as in Tafsir Mazhari, for
 How this Light of Allah reached its perfection during the blessed period of the Holy Prophet ﷺ and the most righteous and worthy elders of the Muslim Community is a spectacle the world has already witnessed. Then, in future too, in terms of its legitimacy and truth for all times to come, the religion of Islam is a perfect religion no sensible person would elect to criticize. For this reason, this Faith of Truth, in terms of its arguments and proofs, has always been powerful. And, should Muslims follow this religion fully and faithfully, out-ward ascendancy, power and governance also turn out to be its inevitable results. As proved by the annals of the history of Islam, whenever Muslims acted whole-heartedly in accordance with the Qur'an and Sunnah, no impediment in their way could defeat their determination and their presence was felt all over the world as a dominant force. And whenever and wherever they have reached the limits of being subjugated or oppressed, it was but the evil consequence of heedlessness to and contravention of the injunctions of Qur'an and Sunnah which came before them. As for the Religion of Truth, it stood its grounds as always, august and protected.
 
 ## Personal Reflections
+
+

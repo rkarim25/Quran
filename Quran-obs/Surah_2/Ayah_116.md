@@ -62,18 +62,6 @@ word_by_word:
     transliteration: qānitūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 116, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they (Jews, Christians and pagans) say: Allah has begotten a son (children or offspring). As the Holy Qur'an reports in some other verses, some of the Jews called the Prophet Uzayr (علیہ السلام) (Ezra) the son of God, as did the Christians in the case of Sayyidna ` Isa (Jesus علیہ السلام)~ and most of them still do, while the mushrikin مشرکین of Makkah considered the angels to be the daughters of God.
@@ -231,3 +219,5 @@ He commands its Essence, which already exists in His Knowledge, "to be", and it 
 At the end, we shall again insist that no good can come out of unnecessarily meddling with such delicate questions, especially if the purpose is no more than to seek a new sensation.
 
 ## Personal Reflections
+
+

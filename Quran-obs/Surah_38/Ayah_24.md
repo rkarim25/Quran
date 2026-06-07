@@ -139,18 +139,6 @@ word_by_word:
     transliteration: wa-anāba
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And has the news of the litigants reached you? A man of stature should observe patience to the best of his ability over errors made by those in need This tells us that a person whom Allah has blessed with some high rank - and the needs of people are tied to him should do his best to remain patient over their irregular behavior and errors of expression, for this is the demand of his rank or office.
@@ -264,3 +252,5 @@ The sajdah of tilawah (recitation): Some rulings.
 4. The preferred practice, however, in any case is that the sajdah of tilawah is performed as a regular sajdah before ruku`, and then, one rises from the state of sajdah, recites one or two verses and then goes for ruku `, rather than it is performed in the obligatory ruku` of the Salah. (Bada'I ' ).
 
 ## Personal Reflections
+
+

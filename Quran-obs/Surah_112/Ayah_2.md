@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Sincerity** (Al-Ikhlas) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ikhlas is a **Makkah** surah—revealed as the 22nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 4 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The reason for the revelation of this Surah has already been mentioned. 'Ikrimah said, "When the Jews said, 'We worship 'Uzayr, the son of Allah,' and the Christians said, 'We worship the Messiah ('Isa), the son of Allah,' and the Zoroastrians said, 'We worship the sun and the moon,' and the idolators said, 'We worship idols,' Allah revealed to His Messenger ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -249,3 +241,5 @@ This is the end of the Tafsir of Surat Al-Ikhlas, and all praise and blessings a
 Verse [ 112:2] اللَّـهُ الصَّمَدُ (Allah is Besought of all, needing none) The word samad bears several literal senses. Therefore, the Qur'anic exegetical scholars have assigned different meanings to this verse. Tabarani, the leading authority on Prophetic Traditions, in his kitab-us-Sunnah, has collected all the interpretations of the Divine attribute As-samad and concluded that they are all authentic, and comprehend all the attributes of our Lord that have been assigned to Him, but originally it refers to 'the chief who has no superior and to whom the people turn for the fulfillment of their desires and needs; thus all people depend on him, but he does not depend on any one.' [ Ibn Kathir ].
 
 ## Personal Reflections
+
+

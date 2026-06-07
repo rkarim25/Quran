@@ -33,18 +33,6 @@ word_by_word:
     transliteration: mus'tamirrun
 ---
 
-## Context
-
-To understand **The Moon** (Al-Qamar) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The incident of the shaqq-al-Qamar (splitting of the moon) that has been mentioned in it, determines its period of revelation precisely. The traditionists and commentators are agreed that this incident took place at Mina in Makkah about five years before the Holy Prophet's hijrah to Madinah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Hadith of Abu Waqid preceded, in which it is mentioned that the Messenger of Allah ﷺ would recite Surah Qaf (chapter 53) and Iqtarabat As-Sa'ah (Al-Qamar, chapter 54), during (the 'Id Prayers of) Al-Adha and Al-Fitr. وَإِن يَرَ‌وْا آيَةً يُعْرِ‌ضُوا وَيَقُولُوا سِحْرٌ‌ مُّسْتَمِرٌّ‌ (And when these people see a sign, they turn away and say, "[ This is ] a transient magic....
@@ -214,3 +202,5 @@ Allah said,
 وَإِن يَرَ‌وْا آيَةً يُعْرِ‌ضُوا وَيَقُولُوا سِحْرٌ‌ مُّسْتَمِرٌّ‌ (And when these people see a sign, they turn away and say, "[ This is ] a transient magic.... 54:2). The word mustamirr, in the popular sense of the word, as used in Persian and Urdu, means something lasting or enduring. However, in the Arabic language it is sometimes used in the sense of passing away or coming to an end, being derived from marra and istamarra. Leading authorities on Tafsir, like Mujahid and Qatadah رحمۃ اللہ علیہما have applied this sense of the word in the present context. Thus the verse means that the Quraish alleged that the sign of moon-splitting they saw was an illusion and false; its effect will soon diminish and fade away. Another meaning of the word mustamirr is strong and firm. Abul-` Aliyah and Dahhak رحمۃ اللہ علیہما interpret the word in this sense, meaning that this is a very potent sorcery.
 
 ## Personal Reflections
+
+

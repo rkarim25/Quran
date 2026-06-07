@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cloaked One** (Al-Muddaththir) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this. This is similar to Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -135,3 +127,5 @@ This is the end of the Tafsir of Surat Al-Muddaththir, all praise and thanks are
 The word rahinah is used in the sense of marhunah 'will be detained'. The word is derived from rahn 'to give something valuable to a pawnbroker as a security for a debt. The valuable thing is thus merely detained by the pawnbroker. He cannot use it or take advantage of it. Likewise, every person on the Day of Judgment will be detained in lieu of his sins, except those who will be given their Book of Deeds in their right hands. In this context, 'detention' could refer to being detained in Hell. In this case, the statement would mean that every person will be held in pledge in Hell against his sins to receive punishment, except the People of the Right. The context indicates that the People of the Right are those who have repaid their debt, i.e. they have fulfilled their obligations in this world towards Allah and other human beings. In these instances there is no need for them to be detained. This interpretation seems to be plain, simple and straightforward. However, if 'detention' refers to being held at some other place before giving account or before admission into Paradise or Hell, it signifies that every person will be held to give an account of his deeds. No person will be permitted to move out unless the account is taken. In this case, the exception of the People of the Right could refer to the sinless who are not accountable, such as minors or immature children as explained by Sayyidna ` Ali. According to a Tradition, a segment of the Holy Prophet's community would be exempted from accountability. They will enter Paradise without having to account for actions. Possibly, it could be referring to this segment. According to Surah .Al-Waqi` ah, there will be three categories of people on the Plain of Gathering: [ 1] sabiqun 'the Foremost' and muqarrabun 'who have attained nearness to Allah'; [ 2] the People of the Right; and [ 3] the People of the Left. On this occasion, the muqarrabun have been merged with the People of the Right', and only the latter people have been mentioned. From this point of view, there is no express text which states that all the People of the Right will be excepted, and will not be detained for accountability. The first interpretation, that is being held in Hell, appropriately fits the context. And Allah knows best!
 
 ## Personal Reflections
+
+

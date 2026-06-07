@@ -46,18 +46,6 @@ word_by_word:
     transliteration: maṣrifan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day He will say: "Call those (so-called) partners of Mine whom you claimed." Then they will cry unto them, but they will not answer them, and We shall put Mawbiq between them (52)And the criminals shall see the Fire and apprehend that they are to fall therein. The progeny of Iblis, and his descendants and followers The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that Iblis (Shaitan) has offspring, and a host of descendants and followers.
@@ -141,3 +129,5 @@ The progeny of Iblis, and his descendants and followers
 The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that Iblis (Shaitan) has offspring, and a host of descendants and followers. Some commentators have said that 'progeny' at this place means 'accomplices.' That the Shaitan has offspring from his loins is not necessary. But, there is a Sahih Hadith which Humaidi has reported in Kitab al-Jam' bain al-Sahihain on the authority of Sayyidna Salman al-Farisi ؓ . According to his narration, the Holy Prophet ﷺ told him, "do not become like those who are the first to enter the bazaar (shopping centre), or those who are the last to leave it, for the bazaar is a place where the Shaitan has his eggs and offspring laid around." This would indicate that the progeny of Shaitan spreads out in that manner - through what is laid and hatched by him. After having presented this report, al-Qurtubi has said that the Shaitan has accomplices and armies is something established by conclusive proofs - and as for the Shaitan having offspring, a Sahih Hadith has appeared above. Allah knows best.
 
 ## Personal Reflections
+
+

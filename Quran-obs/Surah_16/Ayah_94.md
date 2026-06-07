@@ -84,18 +84,6 @@ word_by_word:
     transliteration: ʿaẓīmun
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 94, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had Allah willed, He would have made you (all) one nation, but He allows whom He wills to stray and He guides whom He wills. Verse 94 which begins with the words: وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا (do not take your oaths as a means of mischief) gives yet another instruction to stay away from getting involved in what is a great sin laden with evil consequences.
@@ -163,3 +151,5 @@ An oath sworn to deceive someone may cause forfeiture of Faith ('Iman)
 Verse 94 which begins with the words: وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا (do not take your oaths as a means of mischief) gives yet another instruction to stay away from getting involved in what is a great sin laden with evil consequences. It means that anyone who at the very time of taking an oath harbours other ideas and intentions, is all set to act counter to the oath taken while going through the exercise of oath-taking merely to deceive the other party, then, this would be an act far more dangerous than that of breaking a common oath. As a result, the danger is that this person may end up being all deprived of the very asset of'Iman (faith). The sentence which follows immediately, that is: فَتَزِلَّ قَدَمٌ بَعْدَ ثُبُوتِهَا (lest a foot should slip after it is firmly placed - 94), means exactly this. [ Qurtubi ]
 
 ## Personal Reflections
+
+

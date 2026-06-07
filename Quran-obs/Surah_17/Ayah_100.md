@@ -63,18 +63,6 @@ word_by_word:
     transliteration: qatūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 100, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "If you possessed the treasure of the mercy of my Lord, then you would surely hold back for fear of spending, and man is ever miserly! The truth of the matter about what has been said in the last verse (100) is that the treasures of the mercy of Allah are limit-less and end-less.
@@ -116,3 +104,5 @@ Commentators generally take the expression 'the treasures of the Lord's blessing
 My master and mentor, Hadrat Thanavi (رح) ، in his Bayan al-Qur'an, has interpreted 'my Lord's mercy' as the station of prophethood and messenger-ship, and 'the treasures of mercy' as the varied perfection of prophethood. Given this Tafsir, this verse will be linked with previous verses by saying: The outcome of all those absurd demands you are making against my status as a prophet and Messenger of Allah ﷺ is that you just do not want to believe in it. Do you, then, want that the function of prophethood should be entrusted in your hands, so that you can make anyone a prophet at your sweet will? If such a wish were to be granted, the consequence would be that you would never give prophethood or messenger-ship to anyone, sitting over it like misers. After having given this explanation, he has added that this Tafsir is something that comes as one of the many divine gifts. It fits the occasion. Interpreting proph-ethood in this setting with mercy would be similar to its interpretation in the verse of Surah az-Zukhruf. It was said: أَهُمْ يَقْسِمُونَ رَ‌حْمَتَ رَ‌بِّكَ (Do they distribute the mercy of your Lord? - 43:32). Here, 'rahmah' (mercy) means nothing but 'nubuwwah' (prophethood) - and there is a consensus on it. Allah knows best.
 
 ## Personal Reflections
+
+

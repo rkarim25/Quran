@@ -136,15 +136,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 141, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts. Ibn Jurayj said, "This Ayah was revealed concerning Thabit bin Qays bin Shammas, who plucked the fruits of his date palms. Then he said to himself, 'This day, every person who comes to me, I will feed him from it.' So he kept feeding (them) until the evening came and he ended up with no dates. Allah sent down,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -301,3 +293,5 @@ of slaughter, the calf came out alive, they would slaughter it as well - but, wo
 [ All these narrations appear in Ad-Durr Al-Manthur and Ruh al-Mani from Sayyidna Ibn ` Abbas, Mujahid, Ibn Zayd and As-Suddiy with exegetic deductions of Ibn al-Mundhir, Ibn Abi Hatim, Ibn Abi Ash-Shaybah and Ibn Humayd) [ As in Bayn al-Qur'an of Maulana Thanavi ]
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yūzaʿūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We gave knowledge to Dawud and Sulayman, and they both said: "All praise be to Allah, Who has preferred us above many of His believing servants! There is no heritage of wealth among the prophets وَوَرِ‌ثَ سُلَيْمَانُ دَاوُودَ (And Sulaiman inherited Dawud - 27:16).
@@ -151,3 +139,5 @@ The expression "speech of birds" is used in the verse because of the incident of
 رَ‌بِّ أَوْزِعْنِي (My Lord, enable me - 27:19). It is derived from ) وَزع (waz' ), which lexically means to stop or restrain. Here it means ` enable me with Divine help so that I should have the trait of gratitude with me all the time and do not part with it ever', which will result in restraint. In the earlier verse فَهُمْ يُوزَعُونَ (27:17) (translated as "kept under control" it was also used in the same sense, that in order to save them from confusion because of their large number the armies were restrained.
 
 ## Personal Reflections
+
+

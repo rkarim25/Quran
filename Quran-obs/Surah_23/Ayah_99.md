@@ -37,18 +37,6 @@ word_by_word:
     transliteration: ir'jiʿūni
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Until, when death comes to one of them, he says: "My Lord! رَ‌بِّ ارْ‌جِعُونِ (My Lord, send me back - 23:99) When death approaches an infidel and he senses the punishment that awaits him on the Day of Judgment, he wishes for a return to this world, so that by performing good deeds he may escape the punishment which he has richly deserved.
@@ -160,3 +148,5 @@ Barzakh and Punishment Therein
 Ibn Jarir has related a story on the authority of Ibn Juraij that the Holy Prophet ﷺ once said, "At the time of death when a good Muslim perceives the angels of mercy and all the luxuries of Paradise spread out before him, and the angels ask whether he wishes to be sent back to the world, his reply invariably is in the negative. He refuses to return to a place which is full of woes and suffering and misery, and only desires to be taken to Allah's presence. But when the same question is put to an infidel, his answer is رَ‌بِّ ارْ‌جِعُونِ i.e. he wishes to be sent back to the world."
 
 ## Personal Reflections
+
+

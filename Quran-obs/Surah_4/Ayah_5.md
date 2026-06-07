@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whoever among guardians is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable.) was revealed about the guardian of the orphan and pertains to whatever work he does for the orphan's estate. " Al-Bukhari also collected this Hadith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -249,3 +241,5 @@ He has also said:
 Whoever has any of this (wealth) in his hands should make it serve him well for these are times when, in the event of some need, one is likely to first 'spend' his faith in order to take care of that need. (i.e. the desire to fulfill one's need has become more important than the obligation to follow one's faith) (Mishkat, p.491)
 
 ## Personal Reflections
+
+

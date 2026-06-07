@@ -63,18 +63,6 @@ word_by_word:
     transliteration: yattaqūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is He Who made the sun a shining thing and the moon as a light and measured out for it stages that you might know the number of years and the reckoning. Similarly, it was said in the second verse (6) that there are signs in the coming of the night after the day and the day after the night, and in everything Allah has created in the heavens and the earth.
@@ -182,3 +170,5 @@ That they are proofs of the Oneness of Allah (Tauhid) is not difficult to see. H
 And they are proofs of the 'Akhirah (Hereafter) because Allah is a great creator. He created, in His infinite wisdom, objects of such pro-portion and efficiency for the benefit of human beings. Then, He made them follow a remarkably stable system. Now, it is not possible that He would have created human beings, who are the served ones in this universe, just for nothing, or just to eat and drink, or in some other nonchalant manner without assigning any duties to them. When it stands settled that some restrictions must apply to the served one of this universe, it also becomes necessary that those who observe or do not observe these restrictions should face an accounting of what they have done, sometime, somewhere. Naturally, those who do observe these shall be rewarded and those who do not shall be punished. Then, it is also obvious that things do not work like this in the present world of our experience. Here, reward and punishment do not follow that pattern. It is quite likely that a criminal here may be living better as compared to someone God-fearing, righteous and innocent. Therefore, it is necessary to have a day for the accounting of deeds, rewards and punishments. This is what Qiyamah (The Last Day) and 'Akhirah (Hereafter) are.
 
 ## Personal Reflections
+
+

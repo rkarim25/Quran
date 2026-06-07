@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Opener** (Al-Fatihah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fatihah is a **Makkah** surah—revealed as the 5th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Surah Al-Fatihah is one of the very earliest Revelations to the Holy Prophet. As a matter of fact, we learn from authentic traditions that it was the first complete Surah that was revealed to Muhammad (Allah's peace be upon him). Before this, only a few miscellaneous verses were revealed which form parts of Alaq, Muzzammil, Muddaththir, etc.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah says, 'My servant has praised Me.' When the servant says, This Surah comprises seven verses.
@@ -76,3 +64,5 @@ If the universe is not in vain or absurd, man too, whose purposes the universe h
 It may be said that the phrase 'the Lord of all the worlds' is in a way the proof of the claim made in the earlier phrase اَلْحَمْدُ لِلّٰهِ : (all praise belongs to Allah). When Allah alone is the ultimate cause for the nurture of the whole universe, He alone can, in reality, be worthy of praise. Thus, the first verse of the Surah, as we said before, combines in itself the praise of Allah and a subtle indication of the first and basic principle of the Islamic creed -- the oneness of God.
 
 ## Personal Reflections
+
+

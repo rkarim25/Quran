@@ -174,18 +174,6 @@ word_by_word:
     transliteration: taʿqilūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 169, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We have broken them (the Jews) up into various separate groups on the earth: some of them are righteous and some are away from that. "Then, after them came a generation, who inherited the Book, taking to the mundane stuff of this world and saying: 'We shall be forgiven.' And if there comes to them similar stuff, they would take to it (again).
@@ -319,3 +307,5 @@ The second word used here is خَلْفُ with the merged sound of the second le
 The verse implies that there were two groups of people among the early Jews, the righteous and the wrong-doers. The people coming in later generations who inherited the Torah, however, acted opposite to their elders and made the Book an object of trading or a means of their earning. They used to manipulate and distort the text of the Torah for some money offered to them for this purpose. Moreover, "they said: وَيَقُولُونَ سَيُغْفَرُ‌ لَنَا "We shall be forgiven". In spite of committing as great a sin as distorting the text of the Book of Allah, they claimed their forgiveness by Allah. They are warned of this error in the very next sentence. saying: وَإِن يَأْتِهِمْ عَرَ‌ضٌ مِّثْلُهُ يَأْخُذُوهُ 'If there comes to them similar stuff they would take to it (again)." That is to say, they are in such a state of perversion that in case they are offered money for changing another text, they shall readily accept it. The verse has implied that forgiveness of Allah is always there to those who are mindful of their error and turn to their Lord in repentance showing their remorse over what they have done, and making firm promise of not repeating the same mistake again. Being persistent in their sinful acts and claiming their forgiveness is sheer self deception. The next part of the verse puts a question to them, whether they were not made to enter a covenant with Allah that they shall never say anything but truth about Allah. Yes, they read this pledge in their Book. This is nothing but their impudence and obstinacy that stops them from realizing the truth of the Hereafter which is exclusively the fate of those who fear Allah.
 
 ## Personal Reflections
+
+

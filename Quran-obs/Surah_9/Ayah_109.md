@@ -117,18 +117,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 109, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is it then he who laid the foundation of his building on Taqwa to Allah and His good pleasure better, or he who laid the foundation of his building on the brink of an undetermined precipice ready to crumble down, so that it crumbled to pieces with him into the fire of Hell. In the third (109) and the fourth (110) verses, Masjid Dirar (the harmful mosque) made by the hypocrites has been condemned as it has to be when compared with a masjid that is blessed.
@@ -168,3 +156,5 @@ Allah does not bring aright the works of those who commit mischief. Jabir bin 'A
 In the third (109) and the fourth (110) verses, Masjid Dirar (the harmful mosque) made by the hypocrites has been condemned as it has to be when compared with a masjid that is blessed. This has been accomplished through the use of a similitude. The surface of the land on which they were laying the foundation of their ` masjid' has been likened to a landmass that has been corroded on the inside by flowing water. The topsoil looks solid and smooth. Now, if someone starts building there, it is obvious that the whole thing would collapse instantly. Similarly, the foundation of this Masjid Dirar was inherently unstable. The result was that it collapsed and went right into the fire of Jahannam. The expression ` collapsed into the fire of Jahannam' could be figurative in its sense - in that it smoothed out the way of Jahannam for its makers. Some others have taken it in the real sense - in that the masjid, when made to collapse, went into the Jahannam. Allah knows best.
 
 ## Personal Reflections
+
+

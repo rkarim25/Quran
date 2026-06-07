@@ -28,18 +28,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "The Most Gracious has begotten children." Glory to Him! لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِ‌هِ يَعْمَلُونَ (They do not precede Him in speech and only under His command they act.
@@ -101,3 +89,5 @@ Here Allah refutes those who claim that He has offspring among the angels – ex
 لَا يَسْبِقُونَهُ بِالْقَوْلِ وَهُم بِأَمْرِ‌هِ يَعْمَلُونَ (They do not precede Him in speech and only under His command they act. 21:27) This verse refutes the claim of pagans of Makkah that angels were daughters of Allah. How can angels be Allah's children when they stand in such awe in His presence that they neither initiate any talk nor act against His commands. They simply await His words and act accordingly. This also points towards an important etiquette of behaving in the company of elders. That is, when a matter is brought forth in front of a group of people, the people before speaking themselves first, should wait until the elder among such a group has spoken. Speaking prior to the elder is contrary to the manners governing respect of elders.
 
 ## Personal Reflections
+
+

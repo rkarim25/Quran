@@ -111,17 +111,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 164, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr. Some people said that the Messenger of Allah ﷺ might have taken it. When this rumor circulated, Allah sent down,
 
 (Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -386,3 +378,5 @@ What is new in the present verse is the statement: 'And Allah has surely conferr
 (2) In order to explain the primary statement in the verse which declares that the Holy Prophet ﷺ is the greatest possible blessing and favour for the believers or for the whole humanity, it can be said that the statement hardly needed any explanation. only if modern man was not all that blind to the spiritual side of life and, at the same time, was sacrificing every good thing for the sake of naked material gains. Had this not been so, every reasonable person would have found out the reality of this great blessing all by himself without anybody having to tell him about it. But, the problem is that modern man has turned out to be no more than the smartest animal among the animals of the world. Tell him about 'favour' and 'blessing' and he would immediately start seeing what fills his stomach and whets his desires. He has practically stopped thinking about the basic reality of his being which is رُوح ruh, his spirit. That something good should happen to it and that something can go wrong with it are concerns he pays no heed to, not in the least. Therefore, there is the need to explain that man is not simply a being of bones and flesh. That is certainly not his reality. The reality of man is his رُوح ruh, the spirit which is contained within him. So far as this رُوح ruh is there in his body, man is what man is. His claims to humanity stand proved. He may be weak or he may be dying, nobody can dare usurp his property or take his rights away from him. But, once this رُوح ruh leaves his body, he ceases to be man, no matter how strong and well-built he may be with all parts of his body in their ideal form and shape. His ceasing to be what he was means that he now has no personal right in his own property and possessions. Prophets (علیہم السلام) come into the world to nurture the human spirit correctly, to make human beings out of men so that actions which issue forth from their bodies turn out to be beneficial to humanity and that they do not go about the world hurting other human beings like beasts and snakes. Instead of that, they should also think about their end and start working for the everlasting life of the Hereafter. Our blessed Prophet ﷺ who leads the way among the great company of prophets has a unique majesty when it comes to the mission of making men real human beings. This was exactly what he did during his Makkan life. The men he turned out formed a society of human beings which stands way ahead of even the angels. Never had the earth, nor the heavens, seen such men, each one of them, a living miracle of the Messenger of Allah, may the blessings of Allah be upon him. What happens after them? The answer is that he left behind his own footprints, and theirs, as well as teachings and the methods to institute and promote, which can be followed and acted upon. Those who do so sincerely and honestly can still reach the stations that were reached by the noble Companions. These teachings are there for the entire humanity to benefit from. Therefore, his having graced this world and his being born generous is a great favour shown to the universal kingdom of human beings, though true Muslims are the ones who have reaped the fullest benefit from these blessings
 
 ## Personal Reflections
+
+

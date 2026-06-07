@@ -105,18 +105,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (O disbelievers) if you ask for a judgement, now has the judgement come unto you; and if you cease (to do wrong), it will be better for you, and if you return (to the attack), so shall We return, and your forces will be… It is interesting that these dimwitted people were under the impression that they were the ones higher and superior and better-guided as compared to Muslims, therefore, they surmised that the prayer they were making was in their own favour.
@@ -180,3 +168,5 @@ It is interesting that these dimwitted people were under the impression that the
 But, they did not know that the prayer they were making was really a curse for their own selves, and that it was a supplication for the good of Muslims. After the end of the battle came, the Qur'an told them: إِن تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ (If you pray for victory, "victory" has come upon you) that is, 'if you are looking for a Divine verdict, that is before you - truth has triumphed and falsehood has been defeated. Then: وَإِن تَنتَهُوا فَهُوَ خَيْرٌ‌ لَّكُمْ (if you give up it is better for you) that is, 'now is the time when, if you abandon your disbelief and hostility, it will turn out to be better for you.' And, if you still decide to revert back to your wickedness and the threat of armed aggression, then, Allah too will revert back and support Muslims: وَإِن تَعُودُوا نَعُدْ (And if you repeat, We shall repeat). In that case, the consequence would be: وَلَن تُغْنِيَ عَنكُمْ فِئَتُكُمْ شَيْئًا وَلَوْ كَثُرَ‌تْ (And your people shall not suffice you at all, even though they are many in number) that is, 'your numerical superiority and group strength shall be of no avail against the help and, support given by Allah.' As for the help and support of Allah: ti; (Allah is with the believers) that is, 'how can any group or power work for you when Allah Ta` ala, the very possessor of absolute power, is with the Muslims?'
 
 ## Personal Reflections
+
+

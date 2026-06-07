@@ -80,18 +80,6 @@ word_by_word:
     transliteration: takfurūna
 ---
 
-## Context
-
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is determined by an historical event that has been mentioned in vv. 29-32 . This incident of the visit of the jinn and their going back after listening to the Qur'an had occurred, according to agreed traditions of the Hadith and biographical literature, at the time when the Holy Prophet had halted at Makkah during his return journey from Ta'if to Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do they not see that Allah, Who created the heavens and the earth, and was not wearied by their creation, is Able to give life to the dead Yes, He surely is Able to do all things (33)And on the Day when those who disbelieve will be exposed to the Fire (it will be said to them): "Is this not the truth?" They will say: "Yes, by our Lord!" He will say: "Then taste the torment, because you used to disbelieve! یغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ (will forgive your sins for you,) The word 'min' used in the text gives the sense of 'some'.
@@ -177,3 +165,5 @@ This concludes the explanation of Surat Al-Ahqaf. And all praise and blessings a
 یغْفِرْ‌ لَكُم مِّن ذُنُوبِكُمْ (will forgive your sins for you,) The word 'min' used in the text gives the sense of 'some'. If it is taken in this sense here, it would mean that 'some sins' will be forgiven by embracing Islam. It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people. But some exegetes have taken 'min' in this verse as an extra word that has no additional meaning in Arabic idioms. Given this interpretation, no explanation is required.
 
 ## Personal Reflections
+
+

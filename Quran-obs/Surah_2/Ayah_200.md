@@ -107,17 +107,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 200, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Sa'id bin Jubayr said that Ibn 'Abbas said, "During the time of Jahiliyyah, people used to stand during the (Hajj) season, and one of them would say, 'My father used to feed (the poor), help others (end their disputes, with his money), pay the Diyah (i.e., blood money),' and so forth. The only Dhikr that they had was that they would remember the deeds of their fathers. Allah then revealed to Muhammad ﷺ:
 
 Sa'id bin Jubayr said that Ibn 'Abbas said, "Some bedouins used to come to the standing area ('Arafat) and supplicate saying, 'O Allah! Make it a rainy year, a fertile year and a year of good child bearing.' They would not mention any of the affairs of the Hereafter. Thus, Allah revealed about them:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -236,3 +228,5 @@ Moderation in religious and worldly pursuits
 Besides what the people of Jahiliyyah used to do during their stay at Mina, some of them had another habit during the Hajj. Normally, they would be engaged in acts of devotion to Allah, yet when it came to making a prayer, they would focus all their attention to praying for worldly needs, such as, comfort, wealth, honour and their likes, showing no concern for the life to come. It was to correct this sort of approach in supplication that it was said that there are people who would use the great occasion of Hajj to pray for the insignificant gains of the present life and forget the Hereafter. For such people the Hereafter holds nothing because their conduct shows that they have gone through the obligation of Hajj merely in a formal manner, or have done it to earn prestige in their society. To please Allah and to earn salvation in the Hereafter are objectives alien to them.
 
 ## Personal Reflections
+
+

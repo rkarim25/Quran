@@ -77,15 +77,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then He rose over (Istawa) the Throne. The Most Gracious! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example. It is known that there is no one who knows more about Allah than His servant and Messenger Muhammad , the absolute leader of the sons of Adam in this world and the Hereafter, who does not speak of his own desire, but conveys revelation revealed to him. What he says is true, and he is the leader whose decision counts; when there is a dispute, people are obliged to refer to him, and whatever is in accordance with his words and deeds is right, and whatever goes against them should be rejected no matter who says or does it. Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -232,3 +224,5 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 فَاسْأَلْ بِهِ خَبِيرً‌ا (So ask about Him someone who knows - 25:59). In this verse it is described that the creation of the earth and the skies, and then to place Himself on ` Arsh in consonance to His exalted position are all acts of Allah Ta’ ala. If someone wants its confirmation, he should find out from those who know the truth. Here the allusion for knowledge is toward Allah Ta’ ala or Jibra'il (علیہ السلام) . It is also possible that the reference is toward the scholars of the previous Books wherein the truth was also mentioned. (Mazhari)
 
 ## Personal Reflections
+
+

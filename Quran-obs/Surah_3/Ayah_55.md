@@ -132,15 +132,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (This is what We recite to you of the verses and the Wise Reminder.) meaning, "What We narrated to you, O Muhammd, regarding 'Isa, his birth and his life, is what Allah conveyed and revealed to you, sent down from the Al-Lawh Al-Mahfuz (The Preserved Tablet). So there is no doubt in it. Similarly, Allah said in Surah Maryam;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -359,3 +351,5 @@ Thirdly, since the event of the coming of Sayyidna ` Isa (علیہ السلام)
 In short, here and at other places, the very fact of such detailed description concerning Sayyidna ` Isa (علیہ السلام) is in itself indicating that his reappearance is due close to the Day of Judgment and that he would return to the world. This humble writer has taken up this subject in full details in his Urdu treatise entitled مسیح موعود کی پہچان Masih Maw` ud ki pahchan (Identifying the Promised Messiah) which may be consulted for these details.
 
 ## Personal Reflections
+
+

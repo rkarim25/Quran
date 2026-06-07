@@ -16,18 +16,6 @@ word_by_word:
     transliteration: hawā
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, but is a name given to the Surah as a symbol. Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of the Quraish (and according to Ibn Marduyah, in the Ka'bah) in which both the believers…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The First Surah in which a Prostration is revealed Al-Bukhari recorded that 'Abdullah [bin Mas'ud] said, "Surat An-Najm was the first Surah in which a prostration was revealed. Characteristics of Surah An-Najm Surah An-Najm is the first chapter that the Holy Prophet ﷺ proclaimed in Makkah (` Abdullah Ibn Masud ؓ has transmitted it - as in Qurtubi) and this is the first Surah in which a verse of sajdah (prostration) is revealed.
@@ -101,3 +89,5 @@ Allah Swears that the Messenger is True
 The verb hawa means to fall or plunge. When stars fall, they set. In this verse Allah swears an oath to show that the Messenger ﷺ is true, and his words are a revelation from Allah, in which there is no room for any doubt. In Surah As-Saffat it has been explained in detail that the Creator, for various wise reasons, swears by whatever He wills among His creation, but His created beings only swear by the Creator. They are not allowed to swear by anything else. Here Allah has sworn an oath by the stars. Probably, the underlying wisdom in this is that as the Arabs are used to determine the course and direction of, and are guided in their travels by the movements of the stars in the sandy waste of Arabia, so they would now be led to the goal and end of their spiritual journey by the star par excellence, that is, by the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

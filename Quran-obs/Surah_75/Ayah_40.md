@@ -32,18 +32,6 @@ word_by_word:
     transliteration: l-mawtā
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? اَلَيْسَ ذٰلِكَ بِقٰدِرٍ عَلٰٓي اَنْ يُّـحْيِۦ الْمَوْتٰى (Has He no power to give life to the dead?...(75:40).
@@ -201,3 +189,5 @@ that He has the power to do it"'. The same Hadith narrative states that
 when a person recites Surah Tin and reaches the verse اَلَيْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِيْنَ 'Is Allah not the Greatest Ruler of all the rulers? [ 95:8] ', he should utter the same words. The same Hadith states that when a person recites Surah Al-Mursalat and reaches the verse U ;'Now, in which discourse, after this, will they believe? [ 77:50] ', he should say فَبِاَيِّ حَدِيْثٍۢ بَعْدَهٗ يُؤْمِنُوْنَ 'I believe in Allah'
 
 ## Personal Reflections
+
+

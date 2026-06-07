@@ -27,15 +27,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Dawn** (Al-Fajr) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -138,3 +130,5 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 رَاضِيَةً مَّرْضِيَّةً (...well-pleased, well-pleasing....89:28). [ The true believer's ] soul is well-pleased with decrees destined by Allah and His legislative commands, and Allah too is well-pleased with His slave. The slave's being pleased with Allah's decrees and injunctions is a sign that Allah is pleased.
 
 ## Personal Reflections
+
+

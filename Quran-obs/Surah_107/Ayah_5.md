@@ -24,18 +24,6 @@ word_by_word:
     transliteration: sāhūna
 ---
 
-## Context
-
-To understand **The Small kindnesses** (Al-Ma'un) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'un is a **Makkah** surah—revealed as the 17th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Ibn Marduyah has cited Ibn Abbas (may Allah bless them both) as saying that this Surah is Makki, and the same is also the view of Ata and Jabir but Abu Hayyan in Al-Bahr al-Muhit has cited Ibn Abbas, Qatadah and Dahhak as saying that this Surah was revealed in Madinah. In our opinion there is an internal piece of evidence in the Surah itself which points to it being a Madani Revelation. It holds out a threat of destruction to those praying ones who are unmindful of their Prayers and who pray only to be seen.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The love of the world causes nations to lose faith and consign Allah to oblivion This Surah denounces some of the evil actions of the pagans and the hypocrites, and it holds out a threat of destruction to those who commit them.
@@ -151,3 +139,5 @@ Surah Al-Ma’ un
 Ends here
 
 ## Personal Reflections
+
+

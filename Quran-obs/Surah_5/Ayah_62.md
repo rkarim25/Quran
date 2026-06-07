@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "O People of the Scripture! In the first verse (62) cited above, mentioned there is the moral depravation and self-destructive attitude of many Jews so that people who know that may take a lesson and stay away from such deeds, as well as from causes that lead to them.
@@ -227,3 +215,5 @@ According to Ruh al-Ma'ani, by using the expression ` racing towards sin' about 
 This tells us that a good or bad deed when done many times repeatedly becomes a part and parcel of the inmost being of a person, almost a skill or drive or a fixed habit, after which, there remains no exertion or hesitation in doing what one does. This was the limit reached by Jews in pursuing their evil traits. To highlight it, it was said: يُسَارِ‌عُونَ فِي الْإِثْمِ (They race towards sin). The same thing applies to prophets and men of Allah in the case of their good traits. About them too, the Holy Qur'an has used the same expression when it says: يُسَارِ‌عُونَ فِي الخیراتِ (They race towards good deeds - 3:114).
 
 ## Personal Reflections
+
+

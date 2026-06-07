@@ -118,18 +118,6 @@ word_by_word:
     transliteration: l-ʿaẓīmu
 ---
 
-## Context
-
-To understand **The Mutual Disillusion** (At-Taghabun) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Taghabun is a **Madinah** surah—revealed as the 108th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name The Surah takes its name from the sentence Dhalika yaum-ut taghabun of verse 9, thereby implying that it is the Surah in which the word at taghabun has occurred.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The disbelievers pretend that they will never be resurrected. يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ([ Be mindful of ] the day when He will gather you for the Day of Gathering.
@@ -217,3 +205,5 @@ Sayyidna Ibn ‘Abbas ؓ and other leading authorities on Tafsir have given the 
 Qurtubi writes that on that Day every believer will feel a sense of loss on account of shortcomings in the fulfillment of his duties and obligations in life. Naming the Judgment Day as the ‘Day of Loss and Gain’ is like its being named as ‘The Day of (Bitter) Regret’ in Surah Maryam, thus وَأَنذِرْ‌هُمْ يَوْمَ الْحَسْرَ‌ةِ إِذْ قُضِيَ الْأَمْرُ‌ ‘And warn them of the Day of (Bitter) Regret when the affair will be resolved…19:39). Ruh-ul-Ma’ ani interprets this verse as implying that on that day the unjust and unrighteous people will bitterly regret their shortcomings, and the righteous believers will regret their shortcomings in the performance of their righteous deeds. In this way, everyone on the Day of Judgment will regret and have a feeling of loss as his shortcomings. Therefore, this day is named as the ‘Day of Loss and Gain’.
 
 ## Personal Reflections
+
+

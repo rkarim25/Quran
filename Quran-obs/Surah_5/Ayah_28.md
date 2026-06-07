@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In addition to what has been said above, through this very word, the addressees of the Holy Qur'an are also being chastened and guided to the fact that their noble prophet, on him be the peace and blessing of Allah, who is a total Ummiyy (untaught by any human being), yet he is describing the events which took place thousands of years ago, absolutely true and correct. When so, how else could it be explained but that it was divinely revealed to a Divinely ordained prophet?
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -289,3 +281,5 @@ Sayyidna ` Umar ibn ` Abd al-` Aziz, may Allah be pleased with him, gave the fol
 And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not small. And how a deed which has been accepted can be called small? (Ibn Kathir)
 
 ## Personal Reflections
+
+

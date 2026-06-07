@@ -163,15 +163,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whoever among guardians is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable.) was revealed about the guardian of the orphan and pertains to whatever work he does for the orphan's estate. " Al-Bukhari also collected this Hadith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -324,3 +316,5 @@ Payment for services rendered to country, community and Awqaf
 The contextual extension of the verse yields an important juristic rule and principle. It concerns people who supervise Awqaf (religious endowments, trusts and estates) or manage mosques and religious schools or head institutions of Muslim states or hold charge of similar other services rendered for the country and community, services the rendering of which is known in Islamic terminology as فرض علی الکفایہ fard 'alal 'kifayah (an obligation which, if discharged by some, will absolve others). For these gentlemen too, the superior and more meritorious conduct is - of course, if they have sufficient assets to take care of the necessary expenses needed to maintain their family - that they should not take anything from these institutions or from the public exchequer of the government. But, should it be that they do not have funds of their own to sustain themselves and they devote their earning time to such service-oriented activities, then, they have the right to take such funds from these institutions in proportion to their need. Please do notice the condition which is: 'in proportion to need'. A lot of people fix an insignificant monthly emolument shown on paper to satisfy legal requirements but they go on spending by various other means on their person and on their family recklessly, much much beyond it. There is just no remedy for this lack of caution except the fear of Allah. The last words of the verse: وَكَفَىٰ بِاللَّـهِ حَسِيبًا and Allah is sufficient for reckoning) invite everyone, masses or classes, to realize that the man who stays untouched by unlawful acquisitions will be the man who fears the final accounting by Allah. وباللہ التوفیق :And the ability to do so comes from Allah.
 
 ## Personal Reflections
+
+

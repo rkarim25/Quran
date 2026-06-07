@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clot** (Al-'Alaq) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Alaq is a **Makkah** surah—revealed as the 1st surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah. Thus, Allah firstly admonished him with that which was better by saying,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -127,3 +119,5 @@ Then Allah says,
 Verses [ 9-10] أَرَ‌أَيْتَ الَّذِي يَنْهَىٰ عَبْدًا إِذَا صَلَّىٰ أَرَ‌أَيْتَ الَّذِي يَنْهَىٰ (Have you seen him who forbids a slave of Allah when he prays?) From here to the end of the Surah, the verses allude to an incident. When the Holy Prophet was enjoined to perform the salah, he started performing it at first privately, later in public in the Sacred Mosque. Abu Jahl stopped him from performing salah and threatened him that if he were to perform salah and prostrate, he would [ God forbid!] trample his neck. Verse [ 14] أَلَمْ يَعْلَم بِأَنَّ اللَّـهَ يَرَ‌ىٰ (Does he not know that Allah is watching?) is in response to the threat made by Abu Jahl, and the verse does not mention whom He is watching. It is of general application - He is watching the pious personality who is performing the salah, as well as the wretched, miserable person who is obstructing the performance of the salah. Here the statement merely asserts that Allah is watching everything and everyone. It does not specify what will happen at Resurrection, because the horrible, terrible and dreadful scenes of that are unimaginable.
 
 ## Personal Reflections
+
+

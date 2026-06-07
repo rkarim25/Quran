@@ -118,17 +118,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 "Yalbisakum means, 'cover you with confusion', So it means to, 'divide into parties and sects'. Jabir bin 'Abdullah said, 'When this Ayah was revealed,
 
 So, the verse could be translated in the sense that one kind of ` Adhab' (punishment) is that a nation or community breaks up into factions and parties and starts confronting each other. Therefore, when this verse was revealed, the Holy Prophet ﷺ addressed Muslims and told them:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -367,3 +359,5 @@ In short, not every difference is absolutely blameworthy, nor every agreement ab
 This tells us that the problem does not lie in difference of opinion, nor does it lie in acting according to a particular opinion, instead, all problems show up when others are suspected and slandered - which is an outcome of lack of knowledge and honesty and plenty of self-serving desires and fancies. When a nation or country stoops to that level, this merciful difference is changed into punishing difference. Of all the people, Muslims themselves split into parties, fight among themselves, even do the impossible by killing each other. Hurling insults on others is taken to be a defence of religious position, although, religion has nothing to do with such excess and aggression. In fact, this is the confrontation and fighting which has been sternly prohibited by the Holy Prophet ﷺ . In authentic Ahadith, it has been cited as the cause of peoples and nations going astray. (Tirmidhi, Ibn Majah)
 
 ## Personal Reflections
+
+

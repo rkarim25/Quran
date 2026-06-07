@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes. It was reported that the reason behind revealing this Ayah was that a man from the Ansar and a Jew had a dispute, and the Jew said, "Let us refer to Muhammad to judge between us." However, the Muslim man said, "Let us refer to Ka'b bin Al-Ashraf (a Jew) to judge between us." It was also reported that the Ayah was revealed about some hypocrites who pretended to be Muslims, yet they sought to refer to the judgment of Jahiliyyah. Other reasons were also reported behind the revelation of the Ayah. However, the Ayah has a general meaning, as it chastises all those who refrain from referring to the Qur'an and Sunnah for judgment and prefer the judgment of whatever they chose of falsehood, which befits the description of Taghut here. This is why Allah said,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -165,3 +157,5 @@ The fourth verse (63) comes up with the answer. It says that Allah is all-aware 
 After that, towards the end of this verse (63), the Holy Prophet 4 has been asked to give good counsel to the rest of the hypocrites as well, in a way that may touch their hearts, that is, tell them to fear what lies beyond the present life and invite them to follow the path of Islam sincerely, or remind them of their likely worldly punishment in the event they stuck to their hypocrisy which might be exposed some day, some time, and they might as well meet the same fate as did Bishr, the hypocrite.
 
 ## Personal Reflections
+
+

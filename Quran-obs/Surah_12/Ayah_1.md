@@ -26,17 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **Joseph** (Yusuf) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Verily, We have sent it down as an Arabic Qur'an in order that you may understand.) The Arabic language is the most eloquent, plain, deep and expressive of the meanings that might arise in one's mind. Therefore, the most honorable Book, was revealed in the most honorable language, to the most honorable Prophet and Messenger ﷺ, delivered by the most honorable angel, in the most honorable land on earth, and its revelation started during the most honorable month of the year, Ramadan. Therefore, the Qur'an is perfect in every respect. So Allah said,
 
 On the reason behind revealing Ayah (12:3), Ibn Jarir At-Tabari recorded that 'Abdullah bin 'Abbas said, "They said, 'O, Allah's Messenger! Why not narrate to us stories?' Later on, this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -105,3 +97,5 @@ In the first of the set of verses cited above, the words: الٓرٰ ` Alif Lam 
 After that it was said: تِلکَ آیٰتُ الکِتٰبِ المُبِین (These are the verses of the en-lightening Book). That is, these are verses of the Book which delineate the delimitations and restrictions of what is lawful and unlawful, including those of other things in all departments of human life, and thus gives people a simple, straight and moderate system of living, as promised in the Torah, and as already known to the Jews.
 
 ## Personal Reflections
+
+

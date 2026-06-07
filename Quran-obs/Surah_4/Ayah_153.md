@@ -161,18 +161,6 @@ word_by_word:
     transliteration: mubīnan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 153, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The People of the Scripture (Jews) ask you to cause a book to descend upon them from heaven. Some previous verses censured Jews for their mistrustfulness in matters of faith.
@@ -242,3 +230,5 @@ Commentary
 Some Jewish chiefs came to the Holy Prophet ﷺ and demanded that he bring down a book from the heaven similar to that which came to Musa (علیہ السلام) ، all written from there: If so, they would believe him. They had made this demand not because they wished to believe with all their heart on this condition. It was just a device to drag and stall. In fact, because of their chronic urge to take an opposite stand, they were given to offering one or the other excuse all the time. By revealing this verse, Almighty Allah made the Holy Prophet ﷺ become aware of the real state of affairs. This was to give him comfort and peace of mind against the doings of a people who are used to harassing the prophets of Allah. They would go to unbelievable limits of audacity by going as far as committing outrage against Almighty Allah. Their forefathers had gone even beyond them by demanding something more grave: "Make us see Allah openly." Upon this audacity of theirs, came' a thunderbolt from the heaven and destroyed them. Then, it was despite being fully cognizant of clear signs and proofs of Allah being One and free of any partners in His Divinity, they stooped lowest of the low by taking a calf as their object of worship bypassing their own genuine Creator. But, Allah still remained forbearing; otherwise the occasion demanded that they be eliminated. Then, Allah gave His prophet, Sayyidna Musa, peace be upon him, authority and power. Then, there came an occasion when these people had flatly refused to acknowledge the canonical law of the Torah whereupon Allah raised the Mount of Tur high suspending over them, thus threatening and forcing them to acknowledge the Law of Torah or otherwise they were to be mashed under the mountain. Allah had also told them to enter the gate of the city of Eliah humbly filled with fervour to obey Him. Allah had also asked them to catch fish on the day of Sabbath which was a command from Him and which was not to be transgressed. And Allah had taken a solemn pledge from them, but it so turned out that they contravened every single command one after the other breaking the solemn pledge with Allah. So, Allah too put disgrace on them in the mortal life of the world and they will have to undergo the worst punishment in the Hereafter as well.
 
 ## Personal Reflections
+
+

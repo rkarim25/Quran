@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (There is certainly among you he who would linger behind.) Mujahid and others said that this Ayah was revealed about the hypocrites. Muqatil bin Hayyan said that,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -153,3 +145,5 @@ No doubt, this instruction has been given to Muslims for the particular occasion
 The best companions are four and the best military company is that of four hundred and the best army is that of four thousand.' (From Mishkat as reported by Al-Tabarani)
 
 ## Personal Reflections
+
+

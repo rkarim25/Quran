@@ -37,18 +37,6 @@ word_by_word:
     transliteration: ḥayyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-66-98 ), a strong criticism has been made of the evil ways of the disbelievers of Makkah, while the Believers have been given the good news that they would come out successful and become the beloved of the people, in spite of the worst efforts of the enemies of the Truth.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And man says: "When I am dead, shall I then be raised up alive? وَاصْطَبِرْ‌ لِعِبَادَتِهِ ("and-persevere in His worship." - 19:65) The word اِصطِبَار ' means perseverance in the face of acute distress and hardship.
@@ -142,3 +130,5 @@ Commentary
 Many commentators, among them Mujahid, Ibn Zubair, Qatadah, and Ibn ` Abbas ؓ ، are of the view that in the present context the word means "a like" or "comparable" and the sense of the verse is that in the entire pantheon of false gods none is equal or comparable to Allah Ta` ala in so far as divine attributes are concerned.
 
 ## Personal Reflections
+
+

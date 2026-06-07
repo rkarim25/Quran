@@ -150,15 +150,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This was revealed about the Aws and Khazraj. During the time of Jahiliyyah, the Aws and Khazraj were at war and had great hatred, enmity and ill feelings towards each other, causing long conflicts and battles to occur between them. When Allah brought Islam, those among them who embraced it became brothers who loved each other by Allah's grace, having good ties for Allah's sake and helping each other in righteousness and piety. Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -395,3 +387,5 @@ It also follows from here that for Muslims, if they desire to have a stable orga
 This is how Allah makes His signs clear to you, so that you may take the right path. (103)
 
 ## Personal Reflections
+
+

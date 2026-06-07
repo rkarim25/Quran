@@ -42,18 +42,6 @@ word_by_word:
     transliteration: lakhāsirūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He (Ya'qub) said: "Truly, it saddens me that you should take him away. After hearing what Sayyidna Ya` qub (علیہ السلام) said, those brothers countered it by saying that his apprehension was strange in view of the presence of a strong group of the ten of them to protect Yusuf.
@@ -95,3 +83,5 @@ Thus, when Allah Ta` ala put mercy in the heart of Yahuda and the ability to do 
 The brothers told Yahuda: We know what you mean. You wish to rise higher than us in the sight of our father. So, you better listen to us. If you do anything to resist our intention, we shall kill you too. When Yahuda realized that he alone could do nothing against his nine brothers, he told them: Well, if you have decided to get rid of this child, then, listen to me carefully. There is an old well nearby with a lot of wild growth in it and now a home for many lethal crawlers. Put him in that well. If a snake or scorpion bites and kills him there, you shall have what you are looking for. Thus, you shall remain free of the blame of shedding his blood by your own hands. And, in case, he still remains alive, then, may be there comes a caravan this way, lowers its bucket to draw water from it and finds him instead. It is likely that they would take him away with them to some other country in which case too you would have achieved your objective.
 
 ## Personal Reflections
+
+

@@ -233,15 +233,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 246, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 As that boy grew, Allah raised him to be a righteous person. When he reached the age of prophethood, Allah revealed to him and commanded him to call (his people) to Him and to His Tawhid (Oneness). Shamwil called the Children of Israel (to Allah) and they asked him to appoint a king over them so that they could fight their enemies under his command. The kingship had also ended among them. Their Prophet said to them, "What if Allah appoints a king over you, would you fulfill your vow to fight under his command?"
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -278,3 +270,5 @@ Verse 248: The story of Talut and Jalut
 The Bani Isra'il used to have the legacy of a wooden chest (also identified as the Ark of the Covenant). Moses and other prophets of Bani Isra'il would keep this chest in the frontline of the battlefield. Its barakah بَرَکَہ (blessing, benediction) used to give them victory. When )Jalut: Goliath) overcame Bani Isra'il, he took this chest away with him. When Allah Almighty willed the return of the chest, it so happened that the infidels were struck by some epidemic or calamity at places where they carried this chest. Five cities were turned desolate. Nonplussed, they loaded it on two bullocks and drove them off. Then, the angels took control of the bullocks and made it reach Talut's doorsteps. (Talut is the Qur'anic name of the king known in the Bible as Saul) When the Bani Isra'il saw this sign, they believed in the kingdom of Talut, who then mounted an attack on Jalut while the weather was very hot.
 
 ## Personal Reflections
+
+

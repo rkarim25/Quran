@@ -325,17 +325,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (nor any restriction on the lame,) 'Abdur-Razzaq recorded that Mujahid said: "A man would take a blind, lame or sick person to the house of his brother or sister or aunt, and those disabled people would feel ashamed of that and say, 'they are taking us to other people's houses.' So this Ayah was revealed granting permission for that."
 
 In the previous verses it was enjoined to seek permission before entering into anyone's house. In the above verse those injunctions and etiquettes are pronounced which are obligatory or preferable to follow after the permission to enter the house is granted. Before understanding the injunction contained in this verse and its purport it would be advisable to know the background in which this verse was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -464,3 +456,5 @@ It has also now become clear that this injunction is not restricted only to the 
 The etiquette demands that as one enters the house with permission, he should greet all the Muslims present there with سلام salam. This is the purport of the words "greet your own selves", (verse 61). It is because all Muslims are a single united group. In many Sahih Ahadis great emphasis is laid on Muslims for greeting each other as an act of virtue.
 
 ## Personal Reflections
+
+

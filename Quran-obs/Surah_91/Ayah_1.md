@@ -12,18 +12,6 @@ word_by_word:
     transliteration: waḍuḥāhā
 ---
 
-## Context
-
-To understand **The Sun** (Ash-Shams) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shams is a **Makkah** surah—revealed as the 26th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 15 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The subject matter and the style show that this Surah too was revealed in the earliest period at Makkah at a stage when opposition to the Holy Prophet (upon whom be Allah's peace) had grown very strong and intense. Theme and Subject Matter Its theme is to distinguish the good from the evil and to warn the people, who were refusing to understand this distinction and insisting on following the evil way, of the evil end. In view of the subject matter, this Surah consists of two parts. The first part consists of vv. 1-10 , and the second of vv. 11-15 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. Allah swears by the objects and phenomena mentioned in verses [ 1-7], which gives these creations an added significance and draws man's attention to them.
@@ -217,3 +205,5 @@ Allah swears by the objects and phenomena mentioned in verses [ 1-7], which give
 وَالشَّمْسِ وَضُحَاهَا (I swear by the sun and his broad light,...91:1). The phrase and his broad light' is, though conjoined to 'by the sun' by means of the conjunctive particle 'and', the context indicates that 'broad light' is in adjectival position qualifying shams 'the sun', that is to say, 'I swear by the sun when it is in the time of forenoon. The word duha is that part of the day when the sun rises [ early in the morning ] and goes up slightly higher [ on the sky ], and its light spreads on the earth. Man observes it to be near to himself and observes it fully on account of lack of heat.
 
 ## Personal Reflections
+
+

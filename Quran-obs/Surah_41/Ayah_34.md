@@ -77,15 +77,7 @@ word_by_word:
 
 ## Context
 
-To understand **Explained in Detail** (Fussilat) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The correct view is that the Ayah is general in meaning, and includes the Mu'adhdhin and others. When this Ayah was revealed, the Adhan had not been prescribed at all. The Ayah was revealed in Makkah, and the Adhan was prescribed in Al-Madinah after the Hijrah, when it was shown to 'Abdullah bin 'Abd Rabbihi Al-Ansari in a dream. He told the Messenger of Allah ﷺ about it, and he told him to teach it to Bilal, may Allah be pleased with him, who had a more beautiful voice, as we have discussed elsewhere. So the correct view is that the Ayah is general in meaning, as 'Abdur-Razzaq said, narrating from Ma'mar, from Al-Hasan Al-Basri, who recited this Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -166,3 +158,5 @@ Wisdom in Da'wah etc.
 Some narrations have it that someone either abused or reviled Sayyidna Abu Bakr ؓ who said to him, ` If what you are saying is true that I am at fault and am bad, then I pray Allah Ta’ ala to forgive me, and if you have told a lie then may Allah Forgive you. (Qurtubi)
 
 ## Personal Reflections
+
+

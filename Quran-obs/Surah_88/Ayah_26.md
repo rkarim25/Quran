@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ḥisābahum
 ---
 
-## Context
-
-To understand **The Overwhelming** (Al-Ghashiyah) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ghashiyah is a **Makkah** surah—revealed as the 68th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 26 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The whole
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do they not look at the camels, how they are created (17)And at the heaven, how it is raised (18)And at the mountains, how they are rooted (19)And at the earth, how it is outspread (20)So remind them – you are only one w… أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ (So, do they not look at the camels how they are created...88:17) The Qur'an first described the conditions of the Hereafter; and it then went on to depict the reward of the believers and the retribution of the unbelievers.
@@ -167,3 +155,5 @@ Surah Al-Ghashiyah
 Ends here
 
 ## Personal Reflections
+
+

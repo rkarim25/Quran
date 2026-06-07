@@ -71,18 +71,6 @@ word_by_word:
     transliteration: nadhīran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "Why does this Messenger eat food, and walk about in the markets. From this point onward the objections raised by infidels and polytheists against the Holy Qur'an and the prophethood of the Holy Prophet ﷺ are related together with the answers to those objections.
@@ -202,3 +190,5 @@ The essence of this answer is that the Qur'an itself is an evidence to the fact 
 This is a clear proof of the fact that it is not a work of a human being. Otherwise other people could also have composed passages similar to Qur'an. Therefore, it is definitely the revelation from Allah Ta ala. Apart from the beauty of expression and language, the Book also excels in its meanings. The multifarious subjects it covers can only be dealt by One who knows everything whether hidden or exposed. This subject has been dealt with in detail in the first volume of Ma’ ariful Qur'an.
 
 ## Personal Reflections
+
+

@@ -144,17 +144,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 113, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Addressing the Holy Prophet ﷺ in the ninth verse (113), it has been said: It was Allah's grace and mercy that He revealed to you the reality behind the event of theft, otherwise these people would have misled you into error. But, since you are not alone, Allah's grace and mercy is with you, these people can never mislead you into error.
 
 From verse 105 which begins with the words: إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ (Surely we have revealed to you the book with the truth) helps establish five rulings:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -267,3 +259,5 @@ This explains what some jurists say about Wahy (Revelation) being of two kinds: 
 Another problem which gets resolved from the words: وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ (and taught you what you did not know) (113) is that the noble Prophet ﷺ did not have the all-comprehending knowledge of the entire universe equal to Almighty Allah, as some ignorant people do insist. The truth is that the measure of his knowledge was corresponding to what Allah bestowed upon him. However, there is no doubt that the knowledge bestowed upon the Holy Prophet ﷺ exceeds the combined knowledge of all created beings.
 
 ## Personal Reflections
+
+

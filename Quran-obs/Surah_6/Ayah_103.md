@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-khabīru
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Such is Allah, your Lord! The contents of this verse present a unique concern for thematic order.
@@ -143,3 +131,5 @@ Commentary
 The contents of this verse present a unique concern for thematic order. It will be noticed that three kinds of universes have been mentioned here: The low, the high and the atmosphere - that is, what generates in what we know as the Biosphere. The description was initiated with the mention of that which is on the lower level because it is closer to us. Then, it was split in two parts. One part of the statement covered vegetation which grows on the land, plants and trees and gardens. The other part featured life forms as beasts, human beings and animals. The first part was given precedence because it is more obvious as compared to the other. Then comes the case of that which has been made to come after, the other part. This is different. It has Ruh, soul or spirit. It is deep, depends on progression from the sperm to its various stages and attending conditions, something allied with the comprehension, diagnosis and judgment of physicians - contrary to the case of vegetation which, in its growth, flowering and ripening etc., is observable commonly. Then, mentioned there was the atmosphere and its life support system, the morning and the evening. Then, came the mention of what is higher, the sun, the moon, and the stars. After that, since what is at the lower level is observed more frequently, the subject was repeated and made the concluding statement. But, firstly it was taken up briefly, now it was taken up in detail - yet, in the order of this detail, the order of brevity was reversed by giving precedence to life forms and succession to the mention of vegetation. Perhaps, its basis is that the detailed statement highlights the expression of gratitude for blessings which, in that status, makes the blessed - being the intended recipients - deserving of being given precedence. As for vegetation, the previous order stays as the status of the donees, that is, of seeds and pits, remains preceded. That rain has been mentioned in between is subservient to the mention of vegetation. Incidentally, there might be another element of refinement here - in that rain has different states. In terms of its origin, it comes from the high; and in terms of its destination, it comes down to the low; and in terms of the distance covered, it is part of the atmosphere.
 
 ## Personal Reflections
+
+

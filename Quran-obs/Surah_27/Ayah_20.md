@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-ghāibīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He inspected the birds, and said: "What is the matter that I see not the hoopoe? وَتَفَقَّدَ الطَّيْرَ‌ (And he checked the birds - 27:20).
@@ -139,3 +127,5 @@ Sayyidna ` Abdullah Ibn 'Abbas ؓ was asked as to what was the reason that the h
 The bottom line to understand is that whatever is destined for a person through the divine decree, whether it is trouble or comfort, has to be enforced, and no one can escape from it by his wisdom, insight or through the use of force or money.
 
 ## Personal Reflections
+
+

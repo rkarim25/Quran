@@ -35,15 +35,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41) These facts about Fir'awn and his status at that time were among the secrets of the Unseen that Allah revealed to His Messenger, Muhammad ﷺ. Similarly Abu Dawud At-Tayalisi recorded that Ibn 'Abbas said that Allah's Messenger ﷺ said;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ Similarly, if someone were to utter (God forbid) a word of disbelief (kufr) in a
 In short, when the soul is being drawn out and the certain knock of death is on, that time is not counted in the life one lives in this world. Nothing done at that time is valid in terms of the Shari'ah. However, everything is, if done before that. But, those who see this transition from one world to the other have to be very cautious. It is possible to make a mistake in determining the correct situation. Is this the time of the drawing of the soul from the body (naz'atu'r-ruh)? Or, is it the last rattle of death (ghargharatu 'l-maut)? Or, is it that which prevails earlier (usually referred to in English as being in the throes of death or the agony of death or, uncharitably enough, giving up the ghost)?
 
 ## Personal Reflections
+
+

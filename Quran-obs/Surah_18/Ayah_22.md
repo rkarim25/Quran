@@ -145,18 +145,6 @@ word_by_word:
     transliteration: aḥadan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They say they were three, the dog being the fourth among them; and they say they were five, the dog being the sixth, guessing at the unseen; and they say they were seven, and the dog being the eighth. The verse opens with the word: سَيَقُولُونَ (sayaqulun: Some will say).Who are these people who will say?
@@ -238,3 +226,5 @@ Referring to the animated efforts to determine the number of the People of Kahf,
 The second line of guidance given in the other sentence is that the optimum information given to him through Divine revelation about the People of Kahf should be taken as perfectly sufficient and satisfactory for all practical purposes. Let him not worry about finding more and asking oth-ers. As for asking others, it could have another aspect too. May be, the question asked is to expose their ignorance or to disgrace them. This too would be contrary to the high morals prophets have. Therefore, restraint was placed on asking both kinds of questions, either for additional investigation, or to prove the addressee ignorant and disgrace him.
 
 ## Personal Reflections
+
+

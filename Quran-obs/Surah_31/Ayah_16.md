@@ -104,18 +104,6 @@ word_by_word:
     transliteration: khabīrun
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A perusal of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "O my son! The Second Bequest of Luqman about Articles of Belief One should irrevocably hold the belief that the knowledge of Allah Ta` a1a surrounds every single particle of whatever there is in and around the expanses of the heavens and the earth with His most perfect power.
@@ -223,3 +211,5 @@ The Second Bequest of Luqman about Articles of Belief
 One should irrevocably hold the belief that the knowledge of Allah Ta` a1a surrounds every single particle of whatever there is in and around the expanses of the heavens and the earth with His most perfect power. Nothing can - be it the smallest of the small not commonly visible, or be it the farthest of the far, or be it behind layers upon layers of darkness and curtains - simply nothing can hide from the knowledge and view of Allah Ta’ ala. And He can, when He wills, cause it to be present, where He wills. This is what is meant by verse يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْ‌دَلٍ (My dear son, in fact, if there be anything to the measure of a grain of rye, and it be [ hidden ] in a rock or in the heavens and the earth, Allah will bring it forth. Surely, Allah is All-Fine, All Aware). Then, the all-covering knowledge and power of Allah Ta’ ala is, in its own place, a basic belief of Islam - and certainly, a great proof of Tauhid, the belief in the Oneness of Allah.
 
 ## Personal Reflections
+
+

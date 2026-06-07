@@ -101,18 +101,6 @@ word_by_word:
     transliteration: l-ghafāru
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He has created the heavens and the earth with truth. In verse 5, it was said: يُكَوِّرُ‌ اللَّيْلَ عَلَى النَّهَارِ‌ (He wraps the night over the day and He wraps the day over the night,).
@@ -194,3 +182,5 @@ Both the Moon and the Sun move
 Later in verse 5, it was said: كُلٌّ يَجْرِ‌ي لِأَجَلٍ مُّسَمًّى (each one of them moving for an appointed term.) This tells us that both the Sun and the Moon move. Scientific researches in astronomy and geology are not the subject of the noble Qur'an, or of any other scripture. But, it is obligatory to believe in whatever appears there as a corollary in this matter. Scientific findings, old or new, keep changing all the time. Qur'anic facts are changeless. Whatever the cited verse tells us - that the Sun and the Moon are both moving - believing in it is obligatory. Now, there remains the other matter - does the rising and setting of the Sun relate to the movement of the earth, or to the movement of these very planets? The Qur'an neither confirms nor rejects it. Hence, there is no hitch in accepting what experience or experiment bears out.
 
 ## Personal Reflections
+
+

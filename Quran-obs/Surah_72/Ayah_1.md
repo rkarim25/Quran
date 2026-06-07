@@ -61,17 +61,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Jinn** (Al-Jinn) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2. 'It guides to the right path, and we have believed therein, and we shall never join anything with our Lord.')(3. 'And He, exalted be the Jadd of our Lord, has taken neither a wife nor a son.')(4. 'And that the foolish among us used to utter against Allah that which was an enormity in falsehood.')(5. 'And verily, we thought that men and Jinn would not utter a lie against Allah.')(6. 'And verily, there were men among mankind who took shelter with the males among the Jinn, but they increased them in Rahaq.')(7. 'And they thought as you thought, that Allah will not send any Messenger.')
 
 (Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation! It guides to the right path'") meaning, to what is correct and success.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -238,3 +230,5 @@ A Jinn Companion of the Holy Prophet
 Ibn Jauzi, in his book Sifat-us-Safwah, through his own chain of authorities, reports from Sahl Ibn ` Abdullah ؓ that he saw an old Jinn, in a place, who was performing salah in the direction of Ka'bah. He was wearing a woolen cloak that looked beautiful on him and in which he looked graceful. After he completed his prayer, Sayyidna Sahl ؓ greeted him. Replying to his greeting, he said: 'You seem to be admiring the beauty of this cloak. This cloak is on my body for seven hundred years. I have met Holy Prophet ` Isa (علیہ السلام) in this cloak, and in the same cloak I met Holy Prophet Muhammad ﷺ and I am from among those Jinns about whom Surah Al-Jinn was revealed.' According to the Hadith narratives that recount the incident of the 'Night of Jinn', (i.e. the night in which the Jinns visited the Holy Prophet ﷺ ، Sayyidna ` Abdullah Ibn Masud ؓ was with the Holy Prophet ﷺ ، and the Holy Prophet ﷺ met the Jinns in a valley near Makkah for the specific purpose of inviting them to the call of Islam and making them hear the Qur'an by deliberate design. Apparently, this incident occurred after the incident mentioned in Surah AI-Jinn. ` Allamah Khafaji has said that reliable Ahadith confirm that the Jinn delegations met the Holy Prophet ﷺ six times. Thus there is no contradiction between the two versions of the incident, because they are two separate incidents. The Holy Prophet ﷺ was not even aware of the incident of the Jinn's coming to him and listening to the Qur'an that is mentioned in Surah Jinn. He only learnt about it later through revelation. This incident happened at Nakhlah on his way back from Taif. The other narratives from which we gather that the Holy Prophet ﷺ met the Jinn by deliberate design in a valley near the city of Makkah to preach to them and make them hear the Qur'an - is a separate incident which took place after that.
 
 ## Personal Reflections
+
+

@@ -163,15 +163,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 178, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It was to refute this barbaric demand on their part that this verse was revealed. By saying 'free man for a free man, slave for a slave and female for a female' it is intended to negate their absurd demand that a free man for a slave and man for a woman should be killed in retaliation, even though he may not be the killer. The just law that Islam enforced was that the killer is the one who has to be killed in Qisas قصاص . If a woman is the killer why should an innocent man be killed in retaliation? Similarly, if the killer is a slave, there is no sense in retaliating against an innocent free man. This is an injustice which can never be tolerated in Islam.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -304,3 +296,5 @@ This verse means nothing but what has been stated earlier, and we repeat, that t
 6. It is true that the right of even retaliation is vested in the legal heirs of the persons killed but, in accordance with the consensus of the Muslim community, they do not have the right to settle the score all by themselves, in other words, they cannot kill the killer on their own, instead, they have to seek the help of a Muslim ruler or his deputy to realize their right. The reason is that Qisas قصاص is an intricate issue when it comes to details which are simply out of reach for an average person. Therefore, the legal heirs of the person killed, not knowing the particular circumstances when retaliation does, or does not become necessary, may commit some sort of excess under the heat of their anger. So, by a unanimous agreement of the scholars of the Muslim community, it is necessary that the right of retaliation be secured and made effective through the agency of an Islamic government. (Qurtubi)
 
 ## Personal Reflections
+
+

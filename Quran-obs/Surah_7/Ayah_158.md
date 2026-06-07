@@ -137,17 +137,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 158, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Say, "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach.")[6:19],
 
 "And this Qur'an has been revealed to me that I may warn you thereby, and whomsoever it may reach." (6:19)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -276,3 +268,5 @@ The 'words' کلمات refer to the word of Allah revealed to his prophets like 
 The great saint and spiritual leader Sheikh Junaid of Baghdad has remarked that all the paths leading to Allah are closed except the path specifically defined by the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

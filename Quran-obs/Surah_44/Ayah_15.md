@@ -31,15 +31,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Smoke** (Ad-Dukhan) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then wait you for the Day when the sky will bring forth a visible smoke, covering the people, this is a painful torment) A man came to the Messenger of Allah ﷺ and said, "O Messenger of Allah! Pray to Allah to send rain to Mudar, for they are dying. So the Prophet ﷺ prayed for rain for them, and they got rain. Then the Ayah was revealed:
 
-According to another report, a man would look at the sky and he would see nothing between him and the sky except a smoky haze on account of intensity of hunger and exhaustion. In support of his argument he recited فَارْ‌تَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ "So, wait for a day when the sky will come up with a visible smoke (44:10) ". When this event took place, people came up to the Prophet of Allah ﷺ and requested him to pray to Allah to send down rain to his tribe of Mudar. Otherwise, they all will perish. So, the Holy Prophet ﷺ prayed for rain for them, and the rain came down.
+According to another report, a man would look at the sky and he would see nothing between him and the sky except a smoky haze on account of intensity of hunger and exhaustion. In support of his argument he recited فَارْ‌تَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُّبِينٍ "So, wait for a day when the sky will come up with a visible smoke (44:10) ". When this event took place, people came up to the Prophet of Allah ﷺ and requested him to pray to Allah to send down rain to his tribe of Mudar. Otherwise, they all will perish. So, the Holy Prophet ﷺ prayed for rain for them, and the rain came down. On that occasion the following verse was revealed إِنَّا كَاشِفُو الْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَائِدُونَ ! We are going to remove the punishment for a while, (but) you will certainly go back (to your original position). (44:15) " As predicted, when they were granted ease or reprieve, they reverted to their former state of kufr (disbelief) and Allah revealed the following verse يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَ‌ىٰ إِنَّا مُنتَقِمُونَ " (Then,) the day We will seize (you) with the greatest seizure, We will take vengeance. (44:16) "
 
 ## Tafsir Summary
 
@@ -236,3 +230,5 @@ In conclusion, if the prophecy of dukhan ('smoke' ) be taken as one of the porte
 The author of Ruh-ul-Ma` ani, in terms of his preferred interpretation, has expressed his suspicion on the authenticity of this narration. However, if the narration can be confirmed, then there will remain no conflict between the Tafsir of Ibn Masud ؓ and the express wordings of the Qur'an and the Prophetic ahadith. Allah, the Pure and Exalted, knows best
 
 ## Personal Reflections
+
+

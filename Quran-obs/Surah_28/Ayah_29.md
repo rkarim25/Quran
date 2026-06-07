@@ -117,18 +117,6 @@ word_by_word:
     transliteration: taṣṭalūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, when Musa had fulfilled the term, and was traveling with his family, he saw a fire in the direction of At-Tur. فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ (So When Musa (علیہ السلام) completed the term - 28:29).
@@ -236,3 +224,5 @@ Commentary
 فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ (So When Musa (علیہ السلام) completed the term - 28:29). Then Sayyidna Musa (علیہ السلام) completed his term of service, which was eight years compulsory and two years optional. A question arises here, whether he completed eight years of service or ten years. Sahih al-Bukhari has reported that when this question was put to Sayyidna Ibn ` Abbas ؓ ، he answered ten years, and added that prophets always fulfill their commitments, rather they do more than what they agree to. The Holy Prophet ﷺ was also in the habit of giving more than due to the one having a right. He has also advised the Ummah to be selfless and considerate in the matters of employment, wages, and business dealings.
 
 ## Personal Reflections
+
+

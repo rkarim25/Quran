@@ -45,18 +45,6 @@ word_by_word:
     transliteration: yaghfirūna
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun t… Second virtue: الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ‌ الْإِثْمِ وَالْفَوَاحِشَ (those who abstain from the major sins and from shameless acts - 37).
@@ -130,3 +118,5 @@ The wisdom behind specially mentioning shameless acts, apart from all the other 
 Third virtue: وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُ‌ونَ (and when they get angry, they forgive - 37) This is a moral quality of the highest order, because when love and anger prevail upon someone, they make him blind and deaf, and he loses his ability to distinguish right from wrong, and true from false, rather, he cannot appreciate the results of his own actions. The one who is angry tries his utmost to vent his anger fully upon the one with whom he is angry. That is why Allah Ta’ ala has defined this quality of Mu'mins and virtuous persons that when they are angry, they not only maintain the limits of right and wrong, but also forgo their justified rights.
 
 ## Personal Reflections
+
+

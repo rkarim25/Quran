@@ -201,15 +201,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Moving from the affirmation of the principle of Allah's Oneness, the text now answers some doubts raised against it. As stated briefly a little earlier, this verse was revealed in a specific background. Once a group of Christians came to the Holy Prophet ﷺ and started talking about religion. The Holy Prophet ﷺ ، refuted their doctrine of Trinity in details and proved the Oneness of Allah with reference to the eternal existence, the perfect power, the all encompassing knowledge; and the most unique creativity of Allah Almighty who had to be One and indivisible. The Christians had to accept these premises and once توحید tauhid was proved, the converse, that is, the belief in Trinity was also proved untenable. The Christians then expressed their doubts about some words of the Holy Qur'an in which Sayyidna 'Isa (علیہ السلام) i.e. Jesus Christ has been called 'Ruhullah روحُ اللہ ' (the Spirit of Allah) or 'Kalimatullah کلیمُ اللہ ' (the Word of Allah), which according to them led to prove that Sayyidna ` Isa ؓ had a share in the divinity of Allah.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -438,3 +430,5 @@ In another hadith, he said: I have three apprehensions about my people (ummah): 
 Who are the ones 'well grounded' in knowledge as identified towards the end of the verse وَالرَّ‌اسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ ? Muslims scholars have offered different explanations in this connection. The weightier position is that the reference here is to ahl al-sunnah wa al jama’ ah اہل السنۃ والجماعت ، the main body of Muslims who give credence only to that interpretation and explanation of the Holy Qur'an and Sunnah which has been authentically reported from the blessed Companions ؓ ، the righteous generations following them and upon which there is the consensus of the Muslim community, and who believe that the Muhhamat (verses of established meaning) of Qur'an are its axis and centre, and who, humbly confessing their limitations of knowledge and insight, leave to Allah the real meanings of Mutashabihat متشبھات which are beyond their compre-hension and conceptualization. They are never proud of their knowledge, howsoever perfect it may be, nor of the strength of their faith. In-stead of that, they constantly pray to Allah seeking steadfastness from Him, and His grace and mercy. They do not have mischief-prone temperaments which would instigate them to follow Mutashabihat متشبھات alone as the object of their intellectual pursuit. They take both, the Muhkamat محکمات and the Mutashabihat متشبھات ، to be the truth because they firmly believe that both kinds of verses have emanated from one single source. But, the need to find out the meanings of the Muhkamat محکمات was, of course, useful and essential for us. This Allah Almighty has not kept secret. The meanings of such verses have been made very open and clear. Since Allah Almighty has elected not to disclose the meanings of Mutashabihat متشبھات to us due to some wise consideration of His, it is simply not necessary for us to find it out. That we believe in them as they are is quite sufficient. (Abridged from Mazhari)
 
 ## Personal Reflections
+
+

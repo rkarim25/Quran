@@ -28,18 +28,6 @@ word_by_word:
     transliteration: l-mīzāna
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the Surah have been couched in brief sentences in a specific sequence: In vv. 1-4 it has been stated that the teaching of the Qur'an is from Allah Almighty and it is the very demand of His mercy that He should provide guidance to mankind through this teaching, for it is He Who has created man as a rational and intelligent being. In vv. 5-6 it has been said that the whole system of the Universe is functioning under Allah's Sovereignty and everything in the earth and heavens is subject to His Command alone. In vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ (And observe the correct weight with fairness, ....55:9).
@@ -175,3 +163,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 وَلَا تُخْسِرُ‌وا الْمِيزَانَ (and do not make weighing deficient...55:9). The word خُسر khusr means 'to skimp or make deficient'. The opening part of verse [ 9] was the positive aspect of the injunction, and the concluding part is its negative aspect, in that it is unlawful to fall short of measure or weight. The two parts, positive and negative, put together the verse as a whole means 'Do not cheat in weights and measures, but rather observe justice and fairness'.
 
 ## Personal Reflections
+
+

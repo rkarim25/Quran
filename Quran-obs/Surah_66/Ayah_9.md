@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-maṣīru
 ---
 
-## Context
-
-To understand **The Prohibition** (At-Tahrim) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tahrim is a **Madinah** surah—revealed as the 107th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In connection with the incident of tahrim referred to in this Surah, the traditions of the Hadith mention two ladies who were among the wives of the Holy Prophet (upon whom be peace) at that time Hadrat Safiyyah and Hadrat Mariyah Qibtiyyah. The former (i. e. Hadrat Safiyyah) was taken to wife by the Holy Prophet after the conquest of Khaiber, and Khaiber was conquered, as has been unanimously reported, in A. H. 7. The other lady, Hadrat Mariyah, had been presented to the Holy Prophet by Muqawqis, the ruler of Egypt, in A.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Prophet! تُوبُوا إِلَى اللَّـهِ تَوْبَةً نَّصُوحًا (...turn to Allah with a faithful repentance...66:8).
@@ -127,3 +115,5 @@ Sayyidna ` Ali ؓ was asked as to what is 'taubah' and he replied that it consis
 عَسَىٰ رَ‌بُّكُمْ أَن يُكَفِّرَ‌ عَنكُمْ (It is hoped from your Lord that he will write off your faults...66:8). The verb ` asa means 'it is hoped'. In this context, it purports to mean 'promise', but the expression of 'hope' is used to indicate that taubah or any other righteous deeds are not the just and equal price for the Paradise or the divine forgiveness. In fact, one compensation for man's good deeds has already been given to him in this world in the form of worldly blessings. Therefore, as regards the law of equality, it is not necessary that he is further compensated by the Jannah. It entirely depends on Divine grace and favour as is mentioned in a Hadith which says: 'Your actions alone cannot salvage you.' The Companions inquired: '0 Messenger of Allah, not even you?' He replied: 'No, not even me unless the Divine grace and mercy covers me.' [ Bukhari and Muslim as quoted by Mazhari ]
 
 ## Personal Reflections
+
+

@@ -44,17 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Declining Day** (Al-'Asr) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Asr is a **Makkah** surah—revealed as the 13th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 They have mentioned that 'Amr bin Al-'As went to visit Musaylimah Al-Kadhdhab after the Messenger of Allah ﷺ was commissioned (as a Prophet) and before 'Amr had accepted Islam. Upon his arrival, Musaylimah said to him, "What has been revealed to your friend (Muhammad ﷺ) during this time?" 'Amr said, "A short and concise Surah has been revealed to him." Musaylimah then said, "What is it?" 'Amr replied;
 
 So Musaylimah thought for a while. Then he said, "Indeed something similar has also been revealed to me." 'Amr asked him, "What is it?" He replied, "O Wabr (a small, furry mammal; hyrax), O Wabr! You are only two ears and a chest, and the rest of you is digging and burrowing." Then he said, "What do you think, O 'Amr?" So 'Amr said to him, "By Allah! Verily, you know that I know you are lying."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -155,3 +147,5 @@ Surah Al-` Asr
 Ends here
 
 ## Personal Reflections
+
+

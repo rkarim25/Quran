@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-ḥakīmu
 ---
 
-## Context
-
-To understand **She that is to be examined** (Al-Mumtahanah) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah deals with two incidents, the time of the occurrence of which is well known historically. The first relates to Hadrat Hatib bin Abz Balta'a, who, a little before the conquest of Makkah, had sent a secret letter to the Quraish chiefs informing them of the Holy Prophet's intention to attack them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed there has been an excellent example for you in Ibrahim and those with him, when they said to their people: "Verily, we are free from you and whatever you worship besides Allah, we have rejected you, and there has started between us and you, hostility and hatred forever until you believe in Allah alone," – except the saying of Ibrahim to his father: "Verily, I will ask forgiveness for you, but I have no power to do anything for you before Allah." "Our Lord!
@@ -183,3 +171,5 @@ The current verse emphasizes that Muslims should follow the excellent model of H
 Some of the scholars analyze the phrase اِلَّا قَولَ اِبرٰھِیمَ (but not in what Ibrahim said ...) grammatically as istithna' munqati`, that is, exceptive sentence in which the exception is severed from, or wholly different in kind from, the general term. In terms of this grammatical analysis, praying for his father's forgiveness is not contrary to Abrahamic model. Holy Prophet Ibrahim (علیہ السلام) was under the impression that his father had become a Muslim, so he prayed for the forgiveness of his Muslim father. Later when he learnt the truth, he gave up praying for him and renounced him. If anyone believes, even today, that a particular unbeliever has most probably embraced Islam, there is no harm in praying for his pardon. [ Qurtubi ]. Allah knows best!
 
 ## Personal Reflections
+
+

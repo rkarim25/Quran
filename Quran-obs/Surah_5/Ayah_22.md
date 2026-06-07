@@ -76,18 +76,6 @@ word_by_word:
     transliteration: dākhilūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Musa said to his people: "O my people! Looking at verse 22 which begins with the words: قَالُوا يَا مُوسَىٰ (They said, 0 Musa ...), it will be recalled that, in the verse previous to it (21), Allah Ta` ala had commanded the Bani Isra'il through Sayyidna Musa (علیہ السلام) that they should wage a Jihad against the Amalkites and conquer Syria given along with it was the good news that the land of Syria has been destined for them, therefore, their victory is certain.
@@ -297,3 +285,5 @@ They said, "0 Musa, there is a nation of tyrants over there and we shall never g
 It appears in the next verse (23) that two persons, God-fearing and blessed by Allah, hearing the remarks made by the Bani Isra'il, gave them some good counsel by saying: Why are you so scared of death much before it has come? Just take a few steps. The gate of the city of Baytul-Maqdis is not far. Take heart and make your move. Only this much of your action, we believe, will become the cause of your victory. Once you enter the gate of Baytul-Maqdis, you will overcome your enemy who would run in defeat. These two persons mentioned in this verse are, according to most commentators, the same two of the twelve chiefs who had faithfully acted upon the advice given by Sayyidna Musa (علیہ السلام) and had abstained from telling the Bani Isra'il every-thing about the Amalkites - that is, Yusha` ibn Nun and Kalib ibn Yu'gina.
 
 ## Personal Reflections
+
+

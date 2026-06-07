@@ -25,18 +25,6 @@ word_by_word:
     transliteration: munībin
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they not looked at the heaven above them, how We have made it and adorned it, and there are no Furuj in it (6)And the earth! After mentioning the confused state of the infidels, Allah draws man's attention to His infinite power which He demonstrated by creating what is bigger than that which they wondered about and whose possibility they discounted.
@@ -126,3 +114,5 @@ Allah the Exalted notifies the servants of His infinite power, which He demonstr
 After mentioning the confused state of the infidels, Allah draws man's attention to His infinite power which He demonstrated by creating what is bigger than that which they wondered about and whose possibility they discounted. Referring to the heaven, the Qur'an says: وَمَا لَهَا مِن فُرُ‌وجٍ (...and it has no cracks...50:6). Lexically, the word furuj is the plural of farj which means a crack, or an opening. This and the following few verses draw attention to the marvels of Allah's creation, the wonderful design in the universe, and to the flawless celestial firmament. If this was made by man there would have been patches, cracks, clefts or rifts. But no one can find any sort of patchwork or stitching in the sky. This, however, does not negate the existence of doors in the heaven. A door is not referred to as a crack:
 
 ## Personal Reflections
+
+

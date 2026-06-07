@@ -35,15 +35,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 106, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Not much time had passed when a whole section of the Qur'an was revealed about this episode through which the reality behind it was shown to the Holy Prophet ﷺ and general instructions covering such cases were given. As the Holy Qur'an exposed the theft committed by Banu Ubayriq and acquitted the Jew. Banu Ubayriq were left with no choice but to return the stolen property to the Holy Prophet ﷺ who had it returned to the owner, Sayyidna Rifa` ah ؓ ، who finally endowed all those arms for use in Jihad. When Banu Ubayriq found their theft exposed, Bashir, the son of Ubayriq ran away from Madinah landing in Makkah where he joined the disbelievers. Consequently, if he had been a hypocrite earlier, he became an acknowledged disbeliever; and, if he was a Muslim earlier, he was an apostate now.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -130,3 +122,5 @@ These are the details of the episode. Let us now give some thought to what has b
 After telling the Holy Prophet ﷺ the reality behind the case of theft, in the first verse (105), it was said: Allah has given you the Qur'an through revelations so that you can use the knowledge and insight gifted to you to decide matters accordingly, abstaining from taking sides with traitors, that is, Banu Ubayriq. No doubt, the obvious circumstances and evidences were such that a tilt towards the probability of the Jew having committed the theft was not a sin, yet contrary to the actual fact it was. Therefore, in the second verse (106), the Holy Prophet ﷺ was asked to seek forgiveness from Allah because the station of prophets (علیہم السلام) is very high and Allah does not favour the issuance of even something so insignificant from them.
 
 ## Personal Reflections
+
+

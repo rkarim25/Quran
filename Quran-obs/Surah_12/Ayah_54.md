@@ -63,18 +63,6 @@ word_by_word:
     transliteration: amīnun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the king said: "Bring him to me that I may attach him to my person." Then, when he spoke to him, he said: "Verily, this day, you are with us high in rank and fully trusted. In the next verse (54) which begins with the words: وَقَالَ الْمَلِكُ ائْتُونِي بِهِ (Bring him to me ...), it has been said, when the king of Egypt investigated about the event, as requested by Sayyidna Yusuf (علیہ السلام) ، Zulaikha and all other women concerned with it confessed to the truth.
@@ -130,3 +118,5 @@ After that, the king wished to hear him give the interpretation of his dream dir
 The king was astonished. Though, it was not so much about the interpretation given. What made him really wonder was how could he find out all those details. After that, the king sought his counsel on what should he do next. The advice given by Sayyidna Yusuf (علیہ السلام) was: During the first seven years of expected heavy rains, you should have arrangements made so that cultivation and crops yield their highest. This could be done by giving incentives to people to make sure that their maximum land areas come under cultivation and crops turn out plentiful and let them keep storing one fifth of their total produce with them. Thus, the people of Egypt would have stored with them enough for the seven years of famine and you would not have to worry on their account. Keep whatever supply of grains comes to the government through fixed taxes or state lands stored for those coming from outside the country - because, this famine will be wide-spread. People living in adjoining countries would need your help. At that time, you may come to the help of many a deprived people around you by giving it to them. Even if you were to put an ordinary price on it, you can be sure of collecting in the government treasury the amount of wealth that had never been there. The king was immensely pleased with this advice, but did wonder how would such a stupendous plan be managed, and who would do that.
 
 ## Personal Reflections
+
+

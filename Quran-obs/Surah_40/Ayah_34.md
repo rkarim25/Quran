@@ -130,18 +130,6 @@ word_by_word:
     transliteration: mur'tābun
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he who believed said: "O my people! In verse 33, it was said: يَوْمَ تُوَلُّونَ مُدْبِرِ‌ينَ (a day when you will turn backon your heels,).
@@ -221,3 +209,5 @@ And according to some commentators, this reflects the state that will prevail in
 There is a lengthy Hadith in Tafsir Mazhari. It has been reported from Sayyidna Abu Hurairah ؓ with reference to Ibn Jarir, Musnad Abu Ya'la, al-Baihaqi, Musnad ` Abd Ibn Humaid and others. It mentions three soundings of the Horn on the day of Qiyamah. The first blowing of the Horn will cause consternation, the second, unconsciousness and the third, resurrection. The sonic outburst causing consternation will make the entire creation panic, then, this very outburst will become long enough to make everyone unconscious following which everyone will die. Generally, the combination of these two sonic outbursts has been called the first blowing of the Horn for the obvious reason that a single blowing will bring forth two manifestations, first - panic, then - swoon or unconsciousness. In this Hadith too, it has been mentioned that, at the time of the blowing causing consternation, people would be running around in panic: وَھُوَ الَّذِی یَقُولُ اللہ يَوْمَ التَّنَادِ (And that is what Allah says the day of myriad calls is) which tells us that, in this verse, the statement: يَوْمَ التَّنَادِ (yowm-ut-tanad) means people running around in panic at the time of the first blowing of the Horn. And Allah is Pure and High who knows best.
 
 ## Personal Reflections
+
+

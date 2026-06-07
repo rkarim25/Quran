@@ -67,18 +67,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We gave knowledge to Dawud and Sulayman, and they both said: "All praise be to Allah, Who has preferred us above many of His believing servants! The knowledge given to Sayyidna Dawud and Sulaiman (علیہما السلام) was obviously the special knowledge normally given to the prophets about their functions and obligations as prophets, but at the same time it may also include other sciences and arts, as Sayyidna Dawud (علیہ السلام) was given the art of making armors.
@@ -162,3 +150,5 @@ And surely We gave knowledge to Dawud and Sulaiman. (27:15)
 The knowledge given to Sayyidna Dawud and Sulaiman (علیہما السلام) was obviously the special knowledge normally given to the prophets about their functions and obligations as prophets, but at the same time it may also include other sciences and arts, as Sayyidna Dawud (علیہ السلام) was given the art of making armors. Sayyidna Dawud and Sulaiman (علیہما السلام) enjoyed a special position among the prophets in that they were also bestowed with the empire along with the prophethood. The empire was of a very special nature in that they ruled over not only the humans but also the Jinns and animals. While relating all these graces, knowledge is mentioned first, which is a clear hint that knowledge is superior and paramount among them all. (Qurtubi)
 
 ## Personal Reflections
+
+

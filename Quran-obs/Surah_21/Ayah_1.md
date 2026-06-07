@@ -33,18 +33,6 @@ word_by_word:
     transliteration: muʿ'riḍūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the subject matter and the style of the Surah indicate that it was sent down in the third stage of the life of the Holy Prophet at Makkah.(Sea Introduction to Chapter VI). Subject and Topics This Surah discusses the conflict between the Holy Prophet and the chiefs of Makkah, which was rampant at the time of its Revelation and answers those objections and doubts which were being put forward concerning his Prophethood and the Doctrines of Tauhid and the Hereafter. The chiefs of Makkah have also been rebuked for their treachery&nbsp;against the Holy Prophet and warned of the evil consequences of their wicked ways.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Anbiya' Al-Bukhari recorded that 'Abdur-Rahman bin Yazid said that 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and… Importance of Surah Al-Anbiya' Sayyidna Abdullah Ibn Mas’ ud ؓ has said that four Surah viz Al-Kahf, Maryam, Taha and Al-Anbiya' are among the earlier revelations which I value a lot and keep them close to my heart.
@@ -150,3 +138,5 @@ Sayyidna Abdullah Ibn Mas’ ud ؓ has said that four Surah viz Al-Kahf, Maryam,
 اقْتَرَ‌بَ لِلنَّاسِ حِسَابُهُمْ (The reckoning of the people has drawn near - 21:1) It means that the time is near when people will have to give an account of their deeds. Here, the reference is to the Day of Judgment, and its approach is in relation to bygone ages, as the ummah of Sayyidna Muhammad Al-Mustafa ﷺ is the last of them all. And if the meaning of the word حِسَاب reckoning) is taken in its general sense then reckoning in the grave is also included, which each individual faces immediately after death. It is for this reason that an individual's death is regarded as his Day of Reckoning. مَن مَات فقد قامت قیامتہ for a person who has died his Day of Reckoning has arrived) so the latter explanation makes the verse very clear in that the individual reckoning for everyone is not very far, no matter how long one lives, because death is certain and no one knows when it will befall. The underlying message of this verse is to warn those people, whether believers or non-believers, who are in a state of slumber due to indulgence in worldly affairs, unmindful of the certainty that all this will come to an end one day. In fact it is this disregard of the Day of Judgment which is the root cause of all ills.
 
 ## Personal Reflections
+
+

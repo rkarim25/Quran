@@ -36,15 +36,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 121, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then, We have sent the revelation to you: "Follow the religion of Ibrahim (he was a) Hanif...) meaning, 'because of his perfection, greatness, and the soundness of his Tawhid and his way, We revealed to you, O Seal of the Messengers and Leader of the Prophets ﷺ,'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -137,3 +129,5 @@ Commentary
 The word: اُمَّہ (ummah) has a few other meanings, but the well-known sense is that of community, nation, or group of people. At this place, this is what it means - as reported from Sayyidna Ibn ` Abbas ؓ . The sense is that Sayyidna Ibrahim (علیہ السلام) is, in his person, a community, a nation, almost a compendium of their perfections and merits. There is another meaning of the word: اُمَّہ (ummah), that of the leader of a community, someone imbibing in his person many perfections. Some commentators have taken exactly this meaning of the word at this place. And the word: قَانِت (qanit) in verse 120 means obedient to the command (of his Creator). Sayyidna Ibrahim (علیہ السلام) has distinct status in these two qualities. As for being a leader, people from all famous Faiths of the world believe in him and consider it an honour to be the followers of his community. Of course, the Jews, the Christians and the Muslims revere him. Even the Mushriks of Arabia, despite their idol-worship, felt proud to believe in him and in (supposedly) following his way (the way of someone who was the foremost idol-breaker in human annals) ! As for the signal distinction of his being 'qanit' (obedient), it becomes crystal clear from the trials this 'friend' (khalil) of Allah has gone through. Imagine the fire of Namrud (Nimrod), the Command to go elsewhere leaving behind his family in a wilderness, and then, his being ready to sacrifice his very dear son. All these are singularities because of which Allah Ta’ ala has honoured him with such epithets.
 
 ## Personal Reflections
+
+

@@ -55,18 +55,6 @@ word_by_word:
     transliteration: l-ḥadīda
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We bestowed grace on Dawud from Us (saying): "O you mountains! The preceding verses have addressed the arguments of those who denied the possibility of the life after death, and believed it to be irrational that a person may be revived after he has died and the parts of his body are decomposed and turned into dust.
@@ -132,3 +120,5 @@ From here we also learn that the mountains synchronizing their voice with the vo
 The word: وَالطَّيْرَ‌ (wattair: and you too 0 birds) refers to the phenomenon of birds joining up in the air at his voice and doing tasbih like the mountains - as it has been mentioned in another verse of the Qur'an: إِنَّا سَخَّرْ‌نَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَ‌اقِ وَالطَّيْرَ‌ مَحْشُورَ‌ةً (We had subjugated the mountains to join him (in) making tasbih (i.e. pronouncing Allah's purity) at evening and sunrise, and the birds as well mustered together 38:18).
 
 ## Personal Reflections
+
+

@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ḥīnin
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-23-54 After relating the stories of the Prophets, a fundamental principle has been enunciated: Success and prosperity in the worldly life is not a criterion of success in the sight of Allah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Messengers! فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا But they split up ways from one another (dividing themselves) into factions - 23:53).
@@ -167,3 +155,5 @@ The Religion of All the Prophets Is Tawhid; And the Warning Against Splitting in
 فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا But they split up ways from one another (dividing themselves) into factions - 23:53). The word زُبُر is the plural of زُبُور meaning a book, and the verse would mean that Allah had commanded all prophets and their followers to adhere to the one and only faith revealed by Him in all matters relating to the basic principles and beliefs. But the followers of different prophets split up into groups and sects and each one of them chose a different way of life and adopted a different book in which the beliefs of each group and sect were recorded. Sometimes زبر is used for the plural of زُبرَہ (zubrah) meaning "fragment" or "group". This meaning is more appropriate here and the meaning of the verse would be that these people were divided into sects even in the matter of fundamental beliefs of their religion. It should be noted that the difference of opinion among the mujtahidin (competent Shari` ah Scholars) in some minor issues is not included in this division which is condemned in this verse, because these differences do not cause a division of the religion, nor do the people maintaining these differences become separate sects. Giving these interpretative and subsidiary differences a sectarian colour is the height of ignorance and no religious scholar would support it.
 
 ## Personal Reflections
+
+

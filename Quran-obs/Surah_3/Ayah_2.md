@@ -35,15 +35,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Surah Āl-'Imrān was revealed in Al-Madinah, as evident by the fact that the first eighty-three Ayat in it relate to the delegation from Najran that arrived in Al-Madinah on the ninth year of Hijrah (632 CE). We will elaborate on this subject when we explain the Ayah about the Mubahalah [3:61] in this Surah, Allah willing. We should also state that we mentioned the virtues of Surah Āl-'Imrān along with the virtues of Surat Al-Baqarah in the beginning of the Tafsir of Surat Al-Baqarah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -142,3 +134,5 @@ The first word, Alif Lam Mim (الم ) at the head of the first verse be-longs t
 Then come the words الْحَيُّ الْقَيُّومُ (the Alive, the All-Sustaining) which lay out a rational proof of the Oneness of Allah. The essence of the argument is that worship means to present oneself before somebody in utter submission and humility. It, therefore, requires that the one who is being worshipped must occupy the highest point of honour and power and who has to be most perfect from all angles. From this it is obvious that anything which cannot sustain its own being, rather is dependent upon somebody else for its very existence, could hardly claim to have any honour or power in its own right. Therefore, it is crystal clear that all things in this world which have no power to come into being by themselves, nor can they sustain it - be they idols carved in stone, or water, or trees, or angels and apostles - none of them is worthy of worship. The only Being worthy of worship is the One who has always been Alive and Present and shall always live and sustain. Such a Being is none but Allah; there is none worthy of worship but Him.
 
 ## Personal Reflections
+
+

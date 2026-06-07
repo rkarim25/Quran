@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-rāḥimīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "Do you know what you did with Yusuf and his brother, when you were ignorant? لَا تَثْرِ‌يبَ عَلَيْكُمُ (No reproach upon you), that is, ` not to say much about taking a revenge of your injustices against me, on this day, I would not even blame you for it.' This much was the good news of forgiveness from his side which he let them hear.
@@ -139,3 +127,5 @@ A surface view of the verse here may suggest that Sayyidna Yusuf (علیہ ال�
 The declaration: لَا تَثْرِ‌يبَ عَلَيْكُمُ الْيَوْمَ (No reproach upon you today) in verse 92 has been made from the highest level of good morals whereby the oppressor was not only forgiven, but spared from reproach too.
 
 ## Personal Reflections
+
+

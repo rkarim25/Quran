@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whoever kills a believer intentionally)(4:93), because even though this was revealed in Al-Madinah, the meaning is general, and it could be interpreted to refer to one who does not repent, because this Ayah states that forgiveness is only for those who repent. Moreover Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -157,3 +149,5 @@ The next verse mentions some details of the punishment to be faced by the aforem
 Ibn Kathir has given another explanation for conversion of sins into virtues. He says that when they will remember all those sins which they had committed during the period of their infidelity, they will repent and seek Allah's forgiveness. This act of repentance will replace their sins into virtues. In support of this explanation some traditions have also been quoted.
 
 ## Personal Reflections
+
+

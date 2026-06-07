@@ -75,18 +75,6 @@ word_by_word:
     transliteration: yafʿalūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Is there of your partners one that originates the creation and then repeats it?" Say: "Allah originates the creation and then He repeats it. In the concluding verse (32), it was said: فَذَٰلِكُمُ اللَّـهُ رَ‌بُّكُمُ الْحَقُّ ۖ فَمَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (So, that is Allah, your Lord in truth.
@@ -156,3 +144,5 @@ important note
 In relation to issues of religious beliefs embedded in this verse, it must be borne in mind that the statement: مَاذَا بَعْدَ الْحَقِّ إِلَّا الضَّلَالُ (What is there, after truth, but error?) proves that there is no intermediary link between truth and error. What is not the truth will be included in error and straying. There can be no such thing that is neither truth nor error. And it is also not possible that two opposite things could be the truth. This is an established rule in the sight of the majority of scholars in the Muslim Ummah. However, difference exists among ` Ulama' regarding minor and subsidiary juristic issues. In the view of some of them, both sides would be considered as on truth in Ijtihad-based issues and, according to the majority of them, there is consensus on the view that the taking of contra-position in Ijtihad-based problems cannot be termed as error and straying.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-dīni
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10).
@@ -143,3 +131,5 @@ Allah the Exalted said,
 قُتِلَ الْخَرَّ‌اصُونَ (Death upon those who make conjectures - 51:10). The expression kharrasun is the plural of kharras which means one who estimates or say things by conjecture. In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ . Thus it would not be out of turn to interpret kharrasun as kadhdhabun, meaning 'the great liars' as they are condemned, denounced, cursed and imprecated (Mazhari) in this statement. After the mention of infidels, several verses that follow describe the qualities of the righteous people and the pleasant consequences of their righteousness.
 
 ## Personal Reflections
+
+

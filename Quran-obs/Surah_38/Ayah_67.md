@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Letter "Saad"** (Sad) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Say: "I am only a warner and there is no God (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving. (66)Say: "That is a great news, (67)"From which you turn away! (68)"I had no knowledge of the chiefs (angels) on high when they were disputing and discussing. (69)"Only this has been revealed to me, that I am a plain warner. (70)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -79,3 +71,5 @@ In verse 65, it was said: قُلْ إِنَّمَا أَنَا مُنذِرٌ‌
 After a delineation of these subjects, the text has, in the concluding part, reverted to the main purpose, that is, it takes up the confirmation of prophethood of the Holy Prophet ﷺ . In this process, along with a presentation of necessary arguments, a compassionate invitation to believe has also been given.
 
 ## Personal Reflections
+
+

@@ -41,18 +41,6 @@ word_by_word:
     transliteration: ʿaẓīmin
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. In the previous verses, the command given was to shun Shirk and believe in the perfect power of Allah Jalla Sha'nuhu mentioned there-in.
@@ -152,3 +140,5 @@ Commentary
 In the previous verses, the command given was to shun Shirk and believe in the perfect power of Allah Jalla Sha'nuhu mentioned there-in. In the first of the present verses (15), the punishment for the contravention of this command has been mentioned in a particularly endearing manner, that is, the Holy Prophet ﷺ has been ` commanded' that he should tell the people that should he too (God forbid) come to contravene the command of His Lord, then, he too has the fear of the punishment of the day of Qiyamah. It is obvious that the noble Messenger of Allah is (Divinely) protected from every sin - so, the likelihood of disobedience coming from him simply does not exist. But, by mentioning this hypothetical situation, the purpose is to convey the message to the community that the contravention of the Divine command is so serious a matter that even the greatest prophet cannot stand excused from it - if not him, who else?
 
 ## Personal Reflections
+
+

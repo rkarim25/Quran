@@ -59,18 +59,6 @@ word_by_word:
     transliteration: yaṣifūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or have they taken (for worship) gods from the earth who raise the dead (21)Had there been therein (in the heavens and the earth) gods besides Allah, then verily, both would have been ruined. Only a Being which has these powers is worthy of being worship لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّـهُ لَفَسَدَتَا (Had there been gods in them [ the heavens and the earth ] other than Allah, both would have fallen in disorder.
@@ -126,3 +114,5 @@ Then Allah tells us that if there were another god besides Him, the heavens and 
 Only a Being which has these powers is worthy of being worship لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّـهُ لَفَسَدَتَا (Had there been gods in them [ the heavens and the earth ] other than Allah, both would have fallen in disorder. - 21:22). This is an argument of common nature in favour of the Oneness of Allah which is based on common practice. It is also a logical proof of the oneness of God and a great deal of literature is available to explain it in the books on theology (عِلمُ الکلَام). The argument of common nature is that if there were two Gods, each independent and sovereign, then the commands of both would prevail on the earth and in the sky which is not possible, because it is inconceivable that both of them would have common views on all matters. And if there are differences of opinion which is inevitable where power is shared, there could be conflict, which would always lead to chaos and confusion. The suggestion that the two Gods could consult each other before passing orders has been adequately discussed, and rejected, in the books of theology. The thing to note is that if the two Gods had to take decisions jointly, then neither of them would have been sovereign, and a god with divided sovereignty is not God.
 
 ## Personal Reflections
+
+

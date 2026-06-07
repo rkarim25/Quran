@@ -25,18 +25,6 @@ word_by_word:
     transliteration: yarjiʿūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 174, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-172-174 The example of the one who had the knowledge of the Message but discarded it, has been cited as a warning to those who were treating the Message as false; they have been exhorted to use their faculties to recognize the Message; otherwise Hell would be there abode.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when your Lord brought forth from the Children of Adam, from their loins, their seed and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes! "And this is how we elaborate the verses, so that they may return." That is, Allah has made His signs clear through His elaborate verses to facilitate people to turn back to their pledge and acknowledge Him as their Lord.
@@ -132,3 +120,5 @@ The next verse 174 said:
 That is, Allah has made His signs clear through His elaborate verses to facilitate people to turn back to their pledge and acknowledge Him as their Lord. Any one applying his reason can find the Truth and save himself from everlasting punishment.
 
 ## Personal Reflections
+
+

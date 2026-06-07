@@ -38,18 +38,6 @@ word_by_word:
     transliteration: nabiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-41-50 ) also for the benefit of the Migrants for he also had been forced like them to leave his country by the persecution of his father, his family and his country men.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And mention in the Book, Ibrahim. صِدِّيقًا نَّبِيًّا (Siddiq (a man of truth), a prophet - 19:41) The word صِدِّيقً (Siddiq) is a Qur'anic term which has been defined differently by different scholars.
@@ -117,3 +105,5 @@ Meaning of Siddiq
 صِدِّيقًا نَّبِيًّا (Siddiq (a man of truth), a prophet - 19:41) The word صِدِّيقً (Siddiq) is a Qur'anic term which has been defined differently by different scholars. Some say it is applied to one who has never told a lie in his life. Others describe Siddiq (صِدِّيقً ) as one who is truthful in his beliefs, words and deeds. In other words his utterances truly reflect his beliefs, and his actions in turn match with his beliefs and words. Ruh ul-Ma` ani and Mazhari have adopted the latter meaning of the word. Then there are different degrees of صِدِّیقِیَت (Truthfulness) i.e. those who fall within this definition are placed at different pedestals. Only a prophet (نَبِی یَا رَسُول ) can be a true صِدِّيقً. While every prophet is gifted with this attribute, not everyone who has it is a prophet. A believer who follows in the footsteps of his prophet and attains this exalted position of صِدِّيقً (truthfulness) can also be called Siddiq. The Holy Qur'an itself has given the title of صِدِّيقًہ to Sayyidah Maryam (علیہا السلام) ، despite the view of the overwhelming, majority that she was not a prophet, and that a woman cannot be a prophet.
 
 ## Personal Reflections
+
+

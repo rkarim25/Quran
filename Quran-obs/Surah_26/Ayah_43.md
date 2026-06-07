@@ -32,18 +32,6 @@ word_by_word:
     transliteration: mul'qūna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, the sorcerers were assembled at a fixed time on a day appointed (38)And it was said to the people: "Are you (too) going to assemble? Commentary.
@@ -131,3 +119,5 @@ Musa (علیہ السلام) said to them, "Throw you down what you are to throw
 Sayyidna Musa (علیہ السلام) said to the magicians ` You show the magic you wish to show'. With a cursory look one might be inclined to think that Sayyidna Musa (علیہ السلام) ordered them to perform their magic. But with a little deep thinking it becomes clear that actually it was not an order from Sayyidna Musa (علیہ السلام) to 'show magic, but the real intention was to demonstrate the fallacy of magic. This demonstration was not possible without the magic shown by them. Therefore, he asked them to show their tricks or magic. It is exactly like a zindiq (an extreme heretic) is asked to put forward his arguments, so that they may be countered. It is obvious that such an invitation cannot be treated as an acceptance of infidelity.
 
 ## Personal Reflections
+
+

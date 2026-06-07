@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-khāinīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If you fear treachery from any people, throw back (their covenant) to them (so as to be) on equal terms. The Option to Cancel a Peace Treaty In the fifth verse (58), the Holy Prophet has been told about an important article which forms part of the law of war and peace.
@@ -128,3 +116,5 @@ Fulfillment of Trust Obligations: A Significant Episode
 Based on a narration of Salim ibn ` Amir, it has been reported by Abu Dawud, Tirmidhi, Al-Nasa'i and Imam Ahmad ibn Hanbal (رح) that Sayyidna Mu` awiyah ؓ had a no-war pact with a group of people for a specified period of time. It occurred to Sayyidna Mu` awiyah ؓ that he should move his army and equipment close to those people so that his forces could pounce on the enemy immediately on the expiry of the period of their peace pact. But, exactly at the time when the army of Sayyidna Mu` awiyah ؓ was getting ready to march ahead in the desired direction, it was noticed that an aged person riding on a horse was shouting a slogan very loudly. He was saying: اللہُ اکبر اللہ اکبر وفَآءً لا غدراً (Allahu Akbar, Allahu Akbar - Allah is Great, Allah is Great - we should fulfill the pledge, we should not contravene it). He was saying that with the famous cry of Allahu Akbar (which increased the religious gravity of the matter). The Holy Prophet ﷺ has said: When a ceasefire agreement or a peace pact with a people comes into effect, it is necessary that no knot be opened or tied against their provisions. Sayyidna Mu` awiyah ؓ was informed about it. When he saw the herald of the saying, he recognized him. He was Sayyidna ` Amr ibn ` Anbasah ؓ ، a Sahabi. Sayyidna Mu` awiyah ؓ lost no time and ordered his army to march back so that he does not become one of those who had committed a breach of trust by initiating war action while being within the time frame of a no-war pact. (Ibn Kathir)
 
 ## Personal Reflections
+
+

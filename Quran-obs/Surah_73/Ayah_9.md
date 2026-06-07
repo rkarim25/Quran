@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Enshrouded One** (Al-Muzzammil) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers. Then Allah lightened the matter for them and had mercy on them when He revealed after this,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -299,3 +291,5 @@ In other words, we should not be over-absorbed in quest for our needs so deeply 
 Tirmidhi transmits a Hadith on the authority of Sayyidna Abu Dharr Al-Ghifari that the Holy Prophet said: "Zuhd (Renunciation of the world) does not mean to turn lawful things into unlawful or squander the wealth Allah has given you. Renunciation of the world means to have more faith in the things that are in Allah's hands than what are in your hands." [ Mazhari ]
 
 ## Personal Reflections
+
+

@@ -68,18 +68,6 @@ word_by_word:
     transliteration: jamīlan
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-28-35 consists of two parts.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Prophet! Out of the objectives of this Surah, the most important is the stress placed on avoiding everything that may cause pain to the Holy Prophet ﷺ .
@@ -155,3 +143,5 @@ This verse (28) tells us when there is no congruity between the temperaments of 
 In this case, what can be proved from the cited verse (28) is its desirability only. There is no proof to support its obligation. Some leading Muslim jurists have argued in favour of the obligatory nature of this verse and, on the same basis, they have given the wife of a penniless man, who is incapable of providing living expenses for her, the right to secure a divorce from the court. Full details of this issue have been given in Ahkam ul-Qur'an, Part V, under this very verse.1 (1. This work in Arabic is available from Maktaba-e-Darul-'Uloom, the publishers of the present Tafsir ]
 
 ## Personal Reflections
+
+

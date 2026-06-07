@@ -22,13 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **Luqman** (Luqman) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour. It is also revealed in another verse that the disbelievers will say on oath that they were not disbelievers وَاللَّـهِ رَ‌بِّنَا مَا كُنَّا مُشْرِ‌كِينَ (By Allah, our Lord, we ascribed no partners to Allah - 6:23). What needs to be understood here is that it will be Allah's court on the Day of Resurrection, and He will allow all and sundry to say whatever one wishes to say, whether one lies or speaks the truth. Allah is All-Knowledgeable and is not dependent on any one to find out what is false and what is true. When any one will speak a lie, his mouth will be sealed, and his skin, hair and limbs will be asked to give evidence. They will relate the truth in full detail, after which the liar will be left with no excuse. The verse الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ (Today We set a seal on their mouths, and their hands will speak to Us. - 36:65) means the same.
+It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour. It is also revealed in another verse that the disbelievers will say on oath that they were not disbelievers وَاللَّـهِ رَ‌بِّنَا مَا كُنَّا مُشْرِ‌كِينَ (By Allah, our Lord, we ascribed no partners to Allah - 6:23). What needs to be understood here is that it will be Allah's court on the Day of Resurrection, and He will allow all and sundry to say whatever one wishes to say, whether one lies or speaks the truth. Allah is All-Knowledgeable and is not dependent on any one to find out what is false and what is true. When any one will speak a lie, his mouth will be sealed, and his skin, hair and limbs will be asked to give evidence. They will relate the truth in full detail, after which the liar will be left with no excuse. The verse الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ وَتُكَلِّمُنَا أَيْدِيهِمْ (Today We set a seal on their mouths, and their hands will speak to Us. - 36:65) means the same. Some other Qur'anic verses reveal that there will be different occasions for the appearance of human beings before Allah Ta’ ala on the Day of Resurrection. On one such occasion, no one will have the right to speak without permission from Allah Ta’ ala, and he will have to speak nothing but truth. It will not be possible for him to speak a lie, as stated in the verse لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّ‌حْمَـٰنُ وَقَالَ صَوَابًا (They shall speak not, save him to whom the All-Merciful has given leave, and who speaks aright - 78:38).
 
 ## Tafsir Summary
 
@@ -79,3 +73,5 @@ Surah Ar-Rum
 Ends here.
 
 ## Personal Reflections
+
+

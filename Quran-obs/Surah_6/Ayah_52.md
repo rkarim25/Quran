@@ -111,13 +111,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. I but follow what is revealed to me." Say: "Are the blind and the one who sees equal? Will you not then consider? (50)And warn therewith those who fear that they will be gathered before their Lord, when there will be neither a protector nor an intercessor for them besides Him, so that they may have Taqwa (51)And turn not away those who invoke their Lord, morning and evening seeking His Face. You are accountable for them in nothing, and they are accountable for you in nothing, that you may turn them away, and thus become of the wrongdoers (52)Thus We have tried some of them with others, that they might say: "Is it these (poor believers) that Allah has favored from amongst us?" Does not Allah know best those who are grateful (53)When those who believe in Our Ayat come to you, say: "Salamun 'Alaykum" (peace be on you); your Lord has written mercy for Himself, so that, if any of you does evil in ignorance, and thereafter repents and does righteous good deeds, then surely, He is Oft-Forgiving, Most Merciful (54)
 
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel. I but follow what is revealed to me." Say: "Are the blind and the one who sees equal? Will you not then consider? (50)And warn therewith those who fear that they will be gathered before their Lord, when there will be neither a protector nor an intercessor for them besides Him, so that they may have Taqwa (51)And turn not away those who invoke their Lord, morning and evening seeking His Face.
+(I but follow what is revealed to me.) and I never disobey the revelation in the least.
 
 ## Tafsir Summary
 
@@ -370,3 +366,5 @@ Given below are some injunctions and instructions which emerge from these verses
 4. The rewards and blessings of Allah keep increasing in relation to the measure of gratitude. A person, who wishes an increase in Divine rewards, must make gratitude, expressed through word and deed, his way of life, a constant of personality.
 
 ## Personal Reflections
+
+

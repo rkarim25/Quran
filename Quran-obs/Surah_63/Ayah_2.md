@@ -56,15 +56,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Hypocrites** (Al-Munafiqun) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Munafiqun is a **Madinah** surah—revealed as the 104th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH. [ Mazhari ] According to Muhammad Ibn Ishaq and most historians, the details of the incident is as follows: The Messenger of Allah received the news that the leader of Banul-Mustaliq, name, Harith Ibn Dirar, is preparing for a campaign against him Harith Ibn Dirar was the father of Sayyidna Juwairiah ؓ who later on embraced Islam and became one of the Holy wives of the Holy Prophet ﷺ . Harith Ibn Dirar ؓ himself later on embraced Islam.
 
-While the Holy Prophet ﷺ was on his journey, Sayyidna Zaid Ibn Arqam ؓ came near him again and again, and he was firm that since this hypocrite has called him a liar and embarrassed him in front of the entire nation. Allah would surely reveal verses to clear him and give the lie to the hypocrite. Suddenly Sayyidna Zaid Ibn Arqam ؓ noticed that the Holy Prophet ﷺ entered into the state that he experienced when he received revelation.
+While the Holy Prophet ﷺ was on his journey, Sayyidna Zaid Ibn Arqam ؓ came near him again and again, and he was firm that since this hypocrite has called him a liar and embarrassed him in front of the entire nation. Allah would surely reveal verses to clear him and give the lie to the hypocrite. Suddenly Sayyidna Zaid Ibn Arqam ؓ noticed that the Holy Prophet ﷺ entered into the state that he experienced when he received revelation. He stared breathing heavily, his forehead dripped with perspiration and his mount, the she-camel, began to feel the weight of the revelation. Sayyidna Zaid Ibn Arqam ؓ sensed that some revelation was coming down regarding that matter. When that state of revelation was over, and, because his own mount was closer to the mount of the Holy Prophet ﷺ ، he held the ear of Zaid ؓ and said یا غُلَامُ صَدَّقَ اللہُ حَدِیثَکَ وَ نَزَلَت سُورَۃُ المُنافِقِینَ فِی اِبنِ اُبیٍّ مِن اَوَّلِھَا اِلٰی آخِرِھَا “ O Boy, Allah has confirmed the veracity of your statement, and the entire Surah Al-Munafiqun – from the beginning to the end – has been revealed in connection with Ibn Ubayy’ s incident.”
 
 ## Tafsir Summary
 
@@ -213,3 +207,5 @@ Taking care of General Welfare of Muslims: Protecting them from misunderstanding
 Another point illustrated by this incident is that an act which is permissible in itself should be avoided if it may create a misunderstanding in the mind of a Muslim, or may provide an opportunity for the enemies to spread misunderstanding among them. Thus, despite the fact that Ibn Ubayy’ s hypocrisy was exposed openly, the Messenger of Allah ﷺ did not permit Sayyidna ‘Umer ﷺ to behead him when he sought his permission, because the enemies could create misunderstanding in the public minds that Muhammad ﷺ killed his own Comrades. But it should be noted that, as other traditions prove, such acts may be abandoned only when they are not from the basis objectives of Shariah, they cannot be abandoned for such an apprehension. Instead, attempts must be made to remove the danger and do the work dictated by the objectives of Shari’ ah.
 
 ## Personal Reflections
+
+

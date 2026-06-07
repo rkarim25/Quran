@@ -38,18 +38,6 @@ word_by_word:
     transliteration: bibaʿīdin
 ---
 
-## Context
-
-To understand **Hud** (Hud) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So when Our commandment came, We turned them upside down, and rained on them stones of clay, in an array (82)Marked from your Lord; and they are not ever far from the wrongdoers (83) The Town of Lut's People is overturne… At the end of the verse (83), after having mentioned the actual punishment that hit the people of Sayyidna Lut (علیہ السلام) was to warn the contemporary peoples of the world that it was said: وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ (And it is not far from the transgressors).
@@ -111,3 +99,5 @@ Some of the scholars said that it (Sijjil) derived from the word Sang, which mea
 At the end of the verse (83), after having mentioned the actual punishment that hit the people of Sayyidna Lut (علیہ السلام) was to warn the contemporary peoples of the world that it was said: وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ (And it is not far from the transgressors). It means that people who insist upon indulging in this shameful act should not consider themselves very far from this punishment. It can come even today. The Holy Prophet said, ` even in my Ummah, some people will do what the people of Lut (علیہ السلام) used to do. When this starts happening, then wait, for they too would be subjected to the same punishment that was inflicted on the people of Lut (علیہ السلام) .'
 
 ## Personal Reflections
+
+

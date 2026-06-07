@@ -65,15 +65,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ said to me, 'Recite to me.' I said, 'O Messenger of Allah! Should I recite (the Qur'an) to you, while it was revealed to you?' He said, 'Yes, for I like to hear it from other people.' I recited Surat An-Nisa' until I reached this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -230,3 +222,5 @@ Finally, the verse says: وَلَا يَكْتُمُونَ اللَّـهَ حَ
 Sayyidna Ibn ` Abbas ؓ was asked: "At one place, the Holy Qur'an says: 'And they shall not conceal anything from Allah' (4:42); while, at another place, it says: 'By Allah, Our Lord, we were no mushriks' (6:23) - Is there, as it seems, any contradiction between the two verses?" To this he replied: What will happen is that when the disbelievers will begin to see that nobody except true Muslims is being admitted into the Paradise they would decide to refuse point-blank that they had ever committed shirk or any other evil deed, in the hope that the plan works and results in their salvation. But, soon after this refusal of theirs, the very parts of their body would testify against them, which would totally frustrate their plan to conceal the truth about their deeds. That will be the time when they will confess every-thing. Hence: "They shall not conceal anything from Allah".
 
 ## Personal Reflections
+
+

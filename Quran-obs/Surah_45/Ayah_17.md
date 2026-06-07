@@ -106,15 +106,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Crouching** (Al-Jathiyah) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ These verses purport to confirm the risalah of the Final Messenger of Allah ﷺ 
 إِنَّ رَ‌بَّكَ يَقْضِي بَيْنَهُمْ ("...Surely your Lord will judge between them, on the Day of Judgment, in the matters in which they used to differ... 45:17) " This far the verses confirm two points: This verse purports to say, firstly, that the Book of Musa (علیہ السلام) contains many clear prophecies about the advent of the Holy Prophet ﷺ and, secondly to comfort the Holy Prophet ﷺ that the Israelites rejected him not because there was any dearth of arguments, signs and Divine prophecies to support and establish his claim, but because of jealousy, love of the world and personal desires, that is, they did not like the very idea that the Final Messenger ﷺ should have appeared from among the non-Israelites . (Bayan-ul-Qur’ an).
 
 ## Personal Reflections
+
+

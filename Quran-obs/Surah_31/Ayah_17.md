@@ -75,18 +75,6 @@ word_by_word:
     transliteration: l-umūri
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A perusal of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "O my son! The Third Bequest of Luqman (علیہ السلام) about the Correction of Deed There are many obligatory deeds, but the greatest and the most important of these is Salah - and not simply that it is important by itself, it also happens to be the master deed that becomes the catalyst changing other deeds towards the better as was pointed out in the Holy Qur'an about it: إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ‌ (Surely Salah restrains from shamelessness and evil A1-` Ankabut, 29:45).
@@ -198,3 +186,5 @@ The Fourth Bequest of Luqman about the Betterment of People
 Islam is a collective religion. Betterment of the community, along with the betterment of the individual, is an important part of its social system. Therefore, the duty of Bidding the Fair and Forbidding the Unfair (amr bi 'l-ma` ruf and nahy 'ani 'l-munkar) was mentioned along with as important a duty as the Salah. It was said: وَأْمُرْ‌ بِالْمَعْرُ‌وفِ وَانْهَ عَنِ الْمُنكَرِ‌ (and bid the Fair and forbid the Unfair -17). Here are two duties: (1) Make yourself better and (2) make others better. Both need a lot of restraint and hard work. Facing these difficulties and remaining firm is no easy task. Particularly so, when those who stand to serve people by telling them what is good for them receive nothing but opposition and hostility in return. Therefore, while making this recommendation, it was also recommended: وَاصْبِرْ‌ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ‌ (and observe patience on what befalls you. Surely, this is among the matters of determination - 17).
 
 ## Personal Reflections
+
+

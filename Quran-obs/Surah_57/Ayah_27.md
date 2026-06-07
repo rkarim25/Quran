@@ -171,15 +171,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Iron** (Al-Hadid) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil.) refering to the Injil that Allah revealed to him,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -300,3 +292,5 @@ The third stage is when a person does not turn a permissible thing into unlawful
 The Holy Prophet ﷺ is reported to have said: لَا رَھبَانِیُّۃَ فَہ الاِسلَامِ (There is no monasticism in Islam.) This relates to a situation where someone abandons permissible things with the mistaken notion that it will bring him reward. If the Children of Israel initiated monasticism for the protection of their religion, it will fall under the second category of righteousness. But the people of the book were given to ghuluww or practicing religious fanaticism. If they turned lawful into unlawful, they fell under the first category and are guilty of committing haram. If they fall under the third category, then too they are guilty of committing something that is condemned. Allah, the Pure and Exalted, knows best!
 
 ## Personal Reflections
+
+

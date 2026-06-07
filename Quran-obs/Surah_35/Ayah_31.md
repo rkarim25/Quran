@@ -72,17 +72,9 @@ word_by_word:
 
 ## Context
 
-To understand **Originator** (Fatir) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And what We have revealed to you of the Book, it is the (very) truth confirming that which was (revealed) before it. Verily, Allah is indeed All-Aware and All-Seer of His servants (31)
 
 And what We have revealed to you – O Muhammad, of the Book, i.e., the Qur'an,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -131,3 +123,5 @@ It has been characterized as trade in the sense that a trader invests his capita
 Included within this grace and increase is the promise of Allah Ta’ ala that He rewards the deed of a believer multiplied many times, the lowest denominator of which could be ten times of the deed, and the highest could reach seven hundred times, even higher than that. Then, also included in this grace is the acceptance of their intercession on behalf of sinners - as it appears in a Hadith narrated by Sayyidna ` Abdullah Ibn Masud ؓ where he has reported the explanation of this grace from the Holy Prophet ﷺ : 'These people will intercede on behalf of anyone who had done some favor to them during the life of the mortal world. Then, despite being deserving of the punishment of Jahannam, such people will stand delivered of it by virtue of their intercession.' (Tafsir Mazhari with reference to Ibn Abi Hatim) (And it is obvious that intercession will be possible only for the people of faith. No one will be allowed to intercede on behalf of a disbeliever). Similarly, the foremost part of this grace is that they will have an opportunity to see Allah Ta’ ala.
 
 ## Personal Reflections
+
+

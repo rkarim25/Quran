@@ -110,18 +110,6 @@ word_by_word:
     transliteration: kabīran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when We told you: "Verily, your Lord has encompassed mankind." And We made not the vision which We showed you but a trial for mankind, and (likewise) the accursed tree in the Qur'an. The word fitnah' (فِتنَہ) appearing in verse 60: وَمَا جَعَلْنَا الرُّ‌ؤْيَا الَّتِي أَرَ‌يْنَاكَ إِلَّا فِتْنَةً لِّلنَّاسِ (And We showed you the scene [ in the Night of Ascent - al-Mi` raj ] only to make it a test for the people) is used in the Arabic language to convey many different meanings.
@@ -175,3 +163,5 @@ The word fitnah' (فِتنَہ) appearing in verse 60: وَمَا جَعَلْن
 It also stands proved from this event that the word رُّ‌ؤْيَا (ru'ya) is though also used in the Arabic language in the sense of dream but, at this place, what is being recounted is no matter of some dream. Had that been the case, there was no reason why people would become apostates. Dreams are dreams. Everyone can see such dreams. In fact, the purpose of employing the word: رُّ‌ؤْيَا (ru'ya) at this place is to show that the marvel was witnessed while awake. While commenting on this verse, some commentators have interpreted it to be referring to other events too besides the event of Mi` raj. But, they do not apply here as a whole. Therefore, the majority of commentators have declared the event of Mi` raj alone as the relevant subject of this verse. (As described in detail by al-Qurtubi)
 
 ## Personal Reflections
+
+

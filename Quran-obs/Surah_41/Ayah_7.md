@@ -39,17 +39,9 @@ word_by_word:
 
 ## Context
 
-To understand **Explained in Detail** (Fussilat) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Say: "I am only a human being like you. It is revealed to me that your God is One God, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him. And woe to the polytheists (6)Those who give not the Zakah and they are disbelievers in the Hereafter (7)Truly, those who believe and do righteous good deeds, for them will be an endless reward that will never stop (8)
 
 (I am only a human being like you. It is revealed to me that your God is One God,) 'not like these idols and false gods which you worship. Allah is one God,'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ The detailed discussion of whether or not the infidels have been asked to follow
 The third question which arises here is that the commandment for Salah is the most important of all the commandments of Islam which has not been mentioned here, so what is the wisdom behind making a special mention of Zakah? Qurtubi etc., have said in reply that Quraysh of Arabia were wealthy people, and they were known for their trait of giving alms and charity and helping the poor. But when somebody would become a Muslim, they would deprive him of such financial help and social assistance also. Zakah has been specially mentioned because the object is to denounce this practice. (Allah knows best)
 
 ## Personal Reflections
+
+

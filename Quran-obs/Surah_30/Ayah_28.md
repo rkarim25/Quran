@@ -118,18 +118,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Therefore from verse 28 onward, the discourse turns to the affirmation of Tauhid and the refutation of shirk , and it is stressed that the natural way of life for man is none else but to serve One God exclusively.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He sets forth for you a parable from yourselves: Do you have partners among those whom your right hands possess to share as equals in the wealth We have bestowed on you, whom you fear as you fear each other? لَهُ الْمَثَلُ الْأَعْلَىٰ (For Him is the highest attribute - 30:27) The word مَثَل mathal is used for any such thing which has resemblance and similarity with something else, but its being exactly like that is not necessary.
@@ -185,3 +173,5 @@ At-Tabarani recorded that Ibn 'Abbas said, "The people of Shirk used to say in t
 لَهُ الْمَثَلُ الْأَعْلَىٰ (For Him is the highest attribute - 30:27) The word مَثَل mathal is used for any such thing which has resemblance and similarity with something else, but its being exactly like that is not necessary. Therefore, the Qur'an has used the word 'mathal' for Allah Ta’ ala at several places, as in this very verse, and in another but Allah Ta’ ala's Being is completely beyond resemblance. (That is why the word 'mathal' has been translated above as 'attribute', which is also a possible lexical meaning of the word.)
 
 ## Personal Reflections
+
+

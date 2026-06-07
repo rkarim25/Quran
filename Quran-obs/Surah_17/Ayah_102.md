@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 102, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But We drowned him and all who were with him. And We said to the Children of Israel after him: "Dwell in the land...") This is good news for Muhammad ﷺ, a foretelling of the conquest of Makkah, even though this Surah was revealed in Makkah before the Hijrah. Similarly, the people of Makkah wanted to expel the Prophet ﷺ from the city, as Allah says in two Ayat:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -194,3 +186,5 @@ Hearing what the Holy Prophet ﷺ said, they both kissed his hands and feet and 
 Since this explanation of the verse stands proved on the authority of Sahih Hadith, therefore, this is what many commentators have preferred to go by.
 
 ## Personal Reflections
+
+

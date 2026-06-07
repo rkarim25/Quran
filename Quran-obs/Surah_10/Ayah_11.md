@@ -80,18 +80,6 @@ word_by_word:
     transliteration: yaʿmahūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And were Allah to hasten for mankind the evil as He hastens for them the good then they would have been ruined. The first of the seven verses cited above relates to people who deny 'Akhirah (Hereafter, life to come).
@@ -143,3 +131,5 @@ Despite what has been said here, there are occasions when comes that moment of D
 The outcome of all these Hadith reports is as follows. As obvious, the main address in the verse under reference concerns the deniers of 'Akhirah who demanded an instant punishment. But, in view of its universality, it includes Muslims as well, who may also break into invoking a curse on themselves or on their belongings and children under some fit of grief or anger. Such is the customary practice of Allah Ta` ala, because of His grace and compassion, that he deals with both of them in the same manner. He does not allow such invocations for curses to be actualized and implemented instantly so that the erring person gets the opportunity to think it out and rescind.
 
 ## Personal Reflections
+
+

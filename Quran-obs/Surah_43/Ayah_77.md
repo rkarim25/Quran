@@ -38,18 +38,6 @@ word_by_word:
     transliteration: mākithūna
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the criminals will be in the torment of Hell to abide therein forever (74)(The torment) will not be lightened for them, and they will be plunged into destruction with deep regrets, sorrows and in despair therein (75)We wronged them not, but they were the wrongdoers (76)And they will cry: "O Malik (keeper of Hell)! The only real friendship is that which is in the sake of Allah الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ (Friends, on that day, will become enemies to one another, except the God-fearing 43:67).
@@ -131,3 +119,5 @@ As against this, when one of the Non-Muslim friends will die, and he will be tol
 Therefore the best friendship, in respect of this world as well as the Hereafter, is the one that is for the sake of Allah. Many are the merits stated in 'ahadith' for those two Muslims who love each other purely for the sake of Allah. One of these merits is that they will be in the shade of the "'Arsh" (Throne) of Allah. And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah. As such, it includes sincere love for teachers of religious subjects, spiritual guides, reformers, religious scholars and devotees of Allah, as well as for all the Muslims.
 
 ## Personal Reflections
+
+

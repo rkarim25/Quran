@@ -16,18 +16,6 @@ word_by_word:
     transliteration: kuwwirat
 ---
 
-## Context
-
-To understand **The Overthrowing** (At-Takwir) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The subject matter and the style clearly show that it is one of the earliest Surahs to be revealed at Makkah. Theme and Subject Matter It has two themes: the Hereafter and the institution of Prophethood. In the first six verses , the first stage of the Resurrection has been mentioned when the sun will lose its light, the stars will scatter, the mountains will be uprooted and will disperse, the people will become heedless of their dearest possessions, the beasts of the jungle will be stupefied and will gather together, and the seas will boil up.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, إِذَا الشَّمْسُ كُوِّرَ‌تْ (When the sun will be folded up...81:1) The word kawwara is derived from Takwir which denotes for the sun 'to lose its light'.1 Sayyidna Hasan Basri (رح) has attached this interpretation to it.
@@ -269,3 +257,5 @@ Commentary
 (1) Another meaning of Takwir is 'to fold', and the translation in the text is based on this meaning. The sense of folding the sun is that its function will come to an end, and it will lose its light. As such, it comes to mean same thing as mentioned in first interpretation. Muhammad Taqi Usmani
 
 ## Personal Reflections
+
+

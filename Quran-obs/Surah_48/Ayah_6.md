@@ -94,18 +94,6 @@ word_by_word:
     transliteration: maṣīran
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He it is Who sent down As-Sakinah into the hearts of the believers, that they may grow more in faith along with their faith. Bounties of Allah upon the Participants of Hudaibiyah In the first three verses of this Surah, reference was made to Allah's particular bounties bestowed upon the Holy Prophet ﷺ in the wake of the manifest victory.
@@ -173,3 +161,5 @@ Bounties of Allah upon the Participants of Hudaibiyah
 In the first three verses of this Surah, reference was made to Allah's particular bounties bestowed upon the Holy Prophet ﷺ in the wake of the manifest victory. Some of the participants of Hudaibiyah congratulating the Holy Prophet ﷺ ، asked him that the favours are conferred exclusively upon him, but what is there in it for them? In response to this query, verses 4-7 were revealed. They distinctly refer to the good graces of Allah upon the participants of Hudaibiyah and the Pledge of Ridwan. These favours were generously bestowed upon them because of faith in, and obedience to, the Holy Prophet ﷺ . All believers whose faith and obedience are complete and perfect will receive similar good graces of Allah.
 
 ## Personal Reflections
+
+

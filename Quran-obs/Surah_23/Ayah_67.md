@@ -23,17 +23,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Believers** (Al-Mu'minun) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ.
 
 (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians of the Ka'bah, when in fact this was not the case. As An-Nasa'i said in his Tafsir of this Ayah in his Sunan: Ahmad bin Sulayman told us that 'Ubaydullah told us from Isra'il, from 'Abdul-A'la that he heard Sa'id bin Jubayr narrating that Ibn 'Abbas said, "Talking by late night became disapproved of when this Ayah was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -136,3 +128,5 @@ Ban on story-telling after ` lsha' prayers
 Story telling was favourite pastime among the Arabs and the Persians since ancient times. This habit was not only time wasting but was also the cause of certain evils. With a view to discourage this practice, the Holy Prophet ﷺ enjoined upon the Muslims not to sleep before the ` Isha' prayers. The philosophy behind this injunction was that all daily human activity ended with the ` Isha' prayers which should arguably be a man's last action and which might even atone for his lapses during the day. On the other hand if, after the ` Isha' prayers, he sits down to while away his time listening to silly and frivolous tales which in itself is a foolish act, he renders himself guilty of encouraging falsehood, backbiting and other sins. Another consequence of this evil habit is that such a person will go to bed late, will rise late and miss his early morning prayers. Sayyidna ` Umar ؓ used to admonish people whom he found listening to stories after ` Isha' prayers and advised them to go early to bed so that with Allah's grace they might be enabled to say midnight prayers. (Qurtubi)
 
 ## Personal Reflections
+
+

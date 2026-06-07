@@ -66,18 +66,6 @@ word_by_word:
     transliteration: fayakūnu
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the likeness of 'Isa before Allah is the likeness of Adam. The event of Mubahala and the refutation of heretics.
@@ -197,3 +185,5 @@ The background of these verses is that the Holy Prophet ﷺ ultimatum to the Chr
 After mutual consultation, the Christians sent a delegation to the Holy Prophet ﷺ consisting of Shurahbil ` Abdullah b. Shurahbil and Jabbar ibn Fayd to the Holy Prophet ﷺ ۔ They came and began their talks on religious issues. When they, in their effort to prove the godhood of Jesus (علیہ السلام) ، took their debate to the extremes of dispute, that was the moment this verse of Mubahala was revealed. Thereupon, the Holy Prophet ﷺ invited the Christians to join in the Mubahala confrontation (a form of resolving disputes by praying to Allah, the details of which shall shortly be discussed) and quite readily, he himself came out with Sayyidah Fatimah ؓ Sayyidna Ali ؓ and their sons, Hasan and Husain ؓ along with him all set for the مُباھلہ Mubahalah. Looking at this, Shurahbil said to his two comrades: 'Look, you already know that he is a prophet of Allah and getting into a Mubahalah confrontation with a prophet means certain death and destruction for us. So find out some other way to get out of this fix.' His comrades asked him as to what he thought it could be. Shurahbil said: 'I think the best solution is to opt for a truce as advised by the prophet'. So, on this everybody agreed. As a result, the Holy Prophet ﷺ made peace by fixing a levy on them which was accepted by them as well. (Tafsir ibn Kathir).
 
 ## Personal Reflections
+
+

@@ -58,18 +58,6 @@ word_by_word:
     transliteration: fakhūrun
 ---
 
-## Context
-
-To understand **Hud** (Hud) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if We give man a taste of mercy from Us, and then withdraw it from him, verily, he is despairing, ungrateful (9)But if We let him taste good (favor) after evil (poverty and harm) has touched him, he is sure to say: "… In the verses appearing above, it has been confirmed that the Holy Prophet ﷺ is a Messenger of Allah and an answer has been given to those who engineer doubts about it.
@@ -139,3 +127,5 @@ When people start worshipping the present and elect to remain drunk with the sta
 A perfect believer, in fact, a perfect human being is one who is able to perceive the hidden Power behind every change, revolution, sorrow and comfort, ignore their transitory phases, dismiss their material causes as the sole explanation. The mark of an intelligent person is that he looks at the originator or causer of causes more than he would look at causes, and it is with Him alone that he would relate to as firmly as possible.
 
 ## Personal Reflections
+
+

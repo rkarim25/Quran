@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who belie Our Ayat and treat them with arrogance, for them the gates of the heavens will not be opened, and they will not enter Paradise until the Jamal goes through the eye of the needle. Mentioned first in the set of verses cited above (35-37) is a pledge taken from every human being in the world of spirits, before being born into the material world.
@@ -131,3 +119,5 @@ To sum up, it can be said that the spirits of deniers and disbelievers are taken
 Towards the end of the verse, it was said: وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ (and they shall not enter the Paradise unless a camel enters into the eye of a needle). Here, the word: ' يَلِجَ (yalij) is from: وَلوُج (wuluj) which means to enter a narrow opening. Jamal is camel and Samm, the eye of a needle. The translation covers the meaning literally. The sense of the verse is that the camel is a big animal and its entry into the eye of a needle is functionally impossible. So, equally impossible is their entry into Paradise. The purpose is to state that the punishment of Hell for them is everlasting. Then, follow the words which describe the added severity of the punishment in Hell: لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ (For them there is a bed from the Jahannam, and over them there are coverings). The word: مِهَادٌ (mihad) means a place of rest, bed or floor and: غَوَاشٍ (ghawash) is the plural form of: (ghashiyah) which means something which covers. The sense is that for these people to rest, the bed and the top sheet will all come from Hell (an eloquent manner of putting the extreme severity of the punishment in everyday idiom). It will be noticed that at the end of the first verse, which mentions the deprivation from Paradise, it was said: وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ (And this is how We recompense the sinners). Then, in the second verse, which describes the punishment of Hell, it was said: وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ (And this is how We recompense the transgressors) because it is more severe than the former.
 
 ## Personal Reflections
+
+

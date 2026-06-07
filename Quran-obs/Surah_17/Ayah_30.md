@@ -54,18 +54,6 @@ word_by_word:
     transliteration: baṣīran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills). Spending in the way of Allah so liberally as would throw one in trouble: The pros and cons of it The verse, given the outer view, seems to prohibit the kind of spending following which the spender himself ends up becoming poor and needy, a prey of all sorts of hardships and anxieties.
@@ -135,3 +123,5 @@ Poorly managed spending is prohibited
 And the main thing in the verse is that it prohibits spending haphazardly in the sense that one would ignore what may happen in the near future and spend on the spot. The result is that comes tomorrow, other needy people show up or one is required to take care of a major religious exigency and he would, then, be in no position to help out. (Qurtubi) Or, he may be rendered equally incapable of fulfilling the rights of his family, something he is duty-bound to fulfill. (Mazhari) Explaining the words: مَلُومًا مَّحْسُورً‌ا (reproached, empty-handed - 29), Tafsir Mazhari says that the first word: مَلُوم (malum) relates to the first condition, that is, miserliness - meaning if he were to hold back on giving out of miserliness, people would reproach him.' And the word: مَّحْسُورً‌ا (mahsura) relates to some condition other than this - meaning that one should not exaggerate in spending to the extent that he himself becomes a pauper. If so, he will turn empty-handed, defeated and rueful.
 
 ## Personal Reflections
+
+

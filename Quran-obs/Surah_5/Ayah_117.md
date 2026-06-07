@@ -126,18 +126,6 @@ word_by_word:
     transliteration: shahīdun
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 117, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Allah will say (on the Day of Resurrection): "O 'Isa, son of Maryam! 1.
@@ -239,3 +227,5 @@ Important Notes
 2. About the sentence: فَلَمَّا تَوَفَّيْتَنِي كُنتَ أَنتَ الرَّ‌قِيبَ عَلَيْهِمْ (And when You picked me up You were the One watching over them) in verse 117, a de-tailed discussion of the subject of the ` death' or ` having been raised to-ward Allah' has appeared in the Commentary on Surah Al-'Imran under verse 3:55: إِنِّي مُتَوَفِّيكَ وَرَ‌افِعُكَ (I am to take you in full and lift you towards Me). It may be seen there [ Ma` ariful-Qur'an, English Translation, Volume II, pages 76-81]. As for using the verse 117 : فَلَمَّا تَوَفَّيْتَنِي ` falamma tawaffaitani) to reject his ascension to heavens and to establish his natural death is not a sound inference, because the time of this conversation shall be the day of Qiyamah - and at that time, after he has descended down from the heaven, he would have had his natural and real death. Therefore, as reported by Ibn Kathir on the authority of a narration from Sayyidna Abu Musa al-Ash` ari ؓ ، the Holy Prophet ﷺ said: On the day of Qiyamah, the prophets and their communities will be summoned. Then, Sayyidna ` Isa (علیہ السلام) will be called. Then, Allah Ta` ala will remind him of His blessings and drawing him closer, He will say, ` O ` Isa son of Maryam: اذْكُرْ‌ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ Remember My blessing upon you and upon your mother.' Then, in the end, He would say: يَا عِيسَى ابْنَ مَرْ‌يَمَ أَأَنتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَـٰهَيْنِ مِن دُونِ اللَّـهِ : ( O ` Isa son of Maryam, did you say to the people: Take me and my mother as gods beside Allah?). Sayyidna ` Isa (علیہ السلام) will deny it saying that he did not. Then, the question will be asked from the Christians. They will say, ` yes, this is what he had ordered us to do.' After that, they will be driven towards Hell.
 
 ## Personal Reflections
+
+

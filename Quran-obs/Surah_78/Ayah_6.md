@@ -20,18 +20,6 @@ word_by_word:
     transliteration: mihādan
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Beneficent, the Most Merciful. كَلَّا سَيَعْلَمُونَ ثُمَّ كَلَّا سَيَعْلَمُونَ (Truly, they will soon know.
@@ -193,3 +181,5 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 Then the Holy Qur'an has pointed to different demonstrations of His power to prove that it is not impossible for Allah to destroy this entire world and re-create it once again. Reference is made to the creation of earth, mountains, human beings, males and females and the creation of suitable conditions for human life, health and activities. One of the things mentioned in this connection is:
 
 ## Personal Reflections
+
+

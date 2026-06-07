@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-muh'tadūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 157, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And certainly, We shall test you with something of fear, hunger, loss of wealth, lives and fruits, but give glad tidings to As-Sabirin (the patient)(155)Who, when afflicted with calamity, say: "Truly, to Allah we belong and truly, to Him we shall return. Patience in hardship: The way to make it easy The nature and the significance of the severe test man is put to by Allah has been thoroughly discussed while explaining the verse’ وَإِذِ ابْتَلَىٰ إِبْرَ‌اهِيمَ رَ‌بُّهُ 'And when his Lord put Ibrahim to a test'.
@@ -157,3 +145,5 @@ A formula of peace in hardship
 That the patient people used to recite: إِنَّا لِلَّـهِ وَإِنَّا إِلَيْهِ رَ‌اجِعُونَ : 'We belong to Allah and to Him we are to return' is, in fact, an inculcation of the principle of virtue. The suggestion is that this is what the patient people should say as it brings excellent reward, relieves from the burden of sorrow and suffering and consoles effectively the grieved heart.
 
 ## Personal Reflections
+
+

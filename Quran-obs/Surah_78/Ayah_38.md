@@ -63,18 +63,6 @@ word_by_word:
     transliteration: ṣawāban
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, for those who have Taqwa, there will be a success (31)Hada'iq and vineyards (32)And Kawa'ib Atrab (33)And a cup Dihaq (34)No Laghw shall they hear therein, nor lying (35)Rewarded from your Lord with a sufficient… یوْمَ يَقُومُ الرُّ‌وحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّ‌حْمَـٰنُ وَقَالَ صَوَابًا (on the Day when the Spirit and the angels will stand in rows.
@@ -242,3 +230,5 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 یوْمَ يَقُومُ الرُّ‌وحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّ‌حْمَـٰنُ وَقَالَ صَوَابًا (on the Day when the Spirit and the angels will stand in rows. They will not speak, except the one who is permitted by the Rahman [ the All-Merciful ] and speaks aright -78:38). Ruh (Spirit), according to some of the commentators, refers to the angel Jibra'il He has been mentioned before the other angels in general in order to show the greatness of his status. According to certain Prophetic traditions, Ruh is not an angel but a huge army of Allah. They have heads, hands and legs. In this interpretation, there will be two rows. One row will be that of Ruh and the other will be that of the angels.
 
 ## Personal Reflections
+
+

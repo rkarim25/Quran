@@ -32,18 +32,6 @@ word_by_word:
     transliteration: l-muk'ramīna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It was said: "Enter Paradise." He said: "Would that my people knew. Since this man of piety laid down his life valiantly in the way of Allah, he was blessed with honor as said in Verses 26 and 27: قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ بِمَا غَفَرَ‌ لِي رَ‌بِّي وَجَعَلَنِي مِنَ الْمُكْرَ‌مِينَ ("He said, 'Would that my people knew how my Lord has forgiven me and placed me among the honored ones!" ).
@@ -155,3 +143,5 @@ It will be noticed that Habib Najjar did not attribute all these things to them,
 In our time, da'wah workers have generally abandoned this prophetic way, therefore, their call and communication have lost effectiveness. Betraying anger and making damaging comments against the adversary are supposed to be master strokes in lectures and sermons while, in reality, such tactics push the adversary to more hardened stances of doggedness and hostility. 0 Allah make us follow the way of prophets and bless us with the good fortune of doing what you like and are pleased with.
 
 ## Personal Reflections
+
+

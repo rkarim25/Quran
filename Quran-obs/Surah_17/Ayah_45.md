@@ -54,18 +54,6 @@ word_by_word:
     transliteration: mastūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when you recite the Qur'an, We put between you and those who believe not in the Hereafter, an invisible veil (45)And We have put Akinnah over their hearts, lest they should understand it, and in their ears deafness. The meaning of Tasbih (glorification of Allah) said by the heavens and the earth and everything present therein Among these, the Tasbih of Allah said by all angels and believing jinn and human beings is self-evident.
@@ -153,3 +141,5 @@ Imam al-Qurtubi (رح) has said that Hadith reports relating to such matters abo
 After all these reports, why should it remain so far out to realize that everything in the heavens and the earth has consciousness and sense and that everything really glorifies Allah. Ibrahim (رح) says that this tasbih is universal. It includes the animate and the inanimate both. So much so that the least sound made by the panels of doors are not devoid of tasbih. Imam al-Qurtubi has said, 'If this glorification of Allah was a state-articulated tasbih, why was it made so particular to Sayyidna Dawud (علیہ السلام) in the verse referred to a little earlier? A state-articulated tasbih is something every discerning human being can sense out from everything. This makes it obvious that this tasbih was spoken, verbally and audibly.
 
 ## Personal Reflections
+
+

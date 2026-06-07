@@ -174,18 +174,6 @@ word_by_word:
     transliteration: alīman
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They are those who disbelieved and hindered you from Al-Masjid Al-Haram and detained the sacrificial animals, from reaching their place of sacrifice. فَتُصِيبَكُم مِّنْهُم مَّعَرَّ‌ةٌ بِغَيْرِ‌ عِلْمٍ (and thus an embarrassing situation might have befallen you because of them unknowingly....48:25): According to some authorities on lexicology ma'arrah connotes "sin"; according to others it means "harm"; and other authorities say it denotes "shame" or "embarrassment".
@@ -471,3 +459,5 @@ Imam Qurtubi says that if a Muslim unknowingly kills another Muslim, it is not a
 لَوْ تَزَيَّلُوا (And if they [ the believing men and women ] had been separate, [ from disbelievers ], We would surely have punished those of them who disbelieved....48:25) Lexically, the word tazayyul denotes 'separation'. The sense is that if Muslims detained in Makkah had been separate and distinct from the unbelievers, the Muslims coming from Madinah would have been able to save them in case of war, and Allah would have had the disbelievers punished then and there, because that was the demand of their attitude. However, the Makkan society at that time was a mixed society - helpless Muslim men and women and non-Muslims were living together. The Muslims were indistinguishable from non-Muslims. If fighting had broken out, there would have been no way to save the Muslims. Therefore, Allah averted the war.
 
 ## Personal Reflections
+
+

@@ -109,15 +109,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 107, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 However, on his return from the battle of Tabuk, when he camped at a place close to Madinah, the verses cited above were revealed to him which had exposed the conspiracy of these hypocrites. After the revelation of these verses, the Holy Prophet ﷺ ordered some of his Companions, ` Amir ibn Sakan, Wahshi, the killer of Hamzah and others, to go, demolish and burn the structure (of the ill-intentioned ` masjid' ). So these gentlemen took off, carried out the orders and the structure was leveled flat on the ground. (This event has been abridged from narratives reported in Tafsir al-Qurtubi and Mazhari.)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -238,3 +230,5 @@ This presentation as a whole proves that the ` masjid' which was declared to be 
 From here we also learn about another rule relevant in contemporary setting. If a Muslim makes a masjid in that manner, either to show off or to take an opposing stance out of obstinacy and enmity, the maker will, though, not get the reward of making a masjid, instead, will incur a sin, yet it will not be what Masjid Dirar is in the terminology of the Holy Qur'an, that is, it will not be called by that name. When some people notice a masjid like that, they would say that it was Masjid Dirar. This is not correct. However, one could say that it was like Masjid Dirar. Therefore, its building can also be stayed - as done by Sayyidna ` Umar ؓ through a court order where he had instructed that another masjid should not be made close to the one already there lest the congregation and flourish of the first masjid is affected adversely. (Tafsir Kashsha)
 
 ## Personal Reflections
+
+

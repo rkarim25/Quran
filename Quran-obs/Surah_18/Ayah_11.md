@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ʿadadan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do you think that the people of Al-Kahf and Ar-Raqim were a wonder among Our signs (9)When the young men fled for refuge to Al-Kahf. People of Kahf: Place and Period Tafsir authority al-Qurtubi of al-Andulus (Spain) has reported some events at this juncture in his Tafsir.
@@ -200,3 +188,5 @@ These were particular segments of the story that were neither described by the Q
 Up to this point, the Qur'an had mentioned this story in brief. Details follow.
 
 ## Personal Reflections
+
+

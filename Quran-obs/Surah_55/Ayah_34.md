@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tukadhibāni
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! (0 genera of Jinns and mankind, If you are able to penetrate beyond the realms of the heavens and the earth, then penetrate.
@@ -113,3 +101,5 @@ This Verse does not point to Space Exploration by Rockets and Sputniks
 In the present scientific age, experiments are being conducted in an effort to come out of the gravity of the earth and to explore the heavenly bodies by rockets, sputniks and other spacecrafts. Obviously, none of these experiments are conducted beyond the bounds of the heaven. In fact, they are far below the surface of the heaven, let alone crossing the heavenly confines. Thus this verse has no bearing on space travels and reported incidents of reaching some of the heavenly bodies. Some simple-minded people posit this verse as the basis of demonstrating the possibility of space travels, whereas these simpletons are merely displaying ignorance about the actual meaning of the Qur'an.
 
 ## Personal Reflections
+
+

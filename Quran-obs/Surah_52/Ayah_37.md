@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-muṣayṭirūna
 ---
 
-## Context
-
-To understand **The Mount** (At-Tur) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or were they created by nothing? { 1} This is an answer to one of the objections frequently raised by the disbelievers of Makkah against the prophethood of the Holy Prophet .
@@ -120,3 +108,5 @@ This Hadith is collected in the Two Sahihs using various chains of narration. Ju
 { 1} This is an answer to one of the objections frequently raised by the disbelievers of Makkah against the prophethood of the Holy Prophet . They used to ask why he was chosen for messenger-ship, and not one of the outstanding chiefs of the tribe. The answer given in this verse is that the selection of prophets is the exclusive prerogative of Allah. He has the treasures of knowledge, and it is He who decides to whom they should be given. The attitude of those who raise objections against His decision is tantamount to claiming that the disposal of these treasures should have been in their hands, and they should have the decisive power to select prophets. (Muhammad Taqi Usmani)
 
 ## Personal Reflections
+
+

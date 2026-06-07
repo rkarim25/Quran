@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-fīli
 ---
 
-## Context
-
-To understand **The Elephant** (Al-Fil) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fil is a **Makkah** surah—revealed as the 19th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Makki Surah; and if it is studied against its historical background it appears that it must have been sent down in the very earliest stage in Makkah. Historical Background As we have explained in footnote 4 of Surah Al-Buruj , in retaliation for the persecution of the followers of the Prophet Jesus Christ (peace be on him) in Najran by the Jewish ruler Dhu-Nuwas of Yemen, the Christian kingdom of Abyssinia invaded Yemen and put an end to the Himyarite rule there, and in 525 A.D. this whole land passed under Abyssinian control.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The subject-matter of the Surah This Surah refers to the story of the People of the Elephants who came with an army of elephants for the purpose of destroying the House of Allah in (The Holy Ka'bah) in Makkah.
@@ -220,3 +208,5 @@ Lexical Analysis
 Verse [ 105:1] أَلَمْ تَرَ‌ كَيْفَ فَعَلَ رَ‌بُّكَ بِأَصْحَابِ الْفِيلِ (Have you not seen how your Lord dealt with the people of the Elephant?) In the phrase alam tara [ have you not seen ], the second person pronoun refers to the Holy Prophet ﷺ . It is interesting to note that the event took place before the blessed birth of the Holy Prophet ﷺ . He could not have seen or witnessed it with his own eyes. However, the incident was so widely known as if the Prophet ﷺ had seen it with his own eyes, which is a sign of the certainty of its happening. Such a knowledge is described by the word ru'yat [ seeing ]. As reported earlier, Sayyidah ` A'ishah ؓ and her sister, Sayyidah Asma' ؓ both say that they had seen the two camel drivers had become blind and paralyzed and used to go around begging. In this way, the traces of this event were seen even after the birth of the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

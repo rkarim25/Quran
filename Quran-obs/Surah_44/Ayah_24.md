@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Smoke** (Ad-Dukhan) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -190,3 +182,5 @@ Ibn Jarir recorded that Sa'id bin Jubayr said, "A man came to Ibn 'Abbas, may Al
 وَاتْرُ‌كِ الْبَحْرَ‌ رَ‌هْوًا "And leave the sea in the state of stillness; (44:24) " The word rahwan means 'to be still/calm/motionless'. When Prophet Musa (علیہ السلام) and his companions crossed the sea, Musa ill naturally desired for the sea to go back to its original state. So he wanted to strike it with his staff so that it would form a barrier between them and Fir'aun to prevent him from reaching them. But Allah commanded him to leave it as it was, quiet and divided, and gave him the glad tidings that they were a host to be drowned, and he should not fear either being overtaken by Fir'aun or drowning in the sea. When Fir'aun, with his host, will reach the middle of the dry path, Allah will cause the water to flow and they will drown. (Ibn Kathir).
 
 ## Personal Reflections
+
+

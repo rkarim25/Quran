@@ -86,17 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The Truthful Ones from among the People of the Scriptures rejoice at what Allah has revealed to Muhammad (ﷺ)
 
 (but there are among the Ahzab (Confederates) those who reject a part thereof.) meaning, 'There are those among the sects who disbelieve in some of what was revealed to you (O Muhammad).' Mujahid said that,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -187,3 +179,5 @@ Allah said,
 In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ نَفْسٍ (Is then He, who is watchful over everyone ... 33), the ignorance and irrationality of the disbelievers has been exposed by saying that these people are certainly short on sense when they equate inert idols with His pure Being, a Being that watches everyone and is the ultimate reckoner of everyone's deeds. Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
 
 ## Personal Reflections
+
+

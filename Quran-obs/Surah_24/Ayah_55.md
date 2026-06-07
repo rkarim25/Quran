@@ -167,15 +167,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bara' bin 'Azib said, "This Ayah was revealed when we were in a state of extreme fear." This Ayah is like the Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -336,3 +328,5 @@ The literal meaning of the word Kufr is thanklessness and in conventional sense 
 Hence, the sequence of mutual killing which had commenced with the Shahadah (martyrdom) of Sayyidna ` Uthman' ؓ has continued in the Ummah throughout. Similarly, the way assassins of ` Uthman ؓ acted against the blessings of Allah Ta’ ala and solidarity of Islam and were ungrateful to Him, the Rawafid and Khawarij did the same after that by grouping against the Guided Khulafa'. The incident of great sacrifice of Sayyidna Husain Ibn Ali ؓ also happened under the same sequence نسال اللہ الھدایہ و شکر نعمتۃ
 
 ## Personal Reflections
+
+

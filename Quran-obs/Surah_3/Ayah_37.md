@@ -147,18 +147,6 @@ word_by_word:
     transliteration: ḥisābin
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So her Lord (Allah) accepted her with goodly acceptance. In order to fulfill her vow, Sayyidah Maryam's mother took her to the Mosque of بیت المقدس Baitul-Maqdis and talked to the care-takers and worshippers at the Mosque, Sayyidna Zakariyya (علیہ السلام) being one of them, and.
@@ -216,3 +204,5 @@ Sayyidna ` Imran (علیہ السلام) was the Imam of this Mosque. He had die
 So, he got custody of Maryam. According to some reports, he employed a wet-nurse to have her suckled. Other reports say that she just did not need to be suckled. She grew up able to sit and walk and Sayyidna Zakariyya (علیہ السلام) put her in a good house adjacent to the Mosque. When he went out, he locked the house and opened it on re-turn. This has been stated briefly in the present verse.
 
 ## Personal Reflections
+
+

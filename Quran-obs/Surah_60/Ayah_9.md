@@ -92,18 +92,6 @@ word_by_word:
     transliteration: l-ẓālimūna
 ---
 
-## Context
-
-To understand **She that is to be examined** (Al-Mumtahanah) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-1-9 , and the concluding verse 13 also relates to it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Perhaps Allah will make friendship between you and those whom you hold as enemies. إِنَّمَا يَنْهَاكُمُ اللَّـهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَ‌جُوكُم مِّن دِيَارِ‌كُمْ وَظَاهَرُ‌وا عَلَىٰ إِخْرَ‌اجِكُمْ أَن تَوَلَّوْهُمْ (Allah forbids you only from having friendship with those who fought you on account of faith, and expelled you from your homes, and helped (others) in expelling you....60:9) This verse speaks of those unbelievers who fought the Muslims in the matter of religion, drove them from their homes or supported their expulsion.
@@ -203,3 +191,5 @@ Then Allah stresses His threat against being friends with them, by saying,
 إِنَّمَا يَنْهَاكُمُ اللَّـهُ عَنِ الَّذِينَ قَاتَلُوكُمْ فِي الدِّينِ وَأَخْرَ‌جُوكُم مِّن دِيَارِ‌كُمْ وَظَاهَرُ‌وا عَلَىٰ إِخْرَ‌اجِكُمْ أَن تَوَلَّوْهُمْ (Allah forbids you only from having friendship with those who fought you on account of faith, and expelled you from your homes, and helped (others) in expelling you....60:9) This verse speaks of those unbelievers who fought the Muslims in the matter of religion, drove them from their homes or supported their expulsion. These are hostile disbelievers and the Divine injunction in connection with them is abstain from having friendly or cordial intimacy with them. This verse does not forbid just and friendly or cordial intimacy with them. It merely forbids friendly intimacy and relations. Prohibition of having such friendly intimacy is not restricted only to those enemies who actively wage war against Muslims, but it is extended to ahludh- dhimmah [ non-Muslim citizens of an Islamic State ] and to اَھلُ الصُّلح ahlus-sulh [ non-Muslims with whom there is a peace pact ]. Intimate and heart-felt friendship is not allowed with them too. On the basis of this juristic principle, Mazhari has ruled that justice, equity and fairness are necessary even with the hostile disbelievers who are at war with Muslims. Prohibition applies only in the case of cordial and friendly intimacy, not in the case of courteous attitude and kindness. This shows that it is permissible to be police and courteous to those hostile enemies who are at war with Muslims. However, treating them with tenderness and courtesy should not cause danger, threat, or loss to Muslims. Wherever courtesy or tenderness might pose such a danger, it is not permitted to be tender or courteous towards them. Of course, justice and equity in all cases and under all circumstances are necessary and imperative. Allah, the Pure and Exalted, knows best!]
 
 ## Personal Reflections
+
+

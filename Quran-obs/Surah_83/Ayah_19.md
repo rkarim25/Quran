@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ʿilliyyūna
 ---
 
-## Context
-
-To understand **The Defrauding** (Al-Mutaffifin) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mutaffifin is a **Makkah** surah—revealed as the 86th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 36 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of the Surah and its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay! كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ (No!
@@ -117,3 +105,5 @@ Ibn Mas'ud said concerning Allah's statement,
 كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ (No! The record of deeds of the righteous is in ` illiyyun....83:18). According to some authorities, ` illiyyun is the plural of ` uluww and it signifies the 'highest point'. According to Farra', this is the name of a place. It is not a plural, but on the measure of plural. When analysing the word sijjin in the foregoing paragraphs, the traceable Tradition of Sayyidna Bath' Ibn ` Azib ؓ was cited to prove that ` illiyyin is a place on the seventh heaven beneath the Divine Throne where the souls of the believers and their registers of deeds are kept. The phrase: كِتَابٌ مَّرْقُومٌ(A register inscribed...83:20) is not the interpretation of illiyyin, but rather an explication their records of deeds, as in the verse that precedes it:
 
 ## Personal Reflections
+
+

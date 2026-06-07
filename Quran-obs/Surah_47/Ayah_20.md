@@ -118,18 +118,6 @@ word_by_word:
     transliteration: lahum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Besides, it has another well known name " al-Qital " also, which is derived from the sentence wa dhukira fi-hal-qital of verse 20 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death. سُورَ‌ةٌ مُّحْكَمَةٌ (an operative surah): The word مُّحْكَمَةٌ muhkamah lexically means "firm".
@@ -241,3 +229,5 @@ Commentary
 أَوْلَىٰ لَهُمْ (So, destruction is very close to them - 47:20] The Arabic word used in the text, according to Asma'i, means that the causes of destruction have approached or drawn near to them (Qurtubi).
 
 ## Personal Reflections
+
+

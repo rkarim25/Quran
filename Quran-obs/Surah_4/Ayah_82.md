@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two Sahihs. When 'Umar was informed that the Messenger of Allah ﷺ divorced his wives, he came from his house, entered the Masjid and found the people talking about this news. He could not wait and went to the Prophet ﷺ to ask him about what had truly happened, asking him, "Have you divorced your wives?" The Prophet ﷺ said, "No." 'Umar said, "I said, Allahu Akbar..." and mentioned the rest of the Hadith. In the narration that Muslim collected, 'Umar said, "I asked, 'Have you divorced them?' He said, 'No.' So, I stood by the door of the Masjid and shouted with the loudest voice, 'The Messenger of Allah ﷺ did not divorce his wives.' Then, this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -171,3 +163,5 @@ It is from this verse that we also come to know an important rule, that is, when
 The last sentence of verse 82: وَلَوْ كَانَ مِنْ عِندِ غَيْرِ‌ اللَّـهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرً‌ا translated as 'Had it been from someone other than Allah, they would have found in it a great deal of contradiction' needs some explanation. Here, 'a great deal of contradiction' means: Had there been a contradiction in one subject, the contradiction in many subjects would obviously have become a great deal of contradiction (Bayan a1-Qura'n). But, the truth of the matter is that there is just no contradiction anywhere in the Qur'an. So, this is the word of Allah Almighty. This perfect uniformity cannot be found in the word of man. Then there is its unmatched eloquence which never tapers. It talks about the Oneness of Allah and the disbelief of men and lays down rules for the lawful and the unlawful, yet there is no inconsistency, no discrepancy in the process. It offers information about the unseen but there is not one bit of information which does not match with reality. Then there is the very order of the Qur'an which retains the quality of its diction all along, never ever touching a pitch which is low. The speech or writing of man is affected by circumstances. It varies with peace and distraction and happiness and sorrow. But, Qur'an is free of all sorts of incongruities and contradictions - actually, it is beyond any such thing. And this is a clear proof of its being the word of God.
 
 ## Personal Reflections
+
+

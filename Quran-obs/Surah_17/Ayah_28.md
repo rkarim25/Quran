@@ -57,17 +57,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Regarding the background of the revelation of this verse, a report from Sayyidna Ibn Zaid ؓ says that some people used to ask for financial help from the Holy Prophet ﷺ and he knew what would be given to them would be spent in the spreading of disorder. Therefore, he refused to give it to them, for this refusal was a device to stop them from indulging in disorder. Thereupon, this verse was revealed. (Qurtubi)
 
 In the Musnad of Said ibn Mansur, it has been mentioned on the authority of Sayyidna Saba' ibn Hakam ؓ that the Holy Prophet ﷺ had received some supply of cloth. He distributed it over those deserving. After that came some others when the supply was finished and he had nothing to give. It was about the later that this verse was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -150,3 +142,5 @@ Regarding the background of the revelation of this verse, a report from Sayyidna
 In the Musnad of Said ibn Mansur, it has been mentioned on the authority of Sayyidna Saba' ibn Hakam ؓ that the Holy Prophet ﷺ had received some supply of cloth. He distributed it over those deserving. After that came some others when the supply was finished and he had nothing to give. It was about the later that this verse was revealed.
 
 ## Personal Reflections
+
+

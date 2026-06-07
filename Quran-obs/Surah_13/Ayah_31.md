@@ -220,17 +220,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah praises the Qur'an which He has revealed to Muhammad, peace be upon him, and prefers it to all other divinely revealed Books before it,
 
 Clear proofs of Islam being the true religion and the Holy Prophet ﷺ being the true prophet were there before the disbelievers of Makkah. They could see the signs from every department of his life, and from his many miracles, openly and comprehensively. The chief of the disbelievers, Abu Jahl had already declared that they stood in competition with the tribe of Banu Hashim. How could they ever accept their superiority in a matter so crucial - that the Messenger of Allah had to rise from among them? So, let them say what they have to say, and let them show whatever signs they must show. As for them, they were not going to believe in him under any condition whatsoever. Therefore, bent on confron-tation, they lost no opportunity to display their obstinacy asking absurd questions and making unreasonable demands. The present verses too have been revealed in response to a question asked by Abu Jahl and his accomplices.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -365,3 +357,5 @@ As explained earlier, 'wa` dah' or 'promise' at this place means the Conquest of
 The hostile questions asked by the disbelievers and the obstinacy shown by them as described in the event mentioned above posed the problem that these may cause pain to the Holy Prophet ﷺ ، therefore, in the next verse,
 
 ## Personal Reflections
+
+

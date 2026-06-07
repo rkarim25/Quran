@@ -91,15 +91,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 'Abdur-Rahman bin Zayd bin Aslam and others said: "This Ayah was revealed to criticize the idolators for what they used to make lawful and unlawful. Like the Bahirah, Sa'ibah and Wasilah." As Allah said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -158,3 +150,5 @@ Allah criticized those who make lawful what Allah has made unlawful or vice vers
 In the third verse (59), warning has been given to people who introduce their personal opinion in the serious matter of Halal (lawful) and Haram (unlawful). They would, at will, declare something to be Halal and dub something to be Haram - without any authority of the Qur'an, and Sunnah. A severe warning of no less a punishment than that of the day of Qiyamah has been given to those who commit this crime (60). This tells us that the fact of something being Halal or Haram does not depend on human opinion. Instead of that, it is the special right and prerogative of Allah Ta` ala and His Messenger. Without their injunctions, it is not permissible to call something either حلال Halal or حرام Haram.
 
 ## Personal Reflections
+
+

@@ -98,17 +98,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah says that those who rejected His Messengers did not give Allah due consideration. Ibn 'Abbas, Mujahid and 'Abdullah bin Kathir said that this Ayah was revealed about the Quraysh. It was also said that it was revealed about some Jews.
 
 (Those who believe in the Hereafter believe in it,) meaning, those who believe in Allah and the Last Day, believe in this blessed Book, the Qur'an, which We revealed to you, O Muhammad ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -229,3 +221,5 @@ A little thought would reveal that the lack of concern for the 'Akhirah is the m
 O Allah, make all our concerns a single concern - the concern for 'Akhirah.
 
 ## Personal Reflections
+
+

@@ -54,18 +54,6 @@ word_by_word:
     transliteration: kaẓīmun
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Yet, they assign to some of His servants a share with Him. وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا (And they have attributed to Him [ that He is composed on parts [ and that too ] out of His slaves...43:15) 'parts' in this verse means 'offspring', because the polytheists used to say that angels are daughters of Allah, and by using the word 'parts' instead of 'offspring' the fallacy of their claim has been pointed out on pure logical ground.
@@ -153,3 +141,5 @@ And Allah says in this Ayah, after mentioning this argument of theirs:
 وَجَعَلُوا لَهُ مِنْ عِبَادِهِ جُزْءًا (And they have attributed to Him [ that He is composed on parts [ and that too ] out of His slaves...43:15) 'parts' in this verse means 'offspring', because the polytheists used to say that angels are daughters of Allah, and by using the word 'parts' instead of 'offspring' the fallacy of their claim has been pointed out on pure logical ground. The gist of the argument is that had Allah any offspring, that offspring will have been His part, because a son is a part of his father, and it is a rule of logic that an entity that consists of parts is dependent upon its parts for its full existence. This will then necessarily mean that Allah Ta’ ala is also dependent on His offspring, which is obviously impossible, because dependence of any kind, being a negation of the Divine Majesty, is out of question in Allah's case.
 
 ## Personal Reflections
+
+

@@ -82,15 +82,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We have enjoined on man to be dutiful and kind to his parents.)(46:15) meaning, 'We have commanded him to treat them well and show compassion towards them. Abu Dawud At-Tayalisi recorded from Sa'd bin Abi Waqqas, may Allah be pleased with him, that his mother said to him: "Hasn't Allah commanded that you obey your parents? Then I will not eat any food or drink any drink until you disbelieve in Allah." Thus she stubbornly abstained from eating and drinking, until they had to open her mouth with a stick. Then this Ayah was revealed,
 
-أُولَـٰئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا وَنَتَجَاوَزُ عَن سَيِّئَاتِهِمْ (Such are the people from whom we accept the best of what they did and overlook their evils.... - 46:16) This, too, is a general rule, and if the verse was revealed with reference to Sayyidna Abu Bakr ؓ ، then he would be the first to be included in its generality. A quotation from Sayyidna ‘Ali ؓ which is given below also indicates that sense of the verse is general.
+أُولَـٰئِكَ الَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا وَنَتَجَاوَزُ عَن سَيِّئَاتِهِمْ (Such are the people from whom we accept the best of what they did and overlook their evils.... - 46:16) This, too, is a general rule, and if the verse was revealed with reference to Sayyidna Abu Bakr ؓ ، then he would be the first to be included in its generality. A quotation from Sayyidna ‘Ali ؓ which is given below also indicates that sense of the verse is general. Ibn Kathir has reported the narration of Muhammad Ibn Hatib (رح) that once he was with Sayyidna ‘Ali ؓ along with some other persons who blamed Sayyidna ` Uthman ؓ for some wrong-doings. There upon Sayyidna ‘Ali ؓ said:
 
 ## Tafsir Summary
 
@@ -199,3 +193,5 @@ Ibn Abi Hatim related from his father that Farwah bin Abi Al-Maghra' told them t
 (` Uthman was one of those people about whom Allah Ta’ ala has said: "Such are the people from whom We accept the best of what they did, and overlook their evils, (so they will be) among the people of Paradise according to the true promise that was made to them." (46:16) I swear by Allah that ` Uthman and his companions were examples of this verse." Sayyidna ` Ali ؓ repeated this three times.
 
 ## Personal Reflections
+
+

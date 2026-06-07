@@ -101,18 +101,6 @@ word_by_word:
     transliteration: yu'minūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 111, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed in their stories, there is a lesson for men of understanding. Surely, in the narratives of these, there is lesson for the people of understanding - 111.
@@ -172,3 +160,5 @@ Then, it was said that this Qur'an is ` guidance and mercy for a people who beli
 Shaykh Abu al-Mansur has said: The purpose behind the whole Surah Yusuf and the story of Sayyidna Yusuf (علیہ السلام) narrated therein is to comfort the Holy Prophet ﷺ `. All this is to tell him that his sufferings at the hands of his people have been the lot of past prophets too. But, in the end, Allah Ta` ala enabled his prophets to overcome - and in his case too, this is what was going to happen.
 
 ## Personal Reflections
+
+

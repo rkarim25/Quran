@@ -42,18 +42,6 @@ word_by_word:
     transliteration: dhik'ran
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they ask you about Dhul-Qarnayn. Verse 84 opens with the statement: يَسْأَلُونَكَ (They ask you).
@@ -151,3 +139,5 @@ In short, Maulana Hifzur-Rahman has collected a sufficiently large number of evi
 Let us look at the first verse cited above: قُلْ سَأَتْلُو عَلَيْكُم مِّنْهُ ذِكْرً‌ا (I shall now recite to you a narration about him - 83). It prompts us to find out as to why the Holy Qur'an has elected to bypass the possible shorter expression ذِکرَہ dhikrahu (his narrations) at this place and has opted for two words: مِنہُ ذِکراً ('minhu dhikra' ) (some narration about him)? A little reflection would reveal that these two words have been used as indicators. They tell us that the Qur'an has not promised to narrate the entire story of Dhul-Qarnain in its historical setting. Instead, it has stated that it will mention it in part. This is evident from the use of the particle: مِن (min) and the nunnation (tanwin) of 'dhikra' - a distinct feature of Arabic grammar. As for the historical debate relating to the name, lineage and time period of Dhul-Qarnain reported earlier, the Holy Qur’ an has already said in advance that it has skipped it as something unnecessary.
 
 ## Personal Reflections
+
+

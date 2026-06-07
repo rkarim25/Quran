@@ -177,15 +177,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The present verse relates to one such event, which can be termed as the background of its revelation. Sayyidna Zayd ibn Zuhayr ؓ had married his daughter, Sayyidah Habibah ؓ to Sayyidna Sa'd ibn Rabi' ؓ During a dispute over something, the husband slapped her. Sayyidah Habibah ؓ complained to her father. He took her to the Holy Prophet ﷺ . He declared that Habibah has the right to hit Sa'd as hard as he did. Hearing this decision of their master, they started back home to take their revenge upon Sa'd. Thereupon, this verse was revealed in which the beating of women as the very last option has been permitted, and no retaliation or revenge against men was allowed. So, soon after the revelation of this verse, the Holy Prophet ﷺ called both of them back and asked them to abide by the injunction from Allah Almighty, and abrogated his first directive permitting the seeking of revenge.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -388,3 +380,5 @@ The role of the family arbitrator in disputes
 The arrangement described so far was to help tempers cool off within the privacy of the house keeping it restricted to the married couple. But, there are times when the family feud becomes long-drawn. It may be because the woman is temperamentally obstinate and contumacious, or it may be the fault of the man who may have been unjustly oppressive. Whatever it actually is, one thing is certain that the unfortunate tussle will not remain restricted within the four walls of the house; it will _definitely spread out. Then, as usual, supporters of one party wi11 go about maligning the others with all sort of accusations. This will cause tempers of parties to rise and what started as the disagreement of two individuals will turn into a confrontation between two families.
 
 ## Personal Reflections
+
+

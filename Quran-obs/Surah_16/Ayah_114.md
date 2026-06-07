@@ -58,18 +58,6 @@ word_by_word:
     transliteration: taʿbudūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 114, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv. 112-114 clearly refer to the end of seven year famine that had struck Makkah some years after the appointment of the Holy Prophet as Allah's Messenger.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So eat of the lawful and good food which Allah has provided for you. Sequence and Explanation in Gist Mentioned in the previous verses was that disbelievers will be punished for their ungratefulness to Allah whose blessings they had been enjoying.
@@ -125,3 +113,5 @@ Sequence and Explanation in Gist
 Mentioned in the previous verses was that disbelievers will be punished for their ungratefulness to Allah whose blessings they had been enjoying. In the cited verses, Muslims have been instructed to stay away from ungratefulness, rather be grateful for Halal things Allah has given to them. After that, they were told how the disbelievers and polytheists had become ungrateful by declaring what Allah had made Halal for them as Haram and what Allah had called Haram as Halal. Muslims were warned that they should never do that. Making things Halal and Haram is the exclusive right of their Creator. Doing this on your own amounts to interference in Divine prerogatives, in fact, amounts to at-tributing lies to Allah Ta` ala. Towards the end, it was also said that even those who have committed such evil deeds through ignorance should not lose hope in the mercy of Allah Ta’ ala. Should they repent and believe honestly and truly, Allah Ta’ ala will forgive all sins committed by them.
 
 ## Personal Reflections
+
+

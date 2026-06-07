@@ -33,18 +33,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he whom We grant long life – We reverse him in creation. In the last of the verses cited above, it was said: وَمَن نُّعَمِّرْ‌هُ نُنَكِّسْهُ فِي الْخَلْقِ أَفَلَا يَعْقِلُونَ (And whomsoever We give long life, we reverse him in creation.
@@ -128,3 +116,5 @@ And for one who lives long in the world, it will turn upside down right before h
 Not only that this major change in man's frame of existence is a standing manifestation of the unique power of Allah Ta’ ala, it is also a great favor to him. Is it not that all strengths the supreme Creator has placed in the living presence of man are, in reality, the God-given functional devices issued to him with the clarification that they were neither his property nor were they everlasting and that, finally, they will be taken back from him. This obviously required that, once came the time of such take over, all such strengths should have been taken back simultaneously. But, the most merciful and sublime Lord has not elected to do that. Instead, He has allowed that these strengths be taken back in installments that too are prominently long and spaced apart. Thus, these are taken back gradually, bit by bit, so that one gets alerted and starts getting ready to embark on the ultimate journey of the Hereafter. And Allah knows best.
 
 ## Personal Reflections
+
+

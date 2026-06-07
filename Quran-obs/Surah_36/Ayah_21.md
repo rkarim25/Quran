@@ -32,18 +32,6 @@ word_by_word:
     transliteration: muh'tadūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And there came a man running from the farthest part of the town. In verse 20, it was said: وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَ‌جُلٌ يَسْعَىٰ (And there came a man rushing from the farthest part of the city.) In the first verse (13), the place where this incident transpired was expressed as: اَلقَریَۃ (al-qaryah: town) which, according to the Arabic lexical usage, does not signify a small village, instead, it means a habitation in the absolute sense.
@@ -117,3 +105,5 @@ The noble Qur'an has left this too as ambiguous. It does not mention his name, n
 Other historical narrations reported by commentators at this stage tell us that this person too was initially an idolater. He happened to meet the two messengers who came to this town the first time. It was either as a result of their teachings or, as it appears in some narrations, by seeing extraordinary working of wonders at their hands, his heart was lit with faith. He repented from past idolatry, embraced Islam and retired to a cave devoting to worship. When he got the news that the people of the city have rejected the teachings of these messengers, have become hostile to them and were threatening to kill them, he came to his people prompted by the mixed objectives of his concern for their good as well as the safety of the messengers. He advised them to follow these messengers and declared that he himself had become a believer: (I have believed in your Lord; so listen to me.- 25)
 
 ## Personal Reflections
+
+

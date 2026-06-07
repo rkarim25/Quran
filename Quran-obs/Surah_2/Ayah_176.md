@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 176, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (That is because Allah has sent down the Book (the Qur'an) in truth.) means, they deserve this painful torment because Allah has revealed Books to His Messenger Muhammad ﷺ, and the Prophets before him, and these revelations bring about truth and expose falsehood. Yet, they took Allah's signs for mockery. Their Books ordered them to announce the truth and to spread the knowledge, but instead, they defied the knowledge and rejected it. This Final Messenger ـ Muhammad ﷺ ـ called them to Allah, commanded them to work righteousness and forbade them from committing evil. Yet, they rejected, denied and defied him and hid the truth that they knew about him. They, thus, mocked the Ayat that Allah revealed to His Messengers, and this is why they deserved the torment and the punishment. This is why Allah said here (2:176):
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -155,3 +147,5 @@ There is no doubt that people who conceal the contents of the Book of Allah and 
 Verse 175 tells us that a person who changes the injunction of Shari'ah in his greed for worldly gains, he should know that these worldly gains he consumes are like embers of fire he is storing in his stomach because that is the ultimate end of his deeds. Some perceptive ` Ulama' have said that unlawful wealth is, in reality, the very fire of Hell, even though we do not sense it as such during our lifetime in the mortal world, but once one dies, his or her deeds will appear in the form of fire.
 
 ## Personal Reflections
+
+

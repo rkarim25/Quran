@@ -21,18 +21,6 @@ word_by_word:
     transliteration: lil'jabīni
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he said: "Verily, I am going to my Lord. The word: اَسلَمَ (aslama: both of them submitted) in verse 103: فَلَمَّا أَسْلَمَا means to submit, bow down, become obedient, rendered ready to carry out the command.
@@ -188,3 +176,5 @@ Some historical and exegetical reports tell us that the Shaitan tried to seduce 
 And then came the stage about which the text says: وَتَلَّهُ لِلْجَبِينِ (and he laid him on his forehead - 103). According to an explanation of this statement as reported from Sayyidna Ibn ` Abbas, 'he laid him down on his side in a manner that one edge of the forehead was touching the ground' (Mazhari). Lexically, this explanation is weightier for the reason that the word: جَبِينِ (jabin) is applied to the two curvatures of the forehead while the middle part of the forehead is called: جَبھَۃُ (jabhah). Therefore, Moulana Thanavi (رح) has translated it carrying the sense of 'laying down on the side.' But, other respected commentators have explained it as 'laid him down on the ground face down.' Whatever be the case, the reason given in historical accounts for this manner of laying him down is that, initially, Sayyidna Ibrahim (علیہ السلام) had laid him down face up. But, once he started moving the knife on his throat, it would not cut despite repeated efforts, because a copper plate had come as a barrier in between by the will of Allah. At that time, the son himself requested his father that he be laid down on the side face down for the reason that once he looked at him, his filial compassion unnerved his hand, and the throat is not cut as required. In addition to that, he said, when he looked at the knife, he too started feeling nervous. So Sayyidna Ibrahim (علیہ السلام) started using his knife in the manner he was told (Tafsir Mazhari). Allah knows best.
 
 ## Personal Reflections
+
+

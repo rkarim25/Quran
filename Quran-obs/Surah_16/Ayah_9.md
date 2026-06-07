@@ -47,18 +47,6 @@ word_by_word:
     transliteration: ajmaʿīna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And it is up to Allah to show the right way. Presented in the previous verses was a description of the great blessings of Allah Ta` ala as rational proof of His Oneness.
@@ -134,3 +122,5 @@ But, counter to this, people have preferred to go by other crooked ways. It is u
 After that it was said that Allah Ta’ ala, if He had so willed, would have made all of them to (compulsively) be on the right path. Had He done so, it was within His power. But, wisdom and expedient considerations required that there be no compulsion. Let the two paths be before everyone. Whoever elects to take whichever path should be free to take it. Everyone goes his or her way. The Straight Path (al-Sirat al-Mustaqim) will take people to Allah Ta’ ala and Jannah (Paradise). As for other crooked ways, they will take people to Jahannam (Hell). Human beings have been given the power to choose whichever path they wish to take.
 
 ## Personal Reflections
+
+

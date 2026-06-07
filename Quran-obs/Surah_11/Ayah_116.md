@@ -114,18 +114,6 @@ word_by_word:
     transliteration: muj'rimīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 116, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! Given in the third and the fourth verse (116, 117) is the reason why Divine punishment came upon past peoples as well as the instruction as to how they could have stayed safe from it.
@@ -177,3 +165,5 @@ Given in the third and the fourth verse (116, 117) is the reason why Divine puni
 In this verse, people of discernment, balance and foresight have been identified through the expression: أُولُو بَقِيَّةٍ ` remnants [ of wisdom ].' The word: بَقِيَّةٍ (bagiyyah) means that which remains. It is human habit that one lets what is most dear to him remain with him under all conditions, preserved and retrievable. When some need would arise, he would give away everything but not that. Therefore, reason and in-sight are called 'baqiyyah' or remnants, because that is the dearest one has.
 
 ## Personal Reflections
+
+

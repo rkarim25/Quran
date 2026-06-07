@@ -34,18 +34,6 @@ word_by_word:
     transliteration: yajḥadūna
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah, it is He Who has made the night for you that you may rest therein and the day for you to see. In the verses cited above, after having presented a few manifestations of Allah's blessings and His perfect power, an invitation to belief in the Oneness of Allah has been extended.
@@ -129,3 +117,5 @@ In the verses cited above, after having presented a few manifestations of Allah'
 In the first verse (61), it was said: جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ‌ مُبْصِرً‌ا (Allah is the One who made for you the night, so that you may have rest in it, and the day to let you see.). Just imagine how great a blessing it is that all human beings, even animals, have been naturally tuned to a set time for sleep, and that this time has been, in a manner of saying, virtually switched off in perfect synchronization with the need to sleep. In fact, it was made the part of everyone's psyche that this is the time, the time of night, that would bring a sound sleep. Otherwise, had sleep been in one's own control and had everyone been making one's own program to sleep at different hours, as he or she does to set a timetable for business or personal preferences, it would have left all sleepers deprived of the bliss of sleep, nor would it have been convenient for those awake to set their own hours of work right. The reason is that human needs are inter-related. Had sleeping hours been different, jobs of the awake connected with the sleeping would have gone topsy-turvy, and the jobs of the sleeping connected with the awake would have fared no better. Also, if only human beings had a set time for sleep - with wild beasts and animals sleeping at some other time - even then, the system of human engagement with work would have gone haywire.
 
 ## Personal Reflections
+
+

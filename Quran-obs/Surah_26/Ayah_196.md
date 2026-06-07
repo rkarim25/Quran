@@ -23,15 +23,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Poets** (Ash-Shu'ara) 196, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they still would not have believed in him. Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -106,3 +98,5 @@ Urdu translation of Qur’ an is not allowed to be called Urdu Qur’ an
 If only the translation of the Qur'an is written in any language without the Arabic text, it cannot be called the Qur'an. Some people call the Urdu translation of the Qur'an as Urdu Qur'an, or the English translation of the Qur'an as English Qur'an. It is not right and amounts to disrespect of the Holy Book. Printing, calling or trading of something in the name of Qur'an, without the Arabic text of the Qur'an, is not permitted. This subject is dealt with in detail in my treatise (تحذیر الاخوان عن تغییر رسم القرآن)
 
 ## Personal Reflections
+
+

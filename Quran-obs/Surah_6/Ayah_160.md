@@ -70,18 +70,6 @@ word_by_word:
     transliteration: yuẓ'lamūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 160, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-155-160 This is the conclusion of the discourse: the Holy Prophet has been instructed in a beautiful and forceful manner to proclaim fearlessly the articles of the Islamic Creed and their implications.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Whoever brings a good deed shall have ten times the like thereof to his credit, and whoever brings an evil deed shall have only the recompense of the like thereof, and they will not be wronged (160) The Good Deed is Mult… Said in the second (160) verse is: مَن جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ‌ أَمْثَالِهَا ۖ وَمَن جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ ﴿160﴾ (Whoever comes with a good deed, receives ten times as much, and whoever comes with an evil deed, he will not be recompensed by anything but its equal, and they shall not be wronged).
@@ -169,3 +157,5 @@ Similar is the case of evil deeds which, if repented from, become the cause of t
 At the end of the verse, it was said: وَهُمْ لَا يُظْلَمُونَ (and they shall not be wronged). It means that this is no human court. This is the Highest of the high. No probability of any injustice to anyone exists there, nor can there be a decrease in the return for someone's good deed, nor is there any possibility of an increase in the punishment for someone's evil deed.
 
 ## Personal Reflections
+
+

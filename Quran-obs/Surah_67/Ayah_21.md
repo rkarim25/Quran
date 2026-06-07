@@ -54,18 +54,6 @@ word_by_word:
     transliteration: wanufūrin
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Who is it besides the Most Gracious that can be an army to you to help you? أَمَّنْ هَـٰذَا الَّذِي يَرْ‌زُقُكُمْ إِنْ أَمْسَكَ رِ‌زْقَهُ ۚ بَل لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ‌ (Or, who is there to give you sustenance, if He withholds His sustenance?
@@ -185,3 +173,5 @@ The last sentence of the verse purports to express the unbelievers' sad state of
 Next, the conditions of non-believers and believers on the field of Resurrection are described. It is mentioned that the unbelievers will be brought to the field of Resurrection, crawling on their faces instead of walking on their feet. Bukhari and Muslim record on the authority of Sayyidna Anas that the noble Companions asked the Messenger of Allah ﷺ : "How will the non-believers walk on their faces on the Day of Resurrection?" The Messenger of Allah ﷺ replied: "Is Allah who made them walk on their feet not powerful enough to make them walk on their faces and their heads?" The following verse depicts the scene of such crawling:
 
 ## Personal Reflections
+
+

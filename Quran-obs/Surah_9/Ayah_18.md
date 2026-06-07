@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-muh'tadīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-12-18 ) that all the customs and practices of the shirk of the era of 'ignorance' should be forcibly abolished: that the mushriks should not be allowed even to come near the "House" (v.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is not for the Mushrikin, to maintain the Masjids of Allah, while they witness against themselves of disbelief. Verse 17 was describing the negative aspect as related to the Mushriks.
@@ -215,3 +203,5 @@ And Sayyidna Salman al-Farisi ؓ narrates that the Holy Prophet ﷺ said: ` a pe
 The commentator of the Qur'an, Qadi Thana'ullah of Panipat has said, ` the expression ` maintenance of the masjid' also requires that the masjid should be cleansed of things and practices for which it was not made. It includes activities like buying and selling, worldly conversation, search of lost property, asking people for material help, recitation of idle poetry, disputation, fighting, disturbing peace by noises and things like that. (Mazhari)
 
 ## Personal Reflections
+
+

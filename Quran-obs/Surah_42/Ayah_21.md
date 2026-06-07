@@ -97,18 +97,6 @@ word_by_word:
     transliteration: alīmun
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah is very Gracious and Kind to His servants. اللَّـهُ لَطِيفٌ بِعِبَادِهِ (Allah is kind to His slaves - 42:19).
@@ -214,3 +202,5 @@ Note
 Shah ` Abdul Ghani Phulpuri رحمۃ اللہ علیہ relates from Haji Imdadullah (رح) that anyone who recites the above verse i.e. اللَّـهُ لَطِيفٌ بِعِبَادِهِ يَرْ‌زُقُ مَن يَشَاءُ ۖ وَهُوَ الْقَوِيُّ الْعَزِيزُ seventy times every morning regularly, would be preserved from shortage of sustenance and said that experience has shown it to be very effective.
 
 ## Personal Reflections
+
+

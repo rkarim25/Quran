@@ -50,18 +50,6 @@ word_by_word:
     transliteration: shakūrun
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 'Adn (Gardens) will they enter, therein will they be adorned with bracelets of gold and pearls, and their garments therein will be of silk (33)And they will say: "All praise and thanks be to Allah, Who has removed from us (all) grief. A person who will use utensils of gold and silver and dresses of silk will remain deprived of these in Jannah Sayyidna Hudhaifah ؓ says that he heard the Holy Prophet ﷺ saying, 'Do not wear dresses of silk and do not dri…
@@ -141,3 +129,5 @@ At this point, let us refer back to the Hadith of Sayyidna Abu-D-Darda` ؓ that 
 Imam Abu Bakr al-Jassas (رح) said: It is the typical state of a believer that he never remains free of concerns while in this world. The Holy Prophet ﷺ has said that the world is a prison for the believer. This is the reason why it appears in the accounts of the lives of the Holy Prophet ﷺ and his great Sahabah ؓ that these blessed souls used to look sad fairly often.
 
 ## Personal Reflections
+
+

@@ -12,18 +12,6 @@ word_by_word:
     transliteration: l-qur'āna
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! Grammatically speaking, the verb عَلَّمَ ` allama [ to teach ] requires two objects, the direct and the indirect: [ 1] that of which the knowledge is imparted; and [ 2] he to whom the knowledge is imparted.
@@ -157,3 +145,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 Grammatically speaking, the verb عَلَّمَ ` allama [ to teach ] requires two objects, the direct and the indirect: [ 1] that of which the knowledge is imparted; and [ 2] he to whom the knowledge is imparted. Here the first object [ the Holy Qur'an ] is explicitly stated, but the second object is not. Some of the exegetes express the view that the second object is the Messenger of Allah ﷺ who was taught the Qur'an directly by Allah, and through him the entire creation. It is possible to look at it from another point of view: The purpose of the Holy Qur'an is to give guidance to the entire creation of Allah, and to teach them good morals and the righteous deeds. Therefore, no particular object has been specified. The fact that the second object has not been explicitly specified indicates its generality, that is, it refers to the totality of human beings.
 
 ## Personal Reflections
+
+

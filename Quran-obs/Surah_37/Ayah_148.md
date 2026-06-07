@@ -21,18 +21,6 @@ word_by_word:
     transliteration: ḥīnin
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 148, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… The expression: إِلَىٰ حِينٍ (ila hin: for a time) in: فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ ([ 147] So, they believed, then, We let them enjoy for a time.- 148) means that as long as they did not revert to their kufr and shirk, no punishment visited them.
@@ -146,3 +134,5 @@ Exposing the fraud of the Qadyani imposter
 It has already been demonstrated in the Tafsir of Surah Yunus (علیہ السلام) (Ma’ ariful-Qur’ an, English, Volume IV), and it is clear from this verse too, that the reason why the punishment due to visit the people of Sayyidna Yunus (علیہ السلام) was averted was that his people had started believing on time - before it actually materialized. This puts the fraudulent claim of Mirza Ghulam Ahmad Qadiani (the false pretender to prophethood from Qadian located in Punjab, now called Haryana in India) when he had challenged his adversaries that, should they continue to oppose him, it stood decreed that Divine punishment would descend upon them by such and such time. But, quite conversely, the adversaries became stronger and more vocal, yet the punishment never came. At that time, iii order to salvage himself out from the disgrace of failure, the Qadiani imposter started saying that since his adversaries were really scared in their hearts, therefore, this punishment stood removed from them - as it had stood removed from the people of Sayyidna Yunus (علیہ السلام) . But, this verse of the noble Qur'an declares this interpretation to be false and rejected. The reason is that the people of Sayyidna Yunus (علیہ السلام) had stayed safe from the punishment because of their 'iman, belief and faith. Contrary to this was the case of the adversaries of Mirza Ghulam Ahmad of Qadian - not only that they did not believe in him, in fact, their struggle against him gained more strength and momentum.
 
 ## Personal Reflections
+
+

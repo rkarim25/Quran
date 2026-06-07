@@ -24,18 +24,6 @@ word_by_word:
     transliteration: tub'ʿathūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We created man out of an extract of Tin (12)Thereafter We made him a Nutfah in a safe lodging (13)Then We made the Nutfah into a clot, then We made the clot into a little lump of flesh, then We made out of that little lump of flesh bones, then We clothed the bones with flesh, and then We brought it forth as another creation. ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ تُبْعَثُونَ (Then you are to be raised again on the Day of Judgment - 23:16) so that his deeds and actions in this world may be weighed and he may be sent to Paradise or Hell as he deserves.
@@ -131,3 +119,5 @@ Imam Ahmad recorded from Abu Musa that the Prophet ﷺ said:
 ثُمَّ إِنَّكُمْ يَوْمَ الْقِيَامَةِ تُبْعَثُونَ (Then you are to be raised again on the Day of Judgment - 23:16) so that his deeds and actions in this world may be weighed and he may be sent to Paradise or Hell as he deserves. This is how a man's life would end. Further on there is a brief mention of the events which will take place in the intervening period between his life in this world and the life to come, and of the gift and blessings which Allah will bestow upon him. This is prefaced by a reference to the creation of the skies.
 
 ## Personal Reflections
+
+

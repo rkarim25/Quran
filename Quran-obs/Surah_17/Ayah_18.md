@@ -80,18 +80,6 @@ word_by_word:
     transliteration: madḥūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Whoever desires the quick-passing (transitory enjoyment of this world), We readily grant him what We will for whom We like. Two behavior models of human beings appear in the cited verses side by side.
@@ -145,3 +133,5 @@ Two behavior models of human beings appear in the cited verses side by side. As 
 The first condition can only be that of a denier of the Hereafter, therefore, none of his deeds is acceptable. Then, the second condition is that of a true believer. A particular deed by him that issues forth with sincerity of intention, and is for the Hereafter - along with the presence of other conditions - shall be acceptable. And a deed even from the same person, a deed that has no sincerity, or where other conditions are missing, will not be acceptable.
 
 ## Personal Reflections
+
+

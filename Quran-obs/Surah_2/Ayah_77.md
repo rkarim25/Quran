@@ -44,15 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after they understood it (75)And when they (Jews) meet those who believe (Muslims), they say, "We believe," but when they meet one another in private, they say, "Shall you (Jews) tell them (Muslims) what Allah has revealed to you that they (Muslims) may argue with you (Jews) about it before your Lord?" Have you (Jews) then no understanding (76)Know they (Jews) not that Allah knows what they conceal and what they reveal (77)
 
-(used to hear the Word of Allah (the Tawrah), then they used to change it) "They altered the Tawrah that Allah revealed to them, making it say that the lawful is unlawful and the prohibited is allowed, and that what is right is false and that what is false is right.
+(used to hear the Word of Allah (the Tawrah), then they used to change it) "They altered the Tawrah that Allah revealed to them, making it say that the lawful is unlawful and the prohibited is allowed, and that what is right is false and that what is false is right. So when a person seeking the truth comes to them with a bribe, they judge his case by the Book of Allah, but when a person comes to them seeking to do evil with a bribe, they take out the other (distorted) book, in which it is stated that he is in the right. When someone comes to them who is not seeking what is right, nor offering them bribe, then they enjoin righteousness on him. This is why Allah said to them,
 
 ## Tafsir Summary
 
@@ -157,3 +151,5 @@ Verse 78 says that the illiterate Jews follow their Zann ظن ، that is to say,
 (1) To signify perfect certitude -"Those who are certain that they are going to meet their Lord" (2:46). (2) To signify the greatest likelihood - "And he said to him whom he thought was the more likely of the two to be released from the prison" (12:42). (3) To signify a mere fanciful supposition - as in the present verse. The Zann ظن which the Holy Qur'an prohibits us to follow is that of the third kind. This verse condemns the Jews for having followed this kind of Zann ظن which consists in a fanciful opinion that is not supported by a respectable argument or goes against a valid one. On the contrary, it is necessary to follow the Zann ظن of the first two kinds. When certain ahadith or certain arguments and conclusions in the Shari` ah are described as resting on Zann ظن ، it is done according to the second signification of the word. One cannot avoid this kind of Zann ظن in any sphere of life, and the Shari` ah requires us to accept and follow it. Certain verses of the Holy Qur'an, of course, condemn those who follow their Zann ظن ، but to apply this condemnation to all the possible cases, and to use such verses for rejecting all the legitimate arguments and injunctions of the Shariah based on Zann ظن is to betray one's ignorance of the Holy Qur'an.
 
 ## Personal Reflections
+
+

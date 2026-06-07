@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ Then, there are many commentators who take 'al-qawl' at this place to mean what 
 Therefore, it has been said that this verse was revealed about Sayyidna Zayd Ibn ` Amr Ibn Nufayl, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ . Sayyidna Zayd Ibn ` Amru Ibn Nufayl ؓ used to hate shirk and idol worship even during the days of Jahiliyyah. The other two Sahabah, Sayyidna Abu Dharr al-Ghifari and Sayyidna Salman al-Farisi ؓ listened to people of different religions, to the mushriks, the Jews and the Christians, and saw their ways of life, and it was only then that they embraced Islam and, finding the teachings of the Qur'an as the best, they preferred them. (Qurtubi)
 
 ## Personal Reflections
+
+

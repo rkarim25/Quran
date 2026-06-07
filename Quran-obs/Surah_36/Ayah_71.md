@@ -54,18 +54,6 @@ word_by_word:
     transliteration: mālikūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do they not see that We have created for them of what Our Hands have fashioned, the cattle, so that they are their owners (71)And We have subdued them unto them so that some of them they have for riding and some they eat (72)And they have (other) benefits from them, and (they get to) drink. In verse 71, it was said: أَوَلَمْ يَرَ‌وْا أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَا أَنْعَامًا فَهُمْ لَهَا مَالِكُونَ (Did they not see that We have created for them cattle, among things made (directly) by Our hands, then they are their owners?).
@@ -111,3 +99,5 @@ Gift of God - not capital or labor - is the real wisdom behind the ownership of 
 In our day, debate is still going on between various economic theories as to the basis of production of things and their ownership. Is it wealth, or is it labor? The votaries of the capitalist economic system declare capital and wealth as its basis. The protagonists of the socialist and communist system support labor as the real reason or justification behind production of things and their ownership. This decree of the Qur'an tells us that none of these two has any role to play in the creation of things and their ownership. The creation of anything does not rest in the possession or control of human beings. That is an act of Allah Ta’ ala, directly. Then, reason demands that the one who creates something should also be its owner. Therefore, when it comes to things of this world, the essential and real ownership is that of Allah Ta’ ala. The ownership of human beings in anything whatsoever can take effect only when Allah Ta’ ala passes it on to them in His mercy. Allah Ta’ ala has already revealed the law of the proof and transfer of ownership through his prophets. Counter to this law, no one can become the owner of anything.
 
 ## Personal Reflections
+
+

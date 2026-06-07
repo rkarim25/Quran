@@ -17,18 +17,6 @@ word_by_word:
     transliteration: lamuḥ'ḍarūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 127, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? In verse 127, it was said: فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُ‌ونَ : "Then they rejected him.
@@ -84,3 +72,5 @@ Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be up
 In verse 127, it was said: فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُ‌ونَ : "Then they rejected him. Therefore, they will be arraigned." It mpa'ns that they will have to taste the consequence of having belied the true messengers of Allah (علیہم السلام) . It could also be referring to the punishment of the Hereafter as well as their sad end within this world. That the rulers of both the countries of Isra'il and Judah had to face destruction as a result of their having rejected Sayyidna Ilyas (علیہ السلام) has been mentioned earlier. The detailed account of this destruction is present in Tafsir Mazhari and in the Bible: Kings I, Chapter 22; Kings II; Chapter 1 and Chronicles II; Chapter 21.
 
 ## Personal Reflections
+
+

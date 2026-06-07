@@ -84,18 +84,6 @@ word_by_word:
     transliteration: yadhakkarūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-26-53 As the Message has been sent down by Allah (Who is the Creator of the heavens and the earth and everything in them), it should be followed, for it is like the rain He sends down to give life to the dead earth.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Children of Adam! Mentioned in almost a section preceding the verses cited above was the event relating to Sayyidna 'Adam and Satan, the accursed.
@@ -171,3 +159,5 @@ The expression, ` Dress of Taqwa,' indicates that the purpose of physical dress 
 Along with it, there is the crucial need to correct one's morals and deeds which is the real purpose of dress. At the end of the verse comes the invitation to understand: ذَٰلِكَ مِنْ آيَاتِ اللَّـهِ لَعَلَّهُمْ يَذَّكَّرُ‌ونَ (That is one of the signs of Allah, so that they may be receptive to advice).
 
 ## Personal Reflections
+
+

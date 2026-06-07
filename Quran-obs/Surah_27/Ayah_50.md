@@ -33,18 +33,6 @@ word_by_word:
     transliteration: yashʿurūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And there were in the city nine Rahtin, who made mischief in the land, and would not reform (48)They said: "Swear one to another by Allah that we shall make a secret night attack on him and his household, and thereafter we will surely say to his near relatives: 'We witnessed not the destruction of his household, and verily, we are telling the truth.' (49)So, they plotted a plot, and We planned a plan, while they perceived not (50)Then see how was the end of their plot! We shall attack him (Salih علیہ السلام) and his family at night, then will say to his heir, We did not witness the destruction of his family and we are really truthful - 27:49.
@@ -124,3 +112,5 @@ The point to note here is that all the acts of infidelity, disbelief, killing an
 The other thing worth noting in this verse is that the one whom these infidels had mentioned as the Wall or heir of Sayyidna Salili (علیہ السلام) was a man of his own family. So, why did they leave him out from being assassinated? The answer to this question is that he might have been the successor from the lineage point of view, but otherwise he could be an infidel and be a party with the infidels. There could have been the consideration that he might claim the compensation for the blood of Sayyidna Salih (علیہ السلام) because of his relationship with him. The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. Only Allah knows best.
 
 ## Personal Reflections
+
+

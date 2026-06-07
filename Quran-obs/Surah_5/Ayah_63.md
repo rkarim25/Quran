@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yaṣnaʿūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "O People of the Scripture! Of those who have laid the greatest emphasis on the correction of deeds, the foremost are the respected Sufis (spiritual masters) and the men of Allah.
@@ -251,3 +239,5 @@ Malik ibn Dinar says: Allah asked his angels to destroy a certain town. The ange
 To Sayyidna Yusha` ibn Nun (علیہ السلام) ، (Joshua) the Israelite prophet, Allah Almighty revealed that one hundred thousand of his people will be destroyed by a punishment. Of them, forty thousand were righteous and sixty thousand, evil. Sayyidna Yusha` (علیہ السلام) said: 0 Lord, the ruin of the evil is obvious but why the good ones? It was said: The good ones had friendly relations with the bad ones. Together, they ate and drank and enjoyed life and never frowned on people sinning and disobeying their Creator. (Details of all these narrations can be seen in Al-Bahr al-Muhit)
 
 ## Personal Reflections
+
+

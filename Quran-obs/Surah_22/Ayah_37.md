@@ -89,18 +89,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is neither their meat nor their blood that reaches Allah, but it is Taqwa from you that reaches Him. The real object is not the specific rites of pilgrimage but true devotion to Allah and submission to His will which are inherent in those rites لَن يَنَالَ اللَّـهَ لُحُومُهَا (It is neither their flesh nor their blood that reaches Allah - 22:37) It means that the sacrifice of animals is a very high form of worship, but their meat and blood do not reach Allah Ta’ ala nor are these two things the real object of sacrifice.
@@ -156,3 +144,5 @@ The real object is not the specific rites of pilgrimage but true devotion to All
 لَن يَنَالَ اللَّـهَ لُحُومُهَا (It is neither their flesh nor their blood that reaches Allah - 22:37) It means that the sacrifice of animals is a very high form of worship, but their meat and blood do not reach Allah Ta’ ala nor are these two things the real object of sacrifice. Its real aim is to recite the name of Allah and to comply with His commands with true devotion. This rule applies to all forms of worship. For instance, the object of prayers is not just the movement of limbs, or the object of fasting is not merely a denial of food and drink. The real purpose of these rites of worship is to obey the commands of Allah Ta’ ala with all sincerity. Devoid of sincerity these rites of worship are like a body without soul. Nevertheless these forms of worship are also very important because Allah Ta’ ala has prescribed these forms for different types of worship. Allah knows best. واللہ اعلم
 
 ## Personal Reflections
+
+

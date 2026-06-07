@@ -16,18 +16,6 @@ word_by_word:
     transliteration: sujjirat
 ---
 
-## Context
-
-To understand **The Overthrowing** (At-Takwir) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا الْبِحَارُ‌ سُجِّرَ‌تْ (and when the seas will be flared up...81:6).
@@ -265,3 +253,5 @@ Concerning Allah's statement,
 وَإِذَا الْبِحَارُ‌ سُجِّرَ‌تْ (and when the seas will be flared up...81:6). The word sujjirat is derived from tasfir and it signifies 'to set ablaze'. Sayyidna Ibn ` Abbas ؓ assigns this interpretation to the word in this context. Another sense of the word is 'to fill' and a third sense of the word is 'to mix or admix'. Some commentators have interpreted it in this sense. None of these interpretations is contradictory to each other. First, the salt and sweet water are admixed and the rivers are made to flow forth into the sea; then the seas will meet together and become one and having more water; then the seas will be set on fire; and then the Sun and the Moon and the stars will be thrown into the water. Then all the water will be turned into fire which will become part of Hell. [ Mazhari ]
 
 ## Personal Reflections
+
+

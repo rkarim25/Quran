@@ -117,15 +117,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 220, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Umar, Ash-Sha'bi, Mujahid, Qatadah, Ar-Rabi' bin Anas and 'Abdur-Rahman bin Aslam stated that the first Ayah revealed about Khamr was:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -302,3 +294,5 @@ It is being said here that the purpose is not to compromise the welfare of the o
 The above permission has been hemmed by a warning that Allah watches over the performance of guardians in this matter. He could have, by setting up a harder code of conduct, put them in trouble because He is All-Powerful. But, He has provided an easier code of conduct because He is All-Wise and does not obligate people with what they cannot do.
 
 ## Personal Reflections
+
+

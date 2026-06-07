@@ -101,18 +101,6 @@ word_by_word:
     transliteration: aḥadan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they stayed in their cave three hundred years, adding nine (25)Say: "Allah knows best how long they stayed. Yet another question arises here about the People of Kahf.
@@ -164,3 +152,5 @@ Yet another question arises here about the People of Kahf. During their time and
 People who deny the extraordinary miracles, or people who are in the habit of explaining them away overawed by the objections of modern day Jewish and Christian orientalists, have not spared even the Qur'an. For example, in the case of this verse (25), they have tried to use the explanation of Qatadah as a prop to reject the duration of three hundred nine years as the saying of those very people who were differing among them-selves. But, they have erred. The statement: (for a number of years - 11) which appears in an earlier sentence of the Qur'an cannot be called the saying of anyone other than Allah Ta’ ala! To prove the miraculous nature of the event even this much is sufficient that someone remains asleep for years and years and then rises and sits up all intact, fit and alive. Allah knows best.
 
 ## Personal Reflections
+
+

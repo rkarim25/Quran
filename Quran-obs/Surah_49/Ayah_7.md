@@ -123,18 +123,6 @@ word_by_word:
     transliteration: l-rāshidūna
 ---
 
-## Context
-
-To understand **The Rooms** (Al-Hujurat) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions show and the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (The Prophet is closer to the believers than themselves) (33:6). The Holy Prophet's ﷺ Decision is Better According to the previous verse, Walid Ibn 'Uqbah ؓ reported that Banul-Mustaliq had turned apostate and refused to pay Zakah.
@@ -186,3 +174,5 @@ According to the previous verse, Walid Ibn 'Uqbah ؓ reported that Banul-Mustali
 Lexically, the word is derived from and it connotes "to commit a sin or crime" and it also means "to suffer from hardship". In this context, both connotations appropriately fit (Qurtubi).
 
 ## Personal Reflections
+
+

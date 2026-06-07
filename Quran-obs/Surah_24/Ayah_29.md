@@ -77,15 +77,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Literal meaning of the word متاع Mata` is to use, put to use, and to benefit from something. Anything from which some benefit is drawn is also called Mata`. In this verse Mata` is used in its literal meaning and is translated as 'rightful benefit'. It is reported by Sayyidna Abu Bakr ؓ that when verses regarding isti'dhan (seeking permission) were revealed, he inquired from the Holy Prophet ﷺ "Ya Rasul Allah! what would the traders of Quraish do after this prohibition? They travel with trading caravans from Makkah and Madinah to Syria and have a number of resting places spread out all along the route, where they stay while traveling. There are no permanent inmates in those places. So, what will be the form of isti'dhan at those places? Whom will they seek the permission from?' On this enquiry the above verse was revealed (Mazhari on authority of Ibn Abi Hatim).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -258,3 +250,5 @@ Ruling
 If a person has sent someone to call another person, and he comes along with the person who had gone to fetch him, then he need not take permission to go in. The messenger who had gone to fetch him is permission by itself. But if he does not turn up along with the messenger, but goes later, then seeking of permission will be required. The Holy Prophet ﷺ has said اذا دعی أحدکم فجاء مع الرسول فان ذلک اذن ` If someone is called and he comes along with the messenger, then this by itself is permission for going in'. (Abu Dawud - Mazhari)
 
 ## Personal Reflections
+
+

@@ -64,18 +64,6 @@ word_by_word:
     transliteration: wamathwākum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And among them are some who listen to you till when they go out from you, they say to those who have received knowledge: "What is it that he has said just now? In this verse the address is to the Holy Prophet ﷺ and he is, through an imperative verb, commanded to know that there is no object of worship besides Allah.
@@ -201,3 +189,5 @@ Sayyidna Abu Bakr Siddiq ؓ reports that Allah's Messenger ﷺ said: Recite لا
 مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ last line (your moving from place to place and your permanent abode.) The word متَقَلَّب mutaqallab lexically means "turning around or turning over". The word mathwa means "permanent resting place ". It is open to several interpretations. As a result, the commentators have assigned different meanings to the phrase. As a matter of fact, all the meanings attached to the phrase are correct, sound, authentic and true, because human beings are confronted by two types of conditions: in the one case their invovement in something is temporary, and other case it is permanent. Likewise, in some places man’ s stay is “ temporary” and in other places it is permanent. In the concluding phrase of the current verse, the word مُتَقَلَّبَ mutaqallab has been used to describe “ temporary” and مثوٰی is used to describe "permanent". Thus this verse signifies that Allah is fully aware of all conditions of human beings.
 
 ## Personal Reflections
+
+

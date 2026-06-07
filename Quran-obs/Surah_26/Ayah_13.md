@@ -38,18 +38,6 @@ word_by_word:
     transliteration: hārūna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when your Lord called Musa (saying): "Go to the people who are wrongdoers. Request for favourable conditions for obedience is not tantamount to making excuses He (Musa) said, "My Lord, I fear they will belie me.
@@ -165,3 +153,5 @@ Pharaoh said, "And what is the Lord of the worlds?" (26:23)
 This verse proves that it is not possible to know the exact reality of Allah's Being. Since the Pharaoh had asked a question regarding Allah Ta’ ala's intrinsic-self and reality, Sayyidna Musa (علیہ السلام) instead of giving a direct answer to his query, described the attributes of Allah Ta’ ala in reply. He hinted in his reply that it is not possible for a man to perceive the essence and reality of Allah Ta’ ala. Hence, it was a futile question. (Ruh)
 
 ## Personal Reflections
+
+

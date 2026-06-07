@@ -88,18 +88,6 @@ word_by_word:
     transliteration: baṣīran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We never sent before you any of the Messengers but verily, they ate food and walked in the markets. In the forgoing verses a general answer was given to the doubts raised by the infidels and polytheists in regard to prophethood of the Holy Prophet ﷺ .
@@ -155,3 +143,5 @@ There is great wisdom in economic difference between people
 وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً (And We have made some of you test for some others - 25:20). There is an allusion in the verse that Allah Ta ala had complete power to make all humans wealthy, prosperous, healthy and of high status. But this way nobody would have been poor, weak or sick - a position which would have created innumerable social problems resulting in chaos and confusion. Therefore, Allah Taala has made some rich and some poor, some healthy and some sick, some strong and some weak, and some with high status and some others unknown. This way every single individual is at test because of his or her peculiar placing in society and community. The rich and healthy people are at test for their thankfulness, while poor and sick persons are on trial for their patience. For this very reason the Holy Prophet has advised that whenever you see someone who is wealthier, healthier, stronger or higher in status you should at once try to turn towards those who are lower than you in wealth, health, strength and status so that instead of feeling jealous, which is a sin, you should thank Allah Ta’ ala for giving you better placing in this world as against those who have less than you. (Bukhari, Muslim, Mazhari)
 
 ## Personal Reflections
+
+

@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 115, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whoever contradicts and opposes the Messenger after the right path has been shown clearly to him.) refers to whoever intentionally takes a path other than the path of the Law revealed to the Messenger, after the truth has been made clear, apparent and plain to him. Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ That is, the hand of Allah is on the Muslim community. Whoever breaks away or se
 Imam al-Shafi` (رح) was asked: 'Can the validity of the authority of the Consensus of Muslim Ummah be proved from the Holy Qur'an?' He devoted to the recitation of the Qur'an full three days, completing three recitals each during the day and night. Finally, the proof that he came up with was this verse. When he cited it before scholars, they all agreed: This proof is sufficient to confirm the authority of ` Ijma`, the Consensus of Muslim Community
 
 ## Personal Reflections
+
+

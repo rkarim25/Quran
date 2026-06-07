@@ -79,18 +79,6 @@ word_by_word:
     transliteration: l-ẓālimūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 135, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And your Lord is Al-Ghani, full of mercy; if He wills, He can destroy you; and in your place make whom He wills as your successors, as He raised you from the seed of other people (133)Surely, that which you are promised, will verily come to pass, and you cannot escape (134)Say: "O my people! Commenting on this verse, Tafsir authority, Ibn Kathir pointed out that the exact words of the text here are: مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ‌ (for whom is the ultimate abode) and not: عَاقِبَةُ الدَّارِاَلآخِرَۃِ‌ (the ultimate abode of Akhirah), that is, the suffix of 'Akhirah or Hereafter is not there.
@@ -194,3 +182,5 @@ You will come to know if the happy end will be mine (Muhammad's) or yours (the d
 Commenting on this verse, Tafsir authority, Ibn Kathir pointed out that the exact words of the text here are: مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ‌ (for whom is the ultimate abode) and not: عَاقِبَةُ الدَّارِاَلآخِرَۃِ‌ (the ultimate abode of Akhirah), that is, the suffix of 'Akhirah or Hereafter is not there. This tells us that, much earlier than the abode of Akhirah, the ultimate success falls to the lot of the righteous servants of Allah alone even within the present abode of the world. This stands proved from the life and times of the Holy Prophet ﷺ and his blessed Companions ؓ . Not much time passed when all wielders of power and authority found themselves disgraced before them. Their countries were conquered at their hands. Within the period of prophethood, the whole Arabia came under his authority which soon extended to Yaman, Bahrain and the borders of Syria. Then, it was at the hands of his Khulafa' and the Sahabah that a major part of the known world of the time came under their aegis. Fullfilled stood the promise of Allah Ta` a1a: كَتَبَ اللَّـهُ لَأَغْلِبَنَّ أَنَا وَرُ‌سُلِي (Allah has written: I shall overcome, I, and My Messengers - 58:21). And again, it was said in another verse: إِنَّا لَنَنصُرُ‌ رُ‌سُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا وَيَوْمَ يَقُومُ الْأَشْهَادُ ﴿51﴾ that is, ` We shall help Our Messengers, and those who have believed, in the present world, and on the Day of Qiyamah, when witnesses will stand to record their testimony on the reckoning of deeds - 40:51.'
 
 ## Personal Reflections
+
+

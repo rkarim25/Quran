@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yaʿrishūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And your Lord inspired the bee, saying: "Take you habitations in the mountains and in the trees and in what they (humans) erect. Some ` Ulama have also taken it to mean vinegar, or non-intoxicating wine (nabidh) [ Jassas Qurlubi ] but it is not necessary to report details about this element of difference.
@@ -143,3 +131,5 @@ The first instruction given through: أَوْحَىٰ رَ‌بُّكَ (your Lo
 Allah Ta’ ala did not simply order the bees to make homes, He also told them as to where they should be located, that is, it should be at some altitude because such places help provide fresh, clean and almost-filtered air flow for the production of honey. Thus, honey stays protected from polluted air as well as from incidences of breakage or dam-age to the hives. So, it was said: مِنَ الْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ‌ وَمِمَّا يَعْرِ‌شُونَ. (Make homes in the mountains, in the trees and in the structures they raise) so that honey could be prepared in a hygienically safe way. This was the first instruction.
 
 ## Personal Reflections
+
+

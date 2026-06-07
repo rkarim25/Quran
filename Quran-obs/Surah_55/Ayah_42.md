@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tukadhibāni
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn… يُعْرَ‌فُ الْمُجْرِ‌مُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ (The guilty ones will be recognized [ by the angels ] by their marks and will be seized by foreheads and feet...55:41).
@@ -145,3 +133,5 @@ And saying that it means "prepared" does not contradict the first report from Al
 The word نَّوَاصِي nawasi is the plural of نَاصِیۃُ nasiyah, and means 'forelock'. Some will be dragged by their forelocks, and others will be dragged by their feet. Or it could mean that sometimes they will be dragged by their forelocks and at other times they will be dragged by their feet. The third explanation could be that the angels of punishment will bend their foreheads down to their feet and tie the forelocks to the feet, and throw them into the Hellfire. Allah knows best!
 
 ## Personal Reflections
+
+

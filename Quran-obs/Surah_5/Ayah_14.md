@@ -110,18 +110,6 @@ word_by_word:
     transliteration: yaṣnaʿūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed, Allah took the covenant from the Children of Israel (Jews), and We appointed twelve leaders among them. From the first verse, 5:13, which dealt with the breach of trust by Jews and their punishment for it, we now move to the next verse, 5:14, which refers to Christians: وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَ‌ىٰ.
@@ -247,3 +235,5 @@ Given below is a brief reference from Taysir in the marginal notes of commentato
 And it goes without saying that in the presence of such major divisions in matters of belief, mutual malice is inevitable.
 
 ## Personal Reflections
+
+

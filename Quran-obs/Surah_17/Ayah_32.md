@@ -38,18 +38,6 @@ word_by_word:
     transliteration: sabīlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And come not near to unlawful sex. The seventh injunction given here relates to the forbiddance of zina (fornication, adultery).
@@ -137,3 +125,5 @@ Therefore, the Holy Prophet ﷺ has declared sense of shame (haya' ) as a divisi
 It appears in Hadith that the Holy Prophet ﷺ said, "The heavens and the earth, the seven of them each, curse the married person who commits adultery. And the strong stench which spreads out from the private parts of such people will embarrass even the people condemned to Hell and thus there in Hell they will be suffering from the punishment of fire and disgrace both." (Reported by al-Bazzar on the authority of Sayyidna Buraidah - Mazhari) In another Hadith from Sayyidna Abu Hurairah ؓ it has been reported that the Holy Prophet ﷺ said, "A fornicator when fornicating is not a believer. A thief when stealing is not a believer. And a drunkard while drinking is not a believer." This Hadith is there in al-Bukhari and Muslim. Its explanation, as it appears in the report of Abu Dawud, says: At the time those committing such crimes are practically involved in it, 'Iman (faith) leaves their heart and comes out, and when they turn away from it, 'Iman returns back in. (Mazhari)
 
 ## Personal Reflections
+
+

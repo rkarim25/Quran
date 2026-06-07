@@ -26,15 +26,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Dawn** (Al-Fajr) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -139,3 +131,5 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ (and Jahannam [ Hell ], on that day, will be brought forward, it will be the day when man will realise the truth, but from where will he take advantage of such realisation?.... 89:23). No one, besides Allah, knows how exactly 'Hell' will be brought forward in the Plain of Gathering. Apparently, 'Hell' which is at the moment beneath the seventh earth will at that moment will flare up, and the oceans become part of the flame. In this way, Hell during the gathering will be in front of all.
 
 ## Personal Reflections
+
+

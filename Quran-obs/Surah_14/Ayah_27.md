@@ -80,18 +80,6 @@ word_by_word:
     transliteration: yashāu
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah will keep firm those who believe, with the word that stands firm in this world, and in the Hereafter. Towards the end of the verse (27), it was said: وَيُضِلُّ اللَّـهُ الظَّالِمِينَ (And Allah lets the unjust go astray).
@@ -195,3 +183,5 @@ Towards the end of the verse (27), it was said: وَيُضِلُّ اللَّـ�
 In the last sentence of verse 27, it was said: وَيَفْعَلُ اللَّـهُ مَا يَشَاءُ (And Allah does what He wills). It means that there is no power which can block His intention and will. Revered Sahabah, Sayyidna Ubaiyy, ibn Ka'b, ` Abdullah ibn Mas’ ud and Hudhayfah ibn Yamani ؓ have said: For a believer, it is mandatory to believe that everything received by him or her was received through the intention and will of Allah. Not to have received it was impossible. Similarly, what was not received, it was not possible to have received that. And they said: If you do not believe in it, and place your trust in that, your abode is Hell.
 
 ## Personal Reflections
+
+

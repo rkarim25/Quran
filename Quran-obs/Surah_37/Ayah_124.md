@@ -24,18 +24,6 @@ word_by_word:
     transliteration: tattaqūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 124, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Ilyas was one of the Messengers (123)When he said to his people: "Will you not have Taqwa? Described in the verses cited above is the fourth event relating to Sayyidna Ilyas علیہ السلام .
@@ -149,3 +137,5 @@ It seems that scholars like Ka'b al-Ahbar and Wahb Ibn Munabbih who were well ve
 In short, it is not proved from any authentic Islamic report that Sayyidna Ilyas (علیہ السلام) is alive. Hence, in this matter, the safest (and the sanest) course is to observe silence. Particularly, in the case of Isra'ili (Judaic) narratives, one should follow the teaching of the Holy Prophet ﷺ : 'neither confirm, nor falsify these.' The reason is that the Qur'an has a purpose - that is, it should be understood, provide lessons and give good counsel. This purpose can be achieved fully even without having to do something like this. And Allah is Pure and High - He knows best. Now, we can turn to an explanation of the verses.
 
 ## Personal Reflections
+
+

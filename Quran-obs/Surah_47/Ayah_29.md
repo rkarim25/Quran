@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **Muhammad** (Muhammad) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ أَن لَّن يُخْرِ‌جَ اللَّـهُ أَضْغَانَهُمْ (Do those having disease in their hearts rather think that Allah will never expose their grudges [ against Islam ]? - 47:29) " The word adghan is the plural of dighn which means secret enmity, rancour, malice or spite. This verse was revealed in connection with hypocrites to expose their bitter hatred and rancour against Islam which they were hiding in their hearts. Outwardly, they expressed their love for the Holy Prophet ﷺ and inwardly they harbored violent hatred and enmity for him. They knew that Allah is the knower of the unseen, yet they were not concerned that He would expose their inner secret and covert enmity to the people. Ibn Kathir says in Surah Bara'ah that Allah has described their works, actions and activities which expose their hypocrisy and they would be identified as hypocrites. Therefore, another name of that Surah is fadihah meaning exposing to shame or disgrace, because specific qualities of the hypocrites are set out in it.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -105,3 +97,5 @@ There is absolutely no doubt that Allah's knowledge precedes the occurrence of a
 أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ أَن لَّن يُخْرِ‌جَ اللَّـهُ أَضْغَانَهُمْ (Do those having disease in their hearts rather think that Allah will never expose their grudges [ against Islam ]? - 47:29) " The word adghan is the plural of dighn which means secret enmity, rancour, malice or spite. This verse was revealed in connection with hypocrites to expose their bitter hatred and rancour against Islam which they were hiding in their hearts. Outwardly, they expressed their love for the Holy Prophet ﷺ and inwardly they harbored violent hatred and enmity for him. They knew that Allah is the knower of the unseen, yet they were not concerned that He would expose their inner secret and covert enmity to the people. Ibn Kathir says in Surah Bara'ah that Allah has described their works, actions and activities which expose their hypocrisy and they would be identified as hypocrites. Therefore, another name of that Surah is fadihah meaning exposing to shame or disgrace, because specific qualities of the hypocrites are set out in it.
 
 ## Personal Reflections
+
+

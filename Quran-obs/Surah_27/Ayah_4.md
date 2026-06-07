@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yaʿmahūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. زَيَّنَّا لَهُمْ أَعْمَالَهُمْ (We have made their deeds adorned in their sight - 27:4)It means that those who do not believe in the Hereafter We have made their bad actions look adorned in their sight.
@@ -143,3 +131,5 @@ Commentary
 However, the first interpretation looks more appropriate and straightforward. In the first place, in the Qur'an, the word (Zinah) 'adornment' has been generally used for bad actions, for instance: زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ (It has been made attractive for people to love the desires - 3:14) زُيِّنَ لِلَّذِينَ كَفَرُ‌وا الْحَيَاةُ الدُّنْيَا (Adorned is the present life for those who disbelieve - 2:212) زَيَّنَ لِكَثِيرٍ‌ مِّنَ الْمُشْرِ‌كِينَ (6:137). Its use for good actions is very rare , such as: وَلَـٰكِنَّ اللَّـهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ (But Allah has endeared to you belief, decking it fair in your hearts - 49:7). Secondly, the word اَعمَالَھُم (their deeds) used in the verse is also pointing out that bad actions are meant here and not the righteous actions.
 
 ## Personal Reflections
+
+

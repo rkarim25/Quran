@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-raḥīmu
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 98, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. The reply given by Sayyidna Ya` qub (علیہ السلام) was: قَالَ سَوْفَ أَسْتَغْفِرُ‌ لَكُمْ رَ‌بِّي shall pray to my Lord to forgive you ...
@@ -95,3 +83,5 @@ The reply given by Sayyidna Ya` qub (علیہ السلام) was: قَالَ سَ
 Here, Sayyidna Ya` qub (علیہ السلام) has, instead of praying for them instantly, made a promise that he would pray for them soon. Commentators have generally given a reason for this. According to them, his purpose was to pray for them particularly, in peace and with concentration, towards the later part of the night - because the prayer made at that hour is answered specially. This is as it appears in a Hadith in the Sahib of Al-Bukhari and Muslim that, in the last third part of every night, Allah Ta` ala descends in all His Glory close to the firmament near the Earth, and proclaims: Is there someone who would pray to Me, and I would answer? Is there someone who would seek forgiveness from Me, and I would forgive?
 
 ## Personal Reflections
+
+

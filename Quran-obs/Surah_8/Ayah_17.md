@@ -93,18 +93,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 You killed them not, but Allah killed them. This great victory was achieved by Muslims in the background which was initially full of dismay and hopelessness.
@@ -186,3 +174,5 @@ Similarly, addressing the Holy Prophet ﷺ , it was said: وَمَا رَ‌مَ
 Certainly valuable for Muslims - more valuable than their victory in Jihad - was this instruction which disengaged their minds from means and tied it up with the master-provider of all means, and through it, saved them from falling into the trap of pride and arrogance which generally intoxicates victorious nations. After that it was said that victory and defeat are subservient to the command of Allah and that His support is with those who are obedient: وَلِيُبْلِيَ الْمُؤْمِنِينَ مِنْهُ بَلَاءً حَسَنًا (so that He may bless the believers with a good favour). It means that Allah blessed the believers with this great victory in order to give them the best of return for their obedience and struggle. The literal meaning of the word: بَلَاءً (bala' ) is test or trial. As for the test taken by Allah Ta` ala, it sometimes comes when someone is put to distress or hardship - and there are occasions when this is done by giving someone comfort and wealth. Here, the name of hasan حَسَن (good) bala' (trial) has been given to a test which is taken by giving comfort, wealth, support and victory to find out if people who are so blessed take it to be a favour from Allah and are grateful for it, or take it to be the outcome of their personal excellence, become proud and arrogant and undo what they did - because, there is no room for pride from anyone before Allah Ta` ala.
 
 ## Personal Reflections
+
+

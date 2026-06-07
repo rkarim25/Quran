@@ -61,15 +61,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 There appears a Hadith in the Sahih of Bukhari and Muslim, as well as in other books of Hadith, where Sayyidna Ka'b Ibn 'Ujrah ؓ has been reported to have said: ' (When this verse was revealed), someone asked the Holy Prophet ﷺ (The verse orders us to do two things, Salah and salam.) We already know the method of saying salam, (being السلامُ علیکَ اَیُّھَا النَّبِیُّ that is, may peace and safety be on you. 0 Prophet) now tell us the method of Salah also." He said: Say these words:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -338,3 +330,5 @@ And Imam Juwaini said that the rule about the word: صَلوٰۃ (Salah) is the 
 A detailed discussion about the injunctions of Salah and Salam appears in the treatise Tanqih-ul-kalam fi Ahkam-is-Salah was-salam written by this humble author. It was published as part of the commentary on Surah Al-Ahzab in the major work Ahkam-ul- Qur'an in Arabic.
 
 ## Personal Reflections
+
+

@@ -97,18 +97,6 @@ word_by_word:
     transliteration: l-ʿaẓīmu
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 On the Day you shall see the believing men and the believing women – their light running forward before them and in their right hands. The Believers will be awarded Light on the Day of Resurrection يَوْمَ تَرَ‌ى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُ‌هُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِم (On the Day when you will see the believing men and the believing women, their light proceeding in front of them and to their right hands,....57:12) 'The day' refers to the 'Day of Resurrection'.
@@ -290,3 +278,5 @@ Tafsir Mazhari, on this occasion, has, on the basis of Qur'an and Hadith, descri
 [ 12] The Messenger of Allah ﷺ said: اِیَّاکُم وَ الظُلمَ فَاِنَّہ، ھُوَ الظُلُمٰتُ یَوم القِیامَۃِ "Beware of zulm [ injustice ] because that will yield zulumat [ layers of darkness ] on the Day of Judgment." (Bukhari and Muslim from Ibn Umar ؓ ، Muslim from Jabir ؓ and Hakim from Abu Hurairah and Ibn ` Umar ؓ ، and Tabarani from Ibn Ziyad ؓ .
 
 ## Personal Reflections
+
+

@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-ʿālimūna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The parable of those who seek protectors from other than Allah is that of a spider who builds a house; but indeed, the weakest of houses is the spider's house – if they but knew (41)Verily, Allah knows what things they invoke instead of Him. وَتِلْكَ الْأَمْثَالُ نَضْرِ‌بُهَا لِلنَّاسِ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ (And these examples We cite for people, and no one understands them except the knowledgeable ones.
@@ -87,3 +75,5 @@ Musnad of Ahmad has reproduced a narration of Sayyidna 'Amr Ibn Al-` As ؓ that 
 Sayyidna ` Amr Ibn Murrah ؓ has said that he felt very bad whenever he came across any such verse of the Holy Qur'an, which he could not understand, because Allah has said وَتِلْكَ الْاَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۚ وَمَا يَعْقِلُهَآ اِلَّا الْعٰلِمُوْنَ (And these examples We cite for people, and no one understands them except the knowledgeable). (Ibn Kathir).
 
 ## Personal Reflections
+
+

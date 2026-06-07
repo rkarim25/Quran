@@ -16,18 +16,6 @@ word_by_word:
     transliteration: walada
 ---
 
-## Context
-
-To understand **The City** (Al-Balad) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Balad is a **Makkah** surah—revealed as the 35th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَوَالِدٍ وَمَا وَلَدَ (and by the father and that which he begot,...90:3) The word walid refers to Holy Prophet 'Adam (علیہ السلام) the father of mankind, and the phrase مَا وَلَدَ 'that which he begot' refers to his children from the inception of the world to the end of the world.
@@ -303,3 +291,5 @@ This is the end of the Tafsir of Surat Al-Balad, and all praise and blessings ar
 وَوَالِدٍ وَمَا وَلَدَ (and by the father and that which he begot,...90:3) The word walid refers to Holy Prophet 'Adam (علیہ السلام) the father of mankind, and the phrase مَا وَلَدَ 'that which he begot' refers to his children from the inception of the world to the end of the world. Thus this phrase swears an oath by Holy Prophet 'Adam (علیہ السلام) and all his children. The subject of the oath follows next, thus:
 
 ## Personal Reflections
+
+

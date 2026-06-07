@@ -57,17 +57,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers). And We have also revealed the Dhikr to you so that you may clearly explain to men what was revealed to them, and that perhaps they may reflect (44)
 
 (Say (O Muhammad): "I am only a man like you. It has been revealed to me.")[18:110] Then Allah informs those who doubt that a Messenger can be a human to ask those who have knowledge of the previous Scriptures about the Prophets who came before: were their Prophets humans or angels? Then Allah mentions that He has sent them,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -154,3 +146,5 @@ To sum up, it can be said that this verse has declared that the purpose for whic
 If today a person calls this treasure of Hadith unreliable under one or the other pretext or artifice, it plainly means that the Holy Prophet acted against this Qur’ anic injunction when he did not explain what the Qur’ an had said; or, that he had explained it but his explanation did not remain preserved for posterity. Under either of the two conditions, it is being suggested that the Qur’ an has not remained protected as to its meaning - the responsibility of protecting which has been undertaken by Allah Ta’ ala Himself: وَإِنَّا لَهُ لَحَافِظُونَ [ We, Ourselves, have sent down the Dhikr (the Qur'an) and We are there to protect it - 15:9]. This claim or inference of such a person is contrary to this textual authority (nass) of the Qur’ an. From here it stands proved that a person who refuses to accept the Sunnah of the Holy Prophet as a binding authority of Islam is, in reality, a denier of the Qur'an itself. Na ‘udhubillah: May Allah protect us from it.
 
 ## Personal Reflections
+
+

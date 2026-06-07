@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-dun'yā
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof. Necessity of turning away from the Misguided People The Qur'an here describes the condition of those unbelievers who denied the Hereafter and the Day of Judgment.
@@ -127,3 +115,5 @@ A Special Warning
 The Qur'an here describes the condition of those unbelievers who denied the Hereafter and the Day of Judgment. Regretfully, nowadays the Muslims have characterized themselves by the same condition as a result of Western education and material needs and desires. All our attempts to make progress in the fields of various branches of knowledge, sciences and arts pivot on, or revolve around, economics. They do not think even by mistake about ma'adiyyat (matters relating to the Life Hereinafter). We believe in the Holy Prophet ﷺ and hope for his intercession. But Allah commands the Holy Prophet ﷺ to withdraw from the people of misguidance and shun them. We seek refuge in Allah from such misguidance!
 
 ## Personal Reflections
+
+

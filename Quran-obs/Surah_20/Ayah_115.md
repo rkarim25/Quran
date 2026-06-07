@@ -52,13 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 115, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-And now we come to the story of Sayyidna 'Adam (علیہ السلام) which has been related earlier in Surah Al-Baqarah and Al-A` raf and partly in Surah Hijr and Al-Kahf, and will also appear later in Surah Sad. The link of the story with the preceding verses has been variously explained by the commentators. The most obvious of these explanations is the one which refers to an earlier verse كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنبَاءِ مَا قَدْ سَبَقَ (Thus We narrate to you certain events of what has passed- 20:99) in which Allah informed the Holy Prophet ﷺ that the stories of the past prophets were revealed to him as evidence and confirmation of his own prophethood and in order that his own followers be warned against committing the sins for which the earlier generations were punished.
+And now we come to the story of Sayyidna 'Adam (علیہ السلام) which has been related earlier in Surah Al-Baqarah and Al-A` raf and partly in Surah Hijr and Al-Kahf, and will also appear later in Surah Sad. The link of the story with the preceding verses has been variously explained by the commentators. The most obvious of these explanations is the one which refers to an earlier verse كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنبَاءِ مَا قَدْ سَبَقَ (Thus We narrate to you certain events of what has passed- 20:99) in which Allah informed the Holy Prophet ﷺ that the stories of the past prophets were revealed to him as evidence and confirmation of his own prophethood and in order that his own followers be warned against committing the sins for which the earlier generations were punished. The first, and in some ways, the most instructive story was that of Sayyidna 'Adam (علیہ السلام) in which there was a clear warning for the followers of the Holy Prophet ﷺ that Shaitan was an old enemy of mankind who by his flattery and show of sympathy tricked Sayyidna 'Adam (علیہ السلام) into committing an error for which both he and his wife were expelled from Paradise and the clothes which they wore there were taken away from them. Later their prayer for forgiveness was accepted by Allah and Sayyidna 'Adam (علیہ السلام) was elevated to the status of prophethood.
 
 ## Tafsir Summary
 
@@ -151,3 +145,5 @@ The episode under reference occurred before Sayyidna 'Adam (علیہ السلا�
 The second word is عَزم ` azm (firm resolve) and the same verse says that Sayyidna 'Adam (علیہ السلام) was found wanting in عَزم ` azm. As a matter of fact he was fully determined to comply with the commands of Allah but the intrigues of Shaitan weakened his resolve and unmindfulness made him lose his grip on it.
 
 ## Personal Reflections
+
+

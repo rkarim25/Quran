@@ -40,17 +40,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
 
 (so write us down among the witnesses)(5:82-83). Sa'id bin Jubayr said, "This was revealed concerning seventy priests who were sent by An-Najashi (ruler of Ethiopia). When they came to the Prophet ﷺ, he recited to them:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -141,3 +133,5 @@ Commentary
 Sayyidna Said Ibn Jubair ؓ has narrated that when Sayyidna Ja'far ؓ had gone to Habshah before the hijrah to Madinah, and presented the teachings of Islam in the court of Najashi, at that time Najashi and many of his courtiers, who were people of the book, had submitted to Islam, as Allah Ta` ala had put faith in their hearts. (Mazhari)
 
 ## Personal Reflections
+
+

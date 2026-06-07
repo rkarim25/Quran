@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Romans** (Ar-Rum) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans. Heraclius, the emperor of the Romans, was forced to flee to Constantinople where he was besieged for a lengthy period. Then Heraclius regained the upper hand. Imam Ahmad recorded that Ibn 'Abbas, may Allah be pleased with him, commented on this Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ The other possibility is that "Allah's help" in the above sentence means Allah's
 1. There is yet another explanation of this verse offered by Sayyidna Ibn ` Abbas ؓ etc.They say that the news of the victory of Romans reached the Muslims the very day in which they defeated the pagans of Makkah in the battle of Badr. Therefore, the Muslims were delighted on their own victory when the news of the victory of the Romans added to their delight. According to this interpretation, "rejoicing of the believers with Allah's help" in the present verse refers to the victory of the Muslims in the battle of Badr, and the good news given by this verse is twofold; one, in relation to the Romans, and the other in relation to the Muslims themselves. (Muhammad Taqi ` Usmani)
 
 ## Personal Reflections
+
+

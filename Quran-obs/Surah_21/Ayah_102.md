@@ -44,17 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 102, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire. It was said that this was revealed to point out an exception in the case of those who are worshipped instead of Allah, and to exclude 'Uzayr and the Messiah from their number. Hajjaj bin Muhammad Al-A'war reported from Ibn Jurayj, and 'Uthman bin 'Ata' reported from Ibn 'Abbas:
 
 It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were also worshipped, who had spent their lives in devotion towards Allah, but the misguided people who came after them took them as lords instead of Allah. Concerning the notion of worshipping the angels as daughters of Allah, the following words were revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ What Ibn Az-Zab'ari said was a serious mistake, because the Ayah was addressed t
 At that point Allah Ta` ala revealed the verse : إِنَّ الَّذِينَ سَبَقَتْ لَهُم مِّنَّا الْحُسْنَىٰ أُولَـٰئِكَ عَنْهَا مُبْعَدُونَ (Surely, those for whom the good (news) from Us has come earlier shall be kept far away from it. - 21:101) that is those for whom Our grace and good result is ensured will be kept away from Hell. And for the same Ibn al-Ziba` ra، Allah Ta` ala has revealed this Qur’ anic verse a. وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (43:57) that is when Ibn al-Ziba` ra put forward the example of Sayyidah Maryam (علیہا السلام) ، the people of his clan, Quraish, were overtaken by joy.
 
 ## Personal Reflections
+
+

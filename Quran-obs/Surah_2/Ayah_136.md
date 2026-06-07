@@ -136,15 +136,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 136, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah directed His believing servants to believe in what He sent down to them through His Messenger Muhammad ﷺ and in what was revealed to the previous Prophets in general. Some Prophets Allah mentioned by name, while He did not mention the names of many others. Allah directed the believers to refrain from differentiating between the Prophets and to believe in them all. They should avoid imitating whomever Allah described as,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -199,3 +191,5 @@ The earlier verses have defined the religion (Millat مِلَّت of Sayyidna Ib
 In the second of these verses the progeny of Sayyidna Ya` qub (علیہ السلام) (Jacob) has been described as Asbat اسباط or "tribes." The reason is that he had twelve sons, and the offspring of each son came to form a tribe. Allah so blessed his seed that in Egypt, Sayyidna Yusuf (علیہ السلام) (Joseph) and his brothers made up a group of twelve men, but their lineage flourished, and when the Israelites left Egypt along with Sayyidna Musa (علیہ السلام) (Moses), their number ran into thousands. Another form of this blessing was that the progeny of Sayyidna Ya` qub (علیہ السلام) included a large number of prophets.
 
 ## Personal Reflections
+
+

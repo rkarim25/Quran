@@ -74,18 +74,6 @@ word_by_word:
     transliteration: ṣādiqīna
 ---
 
-## Context
-
-To understand **The Congregation, Friday** (Al-Jumu'ah) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of the first section ( vv. 1-8 ) is A. H. 7, and probably it was sent down, on the occasion of the conquest of Khaiber or soon after it. Bukhari, Muslim, Tirmidhi, Nasa'i and Ibn Jarir have related on the authority of Hadrat Abu Hurairah that he and other Companions were sitting in the Holy Prophet's assembly when these verses were revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The likeness of those who were entrusted with the Tawrah, but did not carry it, is as the likeness of a donkey which carries huge burdens of books. (Say, "0 those who are Jews, if you claim that you are the friends of Allah to the exclusion of all other people, then express your desire for death, if you are true…62:6) Friends of Allah to the exclusion of all other p…
@@ -157,3 +145,5 @@ Friends of Allah to the exclusion of all other people, then express your desire 
 Despite their kufr, shirk and moral aberration, the Jews claimed نَحْنُ أَبْنَاءُ اللَّـهِ وَأَحِبَّاؤُهُ (…We are the sons of Allah and His favourites) [ 5:18] and they also claimed لَن يَدْخُلَ الْجَنَّةَ إِلَّا مَن كَانَ هُودًا (…no one shall ever enter Paradise unless he is a Jew) [ 2:111]. In other words, they believed themselves to be safe and immune from the punishment of the Hereafter, and thought that the blessings of Paradise are their personal property. Obviously, if a person believes that the blessings of the Hereafter are a zillion times better than the blessings of this world, he must, of necessity, wish for death, so that he is able to enter Paradise sooner and start enjoying its blessings forthwith. He sees with his own eyes that this world is not free from miseries, sorrows and hardships and one has to suffer from certain diseases as long as he is living here. Then if he believes that, as soon as he dies, he will certainly receive those numerous and eternal blessings, a wise man should naturally wish for death in his heart, so that he may be set free from this miserable world and reach the next world where he will reside forever in eternal peace and comfort. That is why the Messenger of Allah ﷺ is instructed in the present verse to challenge that if they are Allah’ s children and His beloved ones they do not have any fear of punishment in the Hereafter, then the reason demands that they should wish for death. Then the Holy Qur’ an itself falsified them in the following words:
 
 ## Personal Reflections
+
+

@@ -71,18 +71,6 @@ word_by_word:
     transliteration: yaktumūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "O People of the Scripture! Consideration of the Addressee : A Principle of Da'wah The condition of a people who were under the curse and wrath of Allah has been introduced through a similitude in the next verse (60) which begins with: قُلْ هَلْ أُنَبِّئُكُم[ Should I (not) tell you...].
@@ -232,3 +220,5 @@ Consideration of the Addressee : A Principle of Da'wah
 The condition of a people who were under the curse and wrath of Allah has been introduced through a similitude in the next verse (60) which begins with: قُلْ هَلْ أُنَبِّئُكُم[ Should I (not) tell you...]. In fact, this condition applied to these very addressees. The occasion demanded that they should have been the ones to be directly charged with the blame. But, the Qur'an has changed the mode of direct address into the form of a similitude (to show consideration). This shows us a distinctive method of Da'wah (Call) as used by prophets, that is, never say things in a manner which makes the addressees angry.
 
 ## Personal Reflections
+
+

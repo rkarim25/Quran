@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-ghāwīna
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 [Iblis] said: "O my Lord! The Meaning of Shaitan Having No Power over Special Servants of Allah From the verse: إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ (My servants are such that you have no power over them - 42), we learn that there are special and chosen servants of Allah Ta’ ala who are not affected by Shaitanic deception.
@@ -169,3 +157,5 @@ Therefore, in the present verse, the sense of saying that the special servants o
 As for the events mentioned above, they offer no contradiction be-cause 'Adam and Hawwa' (علیہما السلام) made their Taubah and this repentance was accepted. Similarly, the noble Companions referred to above had also made their Taubah. Thus, whatever sin they fell into because of the mechanization of Shaitan was forgiven.
 
 ## Personal Reflections
+
+

@@ -16,18 +16,6 @@ word_by_word:
     transliteration: wali-anʿāmikum
 ---
 
-## Context
-
-To understand **He Frowned** ('Abasa) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah 'Abasa is a **Makkah** surah—revealed as the 24th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 42 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators and traditionists are unanimous about the occasion of the revelation of this Surah. According to them, once some big chiefs of Makkah were sitting in the Holy Prophet's assembly and he was earnestly engaged in trying to persuade them to accept Islam. At that very point, a blind man,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Qutila mankind! كَلَّا لَمَّا يَقْضِ مَا أَمَرَ‌هُ (No!
@@ -193,3 +181,5 @@ This report has an authentic chain of narration. More than one person has narrat
 Having mentioned in the preceding verses the beginning and the end of human life, Divine Omnipotence and Divine blessings, the current verses warn the non-believing man that the demand of Divine Signs and blessings was to carefully ponder and believe in Allah, and comply with His injunctions, but the unfortunate creature failed to do so. Further, the Divine favours are mentioned that were conferred on man between the beginning and end of his life. Man is then asked to consider the sources of his food. Allah showers down water abundantly from the clouds. He cleaves the earth with new growth. Thereupon He causes grain to grow out of it. At first, a fragile shoot germinates and sprouts. Then many different kinds of grain, fruits and gardens come into existence. Having warned man several times about these Divine blessings, the Surah concludes with the mention of Resurrection, thus:
 
 ## Personal Reflections
+
+

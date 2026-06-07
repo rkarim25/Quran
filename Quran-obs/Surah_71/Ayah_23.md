@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **Noah** (Nuh) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Nuh is a **Makkah** surah—revealed as the 71st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا (…let not the wrongdoers progress in anything but deviation from the right path 71:24). This is the supplication of Prophet Nuh (علیہ السلام) against his people. It may not be surmised that the duty and obligation of a Prophetic office is to guide the people, but here Prophet NuhI is praying for increase in his people's misguidance. Prophet Nuh (علیہ السلام) did not invoke this curse out of despair or impatience. In fact, he invoked it when, after doing full justice to his mission for many centuries, his people chose the path of deviation, rebellion, disbelief and obstinacy and persisted in it until they had reached a point of no return, of which Allah informed him thus, 'And it was revealed to Nuh (علیہ السلام) that none of your people would ever believe except those who have already believed__ [ 11:36] '. This situation made it clear to him that his people would definitely and certainly die in the state of disbelief. So he prayed for their final destiny to overtake them sooner and destroy them.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ Verily, Allah responded to the supplication of both of these Prophets concerning
 وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا (…let not the wrongdoers progress in anything but deviation from the right path 71:24). This is the supplication of Prophet Nuh (علیہ السلام) against his people. It may not be surmised that the duty and obligation of a Prophetic office is to guide the people, but here Prophet NuhI is praying for increase in his people's misguidance. Prophet Nuh (علیہ السلام) did not invoke this curse out of despair or impatience. In fact, he invoked it when, after doing full justice to his mission for many centuries, his people chose the path of deviation, rebellion, disbelief and obstinacy and persisted in it until they had reached a point of no return, of which Allah informed him thus, 'And it was revealed to Nuh (علیہ السلام) that none of your people would ever believe except those who have already believed__ [ 11:36] '. This situation made it clear to him that his people would definitely and certainly die in the state of disbelief. So he prayed for their final destiny to overtake them sooner and destroy them.
 
 ## Personal Reflections
+
+

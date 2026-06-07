@@ -12,18 +12,6 @@ word_by_word:
     transliteration: marfūʿatin
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… وَفُرُ‌شٍ مَّرْ‌فُوعَةٍ (...and mattresses of high quality....56:34).
@@ -289,3 +277,5 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 وَفُرُ‌شٍ مَّرْ‌فُوعَةٍ (...and mattresses of high quality....56:34). The word rush is the plural of firash which means 'bed, couch, mattress'. The word marfu'ah lexically means 'upraised, elevated'. The couches could be upraised or elevated for one of several reasons: [ 1] because the place itself is high; [ 2] because the mattresses will not be on the ground, but on the thrones or beds; or [ 3] because the couches themselves will be thick (and of high quality). Some exegetes have taken the word 'rush' in the sense of 'women', because it is one of the meaning of 'firash' is referred as firash, as in the Prophetic Tradition اَلوَلَدُ لِلفَرَاشِ. 'The child belongs to the firash'. The word firash refers to 'wife'. This is corroborated by the characteristics of the women of Paradise described in the forthcoming verses. In this case, the word marfu` ah would mean 'high-ranking'.
 
 ## Personal Reflections
+
+

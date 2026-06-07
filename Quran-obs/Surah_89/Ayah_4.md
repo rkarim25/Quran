@@ -16,18 +16,6 @@ word_by_word:
     transliteration: yasri
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. وَالشَّفْعِ وَالْوَتْرِ (and by the even and the odd,...89:3).
@@ -251,3 +239,5 @@ Some commentators like Ibn Sirin, Masruq, Abu Salih and Qatadah رحمۃ علی�
 أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ ۔ إِرَمَ ذَاتِ الْعِمَادِ (Have you not seen how your Lord dealt with [ the people ] ` Ad of Iram, the men of tall pillars...(89:6-7). The word 'Iram' in verse [ 7] is, grammatically speaking, either ` atf bayan (syndetic explicative) or badal (complement). The purpose of the construction is to specify one of the two tribes of ` Ad. This statement specifies that it refers to ` Ad-ul-'ula (the early generation of ` Ad). A remnant from the former generation is referred to as ` Ad-ul-'Ukhra, because they are linked with their great-grand father Iram more closely than ` Ad-ul-'Ukhra. Here the Qur'an refers to the first tribe as ` Ad Iram. In Surah An-Najm, they are described as: عَادًا الْأُولَىٰ (the earlier ` Ad,) [ 53:50] '
 
 ## Personal Reflections
+
+

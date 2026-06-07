@@ -127,18 +127,6 @@ word_by_word:
     transliteration: masṭūran
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Prophet is closer to the believers than themselves, and his wives are their mothers. As stated earlier, most of the subjects in Surah al-Ahzab relate to the reverence of the Holy Prophet t and to the unlawfulness of causing pain to him.
@@ -236,3 +224,5 @@ And some early commentators have said that, at this place, the Believers ('al-mu
 Soon thereafter, it was stated: إِلَّا أَن تَفْعَلُوا إِلَىٰ أَوْلِيَائِكُم مَّعْرُ‌وفًا (unless you do some good to your friends (by making a will in their favour - 6). In other words, this means that inheritance as such will be received only on the basis of relationship - anyone unrelated will not be an inheritor - but, there may be people with whom you relate as your brothers in faith. If you wish to give them something, you have the right to do so. You could do so within your lifetime and give it to them as a gift, and it is also possible to make a will in their favour so that they get it after your death.
 
 ## Personal Reflections
+
+

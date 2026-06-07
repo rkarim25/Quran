@@ -64,18 +64,6 @@ word_by_word:
     transliteration: yarjiʿūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Yusuf's brethren came and they entered unto him, and he recognized them, but they recognized him not (58)And when he furnished them with their provisions, he said: "Bring me a brother of yours from your father. Ibn Kathir has described several possibilities as to why Sayyidna Yusuf (علیہ السلام) acted the way he did: (1) It occurred to him that, perhaps they may not have anything other than the cash and jewelry they had brought.
@@ -149,3 +137,5 @@ It is Allah alone who knows the workings of His infinite wisdom. To comprehend i
 This was the reason why, at the very initial stage of the event, when Sayyidna Ya` qub (علیہ السلام) had realized that his son, Yusuf (علیہ السلام) ، was not eaten up by a wolf but that it was some trick of his brothers, the natural demand of the situation was that he should have visited the place of the reported incident and made necessary investigations. But, as Allah Ta ala would have it, he was unable to think on those lines. Then, after a long passage of time, he also said to his brothers: ` Go and search for Yusuf (علیہ السلام) and his brother.' When Allah Ta ala wills to do something, this is the way He would put all its causes together.
 
 ## Personal Reflections
+
+

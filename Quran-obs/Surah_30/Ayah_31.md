@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-mush'rikīna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, set you your face towards the religion as a Hanif. وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِ‌كِينَ (And establish Salah, and do not be among those who associate partners with Allah - 30:31).
@@ -155,3 +143,5 @@ These are like the Jews, Christians, Zoroastrians, idol worshippers and all the 
 وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِ‌كِينَ (And establish Salah, and do not be among those who associate partners with Allah - 30:31). In the previous verse it was mentioned that the human nature is designed in a manner that it has an inherent capability to accept the Truth. Now in this verse it is emphasized that establishment of prayer is the first requisite for the acceptance of Truth, because it is the manifestation of submission to Truth and practical affirmation of Faith in Islam. After that, it is said وَلَا تَكُونُوا مِنَ الْمُشْرِ‌كِينَ (30:31), that is, ` Do not join those indulging in shirk (associating others with Allah), because they did not avail of their natural capability to accept the Truth. Their misdeeds are mentioned in the next verse which says,
 
 ## Personal Reflections
+
+

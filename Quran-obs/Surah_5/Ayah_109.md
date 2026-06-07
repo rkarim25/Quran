@@ -67,18 +67,6 @@ word_by_word:
     transliteration: l-ghuyūbi
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 109, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-109-119 Conclusion : "O mankind!
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 On the Day when Allah will gather the Messengers together and say to them: "What was the response you received (from men to your teaching)?" They will say: "We have no knowledge, verily, only You are the Knower of all that is hidden. Earlier, mention was made of various injunctions.
@@ -168,3 +156,5 @@ No son of Adam will move a step on the Day of Qiyamah until he is asked five que
 Great is the mercy and affection of Allah Ta` ala. He puts us to a test and He Himself tells His people about the questions asked during the test. The task was done by the Holy Prophet ﷺ who told his Ummah how to appear in this test. Now, for them, there is nothing left to do but to resolve these questions, find their answers and solutions and keep that preserved (for the day of trial). So, if someone still fails, even after being told what will be in the test, fairly in advance, who else could be more deprived than him?
 
 ## Personal Reflections
+
+

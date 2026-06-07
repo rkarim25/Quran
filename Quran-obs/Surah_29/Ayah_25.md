@@ -118,18 +118,6 @@ word_by_word:
     transliteration: nāṣirīna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire. The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die.
@@ -193,3 +181,5 @@ Commentary
 The infidels of Makkah believed that it is Allah who has created the whole universe, but they deemed it impossible that the people will be resurrected after they once die. The present verses have described the fallacy of their view. It is stated that repeating the process of creation is much easier than its origination. It is strange that these infidels do believe that Allah has originated the creation, but they deny His power to do it again, while the latter is easier than the former. Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process. After establishing the Resurrection, the last three verses describe the punishment for those who deny it.
 
 ## Personal Reflections
+
+

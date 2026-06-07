@@ -22,17 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Yes.) He (Az-Zubayr) said, 'This is a very serious matter.'" Ahmad recorded from Az-Zubayr bin Al-'Awwam, may Allah be pleased with him, that when this Surah was revealed to the Messenger of Allah ﷺ:
 
 Ibn Abi Hatim recorded that Sa'id bin Jubayr said that Ibn 'Umar, may Allah be pleased with him, said, "This Ayah was revealed and we did not know what it was revealed about:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -145,3 +137,5 @@ Commentary
 In verse 30, it was said: إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ (Verily, you are to die and they are to die). The word: مَيِّتٌ (mayyit) with a doubling sound on the letter: اَلیاء (al-ya) denotes someone who will die in the future and مَیت (mait) with the letter al-ya' remaining quiescent, someone who has died. In this verse, the address is to the Holy Prophet ﷺ and it is being said to him that he too is to die and so are his friends and foes, who will also die. The objective behind the statement is to alert and persuade everyone to be concerned about the Hereafter and be ready to do everything necessary to achieve this goal. Then, as an inter-related side of the subject, the purpose is also to make it very clear that the Holy Prophet ﷺ too, despite being the most sublime among the creation and the foremost among prophets, is not exempted from death, so that people would not differ about this matter after his passing away from this mortal world (from al-Qurtubi).
 
 ## Personal Reflections
+
+

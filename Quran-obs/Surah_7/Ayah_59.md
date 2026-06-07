@@ -88,18 +88,6 @@ word_by_word:
     transliteration: ʿaẓīmin
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-59-171 As the Covenant with the Israelites was mentioned at the end of the preceding passage, the whole mankind has been reminded very appropriately of the Covenant that was made at the time of the appointment of Adam as the Vicegerent of Allah so that all of his descendants should remember it and accept and follow the Message that was delivered by the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed, We sent Nuh to his people and he said: "O my people! Described from the beginning of Surah al-A` raf upto this point were the subjects of Tauhid, Risalah and 'Akhirah, the basic principles of Islam.
@@ -177,3 +165,5 @@ Based on a narration of Sayyidna Ibn ` Abbas ؓ عنہما reports Mustadrak of 
 The verse of the Qur'an: لَقَدْ أَرْ‌سَلْنَا نُوحًا إِلَىٰ قَوْمِهِ (Surely, We sent Nuh to his people) proves that Sayyidna Nuh (علیہ السلام) was sent as a prophet only to his people. It was not common to the whole world. His people lived in Iraq. They were outwardly civilized but were involved in Shirk. The call given by Sayyidna Nuh (علیہ السلام) to his people was: اعْبُدُوا اللَّـهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُ‌هُ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ (0 my people, worship Allah. For you there is no god other than Him. I fear for you the punishment of a great Day). In the first sentence, the invitation given is to worship Allah Ta` ula, which is the essence of the principle. In the second sentence, people have been persuaded to shun Shirk and Kufr, something which had spread out like some epidemic among these people. In the third sentence, the purpose is to warn people against the danger of that great punishment which they would have to face in the event they were to do otherwise. This ` great punishment' could mean the punishment of the Hereafter, and the punishment of the Flood in the present world too. (Tafsir Kabir)
 
 ## Personal Reflections
+
+

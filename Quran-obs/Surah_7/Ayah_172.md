@@ -115,18 +115,6 @@ word_by_word:
     transliteration: ghāfilīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 172, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-172-174 The example of the one who had the knowledge of the Message but discarded it, has been cited as a warning to those who were treating the Message as false; they have been exhorted to use their faculties to recognize the Message; otherwise Hell would be there abode.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when your Lord brought forth from the Children of Adam, from their loins, their seed and made them testify as to themselves (saying): "Am I not your Lord?" They said: "Yes! The covenant of Alust: عہد الست These two verses describe the event of the great heavenly covenant which the Creator, Allah, made with all His created being even before they took the form of their existence.
@@ -330,3 +318,5 @@ The next sentence of the verse has said:
 That is to say, the pledge taken by Allah has lit the candle of Faith in their hearts. Now with little reflection they can easily recognize Him as their Lord. Therefore, their excuse of ignorance shall not be of any avail to them on the Day of Judgment.
 
 ## Personal Reflections
+
+

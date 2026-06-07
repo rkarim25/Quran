@@ -94,15 +94,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's Messenger ﷺ felt the hardship upon receiving the revelation as he usually did and then became relieved. He said to me,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -235,3 +227,5 @@ The penalty for zihar is obligatory, which is given in this and the next verse. 
 It is recorded in Traditions that when Sayyidah Khaulah ؓ complained to Allah's Messenger ﷺ about her husband and pleaded her case to Allah, verses relating to zihar and its expiation were revealed. So, Allah's Messenger ﷺ called for the husband. When he came, the Holy Prophet ﷺ noticed that he was a weak-sighted old man. He recited to him the verses resolving his case, and commanded him to emancipate a slave, he said that he does not have the means to do that. The Holy Prophet ﷺ then asked him to fast two successive months, to which he replied: "By Him Who has sent you as the true Messenger, if I do not have two or three meals a day, I lose my sight completely." The Holy Prophet ﷺ said 'Then feed sixty poor people'. He said 'I do not have the ability for that either, unless you help me'. The Holy Prophet ﷺ gave him some food grain, and also other people gathered more food grain for him, which amounted to the measure of sadaqatul-fitr for sixty poor men, and in this way the expiation was made. [ Ibn Kathir ]
 
 ## Personal Reflections
+
+

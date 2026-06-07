@@ -33,18 +33,6 @@ word_by_word:
     transliteration: l-shayāṭīni
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 97, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-96-97 In this concluding passage, the enemies of the truth have been warned that they shall have to render an account in the Hereafter and bear the consequences of their persecution of the Believers; therefore they should mend their ways.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "My Lord! And say, ` 0 my Lord, I seek your refuge from the strokes of the Shaitan, and I seek Your refuge from that they come to me.' (23:97, 98) The word هَمَز (the infinitive of هَمَزَاتِ Hamazat translated above as 'strokes' ) means "to push, to press" and sometimes is also used to mean "to make a call from behind".
@@ -118,3 +106,5 @@ I seek refuge with Allah's Perfect Words from Allah's wrath and His punishment, 
 Sayyidna Khalid ؓ did as advised and was soon cured of insomnia.
 
 ## Personal Reflections
+
+

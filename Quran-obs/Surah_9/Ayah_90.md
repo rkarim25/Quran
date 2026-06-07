@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 90, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 When the Holy Prophet ﷺ allowed Jadd ibn Qays that he may not go on Jihad,' says Sayyidna Jabir ibn ` Abdullah ؓ ، ` some hypocrites also came to him, offered their excuses and sought his permission to stay out of Jihad. As for the permission, he let them have it, but he did realize that they were making false excuses, therefore, he turned away from them. Thereupon, this verse was revealed.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -117,3 +109,5 @@ When the Holy Prophet ﷺ allowed Jadd ibn Qays that he may not go on Jihad,' sa
 It made it clear that their excuse was unacceptable. Therefore, they were served with the warning of a painful punishment. However, by saying: اَلَّذِینَ کَفَرُوا مِنھُم (those of them who disbelieve), a hint was given that the excuse given by some of them was not because of their disbelief or hypocrisy, rather, it was because of their natural laziness. So, they were not to be affected by the punishment to fall upon those disbelievers.
 
 ## Personal Reflections
+
+

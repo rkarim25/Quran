@@ -20,18 +20,6 @@ word_by_word:
     transliteration: zil'zālahā
 ---
 
-## Context
-
-To understand **The Earthquake** (Az-Zalzalah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zalzalah is a **Madinah** surah—revealed as the 93rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Whether or not Surah Az-Zalzalah was revealed in Makkah or Madinah is disputed. Ibn Masud, Ata, Jabir, and Mjahid say that it is a Makki Surah and a statement of Ibn Abbas also supports this view. On the contrary, Qatadah and Muqatil say that it is Madani and another statement of Ibn Abbas also has been cited in support of this view. That it is a Madani Surah is reasoned from a tradition from Hadrat Abu Said Khudri, which Ibn Abi Hatim has related from him.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Az-Zalzalah Imam Ahmad recorded from 'Abdullah bin 'Amr that he said, "A man came to the Messenger of Allah ﷺ and said, 'Teach me what to recite, O Messenger of Allah!' The Prophet ﷺ said, The Merits of Surah Az-Zilzal Sayyidna Anas and Ibn ` Abbas ؓ report that the Messenger of Allah ﷺ said that Surah Al-Zilzal equals half the Qur'an, Surah Al-Ikhlas equals a third of the Qur'an and Surah Al-Kafirun equals a quarter of the Qur'an.
@@ -243,3 +231,5 @@ The Scene of the Day of Resurrection
 Verse [ 1] إِذَا زُلْزِلَتِ الْأَرْ‌ضُ زِلْزَالَهَا (When the earth will be trembled with its quake.) It is not clear whether this earthquake refers to the convulsion that will take place in the world before the 'first blowing of the trumpet', as is mentioned in connection with the portents of the Doomsday, or it refers to the quake that will occur after the 'second blowing' when the dead bodies will be resurrected and thrown out of their graves. Narratives and views of the commentators differ on this issue. It is not inconceivable that many quakes and convulsions would occur: first, before the 'first blowing'; and second, after the 'second blowing' at the time of raising the dead. Here it probably refers to the second quake, and the context supports it, because the Surah later on describes the scenes of the Day of Resurrection, such as reckoning, weighing and evaluating of deeds, and recompense. Allah knows best. [ Mazhari ]
 
 ## Personal Reflections
+
+

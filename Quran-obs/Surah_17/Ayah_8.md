@@ -53,15 +53,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and would become tyrants and extremely arrogant, meaning they would become shameless oppressors of people, Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -170,3 +162,5 @@ Disbelievers too are the servants of Allah, but not among the accepted ones
 About the first event (5), the Holy Qur’ an said: When the people of Faith start letting them be seduced to discord, sin, disobedience and disorder, Allah Ta’ ala shall set upon them such servants of His as would break into their homes killing and plundering. At this place, the Qur’ an has used the expression: عِباداً لَّنَا (` ibadal-lana: Some servants belonging to Us) and not: عِبَادَنَا (` ibadana: Our servants) - even though it was brief. There is wisdom behind it. Is it not that the attribution of a servant to Allah is, for him, the greatest conceivable honor? This is similar to what we have explained at the beginning of this very Surah under our comments on the first verse: أَسْرَ‌ىٰ بِعَبْدِهِ (asra' bi` abdihi: made His servant travel at night). There it was said that certainly great was the honour and nearness the Holy Prophet ﷺ was blessed with during the night of the Mi` raj. But, when the Qur'an describes this event, it does not mention either his blessed name or some attribute. It simply said: عَبْدِهِ (abdihi: His servant). This tells us that the ultimate perfection a human person can have, and the highest station he can occupy, is that Allah Ta’ ala chooses to cherish a servant by calling him 'His' servant. In the verse under reference, the people who meted out the punishment to the Bani Isra'il were kafirs, or disbelievers after all. Therefore, instead of calling them: عِبَادِنَا (Our servants), Allah Ta’ ala has broken the element of attribution and connection and said: عِبَاداًلَّنا (some servants belonging to Us). Thus, a hint has been given here that all human beings are nothing but servants of Allah as created, but because of the absence of 'Iman or faith, they are not the kind of accepted servants who could be attributed directly to Allah Ta` ala.
 
 ## Personal Reflections
+
+

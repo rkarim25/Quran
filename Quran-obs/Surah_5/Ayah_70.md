@@ -84,18 +84,6 @@ word_by_word:
     transliteration: yaqtulūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 70, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-70-86 In this portion of the Surah, further regulations about the lawful and the unlawful, in addition to those contained in 1-10 , have been given.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, We took the covenant of the Children of Israel and sent Messengers to them. This is an account of how the Bani Isra'il kept breaking the pledge taken from them.
@@ -127,3 +115,5 @@ Commentary
 This is an account of how the Bani Isra'il kept breaking the pledge taken from them. As said in verse 70, whenever their Messenger brought a command which did not suit their fancy, they would break their pledge and go about betraying Allah to the limit that they would falsify His Messengers, even kill some of them. They were commanded ` to believe in Allah and act righteously.' But, this was what they did in response. As for the other part of the command - ` Belief in the Last Day' their behaviour was equally reckless. After having committed acts so oppressive, they became totally carefree as if they would not have to pay for what they had done and as if the consequences of their injustice and rebellion will never come out in the open. Under this false impression, they became totally blind and deaf to Divine signs and words. They went on doing what should have not been done. So much so that they killed some prophets and put some others behind bars. Finally, Almighty Allah imposed on them the mastery of Nebuchadnezzar (King of Babylonia, 605-562 B.C., who took them as slaves to Babylon - Old Testament, book of Daniel). When, after a long time, they were sent back to Jerusalem from Babylon through help from some Persian kings who secured their release from disgrace under Nebuchadnezzar, they repented and turned to making amends. Allah relented and accepted their repentance. But, with the passage of some time, they went back to their old practices which made them so blind and deaf once again that they dared killing Sayyi.dna Zakariyah (علیہ السلام) (Zechariah) and Sayyidna Yahya (John) and were all set to kill Sayyidna ` Isa (علیہ السلام) (Jesus ). (Tafsir Usmani - Notes)
 
 ## Personal Reflections
+
+

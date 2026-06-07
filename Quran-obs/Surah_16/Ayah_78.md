@@ -68,18 +68,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And to Allah belongs the Unseen of the heavens and the earth. The Divine statement: لَا تَعْلَمُونَ شَيْئًا (when you knew nothing - 78) indicates that knowledge is not an ingrained personal excellence of man.
@@ -153,3 +141,5 @@ After these two, comes information which one deduces by deliberating into things
 On this occasion, Allah Ta'a1a has mentioned the faculties of hearing, seeing and understanding. Speech was not mentioned because speech plays no role in the acquisition of knowledge. It is, rather, a source of the expression of knowledge. In addition to that, according to Imam Al-Qurtubi, the word: سَمَع 'sam’ a" (hearing) is inclusive of نُطق nutq (speech) as a corollary, as experience bears out that a person who hears speaks as well. A person deprived of the power of speech remains deaf in the ears as well. Perhaps, the reason why a dumb person cannot speak lies in the person's very inability to hear any sounds which could make learning to speak through hearing possible. وَاللہُ اَعلم Wallahu a` lam: 'And Allah knows best' is a standard appendage to conclusions where definite knowledge about a subject in flux is not available or accessible or reliable. For a believer, this serves as a safety device against the possibility of having made any false statements, which may be a sin.
 
 ## Personal Reflections
+
+

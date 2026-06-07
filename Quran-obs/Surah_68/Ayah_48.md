@@ -50,18 +50,6 @@ word_by_word:
     transliteration: makẓūmun
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, wait with patience for the decision of your Lord, and be not like the Companion of the Fish when he cried out (to Us) while he was Makzum (48)Had not a grace from his Lord reached him, he would indeed have been (left… وَلَا تَكُن كَصَاحِبِ الْحُوتِ (So, remain patient with your Lord's judgment, and be not like the Man of the Fish...68:48).
@@ -265,3 +253,5 @@ This is the end of the explanation (Tafsir) of Surah Nun (or Al-Qalam), and all 
 وَلَا تَكُن كَصَاحِبِ الْحُوتِ (So, remain patient with your Lord's judgment, and be not like the Man of the Fish...68:48). It refers to Sayyidna Yunus (علیہ السلام) . He is named here as 'Man of Fish' because he was devoured by a fish and remained in its belly for some time.
 
 ## Personal Reflections
+
+

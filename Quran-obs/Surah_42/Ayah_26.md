@@ -55,18 +55,6 @@ word_by_word:
     transliteration: shadīdun
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty. The deniers and opponents have been advised in the second verse that there is still time to give up and renounce their disbelief and ` kufr'.
@@ -168,3 +156,5 @@ One is to give up, immediately, the sin one is involved in. The second is to rep
 It is important to note that for all kinds of ` taubah', giving up of sin must be for the sake of Allah, and not due to any physical inability or weakness. The ` Shari'ah' demands that one ought to renounce all the sins, but if someone renounces only a particular sin, Ahl-us-Sunnah hold that that particular sin would be forgiven, whereas his liability for other sins would continue.
 
 ## Personal Reflections
+
+

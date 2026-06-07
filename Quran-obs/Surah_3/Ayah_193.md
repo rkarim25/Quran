@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 193, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O Bilal! What prevents me from crying, when this night, this Ayah was revealed to me,)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -349,3 +341,5 @@ Further on, from verses 192 to 194, there appears a set of pleas and prayers fro
 These three requests were aimed at safety against punishment and pain and loss. The fourth request is about promised blessings, the blessings of Paradise promised through the noble prophets. This prayer for blessings is being made with the added request that there be no disgrace on the Day of Judgment. In other words, the request is to be excused from the torturous procedure of accounting (for all of one's deeds), disgrace (as a result of misdeeds) and then forgiveness (on account of Allah's mercy). The prayer is for outright forgiveness for Allah does not go back on His word. What is the purpose of this submission and re-submission? The purpose is to say: 0 Allah, enable us to become deserving, and a beneficiary of this promise (made by You), and enable us to remain steadfast so that we breath our last in this world with faith in our heart (ایمان) and busy doing what is good in Your sight ( عمل صالح).
 
 ## Personal Reflections
+
+

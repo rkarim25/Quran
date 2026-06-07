@@ -24,18 +24,6 @@ word_by_word:
     transliteration: zawjāni
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But for him who fears the standing before his Lord, there will be two Gardens (46)Then which of the blessings of your Lord will you both deny (47)With Afnān (48)Then which of the blessings of your Lord will you both deny… فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ (In both there are two kinds of every fruit...52).
@@ -97,3 +85,5 @@ This Ayah is general and applies to both humans and Jinns, providing proof that 
 فِيهِمَا مِن كُلِّ فَاكِهَةٍ زَوْجَانِ (In both there are two kinds of every fruit...52). The phrase مِن كُلِّ فَاكِهَةٍ "of every fruit " denotes that the first two gardens will comprehend all kinds of fruit. As opposed to this, verse [ 68] simply states فَاكِهَةٍ fakihah [=fruits ] about the second two gardens. The word زَوْجَانِ zawjan [ two kinds ] means every fruit will be of two types. This may be referring to one kind of dried fruits, and the other of fresh ones. It could also mean that one kind will be of normal taste, and the other of some extra ordinary flavor. [ Mazhari ]
 
 ## Personal Reflections
+
+

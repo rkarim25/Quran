@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah tells us that His Book, which He has revealed to His Messenger Muhammad ﷺ, the Qur'an to which falsehood cannot come, from before it or behind it, (it is) sent down by the All-Wise, Worthy of all praise, is a cure and a mercy for the believers, meaning that it takes away whatever is in their hearts of doubt, hypocrisy, Shirk, confusion and inclination towards falsehood. The Qur'an cures all of that. It is also a mercy through which one attains faith and wisdom and seeks goodness. This is only for those who believe in it and accept it as truthful, it is a cure and a mercy only for such people. As for the disbeliever who is wronging himself by his disbelief, when he hears the Qur'an, it only makes him further from the truth and increases him in his disbelief. The problem lies with the disbeliever himself, not with the Qur'an, as Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -107,3 +99,5 @@ Similarly, there are several other Hadith reports which prove that the Holy Prop
 The last sentence of the verse: (And it adds nothing to the unjust but loss - 82) tells us that the Holy Qur'an - when recited with faith and reverence - is certainly a cure. It is open. It is proven. Conversely, any denial of the Qur’ an, or irreverence to it, could also become a source of loss and misfortunes.
 
 ## Personal Reflections
+
+

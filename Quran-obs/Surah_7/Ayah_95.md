@@ -80,18 +80,6 @@ word_by_word:
     transliteration: yashʿurūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 95, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We sent no Prophet unto any town (and they denied him), but We seized its people with Ba'sā' and Ḍarrā', so that they might humble themselves (to Allah)(94)Then We changed the evil for the good, until they 'Afaw (inc… The Arabic word: سَّيِّئَةِ 'sayyiah' in this verse refers to distress, while the word: حَسَنَةَ 'hasanah' signifies prosperity, and the word عَفَو ` Afw': signifies increase or growth.
@@ -149,3 +137,5 @@ The believer, therefore, is aware of the test behind the afflictions whether it 
 The Arabic word: سَّيِّئَةِ 'sayyiah' in this verse refers to distress, while the word: حَسَنَةَ 'hasanah' signifies prosperity, and the word عَفَو ` Afw': signifies increase or growth. The verse implies firstly that, they were made to undergo a test of hardship and suffering in order that they may repent and turn to Allah. When they did not take lesson from this warning and were a failure in this test, they were put to another test of a different kind. Their adversity was replaced with prosperity and their distress with ease and comfort until they increased in number and strength. This prosperity, after a long period of adversity, should have made them grateful to their Lord and they should have repented to Allah, but being completely lost in material pursuits and perverted by their mundane desires, they did nothing but to say, 'The suffering and prosperity came to our fathers (too).' that is, their suffering and prosperity had nothing to do with their deeds, it was just a natural course of changing phenomena. It was after their obstinate persistence in their evil and ignorance that they were seized by the punishment of Allah. The verse said, 'Then We seized them suddenly while they were unaware.'
 
 ## Personal Reflections
+
+

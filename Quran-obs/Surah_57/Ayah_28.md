@@ -92,18 +92,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّـهَ وَآمِنُوا بِرَ‌سُولِهِ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّ‌حْمَتِهِ (0 those who believe, fear Allah, and believe in His Messenger, and He will give you two shares [ of reward ] out of His mercy,..28) The vocative expression يَا أَيُّهَا الَّذِينَ آمَنُوا "O those who believe..." in this verse refers to the People of the Book who believed in Prophet ` Isa (علیہ السلام) .
@@ -163,3 +151,5 @@ This is the end of the Tafsir of Surat Al-Hadid, all praise is due to Allah, and
 Then the verse promises the People of the Book that believe in the Holy Prophet ﷺ ، their reward will be doubled. The first reward is on account of their believing in Prophet ` Isa (علیہ السلام) or Musa (علیہ السلام) and following their Shari’ ah, and the second reward is for their believing in the Holy Prophet ﷺ and acting upon his Shari’ ah. The reason for their double reward is that Jews and Christians were unbelievers until they believed in the Holy Prophet ﷺ ، and no worship of an unbeliever is acceptable. It required that any action they had performed according to a previous Shari` ah would go waste. But the present verse clarifies that when an unbeliever embraces Islam, all his good actions are restored, hence he is doubly rewarded.
 
 ## Personal Reflections
+
+

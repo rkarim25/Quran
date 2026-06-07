@@ -70,18 +70,6 @@ word_by_word:
     transliteration: ṣādiqīna
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah also has not been mentioned in any authentic tradition, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "There is nothing but our life of this world, we die and we live and nothing destroys us except Ad-Dahr (time). وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ‌ "...and nothing destroys us except time...(45:24) " The word dahr means ` time from the beginning of the world to its end'.
@@ -183,3 +171,5 @@ Reviling Time Is Inappropriate
 Atheists believed that ` Time' is the cause of life, death, vicissitudes of conditions and adversities, and also the cause of the revolution of the entire universe. Every happening used to be attributed to ` Time' by them as indicated in this verse, whereas the fact is that everything happens with the Divine will and volition. Therefore, authentic Traditions prohibit reviling of time. The power which the unbelievers describe as ` time' is in fact the Divine power. When people curse or revile time for their adversities, they are in fact directing their reproach to Allah. The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing. It does not necessarily follow from this proposition that ad-dahr is one of the names of Allah. Here Allah is referred to as ad-dahr metaphorically or figuratively.
 
 ## Personal Reflections
+
+

@@ -82,15 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud of themselves to follow him. This is like the Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -179,3 +171,5 @@ Commentary
 These verses were revealed on a special occasion. Tabari and others have related the incident saying that there was a hypocrite by the name Bishr, who had some dispute and enmity with a Jew over a piece of land. The Jew suggested to him to take their dispute before the Holy Prophet ﷺ for the judgment, but Bishr, the hypocrite knew well that he was on the wrong and if the dispute was taken to the Holy Prophet ﷺ he will definitely decide the case on merit, and he will lose the case. So, he did not agree with the suggestion and instead asked the Jew to take it to Ka'b Ibn Ashraf, another Jew. On this point these verses were revealed. In verse; أَفِي قُلُوبِهِم مَّرَ‌ضٌ (Is there any malady in their hearts - 50) the disease of firm infidelity or the doubt on prophethood have been negated to point out that this doubt and infidelity were not the real cause of evasion to take the dispute in the court of the Holy Prophet ﷺ . Although the infidelity and doubt on prophethood among the hypocrites is obvious and proven, but the underlying cause was that he (Bishr) knew well that if the case was placed before the Holy Prophet ﷺ ، he would definitely lose it, because he would decide the case on merit.
 
 ## Personal Reflections
+
+

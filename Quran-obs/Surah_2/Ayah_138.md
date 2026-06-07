@@ -46,18 +46,6 @@ word_by_word:
     transliteration: ʿābidūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 138, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So if they believe in the like of that which you believe then they are rightly guided; but if they turn away, then they are only in opposition. Verse 138 delineates Islam as the "colouring of Allah", and explains this "colouring" as the unalloyed worship of Allah and total submission to Him.
@@ -101,3 +89,5 @@ Verse 138 delineates Islam as the "colouring of Allah", and explains this "colou
 Verse 138 presents religion as "colouring" صبغہ (Sibghah). The expression carries within itself several levels of meaning. But the immediate allusion is to a certain ceremony of the Christians. On the seventh day of its birth, they used to bathe an infant in coloured (probably yellow) water, which was supposed to be a substitute for circumcision, and a sufficient guarantee for the external and internal purification of the infant - the fast and indelible "colouring" of Christian faith, so to say. The verse suggests that this colour is wasted away with the water, without leaving a trace outside or inside, nor does this kind of baptism serve the purpose of circumcision and cleanse a man of physical impurity. And the verse declares that the only colouring worth the name is the colouring of a genuine and unabrogated religion - that is, Islam اسلام۔ the only colouring which can guarantee physical and spiritual purification, and the only one which shall remain. Then, the word Sibghah صِبْغَةَ or "colouring" has a deeper meaning too. Just as a certain colour is openly and clearly visible to the beholder, the signs of genuine and pure 'Iman ایمان should shine through the face, the movements, the habits and the behaviour of a Muslim. In this sense, the verse is a commandment, asking Muslims "to dye" themselves in the "colouring of Allah", outwardly and inwardly by offering unalloyed worship to Him alone, by submitting themselves totally to His commandments, and by gladly accepting His will.
 
 ## Personal Reflections
+
+

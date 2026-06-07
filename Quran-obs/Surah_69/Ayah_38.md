@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tub'ṣirūna
 ---
 
-## Context
-
-To understand **The Reality** (Al-Haqqah) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Subject Matter The first section ( vv. 1-37 ) is about the Hereafter and the second ( vv. 38-52 ) about the Qur'an's being a revelation from Allah and the Holy Prophet's being a true Messenger of Allah. The first section opens with the assertion that the coming of the Resurrection and the occurrence of the Hereafter is a truth which has to take place inevitably. Then in vv. 4-12 , it has been stated that the communities that denied the Hereafter in the past became worthy of Allah's scourge ultimately. In vv. 13-17 the occurrence of Resurrection has been depicted. In vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, I swear by whatsoever you see (38)And by whatsoever you see not (39)That this is verily the word of an honored Messenger (40)It is not the word of a poet, little is that you believe (41)Nor is it the word of a sooths… فَلَا أُقْسِمُ بِمَا تُبْصِرُ‌ونَ وَمَا لَا تُبْصِرُ‌ونَ (I swear by what you see, and what you do not see….69:38-39).
@@ -81,3 +69,5 @@ Allah swears by His creation, in which some of His signs can be seen in His crea
 فَلَا أُقْسِمُ بِمَا تُبْصِرُ‌ونَ وَمَا لَا تُبْصِرُ‌ونَ (I swear by what you see, and what you do not see….69:38-39). This comprehends the entire body of creation. Some say 'what you do not see' refers to the Being of Allah Ta` ala and His attributes. Others say 'what you see' refers to things of the mortal world, and 'what you do not see,' refers to things of the Hereafter. [ Mazhari ] And Allah, the Pure and Exalted, Knows best!
 
 ## Personal Reflections
+
+

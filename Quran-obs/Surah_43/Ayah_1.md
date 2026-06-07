@@ -10,15 +10,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Ornaments of Gold** (Az-Zukhruf) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people. Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -143,3 +135,5 @@ Surah Shura
 ends here.
 
 ## Personal Reflections
+
+

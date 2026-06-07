@@ -86,15 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah (the Tawrah), then they used to change it knowingly after they understood it (75)And when they (Jews) meet those who believe (Muslims), they say, "We believe," but when they meet one another in private, they say, "Shall you (Jews) tell them (Muslims) what Allah has revealed to you that they (Muslims) may argue with you (Jews) about it before your Lord?" Have you (Jews) then no understanding (76)Know they (Jews) not that Allah knows what they conceal and what they reveal (77)
 
-(used to hear the Word of Allah (the Tawrah), then they used to change it) "They altered the Tawrah that Allah revealed to them, making it say that the lawful is unlawful and the prohibited is allowed, and that what is right is false and that what is false is right.
+(used to hear the Word of Allah (the Tawrah), then they used to change it) "They altered the Tawrah that Allah revealed to them, making it say that the lawful is unlawful and the prohibited is allowed, and that what is right is false and that what is false is right. So when a person seeking the truth comes to them with a bribe, they judge his case by the Book of Allah, but when a person comes to them seeking to do evil with a bribe, they take out the other (distorted) book, in which it is stated that he is in the right. When someone comes to them who is not seeking what is right, nor offering them bribe, then they enjoin righteousness on him. This is why Allah said to them,
 
 ## Tafsir Summary
 
@@ -193,3 +187,5 @@ The "Word of Allah" mentioned in the verse refers to the Torah which the Jews ha
 The Jews who were the contemporaries of the Holy Prophet ﷺ may not have themselves been involved in some of these transgressions, but since they did not abhor the misdeeds of their forefathers, they are to be considered as their counterparts.
 
 ## Personal Reflections
+
+

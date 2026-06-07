@@ -147,18 +147,6 @@ word_by_word:
     transliteration: mur'shidan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And you might have seen the sun, when it rose, declining to the right from their cave, and when it set, turning away from them to the left, while they lay in the midst of the cave. In these verses, Allah Ta` ala has told us about three states of the People of Kahf.
@@ -222,3 +210,5 @@ This arrangement of keeping them shielded from direct sunlight could also be con
 To put it candidly, Allah Ta` ala had it all arranged for them that sunlight will not reach their bodies. It may have been caused through its particular formation or location or through the barrier of a cloud or something similar when the Sun would start shining, or the very rays of the Sun would be moved away from them in an extraordinary manner. All these probabilities exist within the verse. There is no need to insist upon fixing any of these as the absolute reality.
 
 ## Personal Reflections
+
+

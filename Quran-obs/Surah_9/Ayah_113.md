@@ -90,17 +90,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 113, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (I will invoke Allah for forgiveness for you, as long as I am not prohibited from doing so.) This verse was revealed,
 
 Ali bin Abi Talhah narrated that Ibn 'Abbas commented on this Ayah, "They used to invoke Allah for them (pagans) until this Ayah was revealed. They then refrained from invoking Allah to forgive the dead among them, but were not stopped from invoking Allah for the living among them until they die. Allah sent this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -183,3 +175,5 @@ The background of revelation
 The event that was the cause or background of the revelation of this ayah has been reported in a narrative appearing in the Sahih of al-Bukhari and Muslim. According to this report, Abu Talib, the uncle of the Holy Prophet ﷺ had not, though, embraced Islam, yet he continued to support and protect the Holy Prophet ﷺ throughout his life. He did not listen to any member of his clan in this matter. The Holy Prophet ﷺ too was concerned about him. He wished that his uncle would somehow recite the Kalimah and embrace Islam. He would thus be able to intercede on his behalf and he could have his deliverance from the punishment of Jahannam. When Abu Talib was suffering from his last sickness and death became certain, the Holy Prophet ﷺ was worried. He wished if his uncle were to recite the Kalimah even now, things might work for him. He came close to him in that state of anxiety - but, Abu Jahl and ` Abdullah ibn Umayyah (disbelieving diehards) were already there. He said, ` my uncle, recite the Kalimah: لا إلہ إلا اللہ (La ilaha illallah). I shall try to seek forgiveness for you.' But, Abu Jahl interrupted, ` would you forsake the faith of ` Abd al-Muttalib (father of Abu Talib)?' The Holy Prophet ﷺ repeated what he had said several times. But, every time, Abu Jahl would say the same thing he had said before - until the last words spoken by Abu Talib were, ` I am on the faith of ` Abd al-Muttalib.' It was in this very condition that he died. Then, the Holy Prophet ﷺ swore that he would continue seeking forgiveness for him until he was prohibited from it. Thereupon, this verse of prohibition was revealed where the Holy Prophet ﷺ and all Muslims were prohibited from praying for the forgiveness of kafirs and mushriks - even if they were close relatives.
 
 ## Personal Reflections
+
+

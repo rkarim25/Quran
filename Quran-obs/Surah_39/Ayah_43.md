@@ -63,18 +63,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they taken as intercessors besides Allah? The time to sleep and the time to die: How is the soul exacted and what is the difference between the two In verse 42, it was said: اللَّـهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا (Allah fully takes away the souls [ of the people ] at the time of their death, and [ of ] those who do not die, in their sleep.).
@@ -132,3 +120,5 @@ According to Tafsir Mazhari, the sense of 'taking the ruh away' is to sever its 
 In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sense of 'takes in full' (qabd) is used by way of ` umum-ul- majaz which covers both meanings. This difference of ruh (spirit, soul) being taken away both in death and sleep delineated earlier also finds support in a saying of Sayyidna ` Ali ؓ . He said that, at the time of sleep, the ruh of a person goes away from his body, but a beam or ray of ruh stays behind in the body due to which one remains alive - and it is through this 'beamed' connection that one sees a dream. Then this dream, in the event that it has been seen in the state the attention of the ruh was raptly turned towards the universe of images, is a true dream. But, if it was seen in a state when the ruh was returning back to the body, then, it becomes polluted with Shaitanic inputs, and that dream no more remains a true dream. And he also said that the ruh that comes out of the body of a person during the state of sleep returns to the body when one wakes up within a time that is much less than an eye would take to wink.
 
 ## Personal Reflections
+
+

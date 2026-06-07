@@ -66,18 +66,6 @@ word_by_word:
     transliteration: yasbaḥūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And a sign for them is the night. In verse 40, it was said: وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (And each one is floating in an orbit - 40).
@@ -209,3 +197,5 @@ The Arabs have a name for each set of three nights in a month, according to the 
 In verse 40, it was said: وَكُلٌّ فِي فَلَكٍ يَسْبَحُونَ (And each one is floating in an orbit - 40). Literally, the word: فَلَک (falak) does not mean the sky. Instead, it means the orbit in which some star moves. This verse has also appeared earlier in Surah Al-Anbiya' (21:33). It tells us that the moon is not contained within some sky as presumed by the astronomical theory of Ptolemy. Instead, it moves in a particular orbit in the space lower than it. Then, there are recent investigations as well as the human access to the moon that have made it certain.
 
 ## Personal Reflections
+
+

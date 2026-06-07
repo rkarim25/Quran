@@ -98,15 +98,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 129, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu Hayyan in his Tafsir Al-Bahr-al Muhit has included the following event under the comments on this verse: ` Amr ibn ` Ubaid once visited Mansur, the second caliph of the Abbaside dynasty, prior to his designation to caliphate and recited this verse: 'It is likely that Allah will destroy your enemy and make you successor in the earth.' This was a sort of prediction by ` Amr ibn ` Ubaid of his succession to the throne. Soon after Mansur succeeded to the throne and became the Caliph. ` Amr ibn ` Ubaid came to the Caliph again. Mansur reminded him of the prediction made by him. Amr ibn ` Ubaid instantly answered, "Well, the first part of the prediction has come true and you have become the Caliph, but the second part of it still remains unfulfilled. The verse also contains this phrase, فَیَنظُرَ کَیفَ تَعمَلُون "Then, He will see how you act." Amr ibn ` Ubaid suggested that gaining power is not a matter of pride because thereafter, Allah judges the acts of those in authority and sees how they make use of this trust.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -189,3 +181,5 @@ The power and rule, therefore, is a test for the rulers to see how far they have
 Abu Hayyan in his Tafsir Al-Bahr-al Muhit has included the following event under the comments on this verse: ` Amr ibn ` Ubaid once visited Mansur, the second caliph of the Abbaside dynasty, prior to his designation to caliphate and recited this verse: 'It is likely that Allah will destroy your enemy and make you successor in the earth.' This was a sort of prediction by ` Amr ibn ` Ubaid of his succession to the throne. Soon after Mansur succeeded to the throne and became the Caliph. ` Amr ibn ` Ubaid came to the Caliph again. Mansur reminded him of the prediction made by him. Amr ibn ` Ubaid instantly answered, "Well, the first part of the prediction has come true and you have become the Caliph, but the second part of it still remains unfulfilled. The verse also contains this phrase, فَیَنظُرَ کَیفَ تَعمَلُون "Then, He will see how you act." Amr ibn ` Ubaid suggested that gaining power is not a matter of pride because thereafter, Allah judges the acts of those in authority and sees how they make use of this trust.
 
 ## Personal Reflections
+
+

@@ -130,18 +130,6 @@ word_by_word:
     transliteration: l-gharūru
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A perusal of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O mankind! In the first of the two verses cited above, the address is to common people, believing and disbelieving both.
@@ -191,3 +179,5 @@ Here, it should be noted that the statement declaring the inability of a father 
 In the next verse, the knowledge of five things has been declared as exclusive to Allah Ta’ ala and that no created being has that knowledge except Him and at this ends the Surah Luqman:
 
 ## Personal Reflections
+
+

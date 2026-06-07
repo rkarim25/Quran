@@ -44,17 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **Explained in Detail** (Fussilat) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Say: "I am only a human being like you. It is revealed to me that your God is One God, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him. And woe to the polytheists (6)Those who give not the Zakah and they are disbelievers in the Hereafter (7)Truly, those who believe and do righteous good deeds, for them will be an endless reward that will never stop (8)
 
 (I am only a human being like you. It is revealed to me that your God is One God,) 'not like these idols and false gods which you worship. Allah is one God,'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ Mujahid and others said, "It will never be cut off or decrease." This is like th
 لَهُمْ أَجْرٌ‌ غَيْرُ‌ مَمْنُونٍ (For them there is a reward that will never be interrupted 41:8) The word mamnun used here means something interrupted. The sense is that the reward of those people who are firm in their faith and regular in their good deeds would be continuous and eternal. Some exegetes have explained the intention of the verse that if a Muslim, despite being regular in religious duties, could not perform them at any time due to illness, travel or some other reason, the reward for the good deeds is not cut off. Rather, Allah Almighty orders the angels to keep on crediting those good deeds to his account which he used to carry out regularly in normal conditions, but could not do them due to illness or some other reason. Ahadith on this subject are narrated in Sahih of Bukhari as reported by Sayyidna Abu Musa Ash'ari and in Sharh-us-Sunnah of Baghawi by Sayyidna Ibn ` Umar and by Sayyidna Anas ؓ and in Razin by Sayyidna ` Abdullah Ibn Masud ؓ . (Mazhari)
 
 ## Personal Reflections
+
+

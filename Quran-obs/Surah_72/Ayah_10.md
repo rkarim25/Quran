@@ -58,18 +58,6 @@ word_by_word:
     transliteration: rashadan
 ---
 
-## Context
-
-To understand **The Jinn** (Al-Jinn) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-8-10 of this surah shows that this could only be an event of the earliest stage of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 'And we have sought to reach the heaven; but we found it filled with stern guards and flaming fires. وَأَنَّا لَا نَدْرِ‌ي أَشَرٌّ‌ أُرِ‌يدَ بِمَن فِي الْأَرْ‌ضِ أَمْ أَرَ‌ادَ بِهِمْ رَ‌بُّهُمْ رَ‌شَدًا (and that we do not know whether it is a bad end that is intended for those on earth, or their Lord has intended for them a right thing,....72:10).
@@ -119,3 +107,5 @@ So, they looked and saw that the stars still remained, and thus, they kept their
 وَأَنَّا لَا نَدْرِ‌ي أَشَرٌّ‌ أُرِ‌يدَ بِمَن فِي الْأَرْ‌ضِ أَمْ أَرَ‌ادَ بِهِمْ رَ‌بُّهُمْ رَ‌شَدًا (and that we do not know whether it is a bad end that is intended for those on earth, or their Lord has intended for them a right thing,....72:10). The Jinn and devils were barred from having access to heavenly news. In this case it would be a punishment for the inhabitants of the earth. However, if Allah intends them to be rightly guided, He has barred the Jinn and Shaitan from having access to the heaven, so that they do not interfere with Divine revelation. Therefore, they expressed their reservations about this to the effect that they had no idea as to whether it was a bad end that was intended for the inhabitants of the earth or whether Allah intended them to be rightly guided.
 
 ## Personal Reflections
+
+

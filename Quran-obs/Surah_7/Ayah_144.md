@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-shākirīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 144, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Allah) said: "O Musa I have chosen you above men by My Messages, and by My speaking (to you). The fact that Allah spoke directly to the Prophet Musa (علیہ السلام) is confirmed by the Qur'an in clear terms.
@@ -128,3 +116,5 @@ The fact that Allah spoke directly to the Prophet Musa (علیہ السلام) i
 As to the question what was the nature and character of this discourse, cannot be ascertained by anyone but Allah. Only those logical suppositions, in this regard, can be allowed which do not go against any rule of the Shari` ah. None of such views can be accepted as being definite unless supported by some valid argument. The best practice, in this regard, is the one followed by the Companions, their disciples, and the elders who followed them. They left such matters to Allah and never tried to make ungrounded supposition to resolve them. (Bayan al-Qur'an).
 
 ## Personal Reflections
+
+

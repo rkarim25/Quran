@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yadhakkarūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 126, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And this is the path of your Lord leading straight. In the first (126) of the three verses appearing here, the address is to the Holy Prophet ﷺ and it has been said: وَهَـٰذَا صِرَ‌اطُ رَ‌بِّكَ مُسْتَقِيمًا (And this is the path of your Lord, a straight path).
@@ -107,3 +95,5 @@ The text then says: قَدْ فَصَّلْنَا الْآيَاتِ لِقَو�
 The word: فَصَّلْنَا (Fassalna: We have made elaborate) is from: تَفصِیل (tafsil) which basically means to describe a subject by analysing it unit by unit. This way comprehending the subject becomes easy. Therefore, the outcome of tafsil is to explain explicitly. So, the sense comes to be: ` We have stated matters of principle explicitly and in details in which there remains no brevity or ambiguity.' After that, by saying: (for people who accept the advice), it was pointed out that, though these statements of the Qur'an are clear, but benefit from them has been derived only by those who ponder over the Qur'an to seek good counsel honestly, that is, doggedness, inherent resistance, opinionatedness, a priori hostility or the barriers of blind adherence to or following of ancestral customs do not come in between as walls.
 
 ## Personal Reflections
+
+

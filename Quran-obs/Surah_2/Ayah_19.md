@@ -87,17 +87,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Consequently, there are several types of people. There are the believers whom the first four Ayat (2:2-5) in Surat Al-Baqarah describe. There are the disbelievers who were described in the next two Ayat. And there are two categories of hypocrites: the complete hypocrites who were mentioned in the parable of the fire, and the hesitant hypocrites, whose light of faith is sometimes lit and sometimes extinguished. The parable of the rain was revealed about this category, which is not as evil as the first category.
 
 This is similar to the parables that were given in Surat An-Nur (chapter 24). Like the example of the believer and the faith that Allah put in his heart, compared to a brightly illuminated lamp, just like a rising star. This is the believer, whose heart is built on faith and receiving its support from the divine legislation that was revealed to it, without any impurities or imperfections, as we will come to know, Allah willing.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -284,3 +276,5 @@ The first example is of the advocates of disbelief who have complex ignorance, w
 The last four verses bring out the miserable plight of the hypocrites with the help of two extended similes. The choice of two examples is meant to divide the hypocrites into two kinds of men. On the one hand were those in whom disbelief had taken deep roots, so that they had little inclination towards Islam, but pretended to be Muslims for worldly motives - the Holy Qur'an compares them to the man who, having found light, again loses it, and is left in darkness. On the other hand were those who did recognize the truth of Islam, and sometimes wished to be genuine Muslims, but worldly interests would not allow them to do so, and they remained in a perpetual state of hesitation and doubt - they have been likened to the men caught in a thunderstorm who move forward a step or two when there is a flash of lightning, but, when it is over, again get stuck. In the course of these parables, the hypocrites have also been warned that they are not beyond the power of Allah, and that He can, as and when He likes, take away their sight and hearing, and even destroy them.
 
 ## Personal Reflections
+
+

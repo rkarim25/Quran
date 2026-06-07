@@ -100,18 +100,6 @@ word_by_word:
     transliteration: kāfirūna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But if they turn away, then say: "I have warned you of a Sa'iqah like the Sa'iqah which overtook 'Ad and Thamud. The basic purpose of these verses is to warn the people of Makkah that if, even after seeing the manifest proofs of the Oneness of Allah, they do not accept the call of the Holy Prophet ﷺ ، they may face a punishment like the earlier people of ` Ad and Thamud had faced.
@@ -219,3 +207,5 @@ Commentary
 The basic purpose of these verses is to warn the people of Makkah that if, even after seeing the manifest proofs of the Oneness of Allah, they do not accept the call of the Holy Prophet ﷺ ، they may face a punishment like the earlier people of ` Ad and Thamud had faced. In this context, a brief account of what happened to these people has been given. The people of Makkah are also reminded that their punishment on the Day of Judgment will be much more severe, and they will not be able to escape it, because even the organs of their body will testify against them. And in this context, some events of that Day are mentioned.
 
 ## Personal Reflections
+
+

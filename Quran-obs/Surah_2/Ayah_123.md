@@ -79,18 +79,6 @@ word_by_word:
     transliteration: yunṣarūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 123, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Children of Israel! A large section of this Sarah, ending with the previous verse, has been dealing with different aspects of the conduct of the Israelites (that is, the Jews) in the course of their history.
@@ -106,3 +94,5 @@ We mentioned a similar Ayah at the beginning of this Surah, and it is mentioned 
 A large section of this Sarah, ending with the previous verse, has been dealing with different aspects of the conduct of the Israelites (that is, the Jews) in the course of their history. This account had begun with the statement which has been repeated at the end in these two verses. The statement is of a general and principal kind, and the verses which come in between the beginning and the end are, so to say, a detailed demonstration of the statement. On the one hand, it encourages the Israelites to come back to the Straight Path by reminding them of the blessings which Allah has bestowed on them; on the other hand, it warns them of the consequences of their lapses by depicting the Day of Judgment. The purpose of repeating the statement at the end of the discussion is to make the two ideas sink deep into their minds. For, what is aimed at in a discussion is the affirmation of certain basic and general principles -- being succinct, they are easily kept alive in the mind, and, being comprehensive and readily applicable to particular situations, they make it easy for one to remember the details too. In the art of writing and speaking, it is considered to be one of the most effective means of carrying conviction that, before starting on a long analytical discussion of a subject, one should define the basic ideas very briefly and clearly which are always helpful in comprehending the details and the particularities, and that, in concluding the argument, one should repeat these ideas by way of a summary. The repetition of the introductory statement here is of this very nature.
 
 ## Personal Reflections
+
+

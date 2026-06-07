@@ -138,18 +138,6 @@ word_by_word:
     transliteration: fakhūran
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-36-42 The ways of the purification of mind and body for the offering of Salat have been taught because it plays the most important part in every scheme of moral and social reform.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Worship Allah and join none with Him in worship, and do good to parents, kinsfolk, orphans, the poor, the neighbor who is near of kin, the neighbor who is a stranger, the companion by your side, the wayfarer (you meet), and those (slaves) whom your right hands possess. It will be noticed that human rights have remained the main focus of attention since the beginning of the present Surah upto this point.
@@ -439,3 +427,5 @@ Quoted here is another hadith which also carries a definition of arrogance:
 Sayyidna Ibn Masud ؓ has narrated that the Holy Prophet ﷺ said: 'Whoever has in his heart arrogance worth the weight of a particle will not go to Paradise. Then, someone asked: 'How about people who like that their clothes be good and their shoes too ... (Is this arrogance?) ' He said: 'Allah is beautiful;-He likes beauty. Arrogance is wanton disregard of the (other person's) right and the holding of people in contempt.' (Mishkit, p. 433, vide Muslim)
 
 ## Personal Reflections
+
+

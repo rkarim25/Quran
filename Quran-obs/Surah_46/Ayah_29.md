@@ -82,15 +82,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And (remember) when We sent toward you a group of the Jinn, to listen to the Qur'an. When they attended it, they said: "Listen quietly!" And when it was concluded, they returned to their people, as warners (29)They said: "O our people! Verily, we have heard a Book sent down after Musa, confirming what came before it, it guides to the truth and to the straight path. (30)"O our people! Respond to Allah's Caller, and believe in him. He (Allah) will forgive you some of your sins, and protect you from a painful torment. (31)"And whosoever does not respond to Allah's Caller, he cannot escape on earth, and he will not have besides Allah any protectors. Those are in manifest error. (32)
 
-(they crowded on top of each other to hear him.)(72:19)" Sufyan said, "They stood on top of each other like piled wool." Ahmad was alone in recording this. Imam Ahmad and the famous Imam, Al-Hafiz Abu Bakr Al-Bayhaqi in his book Dala'il An-Nubuwwah, both recorded that Ibn 'Abbas, may Allah be pleased with him, said, "Allah's Messenger ﷺ never recited Qur'an to the Jinns, nor did he see them.
+(they crowded on top of each other to hear him.)(72:19)" Sufyan said, "They stood on top of each other like piled wool." Ahmad was alone in recording this. Imam Ahmad and the famous Imam, Al-Hafiz Abu Bakr Al-Bayhaqi in his book Dala'il An-Nubuwwah, both recorded that Ibn 'Abbas, may Allah be pleased with him, said, "Allah's Messenger ﷺ never recited Qur'an to the Jinns, nor did he see them. Allah's Messenger ﷺ was heading with a group of his Companions towards the 'Ukaz market. At that time, the devils had been prevented from eavesdropping on the news of the heavens, and they were being attacked by burning flames (whenever they tried to listen). When the devils went back to their people, they asked them what happened to them, and they answered, 'We have been prevented from eavesdropping on the news of the heavens, and burning flames now attack us.' Their people told them, 'You have only been prevented from eavesdropping on the information of the heavens because of something (major) that has happened. So go all over the earth, east and west, and see what is it that has obstructed you from eavesdropping on the news of the heavens.' Thus they traveled all over the earth, east and west, seeking that which had obstructed them from eavesdropping on the news of the heavens. A group of them went towards Tihamah, and found Allah's Messenger ﷺ while he was at a place called Nakhlah along the way to the 'Ukaz market. He was leading his Companions in the Fajr prayer. When the Jinns heard the recitation of the Qur'an, they stopped to listen to it, and then they said: 'By Allah! This is what has prevented you from eavesdropping on the news of the heavens.' Then they returned to their people and told them: 'Our people! We certainly have heard an amazing recitation (the Qur'an), it guides to the right path. So we have believed in it, and we will join none in worship with our Lord.' So Allah revealed to His Prophet ﷺ,
 
 ## Tafsir Summary
 
@@ -239,3 +233,5 @@ Another narration states that these jinns were inhabitants of Nasibin, either se
 Khafaji has said that the cumulative outcome of various ahadith is that jinn presented themselves to the Holy Prophet ﷺ six times for benefiting from his teachings. (Ruh-ul-Ma ani and Bayan-ul-Qur an)
 
 ## Personal Reflections
+
+

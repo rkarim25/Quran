@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-dun'yā
 ---
 
-## Context
-
-To understand **Those who drag forth** (An-Nazi'at) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nazi'at is a **Makkah** surah—revealed as the 81st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 46 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Hadrat Abdullah bin Abbas, this Surah was sent down after Surah An-Naba. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this… First, the special marks of the inmates of Hell are described.
@@ -143,3 +131,5 @@ First, the special marks of the inmates of Hell are described. They have two cha
 فَأَمَّا مَن طَغَىٰ وَآثَرَ‌ الْحَيَاةَ الدُّنْيَا (then for the one who had rebelled, and preferred the worldly life [ to the Hereafter ]...79:38). In other words, [ 1] instead of remaining loyal to Allah and His Messenger and following their commands, they adopt the line of rejection and rebellion; and [ 2] prefer the life of this world to that of the Hereafter. In other words, if he were to do a deed that gives comfort and pleasure in this world but punishment in the Hereafter, he would prefer the comforts and pleasure of this life to the pleasure of the next life. Those who are characterised by these two qualities the Blazing Fire, that is Hell, will be their abode, thus: فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ (the Hell will be the abode... 79:39).
 
 ## Personal Reflections
+
+

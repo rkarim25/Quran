@@ -75,18 +75,6 @@ word_by_word:
     transliteration: l-awalīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when Our Ayat are recited to them, they say: "We have heard (the Qur'an); if we wish we can say the like of this. Mentioned in verses 31 and 32 is the absurd remark made by Nadr ibn Harith, a participant of the same meeting at Dar al-Nadwah, with its reply appearing in verse 33.
@@ -204,3 +192,5 @@ Al-Hakim, "Its chain is Sahih and they did not record it."
 Mentioned in verses 31 and 32 is the absurd remark made by Nadr ibn Harith, a participant of the same meeting at Dar al-Nadwah, with its reply appearing in verse 33. Nadr ibn Harith was a businessman who used to travel to different countries where he had repeated opportunities of seeing religious books of the Jews and Christians as well as witnessing their modes of worship. When he heard about the accounts of past communities appearing in the Holy Qur'an, he said: قَد سَمِعنَا لَونَشَآءُ لَقُلنا مِثلَ ھٰذَآ اِن ھٰذآ اِلَّا اَسَاطیرُ الاَوَّلِینَ (we have heard, if we wish, we can say some-thing like this. It is nothing but the tales of the ancient - 31). Thereupon, some of the Companions ؓ challenged him: If you can say something like this, why would you not say it? The Qur'an had already spoken on the subject and made it the very criterion of the true and the false. The challenge of the Qur'an was beamed at the whole world. If its opponents were true, let them come up with the like of even a very small Surah. In contrast, those who claimed to stake their lives and sacrifice their wealth and children for the sake of upholding their counter-assertion could not even join up their abilities together and come out even with a small Surah which could stand on its own against the Qur'an. Now, after all this, to stand up and say that we too can say something like this, if we so wished, is something no self-respecting person would venture to say. Thus, when the Companions ؓ told him that the Qur'an was nothing but the Divine word, he tried to counter the assertion by showing his own firm adherence to his incorrect faith by saying:
 
 ## Personal Reflections
+
+

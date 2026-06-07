@@ -32,18 +32,6 @@ word_by_word:
     transliteration: l-mus'limīna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Ibrahim) said: "Then for what purpose you have come, O messengers? Small pebbles of baked clay would be sent down upon them: مُّسَوَّمَةً عِندَ رَ‌بِّكَ "marked, with your Lord, for the transgressors."...
@@ -101,3 +89,5 @@ Allah the Exalted said about Ibrahim, peace be upon him,
 Small pebbles of baked clay would be sent down upon them: مُّسَوَّمَةً عِندَ رَ‌بِّكَ "marked, with your Lord, for the transgressors."... 51:34), that is, pebbles conspicuously marked by Allah. Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone. Other verses say that these people were destroyed by Jibra'il's (علیہ السلام) turning their territory upside down. The two descriptions of the punishment are not mutually contradictory: Probably, the stoning incident took place first, and then the earth was turned upside down.
 
 ## Personal Reflections
+
+

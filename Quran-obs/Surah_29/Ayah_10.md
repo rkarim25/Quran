@@ -135,18 +135,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Of mankind are some who say: "We believe in Allah." But if they are made to suffer for Allah, they consider the trial of mankind as Allah's punishment; and if victory comes from your Lord, they will say: "Verily, we were… (1)-It means that such people join the infidels when they apprehend some kind of torture from them, but when Allah's help will come to the Muslims in a battle against the infidels, they will pretend to be Muslims on the plea that they had joined the infidels only because they feared to be persecuted by them.
@@ -210,3 +198,5 @@ Allah mentions the descriptions of the liars who falsely claim faith with their 
 (2)-The sense is that they did not believe in Islam with their hearts, and this fact cannot: be concealed from Him, because He knows whatever lies in the hearts of the people.
 
 ## Personal Reflections
+
+

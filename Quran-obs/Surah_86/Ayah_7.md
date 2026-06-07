@@ -24,18 +24,6 @@ word_by_word:
     transliteration: wal-tarāibi
 ---
 
-## Context
-
-To understand **The Nightcommer** (At-Tariq) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tariq is a **Makkah** surah—revealed as the 36th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 17 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat At-Tariq An-Nasa'i recorded that Jabir said, "Mu'adh lead the Maghrib prayer and he recited Al-Baqarah and An-Nisa'. that comes out from between the loins and the chest-bones...86:6, 7).
@@ -165,3 +153,5 @@ If these findings have any value, it is not far-fetched to reconcile them with t
 If we analyse the verse of the Qur'an carefully, we notice that it does not specify 'man or woman'. It merely says 'He is created of spouting water that comes out from between the loins and the chest-bones.' This may simply signify that the seminal fluid comes out from the entire body of both men and women. The expression 'the entire body' is understood from the mention of the principal organs of front and back. The front part of the body is chest and the back part of the body is the loin. These are the principal parts of the body. The expression, 'the spouting water that comes out from between the loins and the chest-bones' may mean 'comes out from the entire body'.
 
 ## Personal Reflections
+
+

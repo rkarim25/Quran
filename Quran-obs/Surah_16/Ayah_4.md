@@ -37,18 +37,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He has created the heavens and the earth with truth. The verses affirm the Oneness of Allah through the great signs of the creation of the universe.
@@ -88,3 +76,5 @@ Commentary
 The verses affirm the Oneness of Allah through the great signs of the creation of the universe. The first such creation pointed to is the creation of the heavens and the earth. Then comes the creation of human beings whom Allah Ta’ ala has made the ones who are served by the whole universe. How did man originate? The text says that he was created from an insignificant drop. at happened then was: فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ (and soon he turned into a quarrelsome person expressing himself openly). In other words, when the elementally weak man was endowed with strength and speech, he turned into a critic of the Creator Himself disputing His Being and Attributes publicly.
 
 ## Personal Reflections
+
+

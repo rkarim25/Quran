@@ -157,18 +157,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 74, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then after that your hearts were hardened and became as stones or even worse in hardness. The Surah has been relating a number of incidents which show that the Israelites were always prone to disobedience and rebellion and had to undergo punishment again and again.
@@ -320,3 +308,5 @@ Then, we do not claim that fear of Allah is always the only cause which makes a 
 The order in which the three kinds of stones have been mentioned is very subtle, and, in view of the meaning and purpose intended, extremely expressive and significant. The verse places in the highest degree those stones whose affectivity is so strong that rivers gush forth from them, and provide sustenance to beasts and men. In contrast to them, it has been suggested, the hearts of the Jews are so hard that they are incapable of feeling any sympathy for their fellow-men even in suffering and pain, and hence incapable of wishing to do them good. In the second degree come the stones which do serve the creatures of Allah, but to a lesser extent. But the hearts of Jews are harder than even these. To the lowest degree of affectivity belong those stones which do not benefit anyone, but can at least 'feel' the fear of Allah. But the Jews are devoid of even this minimum degree of sensitivity.
 
 ## Personal Reflections
+
+

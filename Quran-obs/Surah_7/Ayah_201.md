@@ -54,18 +54,6 @@ word_by_word:
     transliteration: mub'ṣirūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 201, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa, when an evil thought comes to them from Shaytan, they remember (Allah), and (indeed) they then see (aright)(201)But (as for) their brothers (the devils' brothers) they (the devils) plunge th… In the second verse, it was said: وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّـهِ ۚ إِنَّهُ سَمِيعٌ عَلِيمٌ (And if you are stricken with a strike from the Shaitan, seek refuge with Allah - 200).
@@ -151,3 +139,5 @@ In these three verses, instruction has been given to forgo and forgive people wh
 There is a treatment for it. When a person sees his anger getting out of control, he should know that Shaitan is winning against his better self. He should then turn to Allah Ta` ala and seek refuge with Him. This makes noble traits of character flourish at their best. Therefore, additional stress has been laid on the need to seek the protection of Allah against the Shaitan in the third (201) and fourth (202) verses as well.
 
 ## Personal Reflections
+
+

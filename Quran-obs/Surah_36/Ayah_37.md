@@ -42,18 +42,6 @@ word_by_word:
     transliteration: muẓ'limūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And a sign for them is the night. In verse 37, it was said: وَآيَةٌ لَّهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ‌ (And a sign for them is the night.
@@ -185,3 +173,5 @@ The Arabs have a name for each set of three nights in a month, according to the 
 In verse 37, it was said: وَآيَةٌ لَّهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ‌ (And a sign for them is the night. We strip the [ cover on day from it, and they are suddenly in darkness.). After having described the signs of Divine power in what was created on the earth, the text mentions cosmic creations. The word: سَلخ (salkh) literally means to skin. If the skin from an animal or the cover from things is removed, the thing inside becomes obvious. Allah Ta’ ala has, in this similitude, pointed out that the real element in this world is darkness. Light is transitory, for it spreads over the earth through planets and stars. In a predetermined system, at a fixed time, this light that is spread over the darkness of the world is removed from on top. What remains is darkness. This, in common parlance, is called night.
 
 ## Personal Reflections
+
+

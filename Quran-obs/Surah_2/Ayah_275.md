@@ -196,15 +196,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 275, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 2. The noble Companions, all of them, abandoned this ربا riba the moment its unlawfulness was revealed in the Qur'an. None of them had any difficulty or doubt in comprehending or explaining its meaning.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -583,3 +575,5 @@ What has been said here has two aims:
 In the end, I present some ahadith of the Holy Prophet to further strengthen the statement of above-mentioned aims. These re-assert the same Qur'anic verses where ربا riba has been strongly prohibited and where warnings of severe punishment have been given to those involved in it. The purpose is to bring about, at least, a sense of awakening - the realization that a sin is a sin, and the concern that something should be done to abstain from it. Perhaps, the minimum change that can come out of this is not to make two sins out of one by treating the Haram as halal. Thus we shall be saved from seeing even highly righteous and observing Muslims who would spend nights in تھجد tahajjud (pre-dawn nafl Salah) and ذکر dhikr of Allah (remembrance of Allah), yet when they reach their store or factory in the morning, they would not even think that, by indulging in dealings of interest and gambling, they are committing some sin!
 
 ## Personal Reflections
+
+

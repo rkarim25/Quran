@@ -38,18 +38,6 @@ word_by_word:
     transliteration: yasmaʿūna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! For added emphasis on the same subject, it was said in the second verse (21): وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ ﴿21﴾ (and do not be like those who say, "we have heard" while they do not listen).
@@ -121,3 +109,5 @@ He would have helped them understand. However, this did not happen because there
 For added emphasis on the same subject, it was said in the second verse (21): وَلَا تَكُونُوا كَالَّذِينَ قَالُوا سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ ﴿21﴾ (and do not be like those who say, "we have heard" while they do not listen). Meant here are common disbelievers who claim to be listening but make no such claim about believing. Also meant here are the hypocrites who go beyond the elementary listening which they already do. In fact, they also claim to understand what that they listen to and to believe in it as well. But, the truth of the matter is that they both remain deprived of genuine deliberation and correct understanding. Therefore, their listening falls under the category of not listening. So, Muslims have been forbidden from becoming like them.
 
 ## Personal Reflections
+
+

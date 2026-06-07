@@ -72,18 +72,6 @@ word_by_word:
     transliteration: qalīlin
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed there was for Saba' a sign in their dwelling place – two gardens on the right and on the left; (and it was said to them:) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord (15)But they turned away, so We sent against them flood released from the dam, and We converted their two gardens into gardens producing bitter bad fruit, and Athl, and some few lote trees (16)Like this We requited them because they were ungrateful disbelievers.
@@ -211,3 +199,5 @@ What happened to the twin rows of gardens after the coming of flood and the dest
 The word: سِدر (sidr) means بیری beri or بَیر ber in Urdu and is translated in English as the lote-fruit or lotus tree in English. Sidr is of two kinds. The one planted on farms bears fruits of pleasant taste (something close to crunchy pears) and carries more of fruits and less of thorns. The other kind is wild and grows in the form of thorny shrubs and trees with more thorns and less fruits that are bitter as well. At this place, the use of the word:' قَلِیل (qalil: little, some) along with (sidr: bair or lote) perhaps indicates that this too was wild which bears less fruit and is bitter. Allah knows best.
 
 ## Personal Reflections
+
+

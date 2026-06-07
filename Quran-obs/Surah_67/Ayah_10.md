@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-saʿīri
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition when this Surah was revealed, but the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And for those who disbelieve in their Lord is the torment of Hell, and worst indeed is that destination (6)When they are cast therein, they will hear its Shahiq while it is simmering (7)It almost bursts up with fury. وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُ‌جُومًا لِّلشَّيَاطِينِ (And We have decorated the nearest sky with lamps, and have made them devices to stone the devils, and We have prepared for them the punishment of Hell....67:5).
@@ -133,3 +121,5 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 وَلِلَّذِينَ كَفَرُ‌وا بِرَ‌بِّهِمْ عَذَابُ جَهَنَّمَ (And for those who disbelieve, there is the punishment of Jahannam ...67:6). The subject runs through seven verses. Thereafter, the subject of Divine knowledge and power is revisited.
 
 ## Personal Reflections
+
+

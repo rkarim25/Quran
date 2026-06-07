@@ -16,18 +16,6 @@ word_by_word:
     transliteration: kādhibatun
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ (...there will be no one to deny its occurrence...56:2).
@@ -167,3 +155,5 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ (...there will be no one to deny its occurrence...56:2). The word kadhibah in this context is the verbal noun, like ` afiyah and ` aqibah. The sense of the verse is that 'the news of the occurrence of this event cannot be a false news'. Some authorities have taken the word kadhibah in the sense of takdhib [ to deny ] and the meaning, in that case, is clear that 'no one can deny the fact that it will come to pass'.
 
 ## Personal Reflections
+
+

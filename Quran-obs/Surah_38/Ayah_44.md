@@ -66,13 +66,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Letter "Saad"** (Sad) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-(Allah's Prophet Ayyub, peace be upon him, suffered for eighteen years from his affliction and was shunned by relatives and strangers alike, besides two men who were the closest of his brothers to him. They used to visit him every morning and every evening. One of them said to his companion, "You know, by Allah, that Ayyub committed a great sin which nobody in the world ever committed." His companion said, "Why are you saying that?" He said, "For eighteen years he has been suffering and Allah has not had mercy on him and relieve his suffering." When he went to him the next morning, the (second) man could not wait to tell this to Ayyub. Ayyub, peace be upon him, said, "I do not know what you are talking about, but Allah knows if I passed by two men who were arguing and they mentioned the Name of Allah, I would go back home and offer expiation lest they had mentioned the Name of Allah in an improper manner. " Whenever he went out to answer the call of nature, when he finished, his wife would take his hand until he came back home.
+(Allah's Prophet Ayyub, peace be upon him, suffered for eighteen years from his affliction and was shunned by relatives and strangers alike, besides two men who were the closest of his brothers to him. They used to visit him every morning and every evening. One of them said to his companion, "You know, by Allah, that Ayyub committed a great sin which nobody in the world ever committed." His companion said, "Why are you saying that?" He said, "For eighteen years he has been suffering and Allah has not had mercy on him and relieve his suffering." When he went to him the next morning, the (second) man could not wait to tell this to Ayyub. Ayyub, peace be upon him, said, "I do not know what you are talking about, but Allah knows if I passed by two men who were arguing and they mentioned the Name of Allah, I would go back home and offer expiation lest they had mentioned the Name of Allah in an improper manner. " Whenever he went out to answer the call of nature, when he finished, his wife would take his hand until he came back home. One day he took a long time, and Allah had revealed to Ayyub, (Strike the ground with your foot. This is (a spring of) water to wash in, cool and a (refreshing) drink.) She thought that he had taken too long, so she turned to look at him, and saw that Allah had taken away the afflictions he had been suffering, and he looked better than he had ever looked. When she saw him, she said, "May Allah bless you! Have you seen Allah's Prophet, the one who is sorely tested? By Allah, I have never seen a man who looks more like him than you, if he were healthy." He said, "I am he." He had two threshing floors, one for wheat and one for barley. Allah sent two clouds, and when one of them reached the threshing floor of the wheat, it rained gold until it was full. The other rained gold on the threshing floor of the barley until it was full.) This is the wording of Ibn Jarir, may Allah have mercy on him.
 
 ## Tafsir Summary
 
@@ -157,3 +151,5 @@ The third ruling that we come to know from this verse is: If someone utters an o
 "A person who utters an oath, then he decides that doing otherwise is better, then he should invariably do what is better - and pay kaffrah for his oath."
 
 ## Personal Reflections
+
+

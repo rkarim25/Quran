@@ -33,18 +33,6 @@ word_by_word:
     transliteration: yarjiʿūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 95, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And a ban is laid on every town which We have destroyed that they shall not return (95)Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose, and they swoop down from every Hadab (96)And the true promise shall draw near. وَحَرَ‌امٌ عَلَىٰ قَرْ‌يَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْ‌جِعُونَ (It is banned for (the people of) a town We destroyed that they come back - 21:95.) Commentators have given two different meanings to this verse.
@@ -176,3 +164,5 @@ It was confimred by Hadiths that 'Isa bin Maryam will perform Hajj to the Al-Bay
 وَحَرَ‌امٌ عَلَىٰ قَرْ‌يَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْ‌جِعُونَ (It is banned for (the people of) a town We destroyed that they come back - 21:95.) Commentators have given two different meanings to this verse. One, that the town and its people which Allah Ta` ala has destroyed cannot come back to life. The second explanation is that it is binding on the town which Allah has destroyed that it shall not return to this world. (Qurtubl) Thus the meaning of the verse is that the door of repentance is closed after death, and it is no more possible for someone to return to this world and atone for his sins by performing righteous deeds. The final court will take place on the Day of Judgment.
 
 ## Personal Reflections
+
+

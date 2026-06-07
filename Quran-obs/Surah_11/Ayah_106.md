@@ -42,18 +42,6 @@ word_by_word:
     transliteration: washahīqun
 ---
 
-## Context
-
-To understand **Hud** (Hud) 106, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 As for those who are wretched, they will be in the Fire, in it they will experience Zafir and Shahiq (106)They will dwell therein for all the time that the heavens and the earth endure, except as your Lord wills. After having given this good counsel to them, he warned them of the punishment of Allah Ta` ala.
@@ -125,3 +113,5 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
 ## Personal Reflections
+
+

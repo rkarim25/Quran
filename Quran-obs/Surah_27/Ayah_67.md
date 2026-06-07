@@ -42,18 +42,6 @@ word_by_word:
     transliteration: lamukh'rajūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-67-93 certain things have been said repeatedly in order to produce in the people a sense of the Hereafter, to warn them of the consequences of being heedless of it, and to convince them of its coining, like an eye witness of something, who convinces the other person of it, who has not seen it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who disbelieve say: "When we have become dust – we and our fathers – shall we really be brought forth? Rather, their knowledge failed in the matter of Hereafter.
@@ -103,3 +91,5 @@ Rather, their knowledge failed in the matter of Hereafter. Rather, they are in d
 There are different recitations for the word اِدّٰرَکَ (iddaraka) and their meanings are also different. Those who are interested should refer to different commentaries for the details. It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare. But knowledge of truth at that time will be of no avail, because they had been contradicting the Hereafter in the world. But some other commentators have taken the word in the meaning of 'having failed' and 'hating been lost'. The sense in this case would be that their knowledge about the Hereafter was lost, and they could not understand what it was.
 
 ## Personal Reflections
+
+

@@ -67,18 +67,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Ibrahim said: "O my Lord! In the second verse (36), he gives the reason for making this prayer.
@@ -158,3 +146,5 @@ We also learn from this prayer that emotional concern for one's children, and th
 Then comes the second prayer. This too has great comprehensiveness because Shirk and idol-worship are sins for which there is no forgiveness, therefore, he has asked for being shielded against them. If a sin gets to be committed after that, it can also be expiated through other deeds, and such sins could also be forgiven through someone's intercession. And if we take the 'worship of idols' mentioned in the text in its broader sense as taken by the noble mystics, that is, everything which makes man heedless to Allah is his idol, and overcome by its love, when man takes the initiative and disobeys Allah, this then is, in a way, its worship. So, in this prayer, that is, to be kept away from idol-worship, there is a coverage of being kept away from all sins. It is in this sense that some noble mystics of Islam have admonished their self against heedlessness and disobedience to the Creator; or, as the great Gnostic Rumi says: 'Every (evil) desire is an idol in your way.'
 
 ## Personal Reflections
+
+

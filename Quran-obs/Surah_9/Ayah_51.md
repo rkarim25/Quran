@@ -62,18 +62,6 @@ word_by_word:
     transliteration: l-mu'minūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If good befalls you, it grieves them, but if a calamity overtakes you, they say: "We took our precaution beforehand," and they turn away rejoicing (50)Say: "Nothing shall ever happen to us except what Allah has ordained for us. In the ninth verse (51), Allah Ta` ala has instructed the Holy Prophet ﷺ and Muslims, that they should not allow themselves to be affected by things like that said by the hypocrites and that they must always keep reality as it is before them.
@@ -121,3 +109,5 @@ This verse (51) brings into sharp focus the essential reality of the religious i
 Speaking generally, people around the world are found in great confusion about the religious problem of Taqdir and Tawakkul. Some of them are plain irreligious. They just do not recognize the very possibility that something like that exists. They are content with material means as the deity they are comfortable with. Then, there are other people who lack proper awareness. They have turned destiny and trust into a pretext for their sloth and inertia. The Prophet of Islam, may the blessing of Allah and peace be upon him, made full preparation for Jihad, after which, the revelation of this verse put an end to this cycle of excess and deficiency and showed the right way - as put in the lively Persian saying: بر توکل زانوے اشتربہ بند (With Tawakkul [ trust ], do tie the knees of the camel). To sum up, means which you have the option to utilize, are nothing but blessings given by Allah Ta` ala. Not taking ad-vantage of these means is ingratitude, even stupidity. Of course, do not give means the status they do not have and believe that results and outcomes are not subservient to these means - instead of all that, they obey the command of Allah Almighty.
 
 ## Personal Reflections
+
+

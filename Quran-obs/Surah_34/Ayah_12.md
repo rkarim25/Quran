@@ -118,18 +118,6 @@ word_by_word:
     transliteration: l-saʿīri
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And to Sulayman (We subjected) the wind, its morning was a month's (journey), and its afternoon was a month's (journey). We can now turn to verse 12: وَلِسُلَيْمَانَ الرِّ‌يحَ غُدُوُّهَا شَهْرٌ‌ وَرَ‌وَاحُهَا شَهْرٌ‌ (And for Sulayman: (We subjugated) the wind; its journey in the morning was (equal to the journey of) one month, and its journey in the afternoon was (equal to the journey) of another month).
@@ -215,3 +203,5 @@ And if this act of subjugation be through Divine Names or Qur'anic Verses and th
 The last sentence of verse 12 is: وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِ‌نَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ‌ (And whoever of them would deviate from Our command, We would make him taste the punishment of the blazing fire.) Most commentators have taken this to mean the punishment of Jahannam (Hell) in the hereafter. Some others have said that, in this world as well, Allah Ta’ ala had set an angel upon them who, in case they fell short in obeying Sayyidna Sulayman (علیہ السلام) ، would beat them with burning lashes and force them to work. (Qurtubi) The doubt that the Jinns are made of fire after all and the fire would hardly affect them is not worth entertaining here. The reason is that the Jinns are made of fire in the same sense as man is made of dust. It means that the preponderant element of man is dust. Still if man were to be hit by a clod of clay, or stone, it would hurt him. Similarly, the preponderant element of the Jinns is fire. But, pure and potent fire would burn them too.
 
 ## Personal Reflections
+
+

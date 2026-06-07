@@ -50,18 +50,6 @@ word_by_word:
     transliteration: sabīlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 84, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when We bestow Our grace on man, he turns away and becomes arrogant. Regarding the explanation of the word: شاکِلَۃ (shakilah) in verse 84: كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ (Everyone acts in his own style), several interpretations have been reported from authorities among the early righteous elders, such as, disposition, habit, instinct, intention, way or manner.
@@ -111,3 +99,5 @@ Regarding the explanation of the word: شاکِلَۃ (shakilah) in verse 84: ك
 such as, disposition, habit, instinct, intention, way or manner. In sum, all these turn into a second nature in terms of the circumstances, habits and customs everyone lives with. Thus, what one does remains subservient to it. (Qurtubi) In this verse, human beings have been warned that they must abstain from bad surroundings, bad company and bad habits and take to the company of good people and inculcate good habits (a1-Jassas). The reason, as stated earlier, is that one's response pattern built up under the influence of surrounding, company and custom makes one do what it dictates. Imam al-Jassas has also given another meaning of 'shakilah' at this place, that of 'like.' Given this meaning, the sense of the verse would be that everyone feels comfortable with a person who is compatible with one's temperament. A good man finds another good man familiar while a wicked man feels comfortable with another wicked man whose style he follows without any qualms of conscience. An example of this behavior pattern appears in what Allah says in the Qur’ an: الْخَبِيثَاتُ لِلْخَبِيثِينَ (Evil women are for evil men - 24:26) and وَالطَّيِّبَاتُ لِلطَّيِّبِينَ (Good women are for good men - 24:26). It means that everyone strikes familiarity with a man or woman according to one's own temperament. In short, this too is a warning against falling into bad company and bad habits. One should really make an effort to abstain from these.
 
 ## Personal Reflections
+
+

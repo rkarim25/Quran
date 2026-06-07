@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **Those who set the Ranks** (As-Saffat) 160, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to every Prophet who was sent.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -129,3 +121,5 @@ For this reason, another Tafsir that has been reported from Sayyidna Ibn ` Abbas
 Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُ‌ونَ 158) ', while the Jinns already know that they are bound to appear (before Him).' Here, 'they' could be referring to the kinds of Mushriks who took Jinns and Shaitans as equals of God, meaning thereby that the Jinns know that these Mushriks will appear before Allah Ta’ ala for being punished, and could also refer to the Jinns themselves. In this situation, the sense of the verse would come to be that 'the Shaitans and Jinns you have taken to be associated with Allah in one or the other form already know very well that they are going to face a terrible fate in the Hereafter. For example, Iblis is perfectly aware of his evil end. Now, someone who himself believes that he has to taste his punishment could hardly be the equal of God and taking him to be so would certainly be a gross lack of good sense.
 
 ## Personal Reflections
+
+

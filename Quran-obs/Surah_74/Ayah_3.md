@@ -12,18 +12,6 @@ word_by_word:
     transliteration: fakabbir
 ---
 
-## Context
-
-To understand **The Cloaked One** (Al-Muddaththir) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The first seven verses of this Surah belong to the earliest period at Makkah. Even according to some traditions which have been related in Bukhari, Muslim, Tirmidhi, Musnad Ahmad, etc., on the authority of Hadrat Jabir bin Abdullah, these are the very earliest verses of the Qur'an to be revealed to the Holy Prophet (upon whoa be peace). But the Muslim Ummah almost unanimously agreed that the earliest Revelation to the Holy Prophet (upon whom be peace) consisted of the first five verses of Surah Al-Alaq(XCVI) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَرَبَّكَ فَكَبِّرْ (..and pronounce the greatness of your Lord...74:3) It means: "Proclaim the greatness of your Lord both orally and practically.
@@ -169,3 +157,5 @@ Injunction [ 2]
 وَرَبَّكَ فَكَبِّرْ (..and pronounce the greatness of your Lord...74:3) It means: "Proclaim the greatness of your Lord both orally and practically. The attribute rabb (Lord) has been used in this context because it is itself the effective cause of the injunction, in that He is the Sustainer, Cherisher and Nourisher of the entire world. He alone is worthy of Kibriya'. The word takbtr literally signifies 'to say Allahu Akbar '. This includes takbir of tahrimah in the beginning of prayers and other takbirs also. Takbir is recited outside the prayers as well, such as in adhan and iqamah. There is no indication in the Qur'an that this injunction specifically refers to uttering Allahu Akbar to commence the prayers.
 
 ## Personal Reflections
+
+

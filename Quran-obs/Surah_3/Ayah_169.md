@@ -60,17 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 169, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 
 (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with Allah, delighted because of the bounty and happiness they are enjoying. They are also awaiting their brethren, who will die in Allah's cause after them, for they will be meeting them soon. These martyrs do not have fear about the future or sorrow for what they left behind. We ask Allah to grant us Paradise. The Two Sahihs record from Anas, the story of the seventy Ansar Companions who were murdered at Bir Ma'unah in one night. In this Hadith, Anas reported that the Prophet ﷺ used to supplicate to Allah in Qunut in prayer against those who killed them. Anas said, "A part of the Qur'an was revealed about them, but was later abrogated, 'Convey to our people that we met Allah and He was pleased with us and made us pleased.'"
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -275,3 +267,5 @@ The answer is given by this very verse where it is said that the شُھَدا sh
 There are no easy answers to questions such as - what is that distinct status and what is the nature of that life? The only answer is that its reality remains unknown to all except to the Creator of the universe; nobody has the power to know what is it - nor is there, for that matter, any need to know. Nevertheless, there are times when the effect of their special life does show up on their bodies buried in this world, that is, the earth they rest in does not eat them up but leaves them good and intact (Qurtubi). There have been many incidents where this phenomena has been physically witnessed.
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: tukh'rajūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-11-25 This passage contains some Divine instructions, and contrasts these with Satan's instructions, and depicts a graphic picture of the results and the consequences of the two.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Allah) said: "Get down, one of you an enemy to the other. The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the present verses has appeared in the fourth section of Surah Al-Baqarah.
@@ -92,3 +80,5 @@ The story of Sayyidna 'Adam (علیہ السلام) and Iblis mentioned in the p
 Detailed comments have been given in the Tafsir of that Surah. If needed, please see Ma‘ariful-Quran, English Translation, Volume I, Pages 170-187.
 
 ## Personal Reflections
+
+

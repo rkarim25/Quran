@@ -82,15 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (There is certainly among you he who would linger behind.) Mujahid and others said that this Ayah was revealed about the hypocrites. Muqatil bin Hayyan said that,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ Allah then said,
 2. Seen outwardly, the words of the verse 72 (... وَإِنَّ مِنكُمْ ) seem to suggest that this too is addressed to the believers, although the characteristics described later on cannot be taken to be those of the believers. Therefore, al-Qurtubi says that they signify hypocrites. Since, they were the ones who used to claim being Muslims, at least outwardly. This is why they have been identified as a group from among the believers.
 
 ## Personal Reflections
+
+

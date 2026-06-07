@@ -59,18 +59,6 @@ word_by_word:
     transliteration: ʿaẓīmun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So they raced with one another to the door, and she tore his shirt from the back. In the last two (28 29) of the verses cited above, it has been stated that the ` Aziz of Misr had already realized by having heard the child speak in the manner he did that some special supernatural situation was there to demonstrate the innocence of Sayyidna Yusuf (علیہ السلام) .
@@ -156,3 +144,5 @@ In the last two (28 29) of the verses cited above, it has been stated that the `
 According to a narration of Sayyidna Abu Hurairah ؓ عنہ appearing in the Tafsir of Al-Qurtubi, the Holy Prophet is reported to have said: The guile of women is stronger than the guile of Shaytan - because, about the guile of the Shaytan, Allah Ta ala has said that it is weak: كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا (4:76); and about the guile of women, it was said: إِنَّ كَيْدَكُنَّ عَظِيمٌ (great is the guile of you women - 12:28). And it is obvious that not all women are meant here. Instead, meant here are only those of them who are involved in practicing guiles and excuses.
 
 ## Personal Reflections
+
+

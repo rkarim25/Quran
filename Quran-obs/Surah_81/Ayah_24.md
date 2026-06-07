@@ -26,17 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Overthrowing** (At-Takwir) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (He has been taught by one mighty in power (Jibril). Dhu Mirrah, then he rose. While he was in the highest part of the horizon. Then he approached and came closer. And was at a distance of two bows' length or less. So (Allah) revealed to His servant what He revealed.)(53:5-10)
 
 And these Ayat have only been mentioned in Surat An-Najm, which was revealed after Surat Al-Isra' (The Night Journey).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -243,3 +235,5 @@ Surah At-Takwir
 Ends here
 
 ## Personal Reflections
+
+

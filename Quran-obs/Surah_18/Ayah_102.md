@@ -62,18 +62,6 @@ word_by_word:
     transliteration: nuzulan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 102, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And on that Day We shall present Hell to the disbelievers, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My servants as Awliya' [protectors] besides Me? According to Tafsir al-Bahr al-Muhit, in the first verse (102): أَفَحَسِبَ الَّذِينَ كَفَرُ‌وا أَن يَتَّخِذُوا عِبَادِي مِن دُونِي أَوْلِيَاءَ (Do, then, the disbelievers deem that they take My servants as patrons beside…
@@ -125,3 +113,5 @@ The word: عبادی (` ibadi: My servants) used here means angels, and the part
 The word: أَوْلِيَاءَ (awliya' ) is the plural of وَلِی (waliyy). This word is used in the Arabic language to carry several meanings. At this place, it means one who gets things done, resolves matters, fulfills needs - which is the particular attribute of the true object of worship. The purpose thereby is to take them as objects of worship.
 
 ## Personal Reflections
+
+

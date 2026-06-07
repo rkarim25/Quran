@@ -170,15 +170,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rooms** (Al-Hujurat) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (nor insult one another by nicknames.) means, 'you should not address people by nick names that people dislike.' Imam Ahmad recorded that Abu Jabirah bin Ad-Dahhak said, "This Ayah was revealed about us, Banu Salamah;
 
-The third thing that is prohibited in the verse is reviling one another with nicknames which are offensive to them, e.g. calling a person lame, hands cropped, blind or one-eyed; or referring to him by other offensive nicknames. Sayyidna Abu Jabirah Ansari ؓ says, "This verse was revealed in connection with us. When we migrated to Madinah, most of us had two or three names. Some of them were popularised in order to denigrate, defame or belittle the bearer of the name. The Holy Prophet ﷺ was not aware of this situation; as a result he sometimes called them by one of these offensive names unwittingly. The noble Companions ؓ informed the Prophet ﷺ that the name offends the bearer of that name.
+The third thing that is prohibited in the verse is reviling one another with nicknames which are offensive to them, e.g. calling a person lame, hands cropped, blind or one-eyed; or referring to him by other offensive nicknames. Sayyidna Abu Jabirah Ansari ؓ says, "This verse was revealed in connection with us. When we migrated to Madinah, most of us had two or three names. Some of them were popularised in order to denigrate, defame or belittle the bearer of the name. The Holy Prophet ﷺ was not aware of this situation; as a result he sometimes called them by one of these offensive names unwittingly. The noble Companions ؓ informed the Prophet ﷺ that the name offends the bearer of that name. This verse was revealed on that occasion." Sayyidna Ibn-Abbas ؓ says that prohibition of tanabuz bil-alqab means that if a person committed a sin or performed an evil deed from which he repented and mended his ways, it is unlawful for anyone to call him by denigrating names, such as thief, an adulterer, a drunkard or any such name. The Prophet ﷺ is reported to have said: "Anyone who denigrates a Muslim who has committed a sin of which he has repented, Allah takes it upon Himself that He will get the person to commit the very same sin and expose him to embarrassment and humiliation in this world and in the Hereafter [ Qurtubi ].
 
 ## Tafsir Summary
 
@@ -291,3 +285,5 @@ It is Sunnah to call people by Good Titles
 The Holy Prophet ﷺ is reported to have said that it is the right of a believer to call his fellow-believers by good names and titles which they like the best. Therefore the use of kunniyyah [ agnomen/cognomen ] had become commonplace in Arabia. The Holy Prophet ﷺ also favoured this, and consequently he himself bestowed appropriate titles on some of the individual Companions, e.g. Abu Bakr Siddiq ؓ received the title of ` Atiq [ the noble ], Sayyidna ` Umar ؓ ، the title of Faruq [ he who distinguishes truth from falsehood ], Sayyidna Hamzah ؓ the title of Asadullah [ the lion of Allah ] and Khalid Ibn Walid, the title of Saifullah [ the sword of Allah ].
 
 ## Personal Reflections
+
+

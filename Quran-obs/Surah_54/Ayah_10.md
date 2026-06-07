@@ -24,18 +24,6 @@ word_by_word:
     transliteration: fa-intaṣir
 ---
 
-## Context
-
-To understand **The Moon** (Al-Qamar) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The incident of the shaqq-al-Qamar (splitting of the moon) that has been mentioned in it, determines its period of revelation precisely. The traditionists and commentators are agreed that this incident took place at Mina in Makkah about five years before the Holy Prophet's hijrah to Madinah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The people of Nuh denied (their Messenger) before them. The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt from it مَجْنُونٌ وَازْدُجِرَ‌ (and said, " (He is) a madman", and he was threatened...54:9).
@@ -161,3 +149,5 @@ The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt fro
 ` Abd Ibn Humaid reports from Mujahid that when some of his people found him somewhere, they would choke him, as a result he would become unconscious. But when he recovered, he would pray to Allah, '0 Allah! Forgive my people, for they do not know the truth'. In this way, he endured the persecution of his people patiently for nine hundred and fifty years, prayed for their forgiveness and understanding of the truth. Eventually, when the situation became intolerable, and he could no longer resist his people, he invoked Allah to help him against them. As a result, Allah opened the gates of the heaven with torrential rain, and the entire nation was drowned which is mentioned in the forthcoming verse.
 
 ## Personal Reflections
+
+

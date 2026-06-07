@@ -62,18 +62,6 @@ word_by_word:
     transliteration: l-nushūru
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-12-15 , the truth that has been impressed on the minds is that the Creator cannot be unaware of His creation, as if to say: "He is aware of each open and hidden secret of yours, even of the innermost ideas of your hearts.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who fear their Lord unseen, theirs will be forgiveness and a great reward (12)And whether you keep your talk secret or disclose it, verily, He is the All-Knower of what is in the breasts (13)Should not He Who has created know? هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْ‌ضَ ذَلُولًا (He is the One who has made the earth submissive for you ...67:15) The word dhalul signifies 'submissive'.
@@ -137,3 +125,5 @@ At-Tirmidhi, An-Nasa'i and Ibn Majah all recorded this Hadith. At-Tirmidhi said,
 وَإِلَيْهِ النُّشُورُ‌ (...and to Him is the Resurrection...67:15). This warning tells us that man is permitted to draw benefits of eating, drinking and living from the earth, but he is reminded at the same time not to be neglectful of death and life-after-death. Eventually, he will have to leave this world for the Hereafter. Whilst living on the earth, he must prepare for life-after-death. In this verse, man is warned that eventually he will return to Allah on the Day of Resurrection. The next verse warns that the Divine punishment can overtake him, even when living on the earth.
 
 ## Personal Reflections
+
+

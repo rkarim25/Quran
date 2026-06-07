@@ -112,18 +112,6 @@ word_by_word:
     transliteration: bil-ʿibādi
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Whether you hide what is in your breasts or reveal it, Allah knows it, and He knows what is in the heavens and what is in the earth. In these verses, Muslims have been instructed not to take disbelievers as their friends.
@@ -253,3 +241,5 @@ Thus, those who follow the alluring dictates of the Satan and op-pose the injunc
 The last verse (30) says that 'Allah warns you of Himself lest you should indulge in friendship with disbelievers for the sake of fleeting interests and objectives and thus invite the anger of Allah. And since close friendship (Muwalat) relates to the heart and the affairs of the heart are known to none but Allah, it is possible that a person may actually be intensely in love for and friendship with disbelievers, but may deny it verbally. Therefore, the earlier verse (29) has already covered it by saying: "whether you conceal what is in your hearts, or disclose it, Allah shall know it." No denial or false claim is tenable before Him.
 
 ## Personal Reflections
+
+

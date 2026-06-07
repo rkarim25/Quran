@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clear Proof** (Al-Bayyinah) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Bayyinah is a **Madinah** surah—revealed as the 100th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It should be noted here that there are two types of rida' [ pleasure ]: one in general sense; and second in specific or higher sense. In the general sense, rida' bil-qadr (i.e. to be pleased with every decree of Allah) is part of the obligations of a servant of Allah. A consummated slave is only ever satisfied and content with Allah Himself, and thus sincerely accepts the Divine decree. However, here the word is used in the higher sense, that is, Allah bestows upon a slave all his specific wishes and ambitions without leaving out any of them as in [ 93:5] وَلَسَوْفَ يُعْطِيكَ رَ‌بُّكَ فَتَرْ‌ضَىٰ (And of course, your Lord will give you so much that you will be pleased.) Here also the word rida' means the fulfillment of every wish of the Holy Prophet ﷺ . When this verse was revealed, the Messenger of Allah ﷺ expressed his wish and ambition that he would not be pleased until every single believer is taken out of Hell. [ Mazhari ]
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -178,3 +170,5 @@ Allah will reply: 'I shall grant you My pleasure, and I will never be angry with
 It should be noted here that there are two types of rida' [ pleasure ]: one in general sense; and second in specific or higher sense. In the general sense, rida' bil-qadr (i.e. to be pleased with every decree of Allah) is part of the obligations of a servant of Allah. A consummated slave is only ever satisfied and content with Allah Himself, and thus sincerely accepts the Divine decree. However, here the word is used in the higher sense, that is, Allah bestows upon a slave all his specific wishes and ambitions without leaving out any of them as in [ 93:5] وَلَسَوْفَ يُعْطِيكَ رَ‌بُّكَ فَتَرْ‌ضَىٰ (And of course, your Lord will give you so much that you will be pleased.) Here also the word rida' means the fulfillment of every wish of the Holy Prophet ﷺ . When this verse was revealed, the Messenger of Allah ﷺ expressed his wish and ambition that he would not be pleased until every single believer is taken out of Hell. [ Mazhari ]
 
 ## Personal Reflections
+
+

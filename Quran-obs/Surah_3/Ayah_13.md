@@ -128,15 +128,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This verse refers to the Battle of Badr in which the disbelievers had about 1000 men, 700 camels and 100 horses, while the Muslim mujahidin were just over 300, having a total of 70 camels, 2 horses, 6 armours and 8 swords. The encounter was certainly strange as each combating group saw the opponent being twice its own numbers. The sighting of so many Muslims inspired awe in the hearts of the disbelievers, while Muslims who saw the disbelievers as twice of them turned to Allah more fervently. They had hopes of Allah's help, and ultimate victory, because they had placed their total trust in Allah, were steadfast and sincerely believed in the promise of Allah revealed to them in the following words:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -233,3 +225,5 @@ If the actual number of disbelievers which was three times more than their own w
 To sum up, it can be safely said that making a small group of people with very little to fight against a much stronger group and score a victory, as prophesied in Makkah, is an unusual event full of lessons for the observant and the discerning.
 
 ## Personal Reflections
+
+

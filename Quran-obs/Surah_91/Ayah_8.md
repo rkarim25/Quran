@@ -16,18 +16,6 @@ word_by_word:
     transliteration: wataqwāhā
 ---
 
-## Context
-
-To understand **The Sun** (Ash-Shams) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shams is a **Makkah** surah—revealed as the 26th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 15 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surah Ash-Shams wa Duhaha in the 'Isha' Prayer The Hadith of Jabir which was recorded in the Two Sahihs has already been mentioned. فَأَلْهَمَهَا فُجُورَ‌هَا وَتَقْوَاهَا (then inspired it with its [ instincts on evil and piety...91:8) The word ilham denotes 'to cast into the heart'.
@@ -223,3 +211,5 @@ Sayyidna Abu Hurairah and Ibn ` Abbas ؓ report that whenever the Holy Prophet �
 '0 Allah! Give my soul its good. You are its Guardian and Master, and the best to purify it.'
 
 ## Personal Reflections
+
+

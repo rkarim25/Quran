@@ -18,17 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Star** (An-Najm) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (Allah) revealed to His servant whatever He revealed (10)The heart lied not in what he saw (11)Will you then dispute with him about what he saw (12)And indeed he saw him at a second descent (13)Near Sidrat Al-Muntaha (14)Near it is the Paradise of Abode (15)When that covered the lote tree which did cover it (16)The sight turned not aside, nor it transgressed beyond the limit (17)Indeed he saw of the greatest Ssgns of his Lord (18)
 
 (And was at a distance of two bow lengths or less. So (Allah) revealed to His servant whatever He revealed.) Zirr said, "Abdullah narrated to us that Muhammad ﷺ saw Jibril having six hundred wings." Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -261,3 +253,5 @@ Allah said,
 ذُو مِرَّ‌ةٍ فَاسْتَوَىٰ وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ (one of vigour. So he stood poised, while he was on the upper horizon...53:6-7] The word mirrah means 'strength' or 'vigour'. This is another quality of Jibra'il (علیہ السلام) in that he is no weakling, but strong, mighty in power and firm, so that it may not be suspected that the devil may intercept the angel carrying the Divine revelation and snatch it away from him. Jibra'il (علیہ السلام) is so mighty in power and strength that the devil dare not come anywhere near him. The word اِسْتَوَىٰ istawa means to be or become straight or to level. The verse means that when he saw Jibra'il (علیہ السلام) the first time, the latter was descending from the heaven. Having descended, he sat or settled straight on the highest part of the horizon. Ufuq [ horizon ] is qualified by a'la [ the highest part or uppermost ] and it signifies that Jibra'il (علیہ السلام) was shown on the uppermost horizon, [ so that he could be seen clearly ] because the lower part of the horizon which seems to be adjacent to the earth is normally hidden from the sight [ as a result he would not have been visible to the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

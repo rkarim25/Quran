@@ -76,17 +76,9 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And it was revealed to Nuh: "None of your people will believe except those who have believed already. So be not sad because of what they used to do (36)"And construct the ship under Our Eyes and with Our revelation, and address Me not on behalf of those who did wrong; they are surely to be drowned. (37)And as he was constructing the ship, whenever the chiefs of his people passed by him, they mocked at him. He said: "If you mock at us, so do we mock at you likewise for your mocking. (38)"And you will know who it is on whom will come a torment that will cover him with disgrace and on whom will fall a lasting torment. (39)
 
 (Then he invoked his Lord (saying): "I have been overcome, so help (me)!")[54:10] At this point Allah revealed to him,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -167,3 +159,5 @@ In the first verse (36), it was said that it was revealed to Sayyidna Nuh (عل�
 In answer to this prayer, the people of Sayyidna Nuh were drowned en masse.
 
 ## Personal Reflections
+
+

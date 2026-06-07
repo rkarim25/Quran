@@ -81,15 +81,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 111, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Verse 112 also announces the reward of those who act upon these principles -- on the Day of Judgment, they shall have nothing to fear, nor shall they grieve, as angels will give them good tidings. As for the debates among the Jews, the Christians and the associators, Verse 113 declares that Allah will Himself decide the question finally on the Day of Judgment. In fact, the question has already been settled on the basis of what Allah has revealed in His Books as well as on the basis of rational argument; the final decision on the Day of Judgment will be of the visible kind -- those who follow the Truth will be sent to Paradise, while those who go after falsehood will be cast down in Hell.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -284,3 +276,5 @@ Verse 112 also announces the reward of those who act upon these principles -- on
 These verses provide a warning to the Muslims as well, lest they too should delude themselves like the Jews and the Christians, and suppose that merely because they belong to the social community of Muslims and can, as such, claim to be Muslims, whereby they can dispense with the need to obey Allah and to follow the Shari` ah, and yet receive the rewards Allah has promised to give to true Muslims. Even Muslims have no right to hope for these rewards until and unless they submit themselves totally, in thought and deed both, to the commandments of Allah and His Prophet ﷺ .
 
 ## Personal Reflections
+
+

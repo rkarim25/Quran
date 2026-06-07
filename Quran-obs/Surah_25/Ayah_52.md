@@ -33,18 +33,6 @@ word_by_word:
     transliteration: kabīran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had We willed, We would have raised a warner in every town (51)So obey not the disbelievers, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has appointed for him kindred by blood, and kindred by marriage. Jihad with Qur'an (its propagation) is great Jihad وَجَاهِدْهُم بِهِ جِهَادًا كَبِيرً‌ا (And strive against them with it (the Qur'an) a great striving - 25:52).
@@ -148,3 +136,5 @@ Jihad with Qur'an (its propagation) is great Jihad
 وَجَاهِدْهُم بِهِ جِهَادًا كَبِيرً‌ا (And strive against them with it (the Qur'an) a great striving - 25:52). This is a Makkan verse when the injunction for Jihad, in the sense of fighting the infidels, had not been revealed. What is ordained in this verse is that you spread the message of Qur'an among the people at large. Propagation of Qur'anic message among people and to make them understand it is great Jihad whether it is by mouth, pen or any other means,
 
 ## Personal Reflections
+
+

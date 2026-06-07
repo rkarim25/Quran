@@ -28,18 +28,6 @@ word_by_word:
     transliteration: nārin
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the… وَخَلَقَ الْجَانَّ مِن مَّارِ‌جٍ مِّن نَّارٍ‌ (and created Jann [ father of the Jinns ] from a smokeless flame of fire...55:15) The word جَانَّ - jann, refers to the class of beings called jinn'.
@@ -135,3 +123,5 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 وَخَلَقَ الْجَانَّ مِن مَّارِ‌جٍ مِّن نَّارٍ‌ (and created Jann [ father of the Jinns ] from a smokeless flame of fire...55:15) The word جَانَّ - jann, refers to the class of beings called jinn'. The word مَّارِ‌جٍ marij refers to the ' smokeless flame of fire'. The major element in the creation of jinn is the smokeless flame of fire, just as the major element in the creation of man is dry sounding clay.
 
 ## Personal Reflections
+
+

@@ -114,15 +114,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 114, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And whoever contradicts and opposes the Messenger after the right path has been shown clearly to him.) refers to whoever intentionally takes a path other than the path of the Law revealed to the Messenger, after the truth has been made clear, apparent and plain to him. Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -241,3 +233,5 @@ He has also said: فساد ذات البین ھی الحالقہ "Mutual discord
 In the concluding part of the verse (114), there appears a significant reminder that these good deeds to bid charity and fair action or a reconciliation among people can only be worthwhile and acceptable when they are undertaken sincerely, and exclusively for the pleasure of Allah, without any traces of personal or material interest.
 
 ## Personal Reflections
+
+

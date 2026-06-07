@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Ornaments of Gold** (Az-Zukhruf) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Or have We revealed to them an authority (a Scripture), which speaks of that which they have been associating with Him?)(30:35) meaning, that did not happen. Then Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ Allah condemns the idolators for worshipping others instead of Allah with no evi
 وَهُوَ فِي الْخِصَامِ غَيْرُ‌ مُبِينٍ (and who cannot express themselves in debate clearly - 18). This reflects the reality that a great majority of women do not have the same ability as men to express their feelings clearly. Therefore, if it comes to argumentation, it is difficult for them to prove their own contention and to refute the other's arguments in a clear manner. But this applies to the majority. If some women are eloquent in their speech and excel even men in this regard, it does not go against this verse, because the rule applies to the majority, and not to every single individual.
 
 ## Personal Reflections
+
+

@@ -94,15 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **She that is to be examined** (Al-Mumtahanah) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Thawr narrated that Ma'mar said that Az-Zuhri said, "This Ayah was revealed to Allah's Messenger ﷺ while he was in the area of Al-Hudaybiyyah, after making peace. He agreed that whoever comes from the Quraysh to his side, will be returned to Makkah. When some women came, this Ayah was revealed. Allah commanded that the dowery that was paid to these women be returned to their husbands. Allah also ordered that if some Muslim women revert to the side of the idolators, the idolators should return their dowery to their Muslim husbands. Allah said,
 
-Sayyidna Ibn ` Abbas ؓ reports that about six women altogether abandoned Islam and deserted to the unbelievers, one of whom is the woman whose name has been given in the previous paragraph. The other five of them were infidels from outset and remained in Makkah at the time of migration. When this verse was revealed dissolving the marriage between Muslims and pagans, they stubbornly clung to their disbelief and were not willing to embrace the Faith.
+Sayyidna Ibn ` Abbas ؓ reports that about six women altogether abandoned Islam and deserted to the unbelievers, one of whom is the woman whose name has been given in the previous paragraph. The other five of them were infidels from outset and remained in Makkah at the time of migration. When this verse was revealed dissolving the marriage between Muslims and pagans, they stubbornly clung to their disbelief and were not willing to embrace the Faith. As a result, these women were also counted among those whose dowers should be paid to their Muslim husbands by the pagans of Makkah. But they did not pay, so the Messenger of Allah ﷺ compensated for the loss of their dowers from the spoils of war.
 
 ## Tafsir Summary
 
@@ -231,3 +225,5 @@ Sayyidna Ibn ` Abbas ؓ reports that about six women altogether abandoned Islam 
 This indicates that there is only one incident where a woman actually became an apostate and fled to Makkah from Madinah. The rest of the five women were unbelievers from beginning. As reported earlier, even the woman who abandoned Islam and fled to Makkah later on reverted to Islam. [ Qurtubi ]. Baghawi cites, on the authority of Sayyidna Ibn ` Abbas ؓ ، that all five women who are counted as apostates reverted to Islam later on. [ Mazhari ].
 
 ## Personal Reflections
+
+

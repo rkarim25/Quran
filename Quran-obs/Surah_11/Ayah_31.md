@@ -134,18 +134,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And I do not say to you that with me are the treasures of Allah, nor that I know the Ghayb; nor do I say I am an angel, and I do not say of those whom your eyes look down upon that Allah will not bestow any good on them. Reported in the fifth verse (31) there is an address that Sayyidna Nuh (علیہ السلام) gave before his people to announce some matters of principle after he had heard their objections.
@@ -169,3 +157,5 @@ Secondly, it was said: وَلَا أَعْلَمُ الْغَيْبَ (nor do I 
 Thirdly, it was said: وَلَا أَقُولُ إِنِّي مَلَكٌ (nor do I say that I am an angel). Here we have a refutation of their idea that a ras ul should be some angel.
 
 ## Personal Reflections
+
+

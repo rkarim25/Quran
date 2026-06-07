@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-ʿiqābi
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And fear the Fitnah (affliction and trial) which affects not in particular (only) those of you who do wrong, and know that Allah is severe in punishment (25) Warning against an encompassing Fitnah After having described some details of the battle of Badr and Divine blessings conferred on Muslims therein, the Holy Qur'an has offered words of good counsel to Muslims as based on the outcome of the Battle.
@@ -167,3 +155,5 @@ The factual evidence of this explanation is that those who forsake Jihad have be
 The same thing happened at the battle of Badr when some Muslims wavered with their choice of suitable conduct. They left their security post on the hills and came down. When this happened, the ill effects of their action did not remain restricted to those who had made the error, in fact, they hit the entire Muslim army, so much so that the Holy Prophet ﷺ was himself injured in this battle.
 
 ## Personal Reflections
+
+

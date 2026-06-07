@@ -55,18 +55,6 @@ word_by_word:
     transliteration: wabil-mu'minīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But if they incline to peace, you also incline to it, and trust in Allah. After that, in the fourth verse (62), the same subject has been taken up with added clarity where it was said: And if they intend to deceive you, then, Allah is all-sufficient for you.
@@ -148,3 +136,5 @@ And if they intend to deceive you, then, Allah is all-sufficient for you. He is 
 It means that should this very probability turn out to be the reality on the ground - that their intention is bad and they stop at nothing short of a deceptive strike against you - even then, you do not have to bother about it because Allah is sufficient as your supporter. This has been true earlier too. Things have worked for the Holy Prophet ﷺ with nothing but the help and support of Allah Ta` ala. He was always there behind him, a fact which is the very basis of his victory and success. Then, it was for everyone to witness that He made a group of Muslims rise around him who became his helping hands in the mission. All these arrangements were the outward causes of the phenomena. The thing to believe is that the real and absolute Master who fused together all causes of victory and success in a visible form shall never leave him alone to be deceived by the enemy even today. It was under this Divine promise when, after the revelation of this verse, it never happened throughout the entire span of his life that any deceit or ambush from his enemies brought any harm to him. Therefore, the scholars of Tafsir have said that this promise for the Holy Prophet ﷺ very much like the promise made in: وَاللَّـهُ يَعْصِمُكَ مِنَ النَّاسِ (and Allah shall keep you protected from the people - 5:67) when, after the revelation of this verse, the Holy Prophet ﷺ had asked his noble Companions ؓ who guarded him against any such dangers that they should now feel relieved and forget about their security concerns regarding his person. This tells us that this promise was special to the Holy Prophet ﷺ . (Bayern al-Qur'an) As for others, they should do things in terms of formal arrangements after assessing prevailing conditions.
 
 ## Personal Reflections
+
+

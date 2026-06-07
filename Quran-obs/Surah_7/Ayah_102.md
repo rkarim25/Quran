@@ -42,18 +42,6 @@ word_by_word:
     transliteration: lafāsiqīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 102, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those were the towns whose story We relate unto you. The verse 102 has said, "And We did not find with most of them any covenant (unbroken)." The Companion ` Abdullah ibn Abbas ؓ has said that the covenant referred to in this verse is the Covenant called .
@@ -129,3 +117,5 @@ The above verses have described five events of earlier people so that present pe
 Of all the events of early people described in this chapter the next event is of prophet Musa (علیہ السلام) which has been described in some detail in the following verses because his miracles are larger in number and more prominent in their nature. Similarly, his people, the Israelite, were more obstinate and ignorant than other people of the world. In addition, these verses, 103-110 carry some injunctions and points of discussion.
 
 ## Personal Reflections
+
+

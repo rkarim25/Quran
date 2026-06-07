@@ -112,17 +112,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and they are not its guardians. None can be its guardians except those who have Taqwa)[8:34]. In this Ayah there is proof that it was revealed in Al-Madinah, as Allah says in Surat Al-Baqarah:
 
 (and whoever inclines to evil actions therein or to do wrong,) Ibn 'Abbas said, "This was revealed about 'Abdullah bin Unays. The Messenger of Allah ﷺ sent him with two men, one of whom was a Muhajir and the other from among the Ansar. They began to boast about their lineages and 'Abdullah bin Unays got angry and killed the Ansari. Then he reverted from Islam (became an apostate) and fled to Makkah. Then these words were revealed concerning him:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -247,3 +239,5 @@ According to al-Durr al-Manthur the term Al-Masjid Al-Haram in the present conte
 Sayyidna ` Ata' ؓ has further enlarged the scope of the meaning of this word by declaring that ilhad within the precincts of haram means entering it without wearing the pilgrims garb (ihram), or violating any of the prohibition inside the haram, such as hunting or cutting down trees within its limits. It needs to be clarified here that all things forbidden by the religious code are forbidden everywhere and will attract punishment wherever committed; and the specific reference to haram in this verse is to emphasize the fact that just as a good deed performed within its limits will be generously rewarded, similarly a sin committed there will attract the most severe punishment. (Mujahid). Sayyidna ` Abdullah Ibn Masud ؓ has related another interpretation of the word ilhad to mean that whereas at any other place the mere intention to commit a sin does not constitute a sin unless it is actually committed, within the limits of the haram even the resolve to commit a sin is punishable, as if it has actually been committed. Qurtubi has adopted this interpretation from Ibn ` Umar ؓ and lends his own support to it. Whenever Sayyidna ` Abdullah Ibn ` Umar ؓ went for the pilgrimage, he used to set up two tents - one within the limits of haram and the other outside it. If ever an occasion arose when he needed to scold or rebuke any one of his households, he would do it in the tent which he had set up outside the limits of haram. When people asked him the reason for this, his answer was that the words کلَّا واللہ or بلٰی واللہ which a person normally uses when angry also constitute إلحَاد فی الحَرَم (committing an act of sin within the precincts of haram). (Mazhari)
 
 ## Personal Reflections
+
+

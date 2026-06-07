@@ -75,18 +75,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-16-17 of Surah Saba above.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have you not observed the hypocrites who say to their disbelieving brethren among the People of the Scripture, "If you are expelled, we indeed will go out with you, and we shall never obey anyone against you; and if you are attacked, we shall indeed help you." But Allah is Witness that they verily are liars (11)Surely, if they (the Jews) are expelled, never will they (hypocrites) go out with them; and if they are attacked, they will never help them.
@@ -190,3 +178,5 @@ If the verse refers to this incident, in which the Shaitan provokes man to disbe
 Tafsir Mazhari, Qurtubi, Ibn Kathir and others have cited several incidents where monks and devotees were deceived into kufr. For example, one of the Israeli monks devoted himself to Allah in his synagogue, and fasted consecutively and broke his fast only once in ten days. In this way, he spent seventy years of his life. The accursed Shaitan pursued him. He sent after him the most cunning devil in the shape of a monk, a devotee of God. He went up to him and exerted himself in the worship of God and thus built up confidence in the genuine monk. Eventually, the impostor succeeded in teaching the monk a few of the prayers that are efficacious in curing the sickly people. Then the former exerted his influence on many people to fall sick, and gave them the monk's address. When the latter recited the prayers, the devil would remove his influence and thus they would feel cured. He kept up this process for a long period of time, until one day he performed his exertion on the beautiful daughter of an Israeli leader. He sent her also to the monk. He succeeded in getting her into his synagogue and gradually he succeeded in getting him to commit fornication with the girl who, as a result, fell pregnant. He suggested that the girl be killed to save face. After the killing, the devil himself went around telling the story of the killing and put up the people against the monk. They, in their fury, demolished the synagogue and decided to kill him and crucify him. Then the Shaitan went back to the monk and said to him that there is no way out to save his life. 'Of course', he said to him, 'there is one way of saving your life, in that you prostrate to me and I will save your life.' The monk had already committed all the sins. The way to commit kufr was paved. So, he prostrated. At that juncture, the Shaitan said to him plainly, 'You were not falling into my trap. I adopted all these guiles for you to commit kufr. I cannot assist you in any way.' This story is recounted fully in Tafsir Mazhari and Qurtubi. Allah, the Pure and Exalted, knows best!
 
 ## Personal Reflections
+
+

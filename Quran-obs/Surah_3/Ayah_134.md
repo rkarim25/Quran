@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 134, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! God-fearing Muslims can be identified by the traits of their character and the marks of their manner.
@@ -343,3 +331,5 @@ The moral grandeur of the Holy Prophet, may the peace and blessings of Allah be 
 There is an apt incident in the life of the great Imam Abu Hanifah (رح) . Someone accosted him in a busy market place and heaped all sorts of insults and invectives on him. The great Imam controlled his anger and said nothing to him. He went home, took out a considerable quantity of gold and silver coins, put them in a gift-wrapped tray and went out to the home of his confronter. He knocked at his door. When this person came out, he presented this tray full of coins before him saying: 'Today, you did something very good to me. You gave me (something) of your good deeds (that you had done). It is in gratitude of this great favour of yours that I am presenting this gift to you.' The Imam's unusual conduct naturally affected the man. He repented and got rid of his bad habit forever. After asking for Imam's forgiveness, he entered into his circle as a disciple and finally became a great scholar.
 
 ## Personal Reflections
+
+

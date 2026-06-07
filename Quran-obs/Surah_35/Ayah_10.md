@@ -105,18 +105,6 @@ word_by_word:
     transliteration: yabūru
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And it is Allah Who sends the winds, so that they raise up the clouds, and We drive them to a dead land, and revive therewith the earth after its death. In verse 10, it was said: إِلَيْهِ يَصْعَدُ الْكَلِمُ الطَّيِّبُ وَالْعَمَلُ الصَّالِحُ يَرْ‌فَعُهُ (Towards Him, ascends the pure word, and the righteous deed uplifts it).
@@ -282,3 +270,5 @@ This tells us that correspondence with sunnah is the condition of perfect accept
 Some commentators suggest another syntactical arrangement in respect of this sentence. According to them, the subjective pronoun in: يَرْ‌فَعُهُ (uplifts) reverts to: ضَمِر فَاعِل good word) and the objective pronoun (i.e.'it' ) to: کلم طیّب ( good deed). Thus, the meaning of the sentence become totally different from that of the earlier, that is, 'good word' which is the dhikr of Allah, makes 'good deed' ascend and makes it rise higher up, that is, makes it worthy of being accepted. The outcome would then be that a person who does good deeds, and along with it, also does his dhikr of Allah abundantly, then, this dhikr of Allah embellishes his deed and makes it acceptable.
 
 ## Personal Reflections
+
+

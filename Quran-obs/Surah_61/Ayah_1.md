@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Ranks** (As-Saf) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saf is a **Madinah** surah—revealed as the 109th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 14 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Some said that it was revealed about the gravity of fighting in battle, when one says that he fought and endured the battle, even though he did not do so. Qatadah and Ad-Dahhak said that this Ayah was sent down to admonish some people who used to say that they killed, fought, stabbed, and did such and such during battle, even though they did not do any of it.
 
 Although the intention of the blessed Companions was not to make a boastful claim, it did seem apparently as a claim, which Allah dislikes. If a person makes a commitment to do something in the future, he needs to surrender it to the Divine will and affirm it by saying 'If Allah wills'. The following verses are revealed to admonish the believers.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -163,3 +155,5 @@ Ibn Kathir, with reference to Musnad of Ahmad, reports that some of the Companio
 Although the intention of the blessed Companions was not to make a boastful claim, it did seem apparently as a claim, which Allah dislikes. If a person makes a commitment to do something in the future, he needs to surrender it to the Divine will and affirm it by saying 'If Allah wills'. The following verses are revealed to admonish the believers.
 
 ## Personal Reflections
+
+

@@ -120,15 +120,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The bedouins are the worst in disbelief and hypocrisy, and more likely to not know the limits which Allah has revealed to His Messenger. And Allah is All-Knower, All-Wise (97)And of the bedouins there are some who look upon what they spend (in Allah's cause) as a fine and watch for calamities for you, on them be the calamity of evil. And Allah is All-Hearer, All-Knower (98)And of the bedouins there are some who believe in Allah and the Last Day, and look upon what they spend (in Allah's cause) as means of nearness to Allah, and a cause of receiving the Messenger's invocations. Indeed these (expenditures) are a means of nearness for them. Allah will admit them to His mercy. Certainly Allah is Oft-Forgiving, Most Merciful (99)
 
-Allah states that there are disbelievers, hypocrites and believers among the bedouins. He also states that the disbelief and hypocrisy of the bedouins is worse and deeper than the disbelief and hypocrisy of others. They are the most likely of being ignorant of the commandments that Allah has revealed to His Messenger ﷺ.
+Allah states that there are disbelievers, hypocrites and believers among the bedouins. He also states that the disbelief and hypocrisy of the bedouins is worse and deeper than the disbelief and hypocrisy of others. They are the most likely of being ignorant of the commandments that Allah has revealed to His Messenger ﷺ. Al-A'mash narrated that Ibrahim said, "A bedouin man sat next to Zayd bin Sawhan while he was speaking to his friends. Zayd had lost his hand during the battle of Nahawand. The bedouin man said, 'By Allah! I like your speech. However, your hand causes me suspicion.' Zayd said, 'Why are you suspicious because of my hand, it is the left hand [that is cut]?' The bedouin man said, 'By Allah! I do not know which hand they cut off (for committing theft), is it the right or the left?' Zayd bin Sawhan said, 'Allah has said the truth,
 
 ## Tafsir Summary
 
@@ -207,3 +201,5 @@ After having described the state of affairs prevailing among hypocrites of dista
 That Sadaqat are a source of nearness to Allah Ta` ala is obvious. However, the hope of prayers from the Holy Prophet ﷺ is on a different basis. It should be borne in mind that the Holy Qur'an - wherever it has asked the Holy Prophet ﷺ to collect Zakah on the wealth and property of Muslims - has also directed him that he should also pray for those who pay Zakah. The forthcoming verse (103): خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُ‌هُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ (Take out of their wealth a Sadaqah [ obligatory alms ] through which you may cleanse and purify them, and pray for them) is a good example? The instruction to the Holy Prophet ﷺ that he should pray for these people has been termed: وَصَلِّ عَلَيْهِمْ (and pray for them) using the word: صلٰوہ (salat) for it. Therefore, in the present verse as well, the sense of the prayers of the Holy Prophet ﷺ has been expressed by the use of the word: صلٰوہ (salat).
 
 ## Personal Reflections
+
+

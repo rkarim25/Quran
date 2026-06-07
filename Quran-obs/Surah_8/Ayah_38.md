@@ -71,18 +71,6 @@ word_by_word:
     transliteration: l-awalīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say to those who have disbelieved, if they cease, their past will be forgiven. Appearing once again in verse 38, there is a patronizing address to disbelievers - which carries the elements of persuasion and warning both.
@@ -234,3 +222,5 @@ Allah says, if the disbelievers persist in defying and fighting you, then know t
 Appearing once again in verse 38, there is a patronizing address to disbelievers - which carries the elements of persuasion and warning both. The part of persuasion is that should they repent from their shocking deeds even then, and come forward to believe, then, all their past sins shall be forgiven. If they failed to desist even then, the warning part tells them that they better understand that Allah Ta` ala would not have to think about making some new law for them. The law is already there. It has been in force in the case of disbelievers of earlier times. The same law would come into force against them too - that they were destroyed in the present world and became deserving of the punishment of the Hereafter.
 
 ## Personal Reflections
+
+

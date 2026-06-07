@@ -24,18 +24,6 @@ word_by_word:
     transliteration: akhīhi
 ---
 
-## Context
-
-To understand **He Frowned** ('Abasa) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah 'Abasa is a **Makkah** surah—revealed as the 24th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 42 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators and traditionists are unanimous about the occasion of the revelation of this Surah. According to them, once some big chiefs of Makkah were sitting in the Holy Prophet's assembly and he was earnestly engaged in trying to persuade them to accept Islam. At that very point, a blind man,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then when there comes As-Sakhkha (33)That Day shall a man flee from his brother (34)And from his mother and his father (35)And from his wife and his children (36)Every man that Day will have enough to make him careless o… يَوْمَ يَفِرُّ‌ الْمَرْ‌ءُ مِنْ أَخِيهِ (the Day when one will flee from his brother...80:34).
@@ -113,3 +101,5 @@ This is the end of the Tafsir of Surat 'Abasa, and to Allah all praise and thank
 The Chapter ends on a note of warning to disbelievers that if they reject the Qur’ anic message and persist in opposition to the Holy Prophet ﷺ they will have to face a day of reckoning when misery, shame and ignominy will be their lot. The righteous believers, however, will reside in Gardens of Bliss, their faces beaming with joy and happiness.
 
 ## Personal Reflections
+
+

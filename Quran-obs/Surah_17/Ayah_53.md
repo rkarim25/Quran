@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Since it is possible to suppress the aggressive might of disbelievers and their hostility to Islam through fighting and killing (as an inevitable measure of defense), therefore, it is allowed. However, by using foul language and harsh words, neither a castle stands conquered nor anyone guided right, therefore, it has been prohibited. Imam al-Qurtubi said that this verse was revealed in the background of an event relating to Sayyidna ` Umar ؓ . It so happened that someone used foul language against Sayyidna ` Umar ؓ who retaliated harshly and wanted to kill him. This posed the danger of a war breaking out between their two tribes. Thereupon, this verse was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -120,3 +112,5 @@ Since it is possible to suppress the aggressive might of disbelievers and their 
 And according to the interpretation of Imam al-Qurtubi, this verse contains a guideline for Muslims as to how they should address each other. It suggests that they should not speak harshly at the time of mutual difference, for this is a trap door through which the Shaitan pushes them into mutual infighting and disorder.
 
 ## Personal Reflections
+
+

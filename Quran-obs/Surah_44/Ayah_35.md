@@ -37,18 +37,6 @@ word_by_word:
     transliteration: bimunsharīna
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, these people are saying (34)"There is nothing but our first death, and we shall not be resurrected. وَآتَيْنَاهُم مِّنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُّبِينٌ And We gave them the clear signs in which there was a manifest blessing.
@@ -80,3 +68,5 @@ Abdur-Razzaq recorded that Abu Hurayrah, may Allah be pleased with him, said, "T
 وَآتَيْنَاهُم مِّنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُّبِينٌ And We gave them the clear signs in which there was a manifest blessing. (44:33) " The word 'signs' refers to the miracles of the staff, the shining hand and others. The word 1 bala' has two senses: (1) blessing; and (2) trial. Here both senses are possible. (Qurtubi).
 
 ## Personal Reflections
+
+

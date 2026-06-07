@@ -81,18 +81,6 @@ word_by_word:
     transliteration: mus'taqīman
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah has promised you abundant spoils that you will capture, and He has hastened for you this, and He has restrained the hands of men from you, that it may be a sign for the believers, and that He may guide you to the straight path (20)And other (victories) which are not yet within your power; indeed Allah encompasses them. ذِهِ (Allah had promised you many spoils that you would receive, so He gave these to you sooner - 48:20).
@@ -194,3 +182,5 @@ Thereafter, Allah the Exalted and Most Honored sent down this Ayah about that in
 وَيَهْدِيَكُمْ صِرَ‌اطًا مُّسْتَقِيمًا (...And (He did this) so that He guides you to the right path.... 48:20) It is clarified earlier (in the commentary on verse 2 of this Surah that there are several degrees of guidance. From that point of view, they were all already guided on the straight path. Here it refers to the degree of guidance which they had not yet attained, that is, full reliance on Allah and increase in the power of faith.
 
 ## Personal Reflections
+
+

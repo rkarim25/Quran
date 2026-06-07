@@ -94,15 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spider** (Al-'Ankabut) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And for those who believe and do righteous good deeds, surely, We shall make them enter with the righteous.) In his Tafsir of this Ayah, At-Tirmidhi recorded that Sa'd said: "Four Ayat were revealed concerning me – and he told his story. He said: "Umm Sa'd said: 'Did Allah not command you to honor your parents? By Allah, I will not eat or drink anything until I die or you renounce Islam.' When they wanted to feed her, they would force her mouth open. Then this Ayah was revealed:
 
-This verse was revealed in connection with Sayyidna Sa'd Ibn Abi Waqqas ؓ . He was one of the ten companions to whom the Holy Prophet ﷺ had given the good news of being in paradise, and who are called Al-'Ashrah Al-mubashsharah. He was an extremely obedient son of his mother and was always alert to look after her comfort.
+This verse was revealed in connection with Sayyidna Sa'd Ibn Abi Waqqas ؓ . He was one of the ten companions to whom the Holy Prophet ﷺ had given the good news of being in paradise, and who are called Al-'Ashrah Al-mubashsharah. He was an extremely obedient son of his mother and was always alert to look after her comfort. When his mother, Hamnah hint Abi Sufyan, learnt that her son, Sa'd, had accepted Islam, she got very upset and warned him against that, and then swore an oath that she would neither eat nor drink unless he turned back to his ancestral religion, or she would die of thirst and hunger, and he would be blamed universally for being the killer of his mother. (Muslim, Tirmidhi). Through this Qur'anic verse Sayyidna Sa'd ؓ was commanded not to listen to his mother.
 
 ## Tafsir Summary
 
@@ -147,3 +141,5 @@ This verse was revealed in connection with Sayyidna Sa'd Ibn Abi Waqqas ؓ . He 
 Baghawi has reported in his narration that the mother of Sayyidna Sa'd ؓ did not eat and drink for a day and night, and according to some other versions, for three days and three nights, and sticking to her oath, remained hungry and thirsty. For Sayyidna Sa'd ؓ mother's love and obedience was one thing, but Allah's command was another, which naturally took precedence over everything else. So he went to her and said to her firmly ` Dear mother, if there were hundred spirits in your body, and they were departing one by one, I would not have deserted my religion even seeing that scenario. It is now up to you whether you eat and drink or die. In any case I cannot abandon my religion'. Having been disappointed by his firmness, she started eating food.
 
 ## Personal Reflections
+
+

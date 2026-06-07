@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Exile** (Al-Hashr) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas. Al-Bukhari also recorded it from Abu 'Awanah, from Abu Bishr from Sa'id bin Jubayr, who said, "I asked Ibn 'Abbas, 'Surat Al-Hashr?' He said, 'Surah Bani An-Nadir.'"
 
 (Have you not heard what your cousin plotted to do against me?) Yamin bin 'Umayr promised someone a reward if he killed his cousin 'Amr bin Jihash, and someone killed him, according to their claim" Ibn Ishaq then said, "All of Surat Al-Hashr was revealed about Bani An-Nadir. " A similar story was recorded by Yunus bin Bukayr from Ibn Ishaq. Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -285,3 +277,5 @@ The Holy Prophet ﷺ showed this kindness to them when they were completely subd
 Let us now explain some expressions of these verses in the background of these events.
 
 ## Personal Reflections
+
+

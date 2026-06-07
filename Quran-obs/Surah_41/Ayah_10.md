@@ -67,18 +67,6 @@ word_by_word:
     transliteration: lilssāilīna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Do you verily disbelieve in Him Who created the earth in two Days? it is stated separately: وَجَعَلَ فِيهَا رَ‌وَاسِيَ مِن فَوْقِهَا وَبَارَ‌كَ فِيهَا وَقَدَّرَ‌ فِيهَا أَقْوَاتَهَا فِي أَرْ‌بَعَةِ (He has placed firm mountains in it [ the earth ] towering above it, and put blessings in it, and proportioned its foods therein, in four days - 10).
@@ -286,3 +274,5 @@ And some exegetes Ibn Zayd, etc., have linked the words ` for those who ask' wit
 Ibn Kathir has quoted this explanation and said that it is like the statement of the Qur'an وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ (And He gave you whatever you asked for. - 14:34) ` you asked for' in this verse means ` you were in need of' even though it has not been asked literally, because Allah Almighty has bestowed those things even to those who did not ask for them.
 
 ## Personal Reflections
+
+

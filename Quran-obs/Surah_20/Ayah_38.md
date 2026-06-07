@@ -30,15 +30,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 إِذْ أَوْحَيْنَا إِلَىٰ أُمِّكَ مَا يُوحَىٰ (When We revealed to your mother what was to be revealed - 20:38) It means that the information given to the mother of Sayyidna Musa (علیہ السلام) was about a matter which could be learnt only through Divine revelation. This was that the Pharaoh's soldiers had orders to put to death all the male children belonging to the tribe of Bani Isra'il. She was told by means of a revelation that in order to save the life of her son she should put him in a box and float it down the river. She was re-assured not to entertain any apprehensions about his safety because Allah Ta’ ala would protect him and also return him to her. These are things which cannot be learnt by conjecture or guess work. The promise of Allah Ta` ala, and the divine scheme to save his life are beyond human conception and can be made known through Divine revelation only.
 
-The truth of the matter is that the literal meaning of the word وَحِی (Wahy) is a secret message which can be understood only by the person to whom it is addressed and by no one else.
+The truth of the matter is that the literal meaning of the word وَحِی (Wahy) is a secret message which can be understood only by the person to whom it is addressed and by no one else. According to this literal sense, the word وَحِی (Wahy) is not restricted to the prophets only and it can be used for people at large and even to animals. In the verse أَوْحَىٰ رَ‌بُّكَ إِلَى النَّحْلِ (16:68) the word has been used in its literal and general sense, i.e. instructing the bees by means of ; Wahy. Similarly in this verse أَوْحَيْنَا إِلَىٰ أُمِّكَ (20:38) the word has been used in its general meaning and this does not necessarily mean that she was a prophet. Sayyidah Maryam (علیہا السلام) also received Divine messages though the scholars unanimously hold the view that she was not a prophet. The Wahy of this type is made by means of a Divine inspiration (Ilham اِلھَام). Allah Ta'ala puts an idea into someone's heart and then confirms him in the belief that it is from Allah Ta` ala. Saints and other devout people receive such inspirations. Abu Hayyan and some other scholars hold that sometimes such inspirations can be made through angels as happened to Sayyidnh Maryam (علیہا السلام) when Jibra'il (علیہ السلام) appeared before her in the form of a human being and conveyed to her the will of Allah Ta` a1a. These inspirations (Ilham: اِلھَام), however, are specific to the person to whom they are made and are not meant for public or to be used for the propagation of the True Faith, whereas the Wahy which is revealed to the prophets aims at appointing someone to reform people and enjoining upon him to invite people to the True Faith. It is the duty of such a person not only to have complete faith in His Wahy himself, but also to bind others to accept his prophethood and the Wahy and to pronounce as infidels those who deny him.
 
 ## Tafsir Summary
 
@@ -117,3 +111,5 @@ The name of the mother of Sayyidna Musa (علیہ السلام)
 In Ruh ul-Ma` ani her name is given as Yuhanadh (یُحَانذ) and in Itqan it is said that her name was Lihyana daughter of Yasmad Ibn Lawi (لحیانہ بنت یصمد بن لاوی). Others say her name was Barkha ( (بَارخَا and still others say that it was Bazakht (بَازخت). Some people who dispense charms and amulets attribute strange properties to her name but according to Ruh u1-Ma` ani there is no basis for such a belief and probably it is nothing more than a hoax to entice innocent and ignorant people.
 
 ## Personal Reflections
+
+

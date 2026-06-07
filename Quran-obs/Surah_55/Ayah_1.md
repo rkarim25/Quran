@@ -10,17 +10,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Beneficent** (Ar-Rahman) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 On the basis of a few narratives Imam Qurtubi concluded that this Surah was revealed in Makkah, and he prefers this view. Tirmidhi records from Sayyidna Jabir ؓ that the Messenger of Allah ﷺ recited this Surah before some people who remained silent. The Holy Prophet ﷺ said:
 
 This narrative indicates that this Surah was revealed in Makkah, because 'the night of the Jinn' refers to the night when the Messenger of Allah ﷺ met the Jinns to convey to them the Message of the Qur'an and impart knowledge to them. This incident took place in Makkah. Likewise, Imam Qurtubi refers to a few more narratives which indicate that this Surah was revealed in Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ The second reason could be to indicate that teaching the Qur'an, which has been 
 In the entire Surah, Allah's bounties - worldly as well spiritual - are continuously recounted. The greatest of all bounties is the knowledge of the Holy Qur'an, because it is an all-comprehensive Book directing man in temporal and spiritual matters and in matters relating to this world and the next. Those who heeded the Holy Qur'an and fulfilled its right, like the blessed Companions, Allah raised their status in the Hereafter and blessed them with inconceivable bounties and favours. In this world too they are promoted to such high stations as the greatest of kings were not able to attain.
 
 ## Personal Reflections
+
+

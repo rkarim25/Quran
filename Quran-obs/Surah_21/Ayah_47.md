@@ -88,18 +88,6 @@ word_by_word:
     transliteration: ḥāsibīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-1-47 , the following themes have been discussed in particular : The objection of the disbelievers that a human being could not be a Messenger and therefore they could not accept Muhammad (peace be upon him) as a Prophet, has been refuted.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay, We gave the luxuries of this life to these men and their fathers until the period grew long for them. Weighing of actions on the Day of Judgment and the scales to be used for this purpose وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ (And We shall place scales to do justice on the Day of Judgment - 21:47) The مَوَازِین word is plural of مِیزان ، which means a scale.
@@ -201,3 +189,5 @@ Tirmidhi has reported through Sayyidah ` A'ishah ؓ that a man came to the Holy 
 1. The author has referred here to a long hadith in which it is mentioned that while reckoning a person's deeds, a card will be placed in the balance on which the kalimah لا إلہ إلا اللہ will be written. This card will weigh more than a heap of bad deeds. (Muhammad Taqi Usmani)
 
 ## Personal Reflections
+
+

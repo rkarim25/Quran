@@ -96,18 +96,6 @@ word_by_word:
     transliteration: jamīlan
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-In verse 49 a clause of the law of divorce has been laid down.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Some attributes and the special eminence of the Holy Prophet ﷺ have been mentioned in the preceding verse.
@@ -193,3 +181,5 @@ The third injunction is: (سَرِّ‌حُوهُنَّ سَرَ‌احًا جَ
 Only that person can honor the rights of the opponents during confrontation who can control his emotions and passions. All the teachings of Islam have laid due emphasis on this principle.
 
 ## Personal Reflections
+
+

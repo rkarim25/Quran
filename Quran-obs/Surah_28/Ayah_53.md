@@ -69,17 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
 
 (so write us down among the witnesses)(5:82-83). Sa'id bin Jubayr said, "This was revealed concerning seventy priests who were sent by An-Najashi (ruler of Ethiopia). When they came to the Prophet ﷺ, he recited to them:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -168,3 +160,5 @@ Is the word Muslim restricted to the Ummah of Muhammad ﷺ or it is common to al
 إِنَّا كُنَّا مِن قَبْلِهِ مُسْلِمِينَ (And we are the ones who submitted (to it) even before it (was revealed) - 28:53). The word used by these people of the book for their submission is 'muslims' which may also be translated as ` We were Muslims even before the revelation of Qur'an'. If the word Muslim is taken here in its literal meaning, submissive or obedient, then the meaning is quite clear that the faith they had in Qur'an and the Holy Prophet ﷺ ، because of their books, is referred here by the use of words Islam and Muslims in its literal sense of submission. But if the word 'Muslim' is taken in the same meaning in which it is regarded as appellation of the Ummah of Muhammad ﷺ ، then it will signify that the words 'Islam' and 'Muslim' are not restricted to Ummah of Muhammad ﷺ alone, but they are common to the Ummahs of all the prophets. But some verses of Qur'an suggest that words 'Islam' and 'Muslim' are special names of the Ummah of Muhammad ﷺ ، for example the assertion of Sayyidna Ibrahim I recorded by the Qur'an itself هُوَ سَمَّاكُمُ الْمُسْلِمِينَ (He named you as Muslims - 22:78). ` Allamah Suyuti favours this course of argument and has written a book on the subject in support or his contention. He has explained this verse advocating that the word Muslimin is used here in the sense that` we were ready and prepared to accept Islam even before'. If one looks at the issue deeply, there is no conflict in the two versions; it is possible that Islam is the common attribute of the religion of all the prophets in its literal sense, and at the same time it is a special appellation of the Ummah of Muhammad ﷺ . It is like the appellations of Siddiq and Faruq that are exclusive for Abu Bakr and ` Umar ؓ in the context of Ummah of Muhammad ﷺ but otherwise these words can apply to anyone else also falling within the scope of their attributive meaning.
 
 ## Personal Reflections
+
+

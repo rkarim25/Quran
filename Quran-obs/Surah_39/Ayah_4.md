@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -189,3 +181,5 @@ And Allah tells us that the angels in the heavens, those who are close to Him an
 The first sentence of verse 4: لَّوْ أَرَ‌ادَ اللَّـهُ أَن يَتَّخِذَ وَلَدًا (Had Allah opted to have a son of His own) is a refutation of the allegation of those who said that angels were the progeny of Allah. The idea was false and absurd. Taking it on as a supposition of the impossible, it was said: If Allah Ta’ ala were to have, God forbid, any children, it goes without saying that it could not have happened without His intention and will, for it would have been impossible as children are not imposed on anyone - definitely not so in the case of Allah. Then, suppose He had the intention, in which case, everyone other than Him happens to have been created him, so He would have picked up one of them to be His progeny. Now, children have to be of the same genus as the father, and the created cannot be of the same genus as the creator, therefore, the intention to have progeny from the created becomes impossible.
 
 ## Personal Reflections
+
+

@@ -107,17 +107,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (from Allah, and you disbelieved in it?) meaning, 'what do you think that Allah will do to you if this Book that I have come to you with is actually revealed to me from Him in order that I convey it to you, and yet you disbelieve in it and deny it?'
 
 ((at the same time), a witness from among the Children of Israel has testified to something similar) meaning, 'the previous Scriptures that were revealed to the Prophets before me all testify to its truthfulness and authenticity. They have prophecied, well in advance, about things similar to that which this Qur'an informs of.' Concerning Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -252,3 +244,5 @@ This verse does not name any particular scholar of Bani Isra'iil, nor does it sp
 The statement by Sayyidna Sa'd ؓ reported in some narrations of Bukhari, Muslim and Nasa'i, that this verse was revealed about Sayyidna ` Abdullah Ibn Salam ؓ and the same statement from Ibn ` Abbas ؓ ، Mujahid , Dahhak, Qatadah , etc. is not against this verse being Makki, as in this case, it will be a prophecy for the future. (IbnKathir)
 
 ## Personal Reflections
+
+

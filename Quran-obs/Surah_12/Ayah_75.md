@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-ẓālimīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "By Allah! The answer given was: قَالُوا جَزَاؤُهُ مَن وُجِدَ فِي رَ‌حْلِهِ فَهُوَ جَزَاؤُهُ ۚ كَذَٰلِكَ نَجْزِي الظَّالِمِين ، that is, the brothers of suf said: ` It's punishment is that he, in whose baggage it is found, shall him-self be the punishment.
@@ -131,3 +119,5 @@ The answer given was: قَالُوا جَزَاؤُهُ مَن وُجِدَ فِ
 The sense of the statement is that the punishment for theft in the Shari` ah of Sayyidna Ya` qub11 allowed the person whose property had been stolen to take the thief as his slave. Thus, the state functionaries made the brothers of Sayyidna Yusuf (علیہ السلام) to tell them the punishment of a thief as in Jacobian law and thereby had them committed to hand over Benyamin to Sayyidna Yusuf (علیہ السلام) according to their own decision following the recovery of the stolen goods from Benyamin's baggage.
 
 ## Personal Reflections
+
+

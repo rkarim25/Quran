@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-baladi
 ---
 
-## Context
-
-To understand **The City** (Al-Balad) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Balad is a **Makkah** surah—revealed as the 35th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَأَنتَ حِلٌّ بِهَـٰذَا الْبَلَدِ (and [ 0 Holy Prophet,] you are going to be allowed to fight in this city....90:2).
@@ -307,3 +295,5 @@ This is the end of the Tafsir of Surat Al-Balad, and all praise and blessings ar
 وَأَنتَ حِلٌّ بِهَـٰذَا الْبَلَدِ (and [ 0 Holy Prophet,] you are going to be allowed to fight in this city....90:2). The word hillun bears two possibilities: [ 1] It could be derived from hulul which signifies to reside in or to descend on some place. In this sense, hillun signifies 'a dweller or resident' and the verse purports to say that the city of Makkah itself is sacred, and since Holy Prophet Muhammad ﷺ is the inhabitant of this city, it adds to the sanctity, honour and glory of the place. Thus, on account of the Holy Prophet's ﷺ residing in that city its honour and sanctity has been enhanced and augmented. The second possibility is that it is derived from hillatun which means 'the thing the doing of which is lawful'. From this point of view, hillun could signify one of two things: One that the pagans of Makkah consider it lawful to do the Holy Prophet ﷺ any harm, even to kill him, in this City of Makkah which is so sacred that the doing of harm to a living creature in its precincts, not to say of killing it or hunting it, is strictly forbidden even according to their own belief system. Secondly, this may be a prophecy that the city of Makkah is going to be made lawful for the Holy Prophet in the sense that fighting in it will be allowed for him for a specified time, and He will alight in this City of Makkah, as it happened on the occasion of the Conquest of Makkah. On this occasion, all the injunctions and ordinances of the حرم Haram were suspended for one day, and it was made lawful to kill the disbelievers. Mazhari cites three possible meanings, and says that all three of them are equally possible.
 
 ## Personal Reflections
+
+

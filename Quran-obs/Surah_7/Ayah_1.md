@@ -8,18 +8,6 @@ word_by_word:
     transliteration: alif-lam-meem-sad
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal subject of this surah is "invitation to the Divine Message sent down to Muhammad" (Allah's peace be upon him), which is couched in a warning.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. An overview of the Surah shows that most of the subjects it deals with are related to Ma` ad (Return to the Hereafter) and Risalah (Prophethood).
@@ -87,3 +75,5 @@ Commentary
 An overview of the Surah shows that most of the subjects it deals with are related to Ma` ad (Return to the Hereafter) and Risalah (Prophethood). The former appear from the beginning of the Surah upto approximately the end of the sixth section. Then, from the eighth to the twenty first sections, there is a detailed description of past prophets, events about their communities, their reward and punishment and the punishment which overtook them.
 
 ## Personal Reflections
+
+

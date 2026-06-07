@@ -104,18 +104,6 @@ word_by_word:
     transliteration: shadīdin
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I exhort you to one (thing) only, that you stand up for Allah's sake in pairs and singly, and reflect, there is no madness in your companion. Call to the disbelievers of Makkah In verse 46: إِنَّمَا أَعِظُكُم بِوَاحِدَةٍ (I advise you for one thing only), in order to negate any excuse for the people of Makkah, they have been shown a shortcut to ascertain truth.
@@ -185,3 +173,5 @@ Now, think hard with an open mind as to which of the two things is the real thin
 And when the absence of the first situation becomes clear, the second situation stands established that has been mentioned in the last sentence of this very verse (46) as: إِنْ هُوَ إِلَّا نَذِيرٌ‌ لَّكُم بَيْنَ يَدَيْ عَذَابٍ شَدِيدٍ (He is none but a warner to you in the face of a stern torment). It means that his presence among them signifies nothing but that he has been sent there to save people from the severe punishment of the Day of Judgment by warning them of it in advance.
 
 ## Personal Reflections
+
+

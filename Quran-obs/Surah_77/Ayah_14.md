@@ -26,15 +26,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Emissaries** (Al-Mursalat) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 وَإِذَا الرُّ‌سُلُ أُقِّتَتْ (and when the messengers will be assembled at the appointed time, [ then all matters will be decided.] [ 77:11] ' The word uqqitat is derived from tauqit which primarily means 'appointment of time'. According to Zamakhshari, it signifies 'to arrive at an appointed time' [ as cited in Ruh ]. In this context, the second meaning appears to be more appropriate. The verse signifies that the appointed time for the Prophets and Messengers to assemble with their communities will arrive, so that all matters concerning them may be decided. The verses further describe the Day of Judgment as the great and horrible day and the Day of Decision. It shall be the day of destruction for the deniers and rejecters, thus:
 
 ## Personal Reflections
+
+

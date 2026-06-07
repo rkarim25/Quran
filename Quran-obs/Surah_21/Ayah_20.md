@@ -24,18 +24,6 @@ word_by_word:
     transliteration: yafturūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears. This point has been brought to a conclusion in the next verse by saying يُسَبِّحُونَ اللَّيْلَ وَالنَّهَارَ‌ لَا يَفْتُرُ‌ونَ , (They proclaim His purity night and day, never slackening - 21:20).
@@ -121,3 +109,5 @@ This point has been brought to a conclusion in the next verse by saying يُسَ
 Sayyidna ` Abdullah Ibn Harith ؓ عنہ said that he asked Ka` b al-Abbar ؓ how it was that angels kept reciting tasbih (proclaiming Allah's purity) all the time. Did they not have anything else to do? And if they did how could they do both things simultaneously, that is reciting tasbih and do other things. To this Ka'b replied "0 my nephew! Does performance of any of your jobs prevent you from breathing?" The truth is that tasbih comes to angels just as breathing comes to human beings which continues without stopping whatever else he may be doing.(Qurtubi, Al-Bahr ul-Muhit)
 
 ## Personal Reflections
+
+

@@ -12,18 +12,6 @@ word_by_word:
     transliteration: fa-andhir
 ---
 
-## Context
-
-To understand **The Cloaked One** (Al-Muddaththir) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The first seven verses of this Surah belong to the earliest period at Makkah. Even according to some traditions which have been related in Bukhari, Muslim, Tirmidhi, Musnad Ahmad, etc., on the authority of Hadrat Jabir bin Abdullah, these are the very earliest verses of the Qur'an to be revealed to the Holy Prophet (upon whoa be peace). But the Muslim Ummah almost unanimously agreed that the earliest Revelation to the Holy Prophet (upon whom be peace) consisted of the first five verses of Surah Al-Alaq(XCVI) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. قُمْ فَاَنْذِرْ (stand up and warn...74:2) 'Stand up' could be taken in its primary sense.
@@ -171,3 +159,5 @@ Injunction [ 1]
 قُمْ فَاَنْذِرْ (stand up and warn...74:2) 'Stand up' could be taken in its primary sense. It will mean: 'Remove the additional clothes in which you have wrapped yourself. It is also not unlikely that 'stand up' means 'Prepare yourself for the onerous task of reforming the creation of Allah'. The command fa-andhir (and warn) comes from the infinitive indhar (warning) which is based on love and affection', such as a father's warning his children against the dangers of a snake, scorpion or fire. The Prophets proclaim the Divine Message and warn its rejecters of the evil consequences of rejection. Therefore, they have received the titles of nadhir and bashir. 'Nadhir' means 'the one who affectionately and endearingly warns [ people ] against harmful things' and 'Bashir' refers to 'the one who gives glad tidings'. The Qur'an has conferred both the titles on the Holy Prophet and the Holy Book is replete with them. Here, however, the Qur'an takes it as sufficient to mention indhar 'to warn' because at the time of revelation of this verse there were only a handful of Muslims. The rest of the people were all rejecters and disbelievers. They needed to be warned and did not merit glad tidings.
 
 ## Personal Reflections
+
+

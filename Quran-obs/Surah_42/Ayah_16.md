@@ -79,18 +79,6 @@ word_by_word:
     transliteration: shadīdun
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who dispute concerning Allah, after it has been accepted, of no use is their dispute before their Lord and on them is wrath, and for them will be a severe torment (16)It is Allah Who has sent down the Book in truth, and the Balance.
@@ -188,3 +176,5 @@ In the previous verses, all the people of the whole world had been invited towar
 The Noble Qur'an has warned these people that the explanations and proofs in favour of Islam and Qur'an have been fully provided to you, and your own sensible and fair minded people, having accepted them, have embraced Islam, and now their argumentation is nothing but falsehood and misguidance. If they do not accept it, then divine punishment will visit them. This warning is followed by the statement that the Qur'an is from Allah and contains comprehensive commandments regarding Allah's rights and the rights of the human beings between one another.
 
 ## Personal Reflections
+
+

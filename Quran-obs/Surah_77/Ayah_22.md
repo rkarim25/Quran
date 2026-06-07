@@ -16,18 +16,6 @@ word_by_word:
     transliteration: maʿlūmin
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We pla… ثُمَّ نُتْبِعُهُمُ الْآخِرِ‌ينَ (Then We will cause the later ones to follow them....77:17) According to popular reading, Verse 17 purports to say that the present-day infidels, the people of Makkah, will receive punishment soon.
@@ -93,3 +81,5 @@ Allah says,
 ثُمَّ نُتْبِعُهُمُ الْآخِرِ‌ينَ (Then We will cause the later ones to follow them....77:17) According to popular reading, Verse 17 purports to say that the present-day infidels, the people of Makkah, will receive punishment soon. They were punished and destroyed by Muslims in the Battle of Badr and so on. The difference between the punishment of former nations and the community of the Holy Prophet ﷺ is as follows: The former nations used to be destroyed by celestial punishment with all their habitations. The infidels in the community of the Holy Prophet ﷺ do not receive celestial punishment, because of the Holy Prophet's ﷺ special honour. They are punished by the weapons of Muslims. Furthermore, the destruction is not general. Only the obdurate criminal leaders are destroyed.
 
 ## Personal Reflections
+
+

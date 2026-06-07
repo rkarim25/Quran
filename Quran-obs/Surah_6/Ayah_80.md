@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -272,3 +264,5 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 2. The second guidance concerns the manner in which truth has to be presented. The example is that Sayyidna Ibrahim (علیہ السلام) did not address his people directly asking them to do what had to be done. Rather than say something in the mode of an order, he simply told them about how he felt in this matter. He said that he could not declare things which were helplessly involved in a cycle of rising and setting as objects of worship. For this reason, he told them, he had turned to the Being that is the creator, nurturer and caretaker of all these things. Of course, the purpose was to bring them round to do the same. But, in his wise way, he abstained from a direct address lest they become totally uncompromising by opposing the suggestion just for the sake of opposition. This tells us that the job of a reformer and preacher is not to go ahead and tell what is true in just about any way. Instead of doing something like that, he is bound to say it in a manner which would produce the desired effect on his listeners.
 
 ## Personal Reflections
+
+

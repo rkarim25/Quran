@@ -115,15 +115,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you are in doubt about the correctness of that which I have been sent with the Hanif (monotheism) religion - the religion which Allah has revealed to me – then know that I do not worship those whom you worship besides Allah. Rather, I worship Allah alone, ascribing no partners to Him. He is the One Who causes you to die just as He gives you life. Then, unto Him is your final return. If the gods that you call upon are real, I still refuse to worship them. So call upon them and ask them to harm me, and you will see that they can bring no harm or benefit. The only One Who holds the power of harm and benefit in His Hand is Allah alone, Who has no partners.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -264,3 +256,5 @@ Thus, Sayyidna Yunus علیہ السلام was alerted to that slip, and later o
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
 
 ## Personal Reflections
+
+

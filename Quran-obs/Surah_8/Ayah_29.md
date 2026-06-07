@@ -80,18 +80,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The previous verse mentioned property and children as being a trial for mortal man because these are things the concern and love for which make one so overtaken that one would usually turn heedless towards Allah, the Creator and 'Akhirah, the life-to-come - though, the rational demand of this great blessing was that one should have shown a far pronounced tilt towards Him because of this favour.
@@ -135,3 +123,5 @@ The second blessing received in return for practicing Taqwa is the Kaffarah of S
 At the end of the verse (29), it was said: وَاللَّـهُ ذُو الْفَضْلِ الْعَظِيمِ (And Allah is the Lord of great bounty). By saying that Allah is limitless in His grace and favour, the hint given is that the return of a deed follows the measure of that deed. Here too, the good return mentioned as being the reward of Taqwa in three things comes as recompense or return but, Allah Ta` ala is the master-dispenser of great grace and favour. When He gives, He is not bound by any measure, nor can anyone estimate or guess His favour and reward. Therefore, for those who take to Taqwa as their style of life, much greater hopes should be entertained from the grace and reward of Allah Ta'ala in things other than the three mentioned earlier.
 
 ## Personal Reflections
+
+

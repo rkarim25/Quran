@@ -20,18 +20,6 @@ word_by_word:
     transliteration: kal-qaṣri
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (It will be said to the disbelievers): "Depart you to that which you used to deny! إِنَّهَا تَرْ‌مِي بِشَرَ‌رٍ‌ كَالْقَصْرِ كَأَنَّهُ جِمَالَتٌ صُفْرٌ‌ ‌ (It emits sparks [ as huge ] as castles...77:32) The word gasr means a 'huge, magnificent castle'.
@@ -121,3 +109,5 @@ Then Allah says,
 إِنَّهَا تَرْ‌مِي بِشَرَ‌رٍ‌ كَالْقَصْرِ كَأَنَّهُ جِمَالَتٌ صُفْرٌ‌ ‌ (It emits sparks [ as huge ] as castles...77:32) The word gasr means a 'huge, magnificent castle'. The word jimalah is used in the sense of jamal, and means 'camel'. The word sufr is the plural of asfar which means 'yellow'. The verse describes the fire of Hell. It will emit such huge sparks of fire, as if they were huge and magnificent castles. Then they will break up into little splinters, as if they were yellowish camels. Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness. [ Ruh ].
 
 ## Personal Reflections
+
+

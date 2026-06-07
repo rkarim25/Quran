@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-ʿalīmu
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-13-24 In these verses, a graphic scene of the life in the Hereafter has been depicted in order to warn the disbelievers of the consequences of the rejection of the Articles of Faith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "To whom belongs all that is in the heavens and the earth?" Say: "To Allah." He has prescribed mercy for Himself. The word, ` sukun' appearing in verse 13: وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ‌ (And to Him belongs what finds rest in the night and the day) could either mean the state of being still or at rest, in which case, the verse would mean that Allah is the Master of everything present in the night and the day.
@@ -151,3 +139,5 @@ The meaning here is, I will not take a guardian except Allah, without partners, 
 The word, ` sukun' appearing in verse 13: وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ‌ (And to Him belongs what finds rest in the night and the day) could either mean the state of being still or at rest, in which case, the verse would mean that Allah is the Master of everything present in the night and the day. Or, it is also possible that the sense could be that of a combined state of stillness and movement (which would amount to saying - what tarries and what moves), but what was mentioned here is the state of sukun or rest only - because, movement which stands in contrast to it can be understood as being obvious enough.
 
 ## Personal Reflections
+
+

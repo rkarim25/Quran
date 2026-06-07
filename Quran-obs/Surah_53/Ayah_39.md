@@ -30,15 +30,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Star** (An-Najm) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ However, only Imam Shafi` i (رح) differs on this issue. He says that the rewar
 The foregoing verses have elaborated on two issues with reference to the scriptures of Prophets Musa and Ibrahim (علیہما السلام) [ 1] No one will bear the burden of another's sin and punishment; and [ 2] No one shall be freed of his Shar’ i obligations, unless he himself performs them. These two rules of law were available in the Shari’ ah of all the Prophets. However, they are especially mentioned in relation to Musa and Ibrahim (علیہما السلام) probably because in their days an evil custom had taken deep root that the son used to be killed instead of the father; and father, brother, sister or some other member of the family used to be killed instead of the son. The Shari’ ah of these prophets abolished all the evil customs of the Dark Age.
 
 ## Personal Reflections
+
+

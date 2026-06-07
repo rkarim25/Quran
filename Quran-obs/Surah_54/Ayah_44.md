@@ -26,17 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Moon** (Al-Qamar) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari also recorded that Yusuf bin Mahak said, "I was with the Mother of the faithful, 'A'ishah, when she said, 'When I was still a young playful girl in Makkah, this Ayah was revealed to Muhammad ﷺ,
 
 The word زُبُر zubur (in verse 43) is the plural of zabur, which stands for any written book. It specifically refers to the Scripture that was revealed to Prophet Dawud (علیہ السلام) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -107,3 +99,5 @@ The word زُبُر zubur (in verse 43) is the plural of zabur, which stands for
 In the phrase مَقْعَدِ صِدْقٍ maq` adi-sidqin, the word maq'ad means 'seat' and the word sidq means 'truth' and implies the 'seat of truth' where there will be no idle and obscene talks.
 
 ## Personal Reflections
+
+

@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah tells us that on the Day of Resurrection, he will call each people to account by its Imam. The scholars differed as to the meaning of this (i.e. Imam. Mujahid and Qatadah said that it meant each nation would be called to account by its Prophet. Some of the Salaf said this is the greatest honor for the people of Hadith, because their leader is the Prophet ﷺ. Ibn Zayd said it means they would be called to account by their Book which was revealed to their Prophet with its laws. This was also the view favored by Ibn Jarir. Ibn Abi Najih narrated that Mujahid said, "With their Books." It may be that what is meant here is what Al-'Awfi narrated from Ibn 'Abbas concerning this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -157,3 +149,5 @@ As it appears from several verses of the Holy Qur'an, only disbelievers will be 
 How the book of deeds will be given in the right or the left hand is something not mentioned in the Holy Qur’ an. But, the expression: تَطَاٰیُرُالکُتُبِ - (causing the books fly) has appeared in some Ahadith (reported by Ahmad on the authority of Sayyidah ` A'ishah ؓ ' ascending to the Holy Prophet ﷺ . And in some narrations of Hadith, it appears that all books of deeds will be there at one place under the ` Arsh (Throne). Then a wind will blow and cause these to fly and reach the hands of people in a manner that some will get it in their right hand and some others in the left. (Reported by al-` Uqaili on the authority of Sayyidna Anas ؓ ascending to the Holy Prophet ﷺ) (Bayan al-Qur'an from Ruh al-Ma’ ani)
 
 ## Personal Reflections
+
+

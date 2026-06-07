@@ -58,18 +58,6 @@ word_by_word:
     transliteration: ṭahūran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And it is He Who sends the winds as heralds of glad tidings, going before His mercy; and We send down pure water from the sky (48)That We may give life thereby to a dead land, and We give to drink thereof many of the cattle and men that We have created (49)And indeed We have distributed it among them in order that they may remember the grace of Allah, but most men refuse (out of) gratitude (50) Allah sends the winds as heralds of glad tidings, i.e., they bring the clouds behind them. وَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً طَهُورً‌ا (And We have sent down purifying water from the heavens - 25:48).
@@ -137,3 +125,5 @@ Allah sends the winds as heralds of glad tidings, i.e., they bring the clouds be
 When the water is in large quantity as in the case of a pond, pool or a canal, it remains pure even if something filthy has fallen in it. On this point also there is a general consensus, unless the effect of filth is perceptible and the colour, taste and smell of water changes. However, if the quantity of water is small and some filth drops in it, then there is a difference of opinion among the jurists (مُجتھدین) on the nature and quantity of filth as well as the quantity of water in which the filth falls. Details on this issue are described by Mazhari and Qurtubi in their commentaries and are also available in the books on Fiqh.
 
 ## Personal Reflections
+
+

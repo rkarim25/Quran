@@ -46,18 +46,6 @@ word_by_word:
     transliteration: nabiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-51-65 with a view to impress that Muhammad (Allah's peace be upon him) had brought the same way of Life that had been brought by the former Prophets but their followers had become corrupt and adopted wrong ways.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And mention in the Book, Musa. كَانَ مُخْلَصًا (Indeed he was a chosen one - 19:51) مُخْلَصً : means a person whom Allah Ta` ala has chosen for himself i.e.
@@ -129,3 +117,5 @@ Commentary
 Those among the followers of prophets who attain perfection are also granted a place of distinction, which makes them immune to committing sins and evil deeds through Divine dispensation. They remain in Allah's protection all the time.
 
 ## Personal Reflections
+
+

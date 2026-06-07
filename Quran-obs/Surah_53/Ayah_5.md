@@ -18,17 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Star** (An-Najm) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (Allah) revealed to His servant whatever He revealed (10)The heart lied not in what he saw (11)Will you then dispute with him about what he saw (12)And indeed he saw him at a second descent (13)Near Sidrat Al-Muntaha (14)Near it is the Paradise of Abode (15)When that covered the lote tree which did cover it (16)The sight turned not aside, nor it transgressed beyond the limit (17)Indeed he saw of the greatest Ssgns of his Lord (18)
 
 (And was at a distance of two bow lengths or less. So (Allah) revealed to His servant whatever He revealed.) Zirr said, "Abdullah narrated to us that Muhammad ﷺ saw Jibril having six hundred wings." Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -289,3 +281,5 @@ In short, Imam Ibn Kathir himself, on the basis of the statement of the Holy Pro
 The second incident of Holy Prophet's ﷺ seeing Jibra'il (علیہ السلام) is mentioned in Verse 13 and 14 of this Surah in the following words: وَلَقَدْ رَ‌آهُ نَزْلَةً أُخْرَ‌ىٰ ﴿13﴾ عِندَ سِدْرَ‌ةِ الْمُنتَهَىٰ (And indeed he saw him another time [ 13] by sidrat-ul-muntaha (the lote-tree in the upper realm), [ 14] ". This verse mentions that the Holy Prophet ﷺ saw Jibra'il (علیہ السلام) for the second time, and this happened on the Night of Ascension (Mi` raj). On the basis of reasons stated above, the commentators generally adopt this interpretation. Ibn Kathir's arguments have just been put forward. Qurtubi, Abu Hayyan, Imam Razi and others normally prefer this interpretation. My mentor Maulana Ashraf Ali (رح) has also preferred this interpretation, the summary of which is that the earlier verses of Surah An-Najm which makes mention of ru'yah (seeing) does not refer to having a Vision of Allah, but of Jibra'il (علیہ السلام) . Nawawi, in his commentary on Muslim, and Hafiz in Fath-ul-Bari also have preferred this interpretation.
 
 ## Personal Reflections
+
+

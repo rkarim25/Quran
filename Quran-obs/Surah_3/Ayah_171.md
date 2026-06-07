@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 171, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 
 (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with Allah, delighted because of the bounty and happiness they are enjoying. They are also awaiting their brethren, who will die in Allah's cause after them, for they will be meeting them soon. These martyrs do not have fear about the future or sorrow for what they left behind. We ask Allah to grant us Paradise. The Two Sahihs record from Anas, the story of the seventy Ansar Companions who were murdered at Bir Ma'unah in one night. In this Hadith, Anas reported that the Prophet ﷺ used to supplicate to Allah in Qunut in prayer against those who killed them. Anas said, "A part of the Qur'an was revealed about them, but was later abrogated, 'Convey to our people that we met Allah and He was pleased with us and made us pleased.'"
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -261,3 +253,5 @@ Al-Suddi says that a شھید shahld is informed beforehand when one of his clos
 The background of the revelation of this verse as narrated by Abu Dawud on sound authorities from Sayyidna Ibn ` Abbas is as follows. The Holy Prophet said to the noble Companions: 'When your brothers-in-faith fell martyrs at the battle of Uhud, Allah Almighty placed their spirits in the bodies of green birds and set them free. They get their sustenance from the streams and fruit-trees of the Paradise following which they return to special candelabrums held suspending for them underneath the عرش 'throne' ('arsh) of the All-Merciful. When they noticed the luxury of their life there, they said, 'Can anyone tell them (their grieving friends and relatives in the world) about how we live here so that they stop grieving about us and go about striving in Jihad as we did.' Allah Almighty said, 'We shall let them know about this state of yours.' Thereupon, this verse was revealed (Qurtubi).
 
 ## Personal Reflections
+
+

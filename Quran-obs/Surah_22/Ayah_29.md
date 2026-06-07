@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-ʿatīqi
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That they may witness things that are of benefit to them, and mention the Name of Allah on appointed days, over the beast of cattle that He has provided for them. ثُمَّ لْيَقْضُوا (Then, they must remove their dirt - 22:29) The word تَفَث means dirt, which gathers on human body.
@@ -173,3 +161,5 @@ The word الْبَيْتِ الْعَتِيقِ lexically means 'liberated hous
 1. The other meaning of the word عَتِیق is 'ancient' which is adopted in the translation of the text. (Editor)
 
 ## Personal Reflections
+
+

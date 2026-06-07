@@ -122,18 +122,6 @@ word_by_word:
     transliteration: yakfurūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 To Him is the return of all of you. The fourth verse describes the ` Aqidah of 'Akhirah (Belief in the Hereafter) إِلَيْهِ مَرْ‌جِعُكُمْ جَمِيعًا (Towards Him is the return of you all).
@@ -171,3 +159,5 @@ Allah tells us that the return of the creatures on the Day of Resurrection is to
 The fourth verse describes the ` Aqidah of 'Akhirah (Belief in the Hereafter) إِلَيْهِ مَرْ‌جِعُكُمْ جَمِيعًا (Towards Him is the return of you all). The announcement is asserted by saying: وَعْدَ اللَّـهِ حَقًّا (a real [ and true ] promise from Allah). That it must be as promised has been explained through the simple logic of: إِنَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ (Surely, He originates the creation, then He will bring it again). The sentence is telling us that there is nothing surprising about it and that there is no sense in worrying about as to how this entire universe would start pulsating with life after it has been eliminated. The reason is that the Sacred Power who has the mastery to create something the first time, without any pre-existing matter and without any prototype of form and shape, should hardly find any difficulty in creating once again everything He had made then unmade.
 
 ## Personal Reflections
+
+

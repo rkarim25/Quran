@@ -69,17 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 193, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abu Al-'Aliyah said, "This was the first Ayah about fighting that was revealed in Al-Madinah. Ever since it was revealed, Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants. Later, Surat Bara'ah (chapter 9 in the Qur'an) was revealed." 'Abdur-Rahman bin Zayd bin Aslam said similarly, then he said that this was later abrogated by the Ayah:
 
 2. The second problem that bothered the noble Companions was about the month, which was Dhul-Qa'dah ذوالقعدہ ، being one of the four known as the 'sacred months' wherein fighting anyone anywhere was not permissible. Now, the Muslims thought if the disbelievers of Makkah started fighting against them how could Muslims fight a defensive battle during a 'sacred month'? The verse under reference (194) was revealed to answer this doubt. The answer is that, the way a state of defence grants an exception to observing the sanctity of the Haram of Makkah, in the same manner, it allows an exception to observing the sanctity of the 'sacred months' also.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -264,3 +256,5 @@ Commentary
 2. The second problem that bothered the noble Companions was about the month, which was Dhul-Qa'dah ذوالقعدہ ، being one of the four known as the 'sacred months' wherein fighting anyone anywhere was not permissible. Now, the Muslims thought if the disbelievers of Makkah started fighting against them how could Muslims fight a defensive battle during a 'sacred month'? The verse under reference (194) was revealed to answer this doubt. The answer is that, the way a state of defence grants an exception to observing the sanctity of the Haram of Makkah, in the same manner, it allows an exception to observing the sanctity of the 'sacred months' also.
 
 ## Personal Reflections
+
+

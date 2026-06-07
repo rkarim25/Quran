@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Tidings** (An-Naba) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance. His statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -211,3 +203,5 @@ Then he said, "They will continue increasing in torment forever."
 وَسُيِّرَ‌تِ الْجِبَالُ فَكَانَتْ سَرَ‌ابًا (and the mountains will be set in motion, so they will be as mirage....78:20). The word suyyirat 'set in motion' signifies that mountains, which are taken as an example of firmness and strength, will be shifted from their positions, and will become like little particles of dust flying about in the atmosphere. The word sarab literally means 'to disappear' and it also refers to 'mirage' or an optical illusion, as of a sheet of water, that sometimes appears in a desert, because it seems to be a sheet of water from a distance, but when a person comes near it, it disappears. [ Sihah and Raghib ].
 
 ## Personal Reflections
+
+

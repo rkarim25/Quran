@@ -124,15 +124,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Divorce** (At-Talaq) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Abi Hatim recorded a simpler narration than this one from Ubay bin Ka'b who said, "O Allah's Messenger! When the Ayah in Surat Al-Baqarah was revealed prescribing the 'Iddah of divorce, some people in Al-Madinah said, 'There are still some women whose 'Iddah has not been mentioned in the Qur'an. There are the young, the old whose menstruation is discontinued, and the pregnant.' Later on, this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -225,3 +217,5 @@ The words o (if you are in doubt) refer to the doubt or confusion such women may
 وَمَن يَتَّقِ اللَّـهَ يَجْعَل لَّهُ مِنْ أَمْرِ‌هِ يُسْرً‌ا (And whoever fears Allah, He brings about ease for him in his affair….65:4) The verse further speaks of the virtues and blessings of taqwa in that whoever has taqwa, Allah will make matters easy for him in this world as well as in the next world.
 
 ## Personal Reflections
+
+

@@ -60,17 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 133, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Has there not come to them the proof of that which is in the former papers (Scriptures)?) This means the Qur'an which Allah revealed to him while he was an unlettered man who could not write well and who did not study with the People of the Book. Yet, the Qur'an contains information about the people of the past that tells of their events from times long ago and it agrees with the authentic information in the previous Books concerning these matters. The Qur'an is the supervisor of these other Books. It verifies what is correct and explains the mistakes that were falsely placed in these Books and attributed to them. This Ayah is similar to Allah's statement in Surat Al-'Ankabut,
 
 (There was not any Prophet except that he was given signs that caused men to believe. That which I have been given is a revelation that Allah has revealed to me, so I hope that I have the most followers among them (the Prophets) on the Day of Resurrection.)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -169,3 +161,5 @@ This is the end of the Tafsir of Surah Ta Ha, and all praise and gratitude is du
 أَوَلَمْ تَأْتِهِم بَيِّنَةُ مَا فِي الصُّحُفِ الْأُولَىٰ (Has there not come to them the manifestation of that which was contained in the earlier scriptures? - 20:133) It means that all the old Revealed Books such as the Torah, the Injil (Evangel) and the scriptures given to Sayyidna Ibrahim (علیہ السلام) bear a witness to the prophethood of the last Prophet Muhammad ﷺ . Is not all this sufficient evidence for those who persist in their denial of his prophethood?
 
 ## Personal Reflections
+
+

@@ -76,18 +76,6 @@ word_by_word:
     transliteration: yahtadūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But (the hoopoe) stayed not long, he said: "I have grasped which you have not grasped and I have come to you from Saba' with true news. I have found her and her people prostrating to the sun - 27:24 This shows that her people were star-worshippers and used to worship the sun.
@@ -175,3 +163,5 @@ This shows that her people were star-worshippers and used to worship the sun. So
 أَلَّا يَسْجُدُوا لِلَّـهِ الَّذِي يُخْرِ‌جُ الْخَبْءَ (that is, they do not prostrate to Allah who bring forth what is hidden - 25).This sentence is linked with the previous one, "The Shaitan has beautified their deeds - 26" and the sense is that the Shaitan had engrained in their minds that they should not bow down before Allah, or had prevented them from the righteous path so that they should not prostrate before Allah Ta’ ala.
 
 ## Personal Reflections
+
+

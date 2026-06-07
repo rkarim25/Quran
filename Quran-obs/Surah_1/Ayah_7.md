@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-ḍālīna
 ---
 
-## Context
-
-To understand **The Opener** (Al-Fatihah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fatihah is a **Makkah** surah—revealed as the 5th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Surah Al-Fatihah is one of the very earliest Revelations to the Holy Prophet. As a matter of fact, we learn from authentic traditions that it was the first complete Surah that was revealed to Muhammad (Allah's peace be upon him). Before this, only a few miscellaneous verses were revealed which form parts of Alaq, Muzzammil, Muddaththir, etc.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Guide us to the straight path (6)The way of those on whom You have granted Your grace, not (the way) of those who earned Your anger, nor of those who went astray), Allah says, 'This is for My servant, and My servant shal… Which 'path' is 'straight'?
@@ -1111,3 +1099,5 @@ The problems we have discussed above perplex many a mind. But the answer is esse
 6. Success in this world and in the Hereafter As we have said before, the prayer which the Holy Qur'an has chosen to recommend to everyone, in every situation and for everything one does, is the prayer for being guided in the straight path. Just as success in the Hereafter depends on taking the straight path which leads one to Paradise, in the same way, if you come to think about it, success in all worldly concerns too depends on keeping to the straight path -- that is, on using the means and methods which habitually lead to the attainment of one's goal. Conversely, a little reflection will reveal that failure is always due to having strayed from the straight path. In view of the need for the straight path in worldly and other worldly concerns both, this is the prayer which should constantly be on the lips and in the heart of a true Muslim -- never as an empty verbal exercise, but with a sincere intention and with the meaning of the words fully present in the mind. With Allah's help, the commentary on Surah Al-Fatihah ends here.
 
 ## Personal Reflections
+
+

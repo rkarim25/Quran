@@ -22,15 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rocky Tract** (Al-Hijr) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Who have made the Qur'an into parts.) meaning, they have split up the Books that were revealed to them, believing in parts of them and rejecting parts of them. Al-Bukhari reported that Ibn 'Abbas said,
 
-Muhammad bin Ishaq reported from Ibn 'Abbas that Al-Walid bin Al-Mughirah - holding a noble position among the people - rallied a group of Quraysh behind him when Al-Mawsim (the time for pilgrims to meet in Makkah for Hajj) had come. He said to them, "O people of Quraysh! The time of Al-Mawsim has come, and delegations of Arabs will come to you during this time. They will have heard some things about this companion of yours (meaning the Prophet ﷺ), so agree on one opinion, let there be no contradicting or denials of each other's sayings".
+Muhammad bin Ishaq reported from Ibn 'Abbas that Al-Walid bin Al-Mughirah - holding a noble position among the people - rallied a group of Quraysh behind him when Al-Mawsim (the time for pilgrims to meet in Makkah for Hajj) had come. He said to them, "O people of Quraysh! The time of Al-Mawsim has come, and delegations of Arabs will come to you during this time. They will have heard some things about this companion of yours (meaning the Prophet ﷺ), so agree on one opinion, let there be no contradicting or denials of each other's sayings". They said, "And you, O Abu 'Abd Shams, give us an opinion and we will say that." He said, "No, you make the suggestions and I will listen." They said, "We say he is a soothsayer." He said, "He is not a soothsayer." They said, "We say he is crazy." He said, "He is not crazy." They said, "We say he is a poet." He said, He is not a poet." They said, "We say he is a sorcerer." He said, "He is not a sorcerer." They said, "So what should we say?" He said, "By Allah, what he says is as palatable [to the average person] as something sweet, so you cannot say anything against it without it being obviously false. Therefore the most appropriate thing you can say is that he is a sorcerer." So they left having agreed upon that, and Allah revealed concerning them:
 
 ## Tafsir Summary
 
@@ -121,3 +115,5 @@ In verse 92, swearing by His Own sacred Being, Allah Ta’ ala has declared that
 The Sahabah ؓ asked the Holy Prophet ﷺ as to what it will be about. He said that it will be about saying: لا إله إلا اللہ (la ilaha illallah: there is no god worthy of worship but Allah). Al-Qurtubi, after reporting this narration in his Tafsir, has said: It means the fulfilling of this pledge practically as signified by the Kalimah Tayyibah: La ilaha illallah. A simple verbal statement is not what is desired here because, as for verbal attestation, that was done by the hypocrites (munafiqin) too. Hazrat al-Hasan al-Basri (رح) said: 'Iman (faith) does not become a living reality by taking on a particular style and form, and Din (religion) does not prosper by simply having the best of wishes for it. 'Iman is the name of that certitude which has been poured into the heart and which has been proved true by deeds. This is well illustrated by a Hadith from Sayyidna Zayd ibn Arqam in which the Holy Prophet ﷺ has been reported to have said: A person who says: لا إله إلا اللہ (la ilaha illallah : there is no god worthy of worship but Allah) with ikhlas (totally unalloyed sincerity) will definitely go to Jannah. People asked: Ya Rasul Allah, how is 'ikhlas' related to this Kalimah? He said: When this Kalimah stops a person from what has been prohibited by Allah as unlawful and impermissible, then, it is with 'ikhlas' (with sincerity in the absolute sense). (Qurtubi)
 
 ## Personal Reflections
+
+

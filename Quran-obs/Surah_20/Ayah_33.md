@@ -16,18 +16,6 @@ word_by_word:
     transliteration: kathīran
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs. كَيْ نُسَبِّحَكَ كَثِيرً‌ا وَنَذْكُرَ‌كَ كَثِيرً‌ا (So that we proclaim Your purity a lot and remember You a lot - 20:33, 34).
@@ -117,3 +105,5 @@ Good companions are a help in the better performance of worship and Dhikr (remem
 كَيْ نُسَبِّحَكَ كَثِيرً‌ا وَنَذْكُرَ‌كَ كَثِيرً‌ا (So that we proclaim Your purity a lot and remember You a lot - 20:33, 34). The advantage of making Sayyidna Harun a Wazir and a partner in prophethood would be that both of them together would be able to pray to Allah Ta` ala and glorify His name more often. Here the question may arise that a man by himself can also pray as often as he desires, so where was the need for a companion? The answer to this is that good companions and a conducive environment definitely contribute towards the better performance of worship and Dhikr. A person whose friends are negligent about Allah cannot devote himself to His worship with the same quality and quantity as the person who is fortunate to have the company of pious men and righteous friends devoted to Allah's worship and Dhikr.
 
 ## Personal Reflections
+
+

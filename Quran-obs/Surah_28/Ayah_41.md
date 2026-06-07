@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yunṣarūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Fir'awn said: "O chiefs! وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ‌ (And We had made them leaders who called (people) towards hell.
@@ -147,3 +135,5 @@ Allah tells us of Fir'awn's disbelief and wrongdoing, and how he falsely claimed
 وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ‌ (And We had made them leaders who called (people) towards hell. - 28:41). Allah Ta` ala had elevated the courtiers of the Pharaoh as leaders of their people, but these wrong-doers were busy inviting the people towards fire - jahannam. Most commentators have taken the expression ` invitation to fire' as a metaphor. That is, by fire the allusion is toward evil deeds that will result in burning in the fire of Jahannam. But according to the work of my respected teacher Sayyidna Maulana Sayyid Muhammad Anwar Shah Kashmiri a (رح) the reward of the Hereafter is the deed itself. One's deeds in this world will change their forms first in barzakh and then in mahshar. The righteous deeds will change into flowers and gardens and take the shape of the bounties of paradise; and the evil deeds will turn into snakes and scorpions, ultimately manifesting themselves in various types of torments. Therefore, if someone invites any one in this world toward evil and infidelity, he in fact is bidding him to go into the fire. Although these evils do not manifest themselves in this world as fire, yet in reality they are fire. Thus there is no metaphor in the verse, and it rests with its true meaning. If this course of argument is adopted in explaining the verses of Qur'an, then many of them will get rid of dependence on metaphors; and it will make the reading easy and straightforward. For instance, وَوَجَدُوا مَا عَمِلُوا حَاضِرً‌ا (And they will find what they did all there - 18:49) or مَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ خَيْرً‌ا يَرَ‌هُ. (Whoever does good to the measure of a particle will see it. 99:7)mmmm48
 
 ## Personal Reflections
+
+

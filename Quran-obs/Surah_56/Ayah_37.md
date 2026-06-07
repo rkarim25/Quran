@@ -12,18 +12,6 @@ word_by_word:
     transliteration: atrāban
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32… عُرُ‌بًا (...amorous to their husbands,...56:37).
@@ -291,3 +279,5 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 أَتْرَ‌ابً (...matching them in age...56:37) The word atrab is the plural of tirb, meaning 'a person of equal age who played together with his mate in dust'. The verse means that men and women will be made of equal ages in Paradise. Some narrations report that they will be about thirty-three years old. [ Mazhari ]
 
 ## Personal Reflections
+
+

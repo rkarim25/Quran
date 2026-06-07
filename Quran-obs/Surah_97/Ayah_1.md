@@ -27,15 +27,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Power** (Al-Qadr) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qadr is a **Makkah** surah—revealed as the 25th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Abi Hatim has reported from Mujhid (as mursal hadith) that the Messenger of Allah ﷺ was told about a mujahid [ warrior in the cause of religion ] from amongst the Children of Israel who carried weapons of war on his shoulders for a thousand months during which time he never laid down his arms. The Companions were amazed when they heard this. On that occasion, this Surah was revealed which describes that worship in the Night of Qadr granted to this Ummah exceeds by more than a thousand months of jihad persistently fought by that warrior. According to another narration of Mujahid cited in Ibn Jarir, a worshipper from among the Children of Israel used to worship Allah the whole night, and as soon as the dawn broke, he would arm himself and fight the whole day. This continued consecutively for a thousand months. This Surah was thus revealed. This shows the superiority of the Ummah of the Holy Prophet `, and that the Night of Qadr is a special characteristic of this ummah. [ Mazhari ].
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -248,3 +240,5 @@ All Heavenly Books were revealed in Ramadan
 Sayyidna Abu Dhar Ghifari ؓ narrates that the Messenger of Allah ﷺ said: "Holy Prophet Ibrahim's (علیہ السلام) Scriptures were revealed on 3rd of Ramadan; Torah was revealed on 6th of Ramadan; Injil was revealed on 13th of Ramadan; Zabur was revealed on 18th of Ramadan; and the Holy Qur'an was revealed on 24th of Ramadan." [ Mazhari ].
 
 ## Personal Reflections
+
+

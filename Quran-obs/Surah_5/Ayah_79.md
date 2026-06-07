@@ -48,13 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. That was because they disobeyed (Allah and the Messengers) and were ever transgressing (beyond the bounds)(78)They used not to forbid one another from the evil they committed. Vile indeed was what they used to do (79)You see many of them taking the disbelievers as their friends. Evil indeed is that which they have sent forward before themselves; for that (reason) Allah is wrath with them, and in torment they will abide (80)And had they believed in Allah, and in the Prophet and in what has been revealed to him, never would they have taken them as friends; but many of them are rebellious (81)
 
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. That was because they disobeyed (Allah and the Messengers) and were ever transgressing (beyond the bounds)(78)They used not to forbid one another from the evil they committed. Vile indeed was what they used to do (79)You see many of them taking the disbelievers as their friends.
+(And had they believed in Allah, and in the Prophet and in what has been revealed to him, never would they have taken them as friends.) meaning, had they sincerely believed in Allah, His Messenger and the Qur'an, they would not have committed the evil act of supporting the disbelievers in secret and being enemies with those who believe in Allah, the Prophet ﷺ and what was revealed to him,
 
 ## Tafsir Summary
 
@@ -161,3 +157,5 @@ Mentioned in the second verse (78) is the sad end of those from the Bani Isra'il
 In the last two verses (80, 81), the cultivation of deep friendship with disbelievers has been prohibited as its outcome is disastrous. It may also be indicative of the possibility that the deviation of Bani Isra'il was a result of their close friendly collaboration with disbelievers which may have affected their ways adversely and finally became the cause of their fall into the abyss.
 
 ## Personal Reflections
+
+

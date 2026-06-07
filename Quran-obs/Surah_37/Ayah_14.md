@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yastaskhirūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then ask them: "Are they harder to create, or those whom We have created?" Verily, We created them of a sticky clay (11)Nay, you wondered while they mock (12)And when they are reminded, they pay no attention (13)And when they see an Ayah (a sign) from Allah, they mock at it (14)And they say: "This is nothing but evident magic! As for reported proofs, their reaction is: وَإِذَا رَ‌أَوْا آيَةً يَسْتَسْخِرُ‌ونَ (And when they see a sign, they make a fun of it - 37:14).
@@ -99,3 +87,5 @@ They did and it was: أَإِذَا مِتْنَا وَكُنَّا تُرَ‌�
 Outwardly, this is a dismissive answer, as is usually given to rigid people. But, a little deliberation would reveal that it happens to be a full-fledged argument as well. Imam Razi has explained it in Tafsir Kabir. He says: By the rational proof of resurrection given earlier, it already stands established that the rising of human beings once again after death is not something impossible. Then, the rule is that the physical happening of anything rationally possible can be proved on the authority of the statement of someone who is harbinger of nothing but the truth. So, once this much is settled that rising again is possible, then, should some true prophet of Allah simply say thereafter: 'Yes, you shall definitely-rise again," this will be an absolute proof that the said event is bound to happen.
 
 ## Personal Reflections
+
+

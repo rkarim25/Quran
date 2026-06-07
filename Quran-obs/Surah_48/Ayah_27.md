@@ -122,18 +122,6 @@ word_by_word:
     transliteration: qarīban
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, for it deals with the great victory that Allah granted to the Holy Prophet and the Muslims in the form of the Truce of Hudaibiyah. Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed Allah shall fulfill the true vision which He showed to His Messenger in very truth. Recapitulation of the Event of Hudaibiyah When the Peace Treaty of Hudaibiyah was completed, it was decided that the Muslims would not enter Makkah that year, and would return to Madinah without performing ` Umrah.
@@ -255,3 +243,5 @@ In this verse Allah promises the Muslims that they will most definitely enter th
 This was necessary because the Jews of Khaibar always conspired with the disbelievers of Makkah against the Holy Prophet who was encircled by the Makkans from the South, and by the Jews of Khaibar from the North. Any possible battle with any of them would entail the danger from the backside. The Treaty of Hudaibiyah made the South safe for the Muslims, and they were able to conquer Khaibar on the North without any fear from their back. (Muhammad Taqi Usmani)
 
 ## Personal Reflections
+
+

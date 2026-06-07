@@ -81,17 +81,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Muhammad bin Ishaq narrated that Az-Zuhri, Muhammad bin Yahya bin Hibban, 'Asim bin 'Umar bin Qatadah, and Al-Husayn bin 'Abdur-Rahman bin 'Amr bin Sa'id bin Mu'adh said, "The Quraysh suffered defeat at Badr and their forces went back to Makkah, while Abu Sufyan went back with the caravan intact. This is when 'Abdullah bin Abi Rabi'ah, 'Ikrimah bin Abi Jahl, Safwan bin Umayyah and other men from Quraysh who lost their fathers, sons or brothers in Badr, went to Abu Sufyan bin Harb. They said to him, and to those among the Quraysh who had wealth in that caravan, 'O people of Quraysh! Muhammad has grieved you and killed the chiefs among you. Therefore, help us with this wealth so that we can fight him, it may be that we will avenge our losses.' They agreed." Muhammad bin Ishaq said, "This Ayah was revealed about them, according to Ibn 'Abbas,
 
 (they who are the losers.)" Mujahid, Sa'id bin Jubayr, Al-Hakam bin 'Uyaynah, Qatadah, As-Suddi and Ibn Abza said that this Ayah was revealed about Abu Sufyan and his spending money in Uhud to fight the Messenger of Allah ﷺ.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -158,3 +150,5 @@ The sense is that the way magnet pulls iron and amber pulls grass and in the lig
 And there is a large number of commentators who take الْخَبِيثَ al-khabith and الطَّيِّبِ at-tayyib in the general sense at this place, that is, pure and impure. Thus, pure would signify true believers and impure would mean the disbelievers. Given this approach, the verse would mean that through conditions mentioned above, Allah Ta` ala likes to make the pure distinct from the impure, that is, make a true believer distinct from a disbeliever and - as a consequence of which - true believers are gathered together in Jannah and the disbelievers, all of them at one place, into Jahannam.
 
 ## Personal Reflections
+
+

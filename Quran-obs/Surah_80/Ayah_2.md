@@ -18,15 +18,9 @@ word_by_word:
 
 ## Context
 
-To understand **He Frowned** ('Abasa) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah 'Abasa is a **Makkah** surah—revealed as the 24th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 42 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one of the great leaders of the idolators. So the Prophet ﷺ turned away from him (Ibn Umm Maktum) and faced the other man and said, "Do you think that there is a problem with what I am saying?" The man said, "No!" So it was about this that
 
-The Holy Prophet ﷺ disliked the intrusion, and showed his displeasure by turning aside from Sayyidth ` Abdullah Ibn Umm Maktum, thinking that he was a committed Muslim who frequently visited him, and therefore he could speak to him at another appropriate time. There was no religious loss in postponing the response to him. On the other hand, the Quraish leaders neither frequented the Holy Prophet's ﷺ company, nor could the Word of Allah be conveyed to them at any time. At that particular moment, they were listening to the Holy Prophet ﷺ ." discourse and there was hope that they would embrace the Islamic faith.
+The Holy Prophet ﷺ disliked the intrusion, and showed his displeasure by turning aside from Sayyidth ` Abdullah Ibn Umm Maktum, thinking that he was a committed Muslim who frequently visited him, and therefore he could speak to him at another appropriate time. There was no religious loss in postponing the response to him. On the other hand, the Quraish leaders neither frequented the Holy Prophet's ﷺ company, nor could the Word of Allah be conveyed to them at any time. At that particular moment, they were listening to the Holy Prophet ﷺ ." discourse and there was hope that they would embrace the Islamic faith. But if the conversation was rashly interrupted, apparently they would have been deprived of the faith. In view of this situation, the Holy Prophet showed adverse reaction by turning aside from` Abdul)-ah Ibn umm Maktum ؓ ، and continued his discourse with the Quraish leaders. When the assembly broke up, the verses of Surah ` Abas were revealed to record Allah's dislike for this attitude, and to give directions for future.
 
 ## Tafsir Summary
 
@@ -167,3 +161,5 @@ This attitude of the Holy Prophet ﷺ was based on ijtihad or 'an opinion based 
 عَبَسَ وَتَوَلَّىٰ (He [ the Holy Prophet ﷺ frowned and turned his face, 80:1). The word ` abasa means 'he frowned' and the word tawalla means 'he turned aside'. Since the reference here is to the Holy Prophet ﷺ who himself is addressed, the verbs should have been in the second person: 'you frowned and you turned aside'. But the Holy Qur'an on this occasion uses the third person in order to maintain the honour of the Holy Prophet ﷺ ، as if this attitude were shown by some other person, and in a subtle way it alludes to the point that what the Holy Prophet ﷺ did was not befitting his high status. Then the next sentence وَمَا يُدْرِ‌يكَ (and what could tell you? ...80:3) alludes to the fact that the Holy Prophet ﷺ was excusable, because it did not come to his attention that the Companion is asking something whose effect will be certain and the effect of conversation with others is dubious. The second sentence abandons the third person, and switches to the second person in order to maintain the honour of the Holy Prophet ﷺ . Had he not been addressed in second person at all, it might have created the impression that he is not addressed directly because of his unapproved conduct, which would have been an unbearable pain and grief for the Holy Prophet ﷺ . Just as the third person in the first statement is meant to show respect to him, the second person in the following sentence is also meant to honor and console him.
 
 ## Personal Reflections
+
+

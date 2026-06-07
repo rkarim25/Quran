@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 91, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (My case is not as you say. I have not brought what I have brought to you because I want your wealth or to be your leader or king. But Allah has sent me to you as a Messenger and has revealed to me a Book and has commanded me to bring you good news and a warning. So, I have conveyed to you the Messages of my Lord and have advised you accordingly. If you accept what I have brought to you, then this is your good fortune in this world and the Hereafter, but if you reject it, I shall wait patiently for the command of Allah until Allah judges between me and you.)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ A prophetic answer to hostile questions sounding absurd
 The questions asked and the demands made in these verses from the Holy Prophet ﷺ were virtually conditions on the fulfillment of which his antagonists were supposed to believe. These conditions are such that anyone who hears them would find them nothing but some sort of weird mockery and certainly a very absurd excuse for not believing. While having to respond to such questions, one becomes naturally angry and retorts in the same manner. But, the answer that Allah Ta’ ala taught His prophet ﷺ to give against their impertinent questions reported in this verse is something significant for everyone. Particularly so, for the leaders and reformers of the Muslim community who would do well to always remember it making it a regular feature of their work among people. Is it not that, in answer to all that, nothing was said about their lack of sense, nor mention was made of their hostile mischief, nor there was any verbal duel fought against them? Instead, the truth of the matter was made clear to them in very simple words. In effect, they were told: Perhaps, you think that a person who comes as a messenger of Allah should also be the possessor of all Divine powers and should be able to control everything. This is a mistaken notion. The duty of a Messenger of Allah ﷺ is only to convey the Divine message. It is a different matter that Allah would also send many miracles to prove the veracity of the mission of His apostles, prophets and messengers. But, that takes place exclusively with the power and under the control of Allah Ta’ ala. A rasul (messenger) is not given Divine powers. He is a human being and is never outside the framework of human power - except that Allah Ta` ala alone were to manifest His great subduing power to help him.
 
 ## Personal Reflections
+
+

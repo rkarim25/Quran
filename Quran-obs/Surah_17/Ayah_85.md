@@ -64,15 +64,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And they ask you concerning the Ruh (the spirit). Say: "The Ruh (the spirit) is one of the things, the knowledge of which is only with my Lord...") This context would seem to imply that this Ayah was revealed in Al-Madinah, and that it was revealed when the Jews asked him this question in Al-Madinah, although the entire Surah was revealed in Makkah. This may be answered with the suggestion that this Ayah may have been revealed to him in Al-Madinah a second time, after having previously been revealed in Makkah, or that he was divinely inspired to respond to their question with a previously-revealed Ayah, namely the Ayah in question.
 
-The first verse (85) appearing above carries a question posed by disbelievers about Ruh (soul, spirit) along with its answer that came from Allah Ta` ala. The word: اَلرُّوح (al-ruh) is used in the Arabic language and idiom, and in the Holy Qur'an as well, to convey several meanings. The well-recognized meaning taken from this word is common knowledge, that is, the soul on which depends life.
+The first verse (85) appearing above carries a question posed by disbelievers about Ruh (soul, spirit) along with its answer that came from Allah Ta` ala. The word: اَلرُّوح (al-ruh) is used in the Arabic language and idiom, and in the Holy Qur'an as well, to convey several meanings. The well-recognized meaning taken from this word is common knowledge, that is, the soul on which depends life. In the Holy Qur'an, this word has also been used for the archangel, Jibra'il al-Amin (علیہ السلام) (Gabriel, the Trust-worthy): " نَزَلَ بِهِ الرُّ‌وحُ الْأَمِينُ عَلَىٰ قَلْبِكَ " (The Trustworthy Spirit has brought it down upon your heart - ash-Shu` ra' 26:193, 194). It has also been used for Sayyidna ` Isa علیہ السلام (4:171), and Wahy (revelation - 40:15), and the Qur'an too: أَوْحَيْنَا إِلَيْكَ رُ‌وحًا مِّنْ أَمْرِ‌نَا (and We have revealed to you a spirit of Our command - 42:52).
 
 ## Tafsir Summary
 
@@ -171,3 +165,5 @@ The delegation returned and posed those three questions before the Holy Prophet 
 Investigative observations on the reality of Ruh (soul, spirit) and Nafs (self) have appeared earlier in this volume under verse 29 of Sarah al-Hijr: نَفَخْتُ فِيهِ مِن رُّ‌وحِي (I have blown into him of my spirit - 15:29). Presented with reference to Tafsir Mazhari, it makes the kinds of Ruh along with the reality of each sufficiently clear.
 
 ## Personal Reflections
+
+

@@ -114,18 +114,6 @@ word_by_word:
     transliteration: l-awalīna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We sent Nuh to his people, and he said: "O my people! In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22).
@@ -163,3 +151,5 @@ Allah tells us about Nuh, peace be upon him, whom He sent him to his people to w
 In the last benefit, ships and boats are also included, because they are also used in transportation وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ (And on them and on the boats you are transported - 23:22). All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 
 ## Personal Reflections
+
+

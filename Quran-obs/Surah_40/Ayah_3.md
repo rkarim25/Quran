@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-maṣīru
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of the Surahs that begin with Ha Mim Ibn 'Abbas, may Allah be pleased with him, said, "Everything has an essence and the essence of the Qur'an is the family of Ha Mim," or he said, "the Ha Mims." Mis'ar bin Kidam said, "They used to be called 'the brides'." All of this was recorded by the the Imam, great scholar, Abu 'Ubayd Al-Qasim bin Sallam, may Allah have mercy upon him, in his book Fada'il Al-Qur'an.
@@ -146,3 +134,5 @@ The expression: غَافِرِ‌ الذَّنبِ وَقَابِلِ التَّ
 The word: طَول (tawl) which follows immediately in: ذِي الطَّوْلِ (dhit-tawl) literally means vastness and being need-free. Then, it could also mean power or favor. (Mazhari)
 
 ## Personal Reflections
+
+

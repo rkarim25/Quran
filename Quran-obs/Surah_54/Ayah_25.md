@@ -43,15 +43,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Moon** (Al-Qamar) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust. This verse refers to the night when the angels came to Prophet Lut (علیہ السلام) in the shape of handsome young men, as a test from Allah for his people who were addicted to homosexuality. Prophet Lut (علیہ السلام) hosted his guests. The licentious people came to him from every direction, and the Prophet Lut (علیہ السلام) had to shut the door to protect his guests. They came during the night and tried to break the door down and scale the walls to come in. The immoral behaviour of his people distressed Prophet Lut (علیہ السلام) but when the guests revealed to him that they were angels and have been sent by Allah to inflict destructive punishment on his people, he felt comforted; they assured him that they will not be able to hurt them in any way.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -138,3 +130,5 @@ All these five nations were the strongest and resourceful. It was not possible f
 The forthcoming verses address the people of the time of the Prophet Muhammad ﷺ that they are not more powerful in terms of wealth, number and might than the people of Prophet Lut (علیہ السلام) the tribes of ` Ad and Thamud, Prophet Lut’ s علیہ السلام people and the people of Fir'aun. Then how are they sitting in a careless manner?
 
 ## Personal Reflections
+
+

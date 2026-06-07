@@ -81,15 +81,7 @@ word_by_word:
 
 ## Context
 
-To understand **Mary** (Maryam) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (What prevents you from visiting us more than you do?) Then this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -172,3 +164,5 @@ Sayyidna Anas Ibn Malik ؓ ، said after reciting this verse that it shows that 
 Some scholars have explained that mention of morning and the evening is a general expression, like day and night or east and west, which does not specify any particular time or place. Therefore, it means that they (Paradise dwellers) will get their provisions according to their choice at any time they like. (Only God knows best) (Qurtubi)
 
 ## Personal Reflections
+
+

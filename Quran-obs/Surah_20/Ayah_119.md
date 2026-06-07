@@ -28,18 +28,6 @@ word_by_word:
     transliteration: taḍḥā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 119, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm willpower (115)And (remember) when We said to the angels: "Prostrate yourselves to Adam." They prostrated themselves (all) except Iblis; he refused (116)Then We said: "O Adam! إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَ‌ىٰ (Here you are privileged that you will not be hungry nor will you be unclad, and you will not be thirsty, nor will you be exposed to sun - 118.) Four things needed for the existence of life will be provided in Paradise without asking or putting in any labour.
@@ -121,3 +109,5 @@ Al-Bukhari recorded that Abu Hurayrah said that the Prophet ﷺ said,
 إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعْرَ‌ىٰ (Here you are privileged that you will not be hungry nor will you be unclad, and you will not be thirsty, nor will you be exposed to sun - 118.) Four things needed for the existence of life will be provided in Paradise without asking or putting in any labour. One should not doubt that good taste of food will not be enjoyed because of the absence of hunger in Paradise. Similarly, it is incorrect to assume that one would not enjoy drinking cold water in Paradise because of lack of thirst. The reality is that hunger and thirst would not be felt in Paradise to the extent of feeling any difficulty. The food will be made available as and when one would desire, and the cold water will be provided immediately when one would like to drink. In fact everything will be provided the moment one would desire.
 
 ## Personal Reflections
+
+

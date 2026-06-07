@@ -74,17 +74,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 74, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan. Each one We made righteous (72)And We made them leaders, guiding by Our command, and We revealed to them the doing of good deeds, performing Salah, and the giving of Zakah, and of Us (Alone) they were the worshippers (73)And (remember) Lut, We gave him wisdom and knowledge, and We saved him from the town who practised Al-Khaba'ith. Verily, they were a people given to evil, and were rebellious (74)And We admitted him to Our mercy; truly, he was of the righteous (75)
 
 (and We revealed to them the doing of good deeds, performing Salah, and the giving of Zakah,) Here the general is followed by the specific.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -153,3 +145,5 @@ The name of the city from which Sayyidna Lut (علیہ السلام) was saved a
 تَّعْمَلُ الْخَبَائِثَ (21:74) خَبَائِثَ (Khaba'ith) is the plural of خَبِئیثَہ meaning wickedness. Too many wicked things collectively are called Khaba'ith (خَبَائِثَ ). Their most abominable practice in which even the animals do not indulge, was sodomy or homosexuality. It is possible that because of its extreme wicked nature this practice is referred to as خَبَائِثَ that is in plural instead of خَبِئیثَہ in singular, as some commentators have explained. The second explanation is that the people of Sodom also indulged in other bad habits such as drinking, singing, shaving off beard, growing moustaches, wearing silk clothes, stone throwing, whistling etc. (Ruh ul-Ma` ani).
 
 ## Personal Reflections
+
+

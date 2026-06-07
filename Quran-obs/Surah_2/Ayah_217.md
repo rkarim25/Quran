@@ -247,17 +247,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 217, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The people continued talking about this matter, then Allah revealed to His Messenger ﷺ:
 
 Ibn Ishaq went on: When 'Abdullah bin Jahsh and his companions were relieved from their depressing thoughts after the Qur'an was revealed about this subject, they sought the reward of the fighters (in Allah's way). They said, "O Messenger of Allah! We wish that this incident be considered a battle for us, so that we gain the rewards of the Mujahidin." Then, Allah revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -372,3 +364,5 @@ Here are some injunctions relating to the apostates:
 4. In short, the fate of an apostate is worse than that of an original disbeliever. This is why Jizyah جزیہ can be accepted from an original disbeliever while a male apostate who does not return to Islam is killed. If the apostate is a woman, she is imprisoned for life. The reason is that their conduct insults Islam and the insult of such a binding authority deserves no less a punishment.
 
 ## Personal Reflections
+
+

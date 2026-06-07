@@ -62,18 +62,6 @@ word_by_word:
     transliteration: ʿamīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "Do you wonder that there has come to you a Reminder from your Lord through a man from among you, that he may warn you, so that you may fear Allah and that you may receive (His) mercy? It was said: فَكَذَّبُوهُ فَأَنجَيْنَاهُ وَالَّذِينَ مَعَهُ فِي الْفُلْكِ وَأَغْرَ‌قْنَا الَّذِينَ كَذَّبُوا بِآيَاتِنَا ۚ إِنَّهُمْ كَانُوا قَوْمًا عَمِينَ ﴿64﴾ (Then, they belied him [ ignoring his good counsel totally ], so [ as a consequence ], we saved him, and those with him in the Ark, and drowned those who had belied Our signs.
@@ -131,3 +119,5 @@ Some narrations have given the detail that there were forty men and forty women 
 To sum up, the introduction of a brief account of Sayyidna Nuh (علیہ السلام) at this place aims to tell us three things: (1) That the da'wah of all past prophets and their basic articles of faith were one. (2) That Allah Ta` ala supports his appointed messengers in strikingly wondrous ways when they would not have the least danger to their security even after having been surrounded by a Flood rising as high as the peaks of mountains. (3) Then, it was made absolutely clear that belying the noble prophets of Allah, may peace be upon them, amounted to inviting Divine punishment. The warning is still valid. So, let it not be forgotten that the way past communities were overtaken by punishment because of their belying of the prophets, a similar fate could overtake their modern counterparts - on this count, they could do better by not becoming heedless and fear-free.
 
 ## Personal Reflections
+
+

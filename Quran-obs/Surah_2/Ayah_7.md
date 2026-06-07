@@ -54,18 +54,6 @@ word_by_word:
     transliteration: ʿaẓīmun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah has set a seal on their hearts and on their hearing, and on their eyes there is a covering. Favour withdrawn by Allah is a punishment These two verses tell us that the other world is the place where one would receive the real punishment for one's disbelief or for some of one's sins.
@@ -163,3 +151,5 @@ No. But what they did has rusted their hearts (83:14)
 which makes it plain that it is their arrogance and their evil deeds themselves that have settled do their hearts as a rust رَان . In the verse under discussion, it is this very rust which has been described as 'a seal' or 'a covering'. So, there is no occasion here to raise the objection that if Allah Himself has sealed their hearts and blocked their senses, they are helpless and cannot be held responsible for being disbelievers, and hence they should not be punished for what they have not themselves chosen to do. If we consider the two verses (2:7 and 83:14) together, we can easily see why they should be punished in adopting the way of arrogance and pride they have, willfully and out of their own choice, destroyed their capacity for accepting the truth, and thus they themselves are the authors of their own ruin. But Allah, being Creator of all the actions of His creatures, has in verse 2:7 attributed to Himself the setting of a seal on the hearts and the ears of the disbelievers, and has thus pointed out that when these people insisted, as a matter of their own choice, on destroying their aptitude for receiving the truth, Allah produced, as is His way in such cases, the state of insensitivity in their hearts and senses.
 
 ## Personal Reflections
+
+

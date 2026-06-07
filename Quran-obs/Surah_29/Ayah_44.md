@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spider** (Al-'Ankabut) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah created the heavens and the earth with truth. Verily, therein is surely a sign for those who believe (44)Recite what has been revealed to you of the Book, and perform the Salah. Verily, the Salah prevents from Al-Fahsha' (immoral sins) and Al-Munkar (evil deeds) and the remembering (praising) of Allah is greater indeed. And Allah knows what you do.) Allah tells us of His immense power, that He created the heavens and the earth with truth, meaning for a higher purpose than mere pla (45)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -119,3 +111,5 @@ Musnad of Ahmad has reproduced a narration of Sayyidna 'Amr Ibn Al-` As ؓ that 
 Sayyidna ` Amr Ibn Murrah ؓ has said that he felt very bad whenever he came across any such verse of the Holy Qur'an, which he could not understand, because Allah has said وَتِلْكَ الْاَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۚ وَمَا يَعْقِلُهَآ اِلَّا الْعٰلِمُوْنَ (And these examples We cite for people, and no one understands them except the knowledgeable). (Ibn Kathir).
 
 ## Personal Reflections
+
+

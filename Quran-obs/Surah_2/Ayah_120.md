@@ -136,15 +136,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 120, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These Ayat mean, "Those among the People of the Book who perfectly adhered to the Books that were revealed to the previous Prophets, will believe in what I have sent you with, O Muhammad!" Allah said in another Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -259,3 +251,5 @@ Now, supposing just for the sake of supposing that he should accept their fancie
 32. Let us add that the warning is apparently addressed to the Holy Prophet ﷺ ، but is really intended for deniers, the purpose being to make them realize the dire consequences of their vanity. In fact, divine wrath is already visible, for the warning has been administered to them, not directly but obliquely, which shows the contempt in which Allah holds them -- Translator ]
 
 ## Personal Reflections
+
+

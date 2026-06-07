@@ -31,17 +31,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Remember) when He covered you with a slumber as a security from Him, and He caused water (rain) to descend on you from the sky, to clean you thereby and to remove from you the Rijz (whispering or dirt) of Shaytan, and to strengthen your hearts, and make your feet firm thereby (11)(Remember) when your Lord revealed to the angels, "Verily, I am with you, so keep firm those who have believed. I will cast terror into the hearts of those who have disbelieved, so strike them over the necks, and smite over all their fingers and toes. (12)This is because they defied and disobeyed Allah and His Messenger. And whoever defies and disobeys Allah and His Messenger, then verily, Allah is severe in punishment (13)This is (the torment), so taste it; and surely, for the disbelievers is the torment of the Fire (14)
 
 ((Remember) when your Lord revealed to the angels, "Verily, I am with you, so keep firm those who have believed.")
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -206,3 +198,5 @@ In the third verse (13), it was said that the reason for whatever happened durin
 In other words, what is being said here is: This is a little punishment from Us. So, taste it and better realize that, after this, the punishment of the fire of Jahannam is due to come for disbelievers, a punishment which is severe, lasting and unimaginable.
 
 ## Personal Reflections
+
+

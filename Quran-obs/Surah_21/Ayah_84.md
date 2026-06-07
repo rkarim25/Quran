@@ -71,18 +71,6 @@ word_by_word:
     transliteration: lil'ʿābidīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 84, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Ayyub, when he cried to his Lord: "Verily, distress has seized me, and You are the Most Merciful of all those who show mercy. The story of Sayyidna Ayyub (علیہ السلام) is based mostly on Jewish legends.
@@ -146,3 +134,5 @@ Sayyidna Ibn Masud ؓ says that Sayyidna Ayyub (علیہ السلام) had seven
 Some scholars say that he was granted as many new children as he had before and the word مِثل (the like) refers to an equal number of grand children. (Only Allah knows best).
 
 ## Personal Reflections
+
+

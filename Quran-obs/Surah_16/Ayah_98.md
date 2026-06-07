@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-rajīmi
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 98, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So when you recite the Qur'an, seek refuge with Allah from Shaytan, the outcast (98)Verily, he has no power over those who believe and put their trust only in their Lord (99)His power is only over those who obey and foll… Emphasis was laid in previous verses over the fulfillment of the covenant with Allah following which stated there was the importance and desirability of acting righteously in one's life.
@@ -117,3 +105,5 @@ It also appears in Hadith that, before going to the toilet, saying:
 (Allahumma adhu bika minal-khubuthi wal-khabaith) 0 Allah, I seek protection with you from the foul and the impure is commendable (mustahabb). (Shami)
 
 ## Personal Reflections
+
+

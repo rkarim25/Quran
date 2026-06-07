@@ -36,18 +36,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 174, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? and subjected them to a terrible rain.
@@ -101,3 +89,5 @@ and subjected them to a terrible rain. So evil was the rain of those who were wa
 This verse has confirmed that if a man commits sodomy, he may be punished with throwing a wall on him or by throwing him down from a high place, as suggested by Hanafi scholars, because the people of Lut (علیہ السلام) were destroyed in a similar manner. Their township was lifted and thrown on the ground. (Shami Kitab Al-Hudud)
 
 ## Personal Reflections
+
+

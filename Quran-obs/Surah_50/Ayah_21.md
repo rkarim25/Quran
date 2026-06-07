@@ -29,18 +29,6 @@ word_by_word:
     transliteration: washahīdun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We have created man, and We know what his self whispers to him. Two Angels to Lead Man to the Plane of Hashr وَجَاءَتْ كُلُّ نَفْسٍ مَّعَهَا سَائِقٌ وَشَهِيدٌ (And everybody will come, along with one [ angel ] to drive [ him to the field of reckoning ] and one [ angel ] to testify [ about his deeds ] 50:21).
@@ -186,3 +174,5 @@ Two Angels to Lead Man to the Plane of Hashr
 Some scholars interpret Shahid as referring to man's action, and other scholars think that the reference is to man himself. Ibn Kathir opines that the apparent context of the verse indicates that Shahid is also an angel who will bear witness to man's actions. Sayyidna ` Uthman Ibn ` Affan ؓ whilst delivering a sermon recited this verse and said: "Sa` iq will drive every person to Allah, and Shahid will testify about what one has done." Interpreters like Sayyidna Mujahid, Qatadah and Ibn Zaid ؓ placed the same interpretation on the two names. Ibn Jarir has preferred this interpretation.
 
 ## Personal Reflections
+
+

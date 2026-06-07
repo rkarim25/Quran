@@ -54,18 +54,6 @@ word_by_word:
     transliteration: ḥāfiẓīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. وَمِنَ الشَّيَاطِينِ مَن يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَافِظِينَ (And from the devils, (We subjugated for him) those who dived in water for him and did jobs other than that.
@@ -207,3 +195,5 @@ These are ethereal beings made of fire, who possess intelligence and understandi
 It will be observed that while in the case of Sayyidna Dawad (علیہ السلام) Allah Ta` ala had made subservient to him things which are extremely hard and dense, like iron and mountains, Sulayman (علیہ السلام) was given mastery over things which are ethereal and cannot even be perceived e.g. wind and Jinn. This shows that He is omnipotent and that His authority extends over all created things. (Commentary by Ra'zi)
 
 ## Personal Reflections
+
+

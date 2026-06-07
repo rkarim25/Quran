@@ -62,18 +62,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A perusal of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He has created the heavens without any pillars that you see, and has set on the earth firm mountains lest it should shake with you. Verse 10 opens with the words: خَلَقَ السَّمَاوَاتِ بِغَيْرِ‌ عَمَدٍ تَرَ‌وْنَهَا (He has created the skies without the pillars that you may see).
@@ -139,3 +127,5 @@ Verse 10 opens with the words: خَلَقَ السَّمَاوَاتِ بِغَ�
 No matter what the option, the verse does point out to the particular sign of the perfect power of Allah Ta’ ala that He has made this extensive, high and magnificent roof in a way that no column and pillar is seen there-under.
 
 ## Personal Reflections
+
+

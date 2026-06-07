@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And it is not (right) for you that you should annoy Allah's Messenger,) "This was revealed concerning a man who wanted to marry one of the wives of the Prophet ﷺ after he died. A man said to Sufyan, 'Was it 'A'ishah?' He said, 'That is what they said.'"
 
 This was also stated by Muqatil bin Hayyan and 'Abdur-Rahman bin Zayd bin Aslam. He also reported with his chain of narration from As-Suddi that the one who wanted to do this was Talhah bin 'Ubaydullah, may Allah be pleased with him, until this Ayah was revealed forbidding that. Hence the scholars were unanimous in stating that it was forbidden for anyone to marry any of the women who were married to the Messenger of Allah ﷺ at the time when he died, because they are his wives in this world and in the Hereafter, and they are the Mothers of the believers, as stated previously.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Allah regarded that as a very serious matter, and issued the sternest of warning
 The issue of Hijab for women, out of the three injunctions in the above mentioned verse, needs some further elaboration which is being given below.
 
 ## Personal Reflections
+
+

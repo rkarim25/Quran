@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Have you not seen those who claim sanctity for themselves?) was revealed about the Jews and Christians when they said, 'We are Allah's children and His loved ones.'" Ibn Zayd also said, "This Ayah was revealed concerning their statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -227,3 +219,5 @@ Rulings:
 Literally, La'nah means being far removed from the mercy of Allah. In the terminology of the Shari’ ah, when applied to disbelievers, it refers to their being far far off from the mercy of Allah; and when it is applied to Muslims, it refers to their having fallen down the level of the righteous (reported by Shami from a1-Quhistani, v.2, p.836). Therefore, praying that the good deeds of a Muslim may decrease is also not permissible.
 
 ## Personal Reflections
+
+

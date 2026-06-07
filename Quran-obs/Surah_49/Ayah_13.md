@@ -91,17 +91,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rooms** (Al-Hujurat) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This verse was revealed on the occasion of the conquest of Makkah. When it was time for prayer, the Holy Prophet ﷺ asked Sayyidna Bilal ؓ to call the adhan. One of the pagan Quraish cynically remarked:
 
 Thank God that my father died before this happened, and he did not have to see this bad day. Harith Ibn Hisham remarked: Could Muhammad not find anyone better than this black crow to sound the adhan in the Sacred Mosque! Abu Sufyan said: I do not wish to utter anything for fear that the master of the heavens will inform him. Thus Jibra'il (علیہ السلام) came down and informed the Holy Prophet ﷺ about this conversation. The Holy Prophet ﷺ called them and asked them about it. They admitted. At this, the current verse was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -212,3 +204,5 @@ The Underlying Divine Wisdom is identification
 The Qur'an in this verse has made it clear that Allah has created all mankind from a single mother and a single father, and made them into a single brotherhood. But he has divided them into different tribes, nations, races, lineage and language-speakers/linguistic groups. The underlying Divine wisdom in such a division is mutual identification. For example, if there are two persons bearing the same name, they could be differentiated by family name. It can also show the near and remote relations. Their Shari rights can be fulfilled on the basis of near and distant lineage. It is incumbent to determine the near and remote agnate heirs when applying the law of succession or dividing the estate of a deceased. In short, reference to one's lineage for the purpose of identification is not deemed to be pride and conceit.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ʿasīrun
 ---
 
-## Context
-
-To understand **The Cloaked One** (Al-Muddaththir) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muddaththir is a **Makkah** surah—revealed as the 4th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 56 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The first seven verses of this Surah belong to the earliest period at Makkah. Even according to some traditions which have been related in Bukhari, Muslim, Tirmidhi, Musnad Ahmad, etc., on the authority of Hadrat Jabir bin Abdullah, these are the very earliest verses of the Qur'an to be revealed to the Holy Prophet (upon whoa be peace). But the Muslim Ummah almost unanimously agreed that the earliest Revelation to the Holy Prophet (upon whom be peace) consisted of the first five verses of Surah Al-Alaq(XCVI) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَلِرَبِّكَ فَاصْبِرْ ( and for the sake of your Lord, observe patience 74:7) The word sabr literally signifies 'to restrain oneself.
@@ -179,3 +167,5 @@ Injunction [ 6]
 Having given these few injunctions to the Holy Prophet, the verses further refer to the Hereafter and its horrors. The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'. After stating that the Day of Doom will be very horrible for all the infidels, a particular arrogant and conceited disbeliever has been described. He was a great mischief-maker and the gravity of his punishment will befit the enormity and gravity of his sins.
 
 ## Personal Reflections
+
+

@@ -58,18 +58,6 @@ word_by_word:
     transliteration: wamaṣīran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Is that better or the Paradise of Eternity which is promised to those who have Taqwa" It will be theirs as a reward and final destination (15)For them there will be therein all that they desire, and they will abide (therein forever). The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should not have been eating and drinking like common people; instead he should have been free from eating and drinking like angels.
@@ -103,3 +91,5 @@ Here Allah says: 'O Muhammad, this that We have described to you about the state
 The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should not have been eating and drinking like common people; instead he should have been free from eating and drinking like angels. And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living. Furthermore, how could he be accepted as a prophet when he is neither an angel nor does an angel accompany him to endorse what he preaches, therefore it appears that he has been charmed by someone which has turned his head and that is why he talks like this. A general answer to this objection is given in the verse انظُرْ‌ كَيْفَ ضَرَ‌بُوا لَكَ لِلْعَالَمِينَ at is (See how they coined similes for you, so they have gone astray and cannot find a way. - 25:9). The detailed answer to the objection is given in the next few verses.
 
 ## Personal Reflections
+
+

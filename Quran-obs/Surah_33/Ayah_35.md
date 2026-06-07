@@ -132,18 +132,6 @@ word_by_word:
     transliteration: ʿaẓīman
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-28-35 consists of two parts.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the Muslims: men and women, the believers: men and women, the Qanit: men and the women, the men and women who are truthful, the men and the women who are patient, the Khashi': men and the women, the men and the w… The Qur'anic addresses in masculine gender normally include women: The Wisdom behind it In the usual injunctions of the noble Qur'an, though, both men and women have been included as addressees, but generally the address is made to men.
@@ -303,3 +291,5 @@ What is the wisdom behind it? To begin with, it can be said that the Dhikr of Al
 Secondly, it is the easiest of all acts of ` Ibadah. The Shari'ah too has placed no condition for it. Be it with wudu' or without, be it lying, sitting, or walking, the Dhikr of Allah can be done at all times. It demands no hard labor from anyone nor does it require any formal free time. Yet, so great is the effect and benefit of the Dhikr of Allah that, through it, even worldly chores transform into worship and religious acts. The prayers that are made before and after eating, on going out and on coming back, before travel, in travel and on returning home, and before and after starting a business have all been taught to us by the Holy Prophet ﷺ . The outcome of this enormous, treasure of prophetic prayers is that no Muslim should do anything at any time while he or she may be heedless toward or negligent of Allah. And should one make it a point to recite these prayers as part of what he or she has to do in life and its work, then, dunya becomes deen, i.e. worldly duties start releasing the fragrance of faith, a wonderful experience indeed.
 
 ## Personal Reflections
+
+

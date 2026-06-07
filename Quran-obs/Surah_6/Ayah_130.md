@@ -121,15 +121,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 130, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And (remember) when We sent towards you a group of the Jinn, listening to the Qur'an. When they stood in the presence thereof, they said: "Listen in silence!" And when it was finished, they returned to their people, as warners. They said: "O our people! Verily, we have heard a Book sent down after Musa, confirming what came before it, it guides to the truth and to the straight way. O our people! Respond to Allah's caller, and believe in him. He (Allah) will forgive you your sins, and will save you from a painful torment (i.e. Hell-fire). And whosoever does not respond to Allah's caller, he cannot escape on earth, and there will be no helpers for him besides Allah. Those are in manifest error.)[46:29-32]
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -222,3 +214,5 @@ Qadi Thana'ullah Panipati has said that the Hindus of India claim the history of
 However, even if that original book and the authentic instructions left by those messengers were present, they would have stood abrogated after the appearance of the Holy Prophet LI and the universal application of his prophethood. And that it would have become impossible to act in accordance with it after its having been deformed and altered is something evident by itself.
 
 ## Personal Reflections
+
+

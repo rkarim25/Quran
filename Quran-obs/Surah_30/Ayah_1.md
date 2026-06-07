@@ -10,15 +10,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Romans** (Ar-Rum) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans. Heraclius, the emperor of the Romans, was forced to flee to Constantinople where he was besieged for a lengthy period. Then Heraclius regained the upper hand. Imam Ahmad recorded that Ibn 'Abbas, may Allah be pleased with him, commented on this Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -103,3 +95,5 @@ Knowledge improves if it is acted upon
 Sayyidna Abu Ad-Darda' ؓ while interpreting this verse has said that the people who strive for acting in accordance with their knowledge are promised by Allah Ta’ ala in this verse that He will disclose to them some other areas of knowledge that they did not have before. Fudayl Ibn ` Iyad (رح) has given yet another interpretation to this verse, that is, ` those who strive for knowledge, We make it easy for them to act'. (Mazhari). وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
 ## Personal Reflections
+
+

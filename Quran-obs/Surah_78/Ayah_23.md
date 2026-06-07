@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Tidings** (An-Naba) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance. His statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -237,3 +229,5 @@ These verses contradict the possibility that taghin 'rebellious people' could be
 A group of commentators find a third interpretation of this verse. A statement after this verse, namely, لَّا يَذُوقُونَ فِيهَا بَرْ‌دًا وَلَا شَرَ‌ابًا إِلَّا حَمِيمًا وَغَسَّاقًا will taste nothing cool in it, nor a drink, except boiling water and pus...78:25) - is circumstantial clause to ahqab, in which case the verse purports to say that for the countless aeons of ahqab that they will be in Hell they will not be tasting any coolness of air nor any food or drink excepting for boiling water and [ scalding ] pus. When the ahqab is over, the condition may change, and other kinds of punishment may be imposed. The word hamim means 'intensely boiling water if brought near the face, it would burn its flesh, and when put into the stomach it would cut into pieces the internal organs'. The word ghassaq means 'blood and pus, and washings of wounds that will ooze from the inmates of Hell'.
 
 ## Personal Reflections
+
+

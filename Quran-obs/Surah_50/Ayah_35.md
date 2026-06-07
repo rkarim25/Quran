@@ -29,18 +29,6 @@ word_by_word:
     transliteration: mazīdun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 On the Day when We will say to Hell: "Are you filled?" It will say: "Are there any more? Verse [ 35] depicts the delights of Paradise: The first part states لَهُم مَّا يَشَاءُونَ فِيهَا (For them there will be whatever they wish,,,,, 50:35].
@@ -128,3 +116,5 @@ Verse [ 35] depicts the delights of Paradise: The first part states لَهُم �
 The second part of the verse states: وَلَدَيْنَا مَزِيدٌ (and with Us there is even more.) In other words, there are with Allah such desirable delights which have not been conceived of by any man and, therefore, they could not wish or desire for them. Sayyidna Anas and Jabir ؓ said that "more" in this context refers to the greatest reward of enabling the people of Jannah to see Allah bila kaif [ without "how" or in an indescribable manner ]. This, according to the Holy Prophet ﷺ ، is similar to His other statement in [ 10:26] لِّلَّذِينَ أَحْسَنُوا الْحُسْنَىٰ وَزِيَادَةٌ "For those who have done good is the best and even more." Some reports narrate that the inmates of Paradise will see Allah on Friday [ Qurtubi ]
 
 ## Personal Reflections
+
+

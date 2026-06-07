@@ -75,18 +75,6 @@ word_by_word:
     transliteration: tunṣarūna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 113, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So stand (ask Allah to make) you firm and straight as you are commanded and those who turn in repentance with you, and transgress not. To keep human beings protected from this disorder and corruption, another guideline has been provided in the second verse (113): وَلَا تَرْ‌كَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ‌ (And do not incline towards the wrongdoers, lest the Fire should catch you).
@@ -122,3 +110,5 @@ Imam ` Abdur-Rahman ibn ` Amr Al-Awza` i said, ` with Allah Ta` ala no one is as
 According to Tafsir al-Qurtubi, this verse tells us that it is obligatory (wajib) to abstain from the company of those who disbelieve (kafirs), those who disobey (sinners) and those who innovate in the established religion (practitioners of bid'ah) - unless they have to be met under some compulsion. The truth of the matter is that company and social setting play a major role in one's betterment or corruption. Therefore, the famous Hasan al-Basri said about the two words of these two verses that Allah Ta` ala has compressed the entire religion within the two letters: لَا (la: do not). The first one appears in the first verse: لَا تَطغَوا (la tatghaw: do not cross the limits - 112) and the second one appears in the second verse: لَا تَرکَنُوا (la tarkanu: And do not incline towards the wrongdoers - 113). The first ` la' or ` do not' prohibits the crossing of the limits set by the Shari’ ah of Islam while the other prohibits the company of wrongdoing people - and this is the essence of the whole religion.
 
 ## Personal Reflections
+
+

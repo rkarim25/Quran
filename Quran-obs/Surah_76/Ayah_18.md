@@ -20,18 +20,6 @@ word_by_word:
     transliteration: salsabīlan
 ---
 
-## Context
-
-To understand **The Man** (Al-Insan) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Most of the commentators, including Allama Zamakhshari, Imam Razi, Qadi, Baidawi, Allama Nizam ad-Din Nisaburi, Hafiz Ibn Kathir and many others, regard it as a Makki Surah, and, according to Allama Alusi, the same is the opinion of the majority of scholars. However, some commentators hold the view that the Surah was revealed at Madinah, and some others say that it was revealed at Makkah but vv. 8-10 of it were sent down at Madinah. As far as the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The raised Couches and the lack of Heat and Cold Allah tells us about the people of Paradise and the eternal delights they will experience, as well as the comprehensive favors that they will be given. وَيُسْقَوْنَ فِيْهَا كَاْسًا كَانَ مِزَاجُهَا زَنْجَبِيْلًا (And they will be served with a goblet of drink blended with ginger...76:17).
@@ -195,3 +183,5 @@ Allah says,
 وَيُسْقَوْنَ فِيْهَا كَاْسًا كَانَ مِزَاجُهَا زَنْجَبِيْلًا (And they will be served with a goblet of drink blended with ginger...76:17). The word zanjabil means 'ginger'. The Arabs loved that their drink should be mixed with ginger. Therefore, it is mentioned in the context of Paradise [ so that they are served with drinks flavoured with ginger of paradisiacal quality and splendour ]. Some scholars say that the only thing the blessings of Paradise and the blessings of this world share in common is their name, and they have nothing else in common. Therefore, the 'ginger' of this world cannot be equated with the 'ginger' of Paradise.
 
 ## Personal Reflections
+
+

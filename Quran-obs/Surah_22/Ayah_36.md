@@ -120,18 +120,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the Budn, We have made them for you as among the symbols of Allah, wherein you have much good. وَالْبُدْنَ جَعَلْنَاهَا لَكُم مِّن شَعَائِرِ‌ اللَّـهِ (And the big animals of sacrifice [ like camels ] are made by Us among the symbols of Allah for you - 22:36.) It has been explained earlier that شَعَائِرِ‌ (symbols) mean those special forms of rites and worship, which are the symbols of Islam.
@@ -279,3 +267,5 @@ mmmm
 الْقَانِعَ وَالْمُعْتَرَّ‌ (the one who is content and the one who wishes to receive) In an earlier verse people who have a right on the meat of sacrificed animals have been described by the words بَایٔس فَقِیر ، which mean destitute and without means. These two words have been clarified further by the words قَانِعَ and مُعْتَرَّ‌. The word قَانِعَ applies to a needy person who does not solicit and is content with what people offer him voluntarily. While مُعْتَرَّ‌is a person who goes to a place where he expects to receive something, whether he solicits verbally or not. (Mazhari)
 
 ## Personal Reflections
+
+

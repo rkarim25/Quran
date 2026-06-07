@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-mur'salīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 252, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-252-260 The theme of 153-251 has been resumed and the Believers have been exhorted to spend in the way of Allah in order to please Him alone.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when they advanced to meet Jalut (Goliath) and his forces, they invoked: "Our Lord! Since the affirmation of the prophethood of the noble Messenger of Allah is also a major objective of the Holy Qur'an, it has been so asserted as and when the occasion warrants.
@@ -143,3 +131,5 @@ Since the affirmation of the prophethood of the noble Messenger of Allah is also
 It is being said here that these verses in which this event has been mentioned 'are the verses of Allah that We recite to you with all veracity' and this proves that you are certainly among the Messengers.'
 
 ## Personal Reflections
+
+

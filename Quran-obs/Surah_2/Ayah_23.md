@@ -90,17 +90,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And this Qur'an is not such as could ever be produced by other than Allah (Lord of the heavens and the earth), but it is a confirmation of (the revelation) which was before it (i.e. the Tawrah, and the Injil), and a full explanation of the Book (i.e. Laws decreed for mankind) ـ wherein there is no doubt ـ from the Lord of all that exists.)(Or do they say: "He (Muhammad ) has forged it?" Say: "Bring then a Surah (chapter) like it, and call upon whomsoever you can besides Allah, if you are truthful!"). All of these Ayat were revealed in Makkah.
 
 Allah also challenged the disbelievers in the Ayat that were revealed in Al-Madinah. In this Ayah, Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -413,3 +405,5 @@ The point, however, is that if someone had really produced even three or four ve
 12. We may conclude this discussion by quoting a passage from the well-known scholar of comparative religion and traditional civilizations, Frithjof Schuon: The superhuman value of a revealed Book cannot be apparent in an absolute fashion from its earthly form, nor from its conceptual content alone; in reality, the Divine and therefore miraculous quality of such a Book is of an order quite other than that of the most perfect dialectic or the most brilliant poetry. This quality shows itself first of all in a richness of meanings - a feature that is incapable of being imitated - and also in what might be called the underlying divine 'magic' which shines through the formal expression and proves itself by its results in souls, and in the world, in space and in time. Only this Divine substance can explain the spiritual and theurgic efficacy of the Qura'nic verses, with its consequences in miraculously rapaid expansion of primitive Islam in the conditions in which it took place, as well as in the stability of Moslem institutions and the extraordinary fruitfulness of Islamic doctrine." ("Dimensions of Islam", London, 1970 page 55).
 
 ## Personal Reflections
+
+

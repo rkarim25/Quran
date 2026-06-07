@@ -21,18 +21,6 @@ word_by_word:
     transliteration: l-mud'ḥaḍīna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 141, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… Verse 141 opens with the statement: فَسَاهَمَ (fasahama: Then he participated in drawing lots...).
@@ -150,3 +138,5 @@ The purpose behind the drawing of lots in this event relating to Sayyidna Yunus 
 Immediately next in the verse, it was said: فَكَانَ مِنَ الْمُدْحَضِينَ and was the one who was defeated." The word: اِدحَاضُ (idhad) literally means to defeat someone or to make him fail, lose. The sense is that it was his name that came up in the draw - and he threw himself into the waters. No one should raise the objection that it was some sort of a suicide plunge, for it is possible that the shore was near and he intended to swim ashore.
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: yasbaḥūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have not those who disbelieve known that the heavens and the earth were joined together as one united piece, then We parted them? كُلٌّ فِي فَلَكٍ يَسْبَحُونَ (Each floating in an orbit - 21:33) The word فَلَک '' (falak) is used for circle or anything round.
@@ -177,3 +165,5 @@ They do not think about how Allah has created it, so vast and high, and adorned 
 كُلٌّ فِي فَلَكٍ يَسْبَحُونَ (Each floating in an orbit - 21:33) The word فَلَک '' (falak) is used for circle or anything round. For this reason the word فَلَک '' (falak) is also used sometimes for sky. In this verse it means the orbits of the sun and the moon in which they revolve. The Qur'anic words do not specify the location of the orbits in the space but space research has now established that these orbits are located in the space much below the sky. This verse apparently indicates that the Sun also moves around an orbit. The scientists previously did not believe in the rotation of the Sun, but the most modern research has now accepted it.
 
 ## Personal Reflections
+
+

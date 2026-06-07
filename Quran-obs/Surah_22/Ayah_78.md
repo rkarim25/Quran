@@ -191,18 +191,6 @@ word_by_word:
     transliteration: l-naṣīru
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and themes we are of the opinion that a part of it ( vv. 1-24 ) was sent down in the last stage of the Makki life of the Holy Prophet a little before migration and the rest ( vv. 25-78 ) during the first stage of his Madani life. That is why this Surah combines the characteristics of both the Makki and the Madani Surahs. The sudden change of the style from v. 25 shows that probably vv. 25-78 were sent down in the month of Zul-Hijjah in the very first year after Hijrah . This is indicated by vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! وَجَاهِدُوا فِي اللَّـهِ حَقَّ جِهَادِهِ (And struggle for (seeking the pleasure of) Allah, a struggle that is due to him - 22:78) The words جِھَاد - (jihad) and مُجَاھِدہ (mujahadah) mean to exert one's utmost effort to achieve an objective and to take pains for it.
@@ -368,3 +356,5 @@ Surah AI-Hajj
 Ends here.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed Iblis did prove true his thought about them, and they followed him, all except a group of true believers (20)And he had no authority over them, – except that We might test him who believes in the Hereafter, from him who is in doubt about it. Verse 19 opens with the statement: فَقَالُوا رَ‌بَّنَا بَاعِدْ بَيْنَ أَسْفَارِ‌نَا وَظَلَمُوا أَنفُسَهُمْ فَجَعَلْنَاهُمْ أَحَادِيثَ وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ (Then they said," Our Lord, make (the phases of) our journeys more distant." And they wronged themselves, therefore We turned them into stories and tore them into pieces - 34:19).
@@ -109,3 +97,5 @@ The concluding statement in verse 19: إِنَّ فِي ذَٰلِكَ لَآي�
 Some commentators have taken the word: صَبَّارٍ‌ (Sabbar: very patient) in the general sense of sabr or patience - which includes remaining firm in all acts requiring obedience as well as abstaining from sins. In the light of this tafsir or explanation, a true believer remains comprehensively attuned to Sabr (patience) and shukr (gratitude) under all conditions and then, for that matter, every sabr is shukr and every shukr is sabr. Allah knows best.
 
 ## Personal Reflections
+
+

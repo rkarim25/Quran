@@ -62,18 +62,6 @@ word_by_word:
     transliteration: ʿālimīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 81, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. وَلِسُلَيْمَانَ الرِّ‌يحَ عَاصِفَةً (And for Sulayman [ We subjugated ] the violent wind - 21:81) This sentence is a continuation of an earlier verse وَسَخَّرْ‌نَا مَعَ دَاوُودَ (And with Dawad We subjugated - 21:79).
@@ -211,3 +199,5 @@ Ibn Abi Hatim has narrated on the authority of Sayyidna Said Ibn Jubair ؓ that 
 عَاصِفَةً (violent) Literal meaning of is strong and violent wind. At another place in the Holy Qur'an the attribute of this wind is given as رِیحُ عَاصِفَةً which means a mild breeze, which neither raises dust nor creates turbulence. On the face of it, these attributes are contradictory, but they can be reconciled in that whereas in itself it was so strong that it could accomplish two month's Journey in one day, yet it did not create. any turbulence. It is reported that when this platform used to fly in the air, no birds were ever harmed due to velocity of the wind.
 
 ## Personal Reflections
+
+

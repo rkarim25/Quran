@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Dawn** (Al-Fajr) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -131,3 +123,5 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 ارْجِعِي إِلَىٰ رَبِّكِ (come back to your Lord....89:28). The words 'come back' indicate that his first place was with his Lord, and now he is commanded to go back to Him. This confirms the narration that the souls of the believers, together with their Book of Deeds, will be in ` illiyin. ` Illiyin is a place on the seventh heaven in the shade of the Throne of the Most-Merciful Lord. This is the original resting-place of all human souls, from where they are brought out and put into human body. After death, the souls are returned to that place.
 
 ## Personal Reflections
+
+

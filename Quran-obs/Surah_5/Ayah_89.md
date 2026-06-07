@@ -195,18 +195,6 @@ word_by_word:
     transliteration: tashkurūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 89, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah will not punish you for what is unintentional in your oaths, but He will punish you for your deliberate oaths; for its expiation feed ten poor, on a scale of the Awsat of that with which you feed your own families; or clothe them; or free a slave. Mentioned earlier was the taking of Halal things as unlawful.
@@ -306,3 +294,5 @@ Towards the end of the verse, the need to observe caution has been commanded abo
 After that comes the second note of caution: (And take care of your oaths). In this sense of guarding an oath it would mean: If you have sworn to something, then do not break your oath without a legal or physical necessity. Some other respected scholars have said that it means that one should not hasten to give a sworn statement. One should guard and protect one's oath, as if kept in reserve. Unless it be under severe compulsion, one should not take oaths casually. (Mazhari)
 
 ## Personal Reflections
+
+

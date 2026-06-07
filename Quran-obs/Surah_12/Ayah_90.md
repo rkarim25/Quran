@@ -101,18 +101,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 90, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: "Do you know what you did with Yusuf and his brother, when you were ignorant? أَإِنَّكَ لَأَنتَ يُوسُفُ (Are you really the Yusuf?).
@@ -166,3 +154,5 @@ Allah says, when Yusuf's brothers told him about the afflictions and hardship, a
 أَإِنَّكَ لَأَنتَ يُوسُفُ (Are you really the Yusuf?). Then, Sayyidna Yusuf (علیہ السلام) said: ` Yes, I am Yusuf and this is my brother, Benyamin.' He supplemented his statement by adding the name of his brother so that they become certain about him. In addition to that, he also wanted them to become sure right then about the total success of their mission, that is, the two they had started to search for were there before them, both at the same time and place. Then, he said: قَدْ مَنَّ اللَّـهُ عَلَيْنَا ۖ إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ‌ فَإِنَّ اللَّـهَ لَا يُضِيعُ أَجْرَ‌ الْمُحْسِنِين ، that is, ` Allah has been very kind to us [ that he first gave both of us two qualities, those of patience (Sabr) and the fear of Allah (Taqwa), qualities which are a key to success and a security shield against every hardship. Then He changed hardship into comfort, separation into union, and our paucity of wealth and recognition into its total abundance. ` Surely, whoever fears Allah [ and abstains from sins ] and observes patience [ while in distress ], then Allah does not waste the reward of the good-doers [ like these ].'
 
 ## Personal Reflections
+
+

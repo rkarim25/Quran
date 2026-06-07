@@ -153,15 +153,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Abi Hatim narrated that Ibrahim said, "Allah revealed to a Prophet from among the Children of Israel, 'Say to your nation: every people of a village or a house who used to obey Allah but changed their behavior to disobeying Him, then He will take away from them what they like and exchange it for what they dislike." Ibrahim next said that this statement has proof in Allah's Book,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -274,3 +266,5 @@ What has been said here is, no doubt, correct to a certain extent. But, this is 
 Take our own existence and its countless blessings. These are not the outcome of our effort, nor had we ever prayed that we be given such a presence with eyes, nose, ears and rest of the most perfect body. These are wonderful blessings - and we have them without having to ask for them. However, the right to deserve blessings and to become worthy recipients of the fruits of the Divine promise cannot be received without making one's own effort to earn it - and should a people keep waiting for Divine rewards without putting in the due effort and deed, it would amount to nothing but self-deception.
 
 ## Personal Reflections
+
+

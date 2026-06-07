@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yuṣ'rafūna
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 See you not those who dispute about the Ayat of Allah How are they turning away (69)Those who deny the Book, and that with which We sent Our Messengers they will come to know (70)When iron collars will be rounded over their necks, and the chains, they shall be dragged along (71)In the boiling water, then they will be burned in the Fire (72)Then it will be said to them: "Where are (all) those whom you used to consider partners (73)"Besides Allah?" They will say: "They have vanished from us. In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -).
@@ -145,3 +133,5 @@ After describing how they will eat Zaqqum (a bitter tree of Hell) and drink Hami
 In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -). Allah Ta’ ala has blessed the human person with the most distinct, superior and better-balanced form and shape out of all animals. He was given reason. He was given such hands and feet that he could get together materials to make things for his needs and comfort. Then, his eating and drinking is different, rather far distinct from common animals. They eat or graze or drink directly with their mouth. He uses hands. Common animals eat singles. Some eat meat, others eat grass or leaves, that too in singles. Contrary to that, man eats by combining different things like meat, vegetables, spices, herbs and fruits. He eats by making his food taste good. His culinary creativity knows no bounds when he would take a single fruit from nature, and turn it into all sorts of delicious eatables like pies, fruit cakes, jams, preserves and chutneys. فَتَبَارَ‌كَ اللَّـهُ رَ‌بُّ الْعَالَمِينَ (Blessed is Allah, the Best Creator).
 
 ## Personal Reflections
+
+

@@ -30,18 +30,6 @@ word_by_word:
     transliteration: qalīlan
 ---
 
-## Context
-
-To understand **The Enshrouded One** (Al-Muzzammil) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The two sections of this Surah were revealed in two separate periods. The first section ( vv. 1-19 ) is unanimously a Makki Revelation, and this is supported both by its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. وَذَرْنِيْ وَالْمُكَذِّبِيْنَ اُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيْلًا (And leave Me [ to deal ] with the deniers, the people of luxury, and give them respite for a while....73:11).
@@ -135,3 +123,5 @@ So the first interpretation would mean, 'how can you attain safety for yourselve
 وَذَرْنِيْ وَالْمُكَذِّبِيْنَ اُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيْلًا (And leave Me [ to deal ] with the deniers, the people of luxury, and give them respite for a while....73:11). The 'deniers' are referred to as 'the people of luxury'. The word na` mah', the first letter [ n ] bearing lath [=a ], signifies 'ease and plenty; abundance of wealth and children'. This indicates that people who live a life of ease, plenty and luxury can only be the ones who deny the Hereafter. These things do often fall to the lot of the believers, but they do not intoxicate them. Therefore, even when they live a life of luxury, their hearts are never, at any time, empty of the thought of the Hereafter. Only the deniers of the Hereafter will live a life of luxury that is neglectful of the Hereafter.
 
 ## Personal Reflections
+
+

@@ -152,18 +152,6 @@ word_by_word:
     transliteration: ṣabran
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And as for the wall, it belonged to two orphan boys in the town; and there was under it a treasure belonging to them; and their father was a righteous man, and your Lord intended that they should attain their age of full strength and take out their treasure as a mercy from your Lord. About the statement: وَكَانَ تَحْتَهُ كَنزٌ لَّهُمَا (and there was beneath it a treasure for them - 82), Sayyidna Abu al-Dard' ؓ has reported from the Holy Prophet ﷺ that it was a treasure chest of gold and silver.
@@ -345,3 +333,5 @@ Conclusion
 I have said earlier that none of our articles of faith or problems of religious practice is connected with the death or life of al-Khadir (علیہ السلام) . Therefore, no clarification or explanation was given in the Qur’ an and Sunnah about it. So, there is just no need to enter into unnecessary discussion or debate in it, nor have we been obligated to believe in any one of the sides of the issue. But, as this problem has found currency on a wider level, details have been provided..
 
 ## Personal Reflections
+
+

@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Troops** (Az-Zumar) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Several verses of the Qur'an bear out that the deeds are not measured with Allah
 The noble Sahabah are the front line of Muslims. Their practice of prayers and good deeds may not appear to be very prominent numerically. But, despite all this, the reason why the single insignificant most of their deeds was superior to the highest of the high deeds of the rest of the Ummah was no other but their very perfection of 'iman (faith) and perfection of ikhlas (sincerity).
 
 ## Personal Reflections
+
+

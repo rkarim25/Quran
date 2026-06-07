@@ -76,17 +76,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted with all things (18)Say: "What thing is the most great in witness?" Say: "Allah is Witness between you and I; this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach. Can you verily bear witness that besides Allah there are other gods?" Say "I bear no (such) witness!" Say: "Only He is God, alone, and truly I am innocent of what you join in worship with Him. (19)Those to whom We have given the Scripture recognize him, as they recognize their own children. Those who have lost (destroyed) themselves will not believe (20)And who does more wrong than he who invents a lie against Allah or rejects His Ayat? Verily, the wrongdoers shall never be successful (21)
 
 (this Qur'an has been revealed to me that I may therewith warn you and whomsoever it may reach.)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -215,3 +207,5 @@ Under his comments on this verse, Imam al-Baghawi has reported from Sayyidna ` A
 Alas, despite this clear declaration of the Qur'an and the age long teachings of the Holy Prophet ﷺ ، this Ummah has started going off course in this critical matter when they have handed out what lies in the exclusive domain of Allah to His created beings. To-day, there is a very large number of Muslims who would, rather than call upon Allah and pray to Him in their hour of distress, cry for help in all sorts of names, but do not seem to remember the name of Allah. As for praying to Allah through the spiritual mediation of prophets and men of Allah, that is a different matter, and that is permissible. Evidences of which are available within the teachings of the Holy Prophet ﷺ himself. But, calling on or praying to a created being directly for the removal of one's need or solution of problem is an open rebellion against this Qur'anic injunction. May Allah keep all Muslims on the straight path.
 
 ## Personal Reflections
+
+

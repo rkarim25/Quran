@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-ʿāmilīna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O My servants who believe! وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُم مِّنَ الْجَنَّةِ غُرَ‌فًا تَجْرِ‌ي مِن تَحْتِهَا الْأَنْهَارُ‌ خَالِدِينَ فِيهَا (And those who believe and do righteous deeds, We shall accommodate them in mansions of the Paradise beneath which rivers flow, where they will live forever - 29:58).
@@ -157,3 +145,5 @@ Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari
 The other risk involved in hijrah (migration) is about the arrangement of sustenance in the strange land. One does manage the sustenance at one's own place through employment, trade, cultivation, or inherited land, but on migration all that is left behind. So, how would he manage the sustenance in the new environment? Answer to this apprehension is given in the next three verses by saying that you regard the mundane possessions and arrangements as the cause of your sustenance, but who has given you all this? It is your mistake to consider that you have arranged it all on your own. Without the help and will of Allah nothing could be procured. If He wills, one gets unlimited sustenance without any visible means, and if He does not, then despite all sorts of visible means, one does not get anything. For elaborating this point first it is said:
 
 ## Personal Reflections
+
+

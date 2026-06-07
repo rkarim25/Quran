@@ -46,18 +46,6 @@ word_by_word:
     transliteration: mus'taqīmun
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument. وَإِنَّهُ لَعِلْمٌ لِّلسَّاعَةِ (And he (Isa علیہ السلام) is a source of knowledge of the Hour [ the day of judgment ] - 43:61).
@@ -231,3 +219,5 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 وَإِنَّهُ لَعِلْمٌ لِّلسَّاعَةِ (And he (Isa علیہ السلام) is a source of knowledge of the Hour [ the day of judgment ] - 43:61). This verse has been explained in two different ways. One is that Sayyidna ` Isa (علیہ السلام) being born without a father is a proof to the fact that Allah Almighty can create people without apparent causes. Thus resurrecting the dead is not at all difficult for Him. But most exegetes have taken this verse in another sense. According to them it means that the descent of Sayyidna ` Isa (علیہ السلام) from the sky is a sign of the Doomsday. And his coming to this world again in its last days and killing Dajjal (the Antichrist) is proved by mutawatir ahadith. Some details on this subject have already been given in the explanation of the verse (3:54-55) of Surah 'Al-` Imran, (See V, 2, pp.76 onward of this book) and in Surah Nisa' 3:54-55 (See V. 2, PP. 622 onward of this book) and some in Surah Al-Ma'idah (5:110). For more details one should refer to the author's book “ التصریح بم اتواتر فی نزول المسیح ” At-Tasrih bi ma tawatara f nuzul-il-Masih in Arabic and Masih-e-Mau’ ud ki pehchan مسیح موعود کی پہچان in Urdu.
 
 ## Personal Reflections
+
+

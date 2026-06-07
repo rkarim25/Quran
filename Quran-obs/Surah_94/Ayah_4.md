@@ -16,18 +16,6 @@ word_by_word:
     transliteration: dhik'raka
 ---
 
-## Context
-
-To understand **The Relief** (Ash-Sharh) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Sharh is a **Makkah** surah—revealed as the 12th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَرَ‌فَعْنَا لَكَ ذِكْرَ‌كَ (and We raised high for you your name....94:4).
@@ -149,3 +137,5 @@ for your benefit? [ 1] '
 This indicates the essential characteristic and special greatness of the Holy Prophet ﷺ ، in that all this is done for the sake of him.
 
 ## Personal Reflections
+
+

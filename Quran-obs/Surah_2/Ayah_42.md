@@ -37,18 +37,6 @@ word_by_word:
     transliteration: taʿlamūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And mix not truth with falsehood, nor conceal the truth while you know (the truth)(42)And perform As-Salah, and give Zakah, and bow down along with Ar-Raki'in (43) The Prohibition of hiding the Truth and distorting It wi… (6) Verse 42 explicitly shows that it is not permissible to mix truth and falsehood together in such a way that the addressee falls into a confusion as to what the truth is, and that it is forbidden to conceal the truth because of fear or greed.
@@ -210,3 +198,5 @@ Later on, the Caliph sent one hundred gold dinars to him as a present. Abu Hazim
 Abu Hazim's refusal to accept the wages for giving advice clearly shows that taking wages for an act of worship or obedience to Allah is not permissible.
 
 ## Personal Reflections
+
+

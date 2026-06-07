@@ -69,17 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers). And We have also revealed the Dhikr to you so that you may clearly explain to men what was revealed to them, and that perhaps they may reflect (44)
 
 (Say (O Muhammad): "I am only a man like you. It has been revealed to me.")[18:110] Then Allah informs those who doubt that a Messenger can be a human to ask those who have knowledge of the previous Scriptures about the Prophets who came before: were their Prophets humans or angels? Then Allah mentions that He has sent them,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -200,3 +192,5 @@ Note of Caution
 What has been written here on the religious question of Taqlid and Ijtihad is only a very brief summary of the subject, which is sufficient for Muslims at large. As for scholarly research and details of the subject, they are present in books of Usul al-Fiqh. Worth mentioning are: (1) Kitab al-Muwafqat by Allamah Shatibi, v. IV, Bab Al-Ijtihad; (2) Kitab Ihkam al-Ahkam by Allamah Saifuddin al-'Amidi, v. III, al-Qa` idah ath-thalitha fi al-mujtahidin; (3) Hujjatullahil-Balighah and ` Iqd al-Jid by Hadrat Shah Waliyyullah Ad-Dihlawi; and (4) Kitab al-Iqtisad fi at-Taqlid wa al-Ijtihad by Hadrat Maulana Ashraf All Thanavi. Interested scholars may wish to refer back to them.
 
 ## Personal Reflections
+
+

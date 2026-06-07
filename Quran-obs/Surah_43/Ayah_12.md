@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tarkabūna
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed if you ask them: "Who has created the heavens and the earth?" They will surely say: "The All-Mighty, the All-Knower created them. وَجَعَلَ لَكُم مِّنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْ‌كَبُونَ (and has made for you the boats and the cattle that you ride, - 12).
@@ -147,3 +135,5 @@ Allah says: 'If you, O Muhammad, were to ask these idolators who associate other
 وَجَعَلَ لَكُم مِّنَ الْفُلْكِ وَالْأَنْعَامِ مَا تَرْ‌كَبُونَ (and has made for you the boats and the cattle that you ride, - 12). There are two kinds of means of transport employed by man - one those vehicles which are made by man himself, and two the animals in whose creation human effort is not involved at all. 'Boats' include all kinds of man-made vehicles, and 'cattle' include all the animals used for riding. Both these means of transport are great blessings of Allah Ta’ ala. That cattle are Allah's great blessings is obvious, because despite their being many times stronger than man, Allah Almighty has made them so submissive to him that even a child leads them to wherever he wants through a hatter or mor-string. Similarly the man made vehicles, right from the bicycles to the aeroplanes and the space-crafts are also great blessings of Allah Almighty, because they are, though, made by man apparently, there is no other than Allah Ta’ ala who has provided man with ability and techniques to manufacture them? Allah Almighty, the All-Powerful is the One Who has endowed the human intellect with the power that moulds iron like wax. And besides, all the raw materials used in their manufacturing and their properties are direct creations of Allah Almighty.
 
 ## Personal Reflections
+
+

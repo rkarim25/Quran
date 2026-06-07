@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yansilūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 96, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And a ban is laid on every town which We have destroyed that they shall not return (95)Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose, and they swoop down from every Hadab (96)And the true promise shall draw near. حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ (Until when the Ya'juj and Ma'juj (Gog and Magog) are released, while they run down from every height - 21:96.) In the previous verse it was said that those who died in a state of unbelief will never return to this world.
@@ -195,3 +183,5 @@ Here the word فُتِحَت (released) is used for Ya'juj Ma'juj which means to
 مِّن كُلِّ حَدَبٍ يَنسِلُونَ (while they run down from every height - 21:96) The word حَدَبٍ 'means an elevated place which may be a mountain or just a lump in the ground. We have also seen in Surah Al-Kahf that the place where Ya’ juj and Ma'juj have been confined is somewhere beyond the northern mountains. So when they will come out, they will be seen rushing down the mountain sides in their hordes.
 
 ## Personal Reflections
+
+

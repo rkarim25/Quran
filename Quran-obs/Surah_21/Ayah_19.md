@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yastaḥsirūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears. وَمَنْ عِندَهُ لَا يَسْتَكْبِرُ‌ونَ عَنْ عِبَادَتِهِ وَلَا يَسْتَحْسِرُ‌ونَ (And those who are near Him are not arrogant against His worship, nor are they sluggish.
@@ -153,3 +141,5 @@ Everything belongs to Allah and serves Him
 وَمَنْ عِندَهُ لَا يَسْتَكْبِرُ‌ونَ عَنْ عِبَادَتِهِ وَلَا يَسْتَحْسِرُ‌ونَ (And those who are near Him are not arrogant against His worship, nor are they sluggish. - 21:19) It means that Allah's servants who are with Him i.e. angels pray to Him all the time without ceasing. So, if the humans do not pray to Him, it will not make any difference to Him, but they themselves will be the losers. It is human nature to judge others by applying one's own situation to them. Hence there are two possibilities preventing a person from offering acts of worship ceaselessly. One, that he regards it below his dignity to bow down before any one and therefore does not pray to Allah Ta` ala. Secondly, it is physically not possible for a man to worship without a break because he needs to rest in between. In view of these two human constraints, it is explained towards the end of the verse that the angels are free from these compulsions. They do not regard it below their dignity to worship Allah constantly nor do they get tired or need any rest or sleep.
 
 ## Personal Reflections
+
+

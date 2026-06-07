@@ -52,13 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Al-Amawi said in his Book on Battles, "Muhammad bin Ishaq narrated that Az-Zuhri said that 'Abdur-Rahman bin 'Abdullah bin Ka'b bin Malik narrated from his father, from his grandfather that he said, 'Among the hypocrites who lagged behind [from battle] and concerning whom the Qur'an was revealed, was Al-Julas bin Suwayd bin As-Samit, who was married to the mother of 'Umayr bin Sa'd. 'Umayr was under the care of Al-Julas. When the Qur'an was revealed about the hypocrites, exposing their practices, Al-Julas said, 'By Allah! If this man (Muhammad) is saying the truth, then we are worse than donkeys.' 'Umayr bin Sa'd heard him and said, 'By Allah, O Julas! You are the dearest person to me, has the most favor on me and I would hate that harm should touch you, more than I do concerning anyone else! You have uttered a statement that if I exposed, will expose you, but if I hide, it will destroy me. One of them is a lesser evil than the other.' So 'Umayr went to the Messenger of Allah ﷺ and told him what Al-Julas said. On realizing this, Al-Julas went to the Prophet ﷺ and swore by Allah that he did not say what 'Umayr bin Sa'd conveyed he said. 'He lied on me,' Al-Julas said. Allah sent in his case this verse,
 
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Al-Amawi said in his Book on Battles, "Muhammad bin Ishaq narrated that Az-Zuhri said that 'Abdur-Rahman bin 'Abdullah bin Ka'b bin Malik narrated from his father, from his grandfather that he said, 'Among the hypocrites who lagged behind [from battle] and concerning whom the Qur'an was revealed, was Al-Julas bin Suwayd bin As-Samit, who was married to the mother of 'Umayr bin Sa'd. 'Umayr was under the care of Al-Julas. When the Qur'an was revealed about the hypocrites, exposing their practices, Al-Julas said, 'By Allah! If this man (Muhammad) is saying the truth, then we are worse than donkeys.' 'Umayr bin Sa'd heard him and said, 'By Allah, O Julas! You are the dearest person to me, has the most favor on me and I would hate that harm should touch you, more than I do concerning anyone else! You have uttered a statement that if I exposed, will expose you, but if I hide, it will destroy me. One of them is a lesser evil than the other.' So 'Umayr went to the Messenger of Allah ﷺ and told him what Al-Julas said.
+It was said that this Ayah was revealed about Al-Julas bin Suwayd, who tried to kill his wife's son when he said he would inform the Messenger of Allah ﷺ [about Al-Julas' statement we mentioned earlier]. It was also said that it was revealed in the case of 'Abdullah bin Ubayy who plotted to kill the Messenger of Allah ﷺ. As-Suddi said, "This verse was revealed about some men who wanted to crown 'Abdullah bin Ubayy even if the Messenger of Allah did not agree."
 
 ## Tafsir Summary
 
@@ -195,3 +191,5 @@ A warning signal
 It is certainly a matter of regret that the attitude of harshness in address and conversation was something Islam never took to even against Kuffar, the rigid and hostile disbelievers. But, contemporary Muslims would not bat an eye and use it against other Muslims - not to say much about many of those who would congratulate themselves for having done this as some service to their religion. Innalillah ...
 
 ## Personal Reflections
+
+

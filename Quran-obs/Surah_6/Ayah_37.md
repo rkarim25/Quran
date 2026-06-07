@@ -84,18 +84,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they said: "Why is not a sign sent down to him from his Lord?" Say: "Allah is certainly able to send down a sign, but most of them know not. About the statement: فَإِنَّهُمْ لَا يُكَذِّبُونَكَ (it is not you they are belying, rather, it is the signs of Allah they are denying) in the first verse (33), there is a related event, reported in Tafsir Mazhari on the authority of a narration by As-Suddiy, according to which, once Akhnas ibn Shuraiq and Abu Jahl, two chiefs of the Quraysh tribe met together.
@@ -203,3 +191,5 @@ According to another narration reported from Najiyah ibn Ka'b, once Abu Jahl him
 Based on these narrations of Hadith, the verse can be taken in its real sense, that is, 'these disbelievers do not belie you, rather, they be-lie the signs of Allah.' And this verse could also be taken in the sense that these disbelievers, though belie you obviously but, in reality, the outcome of belying you is itself the belying of Allah and His signs - as it appears in Hadith, that the Holy Prophet ﷺ said: Whoever causes pain to me is liable to be judged as causing pain to Allah.
 
 ## Personal Reflections
+
+

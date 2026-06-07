@@ -58,18 +58,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **The Sovereignty** (Al-Mulk) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mulk is a **Makkah** surah—revealed as the 77th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-28-29 replies have been given to what the disbelievers of Makkah said against the Holy Prophet (upon whom be peace) and his Companions.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Tell me! قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ‌ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُ‌ونَ (Say, "He is the One who has originated you, and made for you the ears and the eyes and the hearts.
@@ -127,3 +115,5 @@ Of all the human sense organs, only three are mentioned here on which depends kn
 After this, the non-believers are threatened with punishment. Towards the end of the Surah, a statement is once again repeated to remind them which purports to say: '0 you who live on the earth, dig wells and drink water from it to quench your thirst and grow plants and vegetation, do not forget that none of these things is your personal property. They are a Divine gift. He sent down water, and loaded it in the form of ice and reserved it on the peaks of mountains, so that it may not putrefy. Then He caused the congealed water to melt gradually and allow it to seep or soak into the earth through the pores or small interstices of the mountains and allowed a network of melted water to spread throughout the earth without any pipeline. Whenever man requires, he could dig a few meters deep into the earth from its upper surface to obtain water. This is a Divine gift. If He wills, He could send the water down into the depths of the earth, and it would not be accessible to anyone. This is the import of the following verse.
 
 ## Personal Reflections
+
+

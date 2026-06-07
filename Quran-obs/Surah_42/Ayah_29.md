@@ -71,18 +71,6 @@ word_by_word:
     transliteration: qadīrun
 ---
 
-## Context
-
-To understand **The Consultation** (Ash-Shuraa) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although it could not be known from any authentic traditions, yet one feels after a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And among His Ayat is the creation of the heavens and the earth, and whatever moving creatures He has dispersed in them both. وَمَا بَثَّ فِيهِمَا مِن (and the creatures He has spread in them - 29).
@@ -146,3 +134,5 @@ The Cause of Misfortune is Sin
 Briefly, in view of the system of the universe, Allah Almighty has not provided every one with wealth and goods in abundance, rather He has distributed them in accordance with the dictates of wisdom. But the good things of universe which are of general benefit have been provided to everyone. Rain, clouds, earth, sky and the creatures therein have all been created for the benefit of human beings, and they all demonstrate the Oneness of Allah. If after all this, anyone suffers any hardship, he should consider it to be due to his own deeds, and he should do a little heart searching, instead of complaining against Allah Ta’ ala.
 
 ## Personal Reflections
+
+

@@ -98,17 +98,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 215, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Muqatil bin Hayyan said that this Ayah was revealed about the voluntary charity. The Ayah means, 'They ask you (O Muhammad ﷺ) how they should spend,' as Ibn 'Abbas and Mujahid have stated. So, Allah explained it for them, saying:
 
 Therefore, it is necessary to first understand the wisdom behind the two answers to one single question. This wisdom becomes clear by looking at the background in which these verses were revealed. For instance, the present verse was revealed in a particular situation when the Companion, ` Amr ibn Jamuh ؓ had asked the Holy Prophet ﷺ the question: ما ننفق من اموالنا واین نضعھا ؟ (Ibn al-Mundhir - Mazhari) that is, 'what do we spend from our wealth, and where?' According to a narration reported by Ibn Jarir ؓ ، this question was not that of Ibn Jamuh alone, rather, it was from Muslims in general. The question has two parts, that is, what and how much should be spent, and where should it go or who should be the recipients.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Rulings
 The statement about spending the surplus' العفو (al-'afw), that which is extra to needs, has been interpreted as an obligatory injunction by the blessed Companion Abu Dharr al-Ghifari and others ؓ . According to them, it is not permissible to hold in one's possession any money or materials surplus to needs even after paying of zakah and fulfilling all rights due; it is necessary (wajib) to give everything extra to needs as charity (sadaqah). However, the majority of Companions, their successors (the Tabi` in) and the great imams of the Faith interpret the Qur'anic verses in question to mean that whatever has to be spent in the way of Allah should be surplus to needs. It does not mean that one has to give in charity (sadaqah) everything surplus to need as something necessary or wajib. Moreover, this later position is what the consistent practice of the blessed Companions proves.
 
 ## Personal Reflections
+
+

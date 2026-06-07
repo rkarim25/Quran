@@ -38,15 +38,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Ranks** (As-Saf) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saf is a **Madinah** surah—revealed as the 109th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 14 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Some said that it was revealed about the gravity of fighting in battle, when one says that he fought and endured the battle, even though he did not do so. Qatadah and Ad-Dahhak said that this Ayah was sent down to admonish some people who used to say that they killed, fought, stabbed, and did such and such during battle, even though they did not do any of it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ It is learnt from the foregoing discussion that these verses are related to fals
 All this does not imply that if a person has been lax in the performance of good deeds, he should abandon preaching to others. Or if he has been indulging in any kind of sin, he should not forbid others from indulging in such sins. It needs to be borne in mind that the performance of a righteous deed is one form of virtue, and urging others to perform this righteous deed is another form of virtue in its own right. Obviously, if one has abandoned one form of virtue, it does not necessarily follow that he should abandon the other form as well. It is possible that through the blessing of the preachment, the preacher might develop the ability to perform the righteous deed. This has been experienced widely and on a large scale. However, if the deed belongs to the category of wajib or sunnah mu'akkadah, it is obligatory, in the light of the verses, to continuously show remorse and regret on one's not practicing it. And if the action belongs to the category of mustahabbat, it is mustahab [ rewardable ] to show remorse and regret.
 
 ## Personal Reflections
+
+

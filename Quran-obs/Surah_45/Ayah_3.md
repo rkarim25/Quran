@@ -29,18 +29,6 @@ word_by_word:
     transliteration: lil'mu'minīna
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah also has not been mentioned in any authentic tradition, but its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. إِنَّ فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ لَآيَاتٍ لِّلْمُؤْمِنِينَ ("Surely in the heavens and the earth, there are signs for those who have faith..
@@ -90,3 +78,5 @@ There are the angels, Jinns, humans, animals, birds, beasts, carnivores, insects
 إِنَّ فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ لَآيَاتٍ لِّلْمُؤْمِنِينَ ("Surely in the heavens and the earth, there are signs for those who have faith.. ..45:3) " The purpose of this verse, and similar other verses, is to affirm the Oneness of Allah. Similar verses are available in [ 2:164] إِنَّ فِي السَّمَاوَاتِ وَالْأَرْ‌ضِ ("Surely, in the creation of heavens and earth..." ) where their detailed commentary will be found. How the two verses prove the Oneness of Allah is also explained on that occasion. In the two places, there is a slight difference in the argumentation: Scholars interested might find the finer points of the difference discussed by Imam Razi in his Tafsir Kabir rather interesting. It is worth noting that in all these verses reference is made to the various signs in nature and a concluding statement is made on each occasion: Here it concludes: ` there are signs for those who have faith', in another place it concludes: ` there are signs for those who believe' and in a third place it concludes: ` there are signs for those who understand'. In all these cases, there are stylistic variations, but in addition the current verse points to the fact that only those people will be able to benefit who have faith. In the second case, it will be beneficial to those people who might not immediately embrace the Faith, but they do develop certainty in their hearts, in that these signs do point to the Oneness of Allah. Possibly this certainty one day or the other will turn into ` Faith'. In the third case, it could benefit those who may not be immediate believers or firm in belief, but they do have sound heart to understand. If they search into the signs with deep insight, they will inevitably end up with faith and firm belief. However, people devoid of sound intellect or unwilling to use it will remain unconvinced, even if thousands of evidence or arguments are put forward to them.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: tub'ṣirūna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Thus Allah says: وَفِي أَنفُسِكُمْ أَفَلَا تُبْصِرُ‌ونَ (...
@@ -169,3 +157,5 @@ The Development of the Sperm and Embryo in the Womb
 Human microscopic sperm and egg is an amazing phenomenon. It is made up of foodstuff and tenuous particles from various parts of the world. If the sperm establishes itself in the mother's womb, then more material is added to it, and it changes into a red clot. It then changes and becomes a shapeless lump of flesh, like a piece of meat with no form or shape. Then out of this shapeless lump bones are fashioned; then the bones are clothed with flesh; and it starts to take on a form and shape, developing a head, arms, chest, stomach, thighs, legs, feet and all its members. A wonderful brain is placed under its skull in whose complicated layers lie all mental abilities. Thus equipping it, Allah sends an angel to it who breathes the soul into it. After the completion of its creation, it is brought into this world where he develops from infancy to full adulthood to old age. Then he gradually progresses from zero level of knowledge and consciousness to an intelligent, rational and active being. The human forms and shapes are so different that no two faces are identical in millions and billions of people even in a small area. Furthermore, there are differences in their temperaments, dispositions and habits. There is unity in this diversity. All this is the marvel of the perfect power of Allah who has neither partners nor rivals: فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ "So blessed is Allah, the Best Creator!" (23:14)Man experiences all this not from outside himself, but within himself, day and night. Only a person who is absolutely blind and senseless will ever deny the existence of Allah. Therefore, at the conclusion of the verse, the Qur'an poses the rhetorical question: "So, do you not perceive?" (21) A person need not be very intelligent to understand the facts of life. If his sight is intact, he can arrive at the right conclusion.
 
 ## Personal Reflections
+
+

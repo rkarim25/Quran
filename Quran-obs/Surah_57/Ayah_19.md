@@ -89,18 +89,6 @@ word_by_word:
     transliteration: l-jaḥīmi
 ---
 
-## Context
-
-To understand **The Iron** (Al-Hadid) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is unanimously a Madani Surah, and a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who give Sadaqat, men and women, and lend Allah handsome loan, it shall be increased manifold (to their credit), and theirs shall be an honorable good reward (18)And those who believe in Allah and His Messengers. " وَالَّذِينَ آمَنُوا بِاللَّـهِ وَرُ‌سُلِهِ أُولَـٰئِكَ هُمُ الصِّدِّيقُونَ وَالشُّهَدَاءُ عِندَ رَ‌بِّهِمْ "And those who believed in Allah and His messengers, it is they who are the siddiqs [ the most righteous ] and the shuhada' (martyrs) in the sight of your Lord.
@@ -208,3 +196,5 @@ However, another verse of the Qur'an seems to be against this concept. It is the
 The Holy Prophet ﷺ is reported to have said: اَللَّعَّانُونَ لَا یَکُونُونَ شُھَدَاَء (The cursers cannot be 'Shuhada"." This Tradition supports the notion. Sayyidna ` Umar Al-Faruq ؓ once said to the people: "What is the matter with you? You see someone defaming people, you neither stop him nor do you raise your eyebrows about it! They replied: 'We are afraid of his violent tongue. If we tell him something, he will also attack our honour.' Sayyidna ` Umar ؓ made a rejoinder 'if that is the case, then you cannot be 'Shuhada"'. Ibn Athir cited this narration and said: 'This means that such coward people will not be among the 'Shuhada' who will bear witness against the communities of the previous Prophets.' [ Ruh-ul-Ma’ ani ]. Mazhari states that the word الَّذِينَ آمَنُوا 'believers' in verse [ 19] refers only to the Companions ؓ of the Holy Prophet ﷺ who reposed their faith in Allah and His Messenger ﷺ ، saw him and had the pleasure of his company. As such, the restrictive phrase, هُمُ الصِّدِّيقُونَ 'it is they who are the Siddiqs..' in Verse [ 19] indicate that the status of Siddiq is limited or restricted to the noble Companions of the Holy Prophet ﷺ . Mujaddid Alf Thani states that all the noble Companions ؓ had a share in the noble qualities of prophet-hood. Any Companion who saw him in a state of faith even for a short time is absorbed and drowned in such qualities of perfection. Allah, the Pure and Exalted, knows best!
 
 ## Personal Reflections
+
+

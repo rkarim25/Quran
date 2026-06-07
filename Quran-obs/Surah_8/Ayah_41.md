@@ -144,15 +144,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah says, 'Adhere to what We legislated for you, such as the ruling about one-fifth of the war spoils, if you truly believe in Allah, the Last Day and what We have revealed to Our Messenger ﷺ.' In the Two Sahihs, it is recorded that 'Abdullah bin 'Abbas said - while narrating the lengthy Hadith about the delegation of Bani Abdul Qays - that the Messenger of Allah ﷺ said to them,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -327,3 +319,5 @@ The Day of the Battle of Badr was the Day of Distinction
 In this verse, the day of Badr has been called یَوم اَلفُرقَان Yowm al-Furgan (the day of distinction between the true and the false). The reason is that Muslims scored a clear victory at Badr and the disbelievers faced a disgraceful defeat. Though, this happened as a ground reality on that day, yet it was, by extension, a day of decision also, the ultimate decision between disbelief and Islam.
 
 ## Personal Reflections
+
+

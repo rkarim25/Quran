@@ -94,17 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Congregation, Friday** (Al-Jumu'ah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet ﷺ, when Surat Al-Jumu'ah was revealed to him;
 
 (If faith were on Ath-Thurayya (Pleiades), even then some men or a man from these people would attain it.)" Muslim, At-Tirmidhi, An-Nasa'i, Ibn Abi Hatim and Ibn Jarir collected this Hadith. This Hadith indicates that Surat Al-Jumu'ah was revealed in Al-Madinah and that the Messenger's Message is universal. The Prophet ﷺ explained Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -239,3 +231,5 @@ A question arises here that the natural order of wording in the verse should hav
 Please see Ma` arif--ul-Qur'an Vol. 1/pp 331-343, under the Surah Al-Baqarah Verse 129, for fuller explanation of this verse.
 
 ## Personal Reflections
+
+

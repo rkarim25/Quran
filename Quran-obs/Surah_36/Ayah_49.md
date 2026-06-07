@@ -38,18 +38,6 @@ word_by_word:
     transliteration: yakhiṣṣimūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "When will this promise be fulfilled, if you are truthful? مَا يَنظُرُ‌ونَ إِلَّا صَيْحَةً وَاحِدَةً (They are looking for nothing but for a single Cry that will seize them - 36:49).
@@ -91,3 +79,5 @@ Commentary
 It appears in Hadith that two men will be engaged in their activity of buying and selling cloth. Stretched before them will be the yardage of the cloth pieces while, of a sudden, Qiyamah will come - and they would be unable to complete their deal of cloth. Then, there will be someone else busy plastering his water tank who will fall dead in the same state (reported by Abu Nu'aym from Sayyidna Abu Hurairah ؓ - al-Qurtubi).
 
 ## Personal Reflections
+
+

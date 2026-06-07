@@ -42,18 +42,6 @@ word_by_word:
     transliteration: marḍiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And mention in the Book, Isma'il. A reformer must begin his mission with his own family "And he used to bid Salah and Zakah to his family." - 19:55.
@@ -149,3 +137,5 @@ A special attribute of Sayyidna Ismail (علیہ السلام) is that he used t
 Then why has a special mention been made of Sayyidna Ismail (علیہ السلام) in this matter? The fact is, that although this injunction applies to all Muslims, Sayyidna Ismail (علیہ السلام) used to make special efforts in following this directive. Likewise, the Holy Prophet ﷺ also received special directive to warn his family members and close relations against Allah's wrath وَأَنذِرْ‌ عَشِيرَ‌تَكَ الْأَقْرَ‌بِينَ (and warn the nearest people of your clan - 26:214). As a consequence he assembled them all and conveyed to them Allah's command. The other point to consider here is that prophets are sent by Allah for the guidance of entire people. They convey Allah's message to everyone and bind them to obey His command. Then what is the point in making special mention of the members of family? The thing is that there are certain principles which the prophets observe when calling upon people to follow the path of righteousness, and one of them is to give the call first to one's own family members before calling upon the general public. It is a lot easier to prevail upon one's own family members and to monitor their actions. Once the family members have accepted a certain way of life and have started acting on it routinely then it becomes much easier to spread the same message among others at large. When people see for themselves others following a righteous path it becomes much easier to convert them. The most effective means for bringing about an improvement in the character of the people is by creating a religious environment. Experience shows that virtue and vice both proliferate faster and wider in a receptive environment than through teaching and preaching.
 
 ## Personal Reflections
+
+

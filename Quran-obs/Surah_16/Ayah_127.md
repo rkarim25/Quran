@@ -64,17 +64,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 127, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Sirin said, "If a man among you takes something from you, then you should take something similar from him." This was also the opinion of Mujahid, Ibrahim, Al-Hasan Al-Basri, and others. Ibn Jarir also favored this opinion. Ibn Zayd said: "They had been commanded to forgive the idolators, then some men became Muslim who were strong and powerful. They said, 'O Messenger of Allah, if only Allah would give us permission, we would sort out these dogs!' Then this Ayah was revealed, then it was latter abrogated by the command to engage in Jihad."
 
 ((Remember) when your Lord revealed to the angels, "Verily, I am with you, so support those who believe.")(8:12) And Allah said to Musa and Harun:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -183,3 +175,5 @@ Though the verse has been revealed in relation to physical pain and loss, but it
 Mentioned in verse 126: وَإِنْ عَاقَبْتُمْ , (And if you were to harm...) was the general law in which avenging harm done with even harm was declared to be permissible for all Muslims, but taking the option of patience was recommended as definitely much better. And in the next verse (127), the Holy Prophet ﷺ has been addressed in a special manner and prompted to be patient because, in view of his great dignity and high station, the later response was certainly more appropriate and becoming for him as compared with others. Therefore, it was said: وَاصْبِرْ‌ وَمَا صَبْرُ‌كَ إِلَّا بِاللَّـهِ (And be patient. And your patience is bestowed by none but Allah). It means: 'As for you, you just do not even contemplate a revenge. Take to Sabr (patience) as your only option.' And then, he was also told that his Sabr will come with the help of Allah alone, that is, observing Sabr will be made easy for him.
 
 ## Personal Reflections
+
+

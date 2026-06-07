@@ -58,18 +58,6 @@ word_by_word:
     transliteration: nurīdu
 ---
 
-## Context
-
-To understand **Hud** (Hud) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when Our messengers came to Lut, he was grieved on account of them and was concerned for them. Things turned out as Sayyidna Lut (علیہ السلام) had first apprehended.
@@ -145,3 +133,5 @@ After that, it was to warn them against Divine punishment that Sayyidna Lut (ع�
 But, there was no trace of gentility or even humanness left in any of them. So, in acid wickedness, they all responded: لَقَدْ عَلِمْتَ مَا لَنَا فِي بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِ‌يدُ (You know that we have no claim on your daughters, and you know well what we want.'
 
 ## Personal Reflections
+
+

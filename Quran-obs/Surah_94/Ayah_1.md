@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ṣadraka
 ---
 
-## Context
-
-To understand **The Relief** (Ash-Sharh) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Sharh is a **Makkah** surah—revealed as the 12th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its subject matter so closely resembles that of Surah Ad-Duha that both these Surah seem to have been revealed in about the same period under similar conditions. According to Hadrat Abdullah bin Abbas, it was sent down in Makkah just after wad-Duha. Theme and Subject Matter The aim and object of this Surah too is to console and encourage the Holy Messenger (upon whom be Allah's peace). Before his call he never had to encounter the conditions which he suddenly had to encounter after it when he embarked on his mission of inviting the people to Islam. This was by itself a great revolution in his own life of which he had no idea in his life before Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. It was mentioned at the end of the preceding Surah that twenty-two Surahs from Surah Ad-Duha to the end of the Qur'an are mainly concerned with Divine favours conferred upon the Holy Prophet ' and with his greatness.
@@ -135,3 +123,5 @@ It was mentioned at the end of the preceding Surah that twenty-two Surahs from S
 The Holy Prophet's ﷺ bosom was expanded to receive the knowledge and wisdom and the gracious morals and ethical qualities, which the greatest philosophers could not match. As a result of this expansion of heart, tawajjuh ilal-makhluq (attentiveness to the creation) did not disturb his attentiveness to and concentration on Allah. Some of the authentic Traditions report that the angels, with Allah's permission, physically opened the blessed chest of the Holy Prophet ﷺ . Some of the commentators interpret this 'expansion of the chest' to refer to the same miracle, as mentioned in Ibn Kathir and others. And Allah knows best!
 
 ## Personal Reflections
+
+

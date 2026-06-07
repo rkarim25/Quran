@@ -68,15 +68,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 "There were people who used to perform Tawaf around the House while naked, and Allah ordered them to take adornment, meaning, wear clean, proper clothes that cover the private parts. people were commanded to wear their best clothes when performing every prayer." Mujahid, 'Ata', Ibrahim An-Nakha'i, Sa'id bin Jubayr, Qatadah, As-Suddi, Ad-Dahhak and Malik narrated a similar saying from Az-Zuhri, and from several of the Salaf. They said that this Ayah was revealed about the idolators who used to perform Tawaf around the House while naked.
 
-The present verse was revealed against this absurd practice. It enjoined that they should abstain from it because making Tawaf naked was an act of immodesty and bad manners. Similarly, doing the re-verse of it, that is, abstaining from good food given by Allah Ta` ala without any valid excuse had hardly anything to do with religion. In fact, forbidding on themselves what Allah had made lawful for them was effrontery and excess in an act of worship, something disliked by Allah. Therefore, eat and drink as you wish during the days of Hajj, but do not be extravagant.
+The present verse was revealed against this absurd practice. It enjoined that they should abstain from it because making Tawaf naked was an act of immodesty and bad manners. Similarly, doing the re-verse of it, that is, abstaining from good food given by Allah Ta` ala without any valid excuse had hardly anything to do with religion. In fact, forbidding on themselves what Allah had made lawful for them was effrontery and excess in an act of worship, something disliked by Allah. Therefore, eat and drink as you wish during the days of Hajj, but do not be extravagant. Totally abstaining from Halal foods is also included under extravagance. Then, becoming heedless to the real objectives of Hajj and the Dhikr of Allah and remaining busy with nothing but eating and drinking is also included under extravagance.
 
 ## Tafsir Summary
 
@@ -225,3 +219,5 @@ Based on a narration from Sayyidna Abi Hurairah ؓ in Shu'ab al-'Iman, Al-Baihaq
 Muhaddithin (experts in the discipline of Hadith) have expressed doubts about the use of some words in these narrations of Hadith. But, all of them agree to the emphasis laid on eating moderately and observing precaution present in countless Ahadith. (Ruh al-Ma'ani)
 
 ## Personal Reflections
+
+

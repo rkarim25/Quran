@@ -61,15 +61,7 @@ word_by_word:
 
 ## Context
 
-To understand **She that is to be examined** (Al-Mumtahanah) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! Take not my enemies and your enemies as protecting friends'...) was revealed about Hatib, but I do not know if the Ayah was mentioned in the Hadith (or was added as an explanation by one of the narrators)." Al-Bukhari also said that 'Ali bin Al-Madini said that Sufyan bin 'Uyaynah was asked, "Is this why this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -204,3 +196,5 @@ This is why Allah's Messenger ﷺ accepted Hatib's excuse when he said that he o
 وَوَدُّوا لَوْ تَكْفُرُ‌ونَ (...and they desire that you should reject the (true) faith...60:2). The greatest desire of the non-believers' hearts is to see the Muslims revert to disbelief. Thus when the Muslims stretch their hand of friendship towards them, it will be at the cost of their belief. They will never be happy with the Muslims unless they give up their faith.
 
 ## Personal Reflections
+
+

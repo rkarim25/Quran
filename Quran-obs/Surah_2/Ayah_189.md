@@ -121,15 +121,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 189, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi related that Ibn 'Abbas said, "The people asked Allah's Messenger ﷺ about the crescent moons. Thereafter, this Ayah was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -224,3 +216,5 @@ The reason why bid` at بدعت (innovations in religious matters) are not permi
 The expression وَلَا تَعْتَدُوا (and do not transgress) towards the end of the verse, according to the majority of the commentators means - 'do not go beyond the limit in fighting as to start killing women and children'.
 
 ## Personal Reflections
+
+

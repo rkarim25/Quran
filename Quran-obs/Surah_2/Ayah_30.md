@@ -122,18 +122,6 @@ word_by_word:
     transliteration: taʿlamūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-30-39 In this portion invitation to the Guidance has particularly been extended to the children of Israel and their past and present attitude has been criticized to show that the cause of their degradation was their deviation from the Guidance.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when your Lord said to the angels: "Verily, I am going to place (mankind) generations after generations on earth." They said: "Will You place therein those who will make mischief therein and shed blood, ـ while we glorify You with praises and thanks and sanctify You." He (Allah) said: "I know that which you do not know. The preceding verses recounted the general and some of the particular blessings of Allah, and asked man to recognize them and not to be ungrateful and disobedient to his Benefactor.
@@ -345,3 +333,5 @@ Let me give a brief summary of the whole discussion. The verses which tell us of
 Then, there are lower degrees pertaining to the pious and the virtuous Muslims down to the lowest degree where stand people who are sinful, yet, being Muslims, can hope for salvation. Allah alone knows best as to who belongs to which degree; below the degree of the blessed Companions one can never speak with certitude. If we allow ourselves to associate vice regency with an ordinary Muslim, it would only be viceregency, so to say, by reflection, just as the 'Iman of every Muslim is only a reflection of the 'Iman of the Holy Prophet ﷺ . Anyway, the necessary condition of receiving even a faint reflection of viceregency and "Manhood" is that one should be a Muslim, for, as the Holy Qur'an has explicitly declared, 'Allah shall not now accept any faith except Islam.' As for attributing viceregency of "Manhood" to common man as such is concerned, it can at best only be viceregency, to use Aristotelean terms, in potency and not in act - it cannot be effective unless it is actualized through a total submission to the Shari'ah and a strenuous spiritual effort and waiting upon the grace of Allah. In fact, the highest excellence open to man now is to be in word and deed and thought a perfect follower of the Sunnah, the way of the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

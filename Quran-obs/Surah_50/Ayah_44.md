@@ -42,18 +42,6 @@ word_by_word:
     transliteration: yasīrun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And listen on the Day when the caller will call from a near place (41)The Day when they will hear As-Sayhah in truth, that will be the Day of coming out (42)Verily, it is We Who give life and cause death; and to Us is the final return (43)On the Day when the earth shall be cleft, from off them (they will come out) hastening forth. يَوْمَ تَشَقَّقُ الْأَرْ‌ضُ عَنْهُمْ سِرَ‌اعًا (...on the Day when the earth will burst apart exposing them, while they will be hurrying up.
@@ -167,3 +155,5 @@ This is the end of the Tafsir of Surah Qaf. All praise is due to Allah, He is fo
 "From here towards that [ pointing towards Syria ] you will be raised, some riding, and others on foot, and yet others will be dragged on the faces on the Day of Judgment..."
 
 ## Personal Reflections
+
+

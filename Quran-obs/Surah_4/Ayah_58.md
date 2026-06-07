@@ -110,17 +110,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn Jarir recorded that Ibn Jurayj said about this Ayah, "It was revealed concerning 'Uthman bin Talhah from whom the Messenger of Allah ﷺ took the key of the Ka'bah and entered it on the Day of the victory of Makkah. When the Prophet ﷺ went out, he was reciting this Ayah,
 
 (and that when you judge between men, you judge with justice.) commanding justice when judging between people. Muhammad bin Ka'b, Zayd bin Aslam and Shahr bin Hawshab said; "This Ayah was revealed about those in authority", meaning those who judge between people. A Hadith states,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -325,3 +317,5 @@ There is a hadith in which the Holy Prophet ﷺ has been reported to have said: 
 According to another hadith, the Holy Prophet ﷺ said to his noble Companions: 'Do you know who will be the first to go under the shade of Allah?' They said: 'Allah and His Messenger know this best.' Then, he said: 'These will be people who, when truth appears, hasten to accept it; and when asked, they spend their wealth; and when they judge (between people), they do it as fairly as they would have done for themselves.'
 
 ## Personal Reflections
+
+

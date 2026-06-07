@@ -28,18 +28,6 @@ word_by_word:
     transliteration: l-aṣfādi
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And you will see the criminals that Day, Muqarranun (bound together) in fetters (49)Their garments will be of Qatiran (tar), and fire will cover their faces (50)That Allah may requite each person according to what he has earned. In the verses which appear onwards from here (48-51), the text re-turns to the awe-inspiring happenings of the day of Qiyamah.
@@ -147,3 +135,5 @@ In verses 50 and 51 towards the end, given there is the state in which the peopl
 Finally, in the last verse (52), it was made clear that the description of conditions to be faced by people on the day of Qiyamah was to warn them so that they would realize that there is no Being worthy of worship and obedience except the One Being of Allah T, and so that whoever from among them has some sense left in him or her would desist from Shirk while there was still the time to do so.
 
 ## Personal Reflections
+
+

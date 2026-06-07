@@ -84,18 +84,6 @@ word_by_word:
     transliteration: taʿlamūna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-66 - 101 The Muslims have been instructed to learn lessons from the history of the people of the Book and also to guard themselves against their machinations, and prepare and train themselves to establish virtue and eradicate evil.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O people of the Scripture! The argumentation referred to in verse 65 was to decide whether Sayyidna Ibrahim (علیہ السلام) followed the way of the Jews, or that of the Christians.
@@ -181,3 +169,5 @@ That way has been described in Verse 67.
 Verse 68 declares that the closest of people to Sayyidna Ibrahim (علیہ السلام) were those who followed him during his time and now the closest to him is the Prophet of Islam, Muhammad a1-Mustafa ﷺ and so are the believers in him and in past prophets. These believers are the community of Muhammad ﷺ and their guardian is Allah and He will reward them for their belief.
 
 ## Personal Reflections
+
+

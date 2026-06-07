@@ -25,18 +25,6 @@ word_by_word:
     transliteration: fakīdūni
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (It will be said to the disbelievers): "Depart you to that which you used to deny! هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds.
@@ -126,3 +114,5 @@ Then Allah says,
 هَـٰذَا يَوْمُ لَا يَنطِقُونَ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُ‌ونَ (This is a day when they will not speak, nor will they be allowed to offer excuses....77:35, 36) In other words, this is the Day in which they will not be able to talk, nor will they be permitted to offer pleas for their misdeeds. However, other verses of the Qur'an inform us that they will speak and will be permitted to offer excuses. There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass. Sometimes they will pass through a stage where it would be forbidden for them to speak or offer excuses; and at another stage they will be permitted. [ Ruh ].
 
 ## Personal Reflections
+
+

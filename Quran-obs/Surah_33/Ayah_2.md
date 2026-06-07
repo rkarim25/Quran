@@ -56,17 +56,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (1. O Prophet! Have Taqwa of Allah, and obey not the disbelievers and the hypocrites. Verily, Allah is Ever All-Knower, All-Wise.)(2. And follow that which is revealed to you from your Lord. Verily, Allah is Well-Acquainted with what you do.)(3. And put your trust in Allah, and sufficient is Allah as a Trustee.)
 
 (And follow that which is revealed to you from your Lord.) meaning, of the Qur'an and Sunnah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -111,3 +103,5 @@ Here Allah points out something lower by referring to something higher. When He 
 What is said in verse وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّ‌بِّكَ ۚ إِنَّ اللَّـهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرً‌ا وَاتَّبِعْ مَا يُوحَىٰ إِلَيْكَ مِن رَّ‌بِّكَ ۚ إِنَّ اللَّـهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرً‌ا (And follow what is revealed to you from your Lord. Surely Allah is All-Aware of what you do.) is actually a complement of the first order. It means: Do not be beguiled or taken in by what the disbelievers and hypocrites say and do not agree or yield to it. Instead of all that, whatever you have been told by Allah through walhy (revelation) remains the only thing you and your companions should follow. Since, the noble companions ؓ and Muslims at large are included under this address, therefore, by saying: بِمَا تَعمَلُونَ (what you do) in the plural form at the end, everyone was alerted.
 
 ## Personal Reflections
+
+

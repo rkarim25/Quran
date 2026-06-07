@@ -80,18 +80,6 @@ word_by_word:
     transliteration: yaẓlimūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 57, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We shaded you with clouds and sent down on you Al-Manna and the quail, (saying): "Eat of the good lawful things We have provided for you," (but they rebelled). These two incidents took place in the wilderness of Tih.
@@ -159,3 +147,5 @@ The wilderness was just a barren space without a tree or a building which could 
 Allah had commanded the Israelites to take as much of the miraculous food as they really needed, and not to store it for future use. But when they disobeyed this commandment, the meat began to rot. This is how they harmed, not Allah, but themselves.
 
 ## Personal Reflections
+
+

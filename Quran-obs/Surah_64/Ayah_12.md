@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-mubīnu
 ---
 
-## Context
-
-To understand **The Mutual Disillusion** (At-Taghabun) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Taghabun is a **Madinah** surah—revealed as the 108th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Muqatil and Kalbi say that it was partly revealed at Makkah and partly at Madinah. Hadrat Abdullah bin Abbas and Ata bin Yasar say that vv. 1-13 were revealed at Makkah and vv. 14-18 at Madinah. But the majority of commentators regard the whole of the surah as a Madinan Revelation. Although there is no internal evidence to help determine its exact period of revelation, yet a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 No calamity occurs, but by the permission of Allah, and whosoever believes in Allah, He guides his heart. مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۗ وَمَن يُؤْمِن بِاللَّـهِ يَهْدِ قَلْبَهُ (And no calamity befalls [ one ], but with the leave of Allah.
@@ -129,3 +117,5 @@ Commentary
 مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّـهِ ۗ وَمَن يُؤْمِن بِاللَّـهِ يَهْدِ قَلْبَهُ (And no calamity befalls [ one ], but with the leave of Allah. And whoever believes in Allah, He guides his heart…64:11) In other words, it is a reality that not even a particle can move without the Divine will. Without the will of Allah no one can harm or benefit anyone. If a person does not believe in Allah and the Divine destination, he would not have any means of comforting himself when a calamity befalls him. He receives it with despair, and gropes for means of alleviating it. A believer, on the other hand, who reposes his faith in Divine will and destination is guided by Allah, and his heart is filled with peace and tranquility. Allah will guide his heart to certainty that whatever difficulty afflicts him could never have missed him, and whatever adversity has missed him could never have afflicted him. As a result of this belief, he is promised a reward in the Hereafter, which he keeps in view all the time. This strong belief in the promise of a reward in the Hereafter alleviates the worst calamity of this world.
 
 ## Personal Reflections
+
+

@@ -104,18 +104,6 @@ word_by_word:
     transliteration: ḥus'nan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So he followed a way (85)Until, when he reached the setting place of the sun, he found it setting in a spring of Hami'ah. The statement in verse 86: حَتَّىٰ إِذَا بَلَغَ مَغْرِ‌بَ الشَّمْسِ (until when he reached where the sun sets) means that he reached the far limit towards the West beyond which there was no populated area.
@@ -195,3 +183,5 @@ The statement: قُلْنَا يَا ذَا الْقَرْ‌نَيْنِ (We sa
 Dhul-Qarnain). This way could be to take this address to have been made to Dhul-Qarnain through the medium of some prophet - as suggested by the reported presence of Al-Khadir (علیہ السلام) with him. Then, it is also possible that this revelation is just not the kind of wahy that is peculiar to a prophet or messenger of Allah. May be, it is a wahy or revelation in the literal sense like the word: وَاَوحَینَا (awhaina: We revealed or put into the heart) used in the Qur’ an for the mother of Sayyidna Musa (علیہ السلام) - though, there is no probability of her being a prophet or messenger of Allah. But, Abu Hayyan says in al-Bahr al-Muhit that the command given here to Dhul-Qarnain is a command to punish and kill those people. No such command can be given without the authority of a revelation to a prophet. This action cannot be taken on the authority of Kashf (illumination) and Ilham (inspiration), nor can it be activated through any other source without the authority of wahy (revelation) to a nabiyy (prophet). For this reason, no probability other than the one being mentioned here is sound: Either Dhul-Qarnain himself is taken to be a prophet, or that there may be a prophet present during his time and it is through him that Dhul-Qarnain is addressed. And Allah knows best.
 
 ## Personal Reflections
+
+

@@ -88,18 +88,6 @@ word_by_word:
     transliteration: l-rāziqīna
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We did not send a warner to a township but those who were given the worldly wealth and luxuries among them said: "We believe not in what you have been sent with. This verse has appeared a little earlier (36) almost in the same words.
@@ -261,3 +249,5 @@ The hint embedded in this verse also tells us that as long as the things of use 
 Once the Arabs tapered down their use of camels for riding and transport purposes, the usual increase in the populations of their camels has also gone down. Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 
 ## Personal Reflections
+
+

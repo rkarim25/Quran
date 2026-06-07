@@ -153,17 +153,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari recorded that 'A'ishah said: "The Messenger of Allah ﷺ used to ask permission of us (for changing days) after this Ayah was revealed:
 
 This Hadith indicates that what is meant in this Hadith from 'A'ishah is that it was not obligatory on him to divide his time equally between his wives. The first Hadith quoted from her implies that the Ayah was revealed concerning the women who offered themselves to him. Ibn Jarir prefered the view that the Ayah was general and applies both to the women who offered themselves to him and to the wives that he already had, and that he was given the choice whether to divide him time among them or not. This is a good opinion which reconciles between the Hadiths. Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -270,3 +262,5 @@ At the end of this injunction the Holy Qur'an has declared:
 The context of the foregoing and forthcoming verses is the mention of the rules peculiar to the Holy Prophet ﷺ in the matter of marriage. In between these rules, the statement that Allah knows whatever lies in your hearts and Allah is All-Knowing, All-Wise does not appear to bear any nexus with the subject. It is stated in Ruh ul-Ma’ ani that the permission given to the Holy Prophet ﷺ to marry more than four wives or to marry without dower could have created satanic scruples in somebody's mind. So, this verse, coming in between, has directed that Muslims have to guard themselves against such suspicions and scruples and have to firm up their faith that all these exclusive exemptions are given by Allah Almighty on the basis of His infinite wisdom and expedience, and that the selfish desires have no room here.
 
 ## Personal Reflections
+
+

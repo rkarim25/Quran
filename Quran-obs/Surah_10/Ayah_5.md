@@ -101,18 +101,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is He Who made the sun a shining thing and the moon as a light and measured out for it stages that you might know the number of years and the reckoning. These two verses mention some signs openly visible in the universe of our experience.
@@ -252,3 +240,5 @@ In short, the verse points out to the perfect power and wisdom of Allah who crea
 For added warning, it was said at the end of the verse (5): مَا خَلَقَ اللَّـهُ ذَٰلِكَ إِلَّا بِالْحَقِّ ۚ يُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ (Allah has not created all this but for something right. He elaborates the signs for a people who understand). It means that Allah did not create all these things in vain. There is great wisdom behind it, and certainly numerous are the benefits they bring for human beings. These are elaborated signs. They are loud and clear. They are telling the truth to people who are blessed with reason and insight.
 
 ## Personal Reflections
+
+

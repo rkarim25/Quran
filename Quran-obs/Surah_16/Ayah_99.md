@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yatawakkalūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So when you recite the Qur'an, seek refuge with Allah from Shaytan, the outcast (98)Verily, he has no power over those who believe and put their trust only in their Lord (99)His power is only over those who obey and foll… The way of Faith and Trust in Allah is the way of freedom from the power and control of the Shaitan Verses 99 and 100 make it clear that Allah Ta’ ala has not given the Shaitan the kind of power which would disarm any human being and compel him to become helpless and take to evil.
@@ -95,3 +83,5 @@ Verses 99 and 100 make it clear that Allah Ta’ ala has not given the Shaitan t
 The same subject has been taken up in verse 42 of Surah al-Hijr where Allah Ta’ ala has Himself refuted the claim of the Shaitan by saying: إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ (Surely, My servants [ are such that ] you have no power over them - except [ over ] the one who follows you from among the astray - 15:42).
 
 ## Personal Reflections
+
+

@@ -108,18 +108,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 105, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The previous verse told us how the Jews behaved towards the Holy Prophet ﷺ ; the present verse speaks of their behaviour towards Muslims in general.
@@ -193,3 +181,5 @@ The previous verse told us how the Jews behaved towards the Holy Prophet ﷺ ; t
 These Jews used to make two claims -- firstly, that Judaism was a better religion than Islam; secondly, that they were the well-wishers of the Muslims. They could not establish the first of these claims on the basis of any valid argument, and it remained an empty assertion. Moreover, the difference between Islam and Judaism does not primarily depend on the question of one being better than the other. For, when something new comes to abrogate something older, the latter is automatically given up -- and Allah has sent Islam to abrogate all the earlier religions. The fact being so obvious, the Holy Qur'an says nothing in refutation of the first claim, and takes up only the second. The mushrikin مشرکین (associators) have been mentioned here along with the Jews for the sake of emphasis, and to point out that Jews cannot be the well-wishers of Muslims any more than mushrikin مشرکین can -- the two being alike in their hatred of Muslims.
 
 ## Personal Reflections
+
+

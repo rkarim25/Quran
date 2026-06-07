@@ -67,18 +67,6 @@ word_by_word:
     transliteration: l-ḥākimīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Nuh called upon his Lord and said, "O my Lord! The remaining account of the flood associated with the name of Sayyidna Nuh along with instructions related to it, appears in the five verses cited above.
@@ -120,3 +108,5 @@ The remaining account of the flood associated with the name of Sayyidna Nuh alon
 When Canaan, the son of Sayyidna Nuh (علیہ السلام) did not board the ark despite the counsel and call of his esteemed father who was still concerned emotionally as he saw his son surrounded by the waves of the flood. His filial love knocked at another door. He turned to his Lord and prayed to Him on the basis of His promise that He would save his family from the flood, and that His promise was true. But, conditions were alarming and his son who was part of his family was going to be swallowed by the flood. The only court of appeal he could now go to was the court of the most just of judges for everything was in His power and control and that He could still save him from the flood.
 
 ## Personal Reflections
+
+

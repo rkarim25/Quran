@@ -16,18 +16,6 @@ word_by_word:
     transliteration: lil'mukadhibīna
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who had Taqwa, shall be amidst shades and springs (41)And fruits, such as they desire (42)"Eat and drink comfortably for that which you used to do. كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُم مُّجْرِ‌مُونَ ("Eat and drink for a while!
@@ -107,3 +95,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُم مُّجْرِ‌مُونَ ("Eat and drink for a while! You are guilty ones...77:46) This verse addresses the infidels through the Holy Prophet ﷺ . They may eat and drink and enjoy themselves in this world, but the span is short, and then there will be nothing but punishment for them. [ Abu Hayyan ].
 
 ## Personal Reflections
+
+

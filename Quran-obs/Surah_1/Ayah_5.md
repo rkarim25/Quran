@@ -20,18 +20,6 @@ word_by_word:
     transliteration: nastaʿīnu
 ---
 
-## Context
-
-To understand **The Opener** (Al-Fatihah) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fatihah is a **Makkah** surah—revealed as the 5th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Surah Al-Fatihah is one of the very earliest Revelations to the Holy Prophet. As a matter of fact, we learn from authentic traditions that it was the first complete Surah that was revealed to Muhammad (Allah's peace be upon him). Before this, only a few miscellaneous verses were revealed which form parts of Alaq, Muzzammil, Muddaththir, etc.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah says, 'This is between Me and My servant, and My servant shall acquire what he sought.' When he says, The fourth verse اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ : “You alone we worship, and from You alone we seek help” has a double aspect, one of praise and another of prayer.
@@ -63,3 +51,5 @@ Then, acts of worship (Ibadah) are not limited merely to prescribed prayers or f
 Therefore, not associating anyone with Allah in worship means that one should not love or fear or depend on anyone else as one loves , or fears or depends on Allah, nor should one repose one's hope in anyone else, nor should one consider obedience or submission or service to another as obligatory as the worship of Allah, nor make a votive offering or consecrate or dedicate anything to anyone or take a vow in the name of anyone similar to the way one does these things in the case of Allah, nor should one show complete self-abasement and total humility before anyone as one is required to do before Allah, nor should one engage in the particular God-oriented acts of worship for anyone other than Allah, acts which symbolize the farthest limits of self-abasement, such as, ruku and sajdah (the bowing and prostrating in salah).
 
 ## Personal Reflections
+
+

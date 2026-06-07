@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-dīni
 ---
 
-## Context
-
-To understand **The Defrauding** (Al-Mutaffifin) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mutaffifin is a **Makkah** surah—revealed as the 86th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 36 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The style of the Surah and its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay! كِتَابٌ مَّرْ‌قُومٌ (A register inscribed!...83:9) The word marqum (translated above as 'inscribed' ) signifies here makhtum meaning 'sealed'.
@@ -159,3 +147,5 @@ It is a book inscribed and sealed. No one can add anything to it, nor can anyone
 كَلَّا سکتہ إِنَّهُمْ عَن رَّ‌بِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ (No! But that which they used to commit has covered their hearts with rust...83:14). The word rana is derived from rain and it means 'rust' or 'dust' or 'filth'. In other words, the rust of committing many sins has covered up their hearts. Just as rust consumes the iron, and turns it into dust, in the same way, the rust of while he was on the upper horizon....53:7)
 
 ## Personal Reflections
+
+

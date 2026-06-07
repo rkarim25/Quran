@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-yatīma
 ---
 
-## Context
-
-To understand **The Small kindnesses** (Al-Ma'un) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'un is a **Makkah** surah—revealed as the 17th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 7 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Subject Matter Its theme is to point out what kind of morals a man develops when he refuses to believe in the Hereafter. In verses 2-3 , the condition of the disbelievers who openly belie the Hereafter has been described, and in the last four verses the state of those hypocrites who apparently are Muslims but have no idea of the Hereafter, its judgment, and the meting out of rewards and punishments accordingly has been described. On the whole, the object of depicting the attitude and conduct of two kinds of people is to impress the point that man cannot develop a strong, stable and pure character in himself unless he believes in the Hereafter.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The love of the world causes nations to lose faith and consign Allah to oblivion This Surah denounces some of the evil actions of the pagans and the hypocrites, and it holds out a threat of destruction to those who commit them.
@@ -147,3 +135,5 @@ Surah Al-Ma’ un
 Ends here
 
 ## Personal Reflections
+
+

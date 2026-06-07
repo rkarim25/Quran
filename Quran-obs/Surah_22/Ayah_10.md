@@ -42,18 +42,6 @@ word_by_word:
     transliteration: lil'ʿabīdi
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And among men is he who disputes about Allah, without knowledge or guidance, or a Book giving light (from Allah)(8)Bending his neck in pride, and leading (others) too (far) astray from the path of Allah. ثَانِيَ عِطْفِهِ (Turning his side away - 22:5) The word عِطْفِ ` itf means ` side of the body', and the expression means ` to turn on one's side' - in other words ` to oppose'.
@@ -127,3 +115,5 @@ Allah has already told us about the ignorant imitators who are led astray:
 ثَانِيَ عِطْفِهِ (Turning his side away - 22:5) The word عِطْفِ ` itf means ` side of the body', and the expression means ` to turn on one's side' - in other words ` to oppose'.
 
 ## Personal Reflections
+
+

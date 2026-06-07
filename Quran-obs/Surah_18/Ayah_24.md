@@ -77,15 +77,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 At the beginning of this Surah we discussed the reason why this Ayah was revealed: when the Prophet was asked about the story of the people of the Cave, he said, "I will tell you tomorrow." Then the revelation was delayed for fifteen days.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ Ruling
 Firstly, these two verses (23, 24) tell us that saying Insha'Allah in the given situation is mustahabb (recommended). Secondly, they tell us that, should this part of the statement be left unsaid inadvertently, then, one may say it at the time one remembers. This injunction relates to the particular matter for which these verses have been revealed. It means that the purpose is simply to say this word to invoke Divine blessing and to confess to one's servitude and not to make the statement contingent or conditional. Therefore, it does not follow from here that one would do the same in buying and selling transactions and contracts where conditions are imposed and on this rests the contract between parties. Is it possible to impose a condition whenever one remembers later in case one had for-gotten to include the condition at the time of signing the original contract? The difference of some jurists exists in this issue details of which appear in books of Fiqh.
 
 ## Personal Reflections
+
+

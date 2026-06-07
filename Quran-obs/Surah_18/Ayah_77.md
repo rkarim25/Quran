@@ -105,18 +105,6 @@ word_by_word:
     transliteration: ajran
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then they both proceeded till when they came to the people of a town, they asked them for food, but they refused to entertain them. The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town - 77) which Sayyidna Musa and al-Khadir (علیہ السلام) passed through and whose inhabitants refused to host them was Antakiah, as in the report of Sayyidna Ibn ` Abbas ؓ ، and Aikah, as in the report of Ibn Sirin.
@@ -166,3 +154,5 @@ Allah tells us that
 The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town - 77) which Sayyidna Musa and al-Khadir (علیہ السلام) passed through and whose inhabitants refused to host them was Antakiah, as in the report of Sayyidna Ibn ` Abbas ؓ ، and Aikah, as in the report of Ibn Sirin. It has also been reported from Sayyidna Abu Hurairah ؓ that it was some habitation of al-Andulus (Spain) (Mazhari). Allah knows best.
 
 ## Personal Reflections
+
+

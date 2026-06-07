@@ -22,15 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single combat. This is the wording of Al-Bukhari in his Tafsir of this Ayah. Then Al-Bukhari recorded that 'Ali bin Abi Talib said, "I will be the first one to kneel down before the Most Merciful so that the dispute may be settled on the Day of Resurrection." Qays (sub-narrator) said, "Concerning them the Ayah was revealed:
 
-هَـٰذَانِ خَصْمَانِ اخْتَصَمُوا (These are two opponents who have disputed about their Lord - 22:19). This verse, with its general words, deals with two sets of people, namely the Muslims and the infidels whether they belong to the earliest times or to later ages. However, the particular event in the background of which it was revealed about two groups of men who faced each other in combat on the battleground of Badr. Sayyidna Hamzah and ` Ubaidah ؓ stepped out of the Muslim ranks, whereas ` Utbah bin Rabi'ah, his son Walid and his brother Shaibah came out to challenge them.
+هَـٰذَانِ خَصْمَانِ اخْتَصَمُوا (These are two opponents who have disputed about their Lord - 22:19). This verse, with its general words, deals with two sets of people, namely the Muslims and the infidels whether they belong to the earliest times or to later ages. However, the particular event in the background of which it was revealed about two groups of men who faced each other in combat on the battleground of Badr. Sayyidna Hamzah and ` Ubaidah ؓ stepped out of the Muslim ranks, whereas ` Utbah bin Rabi'ah, his son Walid and his brother Shaibah came out to challenge them. In the ensuing fight the three unbelievers were slain, Sayyidna and Hamzah ؓ emerged unscathed, while Sayyidna ` Ubaidah ؓ was mortally wounded and expired at the feet of the Holy Prophet ﷺ . The revelation of this verse in relation to these warriors of the field of Badr is well established on the authority of traditions contained in Bukhari and Muslim, but it is evident that its message is not exclusive for them alone, but embraces the entire Muslim community of all times and ages.
 
 ## Tafsir Summary
 
@@ -107,3 +101,5 @@ Commentary
 هَـٰذَانِ خَصْمَانِ اخْتَصَمُوا (These are two opponents who have disputed about their Lord - 22:19). This verse, with its general words, deals with two sets of people, namely the Muslims and the infidels whether they belong to the earliest times or to later ages. However, the particular event in the background of which it was revealed about two groups of men who faced each other in combat on the battleground of Badr. Sayyidna Hamzah and ` Ubaidah ؓ stepped out of the Muslim ranks, whereas ` Utbah bin Rabi'ah, his son Walid and his brother Shaibah came out to challenge them. In the ensuing fight the three unbelievers were slain, Sayyidna and Hamzah ؓ emerged unscathed, while Sayyidna ` Ubaidah ؓ was mortally wounded and expired at the feet of the Holy Prophet ﷺ . The revelation of this verse in relation to these warriors of the field of Badr is well established on the authority of traditions contained in Bukhari and Muslim, but it is evident that its message is not exclusive for them alone, but embraces the entire Muslim community of all times and ages.
 
 ## Personal Reflections
+
+

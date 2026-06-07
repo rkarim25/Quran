@@ -68,18 +68,6 @@ word_by_word:
     transliteration: bābin
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… Onwards from this point there comes the description of the same 'ultimate abode' when it is said that these shall be eternal gardens they shall enter.
@@ -165,3 +153,5 @@ Onwards from this point there comes the description of the same 'ultimate abode'
 After that, mentioned there is yet another reward for these people and this reward shall not remain restricted to those people in person. In fact, even their fathers, wives and children shall get their share in it - subject to the condition that they be good in deeds, the lowest degree of which is that they be Muslims. It means that the personal conduct of their fathers and wives was, though not good enough to have enabled them to arrive at this level of success, yet it would be because of the consideration and barakah of the accepted servants of Allah that they too shall be admitted to that high station.
 
 ## Personal Reflections
+
+

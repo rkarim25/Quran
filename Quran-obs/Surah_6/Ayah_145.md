@@ -169,17 +169,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 145, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Say: "I find not in that which has been revealed to me anything forbidden to be eaten by one who wishes to eat it, unless it be Maytah (a dead animal) or blood poured forth, or the flesh of swine; for that surely, is unclean (Rijs), or immorally slaughtered in the name of other than Allah. But whosoever is forced by necessity without willful disobedience, nor transgressing due limits; (for him) certainly, your Lord is Oft-Forgiving, Most Merciful. (145)
 
 (I find not in that which has been revealed to me anything forbidden to be eaten by one who wishes to eat it,)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -304,3 +296,5 @@ As for trading goods and cattle, the Nisab (threshold) was given by the Holy Pro
 At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِ‌فِين is That is, do not spend beyond limits because Allah Ta` ala does not like wasteful spenders. A question arises here. In case a person spends everything he has in the way of Allah, his wealth, even his life, this cannot be called ` Israf (extravagance). In fact, it would be difficult to say that, even by having done all that, one can be sure that he or she has done what was really the due of Allah! Then, what does this prohibition of ` Israf or extravagance at this place really mean? The answer is that extravagance in one department of life usually causes shortfall, short-coming or deficiency in other departments. One who spends extravagantly to fulfill his desires generally ends up failing in his duty to fulfill the due rights of others. Prohibited here is this kind of shortcoming. It means that should a person give away whatever he has in the way of Allah and return wits empty hands, how is he going to fulfill the rights of his children, family and relatives, even those of his own self? Therefore, the rule of guidance given is that one should observe moderation even when spending in the way of Allah so that all due rights can be taken care of.
 
 ## Personal Reflections
+
+

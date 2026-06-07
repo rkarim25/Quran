@@ -75,18 +75,6 @@ word_by_word:
     transliteration: yub'ṣirūna
 ---
 
-## Context
-
-To understand **The Prostration** (As-Sajdah) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the style of the Surah it appears that it was sent down during the middle Makkah period, more particularly in its initial stage, for one does not find in its background that severity of the persecution and tyranny which one finds in the Surahs sent down in the later stages.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Is it not a guidance for them: how many generations We have destroyed before them in whose dwellings they do walk about? The word: جُرُز (al-juruz) in verse 27: أَوَلَمْ يَرَ‌وْا أَنَّا نَسُوقُ الْمَاءَ إِلَى الْأَرْ‌ضِ الْجُرُ‌زِ فَنُخْرِ‌جُ (Have they not seen that We drive water to the dry land, then We bring forth crops thereby - 27) means barren land where trees do not grow.
@@ -170,3 +158,5 @@ There is a hint embedded here. Some lands are so soft that they cannot withstand
 And as for the correct position, this subject includes all such lands, with the inclusion of the land of Egypt known for scanty rains particularly. But, water from the rains in the Abyssinian territory of Africa comes into Egypt through the Nile bringing with it particles of the indigenous red soil which is good for the growth of crops. Therefore, the people of Egypt, despite that they have no rains in their country, do benefit by a supply of new water and soil every year. فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ (So, glorious is Allah, the Best of creators - 23:14).
 
 ## Personal Reflections
+
+

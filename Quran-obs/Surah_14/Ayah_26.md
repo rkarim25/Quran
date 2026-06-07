@@ -58,18 +58,6 @@ word_by_word:
     transliteration: qarārin
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 See you not how Allah sets forth a parable? Commentary In verse 18, Allah Ta` ala has likened the deeds of disbelievers to ashes which, if blown away by the wind, would scatter all over leaving no traces behind and making it impossible for someone interested to retrieve them and put them back to some use.
@@ -159,3 +147,5 @@ That man, after his death and burial, lives again, answers the questions asked b
 As a matter of principle, it can be said that taking one world on the analogy of the conditions prevailing in the other is wrong by itself. When the Creator of the universe has told us through His Messenger that once we pass on to another world, there is reward and punishment there, it becomes necessary for us to believe in it.
 
 ## Personal Reflections
+
+

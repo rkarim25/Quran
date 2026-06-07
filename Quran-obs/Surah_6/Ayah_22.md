@@ -55,18 +55,6 @@ word_by_word:
     transliteration: tazʿumūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? Mentioned in the previous verse (21) was that the unjust and the deniers of truth will not receive salvation.
@@ -178,3 +166,5 @@ In a Hadith, the Holy Prophet ﷺ has been reported to have said: What would hap
 The difference of fifty thousand and ten thousand in this narration also appears in two verses of the Holy Qur'an as well. In Surah Al-Ma` arij, it is said: كَانَ مِقْدَارُ‌هُ خَمْسِينَ أَلْفَ سَنَةٍ [ A Day ] the measure whereof is [ as ] fifty thousand years 70:4.' In Surah Al-Hajj, it is said: وَإِنَّ يَوْمًا عِندَ رَ‌بِّكَ كَأَلْفِ سَنَةٍ :A Day in the sight of thy Lord is like a thousand years of your reckoning - 22:47.' The reason for this difference is that this day will be long in terms of the severity of pain and the levels of pain will be different. Therefore, this day will seem to be that of fifty thousand years for some and that of one thousand years for others.
 
 ## Personal Reflections
+
+

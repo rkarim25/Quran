@@ -32,18 +32,6 @@ word_by_word:
     transliteration: ib'rāhīma
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "Burn him and help your gods, if you will be doing. قُلْنَا يَا نَارُ‌ كُونِي بَرْ‌دًا وَسَلَامًا عَلَىٰ إِبْرَ‌اهِيمَ (We said, "0 fire, be cold and safe for Ibrahim." - 21:69) As stated above, one explanation of the fire becoming cool and comfortable for Sayyidna Ibrahim (علیہ السلام) could be that it ceased to be fire and changed into a pleasant breeze.
@@ -87,3 +75,5 @@ Sa'id bin Jubayr reported that Ibn 'Abbas said: "When Ibrahim was thrown into th
 According to some historic versions he remained in the fire for seven days and used to recall that those seven days were the most comfortable time of his entire life. (Mazhari)
 
 ## Personal Reflections
+
+

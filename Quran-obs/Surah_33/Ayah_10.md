@@ -74,13 +74,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Identified in the previous verses was the great station of the Holy Prophet ﷺ along with the instruction to Muslims that they should follow and obey him totally and perfectly. Congruent to this, these two full sections of the Qur'an have been revealed about the event of the battle of al-Ahzab. Mentioned therein is the simultaneous attack of the combined forces of many groups of disbelievers and polytheists, their threatening encirclement, the subsequent blessings bestowed on Muslims by Allah Ta’ ala and the several miracles that issued forth at the hands of the Holy Prophet ﷺ . Then, very much as a corollary to this, there are many instructions and injunctions relating to different departments of life. It is because of these very priceless instructions that great commentators have written about the details of the event of Ahzab with considered details at this place, particularly al-Qurtubi, Mazhari and others. Therefore, some details of the event of Ahzab along with the instructions are being written here. Most of it has been taken from al-Qurtubi and Mazhari. That which has been taken from some other book carries the necessary reference.
 
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Identified in the previous verses was the great station of the Holy Prophet ﷺ along with the instruction to Muslims that they should follow and obey him totally and perfectly. Congruent to this, these two full sections of the Qur'an have been revealed about the event of the battle of al-Ahzab. Mentioned therein is the simultaneous attack of the combined forces of many groups of disbelievers and polytheists, their threatening encirclement, the subsequent blessings bestowed on Muslims by Allah Ta’ ala and the several miracles that issued forth at the hands of the Holy Prophet ﷺ . Then, very much as a corollary to this, there are many instructions and injunctions relating to different departments of life. It is because of these very priceless instructions that great commentators have written about the details of the event of Ahzab with considered details at this place, particularly al-Qurtubi, Mazhari and others. Therefore, some details of the event of Ahzab along with the instructions are being written here. Most of it has been taken from al-Qurtubi and Mazhari.
+Some non-pubert children had also come out with the Islamic 'army' with the desire to defend their faith. The Holy Prophet ﷺ asked children below the age of fifteen years to leave. Those fifteen year old were accepted - included therein were Sayyidna ` Abduliah Ibn ` Umar, Zayd Ibn Thabit, Abu Said al-Khudri and Bara' Ibn ` Azib ؓ When this Islamic force was ready to march for battle, the hypocrites who normally kept a face and remained intermingled among Muslims, started backing out. Some bolted away incognito. Others came up with false excuses and tried to get the permission of the Holy Prophet ﷺ to go back. This was a new trouble that rose from within. Some of the cited verses have been revealed about these very hypocrites. (Qurtubi)
 
 ## Tafsir Summary
 
@@ -245,3 +241,5 @@ Sayyidna Salman ؓ presented himself before the Holy Prophet ﷺ and told him ab
 The Holy Prophet ﷺ said, "In the light that was released after the first strike, I saw the palaces of the cities of Yaman and those of Cyrus and Angel Jibra'il told me: 'your Ummah will conquer these cities.' And when I struck at the rock the second time, I was shown the red palaces of the Byzantines and Angel Jibra'il gave the good news, 'your Ummah will conquer these cities as well.' " After having heard this, all Muslims felt at peace and became assured of their great successes in the future.
 
 ## Personal Reflections
+
+

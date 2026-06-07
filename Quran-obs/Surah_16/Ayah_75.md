@@ -117,18 +117,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah gives the example of a servant under the possession of another, he has no power of any sort, and a man on whom We have bestowed good provisions from Us, and he spends from that secretly and openly. In the first of the two examples given in the last two verses, the description is that of a master and a slave, that is, the owner and the owned.
@@ -150,3 +138,5 @@ Al-'Awfi reported that Ibn 'Abbas said: "This is the example which Allah gives o
 In the first of the two examples given in the last two verses, the description is that of a master and a slave, that is, the owner and the owned. By giving this example, it is being said: When these two, despite being from the same genus and the same kind, cannot be equal to each other, how then could you equate someone or something created by Allah with Him?
 
 ## Personal Reflections
+
+

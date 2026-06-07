@@ -72,18 +72,6 @@ word_by_word:
     transliteration: l-asfalīna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We have assigned for them intimate companions (in this world), who have made fair seeming to them, what was before them and what was behind them. لَا تَسْمَعُوا لِهَـٰذَا الْقُرْ‌آنِ وَالْغَوْا فِيهِ (Do not listen to this Qur'an, and make noiseduring its recitation, - 41:26) When all the efforts of the disbelievers failed in confronting the Holy Qur'an, they started doing such mischievous acts as mentioned in this verse.
@@ -177,3 +165,5 @@ It is Wajib (necessary) to listen quietly while Qur’ an is being recited; It i
 It is learnt from the above verse that making noises with the intention of creating disturbance in the recitation of the Qur'an is a sign of disbelief. It is also known that to listen quietly to the recitation of the Qur'an is wajib (necessary) and a sign of faith. It has become a usual practice in our days that people put their radios (and cassette players) on where the Holy Qur'an is recited with loud voice, which can be heard in about every restaurant and place of gathering, while people go about their business never paying any attention to the Holy Qur'an. This practice presents a picture that was a sign of infidels. May Allah Almighty guide Muslims. They should either avoid the recitation of the Holy Qur'an at such places and on such occasions where people are unable to listen to it, or if they wish to benefit from the blessing of the recitation, they must listen to it quietly and attentively.
 
 ## Personal Reflections
+
+

@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-awtādi
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. وَفِرْعَوْنَ ذِي الْأَوْتَادِ (and with Fir'aun [ the Pharaoh ], the man of the stakes...89:10).
@@ -225,3 +213,5 @@ Ibn 'Abbas said, "He hears and He sees." This means that He watches over His cre
 وَفِرْعَوْنَ ذِي الْأَوْتَادِ (and with Fir'aun [ the Pharaoh ], the man of the stakes...89:10). The word autad is the plural of watad that means 'peg or stake or nail'. Fir'aun (the Pharaoh) is referred to as 'the man of the stakes'. There are several reasons for this. Majority of the commentators hold the view that he was so called because of the brute torture and cruel torment he inflicted on the people. When he was angry with people, he would hammer stakes into the ground and tie them to these, so that they could be tortured; or he would hammer stakes into their hands and feet, as they lay on the ground in the scorching heat of the sun, and leave them to the mercy of snakes and scorpions. Other commentators have recounted a lengthy story about his wife 'Asiyah. She embraced 'Iman (the True Faith) and expressed it to Fir'aun (the Pharaoh). This angered him and he inflicted on her the same type of brute torture and destroyed her. [ Mazhari ].
 
 ## Personal Reflections
+
+

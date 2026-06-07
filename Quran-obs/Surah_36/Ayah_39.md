@@ -34,18 +34,6 @@ word_by_word:
     transliteration: l-qadīmi
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And a sign for them is the night. The text now turns to: وَالْقَمَرَ‌ قَدَّرْ‌نَاهُ مَنَازِلَ حَتَّىٰ عَادَ كَالْعُرْ‌جُونِ الْقَدِيمِ (And for the moon, We have appointed measured phases, until it turned [ pale, curved and fine ] like an old branch of date-palm.- 36:39).
@@ -183,3 +171,5 @@ The word: مَنَازِلَ (manazil) is the plural of: مَنزِل (manzil) a
 Relevant details have appeared in the commentary on Surah Yunus. It can be seen in Ma’ ariful-Qur'an, English, Volume IV, pages: 515-520. In this verse of Surah Yunus 10:5, the stages of the sun and the moon both have been mentioned: جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ‌ نُورً‌ا وَقَدَّرَ‌هُ مَنَازِلَ "[ He is the One who ] has made the sun a glow and the moon a light, and determined for it the stages - 10:5". The only difference is that the stages of the moon are identified through observation, while the stages of the sun are calculated mathematically. By saying: حَتَّىٰ عَادَ كَالْعُرْ‌جُونِ الْقَدِيمِ - (until it turned [ pale, curved and fine ] like an old branch of date-palm.- 36:39), described there is the state of the moon towards the end of the month when it recedes from the stage of the full moon to the extent that it transforms into the shape of a dried old bough bent like a bow. It is in consonance with the Arab surrounding that it has been likened to a dried bough of the date tree that assumes the shape of a crescent.
 
 ## Personal Reflections
+
+

@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Overwhelming** (Al-Ghashiyah) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ghashiyah is a **Makkah** surah—revealed as the 68th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 26 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7). When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pagans of Makkah [ mockingly ] said that their camels eat Dari` and yet they are fat and healthy. In response to their statement, the following verse of the Qur'an was revealed which means that they should not compare the Dari` of this world with that of the Hereafter. The latter will neither provide nutrition, nor satisfy their hunger.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -113,3 +105,5 @@ Ibn 'Abbas said, "Az-Zarabi are carpets." This was also said by Ad-Dahhak and ot
 لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7). When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pagans of Makkah [ mockingly ] said that their camels eat Dari` and yet they are fat and healthy. In response to their statement, the following verse of the Qur'an was revealed which means that they should not compare the Dari` of this world with that of the Hereafter. The latter will neither provide nutrition, nor satisfy their hunger.
 
 ## Personal Reflections
+
+

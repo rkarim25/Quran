@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 90, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Similarly, Sayyidna ` Uthman ibn Maz` un ؓ says: 'At the initial stage, I had embraced Islam because people around said so. But, Islam had not taken roots in my heart. Then, there came a day when I was pre-sent in the blessed company of the Holy Prophet ﷺ . All of a sudden, signs associated with the descent of revelation on him became apparent, and after some strange things had transpired, he said: "The emissary of Allah Ta` ala came to me and this verse was revealed upon me". Sayyidna ` Uthman ibn Maz` un ؓ says that once he saw this event and heard this verse, his faith became all firm and fortified in his heart and the love for Rasulullah ﷺ came to be settled there for good'. [ After reporting this event, Ibn Kathir has said that it is supported by strong and authentic chain of transmitting authorities ]
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -237,3 +229,5 @@ According to a saying of the Holy Prophet ﷺ ، there is no sin, except injusti
 The six commands, imperative and prohibitive, given in this verse are - if pondered upon - an elixir for the perfect prosperity of man's individual and collective life. May Allah bless us all with the ability of following them.
 
 ## Personal Reflections
+
+

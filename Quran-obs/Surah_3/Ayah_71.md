@@ -48,13 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture! Why do you disbelieve in the Ayat of Allah, while you bear witness. (70)"O People of the Scripture! Why do you mix truth with falsehood and conceal the truth while you know? (71)And a party of the People of the Scripture say: "Believe in the morning in that which is revealed to the believers, and reject it at the end of the day, so that they may turn back (72)And believe no one except the one who follows your religion." Say (O Prophet): "Verily, right guidance is the guidance of Allah." (And they say:) "Do not believe that anyone can receive like that which you have received, otherwise they would engage you in argument before your Lord." Say: "All the bounty is in the Hand of Allah; He grants to whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower. (73)He selects for His Mercy whom He wills and Allah is the Owner of great bounty (74)
 
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-A party of the People of the Scripture wish to lead you astray. But they shall not lead astray anyone except themselves, and they perceive not (69)"O People of the Scripture! Why do you disbelieve in the Ayat of Allah, while you bear witness. (70)"O People of the Scripture! Why do you mix truth with falsehood and conceal the truth while you know? (71)And a party of the People of the Scripture say: "Believe in the morning in that which is revealed to the believers, and reject it at the end of the day, so that they may turn back (72)And believe no one except the one who follows your religion." Say (O Prophet): "Verily, right guidance is the guidance of Allah." (And they say:) "Do not believe that anyone can receive like that which you have received, otherwise they would engage you in argument before your Lord." Say: "All the bounty is in the Hand of Allah; He grants to whom He wills. And Allah is All-Sufficient for His creatures' needs, All-Knower.
+(And a party of the People of the Scripture say: "Believe in the morning in that which is revealed to the believers, and reject it at the end of the day,)
 
 ## Tafsir Summary
 
@@ -119,3 +115,5 @@ They say, "Do not disclose the knowledge that you have to the Muslims, to preven
 The words in أَنتُمْ تَشْهَدُونَ (you are yourselves a witness - 70) and in أَنتُمْ تَعْلَمُونَ (you know ( 71) should not be taken to mean that disbelief will become permissible for them if they do not attest to the truth or have no knowledge about it. This is because kufr (disbelief) is intrinsically an abominable thing to practice. This is prohibited under all conditions. However, the mention of kufr (disbelief) after knowledge and attestation is to increase the impact of reproachment.
 
 ## Personal Reflections
+
+

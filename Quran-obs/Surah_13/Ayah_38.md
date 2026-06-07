@@ -94,17 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Say: "I am only a man like you. It has been revealed to me.")[18:110] It is recorded in the Two Sahihs that the Messenger of Allah ﷺ said,
 
 Out of the hostile questions the disbelievers and polytheists have al-ways been asking the blessed prophets - and were asked of the Holy Prophet ﷺ too by the polytheists of his time - two are fairly common. The first question envisaged that the injunctions revealed in the Book of Allah should be in accordance with their wishes. For instance, this request of theirs appears in Surah menus [ 10:15]: ائْتِ بِقُرْ‌آنٍ غَيْرِ‌ هَـٰذَا أَوْ بَدِّلْ that is, 'bring to us a Qur’ an other than this (which does not prohibit the worship of our idols), or change it (that is, you yourself change the injunctions brought by it, replacing 'punishment' with 'mercy' and 'unlawful' with 'lawful' ).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -199,3 +191,5 @@ Similarly, it is also prescribed that during such and such time what revelations
 Therefore, asking the Holy Prophet to insert particular kinds of in-junctions into the Qur'an as proposed by them, or asking him to show a particular miracle on request is a hostile and wrongful demand, which is based on an absence of awareness of the reality of messenger ship and prophethood.
 
 ## Personal Reflections
+
+

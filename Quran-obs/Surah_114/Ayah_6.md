@@ -16,18 +16,6 @@ word_by_word:
     transliteration: wal-nāsi
 ---
 
-## Context
-
-To understand **Mankind** (An-Nas) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nas is a **Makkah** surah—revealed as the 21st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 6 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Hasan Basri, 'Ikrimah, 'Ata' and Jabir bin Zaid say that these Surahs are Makki. A tradition from Hadrat 'Abdullah bin 'Abbas also supports the same view. However, according to another tradition from him, it is Madani and the same view is held also by Hadrat 'Abdullah bin Zubair and Qatadah. One of the traditions which strengthens this second view is the Hadith which Muslim, Tirmidhi, Nasa'i and Imam Ahmad bin Hanbal have related on the authority of Hadrat 'Uqbah bin 'Amir.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I seek refuge with the Lord of An-Nas, (1)"The King of An-Nas, (2)"The God of An-Nas, (3)"From the evil of the whisperer who withdraws. Verse [ 114:6] مِنَ الْجِنَّةِ وَالنَّاسِ (whether from among the Jinn or Mankind.) This is explicative of the expression waswas occurring in verse [ 4], meaning that the devils from amongst mankind and the Jinn whisper into the breasts of mankind.
@@ -243,3 +231,5 @@ Surah An-Nas
 Ends he
 
 ## Personal Reflections
+
+

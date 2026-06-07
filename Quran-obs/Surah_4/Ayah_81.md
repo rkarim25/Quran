@@ -105,18 +105,6 @@ word_by_word:
     transliteration: wakīlan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 81, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He who obeys the Messenger, has indeed obeyed Allah, but he who turns away, then We have not sent you as a watcher over them (80)They say: "We are obedient," but when they leave you, a section of them spends all night in planning other than what you say. That obedience to the Holy Prophet ﷺ is obligatory was the subject of verse 80.
@@ -190,3 +178,5 @@ The verse: فَأَعْرِ‌ضْ عَنْهُمْ وَتَوَكَّلْ عَ�
 From here we know that one who leads people has to go through all sorts of hardships. People tend to level absurd allegations against him. Then, there are enemies in the garb of friendship and trust around him. Despite the presence of all such obstacles, this leader must display determination and steadfastness and devote to his mission with full trust in Allah. If his objective and orientation is right, he will, Insha’ Allah, succeed.
 
 ## Personal Reflections
+
+

@@ -92,18 +92,6 @@ word_by_word:
     transliteration: rabbahu
 ---
 
-## Context
-
-To understand **The Clear Proof** (Al-Bayyinah) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Bayyinah is a **Madinah** surah—revealed as the 100th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Where Surah Al-Bayyinah was revealed, at Makkah or Madinah, is disputed. Some commentators say it is a Makki revelation according to most scholars; others say it is a Madani revelation according to most scholars. Ibn Az Zubair and Ata bin Yasar hold the view that it is Madani. Ibn Abbas and Qatadah are reported to have held two views, first that it is Makki, second that it is Madani. Hadrat Aishah regards it as a Makki Surah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who disbelieve from among the People of the Scripture and idolators, will abide in the fire of Hell. Verse [ 8 - the concluding phrase ] ذَٰلِكَ لِمَنْ خَشِيَ رَ‌بَّهُ (…That is for him who has awe of his Lord.) The word 'fear' or 'awe' here is not used in the sense of an 'agitated, disturbed or perturbed feeling' which we naturally have for an enemy, a beast, a ferocious animal or an obnoxious thing that might harm us.
@@ -193,3 +181,5 @@ Surah Al-Bayyinah
 Ends here
 
 ## Personal Reflections
+
+

@@ -62,18 +62,6 @@ word_by_word:
     transliteration: jadalan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We have given every kind of example in this Qur'an for mankind. The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَيْءٍ جَدَلًا (And man is the most quarrel-some of all things - 54) has been testified through a Hadith narrated by Sayyidna 'Anas ؓ in which the Holy Prophet ﷺ has been reported to have said, "On the day of Qiyamah, a man from among the disbelievers will be brought forth.
@@ -99,3 +87,5 @@ Allah says, 'In this Qur'an, We have explained to mankind and given clear detail
 The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَيْءٍ جَدَلًا (And man is the most quarrel-some of all things - 54) has been testified through a Hadith narrated by Sayyidna 'Anas ؓ in which the Holy Prophet ﷺ has been reported to have said, "On the day of Qiyamah, a man from among the disbelievers will be brought forth. He will be asked, 'what was your response to the messenger We had sent to you?' He will say, '0 my Lord, as for me, I did believe in You and in Your messenger too and that I obeyed him in everything I did.' Allah Ta` ala will say, 'here is your book of deeds before you. All this you say is not there.' This man will say, 'I do not believe in this book of deeds.' Allah Ta` ala will say, 'what about these angels of Ours? They used to watch you. They bear witness against you. This man will say, 'I do not accept their testimony as well, nor do I know them, nor have I seen them while I was doing what I did.' Allah Ta` ala will say, 'if so, this Preserved Tablet (اَلَّوح المَحفُوظ) is before you. Written here too is the same thing about you.' He will say, 'my Lord, have You granted me asylum from injustice or have you not?' Allah Ta` ala will say, 'Of course, you have your refuge against injustice with Us.' So then, he will say, '0 my Lord, how can I accept the verdict of those unseen witnesses I am not familiar with at all? As for me, I can only accept a witness that comes from my own person.' At that time, his mouth will be sealed, and his hands and feet will bear witness against his kufr and shirk. After that, he will be released and thrown into the Hell. (The subject matter of this narrative has been reported in Sahih Muslim, also from Sayyidna Anas ؓ - al-Qurtubi)
 
 ## Personal Reflections
+
+

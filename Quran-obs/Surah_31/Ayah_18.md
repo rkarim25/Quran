@@ -70,18 +70,6 @@ word_by_word:
     transliteration: fakhūrin
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A perusal of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "O my son! The Fifth Bequest of Luqman about Social Manners In verse 18, it was said: وَلَا تُصَعِّرْ‌ خَدَّكَ لِلنَّاسِ (And do not turn your cheek away from people).
@@ -191,3 +179,5 @@ In verse 18, it was said: وَلَا تُصَعِّرْ‌ خَدَّكَ لِل
 In the next sentence of the verse, it was said: وَلَا تَمْشِ فِي الْأَرْ‌ضِ مَرَ‌حًا (and do not walk on the earth haughtily - 18). The last word: مَرَ‌حًا (maraha) denotes walking proudly with assumed airs. The sense of the statement is that Allah Ta’ ala has given this earth the lowest profile from among the entire range of elements He created. Is it not that you were born from it and on it you walk around? Know your reality and do not walk haughtily. This is the way of the arrogant. Therefore, after that, it was said: إِنَّ اللَّـهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ‌ (Surely, Allah does not like anyone arrogant, proud - 18).
 
 ## Personal Reflections
+
+

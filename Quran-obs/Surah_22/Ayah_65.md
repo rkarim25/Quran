@@ -117,18 +117,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 See you not that Allah sends down water from the sky, and then the earth becomes green? سَخَّرَ‌ لَكُم مَّا فِي الْأَرْ‌ضِ (Allah has subjugated to you whatever there is on the earth - 22:65) It means that everything on this earth has been placed under the control of man.
@@ -242,3 +230,5 @@ Commentary
 سَخَّرَ‌ لَكُم مَّا فِي الْأَرْ‌ضِ (Allah has subjugated to you whatever there is on the earth - 22:65) It means that everything on this earth has been placed under the control of man. This raises the question that the mountains, rivers, beasts and birds and thousands of similar objects do not follow the commands of man. But placing something in the service of someone is also like putting it under his control, and in this verse the word Taskhir (subjugation) has been used to mean ` to serve'. The verse therefore means that all the things mentioned above are all the time working in the service of man by the command of Allah. It was quite within the power of Allah Ta’ ala to have placed all these things under the control of man, but in such a situation man himself would have been the loser, because human natures, desires and needs differ. If a person ordered the river to divert towards a particular direction, and some other person ordered to the contrary, the result would have been utter chaos and confusion. Therefore, Allah Ta’ ala has retained with Him alone the command of these things, but the benefits to be derived from them accrue to human beings.
 
 ## Personal Reflections
+
+

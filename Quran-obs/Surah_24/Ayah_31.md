@@ -335,15 +335,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This is a command from Allah to the believing women, and jealousy on His part over the wives of His believing servants. It is also to distinguish the believing women from the women of the Jahiliyyah and the deeds of the pagan women. The reason for the revelation of this Ayah was mentioned by Muqatil bin Hayyan, when he said: "We heard – and Allah knows best – that Jabir bin 'Abdullah Al-Ansari narrated that Asma' bint Murshidah was in a house of hers in Bani Harithah, and the women started coming in to her without lower garments so that the anklets on their feet could be seen, along with their chests and forelocks. Asma' said: 'How ugly this is!' Then Allah revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -576,3 +568,5 @@ And repent to Allah 0 believers, all of you - 24:31.
 In this verse first the men have been enjoined to keep their eyes low, then the women are enjoined the same. After that women are directed to cover themselves before non-Mahrams. After enjoining these injunctions separately to men and women, now a combined instruction is given that the sexual desire is a delicate thing, and it remains concealed from others. But everything, concealed or open, is completely known to Allah. Therefore, if someone has erred in following the foregoing injunctions, he should beg Allah's pardon, feel repentant on his past deeds and make a firm resolve not to indulge in them again.
 
 ## Personal Reflections
+
+

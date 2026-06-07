@@ -121,15 +121,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 97, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah says, fear Allah, O people, and beware of His might, by obeying what He commands you and avoiding what He prohibits for you in these Ayat revealed to your Prophet ﷺ. These Ayat forbid Khamr, gambling, Al-Ansab and Al-Azlam, along with hunting land game and killing it while in the state of Ihram. To Allah will be your return and destination, and He will punish you for disobeying Him and will reward you for obeying Him.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -284,3 +276,5 @@ Imam al-Razi has said that there is no contradiction in all these sayings which 
 At the end of the verse, it was said: ذَٰلِكَ لِتَعْلَمُوا أَنَّ اللَّـهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْ‌ضِ وَأَنَّ اللَّـهَ بِكُلِّ شَيْءٍ عَلِيمٌ (All this so that you may learn that Allah knows what is in the heavens and what is in the earth, and that Allah is All-Knowing in respect of everything). It means that Allah has made Baytullah and its adjuncts the source of stability, survival, peace and tranquility for people, something the people of Arabia keep witnessing particularly. This has been said so that everyone should know that Allah Ta` ala knows everything in the earth and the heavens and He alone is capable of managing and administering it.
 
 ## Personal Reflections
+
+

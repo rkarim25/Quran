@@ -114,18 +114,6 @@ word_by_word:
     transliteration: ʿaẓīmun
 ---
 
-## Context
-
-To understand **Abraham** (Ibrahim) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ibrahim is a **Makkah** surah—revealed as the 72nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from the tone of the Surah that it belongs to that group of the Surahs which were revealed during the last stage of the Makkan period. For instance, v. 13 ("The disbelievers warned their Messengers, 'you shall have to return to our community or we will assuredly expel you from our land'") clearly indicates that the persecution of the Muslims was at its worst at the time of the revelation of this Surah, and the people of Makkah were bent on expelling the Believers from there like the disbelievers of the former Pro…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Musa said to his people: "Call to mind Allah's favor to you, when He delivered you from Fir'awn's people who were afflicting you with horrible torment, and were slaughtering your sons and letting your women live; and in it was a tremendous trial from your Lord. . Please see footnote on the first verse of this Surah.
@@ -233,3 +221,5 @@ And the substance of the reality of patience (sabr) is that we should not worry 
 The second verse (6) carries details of what was said earlier, that is, when Sayyidna Musa (علیہ السلام) was commanded to remind his people, the Bani Isra` il, of the particular Divine blessing which changed their lives. Before the coming of Sayyidna Musa (علیہ السلام) ، they were living as slaves of the Pharaoh. Even as slaves, they were not treated humanely. Boys born among them were killed at birth. Only girls were left to survive and serve. After the appearance of Sayyidna Musa علیہ السلام ، such was his barakah that Allah Ta۔ ala had them delivered from the punishing clutches of the Pharaoh.
 
 ## Personal Reflections
+
+

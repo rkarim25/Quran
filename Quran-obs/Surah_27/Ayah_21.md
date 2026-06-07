@@ -42,18 +42,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He inspected the birds, and said: "What is the matter that I see not the hoopoe? I will punish him with a severe punishment - 27:21 It is part of the political sagacity to punish the absentee after making due scrutiny.
@@ -109,3 +97,5 @@ Unless he brings to me a clear plea. - 27:21
 That is, if the hoopoe offers a plausible excuse for its absence, then it will be saved from the punishment. There is a subtle hint in it that it is expected of a ruler or an administrator that if someone falters doing something, then it should be thoroughly investigated before punishing him. The punishment should be enforced only when the guilt is established, otherwise he should be forgiven.
 
 ## Personal Reflections
+
+

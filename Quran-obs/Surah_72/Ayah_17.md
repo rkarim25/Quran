@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Jinn** (Al-Jinn) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi reported similar to this from Ibn 'Abbas, and likewise said Mujahid, Sa'id bin Jubayr, Sa'id bin Al-Musayyib, 'Ata, As-Suddi, Muhammad bin Ka'b Al-Qurazi, Qatadah and Ad-Dahhak. Muqatil said, "This Ayah was revealed about the disbelievers of the Quraysh when they were deprived of rain for seven years."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ The Second View
 فَمَن يُؤْمِن بِرَ‌بِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَ‌هَقًا (...so if one believes in his Lord, he will have no fear of either any curtailment [ in his reward ] or any excess [ in his punishment ]...72:13). The ward bakhs, with ba' carrying fatha ] and kha' carrying sukun, means 'to reduce the right' and the word rahaq means 'disgrace'. In other words, anyone who believes in Allah need fear neither curtailment in the reward of his good deeds, nor disgrace by excess in his punishment in the Hereafter.
 
 ## Personal Reflections
+
+

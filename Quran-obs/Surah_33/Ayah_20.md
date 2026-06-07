@@ -101,18 +101,6 @@ word_by_word:
     transliteration: qalīlan
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name The Surah derives its name Al-Ahzab from verse 20 .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah already knows those among you who keep back (men) from fighting (in Allah's cause), and those who say to their brethren, "Come here towards us," while they come not to the battle except a little (18)Being miserly towards you. The second state mentioned here is that of the hypocrites for they had started saying that the promises of Allah and His Rasul ﷺ were a web of deception: إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ مَّا وَعَدَنَا اللَّـهُ وَرَ‌سُولُهُ إِلَّا غُرُ‌ورً‌ا (And (remember) when the hypocrites and those having malady in their hearts were saying, "Allah and His messenger did not promise us but deceitf…
@@ -176,3 +164,5 @@ The last three (25-27) of the cited verses refer to the event relating to Banu Q
 In the last verse (27), good news of future victories has been given. Gone is the time when disbelievers attacked. Now the cycle of Muslim victories will begin and they will come to be on lands their feet have not touched yet. And this prophecy unfolded itself during the tenure of the noble Sahabah and everyone witnessed the spectacle of great empires ruled by Cyrus and Caesar come under them. And Allah does what He wills.
 
 ## Personal Reflections
+
+

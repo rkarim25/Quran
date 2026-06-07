@@ -27,15 +27,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Star** (An-Najm) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
 
-أَعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَ‌ىٰ (Does he have knowledge of the Unseen whereby he sees [ what he believes ]?...53:35) According to the story recounted in connection with the occasion of revelation, the verse means: The person who embraced Islam and later abandoned it because his friend assured him that he would bear the punishment in the Hereafter on his behalf, and spare him the pain. The fool believed him and took for granted the assurance given to him. Does he have the knowledge of the Unseen, so that he is able to see that the chastisement he deserves for disbelief will be taken over for sure by his friend? This is wholly a make-believe situation. He neither has the knowledge of the Unseen, nor can he take on the punishment of somebody else and save him.
+أَعِندَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَ‌ىٰ (Does he have knowledge of the Unseen whereby he sees [ what he believes ]?...53:35) According to the story recounted in connection with the occasion of revelation, the verse means: The person who embraced Islam and later abandoned it because his friend assured him that he would bear the punishment in the Hereafter on his behalf, and spare him the pain. The fool believed him and took for granted the assurance given to him. Does he have the knowledge of the Unseen, so that he is able to see that the chastisement he deserves for disbelief will be taken over for sure by his friend? This is wholly a make-believe situation. He neither has the knowledge of the Unseen, nor can he take on the punishment of somebody else and save him. Apart from the story recounted in connection with the occasion of revelation, the verse would mean: Does this person, who stopped giving for fear of poverty and ended his acts of charity have knowledge of the Unseen and thus knows that if he does not stop spending, his wealth will go away? No. This is absolutely false. Such a person has neither the knowledge of the Unseen so that he is able to see that if he goes on spending, his wealth wi11 be depleted and not replenished. He stopped spending in charity for righteous causes, and did not keep relations with kith and kin because of his miserliness, being stingy and out of fear of poverty. The Qur'an makes plain in [ 34:39]
 
 ## Tafsir Summary
 
@@ -164,3 +158,5 @@ Then Allah will remind you of your actions and recompense you for them in the be
 And whatever thing you spend, He replaces it. And He is the best of the sustainers. [ 34:39]
 
 ## Personal Reflections
+
+

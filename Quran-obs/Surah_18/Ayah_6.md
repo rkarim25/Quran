@@ -50,18 +50,6 @@ word_by_word:
     transliteration: asafan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Perhaps, you would kill yourself in grief, over their footsteps, because they believe not in this narration (6)Verily, we have made that which is on earth an adornment for it, in order that We may test which of them are… The properties and merits of Surah al-Kahf According to a narration of Sayyidna Abu al-Darda' ؓ appearing in Muslim, Abu Dawud, Tirmidhi, al-Nasa'i and the Musnad of Ahmad, one who has memorized the first ten verses of Surah al-Kahf will remain protected from the ill effects of Dajjal (imposter).
@@ -143,3 +131,5 @@ Commentary
 The word: عوج ('iwaj) in: وَلَمْ يَجْعَل لَّهُ عِوَجًا (and allowed no crookedness in it - 1) means crookedness of any kind, or inclination towards one side or deviation from the norms of rectitude. The Holy Qur'an remains pure and free of all that in terms of the perfection of its words and meanings. It simply admits of no distortion anywhere, either in eloquence or in knowledge and wisdom. The sense which has been conveyed in a negative or eliminative form through: ` وَلَمْ يَجْعَل لَّهُ عِوَجًا (and allowed no crookedness in it) has been fortified positively through the word: قَيِّمًا (qayyima) which follows immediately for emphasis. The reason is that this word carries the sense of: مُستَقِیمَا (mustaqima) and that which is: مُستَقِیم (mustaqim: straightforward, straight, upright) will not have the least crookedness or tilt towards any side. However, قَیَّم (qayyim) can also have another sense, that of caretaker, custodian and protector. Given this probability, the sense of the expression would be that the Qur’ an, while perfect in itself as free from all kinds of excess, deficiency and crookedness, keeps others upright, firm and unflinching and protects the inter-ests and advantages of all servants of Allah. Thus the gist of the two expressions would be that the Holy Qur'an stands perfect in itself and has the ability to make men and women created by Allah become equally perfect. (Mazhari)
 
 ## Personal Reflections
+
+

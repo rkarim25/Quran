@@ -29,18 +29,6 @@ word_by_word:
     transliteration: yasjudūna
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest Surahs to be revealed at Makkah. The internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But no! So, what has happened to them that they do not believe, and when the Qur'an is recited to them, they do not offer sajdah [ prostration ] ۩?
@@ -172,3 +160,5 @@ Surah Al-Inshiqaq
 Ends here
 
 ## Personal Reflections
+
+

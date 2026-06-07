@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-mutaqūna
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then, who does more wrong than one who utters a lie against Allah, and denies the truth when it comes to him! All deeds will be given against oppressions and infringement of rights, but one's 'iman (faith) will not be given After having reported all Hadith narrations cited above, it has been said in Tafsir Mazhari that the thing mentioned about giving the deeds of the oppressor in settlement of the rights of the oppressed means deeds other than 'iman (faith).
@@ -107,3 +95,5 @@ After having reported all Hadith narrations cited above, it has been said in Taf
 In verse 32, it was said: كَذَّبَ بِالصِّدْقِ (rejects the truth) while in verse 33, it was said: الَّذِي جَاءَ بِالصِّدْقِ (As for the one who has come with the truth): At both these places, the word الصِّدْقِ : (as-sidq: the truth) means teachings brought by the Holy Prophet ﷺ ، whether it be the Qur'an, or be other teachings of ahadith in addition to the Qur'an. And the expression: صَدَّقَ بِهِ (saddaga bihi: and believed it to be true - 39:33) includes all believers who have testified to it.
 
 ## Personal Reflections
+
+

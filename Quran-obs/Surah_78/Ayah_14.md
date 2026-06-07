@@ -24,18 +24,6 @@ word_by_word:
     transliteration: thajjājan
 ---
 
-## Context
-
-To understand **The Tidings** (An-Naba) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As we have explained in the introduction to Surah Al-Mursalat, the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Beneficent, the Most Merciful. وَأَنزَلْنَا مِنَ الْمُعْصِرَ‌اتِ مَاءً ثَجَّاجًا (And We have sent down from the rain-laden clouds abundant water,...78:14).
@@ -195,3 +183,5 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 وَأَنزَلْنَا مِنَ الْمُعْصِرَ‌اتِ مَاءً ثَجَّاجًا (And We have sent down from the rain-laden clouds abundant water,...78:14). The word mu'sirat is the plural of mu` sirah 'rain-laden cloud'. This indicates that rain comes down from the cloud. There are verses, however, that indicate that rain comes down from the sky. Those verses too probably refer to 'upper atmosphere'. There are many verses in the Qur'an where the word sama' is used in that sense. Having mentioned these Divine blessings, the Surah reverts to its original theme of Resurrection and Judgment:
 
 ## Personal Reflections
+
+

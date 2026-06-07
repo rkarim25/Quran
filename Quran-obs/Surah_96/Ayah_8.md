@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clot** (Al-'Alaq) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Alaq is a **Makkah** surah—revealed as the 1st surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah. Thus, Allah firstly admonished him with that which was better by saying,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -131,3 +123,5 @@ Then Allah says,
 Verse [ 8] إِنَّ إِلَىٰ رَ‌بِّكَ الرُّ‌جْعَىٰ إِنَّ إِلَىٰ رَ‌بِّكَ الرُّ‌جْعَىٰ (Surely to your Lord is the Return.) The word rufa, like bushra, is the verbal noun of infinitive - meaning all will be returning to their Lord. The apparent meaning is 'returning to the Lord after death and giving account of good and bad deeds and seeing with their own eyes the evil consequences of arrogance.' The profounder meaning of the verse is that though man has been endowed with great natural powers and has been created in the best make, he errs grievously if he thinks that he can ignore Allah's help and guidance. He constantly stands in need of Divine assistance, because his capacities and capabilities - either as an individual or in his collective capacity - are at best limited. The proud and arrogant man is thus not self-sufficient. If he thinks deeply, he will find that he needs Allah for every movement and pause. If He has apparently not made any member of the human species in need of another, he is at least in need of Allah for all his needs. Thinking that human beings are not in need of one another is also a fallacy. Allah has made man a social being, and as such he cannot satisfy all his needs by himself. Allah has made the social system or network such that all human beings need one another to satisfy their needs some time or the other. Let us consider an example: A fresh morsel of food that goes into our mouth and we swallow it unreflecting, is the result of thousands of human beings and animals who worked hard for a long period of time. It is not possible for anyone to engage so many thousands of human beings in his service. The same applies to clothes and other needs which require the services of thousands of millions of humans and animals to prepare the needful things. None of them is his servant. Even if he hires them at a rate of wages to work for him, it would not be possible for him to pay them their wages or salary. This secret or mystery dawns upon man when he realizes that the system of preparing all his needs is set into motion by the consummate wisdom of the Creator of the universe. He inspired someone to become a farmer, He cast into another's mind to become a woodcutter or a carpenter, He kindled in someone else's mind to become a blacksmith, He stimulated others to be content with labouring or working for somebody else, He ignited in others the burning desire to be involved in commerce or business, trade or industry. In this way, Allah has set up a bazaar of human needs which no government, nor its legal system or an individual could ever set up. A careful thinking along this line must lead us to the natural corollary that إِنَّ إِلَىٰ رَ‌بِّكَ الرُّ‌جْعَىٰ (Surely to your Lord is the Return.", that is, we witness that ultimately all things are under Divine power and wisdom.
 
 ## Personal Reflections
+
+

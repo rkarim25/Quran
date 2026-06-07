@@ -46,18 +46,6 @@ word_by_word:
     transliteration: ʿitiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And man says: "When I am dead, shall I then be raised up alive? "Then We will certainly draw out from every group." - 19:69.
@@ -149,3 +137,5 @@ Then, at this point Allah attaches one piece of information to another. The mean
 The word is applied to a particular person or the followers of a particular faith, and it also means a sect. The meaning of the verse is that the most rebellious from amongst the different sects of the infidels will be picked out. Some commentators say that the sinners will be committed to Hell in the order of the intensity of their sins, i.e. those sinners will be driven in first whose sins are most intense and those with less intense sins, will follow them, and so on.
 
 ## Personal Reflections
+
+

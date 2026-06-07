@@ -16,18 +16,6 @@ word_by_word:
     transliteration: yāib'rāhīmu
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he said: "Verily, I am going to my Lord. In verse 104, 105, it was said: وَنَادَيْنَاهُ أَن يَا إِبْرَ‌اهِيمُ قَدْ صَدَّقْتَ الرُّ‌ؤْيَا (and then We called out to him, "0 Ibrahim, you did make the dream come true." ), that is, in accomplishing the task entrusted with him in obedience to the command of Allah, he left nothing undone, in fact, did it perfectly to the letter (more likely so because in the dream too, it was shown that Sayyidna Ibrahim (علیہ السلام) is simply moving his knife to slaughter his son).
@@ -179,3 +167,5 @@ Al-Baghawi said in his Tafsir, "This was the view of 'Abdullah bin 'Umar, Sa'id 
 In verse 104, 105, it was said: وَنَادَيْنَاهُ أَن يَا إِبْرَ‌اهِيمُ قَدْ صَدَّقْتَ الرُّ‌ؤْيَا (and then We called out to him, "0 Ibrahim, you did make the dream come true." ), that is, in accomplishing the task entrusted with him in obedience to the command of Allah, he left nothing undone, in fact, did it perfectly to the letter (more likely so because in the dream too, it was shown that Sayyidna Ibrahim (علیہ السلام) is simply moving his knife to slaughter his son). Now that test was over, so he should let him go.
 
 ## Personal Reflections
+
+

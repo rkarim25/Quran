@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Mansions of the Stars** (Al-Buruj) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Buruj is a **Makkah** surah—revealed as the 27th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Then, after Ibn Ishaq explained that the people of Najran began following the religion of the boy after his murder, which was the religion of Christianity, he said, "Then (the king) Dhu Nuwas came to them with his army and called them to Judaism. He gave them a choice to either accept Judaism or be killed, so they chose death. Thus, he had a ditch dug and burned (some of them) in the fire (in the ditch), while others he killed with the sword. He made an example of them (by slaughtering them) until he had killed almost twenty thousand of them. It was about Dhu Nuwas and his army that Allah revealed to His Messenger ﷺ:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -221,3 +213,5 @@ Special Note
 Ibn Kathir, with reference to Ibn Abi Hatim, writes that the incidents of 'trenches of fire' took place many times in history in different parts of the world. Then Ibn Abi Hatim specifies three particular incidents: [ 1] a trench in Yemen. [ This incident took place during the period of fatrah (the interval between ` Isa (علیہ السلام) and the Holy Prophet ﷺ ، about seventy years before the advent of the Prophet ﷺ ]; [ 2] a trench in Syria; and [ 3] a trench in Iran. He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia.
 
 ## Personal Reflections
+
+

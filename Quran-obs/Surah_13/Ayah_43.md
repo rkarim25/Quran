@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and those too who have knowledge of the Scripture.) This refers to 'Abdullah bin Salam, according to Mujahid. However, this opinion is not plausible, since this Ayah was revealed in Makkah and 'Abdullah bin Salam embraced Islam soon after the Prophet ﷺ emigrated to Al-Madinah. A more suitable explanation is that narrated by Al-'Awfi from Ibn 'Abbas that this Ayah refers to Jews and Christians. Qatadah said that among them are, 'Abdullah bin Salam, Salman (Al-Farisi) and Tamim Ad-Dari. The correct view is that this Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -124,3 +116,5 @@ This is the end of Surat Ar-Ra'd, and all praise is due to Allah and all favors 
 In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ (And if We show you some of what We promise them, or We take you back to Us), it is to comfort and assure the Holy Prophet ﷺ that he has been given the good news that the promises Allah has made to him that Islam will have the final victory and disbelief and disbelievers will be disgraced shall come to pass definitely. But, he is told, 'you should not concern yourself as to when this victory will finally come.' May be, this happens within his life time, and it is also possible that it comes after his departure from this mortal world. ` For your peace of heart, even this much is enough that you are continuously witnessing that We are causing the lands of the dis-believers to keep being sliced off their sides,' that is, these sides pass on under Muslim control whereby the land occupied by them keeps reducing in area. This causes well-being for Muslims and a day will come when the final phase of their victory shall stand completed. The command is in the very hands of Allah Ta` ala. There is no one who can avert this command. And He is the One swift at reckoning.
 
 ## Personal Reflections
+
+

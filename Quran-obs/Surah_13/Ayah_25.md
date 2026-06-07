@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-dāri
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who break the covenant of Allah, after its ratification, and sever that which Allah has commanded to be joined, and work mischief in the land, on them is the curse, and for them is the unhappy (evil) home (i.e. At the beginning of the section, human beings were divided into two kinds - those who are obedient to Allah Ta’ ala and those who are disobedient to Him.
@@ -207,3 +195,5 @@ This tells us that relationship with pious elders, whether of lineage, kinship o
 Finally, if we consider the statement in verse 25, that is: أُولَـٰئِكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدَّارِ (those are the ones for whom there is the curse, and for them there is the evil abode), we would recall that verses previous to it told us about the reward of His obedient servants - that their home will be in Paradise, angels would greet them with Salam, and tell them that the eternal blessings of Paradise are the direct result of their patience, fortitude and obedience. Similarly, in the verse cited above, announced is the end of the disobedient and the contumacious - that they are under the curse of Allah, that is, they are far removed from His mercy and that they have waiting for them an evil abode in Hell. This helps us realize that the breaking of pledges given and the severance of the bonds of kinship is the cause of Divine curse and consignment to Hell. May Allah keep all of us protected from such a fate.
 
 ## Personal Reflections
+
+

@@ -115,18 +115,6 @@ word_by_word:
     transliteration: bil-ʿibādi
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah bears witness that none has the right to be worshipped but He, and the angels, and those having knowledge (also bear witness to this); (He always) maintains His creation in justice. The Surah began with the confirmation of Divine Oneness and the refutation of Trinity.
@@ -258,3 +246,5 @@ The Prophet ﷺ said,
 The Surah began with the confirmation of Divine Oneness and the refutation of Trinity. Answered here are argumentations in which the disbelievers and deniers among the people of the Book persist - even after the truth of Islam has been proved conclusively. The advice against such ongoing. and unnecessary disputations is that the acceptance or rejection of disputers should be of no use to a believer who simply has to declare that he and those with him have entered the fold of Islam being in no doubt about its truth. The Holy Prophet ﷺ was entrusted with the mission of calling the people of the Book, the Jews and Christians, and the disbelievers of Arabia to submit to Allah and embrace Islam which will be for their own good for they will be on the right path. In case they continue to maintain their hostile attitude, the Holy Prophet ﷺ has been comforted here by saying that his duty is only limited to conveying the message of Allah and His commandments. That the message does not seem to get across to them, as they elect to reject rather than accept, should really not be a matter of concern for him. This is something Allah will take care of in His own way for He is in full sight of what His servants are doing.
 
 ## Personal Reflections
+
+

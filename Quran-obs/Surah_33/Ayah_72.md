@@ -82,15 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Here, it is worth pondering that the heavens, the earth and the mountains that are inanimate and, obviously devoid of knowledge and consciousness, how then would it be possible to rationalize the presentation of such an offer before them and that of their response to it? Some early commentators have taken this to be a figure of speech - as the noble Qur'an has said elsewhere by way of comparison: لَوْ أَنزَلْنَا هَـٰذَا الْقُرْ‌آنَ عَلَىٰ جَبَلٍ لَّرَ‌أَيْتَهُ خَاشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ اللَّـهِ (Had We sent down this Qur'an to a mountain, you would have seen it humbled, burst apart out of awe for Allah - Al-Hashr 59:21). It is obvious that this example has been given as a matter of supposition - not that it was really revealed to or on a mountain. So, these commentators have taken the 'offer' of 'trust' to the heavens etc. also in a figurative or metaphorical sense.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -215,3 +207,5 @@ In short, in the verse, the two words (Zalum and Jahul) mentioned above have bee
 And there are others who have said that Zalum and Jahul has been used at this place in the sense of 'naive', as an affectionate form of address carrying the thought that man, brimming with love for his Creator and in quest of the station of nearness to Him, simply forgot the end of the whole thing. Similarly, these words could also be taken to have been spoken for the entire humankind. In Tafsir Mazhari, details of this aspect have been reported from Mujaddid Alf Thani and other noble Sufis.
 
 ## Personal Reflections
+
+

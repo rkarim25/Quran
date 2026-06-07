@@ -98,18 +98,6 @@ word_by_word:
     transliteration: ruʿ'ban
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And you would have thought them awake, whereas they were asleep. The People of Kahf during their long sleep were in a state that an onlooker would have taken them to be awake The second state of the People of Kahf pointed out is that there were no signs of sleep on their bodies in spite of having been put to sleep for such a long period of time.
@@ -171,3 +159,5 @@ The address in verse 18: لَوِ اطَّلَعْتَ عَلَيْهِمْ (If 
 What was the basis of this awe and what were the reasons for it? This is something in which debate is useless - therefore, the Qur'an, and Hadith have not explained it. The truth of the matter is that Allah Ta’ ala, in His wisdom, had created such conditions for their protection that the Sun stays away from their bodies, and the onlooker takes them to be awake and is filled with awe of them and is consequently unable to see them fully. It is possible to have these conditions prevail by way of particular physical causes as well as by way of an extraordinary input or as the working of wonder (karamah). Now, when the Qur'an and Hadith have not determined any particular reason for it, debating it with hollow conjectures is futile. Preferring this approach, Tafsir Mazhari cites Ibn Abi Shaibah, Ibn al-Mundhir and Ibn Abi Hatim in support. They have reported an event relating to Sayyidna ` Abdullah ibn ` Abbas ؓ who says: 'we waged a Jihad against Byzantine forces in the company of Sayyidna Mu` awiyah ؓ which is known as the battle of al-Madiq (المضیق). On this trip, we passed through the site of the Cave of the People of Kahf. The Qur’ an mentions it. Sayyidna Mu’ awiyah wanted to go into the Cave and see the bodies of the People of Kahf. Sayyidna Ibn ` Abbas ؓ said, 'let us not do so because Allah Ta` ala has already prohibited someone better than you from seeing them, that is, the Rasul of Allah.' Then, he recited this very verse: لَوِ اطَّلَعْتَ عَلَيْهِمْ (If you had a look at them, you would have fled from them and would have been filled with awe of them - 18). [ This tells us that, in the sight of Sayyidna ` Abdullah ibn ` Abbas ؓ ، the address in لَوِ اطَّلَعْتَ (If you had a look) was to the Holy Prophet ﷺ ] But, Sayyidna Mu` awiyah ؓ did not accept his opinion [ perhaps, because he may have taken the address as being to common people and not to the Holy Prophet ﷺ . Or, it may be that the Qur'an has portrayed the condition of the time when the People of Kahf were alive and asleep. Now a long time had passed since they died. It was not likely that they would still have the same atmosphere of awe around them ]. However, Sayyidna Mu` awiyah, with his position unchanged, sent a few men to find out the facts. But, when they stepped into the Cave, Allah Ta` ala sent a hot wind upon them because of which they could not see anything. (Mazhari) (This report was also referred earlier under The People of Kahf: Place and Period' )
 
 ## Personal Reflections
+
+

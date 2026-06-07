@@ -38,15 +38,7 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): There is no God but I, so worship Me.)[21:25] It is similar to Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -143,3 +135,5 @@ A discussion concerning the letters of the alphabet (which appear at the beginni
 In the fifth verse, the theme has been emphasized further. Let man do what he elects to. Let him live the way he fancies. But, ultimately, once dead, man has to return to Him and He is powerful over everything. It is not at all difficult for Him to have each particle man is made of reassembled after he is dead and becomes dust and see to it that there rises the man he was, all over again.
 
 ## Personal Reflections
+
+

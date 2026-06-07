@@ -32,18 +32,6 @@ word_by_word:
     transliteration: yunshirūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Or have they taken (for worship) gods from the earth who raise the dead (21)Had there been therein (in the heavens and the earth) gods besides Allah, then verily, both would have been ruined. أَمِ اتَّخَذُوا آلِهَةً مِّنَ الْأَرْ‌ضِ هُمْ يُنشِرُ‌ونَ (Or have they taken to gods from the earth who raise the dead?
@@ -99,3 +87,5 @@ Then Allah tells us that if there were another god besides Him, the heavens and 
 أَمِ اتَّخَذُوا آلِهَةً مِّنَ الْأَرْ‌ضِ هُمْ يُنشِرُ‌ونَ (Or have they taken to gods from the earth who raise the dead? - 21:21) Here the ignorance of polytheists is described variously. Allah says how foolish and ignorant the polytheists are that they have made their gods from amongst the creatures of the earth who do not have the power of life and death.
 
 ## Personal Reflections
+
+

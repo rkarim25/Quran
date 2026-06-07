@@ -126,18 +126,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Allah gives an example of two men, one of them dumb, who has no power over anything, and he is a burden on his master; whichever way he directs him, he brings no good. In the second example, there is a man who bids justice and teaches what is good.
@@ -175,3 +163,5 @@ Mujahid said, "This also refers to idols and the True God, may He be exalted." M
 In the second example, there is a man who bids justice and teaches what is good. This is a model of his intellectual perfection. Then he him-self takes the path of moderation and right guidance. This is the model of his practical perfection. Set against the power of this intellectually and practically perfect man, there is the other man who cannot do anything for himself nor can he do anything right for others. These two men of two different kinds, despite being from one genus, one species and one brotherhood, cannot be equal to each other. So, how can some created being or thing become equal to the Creator and Master of the universe who is Absolute in Wisdom, Absolute in Power, and All-Knowing and All-Aware?
 
 ## Personal Reflections
+
+

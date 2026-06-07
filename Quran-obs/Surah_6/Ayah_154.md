@@ -78,17 +78,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 154, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 ("O our people! Verily, we have heard a Book sent down after Musa, confirming what came before it, it guides to the truth.")[46:30] Allah's statement,
 
 (...complete for that which is best, and explaining all things in detail...") means; 'We made the Book that We revealed to Musa, a complete and comprehensive Book, sufficient for what he needs to complete his Law.' Similarly, Allah said in another Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ The reason of being ` ignorant of (or heedless to) what they studied - 156' was 
 As for their second saying: لَوْ أَنَّا أُنزِلَ عَلَيْنَا الْكِتَابُ لَكُنَّا أَهْدَىٰ مِنْهُمْ (If the Book had been sent down to us, we would have been more adhering to the right path than they' ), a question and its answer has already appeared under the commentary on verse 19 of Surah A-Ma'idah earlier in this volume. This concerns the hope of salvation during the period of Fatrah or gap between prophets.
 
 ## Personal Reflections
+
+

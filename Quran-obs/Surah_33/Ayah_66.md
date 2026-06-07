@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Here Allah tells His Messenger ﷺ that he cannot know when the Hour will come, and if people ask him about that, He instructs him to refer the matter to Allah, may He be exalted, as Allah says in Surat Al-A'raf, even though that was revealed in Makkah and this Surah was revealed in Al-Madinah. Allah continues to tell him to refer this matter to the One Who knows about it, but He tells him that it is at hand, as He says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -143,3 +135,5 @@ Commentary
 Those hostile to Allah and the Messenger were warned of and alerted to curse and punishment in the present world and in the Hereafter while many factions among the disbelievers, in their own place, simply denied the eventuality of any Qiyamah (Doomsday) or 'Akhirah (Hereafter) and, because of their denial, used to mockingly ask: When would that Qiyamah come? An answer to their question has been given in the cited verse, that the Doomsday may be in near future. It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close. Another reason for its being declared as close is that after facing the horrible incidents of Qiyamah the entire worldly life of thousands of years will seem to be very short (and the Qiyamah very close to it).
 
 ## Personal Reflections
+
+

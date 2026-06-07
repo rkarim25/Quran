@@ -63,18 +63,6 @@ word_by_word:
     transliteration: tadmīran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when We decide to destroy a town (population), Amarna those who live luxuriously. Previous verses said that it is the customary practice of Allah Ta` ala that he does not send punishment upon a people until the commandments of Allah reach them through the blessed prophets which they still refuse to obey.
@@ -132,3 +120,5 @@ The influence of the rich over a people is a natural phenomenon
 By particularly mentioning affluent people who use their wealth to pursue a life of luxury, it has been indicated that the masses are naturally affected with the deeds and morals of those rich among them and those who rule over them. When these people get used to misdeeds, the whole nation follows suit and takes to misdeeds (as the only available norm of social survival). Therefore, those who have been blessed with wealth by Allah Ta’ ala should be more concerned with the correction of their deeds and morals - lest they fall into the trap of a luxurious life style, are heedless to self-correction, and make the entire nation go astray because of them. If so, the curse of the misdeeds that issue forth from their nation will fall on them too.
 
 ## Personal Reflections
+
+

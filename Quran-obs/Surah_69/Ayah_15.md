@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-wāqiʿatu
 ---
 
-## Context
-
-To understand **The Reality** (Al-Haqqah) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heave… فَإِذَا نُفِخَ فِي الصُّورِ‌ نَفْخَةٌ وَاحِدَةٌ (Then, when the Trumpet will be blown for the first time…69:13).
@@ -109,3 +97,5 @@ In other words, then the trumpet will be blown a second time and at once they wi
 According to some narratives, a third 'trumpet' will also be blown before the two trumpets, which is referred to as nafkhat-ul-faza` ('the trumpet of fright or panic). By a careful analysis of all the narratives and texts, it appears that the first trumpet in its initial stage is nafthat-ul-faza' and in its final stage it will become sa` aq 'the trumpet of swoon or death'. [ Mazhari ]
 
 ## Personal Reflections
+
+

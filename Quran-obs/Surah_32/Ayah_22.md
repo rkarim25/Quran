@@ -61,15 +61,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Prostration** (As-Sajdah) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection. 'Ata' bin Yasar, As-Suddi and others mentioned that this was revealed concerning 'Ali bin Abi Talib and 'Uqbah bin Abi Mu'it. Hence Allah has judged between them when He said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -142,3 +134,5 @@ There are some crimes the punishment of which comes even within the mortal world
 The last sentence of the set of verses cited above reads:إِنَّا مِنَ الْمُجْرِ‌مِينَ مُنتَقِمُونَ (We have to take vengeance upon the sinners - 22). Obviously, the word: الْمُجْرِ‌مِينَ (al-mujrimin: the criminals) includes all kinds of criminals. Then, the word: اِنتِقَام (intiqam: revenge, retribution, return) is also general. It may be in the mortal world or in the Hereafter or in both. But, from some Hadith accounts it appears that there are three sins the punishment of which is experienced - before the Hereafter - right here in this world too. They are: (1) To strive against what is Right and True publicly with flags and slogans; (2) To disobey parents; (3) To help someone unjust or oppressive. (Reported by Ibn Jarir from Sayyidna Mu'dh Ibn Jabal ؓ .
 
 ## Personal Reflections
+
+

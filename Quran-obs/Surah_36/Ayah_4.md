@@ -16,18 +16,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surah Ya Sin Al-Hafiz Abu Ya'la recorded that Abu Hurayrah, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said: The Merits of Surah Ya Sin Sayyidna Ma'qil Ibn Yasar ؓ narrates that the Holy Prophet ﷺ said: یٰسٓ قَلبُ القُرآن (Surah Ya Sin is the heart of the Qur'an) and some words of this Hadith tell us that a person who recites Surah Ya Sin exclusively for the sake of Allah and the 'Akhirah is forgiven, and that it should be recited over the dead among us (reported by Ahmad and Abu Dawud and an-Nas'i and Ibn Hibban and al-Hakim and others - as in Ruh-ul-Ma’ ani and al-Mazhari).
@@ -119,3 +107,5 @@ About Giving someone the name: (Ya Sin: written as Yasin):
 Imam Malik (رح) does not like to name a person as Yasin for the reason that, according to him, it is one of the Divine Names and its exact meaning remains unknown. Therefore, it is possible that it may have some meaning that is exclusive to Allah Ta’ ala, and nobody is allowed to have that name, for example: اَلخَالق (al-khaliq: The Creator), اَلرَّازِق (ar-raziq: The Provider-Sustainer) and other names of this nature. Still, if this word is written with a script that reads: (Yasin), it is permissible to give that name to a human being, because the Qur'an says: سَلَامٌ عَلَىٰ إِلْ يَاسِينَ (Peace on Ilyasin or Al Yasin) (Ibn al-'Arabi). The well recognized rendering (qira'ah) of this verse is: إِلْ يَاسِينَ (ilyasin) but, in some renderings, it also appears as: اٰلِ یَاسِین (al-yasin).
 
 ## Personal Reflections
+
+

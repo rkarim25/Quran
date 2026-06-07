@@ -50,18 +50,6 @@ word_by_word:
     transliteration: fāʿilīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears. لَوْ أَرَ‌دْنَا أَن نَّتَّخِذَ لَهْوًا لَّاتَّخَذْنَاهُ مِن لَّدُنَّا إِن كُنَّا فَاعِلِينَ (Had We intended to have a pastime, We would have had it from Our own, if We were to do so.
@@ -149,3 +137,5 @@ In Arabic language the word لَو is used for imaginary and non-existent things
 The commonly accepted meaning of لَھو is a purposeless pastime, and this meaning has been adopted in translating this verse. According to some commentators this word لَھو is also used sometimes for wife or children in which case the meaning of the verse would be a denial of the belief of the Jews and Christians, who thought that Sayyidna ` Uzair and Sayyidna Masih (علیہما السلام) were God's sons. If Allah wished to have children why should they be from humans and not from other creatures around Him. (Allah knows best).
 
 ## Personal Reflections
+
+

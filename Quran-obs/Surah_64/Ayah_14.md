@@ -82,13 +82,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Mutual Disillusion** (At-Taghabun) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُ‌وهُمْ ( O those who believe, among your wives and your children there are some enemies for you, so beware of them…4:14). Tirmidhi, Hakim and others have recorded, with authentic chain of transmitters, on the authority of Sayyidna Ibn ‘Abbas ؓ ، that this verse was revealed regarding those Muslims who embraced Islam in Makkah after the migration of the Holy Prophet ﷺ to Madinah. They intended to migrate to Madinah and join the Holy Prophet ﷺ ، but their wives and children refused to allow them. [ Ruh ] This was the time when it was compulsory for every Muslim to migrate from Makkah. Therefore, the wives and children who stood in way of loyalty and obedience to Divine laws are referred to as their enemies, and it was emphasized that they should beware of them, because none can be greater enemy than one who involves a person in the eternal punishment and everlasting Fire of Hell. ‘Ata’ Ibn Rabah reports that this verse was revealed in connection with ‘Auf Ibn Malik Ashja’ i ؓ . He was in Madinah. Whenever the occasion arose to go to war or jihad and he would intend to participate in the jihad, his wife and children would complain: “ In whose care are you leaving us?” He would be influenced by their complaint and change his mind. [ Ruh and Ibn Kathir ]
 
-Surah At-Taghabun is a **Madinah** surah—revealed as the 108th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَّكُمْ فَاحْذَرُ‌وهُمْ ( O those who believe, among your wives and your children there are some enemies for you, so beware of them…4:14). Tirmidhi, Hakim and others have recorded, with authentic chain of transmitters, on the authority of Sayyidna Ibn ‘Abbas ؓ ، that this verse was revealed regarding those Muslims who embraced Islam in Makkah after the migration of the Holy Prophet ﷺ to Madinah. They intended to migrate to Madinah and join the Holy Prophet ﷺ ، but their wives and children refused to allow them. [ Ruh ] This was the time when it was compulsory for every Muslim to migrate from Makkah. Therefore, the wives and children who stood in way of loyalty and obedience to Divine laws are referred to as their enemies, and it was emphasized that they should beware of them, because none can be greater enemy than one who involves a person in the eternal punishment and everlasting Fire of Hell. ‘Ata’ Ibn Rabah reports that this verse was revealed in connection with ‘Auf Ibn Malik Ashja’ i ؓ . He was in Madinah.
+وَإِن تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُ‌وا فَإِنَّ اللَّـهَ غَفُورٌ‌ رَّ‌حِيمٌ (And if you forgive and overlook and pardon, then Allah is Most-Forgiving, Very-Merciful…634:14). The Muslims who were warned by the previous verse that their wives and children were their enemies, decided that they would treat their family members harshly. On that occasion, this part of the verse was revealed. The verse purports to say that although your wives and children behaved like enemies and stood in your way to perform your duty towards Allah, do not treat them harshly and mercilessly, but rather treat them politely and leniently. This is better for you because Allah loves forgiving and showing mercy’.
 
 ## Tafsir Summary
 
@@ -217,3 +213,5 @@ Ruling
 Scholars have deduced from the above verse that if the family members to anything in violation of the sacred laws, it is not appropriate to be disappointed with them totally, or to be hostile towards them, or to hate or curse them. [ Ruh ]
 
 ## Personal Reflections
+
+

@@ -72,18 +72,6 @@ word_by_word:
     transliteration: muh'tadūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when they commit a 'Fāḥishah', they say: "We found our fathers doing it, and Allah has commanded it for us." Say: "Nay, Allah never commands 'Fāḥishah'. In the third verse (30), it was said that there are people Allah has guided right while there are others who have provided the proof of their erroneous conduct, because they have, bypassing Allah, made satans their comrades, and they presume that they are on the right path.
@@ -241,3 +229,5 @@ Now someone may doubt that a person who is acting in good faith, though in error
 However, a person who has striven his best in the quest of truth, yet failed to find the right path and true teaching, may be found excusable in the sight of Allah - as Imam al-Ghazali has said in his book, Al-Tafriqah Bayn al-Islam wa Al-zandaqah واللہ اَعلَم .
 
 ## Personal Reflections
+
+

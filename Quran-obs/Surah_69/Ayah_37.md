@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-khāṭiūna
 ---
 
-## Context
-
-To understand **The Reality** (Al-Haqqah) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Subject Matter The first section ( vv. 1-37 ) is about the Hereafter and the second ( vv. 38-52 ) about the Qur'an's being a revelation from Allah and the Holy Prophet's being a true Messenger of Allah. The first section opens with the assertion that the coming of the Resurrection and the occurrence of the Hereafter is a truth which has to take place inevitably. Then in vv. 4-12 , it has been stated that the communities that denied the Hereafter in the past became worthy of Allah's scourge ultimately. In vv. 13-17 the occurrence of Resurrection has been depicted. In vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But as for him who will be given his Record in his left hand, will say: "I wish that I had not been given my Record!") (25)"And that I had never known how my account is! فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ (So, he has no friend here today, nor any food except from that which flows from wounds when washing...69:35-36].
@@ -87,3 +75,5 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ (So, he has no friend here today, nor any food except from that which flows from wounds when washing...69:35-36]. The word hamim means 'a sincere or bosom friend'. The word ghislin with 'gh' bearing the kasrah [= i ] refers to the water with which the pus and blood of the wounds of the inmates of Hell will be washed. The verses signify that on the Day of Resurrection he will have no friend that will support him or save him from punishment, nor will he have anything to eat except the filthy water with which pus exuding from the wound of the inmates of Hell might have been washed. The words 'nor any food' mean that they will not have any delectable food to eat. This statement does not negate things like ghislin which are distasteful and reprehensible. Therefore, it does not contradict another verse which states that the inmates of Hell will eat zaqqum.
 
 ## Personal Reflections
+
+

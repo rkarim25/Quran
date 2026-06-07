@@ -63,18 +63,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 128, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-128-129
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, there has come unto you a Messenger from among yourselves. These are the last verses of Surah At-Taubah where it has been declared that the Holy Prophet ﷺ is very kind and merciful for the entire creation of Allah, particularly so for Muslims.
@@ -182,3 +170,5 @@ These are the last verses of Surah At-Taubah where it has been declared that the
 That this theme appears at the end of Surah At-Taubah happens to be very appropriate. It will be recalled that this Surah has been full of references to the declaration of withdrawal from the disbelievers, the ultimate severance of relationship with them and then fighting in Jihad against them. This is, however, the last resort of the Call to Allah subject to the condition that the initial steps of Da'wah (call) and Tabligh (communication of the Message) leave no hope of correction and betterment. But, the basic function of the prophets is to invite people to the way of Allah with love, affection, sympathy and an earnest de-sire for their well-being; if they have to face aversion from the people or have to suffer some hardships, they are supposed to leave it to Allah and place their trust in Him, for He is the Lord of the Great Throne. By saying the Rabb رَبّ or Lord of the Great ` Arsh, the purpose is to lay stress on the fact that He encompasses the entire creation.
 
 ## Personal Reflections
+
+

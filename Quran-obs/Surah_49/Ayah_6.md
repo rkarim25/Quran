@@ -77,15 +77,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rooms** (Al-Hujurat) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And Allah is Forgiving, Most Merciful.) It was reported that this Ayah was revealed about Al-Aqra' bin Habis At-Tamimi, may Allah be pleased with him, according to more than one source. Imam Ahmad recorded that Al-Aqra' bin Habis said that he called the Messenger of Allah ﷺ from behind his dwellings, saying, "O Muhammad! O Muhammad!" "O Allah's Messenger!" according to another narration, but the Messenger ﷺ did not answer him, Al-Aqra' said, "O Allah's Messenger.My praise (of others) is worthwhile and my admonishment (of others) is degrading." The Prophet ﷺ replied,
 
-Sayyidna Khalid Ibn Walid ؓ arrived near the settlement at night and encamped there. He selected a few of his men and sent them furtively as spies into the location to investigate. They returned and reported that the members of the tribe were Muslims and believers; they were regular with their prayers and in paying their alms; and they did not find the tribe doing anything contrary to Islam. Sayyidna Khalid Ibn Walid ؓ came back, and reported the whole story to the Holy Prophet ﷺ .
+Sayyidna Khalid Ibn Walid ؓ arrived near the settlement at night and encamped there. He selected a few of his men and sent them furtively as spies into the location to investigate. They returned and reported that the members of the tribe were Muslims and believers; they were regular with their prayers and in paying their alms; and they did not find the tribe doing anything contrary to Islam. Sayyidna Khalid Ibn Walid ؓ came back, and reported the whole story to the Holy Prophet ﷺ . This verse was revealed on that occasion (Ibn-Kathir - summary of several reports).
 
 ## Tafsir Summary
 
@@ -216,3 +210,5 @@ Therefore, they will receive the same punishment that is prescribed for a sin or
 Nevertheless, it is not at all necessary that in the current verse, Walid Ibn 'Uqbah ؓ is categorically referred to as fasiq. Despite the fact that the verse is supposed to have been revealed in his incident, it does not mean that the word 'fasiq' is used for him, because before this incident, Walid Ibn 'Uqbah had not done any such thing on account of which he could be referred to as fasiq. An analysis of the incident of Banul-Mustaliq indicates that he conveyed an incorrect information about that tribe which, acting in good faith, he thought was true whereas in reality it was not. Therefore, the plain import of the current verse would be that it simply establishes the general rule that the news conveyed by a fasiq would be unacceptable. However, it may be emphasized that Walid Ibn 'Uqbah was not a fasiq, but his information, because of strong external context, did not seem acceptable. As a result, the Holy Prophet ﷺ refrained from taking any measures merely on his information, and sent Khalid Ibn Walid for proper investigation. If this is the case of the news conveyed by a bona fide reliable and righteous person, then with the stronger reason a fasiq's news should be rejected and should not be acted upon. The truthfulness of the Companions ؓ is discussed fully by this author in his book "The Status of the Companions" which is already published in Urdu. It will partly be discussed under forthcoming verses 9-10.
 
 ## Personal Reflections
+
+

@@ -63,18 +63,6 @@ word_by_word:
     transliteration: fāʿilīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. فَفَهَّمْنَاهَا سُلَيْمَانَ (So We enabled Sulayman to understand it - 21:79).
@@ -234,3 +222,5 @@ Glorification of Allah by birds and mountains
 وَسَخَّرْ‌نَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ‌ وَكُنَّا فَاعِلِينَ (And with Dawud We subjugated the mountains that proclaimed the purity of Allah, and the birds as well. And We were the One who did (it) - 21:79.) Allah Ta` ala had granted Sayyidna Dawud (علیہ السلام) a melodious voice among the other outward absolute excellences. When he used to recite Zabur the birds would stop in their flight and join him in recitation. In the same way the mountains and the trees used to produce sounds as if they were singing praises to glorify Allah. A melodious voice was an external attribute granted to him by Allah and the joining with him of the birds and the mountains in praising Allah with him was a miracle. Now, for a miracle to happen it is not necessary that the birds and the mountains must necessarily possess life and intelligence; rather a miracle can give intelligence and knowledge to those objects which were without these attributes earlier. However .scientific research has proved that rocks and mountains do have life and knowledge to a limited extent. Among the companions Sayyidna Abu Musa al-Ash` ari (رح) had a very sweet voice. Once the Holy Prophet ﷺ passed by him when he was reciting the Holy Qur'an. The Holy Prophet ﷺ stopped and listened to the recitation. Then he remarked that Allah Ta` ala had granted him the sweet voice of Dawud (علیہ السلام) . When Abu Musa ؓ learnt that the Holy Prophet ﷺ had been listening to his recitation, he said" Had I known that you were listening, I would have tried to recite with greater care".
 
 ## Personal Reflections
+
+

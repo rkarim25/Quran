@@ -71,18 +71,6 @@ word_by_word:
     transliteration: lakādhibūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If you could but see when they will be held over the (Hell) Fire! In the second verse (28), Almighty Allah, who is All-Knowing and All-Aware, exposes the reality of their wish, which would be nothing but the compulsion of circumstances, by making it clear that these people have always been addicted to lying and that they were liars even in their present wish under trial.
@@ -170,3 +158,5 @@ Then, their All-Knowing, All-Aware Master said that this was what they were sayi
 That their present statement has been called a lie could also be based on their ultimate deed, that is, their promising not to lie if returned to the world was not true, for this would never happen because they would still do nothing but keep lying when they go there. This lie could also mean that whatever they were saying at that time was not prompted by true intention. They were doing so simply to buy time and avoid punishment while in the heart of their hearts, they still have no intention of doing it.
 
 ## Personal Reflections
+
+

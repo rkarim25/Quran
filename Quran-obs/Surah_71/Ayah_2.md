@@ -29,18 +29,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **Noah** (Nuh) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Nuh is a **Makkah** surah—revealed as the 71st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter shows that it was sent down in the period when opposition to the Holy Prophet's message of Islam by the disbelievers of Makkah had grown very strong and active. Theme and Subject In this surah the story of the Prophet Noah has not been related only for the sake of story telling, but its object is to warn the disbelievers of Makkah, so as to say:"You, O people of Makkah, are adopting towards Muhammad (upon whom be Allah's peace and blessings) the same attitude as the people of the Prophet Noah had adopted towards him; if you do not change this attitude, you too would meet with the same end." This had not been said in so many words anywhere in the Surah, but in the background of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (In the Name of Allah, the Most Gracious, the Most Merciful. وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
@@ -100,3 +88,5 @@ Surah Al-Ma’ arij
 Ends here.
 
 ## Personal Reflections
+
+

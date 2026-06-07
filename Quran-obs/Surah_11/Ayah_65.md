@@ -50,18 +50,6 @@ word_by_word:
     transliteration: makdhūbin
 ---
 
-## Context
-
-To understand **Hud** (Hud) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And O my people! In verse 65, it was said: تَمَتَّعُوا فِي دَارِ‌كُمْ ثَلَاثَةَ أَيَّامٍ "Enjoy yourselves in your homes for three days [ only ]." That is, when these people killed the she-camel associated with the miracle in flagrant contravention of the Di-vine command, then, something serious happened.
@@ -75,3 +63,5 @@ That historical lens is essential. The Qur'an is not an abstract textbook—it i
 In verse 65, it was said: تَمَتَّعُوا فِي دَارِ‌كُمْ ثَلَاثَةَ أَيَّامٍ "Enjoy yourselves in your homes for three days [ only ]." That is, when these people killed the she-camel associated with the miracle in flagrant contravention of the Di-vine command, then, something serious happened. As warned earlier, ` lest a near punishment should seize you - 64', the punishment did come upon them in a manner that they were given a respite of three days and told that they all will be destroyed on the fourth day.
 
 ## Personal Reflections
+
+

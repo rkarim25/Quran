@@ -50,18 +50,6 @@ word_by_word:
     transliteration: laṣādiqūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, when they despaired of him, they consulted in private. Then, in verse 81, it was said: ارْ‌جِعُوا إِلَىٰ أَبِيكُمْ , that is, the oldest brother said: I am going to stay here.
@@ -147,3 +135,5 @@ Rules and Principles
 The Holy Prophets ﷺ has, by his personal conduct, affirmed it positively. On his way back from his Masjid, when he was going through an alley with Ummul-Mu'minin, Sayyidah Safiyyah ؓ he noticed two persons appearing at the head of the alley. They were still at some distance, but the Holy Prophet told them that he was with Safiyyah hint Huyayy. They said: Ya Rasul Allah, can anyone have any suspicion about you? Then, he said: Yes, the shaitan keeps seeping through the human body, may be it drops a doubt in somebody's heart. (Al-Bukhari and Muslim) [ Qurtubi ]
 
 ## Personal Reflections
+
+

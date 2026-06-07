@@ -50,18 +50,6 @@ word_by_word:
     transliteration: tahtadūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. In Verse 16, it was said: وَأَلْقَىٰ فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِكُمْ (And He placed mountains on the earth, lest it should shake with you).
@@ -121,3 +109,5 @@ In Verse 16, it was said: وَأَلْقَىٰ فِي الْأَرْ‌ضِ رَ
 The sense of the verse is that Allah Ta’ ala has not made the sphere of the Earth from components which are not solid and balanced, therefore, it is heavier on one side and lighter on some other. Its necessary outcome was that the Earth was to be taken as stationary, as commonly held by early thinkers; or, taken to be orbitally moving, as determined by some early and most modern scientists. Under both these views, this phenomenon would have caused terrestrial turbulence which is identified as shaking, swinging or swaying from side to side. To stop this turbulence and to provide a balance for the terrestrial composition, Allah Ta` ala placed on the Earth the weight of mountains so that it would not shake. As for its orbital movement like all planets which is the commonly held view from Pythagoras to modern scientists made more explicit through contemporary experiments, it is something which the Holy Qur’ an neither affirms nor rejects. In fact, this possible turbulence which has been stopped through the use of mountains should be more conducive to this orbital movement which is credited to the Earth like other planets. Allah knows best.
 
 ## Personal Reflections
+
+

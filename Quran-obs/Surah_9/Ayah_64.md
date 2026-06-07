@@ -78,15 +78,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 64, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts. Say: "(Go ahead and) mock! But certainly Allah will bring to light all that you fear. (64)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -127,3 +119,5 @@ Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا 
 And Sayyidna ` Ibn ` Abbas ؓ says that Allah Ta` ala had in-formed the Holy Prophet al about the names of seventy hypocrites complete with their parentage and addresses. But, being the universal mercy, he did not disclose these before his people. (Mazhari)
 
 ## Personal Reflections
+
+

@@ -28,18 +28,6 @@ word_by_word:
     transliteration: yum'nā
 ---
 
-## Context
-
-To understand **The Resurrection** (Al-Qiyamah) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Although there is no tradition to indicate its period of revelation, yet there is in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Nay, when it reaches to the collarbones (26)And it will be said: "Who can cure him? '[ It will be said to such a man,] Woe to you, then woe to you!
@@ -195,3 +183,5 @@ This is the end of the Tafsir of Surat Al-Qiyamah, all praise and thanks are due
 The word aula is the inverted form of wail which means ' The expression 'woe' has been mentioned four times for the has made it his habit to deny and reject, and was steeped in died in that state. Therefore, destruction has been heaped times: [ 1] at the time of death; [ 2] in the grave; [ 3] at Resurrection; and finally [ 4] at the time of entering Hell. destruction'. person who wealth, and on him four the time of
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: taqrabūni
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Yusuf's brethren came and they entered unto him, and he recognized them, but they recognized him not (58)And when he furnished them with their provisions, he said: "Bring me a brother of yours from your father. Still, if you do not bring him to me, then you deserve no measure from me [ because it will prove that you have lied to me, and thus ], nor shall you come even close to me.
@@ -117,3 +105,5 @@ Still, if you do not bring him to me, then you deserve no measure from me [ beca
 Then, he made a secret arrangement as well. He ordered his young workers on the job to collect the cash, jewelry and any other articles paid by his brothers as the cost of the grains, and tie it up secretly with their supplies in the camel-packs in a way that they should remain unaware of it while there - so that, when they open their packs after having arrived home, and find their cash and jewelry back in their hands, they may have a reason to return for grains once again.
 
 ## Personal Reflections
+
+

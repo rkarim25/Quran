@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Thunder** (Ar-Ra'd) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Say: "I am only a man like you. It has been revealed to me.")[18:110] It is recorded in the Two Sahihs that the Messenger of Allah ﷺ said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -145,3 +137,5 @@ This is the subject dealt with in this verse. It says that the change or alterat
 And that is the exclusive domain of Divine knowledge. Written there are the decisions, injunctions and commands which issue forth as the final outcome after the conditions of deeds have been fulfilled or du' has been answered. Therefore, that is totally free of obliteration and assertion and addition and deletion. (Ibn Kathir)
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: sanatin
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. تَعْرُ‌جُ الْمَلَائِكَةُ وَالرُّ‌وحُ (to whom ascend the angels and the Spirit ...70:4).
@@ -217,3 +205,5 @@ Apparently, there seems to be a discrepancy between the two verses. The narrativ
 Mazhari has interpreted verse [ 5] of Surah As-Sajdah differently. He says that the day of a thousand years mentioned here refers to one of the days of the phenomenal world. Jibra'il (علیہ السلام) and other angels with him descend from the heavens to the earth and then ascend from the earth to the heavens. This is such a long journey that if man were to undertake it, it would take him a thousand years. Authentic ahadith report that the journey from heavens to earth takes five hundred years and the journey back from earth to the heaven takes another five hundred years, totalling a thousand years according to human travelling. Assuming man were to conquer this distance, a return journey would take him a thousand years between heavens and earth and back, although the angels cover this distance in a very short time. In short, verse [ 5] of Surah As-Sajdah refers to a day of the phenomenal world while the verse of Surah Al-Ma` arij refers to the Day of Judgment which will be very much longer than the days of this world, the length and shortness of which will be experienced differently by different people according to their conditions. And Allah, the Pure and Exalted, knows best!
 
 ## Personal Reflections
+
+

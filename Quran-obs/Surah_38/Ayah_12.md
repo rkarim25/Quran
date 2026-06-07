@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-awtādi
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Before them denied – the people of Nuh; and 'Ad; and Fir'awn the man of stakes (12)And Thamud, and the people of Lut, and the Dwellers of Al-Aykah; such were the Confederates (13)Not one of them but denied the Messengers; therefore My torment was justified (14)And these only wait for a single Sayhah there will be no pause or ending thereto (15)They say: "Our Lord! وَفِرْ‌عَوْنُ ذُو الْأَوْتَادِ (and Fir'aun, the man of the stakes - 12).
@@ -95,3 +83,5 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 وَفِرْ‌عَوْنُ ذُو الْأَوْتَادِ (and Fir'aun, the man of the stakes - 12). The literal meaning of this expression appearing in verse 12 is 'Pharaoh of the stakes or pegs'. The commentators have explained this phrase in different ways. Some of them have said that this phrase refers to the stability of his dominion, and the sense is that the stakes or pegs of his kingdom were well-rooted in his country. Maulana Thanavi (رح) has translated the phrase according to this explanation. Some others have said that he used to punish people by making them lie flat on the ground and driving stakes or pegs through their hands and feet, and on top of that, he would have snakes and scorpions released over the victim's body. Still others have said that he used to play some kind of a game with ropes and pegs and then, there are those who say that 'al-autad' or pegs means buildings fox he had set up very strong structures (Tafsir Qurtubi). Pure is Allah who knows best.
 
 ## Personal Reflections
+
+

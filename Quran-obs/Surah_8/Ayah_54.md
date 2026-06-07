@@ -76,18 +76,6 @@ word_by_word:
     transliteration: ẓālimīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-42-54 Sanctity of treaties has been enjoined and the Muslims commanded to observe them as long as the other party does not break them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves. The words used in the first of the verses cited above are almost the same as have appeared a verse earlier in: كَدَأْبِ آلِ فِرْ‌عَوْنَ ۙ وَالَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا بِآيَاتِ رَ‌بِّهِمْ فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ ' (Their way is) like the way of the people of Pharaoh and of those before them - 52.' But, the purpose behind these two statements differs in both.
@@ -117,3 +105,5 @@ The words used in the first of the verses cited above are almost the same as hav
 In addition to that, in the first verse (52), said there was: فَأَخَذَهُمُ اللَّـهُ بِذُنُوبِهِمْ (so, Allah seized them for their sins) while what has been said here is: فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ (so, We destroyed them for their sins - 54). This explains the brevity in the first statement because, in the first verse, mentioned there was their being seized in punishment which could take different forms. May be, they are overtaken by misfortunes with-in their lifetime on this earth, or that their very existence in eliminated outright. In the present verse (54), by saying: أَهْلَكْنَاهُم (We destroyed them), it was made clear that the punishment all those peoples deserved was the punishment of death, therefore, they were destroyed. The destruction of every set of such people took different forms. Since the Pharaoh from among them claimed godhood and his people attested to his claim, therefore, he was mentioned particularly: وَأَغْرَ‌قْنَا آلَ فِرْ‌عَوْنَ (and drowned the people of Pharaoh - 54). As for the forms in which destruction came upon other peoples, it has not been described here. However, details pertaining to these too have appeared in other verses where it has been said that some of them were overrun by an earthquake, some others were made to sink into the earth, or transformed into animals, or seized by wind storms - and finally, came the punishment for the disbelievers of Makkah at the hands of Muslims in the battle of Badr.
 
 ## Personal Reflections
+
+

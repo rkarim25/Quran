@@ -55,18 +55,6 @@ word_by_word:
     transliteration: alīmun
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They (people) said: "For us, we see an evil omen from you; if you cease not, we will surely stone you, and a painful torment will touch you from us. The word: تَطَيَّرْ‌ (tatayyur) in verse 18: قَالُوا إِنَّا تَطَيَّرْ‌نَا بِكُمْ (We take you as a bad omen for us.) means the seeing of an evil omen in someone or taking someone to be wretched.
@@ -112,3 +100,5 @@ They (people) said: "For us, we see an evil omen from you; if you cease not, we 
 The word: تَطَيَّرْ‌ (tatayyur) in verse 18: قَالُوا إِنَّا تَطَيَّرْ‌نَا بِكُمْ (We take you as a bad omen for us.) means the seeing of an evil omen in someone or taking someone to be wretched. It is being said here that the people of this town did not listen to these blessed souls sent to them and chided them as being wretched or carriers of misfortune. It appears in some narrations that a famine had overtaken this town, because the people of the town had curtly turned down the good counsel of the messengers. That is why the people of the town called them wretched, or maybe they were hurt in some other way. So, as is the common habit of disbelievers, they would hasten to attribute any distress that afflicts them to prophets and the righteous who are nothing but their guides and benefactors. Hence, in this case too, they lost no time and attributed their own wretchedness to these blessed elders. This happens to be similar to what has been said in the Qur'an about the people of Sayyidna Musa (علیہ السلام) فَإِذَا جَاءَتْهُمُ الْحَسَنَةُ قَالُوا لَنَا هَـٰذِهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُ‌وا بِمُوسَىٰ وَمَن مَّعَهُ (So when something good come to them they said, "This is our right". And if they suffered from something evil, they ascribed it as an ill omen to Musa and those with him - 7:131). Similarly, the people of Sayyidna Salih (علیہ السلام) said to him: اطَّيَّرْ‌نَا بِكَ وَبِمَن مَّعَكَ (They said, "we regard you and those with you as a sign of bad omen". - 27:47).
 
 ## Personal Reflections
+
+

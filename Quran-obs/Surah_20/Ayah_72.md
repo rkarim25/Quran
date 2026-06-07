@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-dun'yā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Fir'awn) said: "Believe you in him before I give you permission? قَالُوا لَن نُّؤْثِرَ‌كَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَ‌نَا (They said, "We will never prefer you over the clear signs that have come to us, and over Him who created us." - 20:72).
@@ -175,3 +163,5 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 قَالُوا لَن نُّؤْثِرَ‌كَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَ‌نَا (They said, "We will never prefer you over the clear signs that have come to us, and over Him who created us." - 20:72). The magicians, however, stood firm and did not waver in the face of the Pharaoh's threats. They told him plainly that they would not give him, nor anything he said, preference over the clear proofs and the miracles which Allah had shown to them. Sayyidna ` Ikrimah ؓ says that when the magicians prostrated themselves before Allah, He gave them a glimpse of the eminent places and the gifts which were to be their reward in Paradise. They confirmed their belief in the one God Who created the earth and the skies and rejected Pharaoh's claim to divinity: While neglecting the threats of the Pharaoh they further said: "So you do what you want and punish us in whatever manner you choose. And, "You can punish us as long as we live but when we die we will be out of your reach. On the other hand we are in the power of Allah both in this and after death, and His punishment is of greater concern to us".
 
 ## Personal Reflections
+
+

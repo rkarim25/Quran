@@ -62,18 +62,6 @@ word_by_word:
     transliteration: shāhidīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ the goats of the people wandered therein grazing - 21:78).
@@ -207,3 +195,5 @@ Commentary
 نَفَشَتْ فِيهِ غَنَمُ الْقَوْمِ the goats of the people wandered therein grazing - 21:78). In Arabic language the word نَفَشَ (translated above as 'wandering and grazing' ) means an animal getting into a field at night and damaging it.
 
 ## Personal Reflections
+
+

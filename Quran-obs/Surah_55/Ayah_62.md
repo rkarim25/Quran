@@ -16,18 +16,6 @@ word_by_word:
     transliteration: jannatāni
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 62, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be… هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ (Is there any reward for goodness other than goodness?...55:60).
@@ -161,3 +149,5 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ (Is there any reward for goodness other than goodness?...55:60). Having described the two Gardens for the intimate believers, it is declared as a principle that a good deed attracts a good reward. The righteous believers will be blessed, therefore, with good rewards.
 
 ## Personal Reflections
+
+

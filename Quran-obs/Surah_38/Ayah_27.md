@@ -71,18 +71,6 @@ word_by_word:
     transliteration: l-nāri
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We created not the heaven and the earth and all that is between them without purpose! The delicate order of the verses These verses in which the basic beliefs of Islam, particularly that of the Hereafter, have been emphatically confirmed appear in between the description of events relating to Sayyidna Dawud (علیہ السلام) with an order that is extremely delicate and sublime.
@@ -124,3 +112,5 @@ O Dawud, We have made you a vicegerent on earth, so judge between people with tr
 Now, from here it is in an imperceptible manner that the Hereafter has been positively confirmed by positing that here is the supreme Being of Allah asking his deputy on the earth to establish the rule of law and justice resulting in punishment for the evil and peace for the good - when so, is it not that the same Being would necessarily establish justice and equity in this universe? Most certainly, it is the dictate of His wisdom that He, rather than herd everyone good or bad with the same stick, punishes the doers of evil and rewards the doers of good. This, then, is the purpose of the creation of this universe, and in order that it translates into reality, it is necessary that there be a Qiyamah (the Last Day) and an 'Akhirah (the Hereafter) - something that precisely corresponds to His wisdom. Those who reject the Hereafter are virtually saying that this universe has been created aimlessly, devoid of any wisdom behind it, for everyone good or bad will live his or her time and die with nobody around to ask questions - although, one who has faith in the wisdom of Allah Ta’ ala can never accept this line of reasoning.
 
 ## Personal Reflections
+
+

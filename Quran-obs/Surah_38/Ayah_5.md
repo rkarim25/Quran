@@ -39,17 +39,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Letter "Saad"** (Sad) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Has he made the gods into One God. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah:
 
 When they said this, it indicated their ignorance and lack of understanding since they thought it was unlikely that the Qur'an would be revealed to the Messenger ﷺ and not to somebody else.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -190,3 +182,5 @@ Accordingly, these people came to Abu Talib and said to him that his nephew spok
 Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting them to something that is better for them?' Abu Talib said, 'What thing is that?' He said, 'I want them to say a particular kalimah (statement) by virtue of which the whole Arabia will be at their feet, and they will become masters of the non-Arab lands beyond it.' Thereupon, Abu Jahl said, 'Tell us. What that kalimah is? By your father, not simply one kalimah, we are ready to say ten of them.' To this he replied, 'Just say: لا إله إلا اللہ (la ilaha il-lal-lah: There is no god (worthy of worship) but Allah). Hearing this, all of them rose to leave saying, 'Are we supposed to leave all objects of worship we have, and take to just one? This is something very strange.' It was on this occasion that these verses of Surah Sad were revealed. (Tafsir Ibn Kathir, pp. 27, 28 v. 4)
 
 ## Personal Reflections
+
+

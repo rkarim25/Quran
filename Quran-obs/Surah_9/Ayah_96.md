@@ -62,18 +62,6 @@ word_by_word:
     transliteration: l-fāsiqīna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 96, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-81-96 ).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They (the hypocrites) will present their excuses to you (Muslims), when you return to them. 2.
@@ -121,3 +109,5 @@ Allah will inform you of your deeds, whether they were good or evil, and will re
 2. The third instruction given to the Holy Prophet ﷺ appears in the third verse (96): "They swear before you so that you may be pleased with them." The order of Allah Ta` ala is that their wish was not to be granted and he was not to be pleased with them. However, it was also said that, ` even if you were to be pleased with them, it was not going to work for them in any manner, because Allah is not pleased with them. And how could Allah be pleased with them when they are still adamant about their denial and hypocrisy?
 
 ## Personal Reflections
+
+

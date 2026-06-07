@@ -104,18 +104,6 @@ word_by_word:
     transliteration: qadīrun
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet. Subject Matter and Theme The discourse is meant to warn and reprove the people of Makkah and their chiefs for their antagonistic attitude that they had then adopted towards the Holy Prophet's message of Tauhid , like a well wisher, and also to admonish them like a teacher, as if to say: "O foolish people, the way to which this Prophet is calling you is to your own advantage.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. As for the statement: جَاعِلِ الْمَلَائِكَةِ رُ‌سُلًا (who makes the angels messengers), it means that angels were assigned to convey the messages and injunctions of Allah Ta’ ala.
@@ -169,3 +157,5 @@ Moreover, it is also possible that these three words are numerical adjectives re
 The next sentence: يَزِيدُ فِي الْخَلْقِ مَا يَشَاءُ (He adds to the creation what He wills) means that Allah Ta’ ala has the power to increase whatever He wills and as much as He wills in the creation of everything He has originated. This obviously is related to: أَجْنِحَةٍ (ajnihah: wings) in that the feathers and wings of the angels are not something simply restricted to two or four in numbers, for they could be many more than these if Allah Ta’ ala so wills. Most commentators say exactly this. And Tafsir authorities Zuhri, Qatadah and others have said that this increase in creation is to be taken in its general sense which includes increase in the feathers and wings of angels as well as the increase of particular attributes in the creation of different human beings which, then, includes the beauty of form, the beauty of character, the beauty of voice and many more increased assets like these. Abu Hayyan has, in al-Bahr ul-Muhit, followed this track of explanation and said that things like good manners, beauty of figure and face, perfection of reason and intellect, politeness in discourse and similar others are all included therein. This second Tafsir proves that the beauty or perfection of anything one has is invariably a gift and blessing from Allah Ta’ ala for which one should be grateful to Him.
 
 ## Personal Reflections
+
+

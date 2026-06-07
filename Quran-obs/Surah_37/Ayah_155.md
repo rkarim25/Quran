@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **Those who set the Ranks** (As-Saffat) 155, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to every Prophet who was sent.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -125,3 +117,5 @@ An ilzami (الزامی) answer (based on adversary's assumption) is more approp
 From these verses we learn that it is more appropriate to tackle people bent on obstinacy with an ilzami response. An ilzami response means that their claim should be refuted through the analogy of some other view of things they themselves have. In doing so, it is never necessary to concede that we too subscribe to this other view, in fact, there could be occasion when that other view is also incorrect. But, it is only to drive some sense into the obstinate adversary that it is put to use functionally. Here, to refute their belief, Allah Ta’ ala has used their own view that the existence of daughters is a cause of disgrace. It is obvious that it does not mean that it is so with Allah Ta’ ala as well, nor does it mean that, had they called angels 'sons of God' rather than 'daughters of God,' it would have been correct. In fact, this is an ilzami response, and its aim is to refute their belief by citing their own claims. Otherwise, the real response to beliefs of this nature is no other but that which finds mention in the noble Qur'an itself - that Allah Ta’ ala is independent and need-free and neither does He need any children, nor does it befit His Most Exalted State of Being.
 
 ## Personal Reflections
+
+

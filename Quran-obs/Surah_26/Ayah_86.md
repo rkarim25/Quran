@@ -28,18 +28,6 @@ word_by_word:
     transliteration: l-ḍālīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 My Lord! Supplication for the absolution of disbelievers is not allowed This prayer of Sayyidna Ibrahim (علیہ السلام) ill seems to be against the following verse:
@@ -157,3 +145,5 @@ Note
 The point whether Sayyidna Ibrahim (علیہ السلام) had become aware of the infidelity of his father within his lifetime or came to know about it after his death, or he would know this on the Dooms Day, is fully discussed in Surah Taubah.
 
 ## Personal Reflections
+
+

@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **Originator** (Fatir) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Or have We given them a Book, so that they act on clear proof therefrom?) meaning, 'have We revealed to them a Book on which they base their Shirk and disbelief?' This is not the case at all.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -151,3 +143,5 @@ Then Allah tells us of His mighty power, by which the heavens and the earth stan
 In the expression: إِنَّ اللَّـهَ يُمْسِكُ السَّمَاوَاتِ (Undoubtedly, Allah holds back the heavens and the earth - 35:41), the 'holding' of the heavens or the skies does not mean that their movement was stopped. Instead, it means holding them from moving askance - as the word: أَن تَزُولَا (an tazula: from leaving their existing state,) bears it out. Therefore, in this verse, there exists no supporting evidence on either side as to the skies move or they are static.
 
 ## Personal Reflections
+
+

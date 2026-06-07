@@ -49,18 +49,6 @@ word_by_word:
     transliteration: yubīnu
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Fir'awn proclaimed among his people (saying): "O my people! وَلَا يَكَادُ يُبِينُ (and can hardly express himself - 43:52).
@@ -152,3 +140,5 @@ Ibn Abi Hatim recorded that 'Uqbah bin 'Amir, may Allah be pleased with him, sai
 وَلَا يَكَادُ يُبِينُ (and can hardly express himself - 43:52). Although as a result of his own supplication, the stammering of Sayyidna Musa (علیہ السلام) had been removed by Allah Ta` ala, Fir'aun remembered his previous state only, and hence this aspersion. And it is possible also that by saying this, Fir'aun did not mean stammering in speech, but he meant that Sayyidna Musa (علیہ السلام) could not put forward adequate logical arguments to satisfy him, although this was nothing but a false accusation, because Sayyidna Musa (علیہ السلام) had completely overwhelmed Fir'aun through his arguments and proofs against which he had no answer. (Tafsir Kabir and Ruh-ul-Ma’ ani).
 
 ## Personal Reflections
+
+

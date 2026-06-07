@@ -94,17 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 111, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And offer your Salah neither aloud) Imam Ahmad reported that Ibn 'Abbas said: "This Ayah was revealed when the Messenger of Allah ﷺ was preaching underground in Makkah."
 
 (but follow a way between.)" This was the view of 'Ikrimah, Al-Hasan Al-Basri and Qatadah that this Ayah was revealed concerning recitation in prayer. It was narrated from Ibn Mas'ud: "Do not make it so soft that no one can hear it except yourself."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -233,3 +225,5 @@ While writing these lines, this humble servant of Allah has completed full seven
 (Abridged from the detailed note)
 
 ## Personal Reflections
+
+

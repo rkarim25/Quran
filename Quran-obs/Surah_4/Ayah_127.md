@@ -174,15 +174,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 127, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It is about the man who is taking care of a female orphan, being her caretaker and inheritor. Her money is joined with his money to such an extent, that she shares with him even the branch of a date that he has. So he likes (for material gain) to marry her himself, and hates to marry her to another man who would have a share in his money, on account of her share in his money. Therefore, he refuses to let her marry anyone else. So, this Ayah was revealed. Muslim also recorded it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -259,3 +251,5 @@ He also said about Allah's statement,
 At the beginning of this Surah, particular injunctions relating to orphans and women were mentioned. Also stressed there was the mandatory nature of the need to fulfill their rights. The reason was that, during the days of Jahiliyyah, some people would simply refuse to give any part of the inheritance to them, others would unlawfully eat up what they got in inheritance or through any other alternate source, still others would marry them but avoided paying full dower they were entitled to; these were practices prohibited as stated earlier. This caused different situations to arise. There were those who thought that women and children are not entitled to inherit as a matter of right - may be, this injunction had come as an expedient measure for some people only and it was likely that it will be abrogated later. Some of them even waited for this to happen. But, when there was no abrogation, they decided among themselves that they should go directly to the Holy Prophet ﷺ and ask him. This they did. According to Ibn Jarir and Ibn al-Mundhir, this very question was the reason behind the revelation of this verse and the verses which followed carried additional rulings relating to women (Bayan al-Qur'an).
 
 ## Personal Reflections
+
+

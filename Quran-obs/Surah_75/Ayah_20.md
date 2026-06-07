@@ -22,15 +22,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Resurrection** (Al-Qiyamah) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qiyamah is a **Makkah** surah—revealed as the 31st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel. For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen. Allah would make sure to collect it in his chest, and He would make it easy for him to recite it in the same way that it was revealed to him. Allah would explain it, interpret it and clarify it for him. So the first phase was gathering it in his chest, the second phase was recitation and the third phase was its explanation and clarification of its meaning. Thus, Allah says,
 
-(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger ﷺ is that their only concern is the present worldly life.
+(But no! Rather you love the present life of this world. And neglect the Hereafter.) meaning, the only thing that has caused them to reject the Day of Judgement and oppose the true revelation and the Mighty Qur'an Allah revealed to His Messenger ﷺ is that their only concern is the present worldly life. They are preoccupied and distracted from the Hereafter.
 
 ## Tafsir Summary
 
@@ -181,3 +175,5 @@ These are the faces of the sinners that will be Basirah on the Day of Judgement.
 In conclusion, the passage says: اِنَّ عَلَيْنَا بَيَانَهٗ (Then, it is undertaken by Us to explain it...75:19). In other words, it is Allah's concern to explain the true message of the verses. In fact, the meaning of every single word of the Qur'an will be made plain to the Holy Prophet. He need not be concerned about it. These four verses laid down the injunctions pertaining to Qur'an and its recitation. Now the Surah reverts to its basic theme of Resurrection. It describes the conditions and horrors of the Hereafter. Here a question arises as to the contextual relationship between the four verses and the rest of the Surah where they have been studded. Before the four verses, while describing the Resurrection, it was made plain that Allah's knowledge is infinite, so much so that every man will be resurrected in the same state, the same shape and size, in which he was created the first time. His fingertips will be reconstructed with the same precision that they were created the first time; and his fingerprints will be redesigned with the same patterns of lines on their skins as were designed the before. There will be not a hair's breadth of a difference. This is possible only because Allah is Omniscient; His knowledge is infinite and all-encompassing; and His preserving capacity is incomparable, unparalleled and unique. On the basis of these attributes, the four verses were revealed to console and comfort the Holy Prophet t. The Holy Prophet is told: 'You can forget, and it is possible that you could make a mistake in transmission. But Allah is beyond these things. Allah has taken upon Himself the responsibility of storing the words of the Qur'an in your heart or explaining the message to you. Do not worry about all this. It is Our concern.' After these four verses, the Surah resumes the description of the conditions of Resurrection.
 
 ## Personal Reflections
+
+

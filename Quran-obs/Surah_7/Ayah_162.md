@@ -77,15 +77,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 162, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And We divided them into twelve tribes (as distinct) nations. We revealed to Musa when his people asked him for water (saying): "Strike the stone with your stick," and there gushed forth out of it twelve springs, each group knew its own place for water. We shaded them with the clouds and sent down upon them the manna and the quail (saying): "Eat of the good things with which We have provided you." They harmed Us not but they used to harm themselves (160)And (remember) when it was said to them: "Dwell in this town (Jerusalem) and eat therefrom wherever you wish, and say, '(O Allah) forgive our sins'; and enter the gate prostrating (bowing with humility). We shall forgive you your wrongdoings. We shall increase (the reward) for the good-doers. (161)But those among them who did wrong, changed the word that had been told to them. So We sent on them a torment from the heaven in return for their wrongdoings (162)
 
-We discussed these Ayat in Surat Al-Baqarah, which was revealed in Al-Madinah, while these Ayat were revealed in Makkah.
+We discussed these Ayat in Surat Al-Baqarah, which was revealed in Al-Madinah, while these Ayat were revealed in Makkah. We also mentioned the difference between the two narrations, and thus we do not need to repeat it here, all thanks are due to Allah and all the favors are from Him.
 
 ## Tafsir Summary
 
@@ -102,3 +96,5 @@ We discussed these Ayat in Surat Al-Baqarah, which was revealed in Al-Madinah, w
 The above verses have enumerated various favours that Allah bestowed upon the Israelites, and spoke of their deviation from the commands of Allah resulting in a heavenly punishment for their transgression. The translation of the verses given above is self explanatory and the relevant details have already been given in Surah Al-Baqarah (First volume of this book, translation and commentary under verses 57-59).
 
 ## Personal Reflections
+
+

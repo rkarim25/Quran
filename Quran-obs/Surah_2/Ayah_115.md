@@ -56,15 +56,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 115, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 However, it was said that Allah sent down this Ayah before the order to face the Ka'bah. Ibn Jarir said, "Others said that this Ayah was revealed to the Messenger of Allah ﷺ permitting the one praying voluntary prayers to face wherever they wish in the east or west, while traveling, when in fear and when facing the enemy." For instance, Ibn 'Umar used to face whatever direction his animal was headed and proclaim that the Messenger of Allah ﷺ did the same, explaining the Ayah,
 
-That Hadith was also collected by Muslim, At-Tirmidhi, An-Nasa'i, Ibn Abi Hatim, Ibn Marduwyah, and its origin is in the Two Sahihs from Ibn 'Umar and 'Amr bin Rabi'ah without mentioning the Ayah.
+That Hadith was also collected by Muslim, At-Tirmidhi, An-Nasa'i, Ibn Abi Hatim, Ibn Marduwyah, and its origin is in the Two Sahihs from Ibn 'Umar and 'Amr bin Rabi'ah without mentioning the Ayah. In his Sahih, Al-Bukhari recorded that Nafi' said that whenever Ibn 'Umar was asked about the prayer during times of fear, he used to describe it and would then say, "When the sense of fear is worse than that, pray while standing, or while riding, whether facing the Qiblah or not." Nafi' then said, "I think Ibn 'Umar mentioned that from the Prophet ﷺ." It was also said that the Ayah was revealed about those who are unable to find the correct direction of the Qiblah in the dark or due to cloudy skies and, thus, prayed in a direction other than the Qiblah by mistake.
 
 ## Tafsir Summary
 
@@ -179,3 +173,5 @@ This explanation satisfactorily dispels the objection often raised by certain an
 Before we proceed, we must sound a note of caution. Verse 115 says that whichever way one turns, one would find "the face of Allah", and that Allah being "All-Embracing" surrounds everything. Wisdom lies in not trying to investigate unnecessarily into the meanings of these or similar statements. For, just as it is not at all possible for a creature to comprehend fully the "Being" (Dhat ذات ) of Allah, it is equally impossible to comprehend the essential reality of the "Attributes" (Sifat صفات). All that man is required to do is to have a general faith in the Realities of the Divine Order - there is no obligation for him to look into the particularities of this sphere which is totally beyond human reach.
 
 ## Personal Reflections
+
+

@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ḥasīban
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We have fastened every man's Ta'irah (deeds) to his neck, and on the Day of Resurrection, We shall bring out for him a Book which he will find wide open (13)(It will be said to him): "Read your Book. The sense of the book of deeds tied to the neck It means that one's book of deed stays with the doer no matter where or in whatever condition one is.
@@ -120,3 +108,5 @@ The sense of the book of deeds tied to the neck
 It means that one's book of deed stays with the doer no matter where or in whatever condition one is. What he or she does continues to get recorded there. When death comes, the 'book' is closed and set aside safely. After that, when comes the Last Day, the Day of Judgment, this book of deeds will be placed in everyone's hand in order that he would himself read it and also decide himself whether he is deserving of reward or deserving of punishment. It has been reported from Qatadah (رح) that it will be a day when even an illiterate person will be able to read his book of deeds. On this occasion, al-lsbahani has reported on the authority of Sayyidna Abu Umamah ؓ that the Holy Prophet ﷺ said: On the day of Qiyamah, when the book of deeds belonging to people will be given in their hand, someone will notice that some of his good deeds were not recorded there. He will tell his Lord about the particular deeds missing from there. His Lord will tell him that He had erased those deeds for he used to speak ill of people on their backs. (Mazhari)
 
 ## Personal Reflections
+
+

@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Nightcommer** (At-Tariq) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tariq is a **Makkah** surah—revealed as the 36th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 17 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 يَوْمَ تُبْلَى السَّرَائِرُ (on a day when all the secrets will be searched out.. 86:9). The word tubla literally means 'to test/examine' and sara'ir means 'secrets'. On the Day of Reckoning, the secrets will be tested and examined and laid bare. Man's beliefs, his thoughts, and his motives and intentions that were hidden in this life, and no one knew about them, will be revealed in the Hereafter.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -155,3 +147,5 @@ meaning, on the Day of Judgement the secrets will be tested. This means that the
 Likewise, his deeds and actions that he had done secretly, and no one was aware of them in this world, all of them will be tested and scrutinised on the Plain of Gathering and will be laid bare. Said 'Abdullah Ibn ` Umar ؓ has said that on the Day of Judgment Allah will disclose the secrets of all human beings. The sign of every good or bad belief and action will be displayed on man's face, in the form of beauty or darkness or gloom [ depending on each individual's situation ]. [ Qurtubi ].
 
 ## Personal Reflections
+
+

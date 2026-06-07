@@ -16,18 +16,6 @@ word_by_word:
     transliteration: ittasaqa
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest Surahs to be revealed at Makkah. The internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 But no! فَلَا أُقْسِمُ بِالشَّفَقِ وَاللَّيْلِ وَمَا وَسَقَ وَالْقَمَرِ إِذَا اتَّسَقَ (So, I swear by the twilight [ after sunset ], and by the night and what it envelops, and by the moon when it develops at the full...84:16-18…
@@ -169,3 +157,5 @@ The ignoramus and unmindful man is made aware of the fact that the vicissitudes 
 Under the phrase above طَبَقًا عَن طَبَقٍ tabaqan ` an tabaq 'from stage to stage', a similar narration is cited by Abu Nu'aim from Sayyidna Jabir Ibn ` Abdullah that the Holy Prophet ﷺ stated that these verses remind the unmindful of his creation, the vicissitudes of his life and instructs him to reconsider his position and the consequences [ of his attitude in this life as there is still time ] and to prepare for next life. However, despite these clear guidelines, there are people who never desist from their heedlessness.
 
 ## Personal Reflections
+
+

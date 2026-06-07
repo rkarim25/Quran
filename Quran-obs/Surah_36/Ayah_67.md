@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yarjiʿūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This is Hell which you were promised (63)Burn (enter) therein this Day, for that you used to disbelieve (64)This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn (65)And if it had been Our will, We would surely have wiped out their eyes, so that they would struggle for the path, how then would they see (66)And if it had been Our will, We could have transformed them in their places. In verse 65, it was said: الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ (Today We will set a seal on their mouths).
@@ -139,3 +127,5 @@ And some of them will also say that they were free of whatever the angels had wr
 As for the question how these parts of the body would acquire power of speech, the Qur'an has already answered that by saying: أَنطَقَنَا اللَّـهُ الَّذِي أَنطَقَ كُلَّ شَيْءٍ (Why did you testify against us? - 41:21) that is, these parts of the body will say that Allah, who has given power of speech to all things endowed with the ability to speak, has also enabled us to speak.
 
 ## Personal Reflections
+
+

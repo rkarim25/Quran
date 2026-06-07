@@ -197,15 +197,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We have enjoined on man to be dutiful and kind to his parents.)(46:15) meaning, 'We have commanded him to treat them well and show compassion towards them. Abu Dawud At-Tayalisi recorded from Sa'd bin Abi Waqqas, may Allah be pleased with him, that his mother said to him: "Hasn't Allah commanded that you obey your parents? Then I will not eat any food or drink any drink until you disbelieve in Allah." Thus she stubbornly abstained from eating and drinking, until they had to open her mouth with a stick. Then this Ayah was revealed,
 
-In any case, the real subject of these four verses is to instruct man to behave beautifully with one's parents, and in that context there are other instructions also. Although some narrations of hadith indicate that these verses were revealed about Sayyidna Abu Bakr ؓ ، it is obvious that even if any verse of the Qur'an is revealed about any particular person or about any particular incident, the rule laid down thereby remains generally applicable to all.
+In any case, the real subject of these four verses is to instruct man to behave beautifully with one's parents, and in that context there are other instructions also. Although some narrations of hadith indicate that these verses were revealed about Sayyidna Abu Bakr ؓ ، it is obvious that even if any verse of the Qur'an is revealed about any particular person or about any particular incident, the rule laid down thereby remains generally applicable to all. Therefore, even if the verse was revealed about Sayyidna Abu Bakr ؓ ، its application is general, regardless of some specifications of age etc., that may appear particular to him.
 
 ## Tafsir Summary
 
@@ -372,3 +366,5 @@ It is reported by Sayyidna ` Uthman ؓ that the Holy Prophet has said that when 
 Since Ibn Kathir (رح) has adopted the first explanation, that the verse does not refer to any particular person, like Sayyidna Abu Bakr ؓ but it is meant for a common people, the specific words, like 'until when he reached his maturity and attained the age of forty years" are all by way of example, wherein the instruction is being imparted that when one reaches the age of forty years, one should have due care for correcting himself and his family members, and his endeavor for the betterment of the Hereafter should take precedence over all his thoughts. (Allah knows best)
 
 ## Personal Reflections
+
+

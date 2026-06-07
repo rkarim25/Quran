@@ -104,18 +104,6 @@ word_by_word:
     transliteration: l-qadīru
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah is He Who created you in weakness, then gave you strength after weakness, then after strength gave (you) weakness and grey hair. Greater part of this Surah aims at removing the doubts of the deniers of the Hereafter.
@@ -149,3 +137,5 @@ When he came into this world, his condition was that وَاللَّـهُ أَخ
 ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ (Then He created strength after weakness - 30:54). When man reaches the stage of his strength, he gets involved in showing off his powers and intelligence. He flies to reach the moon and Mars, and tries to overpower the earth and oceans. He forgets all about his past and becomes oblivious of his future, and cries out مَنْ أَشَدُّ مِنَّا قُوَّةً (Who is stronger than us in might? - 41:15); so much so that in this state of intoxication, he even forgets his Creator and His commands. So the Nature has warned to make him realize his folly ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً (Then created weakness and old age - 30:54). 0 remiss! Be mindful of the fact that your present strength is temporary and you have to return to the same old weakness, and it will take you gradually to your grey hair. Then all your limbs and organs will change their shape and form. You need not go through any books and the history of the world, but look into your own concealed self, and you will be left with no other option but to accept and believe that يَخْلُقُ مَا يَشَاءُ وَهُوَ الْعَلِيمُ الْقَدِيرُ‌ (He creates what He wills, and He is the All-Knowing, the All-Powerful - 30:54). All this control and running of affairs are by the One who creates them. He does as He pleases, and in a manner as it pleases Him. He has no parallel in knowledge and power. Knowing all this, is there any room for doubt that He can resurrect the dead whenever He likes?
 
 ## Personal Reflections
+
+

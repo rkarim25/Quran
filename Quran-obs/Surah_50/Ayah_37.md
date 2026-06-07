@@ -58,18 +58,6 @@ word_by_word:
     transliteration: shahīdun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And how many a generation We have destroyed before them who were stronger in power than they. Channels of Acquiring Knowledge لِمَن كَانَ لَهُ قَلْبٌ ( who has a heart - 50:37).
@@ -183,3 +171,5 @@ Channels of Acquiring Knowledge
 أَوْ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ (and gives ear [ to the truth ] attentively....50:37). The phrase Ilqa'-us- sam' connotes to listen to someone attentively and the word Shahid means present. The message of the above verses is that two types of people benefit: [ 1] a person who has the mind and the intellect who understands it in his mind and accepts it; and [ 2] a person who gives his ears and listens to the Divine verses with an attentive heart, while his heart is present and not absent. Mazhari interprets that the first type is called kamilin [ thoroughly proficient members of the Islamic community ]. The second type is their followers and sincere seekers of Reality who are under the direction of a spiritual guide who, on account of their sincerity and purity of heart, accept the teachings of the religion.
 
 ## Personal Reflections
+
+

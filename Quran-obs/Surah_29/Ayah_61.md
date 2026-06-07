@@ -59,18 +59,6 @@ word_by_word:
     transliteration: yu'fakūna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you were to ask them: "Who has created the heavens and the earth and subjected the sun and the moon?" They will surely reply: "Allah." How then are they deviating (61)Allah expands the provision for whom He wills of His servants, and straitens it for whom (He wills). After stating the real source of sustenance for all, that is the bounty of Allah Ta’ ala, it is said that if you ask the infidels as to who has created the earth and the skies, or who controls the movement of the sun and the moon, or who brings in the rain, and who makes the vegetation grow; then even they will admit that it is all controlled and done by One entity, that i…
@@ -116,3 +104,5 @@ Hafiz Ibn ajar in Fath al-Bari has adopted this ruling, and it is not in conflic
 Ibn Jarir has reported with his own chain of narrators that Sayyidna Said Ibn Jubair (رح) had said ` leave that city where sins and obscenity are common'. And the Imam of Tafsir, ` Ata' ؓ had said that ` run away from the city where you are forced to commit sins'.
 
 ## Personal Reflections
+
+

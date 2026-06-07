@@ -128,15 +128,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 128, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And if a woman fears cruelty or desertion on her husband's part), that it refers to, "A man who is married to an old woman, and he does not desire her and wants to divorce her. So she says, 'I forfeit my right on you.' So this Ayah was revealed."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -297,3 +289,5 @@ In the last verse (130): وَإِن يَتَفَرَّ‌قَا يُغْنِ ا�
 By saying: وَكَانَ اللَّـهُ وَاسِعًا حَكِيمًا (And Allah is All-Embracing, All-Wise) at the close of the verse, it has been confirmed that the dimensions of Allah's capacity are most extensive and everything that issues forth from Him is based on wisdom. It is quite possible that the very separation may be the most expedient solution of the problem. The post-separation period may bless them with mates that make their lives good to live.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-dāri
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Victory of the Messengers and the Believers (Verily, We will indeed make victorious Our Messengers and those who believe in this world's life). In the opening statement of verse 51, it was said: إِنَّا لَنَنصُرُ‌ رُ‌سُلَنَا وَالَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا (Surely, We do help Our messengers and those who believe in the worldly life, 40:51).
@@ -159,3 +147,5 @@ Ibn Kathir has, with reference to Ibn Jarir, answered this possible doubt by say
 In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأَشْهَادُ (as well as on the day in which witnesses will stand [ to give their testimony ]. It means the day of Qiyamah (Doomsday). Once they are there, Divine help for prophets and believers will show itself specially.
 
 ## Personal Reflections
+
+

@@ -38,18 +38,6 @@ word_by_word:
     transliteration: fa-uʿ'budūni
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the subject matter as well. Some commentators have opined that since it mentions the hypocrites, and hypocrisy appeared in Madinah, the first ten verses of this Surah were revealed at Madinah and the rest of it at Makkah; whereas the people whose hypocrisy has been mentioned here are those who had adopted a hypocritical way of life because they were afraid of the oppression and extreme physical torture to which the Muslims were being subjected by the disbelievers.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O My servants who believe! From the very beginning of this Surah until now the enmity of the infidels toward Muslims, their rejection of the Oneness of God and prophethood of the Holy Prophet ﷺ ، and putting hurdles in the way of truth and believers were described.
@@ -125,3 +113,5 @@ Command in connection with hijrah and removal of doubts encountering in its way
 During the course of migration one is likely to encounter, as a rule, two types of risks, which may hold him back from migration. The first risk is to his life in that the infidels and his adversaries would come in his way, and in order to obstruct his move might take up arms to finish him. In addition, there could be a possibility of his being caught by adversaries on his way out. Hence, there is yet another risk to his life.
 
 ## Personal Reflections
+
+

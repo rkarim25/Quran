@@ -16,18 +16,6 @@ word_by_word:
     transliteration: yastaghfirūna
 ---
 
-## Context
-
-To understand **The Winnowing Winds** (Adh-Dhariyat) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Adh-Dhariyat is a **Makkah** surah—revealed as the 67th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them. Merits of Seeking Forgiveness in the hours before dawn وَبِالْأَسْحَارِ‌ هُمْ يَسْتَغْفِرُ‌ونَ (and in the hours before dawn, they used to pray for forgiveness..., 51:18) The word ashar is the plural of sahar, and it refers to the latter sixth part of the night.
@@ -167,3 +155,5 @@ Merits of Seeking Forgiveness in the hours before dawn
 Here it may be noted that in this verse Allah is describing the pre-dawn prayer of forgiveness of those righteous ones who, according to the preceding verse, are preoccupied for the major part of the night with the worship of Allah and sleep very little. Thus there seems to be no link between their previous description and their description of asking for forgiveness in this verse, because forgiveness is sought when there are sins. People who spent the entire night in worshipping Allah - what does it mean to seek forgiveness of sins? The answer to this question is that these people have the true appreciation of Allah's majesty, dignity and splendour, and they realise that there are shortcomings in their night-long worship. Therefore they seek Allah's forgiveness for failing to perform His worship as due. (Mazhari)
 
 ## Personal Reflections
+
+

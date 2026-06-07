@@ -82,13 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Ibn Abi Najih narrated that Mujahid said that this Ayah, "Refers to someone who comes to you to hear what you say and what was revealed to you (O Muhammad). Therefore, he is safe until he comes to you, hears Allah's Words and then proceeds to the safe area where he came from." The Messenger of Allah ﷺ used to thereafter grant safe passage to those who came to him for guidance or to deliver a message. On the day of Hudaybiyyah, several emissaries from Quraysh came to him, such as 'Urwah bin Mas'ud, Mikraz bin Hafs, Suhayl bin 'Amr and several others. They came mediating between him and the Quraysh pagans. They witnessed the great respect the Muslims had for the Prophet ﷺ, which astonished them, for they never before saw such respect for anyone, kings nor czars. They went back to their people and conveyed this news to them; this, among other reasons, was one reason that most of them accepted the guidance.
+Ibn Abi Najih narrated that Mujahid said that this Ayah, "Refers to someone who comes to you to hear what you say and what was revealed to you (O Muhammad). Therefore, he is safe until he comes to you, hears Allah's Words and then proceeds to the safe area where he came from." The Messenger of Allah ﷺ used to thereafter grant safe passage to those who came to him for guidance or to deliver a message. On the day of Hudaybiyyah, several emissaries from Quraysh came to him, such as 'Urwah bin Mas'ud, Mikraz bin Hafs, Suhayl bin 'Amr and several others. They came mediating between him and the Quraysh pagans. They witnessed the great respect the Muslims had for the Prophet ﷺ, which astonished them, for they never before saw such respect for anyone, kings nor czars. They went back to their people and conveyed this news to them; this, among other reasons, was one reason that most of them accepted the guidance. When Musaylimah the Liar sent an emissary to the Messenger of Allah, he ﷺ asked him, "Do you testify that Musaylimah is a messenger from Allah?" He said, "Yes." The Messenger of Allah said,
 
 ## Tafsir Summary
 
@@ -151,3 +145,5 @@ Non-Resident Non-Muslims should not be permitted to stay in Dar al-Islam any lon
 Stated in the next four verses (7-10) is the wisdom behind the proclamation of withdrawal mentioned in the initial verses of Surah At-Taubah. Here, by referring to the inherent meanness of pledge-breaking disbelievers whose malice and hostility against Muslims knew no bounds, it was advised in verses 7 and 8 that entertaining any hope from such people that they would ever abide by their pledge was simply wrong to begin with. It was said in the text: Except for some people with whom Muslims had entered into a treaty near the masjid al-Haram, how could any pledge given by these disbelievers be credible before Allah and His Messenger? The fact was that they were a set of people who, if given the least opportunity, would not blink about any relationship they had with them or bother to honor the word of promise given by them. The simple reason was that these people had no intention of honoring the treaty even when they were signing it. Their sole purpose was just to placate them. With their hearts set elsewhere, most of them were sinners, compulsive breakers of pledges and practitioners of treachery.
 
 ## Personal Reflections
+
+

@@ -84,18 +84,6 @@ word_by_word:
     transliteration: lil'muttaqīna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This is of the news of the Unseen which We reveal unto you; neither you nor your people knew it before this. To console the Holy Prophet ﷺ ، it was said at the end of the verse that there were so many open proofs to the fact that he was a prophet and messenger of Allah.
@@ -137,3 +125,5 @@ Allah, the Exalted, says to His Prophet ﷺ concerning these stories and their l
 To console the Holy Prophet ﷺ ، it was said at the end of the verse that there were so many open proofs to the fact that he was a prophet and messenger of Allah. If there were some unfortunate human beings that see the sun yet insist that they do not, even challenge him and confront him, then, he should look at the role model of his predecessor, Sayyidna Nuh (علیہ السلام) ، peace on him. He spent one thousand years of his long life suffering from pain inflicted by his people. He remained patient. Let him stay as patient as he was - because, it stands determined that success will ultimately kiss the hands of those patient and God-fearing.
 
 ## Personal Reflections
+
+

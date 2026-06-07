@@ -50,18 +50,6 @@ word_by_word:
     transliteration: mur'difīna
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Remember) when you sought help of your Lord and He answered you (saying): "I will help you with a thousand of the angels Murdifin. In substance, what Muslims are being chastised for is their choice of an option which was laced with timidity, desire to relax, and was a thing of temporal benefit.
@@ -199,3 +187,5 @@ Immediately after, there appears the statement which describes how this prayer h
 The unmatched power with which Allah Ta` ala has blessed angels can be gauged from the event which transpired at the time the part of earth on which the people of Sayyidna Lut (علیہ السلام) lived was overturned upside down. This was done by Angel Jibra'il (علیہ السلام) with just one flick of his feather. So, there was no need to send such a large number of angels to participate in the combat - even one would have been more than enough. But, Allah Ta` ala knows the nature of His servants as they also get impressed with numbers. Therefore, the promise of sending angels was kept synchronized with the numbers of the adversary in the combat, so that their hearts are put at rest fully and comprehensively.
 
 ## Personal Reflections
+
+

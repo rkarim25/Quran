@@ -46,18 +46,6 @@ word_by_word:
     transliteration: muq'maḥūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, We have put on their necks iron collars reaching to the chins, so that their heads are raised up (8)And We have put a barrier before them, and a barrier behind them, and We have covered them up, so that they cannot see (9)It is the same to them whether you warn them or you warn them not, they will not believe (10)You can only warn him who follows the Reminder, and fears the Most Gracious unseen. Verses 7 and 8 لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِ‌هِمْ فَهُمْ لَا يُؤْمِنُونَ إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا (The word has indeed come true about most of them, so they will not believe.
@@ -253,3 +241,5 @@ Imam Razi (رح) has said that there are two kinds of barriers against perceptio
 The majority of commentators have declared the present verse to be a similitude of their disbelief and hostility only. And some commentators, on the basis of some narrations, have taken it to be the description of an event, that is, Abu Jahl and some others, bent on killing or hurting the Holy Prophet ﷺ ، lunged towards him but Allah Ta’ ala cast curtain over their eyes. Thus, rendered helpless, they went back. Many similar events have been reported in books of Tafsir, such as, Ibn Kathir, Ruh-ul-Ma’ ani, al-Qurtubi, Mazhari and others. But, most of these are weak narrations. The Tafsir of the verse cannot be based on such sources.
 
 ## Personal Reflections
+
+

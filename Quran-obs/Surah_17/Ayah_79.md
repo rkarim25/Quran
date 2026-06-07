@@ -54,18 +54,6 @@ word_by_word:
     transliteration: maḥmūdan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 79, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Perform the Salah from midday till the darkness of the night, and recite the Qur'an in the early dawn. The time of the Salah of Tahajjud: Injunctions and rulings The word: فَتَھَجُّد (tahajjud) in: وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ (And during the night, wake up for Salah- 79) has been derived from ھجود :hujud.
@@ -289,3 +277,5 @@ Hadrat Mujaddid Alf Thani, the famous religious revivalist of the first Islamic 
 Before we proceed to verse 8o, let us recapitulate what was said in the verses previous to it. Mentioned there first were the pains inflicted on the Holy Prophet ﷺ and the conspiracies they kept hatching to hurt and harm him. Along with it, it was also said that these hostile plans made by them will never succeed. In contrast, the Holy Prophet ﷺ was being blessed with the real plan to offset their evil by prompting him to establish the five prayers, and the Tahajjud. Following that, he has been promised the Praised Station, the highest among all prophets - a promise to be fulfilled in the Hereafter. Now, in this verse 80: وَقُل رَّ‌بِّ أَدْخِلْنِي (And say, "0 my Lord, make me enter...), the first relief to him against the hurtful and treacherous actions of the disbelievers was given by Allah Ta` ala within this world in the form of his migration to Madinah. Then, he was given the good news of the conquest of Makkah in: وَقُلْ جَاءَ الْحَقُّ (And say, "Truth has come...81).
 
 ## Personal Reflections
+
+

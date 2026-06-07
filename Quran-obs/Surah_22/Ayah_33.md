@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-ʿatīqi
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 33, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Thus it is, and whosoever honors the Sha'a'ir of Allah, then it is truly from the Taqwa of the hearts (32)In them are benefits for you for an appointed term, and afterwards they are brought for sacrifice to the 'Atiq Hou… لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُّسَمًّى (And for you there are benefits in them upto a specified time - 22:33).
@@ -125,3 +113,5 @@ The Benefits of the Sacrificial Camels
 ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ (Then their place of sacrifice is by the Ancient House - 22:33) Here الْبَيْتِ الْعَتِيقِ includes the entire precincts of haram, as was the case in the previous verse where the word Al-Masjid Al-Haram was used for the entire area of haram, and mahill (place) means the place of slaughtering the animals of hady. Thus the entire haram is declared as the slaughtering place of the animals of hady. The meaning of the verse is that the hady (animals nominated for sacrifice during Hajj) may be slaughtered within, and not outside the area of haram which includes Mina and all other places of Makkah. (Ruh ul Ma ani)
 
 ## Personal Reflections
+
+

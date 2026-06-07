@@ -118,18 +118,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 240, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those of you who die and leave behind wives should bequeath for their wives a year's maintenance (and residence) without turning them out, but if they (wives) leave, there is no sin on you for that which they do of themselves, provided it is honorable (e.g., lawful marriage). The text now returns to the subject of divorce mentioned in verses 234-237.
@@ -269,3 +257,5 @@ residence and maintenance for widows which has been explained in the commentary 
 1. In the Age of Ignorance, the period of waiting for a widow was one year, and in Islam, it came to be four months and ten days rather than one full year as we already know from يَتَرَ‌بَّصْنَ بِأَنفُسِهِنَّ أَرْ‌بَعَةَ أَشْهُرٍ‌ وَعَشْرً‌ا : 'They keep themselves waiting for four months and ten days,' in Verse 234, explained earlier. However, women were given a certain advantage in this respect. Those were the days when the injunction of inheritance was not revealed and a wife's share in the inheritance was yet to be determined; in fact, the rights of all others simply revolved around the will of the deceased, as we have already learnt from the explanation of the verse 2:180. Therefore, it was made obligatory that a woman should be allowed to live in the premises of her late husband's house for one full year if she so desires. It was also mandatory under this arrangement that she be given her maintenance during this period out of what has been left behind by her husband. This rule is mentioned in this verse. Husbands have been instructed to make wills to this effect. Since this was the right of the woman and she had the choice to receive or leave it, therefore, it was not permissible for the inheritors to evict her out of the house, but it was permissible for her not to live in that house at her discretion, and leave her due for the inheritors. The condition, however, was that ` iddah or the waiting period of four months and ten days be completed. After the completion of this period she could leave the house of her husband and could enter into a new marriage with another person. This is what is meant by the Qur'anic expression: "Then, if they move out, there is no sin on you in what they have done for themselves of the recognized practice." However, going out during the period of ` iddah and getting married was all counted as sin -- not only for the woman concerned but also for those who could stop her yet did not do so. When 'the verse of inheritance' was revealed, the woman received her ordained share in the house and in all other items of inheritance on the strength of which she had the choice to live in her section of the house and spend out of her share in the inheritance after the completion of four months and ten days, and this verse was abrogated.
 
 ## Personal Reflections
+
+

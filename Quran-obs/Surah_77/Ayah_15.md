@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Emissaries** (Al-Mursalat) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -173,3 +165,5 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ (Woe, that Day, to the deniers!...77:15) The word wail means 'destruction'. According to certain Hadith narratives, the word wail is a 'valley of Hell where the pus of the wounds of the inmates of Hell will be collected. This is the place where the deniers will live. After this, the present-day people are asked to learn a lesson from [ the destruction ] of the former generations, thus:
 
 ## Personal Reflections
+
+

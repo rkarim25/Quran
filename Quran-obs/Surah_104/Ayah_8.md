@@ -16,18 +16,6 @@ word_by_word:
     transliteration: mu'ṣadatun
 ---
 
-## Context
-
-To understand **The Traducer** (Al-Humazah) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Humazah is a **Makkah** surah—revealed as the 32nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 9 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation All commentators are agreed that it is a Makki Surah; a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 104:7] تَطَّلِعُ عَلَى الْأَفْئِدَةِ (that will peep into the hearts).
@@ -111,3 +99,5 @@ Surah Al-Humazah
 Ends here
 
 ## Personal Reflections
+
+

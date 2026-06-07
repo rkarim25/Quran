@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-ākharīna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 82, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed Nuh invoked Us, and We are the best of those who answer (75)And We rescued him and his family from the great distress (76)And, his progeny, them We made the survivors (77)And left for him (a goodly remembrance) among the later generation (78)"Salam (peace!) be upon Nuh among the all creatures! In verses 78 and 79, it was said: وَتَرَ‌كْنَا عَلَيْهِ فِي الْآخِرِ‌ينَ سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ (And We left for him (a word of praise) among the later people, (that is): Salam be on Nuh (علیہ السلام) among [ the people on all the worlds.).
@@ -95,3 +83,5 @@ This was also recorded by At-Tirmidhi. What is meant here by Romans is the origi
 In verses 78 and 79, it was said: وَتَرَ‌كْنَا عَلَيْهِ فِي الْآخِرِ‌ينَ سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ (And We left for him (a word of praise) among the later people, (that is): Salam be on Nuh (علیہ السلام) among [ the people on all the worlds.). It means that, in the sight of those who were born after Sayyidna Nuh (علیہ السلام) he was made so revered that they would continue praying for his peace and well-being right through the last day of the Qiyamah. As such, this is how it actually happened. All religions with attribution to Divine Scriptures subscribe to the mission of Sayyidna Nuh (علیہ السلام) as a prophet and hold him in great reverence. In addition to Muslims, even Jews and Christians regard him as being their spiritual leader.
 
 ## Personal Reflections
+
+

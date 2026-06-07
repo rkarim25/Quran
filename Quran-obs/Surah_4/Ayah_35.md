@@ -96,18 +96,6 @@ word_by_word:
     transliteration: khabīran
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-1-35 In order to inculcate the right spirit for the observance of rules and regulations, the Muslims have been enjoined to show generosity to all around them and to be free from meanness, selfishness, stinginess of mind, because this is essential for the consolidation of the Communities and helpful for the propagation of Islam.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 If you fear a breach between the two, appoint (two) arbitrators, one from his family and the other from her's; if they both wish for peace, Allah will cause their reconciliation. It is to block the road to this terrible discord that, in the second verse, the Holy Qur'an addresses government authorities of the time, the guardians of the parties concerned and their supporters, and the general body…
@@ -177,3 +165,5 @@ In the end, let us recapitulate the great Qur'anic mechanism of how to quash fam
 It may be noted that by saying إِنَّ اللَّـهَ كَانَ عَلِيمًا خَبِيرً‌ا (Surely, Allah is All-Knowing, All-Aware) warning has been given to the two arbitrators as well to the effect that they should keep in mind that no injustice or crookedness from them will go unnoticed for they shall be appearing before the Being who knows all and is aware of everything.
 
 ## Personal Reflections
+
+

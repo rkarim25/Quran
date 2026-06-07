@@ -101,18 +101,6 @@ word_by_word:
     transliteration: yush'rikūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime. The four verses cited above mention how astray the learned and the devoted and the abstaining among the Jews and Christians had gone and what blasphemies of word and deed they had come up with.
@@ -206,3 +194,5 @@ This tells us that the present verse is not related in any way to the popular re
 In sum, the masses of people among the Jews and Christians had ignored Scriptures, Divine commandments and the teachings of apostles totally and, in its place, they had taken the word and deed of self-serving scholars and ignorant pseudo-devotees as the core of their religion. This is what has been condemned in the verse.
 
 ## Personal Reflections
+
+

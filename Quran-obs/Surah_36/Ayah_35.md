@@ -38,18 +38,6 @@ word_by_word:
     transliteration: yashkurūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And a sign for them is the dead land. In the first verse (33), the land on which we live has been cited as an example.
@@ -127,3 +115,5 @@ Thus, creating fruit and giving man the expertise to compound fruit with other i
 Going into a little detail, it can be said that animals too eat vegetation and fruits. Some eat meat. Some others eat soil. But, they all feed on simples. The grass eater eats grass only. The meat eater eats meat only. Preparing different kinds of food by combining a variety of ingredients whereby the addition of salt, chilies, sugar and the sour makes food turn into tens of kinds happens to be the singularity of human beings alone. They alone have been given the ability to put different edibles together and come out with a meal tasting different from the other. This is ingenious. The preparation of meat with salt and seasonings and fruits with sweeteners is a culinary art Allah Ta’ ala has taught human beings to use to their advantage. The text, after recounting the substance and design of these great Divine blessings in these verses, concludes by saying: أَفَلَا يَشْكُرُ‌ونَ afala yashkurun: Would they not then offer gratitude?) which means that even after having seen all these things how is it possible from a reasonable person that he does not be grateful to Allah? Onwards from here, after having mentioned land produce and climate, human beings and animals have been included in the spectrum whereby there appears yet another sign of the absolute Power:
 
 ## Personal Reflections
+
+

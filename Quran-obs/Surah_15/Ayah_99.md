@@ -26,17 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rocky Tract** (Al-Hijr) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Therefore proclaim that which you commanded." Mujahid said, It is reciting the Qur'an aloud during prayer." Abu 'Ubaydah reported that 'Abdullah bin Mas'ud said, "The Prophet ﷺ was still practicing and preaching Islam secretly until this Ayah was revealed:
 
 (and turn away from idolators. Truly, We will suffice you against the mockers.) meaning - convey that which has been revealed to you by your Lord, and do not pay attention to the idolators who want to turn you away from the signs of Allah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ The Spiritual Defence Against Enemy Hostility
 From verses 97 and 98, we learn that should one face heart-rending sayings and doings of enemies the anxiety from which bothers him, then, there is a spiritual cure for that condition: Let him or her get busy with Tasbih and ` Ibadah, praising Allah Ta’ ala and praying before Him. Allah Taala will Himself remove this pain and anxiety.
 
 ## Personal Reflections
+
+

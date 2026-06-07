@@ -121,15 +121,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 285, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Our Lord! Lay not on us a burden like that which You did lay on those before us (Jews and Christians),) means, "Even if we were able to perform them, do not require us to perform the difficult deeds as You required the previous nations before us, such as the burdens that were placed on them. You sent Your Prophet Muhammad ﷺ, the Prophet of mercy, to abrogate these burdens through the Law that You revealed to him, the Hanifi (Islamic Monotheism), easy religion." Muslim recorded that Abu Hurayrah said that the Messenger of Allah ﷺ said that Allah said, "I shall (accept your supplication)." Ibn 'Abbas narrated that the Messenger of Allah ﷺ said that Allah said, "I did (accept your supplication)." There is the Hadith recorded through various chains of narration that the Messenger of Allah ﷺ said,
 
-The Messenger has believed in what has been revealed to him from his Lord, and the believers as well. All have believed in Allah and His angels and His Books and His Messengers. "We make no division between any of His Messengers," and they have said: "We have listened, and obeyed.
+The Messenger has believed in what has been revealed to him from his Lord, and the believers as well. All have believed in Allah and His angels and His Books and His Messengers. "We make no division between any of His Messengers," and they have said: "We have listened, and obeyed. Our Lord, Your par-don! And to You is the return."
 
 ## Tafsir Summary
 
@@ -276,3 +270,5 @@ Praised here is the distinction of this umrnah which is made of people who do no
 We have listened, and obeyed. Our Lord, Your pardon! And to You is the return.
 
 ## Personal Reflections
+
+

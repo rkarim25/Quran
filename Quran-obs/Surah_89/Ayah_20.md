@@ -20,18 +20,6 @@ word_by_word:
     transliteration: jamman
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 As for man, when his Lord tries him by giving him honor and bounties, then he says: "My Lord has honored me. وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا (and love wealth, with an excessive love 89:20).
@@ -95,3 +83,5 @@ word jamm means 'excessive'. This verse refers to the fourth evil trait of the u
 كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا (No! When the earth will be crushed thoroughly to be turned into bits...89:21). The word dakk literally means 'to pound or crush a thing into bits and pieces'. This refers to the earthquakes that will crush and ground the mountains to dust. The world will thus be dissolved. This will be the first stage of Resurrection. When this stage of Resurrection ends, the second stage of Resurrection will begin. The word dakkan is repeated in order to show that there will be a series of earthquakes before the dissolution of the world.
 
 ## Personal Reflections
+
+

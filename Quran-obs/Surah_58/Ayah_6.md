@@ -67,18 +67,6 @@ word_by_word:
     transliteration: shahīdun
 ---
 
-## Context
-
-To understand **The Pleading Woman** (Al-Mujadila) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Subject Matter and Topics In this Surah instructions have been given to the Muslims about the different problems that confronted them at that time. From the beginning of the Surah to verse 6 legal injunctions about zihar have been given, along with which the Muslims have been strictly warned that it is contrary to their profession of the Faith that they should still persist in the practices of ignorance after they have accepted Islam, that they should break the bounds set by Allah, or refuse to abide by them, or that they should make their own rules and regulations contradictory to them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who oppose Allah and His Messenger will be disgraced as those before them were disgraced. أَحْصَاهُ اللَّـهُ وَنَسُوهُ (...Allah has its full account, while they have forgotten transgressions, but because he treats them as trivial and insignificant, he is unable to remember and recall them.
@@ -152,3 +140,5 @@ Imam Ahmad commented, "Allah began the Ayah (58:7) by mentioning His knowledge a
 أَحْصَاهُ اللَّـهُ وَنَسُوهُ (...Allah has its full account, while they have forgotten transgressions, but because he treats them as trivial and insignificant, he is unable to remember and recall them. However, they are all recorded and kept safely with Allah, even though the humans have done the actions and forgotten them. Allah will call them to give an account of them on the Day of Resurrection and chastise them.
 
 ## Personal Reflections
+
+

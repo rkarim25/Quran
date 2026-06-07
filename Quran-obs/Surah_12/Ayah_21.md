@@ -138,18 +138,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And he (the man) from Egypt who bought him, said to his wife: "Make his stay comfortable, maybe he will profit us or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of events. Described in the previous verses was an early account of Sayyidna Yusuf (علیہ السلام) as to how the people from the caravan took him out of the well, and how his brothers made him out to be their escaped slave and traded him for a few dirhams.
@@ -237,3 +225,5 @@ In the statement which follows immediately after, that is: وَلِنُعَلِ�
 Verse 21 ends with the statement: وَاللَّـهُ غَالِبٌ عَلَىٰ أَمْرِ‌هِ (And Allah is powerful in (enforcing) His command ... ). In other words, it means that Allah Ta` ala is powerful and fully in control over what He wills and when He does so will, all outward chains of causes in this world start falling in line with His will - as said the Holy Prophet ﷺ in a Hadith: ` When Allah Ta` ala intends to do something, He makes all worldly causes ready to act accordingly.' But, says the last part of the sentence: وَلَـٰكِنَّ أَكْثَرَ‌ النَّاسِ لَا يَعْلَمُونَ that is, most of the people do not understand this reality. They have their eyes on obvious causes. These they take to be everything and keep going after them all the time. That there is the Causer of all Causes and the Holder of Absolute Power over everything is a thought they would seldom pay heed to.
 
 ## Personal Reflections
+
+

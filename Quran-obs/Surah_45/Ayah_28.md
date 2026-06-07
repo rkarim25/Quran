@@ -63,18 +63,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name It is derived from the sentence wa tartt kullu ummat- in jathiyat-un of verse 28 , implying thereby that it is the Surah in which the word jathiyah has occurred.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And to Allah belongs the kingdom of the heavens and the earth. وَتَرَ‌ىٰ كُلَّ أُمَّةٍ جَاثِيَةً ("And you will see every community kneeling down...45:28" ).
@@ -148,3 +136,5 @@ Surah Aljathiyah
 Ends here
 
 ## Personal Reflections
+
+

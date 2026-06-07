@@ -42,18 +42,6 @@ word_by_word:
     transliteration: qalīlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "When we are bones and fragments (destroyed), should we really be resurrected (to be) a new creation? The word: يَدْعُوكُمْ (He will call you) in: يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ (on a day when He will call you, and you will respond praising Him - 52) is a derivation from: دُعَاء (dua' ) which means to call out for someone by announcing it vocally.
@@ -197,3 +185,5 @@ Some commentators have said that this state has been particularized with believe
 But, the truth of the matter is that there is no likelihood of a contra-diction between these two sayings. May be, in the beginning, all rise praising. Later, when disbelievers are separated from believers as said in Surah Ya Sin: وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِ‌مُونَ (But today, 0 criminals, you stand out distinctly apart - 36:59), they will also say what appears in the cited verses. Then, it stands proved from many explications of the Qur'an, and Sunnah that stations of Resurrection will be different with a corresponding difference in the states and conditions of people in each of these. Imam al-Qurtubi has said that rising in Resurrection will begin with the praise of Allah with everyone doing it when rising and on it will end all matters. This is as it was already said: وَقُضِيَ بَيْنَهُم بِالْحَقِّ وَقِيلَ الْحَمْدُ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ (And matters between them have been settled in accordance with the truth and it was said: All praise belongs to Allah, the Lord of the Worlds - az-Zumar, 39:75)
 
 ## Personal Reflections
+
+

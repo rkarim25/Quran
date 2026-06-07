@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **Muhammad** (Muhammad) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah in His own sacred place, who kills a person who is not trying to kill him, or who kills because of Jahiliyyah vengeance. Allah then revealed to His Prophet ﷺ,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -180,3 +172,5 @@ Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah
 وَلِلْكَافِرِ‌ينَ أَمْثَالُهَا (And [ ready ] for [ these ] disbelievers are the likes thereof. - 47:10). Grammatically, the article "alif lam" in al-kafirina" in this context is used to indicate some specific disbelievers, and refers to the infidels of Makkah. The purpose of this sentence is to warn them: as the previous generations were punished for their iniquity, so will you meet similar fate for your iniquitous behavior. Do not be unconcerned!
 
 ## Personal Reflections
+
+

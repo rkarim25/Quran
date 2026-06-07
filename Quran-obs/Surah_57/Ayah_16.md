@@ -124,17 +124,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Iron** (Al-Hadid) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hadid is a **Madinah** surah—revealed as the 94th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This verse admonishes the believers. Sayyidna ` Abdullah Ibn ` Abbas ؓ reports that some of the believers were found to be lacking in firmness, and somewhat laziness was felt in their practices. So this verse was revealed. Imam A'mash (رح) said: After settling down in Madinah, the blessed Companions ؓ experienced socio-economic comfort and prosperity; as a result some of them relaxed in exerting their efforts to do good works as they used to do previously. Thus this verse was revealed. [ Ruh-ul-Ma’ ani ]
 
 Sayyidna ` Abdullah Ibn 'Abbas ؓ is narration also carries the additional information that this admonitory verse was revealed thirteen years after the revelation had started. [ Recorded by Ibn Abi Hatim (رح) ] Sayyidna ` Abdullah Ibn Masud ؓ narrates that this admonitory verse was revealed four years after they had embraced Islam to administer this mild reproof. Allah knows best!
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -183,3 +175,5 @@ Sayyidna ` Abdullah Ibn 'Abbas ؓ is narration also carries the additional infor
 In any case, the Muslims are cautioned in this verse that they should prepare themselves to turn to Allah totally and completely, and act upon the teachings of their religion. All actions revolve around khushu`-ul-qalb Sayyidna Shaddad Ibn Aws ؓ narrates that the Messenger of Allah ﷺ said: "The first thing that will be taken away from the people will be their humility or humbleness [ khushu']." [ Ibn Kathir ]
 
 ## Personal Reflections
+
+

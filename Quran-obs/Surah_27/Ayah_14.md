@@ -51,18 +51,6 @@ word_by_word:
     transliteration: l-muf'sidīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Remember) when Musa said to his household: "Verily, I have seen a fire; I will bring you from there some information, or I will bring you a burning ember, that you may warm yourselves. Except him who did wrong, then after (doing) evil replaced (it) with good, then I am Most-Forgiving, Very-Merciful.
@@ -196,3 +184,5 @@ Except him who did wrong, then after (doing) evil replaced (it) with good, then 
 The miracle of the staff of Sayyidna Musa (علیہ السلام) was mentioned in the verse prior to this, where it was also stated that when the staff turned into serpent, Sayyidna Musa (علیہ السلام) himself started running out of fear. The other miracle of illuminative hand of Sayyidna Musa (علیہ السلام) is related in the verse next to above referred verse. Then why this exception is mentioned in between two verses relating to miracles, and whether this exception is snapped from the subject (munqati`) or is it adjoining (muttasil)? The commentators have different view points on this subject. Some have declared it as snapped from the subject. In that case the verse will read as that in the previous verse it was stated that messengers do not get frightened, then it was also mentioned, by the way, as to who are the ones who should get frightened. They are those who have committed any sin, but later repented and sought Allah's pardon and performed good deeds. Although Allah Ta’ ala would pardon their sins, but even then there would be possibility of traces of sins being left over. It is for this reason that they always remain fearful of Allah. But If the exception is regarded adjoining with the subject, then the meaning of the verse would be that Allah's messengers do not get frightened except those who have committed some trifle or minor mistake and have repented on that. In that situation such trifle sins are forgiven. But the actual position is that even if there were some minor slips by the messengers, they were not regarded as sins - neither small nor big. Although they looked like sins but factually they were errors of ijtihad. According to this interpretation, this exception is an allusion toward the incident of the Egyptian who was killed by Sayyidna Musa (علیہ السلام) by error of judgment. Although this error was pardoned by Allah Ta’ ala, yet its effect remained with Musa I leaving some fear of the incident. Had this incident not have occurred, there would not have been any fear of the sort.
 
 ## Personal Reflections
+
+

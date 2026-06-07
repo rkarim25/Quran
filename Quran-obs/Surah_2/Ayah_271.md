@@ -88,18 +88,6 @@ word_by_word:
     transliteration: khabīrun
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 271, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And whatever you spend for spendings (e.g., in Sadaqah) or whatever vow you make, be sure Allah knows it all. Obviously, this verse covers all types of charity, whether obligatory or supererogatory, and it is more preferable to perform all of them as secretly as possible.
@@ -161,3 +149,5 @@ It should, however, be kept in mind that the preferability of observing secrecy 
 Immediately after the instruction of concealing the 'Sadaqat صداقات ', the holy verse says, وَيُكَفِّرُ‌ عَنكُم مِّن سَيِّئَاتِكُمْ (This will write off part of your sins). It does not mean that the expiation of evil-deeds is confined to the charity made in secret only. In fact, a charity made in public also carries the same benefit. But the reference to expiation here is in the context that even if someone feels a secret charity as useless in this world, he should not feel depressed, because Allah will forgive his sins, and that is a great gain for him.
 
 ## Personal Reflections
+
+

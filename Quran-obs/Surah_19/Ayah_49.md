@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **Mary** (Maryam) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In the sentence preceding this sentence Hadhrat Ibrahim (علیہ السلام) had expressed the hope that on account of his prayers and devotion Allah Ta` ala would not abandon him. This hope, in fact, was a prayer to Allah to protect him from the pain of loneliness after he left his house and family. The sentence reproduced above describes the manner in which his prayer was granted. When Ibrahim (علیہ السلام) left his home and family and their idols, Allah Ta` ala rewarded him with a son, Ishaq (علیہ السلام) to compensate him for his loss. It was further revealed to him that this son would have long life and also beget a son by the name of Ya` qub. Granting of a son is proof that he (Ibrahim) was married by then. In brief it means that he was granted a better family, which consisted of prophets and pious people after he had left his father's family.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -127,3 +119,5 @@ If Ya'qub had not become a Prophet in the lifetime of Ibrahim, then Allah would 
 In the sentence preceding this sentence Hadhrat Ibrahim (علیہ السلام) had expressed the hope that on account of his prayers and devotion Allah Ta` ala would not abandon him. This hope, in fact, was a prayer to Allah to protect him from the pain of loneliness after he left his house and family. The sentence reproduced above describes the manner in which his prayer was granted. When Ibrahim (علیہ السلام) left his home and family and their idols, Allah Ta` ala rewarded him with a son, Ishaq (علیہ السلام) to compensate him for his loss. It was further revealed to him that this son would have long life and also beget a son by the name of Ya` qub. Granting of a son is proof that he (Ibrahim) was married by then. In brief it means that he was granted a better family, which consisted of prophets and pious people after he had left his father's family.
 
 ## Personal Reflections
+
+

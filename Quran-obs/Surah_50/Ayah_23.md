@@ -29,18 +29,6 @@ word_by_word:
     transliteration: ʿatīdun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And his companion (angel) will say: "Here is (his record) ready with me! قَالَ قَرِ‌ينُهُ هَـٰذَا مَا لَدَيَّ عَتِيدٌ (And his companion will say, "This is what I have with me, ready (to be presented as his record of deeds)...
@@ -142,3 +130,5 @@ Allah's saying;
 قَالَ قَرِ‌ينُهُ هَـٰذَا مَا لَدَيَّ عَتِيدٌ (And his companion will say, "This is what I have with me, ready (to be presented as his record of deeds)... 50:23]. The word qarin (translated above as 'companion) refers to the recording angel that accompanies man all the time. Earlier we have learnt that there are two angels that record deeds. In the preceding verse they were referred to as Sa'iq and Shahid. The context indicates that, on the Day of Resurrection, the two scribes will be entrusted with two different tasks. One, named as Sa'iq, will drive the people to the gathering place, and the second, named as Shahid will carry the records of deeds and it is this angel who, after reaching the plane of Hashr, will say, هَـٰذَا مَا لَدَيَّ عَتِيدٌ "This is what I have with me, ready (to be presented as his record of deeds)." Ibn Jarir, in his tafsir, states that the word garin comprehends both the angels Sa'iq and Shahid.
 
 ## Personal Reflections
+
+

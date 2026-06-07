@@ -12,18 +12,6 @@ word_by_word:
     transliteration: l-insāna
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The commentators generally hold the view that this is a Makki Surah, though according to some traditions which have been cited on the authority of Hadrat Abdullah bin Abbas, Ikrimah and Qatadah, it was revealed at Madinah. But, firstly, there are also some other traditions from these very authorities, which contradict this view; secondly, its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! خَلَقَ الْإِنسَانَ عَلَّمَهُ الْبَيَانَ (He has created man.
@@ -159,3 +147,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 Having created man, uncountable bounties are bestowed upon him. Of them, imparting the knowledge of expression has been mentioned especially, because the bounties necessary for man's growth and development, and his existence and survival like his food and water, his protection against cold and heat, his dwelling arrangements and so on are bounties in which all creatures are equal partners. Among the bounties that are peculiar to human beings Knowledge of the Qur'an has been mentioned first, and it was followed by the knowledge of expressions, because deriving benefit from the Qur'an, and imparting it to others, is dependent on the knowledge of expression. The word bayan ('how to express himself) comprehends all the means of communication created by Allah, like speech, writing etc. There are various languages and dialects of various nations in various regions of the world. All these are constituent parts of linguistic knowledge which is the practical interpretation or application of the verse عَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا (And He taught Adam (علیہ السلام) the names, all of them) [ 2:31] فَتَبَارَ‌كَ اللَّـهُ أَحْسَنُ الْخَالِقِينَ
 
 ## Personal Reflections
+
+

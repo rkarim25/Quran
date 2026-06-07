@@ -25,18 +25,6 @@ word_by_word:
     transliteration: ajmaʿīna
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَـٰكِنَّ أَكْثَرَ‌هُمْ لَا يَعْلَمُونَ "We did not create them but with true purpose, yet most of them do not know.
@@ -92,3 +80,5 @@ Here Allah tells us of His justice, and that He is far above mere play, folly an
 مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَـٰكِنَّ أَكْثَرَ‌هُمْ لَا يَعْلَمُونَ "We did not create them but with true purpose, yet most of them do not know. (44:39) " In other words, every wise and thinking person should realise that there is a purpose and objective for creating this universe. The heavens and the earth and everything created in them manifest many realities. Examples are: (1) the manifestation of Divine power; (2) the possibility of the Hereafter. Obviously, the Supreme Creator Who drew out such huge bodies from the realm of non-existence into the realm of existence surely has the power to destroy them and re-create them; (3) the need for retribution (reward/punishment). If there is no retribution in the Hereafter, the very existence of the universe would be rendered purposeless or its purpose would be defeated. The wisdom underlying the creation of the universe is to make it dar-ul-imtihan (the domain of test-n-trial) and the Hereafter is the domain of reward and punishment. Otherwise, the outcome of both good and bad will necessarily be the same. This is far from Divine wisdom, or not in keeping with Divine wisdom; and (4) urging the thinking people to obey Allah and thank Him for having granted man this entire universe or creation as His great blessing
 
 ## Personal Reflections
+
+

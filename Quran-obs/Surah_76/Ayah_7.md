@@ -36,15 +36,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Man** (Al-Insan) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Concerning the poor person and the orphan, an explanation of them and their characteristics has already preceded. In reference to the captive, Sa'id bin Jubayr, Al-Hasan and Ad-Dahhak all said, "He is the captive among the people of the Qiblah (i.e., the Muslims)." Ibn 'Abbas said, "At that time (when this Ayah was revealed) their (the Muslims') captives were idolators." Proof for this is that on the day of Badr the Messenger of Allah ﷺ commanded his Companions to treat the captives respectfully. They (the Companions) would give them preference over themselves when eating their meals. 'Ikrimah said, "They (captives) are the slaves." Ibn Jarir preferred this opinion since the Ayah generally refers to both the Muslim and the idolators. Sa'id bin Jubayr, 'Ata', Al-Hasan and Qatadah all made similar statements. The Messenger of Allah ﷺ advised treating servants well in more than one Hadith. This held such importance with him that the last statement of advice that he gave (before dying) was his saying,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -189,3 +181,5 @@ Ruling
 There are several conditions that must be met before a vow can be constituted: [ 1] The vow must be legitimate and permissible - not a sin. If a person swears an oath to commit a sinful act, it is necessary for him to break the oath, and pay the expiation for violating it." ) [ 2] It must not be legislated by Allah as an obligatory duty, as for instance if a person were to vow that he will perform the prescribed prayer or witr prayer, the vow would be null and void, because it is already a prescribed obligation. [ 3] According to Imam A` zam Abu Hanifah, it is also a condition that the vowed act must be an act of worship in itself, and such act of worship should belong to those forms of worship which have been made obligatory in some way or the other, as for instance prayers, fasting, charity, sacrifice and so on. If the vowed act is not prescribed as a worship, such a vow will be void. For instance, if a person were to vow that he will pay a visit to a sickly patient, or follow a funeral procession, this vow will not be valid, because although these acts carry rewards as acts of worship, yet they are not acts, of worship in themselves (Al ` Ibadat ul Maqsudah). Detailed rules and principles related to vows and oaths are available in books of jurisprudence.
 
 ## Personal Reflections
+
+

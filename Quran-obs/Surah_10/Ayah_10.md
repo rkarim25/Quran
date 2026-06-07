@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believe and do deeds of righteousness, their Lord will guide them through their faith; under them will flow rivers in the Gardens of delight (Paradise)(9)Their way of request therein will be: "Glory to You, O Allah!" and "Salam" (peace, safety from evil) will be their greetings therein! Some particular states in which the people of Jannah shall find themselves after their arrival there have been spelt out in the fourth verse (10).
@@ -172,3 +160,5 @@ It is recommended (mustahabb) that a person making du'a also says: وَآخِر�
 Pure is your Lord, Lord of all might, above from what they ascribe to Him. And salam (peace and security) be on the Messengers. And praise be to Allah, Lord of the worlds - 37:180-182.
 
 ## Personal Reflections
+
+

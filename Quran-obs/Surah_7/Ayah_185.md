@@ -96,18 +96,6 @@ word_by_word:
     transliteration: yu'minūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 185, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do they not look in the dominion of the heavens and the earth and all things that Allah has created; and that it may be that the end of their lives is near. The verse 185 has invited mankind to practice two important things.
@@ -143,3 +131,5 @@ The Arabic word مَلَکُوت (Malakut) signifies kingdom indicating a superl
 "In what other word, then, shall they believe after it?" That is Allah has provided them with transparent signs, both internal and external, of the right path and of the True Faith. Those who are neglectful of such clear signs, there is nothing in the world to guide them to the right path.
 
 ## Personal Reflections
+
+

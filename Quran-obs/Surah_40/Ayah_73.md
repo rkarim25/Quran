@@ -33,18 +33,6 @@ word_by_word:
     transliteration: tush'rikūna
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 See you not those who dispute about the Ayat of Allah How are they turning away (69)Those who deny the Book, and that with which We sent Our Messengers they will come to know (70)When iron collars will be rounded over their necks, and the chains, they shall be dragged along (71)In the boiling water, then they will be burned in the Fire (72)Then it will be said to them: "Where are (all) those whom you used to consider partners (73)"Besides Allah?" They will say: "They have vanished from us.
@@ -138,3 +126,5 @@ will circle around between it and between hot, boiling water - Ar-Rahmn, 55:43-4
 A little deliberation shows that there is no contradiction between these two things. There will be many strata or sections of Jahannam itself serving as venues of many kinds of punishment. One of these could be that of hameem which could as well be called as being outside the Jahannam because of its separate and distinct location, and since this is also a section of Jahannam itself, therefore, it could also be called the Jahannam. Ibn Kathir has said that the people of Jahannam, shackled in chains, will sometime be dragged into the hameem and at others, in Jahannam.
 
 ## Personal Reflections
+
+

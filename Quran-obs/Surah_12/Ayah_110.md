@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-muj'rimīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (They were reprieved) until, when the Messengers gave up hope and thought that they were denied, then came to them Our help, and whomsoever We willed were rescued. Mentioned in the previous verses was the sending of prophets who invited people to take the straight path, and also answered there were some doubts about them.
@@ -193,3 +181,5 @@ Similarly, the expression: قَد کُذِبُو (qad kudhibu : were wrong) in t
 In some readings (Qira'aat) of the Qur'an, this word has appeared with a doubled sound on the letter: ذَال (dhal), that is: قَد کُذِّبُوا (qad kudhdhibu) as well. This word has been derived from the verbal noun: تَکذِیب (takdhib:falsification). Given this reading, the sense would be: The prophets had determined an estimated time when the punishment would come, but when the punishment did not come at that time, they had apprehensions about their believers themselves, lest they should not falsifying them on the basis that their statement did not turn out to be true. These were the circumstances under which Allah Ta’ ala made His promise prove true, punishment fell on the deniers, believers were saved from it, and thus, overcome they did.
 
 ## Personal Reflections
+
+

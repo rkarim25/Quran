@@ -96,18 +96,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 75, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-72-75
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who believed, and emigrated and strove hard in the cause of Allah (Al-Jihad), as well as those who gave (them) asylum and aid – these are the believers in truth, for them is forgiveness and a generous provision (74)And those who believed afterwards, and emigrated and strove hard along with you, they are of you. Described in the fourth verse (75) is the injunction concerning different categories of Muhajirin (مُھَاجِرین ، emigrants).
@@ -191,3 +179,5 @@ Praised is Allah with whose help “ Surah al-'Anfal” comes to its conclusion 
 A review of it was completed on the day of Jumu'ah, 19th of Jumada I, Hijrah Year 1390 and praised be Allah for that.
 
 ## Personal Reflections
+
+

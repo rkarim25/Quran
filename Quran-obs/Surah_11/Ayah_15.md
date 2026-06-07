@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Anas bin Malik and Al-Hasan both said, "This verse was revealed concerning the Jews and the Christians." Mujahid and others said, "This verse was revealed concerning the people who perform deeds to be seen." Qatadah said, "Whoever's concern, intention and goal is this worldly life, then Allah will reward him for his good deeds in this life. Then, when reaches the next life, he will not have any good deeds that will be rewarded. However, concerning the believer, he will be rewarded for his good deeds in this life and in the Hereafter as well." Allah, the Exalted, says,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ Jami` Tirmidhi and the Musnad of Ahmad report on the authority of Sayyidna Anas 
 Regarding what has been said in this verse: ` those who aimed for worldly life are fully recompensed for their deeds within this world,' someone may raise a doubt. It could be said that there are many people who, despite aiming and striving to have worldly benefits, fail to achieve their objective even in this world and, on occasions, they would get just about nothing. The answer is that, in this verse, the Qur'an has dealt with the subject briefly. Details appear in the following verse of Surah al-Isra' (Banu Isra'i1) where it was said: مَّن كَانَ يُرِ‌يدُ الْعَاجِلَةَ عَجَّلْنَا لَهُ فِيهَا مَا نَشَاءُ لِمَن نُّرِ‌يدُ (whoever keeps aspiring for the immediate, We shall give soon what We will to whom We will). It means whoever keeps aiming for nothing but worldly life, Allah gives it to him right here within the world, but this giving is restricted by two conditions. Firstly, He gives as much as He wants. It is not necessary to let them have what matches their desires. Secondly, He gives only to a person it is appropriate to give him according to His wisdom. Giving to everyone is not necessary.
 
 ## Personal Reflections
+
+

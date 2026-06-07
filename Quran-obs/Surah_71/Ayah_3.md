@@ -24,18 +24,6 @@ word_by_word:
     transliteration: wa-aṭīʿūni
 ---
 
-## Context
-
-To understand **Noah** (Nuh) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Nuh is a **Makkah** surah—revealed as the 71st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This also is one of the earliest Surahs to be revealed at Makkah, but the internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (In the Name of Allah, the Most Gracious, the Most Merciful. وَالَّذِينَ هُم بِشَهَادَاتِهِمْ قَائِمُونَ (...and those who are upright in their testimonies, [ 70:33] '.
@@ -95,3 +83,5 @@ Surah Al-Ma’ arij
 Ends here.
 
 ## Personal Reflections
+
+

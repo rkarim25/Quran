@@ -59,18 +59,6 @@ word_by_word:
     transliteration: taʿqilūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-25-32 Prophethood is the main theme that has been discussed from the point of view of the Holy Prophet, his Mission, the limitations of his powers, the attitude towards his followers, and also from the point of view of the disbelievers.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They indeed are losers who denied their meeting with Allah, until all of a sudden, the Hour (signs of death) is upon them, and they say: "Alas for us that we gave no thought to it," while they will bear their burdens on their backs; and evil indeed are the burdens that they will bear (31)And the life of this world is nothing but play and amusement. About the sentence: وَهُمْ يَحْمِلُونَ أَوْزَارَ‌هُمْ (And they shall be carrying their burdens) in verse 31, it appears in Hadith narrations that, on the day of Qiyamah, the deeds of good people will become their ride while the evil deeds of evil people will be placed like a burden on their heads.
@@ -134,3 +122,5 @@ In a Hadith, the Holy Prophet ﷺ has said:
 Wise is he who controls his self, and stays pleased with minimal resources, and devotes his deeds for what is after death.
 
 ## Personal Reflections
+
+

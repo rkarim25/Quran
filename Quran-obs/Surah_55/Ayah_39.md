@@ -37,18 +37,6 @@ word_by_word:
     transliteration: jānnun
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-39-45 the evil end of the guilty ones, from among men and jinn, who have been disobeying Allah in the world has been mentioned.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn… The Horrors of the Day of Resurrection فَيَوْمَئِذٍ لَّا يُسْأَلُ عَن ذَنبِهِ إِنسٌ وَلَا جَانٌّ (On that day, neither a man will be questioned about his sin, nor a Jinn...55:39) One interpretation of this verse is that no one will be asked whether or not he had committed the sin, because it will have already been recorded by the angels in the ledger of deeds, and Allah has the Pre-Eternal knowledge of it.
@@ -164,3 +152,5 @@ The Horrors of the Day of Resurrection
 Qatadah (رح) says that the verse refers to a stage after they will have been questioned about their sins, but they will have refused under oath. Then their mouths and tongues will be sealed, and their hands and feet will be asked to bear witness. At that stage no more questions will be asked from them. Ibn Kathir notes all three explanations. They are close to each other, and thus there is no conflict.
 
 ## Personal Reflections
+
+

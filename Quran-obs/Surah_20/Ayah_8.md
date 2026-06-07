@@ -39,15 +39,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it. Thus, the idolators of the Quraysh said, 'This Qur'an was only revealed to Muhammad to cause him distress.' Therefore, Allah revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -142,3 +134,5 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 يَعْلَمُ السِّرَّ‌ وَأَخْفَى (Knows the secret and what is even more hidden - 20:7). سِرّ (Sirr: Secret) means something which a man hides in his heart and which is not known to anyone else and ) اخفٰی (what is more hidden) means a thought which has not even formed in his mind and will take shape later on. Allah is fully aware of what ideas a man conceals in his heart at a particular moment and what thoughts he will entertain in the future, while the person concerned himself does not know what thoughts will come to his mind in the days to come.
 
 ## Personal Reflections
+
+

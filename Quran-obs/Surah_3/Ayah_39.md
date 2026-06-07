@@ -88,18 +88,6 @@ word_by_word:
     transliteration: l-ṣāliḥīna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 At that time Zakariyya invoked his Lord, saying: "O my Lord! 1.
@@ -207,3 +195,5 @@ Commentary
 2. The second quality of Sayyidna Yahya (علیہ السلام) has been described by the word, حَصُورً 'hasur' translated here as 'abstinent'. It means that he was very particular about keeping himself shielded from temptations, that is, from things one habitually enjoys. When we say one abstains from enjoyments of life, the statement includes abstinence even from fulfilling the desires of things allowed, for example, good food, good dress and marital life and things like these. Since the quality of abstinence has been mentioned here in a positive frame of reference, it obviously seems to suggest that this is the better way, although ahadith prove the higher merit of living in the bond of marriage. In this situation, the considered opinion is that one whose condition is similar to that of Sayyidna Yahya (علیہ السلام) and who is so absorbed in the thought of his life-to-come that he feels no need to have a wife nor has the time and frame of mind to fulfil the rights of his wife and children, then, for such a person this is the better choice. It is because of this particular reason that ahadith which describe the merit of marriage come up with a restrictive clause as well, that is, مَنِ استطاع منکم الباءَۃ which means that one who can marry and is capable of fulfilling the due rights of his wife, should marry, for this is better for him; otherwise, he is not ad-vised to marry. (Bayern al-Qur'n)
 
 ## Personal Reflections
+
+

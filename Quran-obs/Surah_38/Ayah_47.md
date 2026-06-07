@@ -24,18 +24,6 @@ word_by_word:
     transliteration: l-akhyāri
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And remember Our servants, Ibrahim, Ishaq, and Ya'qub, Ulil-Aydi wal-Absar (45)Verily, We did choose them by granting them the remembrance of the Abode (46)And they are with Us, verily, of the chosen and the best (47)And remember Isma'il, Al-Yasa', and Dhul-Kifl, all are among the best (48)This is a Reminder.. Concern for 'Akhirah is a distinct attribute of the noble prophets The word 'home' in the statement: ذِكْرَ‌ى الدَّارِ‌ (remembering the [ eternal ] Home [ in the Hereafter ]- 38:46) refers to the 'Akhirah, (the Hereafter, the life-to-come).
@@ -83,3 +71,5 @@ Concern for 'Akhirah is a distinct attribute of the noble prophets
 The word 'home' in the statement: ذِكْرَ‌ى الدَّارِ‌ (remembering the [ eternal ] Home [ in the Hereafter ]- 38:46) refers to the 'Akhirah, (the Hereafter, the life-to-come). Instead of using the word: 'Akhirah, the text has used the word: الدَّارِ‌ (ad-dar: home) whereby it has warned human beings that they must take 'Akhirah as their real Home, and make the concern for it the basis for whatever they think and do. Right from here, we also come to know that the concern for 'Akhirah further sharpens and furbishes one's intellectual and physical faculties (helping it to flourish in an essentially true perspective). Hence, the view of some atheists that such concern blunts human faculties is baseless.
 
 ## Personal Reflections
+
+

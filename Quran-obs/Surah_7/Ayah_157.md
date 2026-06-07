@@ -188,15 +188,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 157, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The fourth quality of the Holy Prophet ﷺ mentioned in this verse is that they shall find him written in the Torah and the Injil (Evangel). It may be noted that the verse did not say that they will find his attributes or indications written in the Books. It said that they will find him written in their revelations. It is an implicit indication that the attributes and qualities of the Holy Prophet ﷺ mentioned in the Torah or the Injil shall be so expressive and with as clear details as seeing them will be similar to seeing the Holy Prophet ﷺ himself. The mention of the Torah and the Injil, without a reference to the Zabur (The Book revealed to the Prophet Dawud (علیہ السلام) [ David ]) is because the Christians and the Jews believed in them, otherwise Zabur also contained the description of the Holy Prophet ﷺ .
 
-Al-Baihaqi has reported the following event in Dala'il-al Nubuwwah. The Companion Anas ؓ has reported that a boy from the Jews was in the service of the Holy Prophet ﷺ .
+Al-Baihaqi has reported the following event in Dala'il-al Nubuwwah. The Companion Anas ؓ has reported that a boy from the Jews was in the service of the Holy Prophet ﷺ . Once he was sick, the Holy Prophet ﷺ went to his house where he saw the father of the lad reciting some parts of the Torah beside his bed. The Holy Prophet ﷺ said to the father, "I bid you to tell me by the pledge of Allah if you find descriptions in the Torah indicating my coming as a prophet and referring to my attributes?" He negated it. The son instantly said "O Prophet of Allah, my father is wrong. We find you and your attributes mentioned in the Torah. I bear witness that there is no god but Allah and that you are the Messenger of Allah." The Holy Prophet ﷺ bade his Companions that they should perform his funeral ceremonies, after his death, according to Islam because he was a Muslim, after this witness. (Mazhari)
 
 ## Tafsir Summary
 
@@ -433,3 +427,5 @@ The Companion Mughirah ibn Shu'bah ؓ has reported in a Tradition that the compa
 This exemplary love and respect of the Holy Prophet ﷺ let them share a considerable part of prophetic perfection and enjoy the highest religious status next to the prophets.
 
 ## Personal Reflections
+
+

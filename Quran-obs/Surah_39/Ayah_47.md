@@ -108,18 +108,6 @@ word_by_word:
     transliteration: yaḥtasibūna
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "O Allah! In verse 47, it was said: وَبَدَا لَهُم مِّنَ اللَّـهِ مَا لَمْ يَكُونُوا يَحْتَسِبُونَ (And there will appear to them from Allah what they have never imagined.) The famous tabi` i, Sufyan Thawri recited this verse and said, 'Ruined are those who did good deeds only to pretend their piety before people.
@@ -183,3 +171,5 @@ An important instruction concerning 'mushajarat' (disagreements among Sahabah)
 Someone asked Rabi' Ibn-u1_-Khaitham about the shahadah (martyrdom) of Sayyidna Husain ؓ . He sighed and recited the verse (46): قُلِ اللَّـهُمَّ فَاطِرَ‌ السَّمَاوَاتِ وَالْأَرْ‌ضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنتَ تَحْكُمُ بَيْنَ عِبَادِكَ ( O Allah, Creator of the heavens and the earth, Knower of the unseen and the seen, You will judge between Your servants...) and said, 'whenever you have a doubt in your heart about the mutual difference of the noble Sahabah, do recite this verse.' Tafsir Ruh-ul-Ma’ ani reports this statement and then says: This teaches us the best etiquette in regard to this issue, and is something one should always bear in mind.
 
 ## Personal Reflections
+
+

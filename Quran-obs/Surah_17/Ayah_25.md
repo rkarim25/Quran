@@ -54,18 +54,6 @@ word_by_word:
     transliteration: ghafūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Your Lord knows best what is in your souls. In the last verse quoted above: رَّ‌بُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ (Your Lord knows best what is in your hearts - 25), any possible scruple that remains in the hearts of children as to how they were going to comply satisfactorily with divine injunctions relating to consistent observance of etiquette and respect due to parents.
@@ -109,3 +97,5 @@ Ibn Jarir said: "The best view on this matter is of those who said that it refer
 In the last verse quoted above: رَّ‌بُّكُمْ أَعْلَمُ بِمَا فِي نُفُوسِكُمْ (Your Lord knows best what is in your hearts - 25), any possible scruple that remains in the hearts of children as to how they were going to comply satisfactorily with divine injunctions relating to consistent observance of etiquette and respect due to parents. They have to live with parents all the time. Then, living conditions of the parties vary. They do not stay the same all the time. May be, on some such occasion, they happen to utter something, something that turns out to be against the norms of due etiquette, then, they stand facing the warning of Hell. Given this probability, it would be-come extremely difficult for them to wriggle out from this situation. In this verse, it is to remove this doubt and heart-burning that it was said: Should any such word come to be uttered out of sheer anxiety or lack of discretion - but, without intentional disrespectfulness - then, one must repent and resolve not to do that ever again. If so, since Allah Ta` ala knows the secrets of hearts and knows what was uttered was not to show disrespect or hurt, things will turn out for the better, for He is Most-Merciful. The word: الاوَّابِينَ (al-awwabin: those who turn to Him) used here carries the sense of اَلتَوَّابِین (at-tawwabin: those who repent before Him). The Hadith calls the six raka'at after Maghrib and the nawafil of al-Ishraq as the Salah al-Awwabin. Embedded here is the hint that the taufiq (ability) of these prayers is granted only to those who are the Awwabin and Tawwabin.
 
 ## Personal Reflections
+
+

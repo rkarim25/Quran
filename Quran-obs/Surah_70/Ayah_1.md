@@ -20,18 +20,6 @@ word_by_word:
     transliteration: wāqiʿin
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The subject matter bears evidence that this Surah too was sent down in conditions closely resembling those under which Surah Al Haaqqah was sent down. Theme and Subject Matter It admonishes and gives warning to the disbelievers who made fun of the news about Resurrection and the Hereafter, and Hell and Heaven, and challenged the Holy Prophet (upon whom be peace) to cause Resurrection with which he threatened them to take place if what he said was true and they had become worthy of the punishment in Hell by denying it. The whole Surah is meant to answer this denial.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. The disbelievers used to come to the Holy Prophet ﷺ in groups mocking at the Muslims, and denying the Islamic beliefs, including Resurrection.
@@ -181,3 +169,5 @@ The result of this demand was that Nadr Ibn Harith was killed by Muslims in the 
 The word ma’ arij is the plural of mi` raj or mi'raj. It means a 'ladder or a staircase, having steps for reaching high places. The Divine attribute given in this verse as 'dhil-ma’ arij' [ Lord of the stairways ] means that He is the Lord of high degrees. This is the interpretation given by Said Ibn Jubair. Sayyidna Ibn Masud ؓ says that these stairways or higher rungs are seven heavens one above another, and 'dhil-ma’ arij' means 'dhis-samawat', that is to say, malik-us-samawat [ Lord of the heavens ].
 
 ## Personal Reflections
+
+

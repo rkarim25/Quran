@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Recite (O Muhammad ﷺ) what has been revealed to you of the Book (the Qur'an), and perform As-Salah. Verily, As-Salah (the prayer) prevents from Al-Fahsha' (i.e. great sins of every kind), and Al-Munkar and the remembrance of (praising) of (you by) Allah is greater indeed)(29:45).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -151,3 +143,5 @@ In concluding the discussion, Imam al-Ghazali (رح) remarks that in spite of th
 In short, this is a matter in which hope and fear both are involved - there is the fear of having incurred punishment as well as the hope of being ultimately forgiven. So, one should try one's best to get rid of one's laziness and indifference. But it is the mercy of Allah alone which can help one to succeed in this effort.
 
 ## Personal Reflections
+
+

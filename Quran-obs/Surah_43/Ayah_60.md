@@ -38,18 +38,6 @@ word_by_word:
     transliteration: yakhlufūna
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument. وَلَوْ نَشَاءُ لَجَعَلْنَا مِنكُم مَّلَائِكَةً فِي الْأَرْ‌ضِ يَخْلُفُونَ (and if we will, We may create angels from you who succeed you on the earth...43:60) This is in reply to the gravely mistaken conclusion drawn by Christians from the miraculous birth of Sayyidna ` Isa (علیہ السلام) without a father as a result of which they attributed godhead to him, and started worshipping him.
@@ -223,3 +211,5 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 وَلَوْ نَشَاءُ لَجَعَلْنَا مِنكُم مَّلَائِكَةً فِي الْأَرْ‌ضِ يَخْلُفُونَ (and if we will, We may create angels from you who succeed you on the earth...43:60) This is in reply to the gravely mistaken conclusion drawn by Christians from the miraculous birth of Sayyidna ` Isa (علیہ السلام) without a father as a result of which they attributed godhead to him, and started worshipping him. Allah Ta ala states to controvert their argument that Sayyidna 'Isa's (علیہ السلام) birth was merely a demonstration of His power, and He has the power to do even more supernatural things like creating Sayyidna 'Adam (علیہ السلام) without father and mother. And if He wills, He may do as unprecedented things as causing angels to be born out of human beings.
 
 ## Personal Reflections
+
+

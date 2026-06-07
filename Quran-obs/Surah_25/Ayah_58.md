@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then He rose over (Istawa) the Throne. The Most Gracious! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example. It is known that there is no one who knows more about Allah than His servant and Messenger Muhammad , the absolute leader of the sons of Adam in this world and the Hereafter, who does not speak of his own desire, but conveys revelation revealed to him. What he says is true, and he is the leader whose decision counts; when there is a dispute, people are obliged to refer to him, and whatever is in accordance with his words and deeds is right, and whatever goes against them should be rejected no matter who says or does it. Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -219,3 +211,5 @@ Say, "I do not demand from you any fee, except that whoever so wills, should ado
 Allah Ta’ ala advised the Holy Prophet ﷺ to say that he has no personal interest in inviting to accept and follow Allah's message in order to be profitable in this world and the Hereafter. He does not seek any reward from them for his efforts. His reward is only that they turn towards Allah. It is but obvious that if someone moves to the righteous path it is he who will be the gainer. As for the Holy Prophet , it was his love for the people that he was striving, and has considered the gain of the people as his own. It is just like an old father asks his children to eat and drink and be merry, and declares to them that their eating and drinking is a reward for himself. It is also possible that the correct attitude of the people is taken as a reward for the Holy Prophet ﷺ because he will also be rewarded if the people take up to right path. Some authentic traditions say that if someone asks people to take up the righteous path and they oblige, then not only those who have acted righteously will be rewarded for the good acts, but also the one who has persuaded them to follow the righteous path. (Mazhari)
 
 ## Personal Reflections
+
+

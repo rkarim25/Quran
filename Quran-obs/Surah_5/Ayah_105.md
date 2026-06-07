@@ -86,13 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 105, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-These words of the verse, if looked at outwardly, sometimes are taken in the sense that it is enough for one to only take care of one's own conduct, and just correct it when necessary. This would leave out the others who may keep doing what they do - there was no need to think about that. Such thinking is contrary to a great many very clear statements of the Qur'an where Bidding the Fair (al-amr bil-ma` ruf) and Forbidding the Unfair (al-nahy 'anil-munkar) has been declared to be an important duty in Islam and a singular distinction of the Muslim community. When this verse was revealed, some people faced doubts. The Holy Prophet ﷺ clarified by saying that the verse was not contradictory to the injunctions regarding the Bidding of the Fair. If they were to leave the mission of Bidding the Fair, they will be answerable for that. Therefore, Sayyidna Said ibn Jubayr ؓ has, in his Tafsir of the Verse as reported in Al-Bahr Al-Muhit, said: Keep doing what your religion obligates you with, which includes Jihad and Al-amr bil-ma` ruf (Bidding the Fair).
+These words of the verse, if looked at outwardly, sometimes are taken in the sense that it is enough for one to only take care of one's own conduct, and just correct it when necessary. This would leave out the others who may keep doing what they do - there was no need to think about that. Such thinking is contrary to a great many very clear statements of the Qur'an where Bidding the Fair (al-amr bil-ma` ruf) and Forbidding the Unfair (al-nahy 'anil-munkar) has been declared to be an important duty in Islam and a singular distinction of the Muslim community. When this verse was revealed, some people faced doubts. The Holy Prophet ﷺ clarified by saying that the verse was not contradictory to the injunctions regarding the Bidding of the Fair. If they were to leave the mission of Bidding the Fair, they will be answerable for that. Therefore, Sayyidna Said ibn Jubayr ؓ has, in his Tafsir of the Verse as reported in Al-Bahr Al-Muhit, said: Keep doing what your religion obligates you with, which includes Jihad and Al-amr bil-ma` ruf (Bidding the Fair). If, even after doing all this, those who remain astray could bring no loss on you. A little deliberation in the words: إِذَا اهْتَدَيْتُمْ (if you are on the right path) of the Qur'an itself makes this explanation all the more clear as the converse of it shows that one who has abandoned the duty of Bidding the Fair is obviously not on the right path.
 
 ## Tafsir Summary
 
@@ -165,3 +159,5 @@ But here, the use of the words, Ma` ruf and Munkar, in place of sin and reward o
 To put it briefly, it can be said that on occasions where Ijtihadi difference exists, every knowledgeable person (having the optimum subject knowledge) has the choice to take a side which is weightier in his sight. This much he can do. But, no one has the right to reject and censure what someone else has done by taking it as Munkar (evil and sinful). From here we learn that all those writings which spread mutual hatred and hostility in Ijtihadi problems and issues are not included under the purview of Al-Amr bil-Ma’ ruf or Nahy 'anil-Munkar (Bidding the Fair and Forbidding the Unfair). Opening a war front on the basis of such religious issues can only be because of unawareness or ignorance.
 
 ## Personal Reflections
+
+

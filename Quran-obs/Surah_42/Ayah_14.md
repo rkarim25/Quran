@@ -133,17 +133,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Consultation** (Ash-Shuraa) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shuraa is a **Makkah** surah—revealed as the 62nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 53 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisions in it. Intolerable for the idolators is that to which you call them. Allah chooses for Himself whom He wills, and guides unto Himself who turns to Him in repentance (13)And they divided not till after knowledge had come to them, through transgression between themselves. And had it not been for a Word that went forth before from your Lord for an appointed term, the matter would have been settled between them. And verily, those who were made to inherit the Scripture after them, are in grave doubt concerning it (14)
 
 (He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you,)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -214,3 +206,5 @@ Allah mentions the first Messenger who was sent after Adam, that is, Nuh, peace 
 Be that as it may, the pagans of Makkah and the infidels of the early ages, both demanded that their prophets should also follow the misguidance they themselves had adopted. Therefore the Holy Prophet ﷺ has been addressed in the following verse as follows:
 
 ## Personal Reflections
+
+

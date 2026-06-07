@@ -88,18 +88,6 @@ word_by_word:
     transliteration: l-rashīdu
 ---
 
-## Context
-
-To understand **Hud** (Hud) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "O Shu'ayb! It means if they were not to listen to him, let them remember that he was not responsible for the eventuality that they may be seized by some punishment.
@@ -149,3 +137,5 @@ The Holy Prophet ﷺ said about Sayyidna Shu'aib that he was an orator among pro
 The salah (prayer) of Sayyidna Shu'aib (علیہ السلام) was well known among his people as he was constantly devoted to it. Therefore, they referred to it tauntingly in the sense that (God forbid) his salah taught him to say all those 'wild' things. From what they said we learn that they too thought that religion is restricted to acts of worship, and that it had nothing to do with material dealings. Let everyone earn and spend one's wealth at will. Placing any restriction on that is no job of religion - as many people, even in this time of ours, generally believe, in total ignorance of the real fact.
 
 ## Personal Reflections
+
+

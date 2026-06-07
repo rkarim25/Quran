@@ -68,18 +68,6 @@ word_by_word:
     transliteration: khāsirīna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 53, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! This has been clarified further in the third verse (53) where it was said that once the hypocricy of the hypocrites has been exposed and the reality behind their claims and oaths of friendship comes out in the open, Muslims would wonder if those were the people who used to assure them with sworn claims of their friendship and there they were all ruined as everything they did just to pretend had gone to waste.
@@ -151,3 +139,5 @@ They thus offer this excuse for their friendship and allegiances to the disbelie
 This has been clarified further in the third verse (53) where it was said that once the hypocricy of the hypocrites has been exposed and the reality behind their claims and oaths of friendship comes out in the open, Muslims would wonder if those were the people who used to assure them with sworn claims of their friendship and there they were all ruined as everything they did just to pretend had gone to waste. That Allah Jalla Sha'nuhu has mentioned the conquest of Makkah and the disgrace of the hypocrites in these verses was something which everyone saw only after a few days with their own eyes.
 
 ## Personal Reflections
+
+

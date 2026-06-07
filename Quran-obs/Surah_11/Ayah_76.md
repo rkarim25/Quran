@@ -63,18 +63,6 @@ word_by_word:
     transliteration: mardūdin
 ---
 
-## Context
-
-To understand **Hud** (Hud) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then when the fear had gone away from (the mind of) Ibrahim, and the glad tidings had reached him, he began to plead with Us (Our messengers) for the people of Lut (74)Verily, Ibrahim was, without doubt, forbearing, used to invoke Allah with humility, and was repentant (75)"O Ibrahim! Surah Hud (علیہ السلام) carries an account of different kinds of Divine punishments sent over past peoples because of their antagonism to prophets of the time.
@@ -118,3 +106,5 @@ Certainly great is the majesty of Allah Ta'ala. When He seizes a people in punis
 Allah Ta` ala has, in His great design, made this world of ours an open gallery of lessons full of the countless exhibits of His perfect power and eloquent wisdom. He made His friend Sayyidna Ibrahim (علیہ السلام) come out as a prophet from the home of Azar, the idol-worshipper. In the home of the highly revered prophet, Sayyidna Lut (علیہ السلام) there was that wife of his who worked in league with disbelievers and opposed her prophet husband. When these honored guests in the form of handsome young men came to stay at the home of Sayyidna Lut (علیہ السلام) his wife passed on the information to perverted hoods from these people telling them about the kind of guests they had in their home on that day. (Qurtubi, Mazhari)
 
 ## Personal Reflections
+
+

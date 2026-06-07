@@ -150,18 +150,6 @@ word_by_word:
     transliteration: tatafakkarūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 266, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Would any of you wish to have a garden with date palms and vines, with rivers flowing underneath, and all kinds of fruits for him therein, while he is striken with old age, and his children are weak (not able to look after themselves), then it is struck with a fiery whirlwind, so that it is burnt? In verse 266, the sixth under discussion, the statement, that صدقہ sadaqah can be rendered void and rejected if one acts against conditions set forth for the acceptance of charitable spendings, has been illustrated with yet another example.
@@ -251,3 +239,5 @@ Then there are a thousand forms of spending in the way of Allah. The sunnah meth
 The essence of the third condition is that spending at a place or in a cause with even good intention is not good enough. This will not suffice to make it an act of thawab ثواب . It is also necessary that the place or cause of spending should be permissible and commendable in the sight of the Shari'ah. If a person was to bequeath his property for impermissible games and amusements he would be deserving of ` adhab عذاب (punishment) rather than thawab ثواب (reward). This holds good for all other possible avenues of investment which are not desirable in the view of the Shari'ah.
 
 ## Personal Reflections
+
+

@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (then on the Day of Resurrection, he will be among those brought up.) Mujahid and Qatadah said: "He will be among those who are punished." It was said that this was revealed concerning the Messenger of Allah ﷺ and Abu Jahl, or that it was revealed concerning Hamzah and Ali, and Abu Jahl. Both views were narrated from Mujahid. The apparent meaning is that it is more general than that. This is like the Ayah where Allah describes a believer in Paradise looking out at his companion who is in Hell, and saying:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ The sign of prudence is that one does not involve himself too much in worldly ma
 Imam Shafi` i (رح) has said that if a person bequeaths his wealth and property to be given to the wisest men, then the beneficiaries of such a will are those busy in worshipping and obeying Allah Ta` ala, because what they are doing is the demand of wisdom, and no doubt they are the wisest among worldly people. This ruling is also mentioned in Ad-Durr-al-Mukhtar, the famous book of Hanafi school. See its chapter on 'wasiyyah'.
 
 ## Personal Reflections
+
+

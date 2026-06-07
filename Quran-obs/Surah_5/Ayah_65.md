@@ -57,17 +57,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And let not your hand be tied (like a miser) to your neck.) Therefore, this is the meaning that the Jews meant, may Allah's curses be on them. 'Ikrimah said that this Ayah was revealed about Finhas, one of the Jews, may Allah curse him. We mentioned before that Finhas said,
 
 Some conditions of the Jews were mentioned in the previous verses. More particular ones appear in the verses cited above, especially the ones identified with Nabbash son of Qays and Fenhas, the chief of the Jewish tribe of Qaiynuqa` who uttered words of affront with reference to Almighty Allah, the description of which follows. Thereupon, the opening verse was revealed. (As in Al-Lubab, from Sayyidna ibn ` Abbs ؓ narrated by Al-Tabarani and Abu Al-Shaykh)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -238,3 +230,5 @@ Full obedience to the Divine Commands brings Blessings in This World Too
 In verse 65, the Jews have been admonished that the people of the Torah and Injil have not derived any benefit from the guidance given therein nor from the teachings of the blessed prophets. Once involved in worldly greed, they ignored what was not to be ignored. As a result, they ran into straightened circumstances right here in this world as well. But, if they were to take to the ways of faith and godliness even now, Allah could forgive them their past sins and admit them to Gardens full of bliss.
 
 ## Personal Reflections
+
+

@@ -97,18 +97,6 @@ word_by_word:
     transliteration: yush'rikūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, give to the kindred his due, and to Al-Miskin and to the wayfarer. وَمَا آتَيْتُم مِّن رِّ‌بًا لِّيَرْ‌بُوَ فِي أَمْوَالِ النَّاسِ (And whatever Riba [ increased amount ] you give so that it may increase in the wealth of the people, - 30:39).
@@ -192,3 +180,5 @@ Ruling
 It is extremely contemptible for a person who extends a gift to someone that he expects a return for it, which is forbidden in this verse. But it is morally desirable for the one who receives a gift from someone, that he tries to give a gift to the former on his own accord, whenever he finds a suitable occasion. This was exactly the practice of the Holy Prophet ﷺ . He used to give present to the person who gave him one. (Qurtubi on authority of Sayyidah ` A'ishah ؓ . However, it should be avoided to give him an impression that the gift is being given in return of his own.
 
 ## Personal Reflections
+
+

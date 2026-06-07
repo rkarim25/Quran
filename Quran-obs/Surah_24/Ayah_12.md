@@ -57,15 +57,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (the believers, men and women, think good of their own people) means, why did they not compare what was said to themselves – if it was not befitting for them then it was even less appropriate for the Mother of the believers, and she was more likely to be innocent. Or it was said that this was revealed about Abu Ayyub Khalid bin Zayd Al-Ansari and his wife, may Allah be pleased with them. Imam Muhammad bin Ishaq bin Yasar narrated, "The wife of Abu Ayyub Khalid bin Zayd Al-Ansari, Umm Ayyub, said to him, 'O Abu Ayyub, have you heard what the people are saying about 'A'ishah?' He said, 'Yes, and it is all lies. Would you do that, O Umm Ayyub?' She said, 'No, by Allah, I would not do that.' He said, 'And by Allah, 'A'ishah is better than you.' When the Qur'an was revealed, Allah mentioned those who spoke about the evil deed among the people of the slander,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ Ruling
 This has proved that to think good about all Muslims men and women is obligatory, unless proved otherwise by Islamic law. And if someone accuses a Muslim without the proof under Islamic law, then the rejection of that accusation and to declare it as a lie is also obligatory, because it is nothing but backbiting and defaming an innocent Muslim. (Mazhari)
 
 ## Personal Reflections
+
+

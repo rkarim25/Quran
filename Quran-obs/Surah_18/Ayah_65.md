@@ -56,13 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-(Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah. So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace be upon him, till they reached a rock (on which) they both lay down their heads and slept. The fish moved vigorously in the vessel and got out of it and fell into the sea and there it took its way through the sea (straight) as in a tunnel. Allah stopped the flow of water on both sides of the way created by the fish, and so that way was like a tunnel. When Musa got up, his companion forgot to tell him about the fish, and so they carried on their journey during the rest of the day and the whole night.
+(Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah. So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace be upon him, till they reached a rock (on which) they both lay down their heads and slept. The fish moved vigorously in the vessel and got out of it and fell into the sea and there it took its way through the sea (straight) as in a tunnel. Allah stopped the flow of water on both sides of the way created by the fish, and so that way was like a tunnel. When Musa got up, his companion forgot to tell him about the fish, and so they carried on their journey during the rest of the day and the whole night. The next morning Musa said to his boy-servant,
 
 ## Tafsir Summary
 
@@ -269,3 +263,5 @@ It is not lawful for any waliyy or man of Allah to contravene the injunction of 
 Right from here we learn that there is no shortage of ignorant and misguided Sufis who give a bad name to Tasawwuf. The likes of them would say that Shari’ ah is something else and Tariqah is something else. There are many things taken as حرام haram in the Shari` ah, but they are permissible in the Tariqah. Therefore, even if you see a waliyy (man of Allah) involved in a major sin openly and clearly, you cannot raise an objection against him! This is heresy, flagrant and false. No waliyy, no man of Allah anywhere in this world can be taken on the analogy of al-Khadir nor can any act contrary to the codified Shari` ah issuing forth from him be called permissible.
 
 ## Personal Reflections
+
+

@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Correspondingly, there are occasions when 'Islam' is used in that general sense, while there are other occasions when it is used exclusively to identify the Last Shari'ah which was revealed to the Last of the Prophets (علیہ السلام) . Both these kinds of application are present in the Holy Qur'an. That the past prophets called themselves 'Muslim' and their communities, the 'Muslim' community, stands proved under the authority of several wordings of the Qur'anic text. Concurrently, this name has also been used as a particular name of the community the Last of the Prophets:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -187,3 +179,5 @@ Therefore, at this place, no matter what sense is taken of Islam - the general o
 Details about this subject have already appeared under the commentary on the verse (3:19).
 
 ## Personal Reflections
+
+

@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah praises His noble Book, the Qur'an, which He revealed to His Messenger Muhammad ﷺ. It directs people to the best and clearest of ways.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -132,3 +124,5 @@ The most upright way
 The way to which the Qur'an guides has been called 'aqwam,' the most upright. 'Aqwam' can be explained by saying that it is a way that is closer to the destination, is easy and free of dangers at the same time. (Qurtubi) This tells us that the rules set for human life by the Holy Qur'an are a combination of all three features mentioned above. However, it is a different matter that man may start taking this way to be difficult or dangerous on occasions because of his own lack of comprehension. But, the Lord of all the worlds has the most comprehensive knowledge of every single particle in the entire universe. Before Him, the past and the future are the same. It is He who can have the knowledge of the reality as to the function and form most beneficial for human beings. And since man is unaware of things as they are in a comprehensive setting, he can-not identify even his own good or bad fully and decisively.
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they not seen that We have made a secure sanctuary, while men are being snatched away from all around them? وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا (And those who strive in Our way We will certainly take them to Our paths - 69).
@@ -117,3 +105,5 @@ Knowledge improves if it is acted upon
 Sayyidna Abu Ad-Darda' ؓ while interpreting this verse has said that the people who strive for acting in accordance with their knowledge are promised by Allah Ta’ ala in this verse that He will disclose to them some other areas of knowledge that they did not have before. Fudayl Ibn ` Iyad (رح) has given yet another interpretation to this verse, that is, ` those who strive for knowledge, We make it easy for them to act'. (Mazhari). وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
 ## Personal Reflections
+
+

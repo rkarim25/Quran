@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-akramu
 ---
 
-## Context
-
-To understand **The Clot** (Al-'Alaq) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Alaq is a **Makkah** surah—revealed as the 1st surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah has two parts: the first part consists of 1-5 , and the second of 6-19 . About the first part: a great majority of the Islamic scholars are agreed that it forms the very first Revelation to be sent down to the Holy Prophet (upon whom be Allah's peace and blessings). In this regard, the Hadith from Hadrat Aishah, which Imam Ahmad, Bukhari, Muslim, and other traditionists have related with several chains of authorities, is one of the most authentic Ahadith on the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 This was the First of the Qur'an revealed In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 3] اقْرَ‌أْ وَرَ‌بُّكَ الْأَكْرَ‌مُ (Read, and your Lord is the most gracious.) The command iqra' [ Read ] has been repeated in this verse for two reasons: The first command in verse [ 1] was for the Holy Prophet himself to read or recite.
@@ -107,3 +95,5 @@ There is a narration that states, "Record knowledge by writing." There is also a
 Verse [ 3] اقْرَ‌أْ وَرَ‌بُّكَ الْأَكْرَ‌مُ (Read, and your Lord is the most gracious.) The command iqra' [ Read ] has been repeated in this verse for two reasons: The first command in verse [ 1] was for the Holy Prophet himself to read or recite. The second command in this verse is to proclaim, convey, communicate and teach or preach. It is not inconceivable that the command iqra' is repeated by deliberate design for emphasis. The Divine attribute al-Akram 'the Most Gracious' signifies that Allah did not create the world or man for any ulterior motive, for selfish motivation or for His own benefit. He has done it out of His infinite grace, generosity and magnanimity. He endowed upon the universe the great favour of existence without asking for it.
 
 ## Personal Reflections
+
+

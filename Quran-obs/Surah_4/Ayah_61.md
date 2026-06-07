@@ -68,15 +68,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 61, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes. It was reported that the reason behind revealing this Ayah was that a man from the Ansar and a Jew had a dispute, and the Jew said, "Let us refer to Muhammad to judge between us." However, the Muslim man said, "Let us refer to Ka'b bin Al-Ashraf (a Jew) to judge between us." It was also reported that the Ayah was revealed about some hypocrites who pretended to be Muslims, yet they sought to refer to the judgment of Jahiliyyah. Other reasons were also reported behind the revelation of the Ayah. However, the Ayah has a general meaning, as it chastises all those who refrain from referring to the Qur'an and Sunnah for judgment and prefer the judgment of whatever they chose of falsehood, which befits the description of Taghut here. This is why Allah said,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -159,3 +151,5 @@ These people are hypocrites, and Allah knows what is in their hearts and will pu
 The second verse (61) tells us that turning away from the decision of the Holy Prophet ﷺ ، given under the dictates of the Shari’ ah in matters relating to mutual quarrels and disputes, can never be the response of a Muslim. One who does it has to be a munafiq (hypocrite). Thus, when the disbelief of this hypocrite was practically exposed through his dissatisfaction with the decision of the Holy Prophet ﷺ ، his being killed by Sayyidna ` Umar ؓ became all the more justified, because he no more remained a munafiq (hypocrite) and, in fact, became an open Kafir (or apostate). Therefore, it was said; And when it is said to them, "Come to what Allah has revealed, and to the Messenger," you will see the hypocrites turning away from you in aversion.'
 
 ## Personal Reflections
+
+

@@ -76,18 +76,6 @@ word_by_word:
     transliteration: masūlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And come not near to the orphan's property except to improve it, until he attains the age of full strength. Mentioned in the two verses cited above, there are three injunctions: the ninth, the tenth and the eleventh.
@@ -171,3 +159,5 @@ Ruling
 Respected jurists of Islam say that the outcome of the injunction against shortening weights and measures is that it is Haram (unlawful) to give less than whatever is the due of whoever it may be. Therefore, it is also included therein that an employee curtails the assigned duty entrusted with him or gives a time that is less than what should actually be given to it, or that a worker shirks work and fails to deliver what is due out of it.
 
 ## Personal Reflections
+
+

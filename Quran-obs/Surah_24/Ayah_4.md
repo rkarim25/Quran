@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In the Qur’ anic verse, either because of general practice or because of the incident for which the verse was revealed, the accusation of adultery and related punishment is described in a way that the accusers are men and the accused is a chaste lady. But the injunction applies to all situations because of the common ground applicable to all persons. If a woman levels a charge of adultery against another woman or a man, or a man accuses another man, but the required legal evidence is lacking, then in either case the accuser will be liable to the punishment of eighty stripes.(Jassas Hidayah)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ And do not accept his any evidence any more - 24:4.
 It means that the person guilty of qazf is subject to two punishments. One is inflict at once, i.e. the eighty stripes, but there is another punishment which stays with the culprit forever. This punishment is that his evidence will not be accepted in any matter, unless he begs Allah's pardon with sincere repentance, and is also forgiven by the one whom he had accused. Until this is done, his evidence will not be acceptable in any case. This much is by consensus of Ummah. But in case of Hanafiah, even after begging the pardon, his evidence is not acceptable. Only his sin is pardoned.
 
 ## Personal Reflections
+
+

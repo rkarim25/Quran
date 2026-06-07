@@ -46,18 +46,6 @@ word_by_word:
     transliteration: rājiʿūna
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with thei… وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ (And those who give whatever they give with their hearts full of fear - 23:60.) The word يُؤْتُونَ is derived from اِیتا meaning "to give, to spend", and is used in commentaries in the sense of صَدَقَات (alms to the poor).
@@ -111,3 +99,5 @@ Commentary
 Hasan a1-Basri (رح) says that he knew people who did virtuous deeds, yet were more fearful than people who committed evil deeds. (Qurtubi)
 
 ## Personal Reflections
+
+

@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Tidings** (An-Naba) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naba is a **Makkah** surah—revealed as the 80th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 40 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance. His statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -222,3 +214,5 @@ Then he said, "They will continue increasing in torment forever."
 Some narratives report ten types of group. Some scholars say that the groups on the Plain of Gathering will be divided according to their deeds and character. The narratives are not conflicting. All of them may be true.
 
 ## Personal Reflections
+
+

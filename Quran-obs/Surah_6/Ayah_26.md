@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prevent - 26), according to early commentators Dahhak, Qatadah and Muhammad ibn Hanafiyah, was revealed about the common disbelievers of Makkah who prevented people from listening to the Qur'an and following it - and saw to it that they themselves stayed away from it. It has also been reported from Sayyidna ` Abdullah ibn ` Abbas ؓ that this verse concerns the Holy Prophet's ﷺ respected uncle, Abu Talib , as well as other uncles who stopped people from causing pain to him, even supported him, but would not believe in the Qur'an nor follow it. If so, the pronoun in يَنْهَوْنَ عَنْهُ will revert to the Holy Prophet ﷺ and not to the Qur'an. (Mazhari with narration by Ibn Abi a1-Hatim from Said ibn Abi Hilal)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -165,3 +157,5 @@ The disbelievers say, what you (O Muhammad ﷺ) brought us was taken from the bo
 The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prevent - 26), according to early commentators Dahhak, Qatadah and Muhammad ibn Hanafiyah, was revealed about the common disbelievers of Makkah who prevented people from listening to the Qur'an and following it - and saw to it that they themselves stayed away from it. It has also been reported from Sayyidna ` Abdullah ibn ` Abbas ؓ that this verse concerns the Holy Prophet's ﷺ respected uncle, Abu Talib , as well as other uncles who stopped people from causing pain to him, even supported him, but would not believe in the Qur'an nor follow it. If so, the pronoun in يَنْهَوْنَ عَنْهُ will revert to the Holy Prophet ﷺ and not to the Qur'an. (Mazhari with narration by Ibn Abi a1-Hatim from Said ibn Abi Hilal)
 
 ## Personal Reflections
+
+

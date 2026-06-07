@@ -74,15 +74,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari also recorded that Anas bin Malik, may Allah be pleased with him, said: "We think that this Ayah was revealed concerning Anas bin An-Nadr, may Allah be pleased with him:
 
-This was reported only by Al-Bukhari, but there are corroborating reports with other chains of narration. Imam Ahmad recorded that Anas said: "My paternal uncle Anas bin Al-Nadr, may Allah be pleased with him, after whom I was named, was not present with this Messenger of Allah ﷺ at Badr, and this distressed him. He said: 'The first battle at which the Messenger of Allah ﷺ was present, and I was absent; if Allah shows me another battle with the Messenger of Allah ﷺ, Allah will see what I will do!' He did not want to say more than that. He was present with the Messenger of Allah ﷺ at Uhud, where he met Sa'd bin Mu'adh, may Allah be pleased with him. Anas, may Allah be pleased with him, said to him, 'O Abu 'Amr! Where are you going?' He replied, 'I long for the fragrance of Paradise and I have found it near the mountain of Uhud.' He fought them until he was killed, may Allah be pleased with him.
+This was reported only by Al-Bukhari, but there are corroborating reports with other chains of narration. Imam Ahmad recorded that Anas said: "My paternal uncle Anas bin Al-Nadr, may Allah be pleased with him, after whom I was named, was not present with this Messenger of Allah ﷺ at Badr, and this distressed him. He said: 'The first battle at which the Messenger of Allah ﷺ was present, and I was absent; if Allah shows me another battle with the Messenger of Allah ﷺ, Allah will see what I will do!' He did not want to say more than that. He was present with the Messenger of Allah ﷺ at Uhud, where he met Sa'd bin Mu'adh, may Allah be pleased with him. Anas, may Allah be pleased with him, said to him, 'O Abu 'Amr! Where are you going?' He replied, 'I long for the fragrance of Paradise and I have found it near the mountain of Uhud.' He fought them until he was killed, may Allah be pleased with him. Eighty-odd stab wounds and spear wounds were found on his body, and his sister, my paternal aunt Ar-Rabayyi' bint Al-Nadr said, 'I only recognized my brother by his fingertips.' Then this Ayah was revealed:
 
 ## Tafsir Summary
 
@@ -191,3 +185,5 @@ The last three (25-27) of the cited verses refer to the event relating to Banu Q
 In the last verse (27), good news of future victories has been given. Gone is the time when disbelievers attacked. Now the cycle of Muslim victories will begin and they will come to be on lands their feet have not touched yet. And this prophecy unfolded itself during the tenure of the noble Sahabah and everyone witnessed the spectacle of great empires ruled by Cyrus and Caesar come under them. And Allah does what He wills.
 
 ## Personal Reflections
+
+

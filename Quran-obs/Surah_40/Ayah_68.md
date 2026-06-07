@@ -54,18 +54,6 @@ word_by_word:
     transliteration: fayakūnu
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "I have been forbidden to worship those whom you worship besides Allah, since there have come to me evidences from my Lord; and I am commanded to submit to the Lord of all that exists (66)It is He, Who has created y… In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -).
@@ -109,3 +97,5 @@ Ibn Jurayj said, "In order that you may remember the Resurrection." Then Allah s
 In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ صُوَرَ‌كُمْ (and shaped you, and made your shapes so good -). Allah Ta’ ala has blessed the human person with the most distinct, superior and better-balanced form and shape out of all animals. He was given reason. He was given such hands and feet that he could get together materials to make things for his needs and comfort. Then, his eating and drinking is different, rather far distinct from common animals. They eat or graze or drink directly with their mouth. He uses hands. Common animals eat singles. Some eat meat, others eat grass or leaves, that too in singles. Contrary to that, man eats by combining different things like meat, vegetables, spices, herbs and fruits. He eats by making his food taste good. His culinary creativity knows no bounds when he would take a single fruit from nature, and turn it into all sorts of delicious eatables like pies, fruit cakes, jams, preserves and chutneys. فَتَبَارَ‌كَ اللَّـهُ رَ‌بُّ الْعَالَمِينَ (Blessed is Allah, the Best Creator).
 
 ## Personal Reflections
+
+

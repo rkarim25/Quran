@@ -46,18 +46,6 @@ word_by_word:
     transliteration: nufūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And surely, We have explained in this Qur'an that they may take heed, but it increases them in naught save aversion.) Allah say (41) (And surely, We have explained in this Qur'an) meaning, 'We have explained Our warnings… After having described details of the injunctions appearing above, it was said in the last verse: كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُ عِندَ رَ‌بِّكَ مَكْرُ‌وهًا (That which is evil, of all these, is detestable in the sight of your Lord - 38).
@@ -93,3 +81,5 @@ A gist of Torah in fifteen verses
 Sayyidna ` Abdullah ibn ` Abbas ؓ said that the commandments of the entire Torah have been reduced to fifteen verses of Surah Bani Isra'il. (Mazhari)
 
 ## Personal Reflections
+
+

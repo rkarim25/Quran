@@ -29,18 +29,6 @@ word_by_word:
     transliteration: l-ṣāliḥīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Isma'il, Idris and Dhul-Kifl: All were from among the patient (85)And We admitted them to Our mercy. Whether Sayyidna Dhul-Kifl was a prophet or a saint and his strange story Three persons are mentioned in the above two verses.
@@ -76,3 +64,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ has reported that he had heard a hadith (حَ�
 The sum and substance of this story is that Dhul-Kifl was the deputy of Prophet Yasa' (علیہ السلام) and it is possible that because of his virtuous deeds his name has been mentioned along with prophets. It is also possible that initially he was the deputy of Sayyidna Yasa` (علیہ السلام) and later on he was elevated to the status of a prophet by Allah Ta` ala.
 
 ## Personal Reflections
+
+

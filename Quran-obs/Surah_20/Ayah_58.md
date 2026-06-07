@@ -62,18 +62,6 @@ word_by_word:
     transliteration: suwan
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He (Fir'awn) said: "Have you come to drive us out of our land with your magic, O Musa? By words مَكَانًا سُوًى(at an even place) in verse 58 the Pharaoh proposed that the contest between Sayyidna Musa (علیہ السلام) and his own magicians should be held at a place which should, as far as possible, be within easy access of the Egyptians, Sayyidna Musa (علیہ السلام) and the Bani Isra'il.
@@ -109,3 +97,5 @@ Abdur-Rahman bin Zayd bin Aslam said, "It was a flat place where all of the peop
 By words مَكَانًا سُوًى(at an even place) in verse 58 the Pharaoh proposed that the contest between Sayyidna Musa (علیہ السلام) and his own magicians should be held at a place which should, as far as possible, be within easy access of the Egyptians, Sayyidna Musa (علیہ السلام) and the Bani Isra'il. The latter readily accepted this proposal and fixed the day and the time for the contest by suggesting۔
 
 ## Personal Reflections
+
+

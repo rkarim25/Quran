@@ -65,15 +65,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Men whom neither trade nor business diverts from the remembrance of Allah nor from performing the Salah nor from giving the Zakah). meaning, they give priority to obeying Allah and doing what He wants and what pleases Him over doing what they want and what pleases them. It was reported from Salim from 'Abdullah bin 'Umar that he was in the marketplace when the Iqamah for prayer was called, so they closed their stores and entered the Masjid. Ibn 'Umar said: "Concerning them the Ayah was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -346,3 +338,5 @@ Where His name is recounted - 36.
 Here, the expression is 'recounting the name of Allah' encompasses all types of His remembrance, which include extra prayers, recitation of Qur’ an, learning of Islamic teachings, sermons, lectures on Shari'ah, etc.
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: fariḥūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, set you your face towards the religion as a Hanif. مِنَ الَّذِينَ فَرَّ‌قُوا دِينَهُمْ وَكَانُوا شِيَعًا (Among those who split up religion and became sects - 30:32) that is, these disbelievers are those who have created a difference between Natural Faith and the true religion, or they have alienated themselves from the Natural Faith, as a result of which they are divided into different sects.
@@ -163,3 +151,5 @@ These are like the Jews, Christians, Zoroastrians, idol worshippers and all the 
 مِنَ الَّذِينَ فَرَّ‌قُوا دِينَهُمْ وَكَانُوا شِيَعًا (Among those who split up religion and became sects - 30:32) that is, these disbelievers are those who have created a difference between Natural Faith and the true religion, or they have alienated themselves from the Natural Faith, as a result of which they are divided into different sects. شِيَعًا :Shiya'an is the plural of شِیعۃ shi` ah. A group of people following a leader is called shi ah. The fact is that the Natural Faith was based on the Oneness of Allah, by following which the entire human kind should have been one solid unit and one party. But it so happened that people split out from this unity and started following the personal views of their own leaders. Since the personal views and opinions of different people may always vary from person to person, different groups of people invented their own beliefs and religion. As a consequence, people were divided into various groups and sects, and the Shaitan made them believe that they were the only people on the right path كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِ‌حُونَ (Each group is happy with what it has before it - 30:32). That is, each group is happy and contended in its own beliefs and declare others being wrong, although they all are astray and treading the wrong path.
 
 ## Personal Reflections
+
+

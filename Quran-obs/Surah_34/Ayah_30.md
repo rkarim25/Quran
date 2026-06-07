@@ -46,18 +46,6 @@ word_by_word:
     transliteration: tastaqdimūna
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We have not sent you except as a giver of glad tidings and a warner to all mankind, and most of men know not (28)And they say: "When is this promise if you are truthful? That Allah is One and that His power is absolute was the subject in previous verses.
@@ -147,3 +135,5 @@ The mission of a messenger or prophet assigned to all prophets sent before the H
 According to a narration of Sayyidna Jabir ؓ appearing in the Sahihs of al-Bukhari and Muslim and elsewhere, the Holy Prophet ﷺ has been reported to have said: 'I have been given five things that have not been given to anyone else before me: (1) That Allah Ta’ ala helped me by placing in my person such an awe as it is felt by the people from the distance of a month of travel. (2) That the whole earth has been declared to be a masjid and a purifier for me (in the religious codes of past prophets, their worship used to be performed only in particular places set up as houses of worship. Worship was not allowed outside their appointed prayer places, either in the open or inside homes. For the Muslim community, Allah Ta’ ala made the whole earth a masjid in the sense that Salah can be made everywhere - and in the absence of water not being available or its use being harmful, the dust of the earth was made tahur or purifier so that it could be used to make tayammum which becomes a valid alternate of wudu). (3) That property from the spoils has been made halal for me. Before me, it was not halal for any other community (among whom the rule was to assemble the war spoils collected from the disbelieving adversary and deposit it at an appointed place in the belief that some fire or lightening would descend from the heavens and burn it, and this act of burning would itself be the sign of the acceptance of their religious war. For the Muslim community, distributing the spoils in accordance with the rule enunciated by the Qur'an and spending it as needed was made permissible). (4) That I was given the station of the Great Intercession اِلشَّفَاعَت اَلکُبرَیٰ : ash-Shafa'ah al-Kubra) (that is, when no prophet would dare intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (5) That before me, every prophet was sent to his particular people - I have been sent as a prophet to all peoples of the world. (Ibn Kathir)
 
 ## Personal Reflections
+
+

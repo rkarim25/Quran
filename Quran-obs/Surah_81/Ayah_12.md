@@ -16,18 +16,6 @@ word_by_word:
     transliteration: suʿʿirat
 ---
 
-## Context
-
-To understand **The Overthrowing** (At-Takwir) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا السَّمَاءُ كُشِطَتْ (and when the sky will be stripped off...81:11) The word kushitat is derived from kasht, and it literally means 'to strip off the skin of an animal.
@@ -265,3 +253,5 @@ Concerning Allah's statement,
 وَإِذَا السَّمَاءُ كُشِطَتْ (and when the sky will be stripped off...81:11) The word kushitat is derived from kasht, and it literally means 'to strip off the skin of an animal. Probably, this condition will prevail at the first blowing of the Horn, which will happen in this world. The stars, the Sun and the Moon that contributed to the beauty of the sky will all lose their light and lustre and will be thrown into the ocean. The outlook of the sky will be changed. This phenomenon is termed in this verse as: 'The sky will be stripped off. Some commentators interpret the word kasht in the sense of 'folding up'. The verse, according to them, purports to say that the sky that surrounds the upper atmosphere over our heads will be folded up.
 
 ## Personal Reflections
+
+

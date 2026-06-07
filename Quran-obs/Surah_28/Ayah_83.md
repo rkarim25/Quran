@@ -65,15 +65,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (It has been revealed to me that you should be humble to the extent that none of you boasts to others or mistreats others.) But if a person simply likes to look good, then there is nothing wrong with that. It was recorded that a man said: "O Messenger of Allah, I like to have my garment looking good and my shoes looking good – is this a kind of arrogance?" The Prophet ﷺ said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ It is clarified in this verse that the intention for mischief and pride will deb
 The last verse وَالْعَاقِبَةُ لِلْمُتَّقِينَ (And the (best) end is for the God-fearing - 28:83) elaborates that it is not enough to abstain from mischief and pride to get the share of the Hereafter, but following the righteous path is as much a requirement. To follow all the religious obligations is also essential for the salvation in the Hereafter.
 
 ## Personal Reflections
+
+

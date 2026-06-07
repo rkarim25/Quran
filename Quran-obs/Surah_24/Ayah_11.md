@@ -124,15 +124,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The next ten Ayat were all revealed concerning 'A'ishah, the mother of the believers, may Allah be pleased with her, when the people of slander and falsehood among the hypocrites made their accusations against her and spread lies about her. Allah became jealous on her behalf and on behalf of His Prophet ﷺ, and revealed her innocence to protect the honor of the Messenger of Allah ﷺ. He said:
 
-Then I turned my face away and lay down on my bed. By Allah, at that point I knew I was innocent and that Allah would prove my innocence because I was innocent, but by Allah, I did not think that Allah would reveal Qur'an that would be forever recited concerning my situation, because I thought of myself as too insignificant for Allah to reveal anything concerning me. But I hoped that the Messenger of Allah ﷺ would see a dream in which Allah would prove my innocence.
+Then I turned my face away and lay down on my bed. By Allah, at that point I knew I was innocent and that Allah would prove my innocence because I was innocent, but by Allah, I did not think that Allah would reveal Qur'an that would be forever recited concerning my situation, because I thought of myself as too insignificant for Allah to reveal anything concerning me. But I hoped that the Messenger of Allah ﷺ would see a dream in which Allah would prove my innocence. By Allah, the Messenger of Allah ﷺ did not move from where he was sitting and no one left the house before Allah sent down revelation to His Prophet ﷺ, and he was overtaken by the state that always overtook him when the revelation came upon him, until drops of sweat like pearls would run down him, even on a winter's day; this was because of the heaviness of the words which were being revealed to him. When that state passed – and the Messenger of Allah ﷺ was smiling – the first thing he said was,
 
 ## Tafsir Summary
 
@@ -327,3 +321,5 @@ And the one who undertook the major part of it, for him there is a mighty punish
 The word means big, large or great. Here it means that the one who has taken big part in the slander, that is who fabricated it and passed on to others, for him is the great punishment. The indication is toward ` Abdullah Ibn 'Ubayy (Baghawi etc.).
 
 ## Personal Reflections
+
+

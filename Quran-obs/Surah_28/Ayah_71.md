@@ -84,18 +84,6 @@ word_by_word:
     transliteration: tasmaʿūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Tell me! Say, "Tell me, if Allah makes night continuing upon you forever upto the Day of Judgment, which god, other than Allah, would bring to you light?
@@ -153,3 +141,5 @@ Say, "Tell me, if Allah makes night continuing upon you forever upto the Day of 
 Allah Ta’ ala has mentioned a benefit of the night in this verse, that it provides rest بِلَيْلٍ تَسْكُنُونَ فِيهِ (28:72). As against this no mention is made about the benefits of day while referring to its light. The reason for this omission is but obvious. It is a well-known fact that the daylight is superior in its entity to darkness. The benefits of daylight are so numerous and well known that their repetition was not prudent. On the contrary the darkness of the night does not have any other benefit except that it provides rest to everything. As a matter of fact, its utility is based on the rest of people, hence that has been mentioned. It is to be noted that after describing daylight it is concluded with أَفَلَا تَسْمَعُونَ (Do you not listen? - 28:71), and after describing the night the concluding expression is أَفَلَا تُبْصِرُ‌ونَ (Do you not see? - 28:72). It may have the allusion that the benefits of the day are so numerous that they cannot be seen, but can only be heard; hence the expression أَفَلَا تَسْمَعُونَ is used. The knowledge and understanding humans have acquired has mainly come through hearing and listening, and very little by way of seeing. The benefits of night are much less as compared to benefits of the day, and they can be seen; hence the expression أَفَلَا تُبْصِرُ‌ونَ (Mazhari)
 
 ## Personal Reflections
+
+

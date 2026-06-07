@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And We did not send any Messenger before you but We revealed to him (saying): There is no God but I, so worship Me.)[21:25] It is similar to Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -234,3 +226,5 @@ Of the glad tidings given to those who repent and seek forgiveness, the second a
 A promise was made of Good Life, both in Dunya and Akhirah, in the first sentence, and of everlasting blessings of Paradise, in the second. After that, it was said: وَإِن تَوَلَّوْا فَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ‌ (And if you turn away, then, I fear for you the punishment of a great day). That is: ` If you turn away from the good counsel given to you, fail to seek forgiveness for your past sins, and fail to remain safe against sins in the future, then, there is a strong likelihood that you will be seized by the punishment of a great day'. It refers to the day of Qiyamah for it would be a day of one thousand years and, also in terms of what ominous things would transpire in it, it will be the gravest.
 
 ## Personal Reflections
+
+

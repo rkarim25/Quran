@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **Ya Sin** (Ya-Sin) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Whether these Ayat were revealed about Ubayy bin Khalaf or Al-'As bin Wa'il, or both of them, they apply to all those who deny the resurrection after death. The definite article "Al" in
 
 The last five verses of Surah Ya Sin were revealed in the background of a particular event. This event has been attributed to Ubayy Ibn Khalaf in some narrations, and to 'As ibn Wa'il in some others. And there is no improbability in that such an event came to pass with both of them. The first narration was reported by al-Baihaqi in Shu` abul-'Iman, and the other reported by Ibn Abi Haatim from Sayyidna Ibn ` Abbas ؓ says that 'As Ibn Wa'il picked up a bone from the sandy and pebble-strewn valley of Makkah and after breaking it with his hands rubbed it into a handful of bone meal and then said to the Holy Prophet ﷺ ، "Will Allah revive this bone you are seeing in my hands?" The Holy Prophet ﷺ said, "Yes, Allah Ta’ ala will put you to death, then bring you back to life and then He will put you in Hell." (Ibn Kathir)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ The last five verses of Surah Ya Sin were revealed in the background of a partic
 The expression: خَصِيمٌ مُّبِينٌ (an open adversary) in verse 77 means that this man was created from a lowly drop, yet he has the audacity to challenge Allah, and refuse to accept His power.
 
 ## Personal Reflections
+
+

@@ -14,17 +14,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Emissaries** (Al-Mursalat) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
 
 "While we were with Allah's Messenger in a cave at Mina, the Surah 'wal-Mursalat' was revealed to him. He was reciting it, and I was learning it from his mouth. Verily, his mouth was moist with it, when a snake leaped out at us. The Holy Prophet said, 'Kill it!' So we quickly went after it, but it got away. Then the Holy Prophet said, 'It was saved from your harm, just as you all were saved from its harm'." [ Ibn Kathir ].
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -197,3 +189,5 @@ If verses [ 4] and [ 5] are applied to the winds, then the imagination will have
 In this interpretation, the question arises as to the contextual relationship between swearing oaths by various types of winds and the angels. First of all, it is not possible to fathom the Wisdom of Divine speech. However, it is possible to hypothesise. Allah swears oaths by useful winds and harmful winds. Winds that bring rain and clouds are useful, while those that blow fiercely and cause destruction are harmful. These belong to the perceptible world. All human beings can observe them. The perceptible things are mentioned first for reflection. The imperceptible world is mentioned later, such as the angels and revelation. If man reflects carefully on them, he will develop certainty of belief in them as well.
 
 ## Personal Reflections
+
+

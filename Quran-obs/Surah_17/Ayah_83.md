@@ -54,18 +54,6 @@ word_by_word:
     transliteration: yaūsan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when We bestow Our grace on man, he turns away and becomes arrogant. We can now move to the last verse (82) cited above: وَنُنَزِّلُ مِنَ الْقُرْ‌آنِ مَا هُوَ شِفَاءٌ (And We reveal the Qur'an which is a cure).
@@ -115,3 +103,5 @@ Similarly, there are several other Hadith reports which prove that the Holy Prop
 The last sentence of the verse: (And it adds nothing to the unjust but loss - 82) tells us that the Holy Qur'an - when recited with faith and reverence - is certainly a cure. It is open. It is proven. Conversely, any denial of the Qur’ an, or irreverence to it, could also become a source of loss and misfortunes.
 
 ## Personal Reflections
+
+

@@ -38,18 +38,6 @@ word_by_word:
     transliteration: tur'ḥamūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 204, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So, when the Qur'an is recited, listen to it, and be silent that you may receive mercy (204) The Order to listen to the Qur'an In the second verse (204), we have been told that the Holy Qur'an has come as mercy for the believers.
@@ -115,3 +103,5 @@ This exposes the error of people who turn their radios to full volume at the tim
 Yes, if one supplicates voicelessly after the recitation of such verses during his na f Z prayers, it is an act proved by Sunnah, and is worthy of reward as well. (Mazhari)
 
 ## Personal Reflections
+
+

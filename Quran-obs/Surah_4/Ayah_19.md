@@ -150,15 +150,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife. If one of them wants, he would marry her, give her in marriage, or prevent her from marriage, for they had more right to her than her own family. Thereafter, this Ayah was revealed about this practice,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -361,3 +353,5 @@ The text, after that, by saying: إِلَّا أَن يَأْتِينَ بِفَ
 According to Sayyidna Ibn ` Abbas ؓ ، Sayyidah A’ shah ؓ and Hadrat Dahhak (رح) and others, the word, فاحشا "fahisha" (translated as 'a shameful act' ) here means disobedience to the husband and indecent abuses against him; while, Abu Qilabah and Hasan al-Bari رحمۃ اللہ علیہما take it to mean immodesty and adultery in this particular place. Thus, the sense would come to be: If these women happen to commit some shameful act or they behave disobediently and vituperatively which forces the husband to think of a divorce, then, this being a fault of the woman, the husband has the right to hold her in the bond of marriage, until he receives back what he had given her, or has the outstanding dower forgiven by her.
 
 ## Personal Reflections
+
+

@@ -67,18 +67,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, in Yusuf and his brethren there were Ayat for those who ask (7)When they said: "Truly, Yusuf and his brother are dearer to our father than we, while we are 'Usbah (a group). From the second verse (8), begins the story of Sayyidna Yusuf (علیہ السلام) which tells that the brothers of Sayyidna Yusuf (علیہ السلام) saw that their father, Sayyidna Ya` qub (علیہ السلام) loved Sayyidna Yusuf (علیہ السلام) unusually more than them who were older than him.
@@ -138,3 +126,5 @@ In this verse, these brothers have referred to themselves as: عُصبَۃً (` 
 And about the brothers of Sayyidna Yusuf (علیہ السلام) ، it has been mentioned in the Qur'an itself that they, later on, admitted their crime and requested their father to pray for their forgiveness which he accepted to do. This makes it obvious that their mistake was forgiven. Now, this can become possible only when all of them are believers - otherwise, the prayer for the forgiveness of a disbeliever is not permissible. This is the reason why there is no difference of opinion about their being believers, although ` Ulama' do differ about these brothers being prophets. This tells us that the word: ضَلَال (dalal: error) has been uttered at this place in the sense that he does not treat brothers equally in the matter of their rights.
 
 ## Personal Reflections
+
+

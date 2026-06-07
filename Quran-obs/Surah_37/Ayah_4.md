@@ -16,18 +16,6 @@ word_by_word:
     transliteration: lawāḥidun
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat As-Saffat An-Nasa'i recorded that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. The reason why angels have been sworn by in the Surah particularly - as already submitted - lies in the central theme of this Surah.
@@ -143,3 +131,5 @@ Explanation of verses
 Turning to the explanation of the verses cited above, we see that the statement: مَعبُود بَرحَق (Verily, your God is but One - 4) has been placed at the end of the first three verses in which oaths by angels are sworn. Though, during the course of these oaths, mentioned therein are particular attributes of angels that, if deliberated upon even in a modest measure, would turn out to be nothing short of initial proofs of the belief in Tauhid, the Oneness of Allah. But, in the six verses that follow next, a standing proof of Tauhid has also been supplied.
 
 ## Personal Reflections
+
+

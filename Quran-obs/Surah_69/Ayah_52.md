@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Reality** (Al-Haqqah) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ 'So, pronounce the purity of the name of your magnificent Lord. [ 69:52] '. It was shown in the preceding verses that Allah's Messenger ﷺ never speak from his own whims and fancies. He only conveys pure revelation revealed to him by Allah. The Divine Word is a reminder and an admonition for the God-conscious people. Allah knows that despite knowing the absolutely incontestable truth many people will continue to reject it. Consequently, it will be a source of eternal remorse, disappointment and punishment in the Hereafter for the disbelievers. In the end, Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -109,3 +101,5 @@ Finally, Allah addresses the Prophet ﷺ ; to say:
 Abu Dawud records a narration from Sayyidna 'Uqbah bin Amir Juhani ؓ that when the verse, فَسَبِّحْ بِاسْمِ رَ‌بِّكَ الْعَظِيمِ 'So, pronounce the purity of the name of your magnificent Lord. [ 521' was revealed, the Prophet ﷺ instructed this tasbih to be reserved for the posture of ruku` and when the verse سَبِّحِ اسْمَ رَ‌بِّكَ الْأَعْلَى 'Pronounce the purity of the name of your most Exalted Lord. [ 87:1] ' was revealed, he instructed this tasbih to be reserved for the posture of sajdah. Therefore, by common consent of the Ummah these tasbihat are recited in ruku` and sajdah respectively. According to overwhelming majority, it is Sunnah to recite them and repeat them thrice. Some scholars say it is obligatory.
 
 ## Personal Reflections
+
+

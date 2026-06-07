@@ -38,18 +38,6 @@ word_by_word:
     transliteration: washuhuban
 ---
 
-## Context
-
-To understand **The Jinn** (Al-Jinn) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-8-10 of this surah shows that this could only be an event of the earliest stage of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 'And we have sought to reach the heaven; but we found it filled with stern guards and flaming fires. وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَ‌سًا شَدِيدًا وَشُهُبًا (...and that we sought [ to reach ] the sky, but we found it filled with stern guards and flames....72:8).
@@ -119,3 +107,5 @@ Meteors Existed Since the Inception of Time, but were not Used to Repel the Devi
 A doubt that may arise here is that the existence of Meteors, which in common parlance are called inqidad-ul-kaukab the 'falling stars', is not a new phenomenon. This verse, however, indicates that they showed up to repel the devils as if they are new-age phenomena of the Holy Prophet ﷺ . In response, it may be stated that there is no denying that the meteors did exist since the inception of time and space before the advent of the Holy Prophet ﷺ ، and that there is no contradiction between what humanity experienced since the beginning of the world, scientific explanations and the Qur'anic statement. Philosophers and scientists explain that the meteors may originate from the earth or stars or disintegrating planets, and wander in space at enormous speeds and fall to the earth. Some fiery matter may arise from the surface of the earth and heat up at some point, or the speed of the meteors makes them glow and burn, or a flame emits from a star - and this may have habitually continued ever since. These flames, however, were not used to serve a particular purpose before the advent of the Holy Prophet ﷺ ; they were merely a natural phenomena. After the advent of the Holy Prophet ﷺ ، meteoric flames were used to serve the purpose of shooting the devils if they attempted to go up and listen furtively the conversation of the angels. See also Ma` ariful Qur’ an, Vol. 5/pp 303-305, under [ 15:17-18].
 
 ## Personal Reflections
+
+

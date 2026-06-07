@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In both these incidents it is reported that the verses of lian were revealed for that particular incident. Hafiz Ibn Hajar and Shaikh ul Islam Nawawi (رح) have noted the alikeness in the two by explaining that it looks the first incident was that of Hilal Ibn Umayyah ؓ ، and the verses of li'an were revealed in that connection, and immediately after that Uwaimir ؓ was also confronted with a similar incident, which he presented before the Holy Prophet ﷺ ، perhaps not knowing Hilal Ibn Umayyah's incident, which had occurred earlier. Then the Holy Prophet ﷺ told him the judgment in his case. This appears plausible because, in the case of Hilal Ibn Umayyah ؓ the wordings are فنزل جبریٔل (Then Jibra'il (علیہ السلام) descended with these verses) , while in the case of ` Uwaimir ؓ the wordings are قد انزل اللہ فیک (Allah has revealed about you), the meaning of which could be that Allah Ta’ ala has enjoined His command in a case similar to yours. وَاللہُ سبحانَہُ و تعالیٰ اَعلَ (Mazhari)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -247,3 +239,5 @@ Ruling
 Although the torment of Hereafter would increase on the one who is liar, after the li'an, but the punishment of the world be annulled. Similarly, it is not permissible to call the woman an adulterer nor is it permissible to call her child illegitimate. This was also ruled by the Holy Prophet ﷺ in the case of Hilal Ibn Umayyah ؓ . وقضٰی بان لا تُرمٰی ولا ولدھا .
 
 ## Personal Reflections
+
+

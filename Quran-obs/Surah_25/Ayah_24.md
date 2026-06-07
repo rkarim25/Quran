@@ -34,18 +34,6 @@ word_by_word:
     transliteration: maqīlan
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day. خَيْرٌ‌ مُّسْتَقَرًّ‌ا وَأَحْسَنُ مَقِيلًا (The best in (terms of their) abode and best in (terms of their) resting-place - 25:24).
@@ -193,3 +181,5 @@ Commentary
 خَيْرٌ‌ مُّسْتَقَرًّ‌ا وَأَحْسَنُ مَقِيلًا (The best in (terms of their) abode and best in (terms of their) resting-place - 25:24). Permanent residence is called مُّسْتَقَرًّ while مَقِيلً is derived from قَیلُولہ which means siesta. Hence مَقِيلً means the place for having siesta. Probably مَقِيلً is specifically mentioned here because it is referred in one of the traditions that on the Dooms day Allah Ta’ ala will complete reckoning of the entire creation by noon and the people of paradise will reach Paradise at the time of siesta and so will the condemned in the Hell. (Qurtubi)
 
 ## Personal Reflections
+
+

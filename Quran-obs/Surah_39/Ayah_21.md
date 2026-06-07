@@ -134,18 +134,6 @@ word_by_word:
     transliteration: l-albābi
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 See you not that Allah sends down water from the sky, and causes it to penetrate the earth, as water springs, and afterward thereby produces crops of different colors, and afterward they wither and you see them turn yellow; then He makes them dry and broken pieces. The word: يَنَابِيعَ (yanabi in verse 21: فَسَلَكَهُ يَنَابِيعَ فِي الْأَرْ‌ضِ (made it penetrate into the earth [ and gush forth ] in the form of springs) is the plural form of: یَنبُوع (yanbu) which means springs that gush out from the soil.
@@ -217,3 +205,5 @@ Later in verse 21, it was said: مُّخْتَلِفًا أَلْوَانُهُ 
 In the last sentence of verse 21, it was said: إِنَّ فِي ذَٰلِكَ لَذِكْرَ‌ىٰ لِأُولِي الْأَلْبَابِ (Surely, in that, there is a lesson for the people of understanding), that is, in this process - when water is sent down, is conserved, is made available to human beings to grow all sorts of crops and trees the colors of which change following which they turn yellow and dry making grains separate from chaff - there is a great lesson for people of understanding, because they provide the proof of the infinite power and wisdom of Allah Ta’ ala. These are visible signs that could lead human beings to discover the reality behind their own creation, and that in turn, could become the means through which one succeeds in recognizing his or her own creator and master.
 
 ## Personal Reflections
+
+

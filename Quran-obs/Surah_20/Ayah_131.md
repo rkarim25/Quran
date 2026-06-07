@@ -80,18 +80,6 @@ word_by_word:
     transliteration: wa-abqā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 131, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And strain not your eyes in longing for the things We have given for enjoyment to various groups of them, the splendor of the life of this world, that We may test them thereby. Worldly wealth is a fleeting thing and is not an evidence of God's favour, and for good Muslims it is a danger signal وَلَا تَمُدَّنَّ عَيْنَيْكَ (And never stretch your eyes - 20:13) The words are addressed to the Holy Prophet and are intended to provide guidance to his followers.
@@ -213,3 +201,5 @@ What I fear most about you is wealth and worldly splendor which will be arrayed 
 In this Hadith the Holy Prophet ﷺ has foretold the Muslims about their conquests and the acquisition of vast territories which will bring them untold wealth and means of luxury. But there is no cause to feel satisfaction at these prospects; on the other hand there is every reason to fear such an eventuality because an excess of indulgence in luxuries may make people forget their duty to Allah.
 
 ## Personal Reflections
+
+

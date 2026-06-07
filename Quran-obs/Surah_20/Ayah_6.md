@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **Ta-Ha** (Taha) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it. Thus, the idolators of the Quraysh said, 'This Qur'an was only revealed to Muhammad to cause him distress.' Therefore, Allah revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -159,3 +151,5 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 وَمَا تَحْتَ الثَّرَ‌ىٰ (And whatever is beneath the soil - 20:6). (ثرٰی) (soil) means wet earth which comes out after digging upto a certain depth. Human knowledge does not go beyond) and what is beneath it is known only to Allah. Some years back scientists and researchers, using the latest and the most sophisticated instruments, spent considerable time and effort to pierce across the centre of the earth. According to newspaper reports they were able to penetrate upto a depth of six miles only after which they came across a rock casing and all their efforts to bore further down failed. Scientists were able to collect data only upto six miles, while the diameter of the earth covers thousands of miles. One has to admit, therefore, that the knowledge of what is below the soil is a special attribute of Allah.
 
 ## Personal Reflections
+
+

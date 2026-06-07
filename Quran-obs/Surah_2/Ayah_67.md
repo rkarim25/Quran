@@ -88,18 +88,6 @@ word_by_word:
     transliteration: l-jāhilīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 67, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Al-Baqarah (The Cow) has been so named from the story of the Cow occurring in this Surah ( 67-73 ).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when Musa said to his people: "Verily, Allah commands you that you slaughter a cow." They said, "Do you make fun of us?" He said, "I take Allah's refuge from being among Al-Jahilin (the ignorant or the foolish). According to Mirqat, a commentary on Mishkat, a man among the Israelites wanted to marry a girl, but her father refused.
@@ -125,3 +113,5 @@ Ibn Abi Hatim recorded 'Ubaydah As-Salmani saying, "There was a man from among t
 According to Mirqat, a commentary on Mishkat, a man among the Israelites wanted to marry a girl, but her father refused. The suitor was so incensed that he killed the father, and disappeared. It is mentioned in Ma` alim al-tanzil which says on the authority of Kalbi that Allah had not yet sent down any injunction with regard to man-slaughter. If it was so, this shows that the incident happened before the Torah was revealed. Anyhow, the Israelites requested Sayyidna Musa (علیہ السلام) to tell them how to trace the culprit. Under the commandment of Allah, he asked them to sacrifice a cow. As was their regular habit, they started raising all kinds of doubts and objections, of which the next verses give us the details.
 
 ## Personal Reflections
+
+

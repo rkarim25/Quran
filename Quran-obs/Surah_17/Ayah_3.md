@@ -43,15 +43,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 ("... other than Me as (your) Wakil") means, 'you have no protector, supporter or god besides Me,' because Allah revealed to every Prophet that he should worship Him alone with no partner or associate. Then Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -226,3 +218,5 @@ The blessings it has are both religious and worldly. As for religious blessings,
 Sayyidna Mu` adh ibn Jabal reports that the Holy Prophet ﷺ said: Allah Ta’ ala says: 0 land of Syria, thou art My region chosen from many and I shall make My chosen servants reach thee. (Qurtubi) And it appears in a Hadith of the Musnad of Ahmad that the Imposter will traverse the whole Earth but he will not be granted access to four Mosques: (1) Masjid of Madinah, (2) Masjid of Makkah al-Mukarramah, (3) Al-Masjid al-Aqsa and (4) Masjid Tur.
 
 ## Personal Reflections
+
+

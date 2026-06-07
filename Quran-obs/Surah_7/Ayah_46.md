@@ -81,18 +81,6 @@ word_by_word:
     transliteration: yaṭmaʿūna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-46-47 in which mention of A'araf occurs.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And between them will be a (barrier) screen and on Al-A'raf will be men, who would recognize all, by their marks. When the people of Paradise will reach Paradise, where they belong, and the people of Hell, will reach Hell, where they belong, it is evident that the two places will be far apart from each other in all respects.
@@ -188,3 +176,5 @@ Salam Greetings : Blessed Legacy of the Holy Prophet ﷺ
 After having gone through the description and definition of the people of A` raf, we can now take up the subject of the verse itself which says that the people of A` raf will call out the people of Paradise and say: " سَلَامُ علیکم '' (Salamun Alaiykum). This word of greeting is also used in our present world when we meet each other. This is offered as a gift, a mark of respect and grace felt for the person so greeted. This is Masnun, a way of Sunnah as practiced and recommended to his community by the Holy Prophet ﷺ . This is also said to the dead while visiting their graves. Then, it will also be the form of greeting on the plain of Resurrection, and in Paradise as well. But, a closer look at the verses of the Qur'an and the narrations of Hadith tells us that saying: اَلسلامُ عَلَیکُم (As-Salamu ` Alaiykum) is Masnun as long as we live in this world. Then, after having passed away from this mortal world, what is Masnun is saying: " سَلَامٌ عَلَيْكُمْ " (Salamun ` Alaiykum) - without the letters Alif and Lam at the beginning of Sal-am. The words to be said at the time of visiting graves as mentioned in the Qur'an also appear in this form, that is: سَلَامٌ عَلَيْكُم بِمَا صَبَرْ‌تُمْ ۚ فَنِعْمَ عُقْبَى الدَّارِ‌ ﴿24﴾: Peace on you [ Salamun Alaiykum ] for that you observed patience. Then, fair is the ultimate abode - 13:24). And when the angels will receive the people of Paradise, this word appears in the same form there too: سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ (Salamun Alaiykum [ Peace on you ], you have done well. So, enter in it to live forever - 39:73). And here too, the people of A` raf will greet the people of Paradise with the same words: سَلَامٌ عَلَيْكُم (Salamun Alaiykum).
 
 ## Personal Reflections
+
+

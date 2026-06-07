@@ -80,18 +80,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O People of the Scripture! Refuted here in this verse is only one saying of the Christians - which is the belief of a sect among them - that Sayyidna Masih (علیہ السلام) is God.
@@ -139,3 +127,5 @@ This one sentence answers the reasoning by saying that Allah has the most perfec
 The reason lies in pondering that Allah Ta` ala did create Sayyidna Adam (علیہ السلام) without a father and mother both. He has the power, all power, over everything. He is the Creator and the Master and the most worthy of worship. No one else can be associated with His Divinity as a partner or sharer.
 
 ## Personal Reflections
+
+

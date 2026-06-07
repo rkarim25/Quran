@@ -71,18 +71,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **Hud** (Hud) 6, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And no moving creature is there on earth but its provision is due from Allah. Mentioned in the previous verse was the all-encompassing knowledge of Allah Ta` ala from whom nothing is hidden, nothing from the tiniest particle of the universe down to the secrets of the hearts.
@@ -152,3 +140,5 @@ As narrated by Sayyidna ` Abdullah ibn ` Umar ؓ and reported in the Sahih of Mu
 A lengthy Hadith narrated by Sayyidna ` Abdullah ibn Masud ؓ appearing in al-Bukhari and Muslim, reports the saying of the Holy Prophet ﷺ which is summarized as follows: ` Man goes through different stages before his birth. When the parts of his body are formed completely, Allah Ta` ala commands an angel who writes down four things about him. One: Deeds he will do. Two: Years of life. Even recorded there is the month, day, minute and breath count. Three: Death: Where would he die and where would he be buried? Four: Rizq: How much is his sustenance and how and where does it have to reach him?' (And that it stands written in the Preserved Tablet (al-lawh al-mahfuz) even before the creation of the heavens and the earth is not contrary to this).
 
 ## Personal Reflections
+
+

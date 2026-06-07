@@ -54,18 +54,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day that the enemies of Allah will be gathered to the Fire, then they will be driven (19)Till, when they reach it, their hearing (ears) and their eyes and their skins will testify against them as to what they used to do (20)And they will say to their skins, "Why do you testify against us?" They will say: "Allah has caused us to speak - as He causes all things to speak, and He created you the first time, and to Him you are made to return. فَهُمْ يُوزَعُونَ (So they will be kept under control…...41:19) The original word used in the text is ` Yuza’ un' which is derived from waz' which means ` to stop', ` to prevent'.
@@ -149,3 +137,5 @@ Imam Ahmad recorded that 'Abdullah, may Allah be pleased with him, said, "I was 
 فَهُمْ يُوزَعُونَ (So they will be kept under control…...41:19) The original word used in the text is ` Yuza’ un' which is derived from waz' which means ` to stop', ` to prevent'. Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up with them. This will be done to avoid indiscipline. (It is this interpretation of the verse on the basis of which it is translated as ` kept under control' ) And some exegetes have translated ` Yuza’ un' as ` pushed' which means that they would be driven towards the place of reckoning by being pushed. (Qurtubi)
 
 ## Personal Reflections
+
+

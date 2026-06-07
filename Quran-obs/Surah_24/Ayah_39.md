@@ -97,18 +97,6 @@ word_by_word:
     transliteration: l-ḥisābi
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 As for those who disbelieved, their deeds are like a mirage in a Qi'ah. Toward the end of the verse their reward is described that they shall be graced with the best reward for their actions by Allah Ta’ ala, and then the verse says: وَيَزِيدَهُم مِّن فَضْلِهِ (and will give them more out of His grace - 38).
@@ -168,3 +156,5 @@ The example of the deeds of the first category is that of a mirage, which is not
 The second category of deeds is that of atheists or infidels, for which the example of a deep ocean is given, which is completely dark. In the first place it is dark because of its depth, then it is covered by a big wave which is also enshrouded by another wave, and over that there is a mass of dark cloud. In short there is darkness over darkness, so much so that if someone takes out his hand, he cannot have even a glimpse of it. The inference to be drawn from this example is that those infidels who deny the coming of the Dooms Day, the Reckoning and the Hereafter are devoid of even the illusive Nur, which the first category of disbelievers had. Although they too did not possess the useful Nur of guidance, but at least they were under the illusion that they had done some good deeds which will help them in the Hereafter, but the latter category did not deem it necessary to work for the Hereafter, since they had no belief in it. Hence, they will have nothing but darkness and complete darkness with them on the Dooms Day.
 
 ## Personal Reflections
+
+

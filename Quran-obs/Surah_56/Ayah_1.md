@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-wāqiʿatu
 ---
 
-## Context
-
-To understand **The Inevitable** (Al-Waqi'ah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to the chronological order that Hadrat Abdullah bin Abbas has given of the Surahs, first Surah Ta Ha was sent down, then Al-Waqi'ah and then Ash-Shu\`ara'(Suyuti: Al-Itqan ). The same sequence has been reported from Ikrimah (Baihaqi: Dala'il an Nubuwwat ). This is supported also by the story that Ibn Hisham has related from Ibn Ishaq about the affirmation of the Faith by Hadrat Umar (may Allah be pleased with him). It says that when Hadarat Umar entered his sister's house, Surah Ta Ha was being recited. Hearing his voice the people of the house hid the pages of the Qur'an.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat Al-Waqi'ah Abu Ishaq reported from 'Ikrimah from Ibn 'Abbas that Abu Bakr said, "O Allah's Messenger! Special Characteristic of Surah Al-Waqi` ah: Sayyidna ` Abdullh Ibn Masuad's ؓ Didactic Story on his Deathbed Ibn Kathir cites a story on the authority of Ibn ` Asakir from Abu Zabyah that when Sayyidna ` Abdullah Ibn Masud ؓ was lying on his deathbed, Sayyidna ` Uthman ؓ paid him a visit and the following conversation ensued.
@@ -195,3 +183,5 @@ Horrors of the Day of Resurrection
 إِذَا وَقَعَتِ الْوَاقِعَةُ (When the Imminent Event (of Doom) will occur...56:1). Ibn Kathir says Al-waqi` ah is one of the names of the Day of Resurrection, because there is no room for doubt in its occurrence. It is real and will surely come to pass.
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-thiqāla
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is He Who shows you the lightning, as a fear and as a hope. After that, it was said in verse 12: هُوَ الَّذِي يُرِ‌يكُمُ الْبَرْ‌قَ خَوْفًا وَطَمَعًا وَيُنشِئُ السَّحَابَ الثِّقَالَ.
@@ -153,3 +141,5 @@ When 'Amir and Arbad left, 'Amir said, "O Arbad! I will keep Muhammad busy while
 After that, it was said in verse 12: هُوَ الَّذِي يُرِ‌يكُمُ الْبَرْ‌قَ خَوْفًا وَطَمَعًا وَيُنشِئُ السَّحَابَ الثِّقَالَ. It means that it is Allah Ta` ala Who makes you see the lightening and the thunder which can become a matter of fear for human beings lest it may destroy what it strikes. Then, it has a dimension of hope too by raising expectations that rains may follow the thunder, rains which support animal and human lives. And then, He is the One who lifts heavy and huge clouds up from the surface of the sea as the monsoons and carries these water-laden clouds post-haste through the atmosphere to places near and far off and has them deliver their rains over lands He chooses in accordance with His decree and corresponding to the measure determined by Him.
 
 ## Personal Reflections
+
+

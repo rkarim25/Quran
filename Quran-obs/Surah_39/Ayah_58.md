@@ -54,18 +54,6 @@ word_by_word:
     transliteration: l-muḥ'sinīna
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "O My servants who have transgressed against themselves! The next three verses (56-58), beginning from: أَن تَقُولَ نَفْسٌ يَا حَسْرَ‌تَىٰ (Pity on me, because I fell short in respect of Allah...
@@ -241,3 +229,5 @@ In this context, it has been mentioned that some disbelievers, on the Day of Jud
 These three different wishes could belong to different people, and it is also possible that these three wishes could have come, one after the other, from a single group of disbelievers, because, with the last saying which mentions the wish to be sent back to this world, it has been said in the verse that it will come to pass after they had seen the punishment. This obviously suggests that the first two sayings belong to a time before they saw the punishment, that is, it will be on the very first day of Qiyamah that they will remember the shortcomings of their deeds and say: يَا حَسْرَ‌تَىٰ عَلَىٰ مَا فَرَّ‌طتُ فِي جَنبِ اللَّـهِ (Pity on me, because I fell short in respect of Allah ...39:56). Later, as an excuse, they will say that they were helpless, and had Allah guided them, they too would have become obedient and fearing, but when He Himself gave them no guidance, they were hardly at fault. After that, when they see the punishment, they would wish to be sent back into the world. In these three verses, Allah Ta’ ala has made it very clear that the forgiveness and mercy of Allah is very extensive. But, it can be won only when one repents before death. Therefore, Allah was alerting them right there against the possibility that they start to show remorse after death, and indulge in these redundant wishes in the Hereafter.
 
 ## Personal Reflections
+
+

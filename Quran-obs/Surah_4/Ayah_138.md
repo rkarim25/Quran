@@ -30,17 +30,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 138, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the tidings that there is for them a painful torment (138)Those who take disbelievers for friends instead of believers, do they seek honor with them? Verily, then to Allah belongs all honor (139)And it has already been revealed to you in the Book that when you hear the verses of Allah being denied and mocked at, then sit not with them, until they engage in talk other than that; certainly in that case you would be like them. Surely, Allah will collect the hypocrites and disbelievers all together in Hell (140)
 
 (And it has already been revealed to you in the Book that when you hear the verses of Allah being denied and mocked at, then sit not with them, until they engage in talk other than that; certainly in that case you would be like them.)
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -119,3 +111,5 @@ Commentary
 In the first verse (138), the hypocrites have been given the news of a painful punishment. By articulating a distressing news with the word, 'basharah' (good news), the hint given is that everyone looks forward to some good news to brighten his or her future but, for the hypocrites, there is just no other news except this.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: halūʿan
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا (Indeed man is created weak in courage...70:19).
@@ -153,3 +141,5 @@ It has also been said that the meaning here refers to those who perform a deed a
 إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا (Indeed man is created weak in courage...70:19). The halu`, literally, means 'one who is greedy, impatient, lacking courage'. Sayyidna Ibn ` Abbas ؓ says that the word halu' in the verse refers to a 'person who is greedy about unlawful wealth'. Sayyidna Said Ibn Jubair ؓ says that the word refers to a 'miserly person'. Muqatil says that it refers to a 'person who is impatient and miserly'. All meanings attached assigned to this word are near-synonyms. The word halu' comprehends all these meanings. The verses that follow elaborate on the meaning of this word. In the meantime a doubt might arise here which needs to be disposed of. If it is objected that, according to this verse of the Holy Qur'an, man is created weak in courage, in other words, it is man's nature or his natural weakness, to be impatient, greedy and miserly - then it is not his fault, and why is he declared 'guilty'? This doubt may be allayed thus: Allah has created human nature such that it has the innate capacity to do good as well as evil. He has endowed him with intellect and intelligence. He has raised His Prophets with His Message and sent down His Books clearly stating the consequences of every action chosen by his free will. He has the right to choose between good and bad. Man, in this sense, will be declared 'guilty', and consequently punished on account of freely choosing to do the wrong deed, not on account of his inborn capacity. This interpretation is confirmed by the following verses that speak only of actions of choice.
 
 ## Personal Reflections
+
+

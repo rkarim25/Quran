@@ -288,15 +288,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These honorable Ayat were revealed about those who rush into disbelief, deviating from the obedience of Allah, His Messenger, prefering their opinions and lusts to what Allah has legislated,
 
-It was reported that this part of the Ayah was revealed about some Jews who committed murder and who said to each other, "Let us ask Muhammad to judge between us, and if he decides that we pay the Diyah, accept his judgement. If he decides on capital punishment, do not accept his judgement." The correct opinion is that this Ayah was revealed about the two Jews who committed adultery. The Jews changed the law they had in their Book from Allah on the matter of punishment for adultery, from stoning to death, to a hundred flogs and making the offenders ride a donkey facing the back of the donkey. When this incident of adultery occurred after the Hijrah, they said to each other, "Let us go to Muhammad and seek his judgement. If he gives a ruling of flogging, then implement his decision and make it a proof for you with Allah. This way, one of Allah's Prophets will have upheld this ruling amongst you.
+It was reported that this part of the Ayah was revealed about some Jews who committed murder and who said to each other, "Let us ask Muhammad to judge between us, and if he decides that we pay the Diyah, accept his judgement. If he decides on capital punishment, do not accept his judgement." The correct opinion is that this Ayah was revealed about the two Jews who committed adultery. The Jews changed the law they had in their Book from Allah on the matter of punishment for adultery, from stoning to death, to a hundred flogs and making the offenders ride a donkey facing the back of the donkey. When this incident of adultery occurred after the Hijrah, they said to each other, "Let us go to Muhammad and seek his judgement. If he gives a ruling of flogging, then implement his decision and make it a proof for you with Allah. This way, one of Allah's Prophets will have upheld this ruling amongst you. But if he decides that the punishment should be stoning to death, then do not accept his decision."
 
 ## Tafsir Summary
 
@@ -577,3 +571,5 @@ However, in the event that they turn to a Muslim judge or ruler and show that th
 Now as we move on to other aspects of verse 41, we see that it be-gins with words of comfort for the Holy Prophet ﷺ after which, he has been informed of the conspiracy hatched by the Jews, the description of which goes right upto its end. It reveals that the deputation coming to him was comprised of hypocrites who were secretly in league with the Jews and it is at their behest that they were going to see him. After that, there is a description of some evil traits of character the visiting group has against which Muslims have been warned. As an adjunct, it has been pointed out that these traits of character are rejectionist in nature, therefore, effort should be made to stay safe from them. Listed below are these four evil traits of character.
 
 ## Personal Reflections
+
+

@@ -59,18 +59,6 @@ word_by_word:
     transliteration: ḥakīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-67-71 In order to keep the Muslims joined together against their enemies, they have been taught to have cordial relations with one another.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Prophet! About some prisoners of the battle of Badr who had become Muslims, there remained a doubt that they, once back in Makkah, may turn away from Islam and start hurting them thereafter.
@@ -168,3 +156,5 @@ About some prisoners of the battle of Badr who had become Muslims, there remaine
 Upto this point, the text was dealing with injunctions relating to fighting and killing disbelievers, taking them prisoners, setting them free and carrying on peace negotiations with them. In verses which follow right upto the end of the Surah itself, a particular related chapter has been taken up alongwith some details of its injunctions. They are the injunctions of Hijrah (Emigration) - because, situations can arise during a confrontation with disbelievers wherein neither the Muslims have the power to launch an attack against them and kill them off, nor are they willing to go for peace. In such a state of weakness, the only course through which Islam and Muslims can be salvaged is Hijrah (Emigration) which means that Muslims should leave that city or country and go to stay in some other land where acting freely in accordance with Islamic injunctions is possible.
 
 ## Personal Reflections
+
+

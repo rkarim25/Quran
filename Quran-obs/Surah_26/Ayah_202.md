@@ -24,18 +24,6 @@ word_by_word:
     transliteration: yashʿurūna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 202, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Thus have We caused it to enter the hearts of the criminals (200)They will not believe in it until they see the painful torment (201)It shall come to them of a sudden, while they perceive it not (202)Then they will say: "Can we be respited? Qur’ an is the name of the collection of its words and meanings It is brought by the Trusted Spirit down [ 193] to your heart, so that you become one of the warners [ 194] in plain Arabic language.
@@ -171,3 +159,5 @@ Urdu translation of Qur’ an is not allowed to be called Urdu Qur’ an
 If only the translation of the Qur'an is written in any language without the Arabic text, it cannot be called the Qur'an. Some people call the Urdu translation of the Qur'an as Urdu Qur'an, or the English translation of the Qur'an as English Qur'an. It is not right and amounts to disrespect of the Holy Book. Printing, calling or trading of something in the name of Qur'an, without the Arabic text of the Qur'an, is not permitted. This subject is dealt with in detail in my treatise (تحذیر الاخوان عن تغییر رسم القرآن)
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yaftarūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-13-24 In these verses, a graphic scene of the life in the Hereafter has been depicted in order to warn the disbelievers of the consequences of the rejection of the Articles of Faith.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? In verse 24, it was said: انظُرْ‌ كَيْفَ كَذَبُوا عَلَىٰ أَنفُسِهِمْ ۚ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُ‌ونَ (See how they lied about themselves - and lost to them was all that they used to coin).
@@ -175,3 +163,5 @@ And it appears in a narration from the Musnad of Ahmad that the Holy Prophet ﷺ
 In addition to that, it appears in Al-Baihaqi and others, all on sound authority, that the character of a Muslim may have other bad traits - but, not breach of trust and lying. Yet another Hadith says that lying decreases one's Rizq (sustenance).
 
 ## Personal Reflections
+
+

@@ -218,15 +218,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 176, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The verse (176) was revealed in answer to the question posed by some Companions of the Holy Prophet ﷺ regarding the inheritance of a Kalalah. Kalalah means a person who dies leaving neither children nor parents. The verse has clarified that the property left by a Kalalah shall be distributed in the following manner:
 
-3. This also tells us that our noble Prophet ﷺ would not give a decision on his own without the guiding command of Wahy (revelation). If there was no standing guidance revealed through Wahy present in a certain case, he would put his decision on hold and wait for the coming of Wahy. When it did, he gave his verdict. In addition to that, there is a subtle hint here in the direction of the wisdom behind the gradual revelation of the Qur'an. If the whole Book was revealed all at one fixed time as demanded by the People of the Book, it would have not carried the same benefits as there are in the fact that the Qur'an was revealed as needed and when appropriate, all functionally spaced out.
+3. This also tells us that our noble Prophet ﷺ would not give a decision on his own without the guiding command of Wahy (revelation). If there was no standing guidance revealed through Wahy present in a certain case, he would put his decision on hold and wait for the coming of Wahy. When it did, he gave his verdict. In addition to that, there is a subtle hint here in the direction of the wisdom behind the gradual revelation of the Qur'an. If the whole Book was revealed all at one fixed time as demanded by the People of the Book, it would have not carried the same benefits as there are in the fact that the Qur'an was revealed as needed and when appropriate, all functionally spaced out. This modality accommodated the requirements of addressees who could ask a question out of some necessity and be answered through the recited revelation (al-Wahy al-Matluww). An example of this methodology appears right here in the present verse while others appear at several other occasions in the Qur'an. No doubt, this form is far beneficial, but the core of its distinction lies elsewhere. That is because of the most refined sublimity of men and women of faith who turn to Allah in remembrance and are honoured by being addressed by their most exalted Creator. This is indeed a great honour never granted to any other community. Certainly no grace is greater than the grace granted by Allah, the ultimate dispenser. Now, any verse of the Qur'an which was revealed in the favour of or in answer to the question of a particular Companion is treasured as a testament of his virtues. And a Wahy which came favouring the position taken by one of them on the occasion of some matter causing difference of opinion is sufficient to keep the name and merit of that Companion alive right upto the Day of Doom.
 
 ## Tafsir Summary
 
@@ -365,3 +359,5 @@ Praised be Allah. Surah al-Nis-a' ends here
 وَ للہِ الحَمدُ اَوَّلَہ و آخِرَہ
 
 ## Personal Reflections
+
+

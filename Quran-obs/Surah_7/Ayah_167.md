@@ -85,18 +85,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 167, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when your Lord declared that He would certainly keep on sending against them, till the Day of Resurrection, those who would afflict them with a humiliating torment. The first two verses (167 and 168) have referred to the two punishments given to the Israelites.
@@ -132,3 +120,5 @@ Eternal Humiliation placed on the Jews
 The first two verses (167 and 168) have referred to the two punishments given to the Israelites. Firstly, Allah will keep sending up to the Day of Doom, some individuals or groups of people who will punish and bring disgrace to them. In fact, this is what has been happening to them up to this day. They had been dominated and disdainfully treated by others as has been recorded by history. We may not be in doubt about their present government in a part of Palestine, as it is a common knowledge that the state of Israel is, in fact, a part of the world powers, created by them for their political objectives against the Muslim Ummah. They are still ruled over and dominated by the colonial powers. It is, in fact, a military base of America. The day these powers stop providing them with their aid they shall not be able to maintain their existence for long.
 
 ## Personal Reflections
+
+

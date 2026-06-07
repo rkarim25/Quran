@@ -65,17 +65,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 195, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 "It was revealed about spending." Ibn Abu Hatim reported him saying similarly. He then commented, "Similar is reported from Ibn 'Abbas, Mujahid, 'Ikrimah, Sa'id bin Jubayr, 'Ata', Ad-Dahhak, Al-Hasan, Qatadah, As-Suddi and Muqatil bin Hayyan."
 
 Aslam Abu 'Imran said, "A man from among the Ansar broke enemy (Byzantine) lines in Constantinople (Istanbul). Abu Ayyub Al-Ansari was with us then. So some people said, 'He is throwing himself to destruction.' Abu Ayyub said, 'We know this Ayah (2:195) better, for it was revealed about us, the Companions of Allah's Messenger ﷺ who participated in Jihad with him and aided and supported him. When Islam became strong, we, the Ansar, met and said to each other, 'Allah has honored us by being the Companions of His Prophet ﷺ and in supporting him until Islam became victorious and its following increased. We had before ignored the needs of our families, estates and children. Warfare has ceased, so let us go back to our families and children and attend to them.' So this Ayah was revealed about us:
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -144,3 +136,5 @@ The last sentence of the verse (195):' وَأَحْسِنُوا ۛ إِنَّ ا
 And when it (ihsan احسان) relates to social transactions and dealings, the Holy Prophet ﷺ has explained Ihsan by saying (as reported in the Musnad of Ahmad on the authority of the noble Companion Mu` adh ؓ ) that 'you should like for others what you like for yourselves, and in the same manner, you should dislike for others what you dislike for yourselves' (Mazhari).
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: bil-muh'tadīna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 117, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you obey most of those on the earth, they will mislead you far away from Allah's path. In the third verse (116), Allah Ta ala tells the Holy Prophet ﷺ that the majority of the progeny of 'Adam living on the earth is in error.
@@ -109,3 +97,5 @@ The gist of the advice is that he should not be impressed by their numerical maj
 ` Surely, your Lord knows best those who go astray from His way, and He is the best knower of those who are on the right path (consequently, as the errants shall be punished, the people of the straight path shall be rewarded).
 
 ## Personal Reflections
+
+

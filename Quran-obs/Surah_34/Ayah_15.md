@@ -89,18 +89,6 @@ word_by_word:
     transliteration: ghafūrun
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name The Surah takes its name from verse 15 in which the word Saba has occurred, which implies that it is the Surah in which mention has been made of Saba (i.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed there was for Saba' a sign in their dwelling place – two gardens on the right and on the left; (and it was said to them:) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord (15)But they turned away, so We sent against them flood released from the dam, and We converted their two gardens into gardens producing bitter bad fruit, and Athl, and some few lote trees (16)Like this We requited them because they were ungrateful disbelievers.
@@ -222,3 +210,5 @@ According to Ibn Kathir's research with reference to scholars of genealogy, thes
 As for the statement of the Hadith quoted above in which it is said that out of the ten sons of Saba', six settled in Yemen and four went towards Syria, this event relates to the time after the coming of the punishment of flood against them which means that these people had scattered towards different directions and cities at the time the flood came. (Ibn Kathir) Quoting Qushairi, al-Qurtubi has reported that the period of the people of Saba' is after Sayyidna ` Isa (علیہ السلام) and before the coming of the Holy Prophet ﷺ ، and thus it falls in the period known as: فترۃ (fatrah or gap).
 
 ## Personal Reflections
+
+

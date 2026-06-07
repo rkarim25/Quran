@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ṣādiqīna
 ---
 
-## Context
-
-To understand **The Smoke** (Ad-Dukhan) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Dukhan is a **Makkah** surah—revealed as the 64th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 59 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its period of revelation also could not be determined from any authentic tradition, but the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, these people are saying (34)"There is nothing but our first death, and we shall not be resurrected. فَأْتُوا بِآبَائِنَا إِن كُنتُمْ صَادِقِينَ "Bring our fathers, if you are true (in your belief in resurrection" ) (44:36) ".
@@ -69,3 +57,5 @@ Commentary
 فَأْتُوا بِآبَائِنَا إِن كُنتُمْ صَادِقِينَ "Bring our fathers, if you are true (in your belief in resurrection" ) (44:36) ". Allah did not give an answer to this argument of theirs, because it was too obvious to need explanation, for the resurrection will happen on the Day of Judgment, not in this world. Allah will bring back to life all human beings in the Hereafter. Life and death in this world are bound by specific natural laws and wisdom. If Allah is not bringing back to life those who died long ago at this time, it does not necessarily imply that He will not be able to give life after death in the Hereafter. The following statement embodies their false/absurd reasoning: In logical terminology, it may be said that the negation of a particular thing does not necessarily imply the negation of a general thing. (Bayan-ul-Qur an)
 
 ## Personal Reflections
+
+

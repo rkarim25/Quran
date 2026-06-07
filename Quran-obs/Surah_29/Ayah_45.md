@@ -95,17 +95,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Spider** (Al-'Ankabut) 45, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah created the heavens and the earth with truth. Verily, therein is surely a sign for those who believe (44)Recite what has been revealed to you of the Book, and perform the Salah. Verily, the Salah prevents from Al-Fahsha' (immoral sins) and Al-Munkar (evil deeds) and the remembering (praising) of Allah is greater indeed. And Allah knows what you do.) Allah tells us of His immense power, that He created the heavens and the earth with truth, meaning for a higher purpose than mere pla (45)
 
 اتْلُ مَا أُوحِيَ إِلَيْكَ (And recite (0 Muhammad) what is revealed to you - 29:45). In the previous verses some incidents of a few prophets and their people were related, in which some rebellious infidels were also mentioned, who faced various divine punishments. There were also some words of solace for the Holy Prophet ﷺ ، and consolation for the believers, in that how the earlier prophets had endured various types of hardships. There was also persuasion for continuing the work of teaching and preaching, and not to lose heart under any circumstances.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -186,3 +178,5 @@ But most commentators have explained that the verse is not in the form of a comm
 وَلَذِكْرُ‌ اللَّـهِ أَكْبَرُ‌ وَاللَّـهُ يَعْلَمُ مَا تَصْنَعُونَ (And indeed remembrance of Allah is the greatest (thing). And Allah knows what you do. - 29:45). Here remembrance of Allah could mean the remembrance carried out in the prayer or otherwise is supreme. The other meaning of the word could be that when His servants remember Him, it is His promise that He too remembers them before angels فَاذْكُرُ‌ونِي أَذْكُرْ‌كُمْ (Remember Me, and I will remember you - 2:152). For the servants who worship Allah it is the biggest blessing. Many a companions and the generation that followed them have endorsed this interpretation. Ibn Jarir and Ibn Kathir رحمۃ اللہ علیہما have also preferred this view. There is also an allusion under this view that the real reason of getting rid of sins through prayers is that Allah Ta’ ala also remembers the servant at that time before the angels. Thus its auspiciousness relieves him from his sins.
 
 ## Personal Reflections
+
+

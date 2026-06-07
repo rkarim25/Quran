@@ -106,17 +106,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This is how it was recorded by Imam Ahmad, in full. Muslim and An-Nasa'i recorded the story of his death in Al-Fada'il. Al-Hafiz Abu 'Umar bin 'Abd Al-Barr mentioned in Al-Isti'ab that when the girl said in her seclusion, 'Are you refusing to follow the command of the Messenger of Allah ﷺ?' – This Ayah was revealed:
 
 It has been repeatedly explained earlier that the majority of injunctions appearing in Surah Al-Ahzab relate to the reverence, love and perfect obedience of the Holy Prophet ﷺ or to the prohibition of causing any pain to him. The verses cited above have also been revealed in connection with some incidents of this nature.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -241,3 +233,5 @@ In a Hadith, the Holy Prophet ﷺ has been reported to have said that the nikah 
 Hence, the outcome is that the consideration of kafa'ah (equalness and likeness) in nikah (marriage) is desirable in religion, so that the spouses live in accord and harmony. But, should some other important consideration, more important than this kafa'ah, come up, then, it is permissible for the woman and her guardians that they surrender this right of theirs and marry in ghayr kuf, that is, other than equal and like. Particularly so, when there is some religious consideration in sight - if so, it is better and more merit worthy to do so, as proved from several events pertaining to the noble Sahabah. Incidentally, from this we also know that these events do not negate the basic premise of the issue of kafa'ah. Allah knows best.
 
 ## Personal Reflections
+
+

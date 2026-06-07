@@ -67,18 +67,6 @@ word_by_word:
     transliteration: yastahziūna
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have they not traveled through the earth and seen what was the end of those before them? In verse 83, it was said: فَرِ‌حُوا بِمَا عِندَهُم مِّنَ الْعِلْمِ (they exulted because of whatever of knowledge they had,) that is, when the messengers of Allah Ta’ ala came to these deniers, who were utterly oblivious to their end, with clear arguments in favor of tauhid (Oneness of Allah) and 'iman (faith), they took their knowledge to be better and truer than the knowledge brought by prophets, and started rejecting what they said.
@@ -142,3 +130,5 @@ Commentary
 In verse 83, it was said: فَرِ‌حُوا بِمَا عِندَهُم مِّنَ الْعِلْمِ (they exulted because of whatever of knowledge they had,) that is, when the messengers of Allah Ta’ ala came to these deniers, who were utterly oblivious to their end, with clear arguments in favor of tauhid (Oneness of Allah) and 'iman (faith), they took their knowledge to be better and truer than the knowledge brought by prophets, and started rejecting what they said. What was this knowledge with which the disbelievers were exultant to the extent that they would even reject the body of knowledge brought by prophets? It could be some sort of compounded ignorance' ا (رح) جھِل المُرَکَّب (aljahl-ul-murakkab whereby an ignorant person, despite his sheer ignorance, believes himself to be knowledgeable). This does not qualify to be 'knowledge' at all. Or, this knowledge of theirs means awareness in the fields of trade, industry and things like that. They really had expertise in these fields according to their time. The noble Qur'an alludes to this knowledge of theirs in a verse of Surah Ar-Rum in the following words: يَعْلَمُونَ ظَاهِرً‌ا مِّنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَ‌ةِ هُمْ غَافِلُونَ (They know something superficial of the worldly life, but of the Hereafter they are negligent.- Ar-Rum, 30:7) It means that these people do know a good deal about the material life of the world, and also know how to get most benefited by it, but are totally ignorant or heedless of the Hereafter where they have to live forever, either in bliss or in bane, and both of which are also everlasting. In this verse, even if we were to take this knowledge to be the worldly knowledge only, it would means 'since these people deny the Day of Judgment and the Hereafter and do not know, or want to know, its everlasting reward and punishment, therefore, they do not see anything beyond their knowledge of the apparent and are quite pleased with it, and as a result do not pay heed to areas of knowledge brought by the noble prophets.' (Mazhari)
 
 ## Personal Reflections
+
+

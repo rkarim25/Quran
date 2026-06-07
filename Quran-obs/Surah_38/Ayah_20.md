@@ -29,18 +29,6 @@ word_by_word:
     transliteration: l-khiṭābi
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 ..And remember Our slave Dawud, endued with Al-Ayd. The word: الْحِكْمَةَ (al-hikmah) appearing in verse 38:20: وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ (and gave him wisdom, and a decisive speech), as obvious, means wisdom, that is, 'We had blessed him with the precious assets of reason, insight and vision.' Some elders have suggested that it means 'nubuwwah', the station and mission of a prophet.
@@ -106,3 +94,5 @@ The birds also used to glorify Allah's praises with him. If a bird flew by him a
 The word: الْحِكْمَةَ (al-hikmah) appearing in verse 38:20: وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ (and gave him wisdom, and a decisive speech), as obvious, means wisdom, that is, 'We had blessed him with the precious assets of reason, insight and vision.' Some elders have suggested that it means 'nubuwwah', the station and mission of a prophet. As for the second gift: فَصْلَ الْخِطَابِ (fasl al-khitab: translated here as: a decisive speech), it has been explained in different ways by commentators. Some have said that it means power of oration - and the fact is that Sayyidna Dawud (علیہ السلام) was a great orator. He was the first one who started saying اَمَّا بَعد (amma bad: after that) following hamd and Salah in his religious sermons. Some others have said that it means the ability to make a decision at its best, 'that is, Allah Ta’ ala had given him the ability and power to resolve disputes and decide matters comprehensively. The truth of the matter is that the words used in the Qur'an seem to have ample room for both meanings, and both are meant. Incidentally, the translation done by Mau1ana Ashraf ` Ali Thanavi (رح) - 'Faisla kar denay wali taqrir' - helps accommodate both meanings. (And so does the English translation given above.)
 
 ## Personal Reflections
+
+

@@ -120,15 +120,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And that those who have been given knowledge may know that it is the truth from your Lord, so that they may believe therein,) means, 'so that those who have been given beneficial knowledge with which they may differentiate between truth and falsehood, those who believe in Allah and His Messenger, may know that what We have revealed to you is the truth from your Lord, Who has revealed it by His knowledge and under His protection, and He will guard it from being mixed with anything else.' Indeed, it is the Wise Book which,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -231,3 +223,5 @@ Commentary
 أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ (The Shaitan cast (doubts) about what he recited - 22:52) In this verse the word تَمَنَّىٰ has been used as a synonym for قَرَأَ thus أُمْنِيَّتِهِ would mean قِرَأت (recitation). This verse explains that the disputes raised by the disbelievers in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of disbelievers. This explanation of the verse is quite clear and straight-forward, and has been adopted by many commentators including Abu Hayyan in his Bahr-ul-Muhit. However, some books of traditions have reported here an incident which is not proved by authentic sources. The incident is known as حَدِیث الٖغرانیق (hadith-ulgharaniq). Some scholars have held that it is invented by some heretics and enemies of Islam. But even those who believe this tradition to be worthwhile have taken pains to remove the doubts, which the words raise about the categorical and undisputed laws of Qur'an and Sunnah. The plain and simple meaning of the verse has been explained above and the alleged incident in no way affects this meaning. Making this incident as a part and parcel of the commentary on this verse, thereby creating unnecessary doubts, and then attempting to answer those doubts is an exercise in futility and absolutely undesirable وَاللہُ سبحانَہُ و تعالیٰ اَعلَم .
 
 ## Personal Reflections
+
+

@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 153, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 As to how Sabr صبر can save man from all kinds of trouble and pain and resolve all his difficulties, the secret has been revealed in the last phrase of this verse - "Surely, Allah is with those who are patient." That is to say, as a reward for Sabr صبر man receives the honour of the "company" of Allah. And it goes without saying that when the might of the Lord of the Worlds Himself has come to the aid of a man, what pain or trouble can overcome him, and who can prevent his concerns from prospering?
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -135,3 +127,5 @@ Moreover, Salah نماز does possess a special efficacy in releasing man from a
 As to how Sabr صبر can save man from all kinds of trouble and pain and resolve all his difficulties, the secret has been revealed in the last phrase of this verse - "Surely, Allah is with those who are patient." That is to say, as a reward for Sabr صبر man receives the honour of the "company" of Allah. And it goes without saying that when the might of the Lord of the Worlds Himself has come to the aid of a man, what pain or trouble can overcome him, and who can prevent his concerns from prospering?
 
 ## Personal Reflections
+
+

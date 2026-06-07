@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 106, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Some Companions stayed behind from the battle of Tabuk due to laziness, preferring comfort, ease, ripe fruits and shade. They did not lag behind because of hypocrisy or doubts. Some of them tied themselves to the pillars (of the Masjid) like Abu Lubabah and several of his friends did. Some of them did not do that, and they are the three mentioned here. Those who tied themselves received their pardon before these three men whose pardon was delayed, until this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -105,3 +97,5 @@ Allah knows those who deserve the punishment and those who deserve the pardon. H
 Let us now turn to the statement: وَآخَرُ‌ونَ مُرْ‌جَوْنَ لِأَمْرِ‌ اللَّـهِ (And there are others whose matter is deferred till the command of Allah - 106). We already know that seven of the ten believers, who had missed the battle of Tabuk without a valid excuse, had demonstrated their heartfelt remorse by tying themselves up to the pillars of the Prophet's Mosque. The injunction which covers them appeared in the first verse (102): آخَرُ‌ونَ اعْتَرَ‌فُوا (And there are others who admitted their sins). Verse 106 is now referring to the other three gentlemen who had not done what the group of seven had done in the Masjid. Thus, they had not admitted their misconduct openly. In their case, the Holy Prophet ﷺ ordered his Companions ؓ to see that Muslims boycott them by not talking to them. When things reached those limits, they learnt their lesson, confessed to their misconduct and repented sincerely, following which orders were given for their pardon. (Sahib a1-Bukhari and Muslim)
 
 ## Personal Reflections
+
+

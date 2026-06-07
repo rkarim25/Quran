@@ -82,13 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Rooms** (Al-Hujurat) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-According to Imam Baghawi, this verse was revealed in connection with the tribe of Banu Asad. A few members of that tribe came up to the Holy Prophet ﷺ in Madinah during a severe drought. These people were not sincere believers. They had expressed their Islam merely to demand financial help from the Muslim Sadaqat funds. As they were not believers in the real sense of the word, they were unaware of Islamic injunctions and manners. They spread filth and excrement on the streets of Madinah. In the marketplaces they increased the prices of necessary items. First they made a false claim of faith in the presence of the Holy Prophet ﷺ ، second they wanted to deceive him; and third they regarded their Islam as a favour to him. They said: "We embraced Islam without any conflict: we did not fight against you as did other tribes for a length of time and then they became Muslims; therefore you should value us." This was a sort of disrespect to the Messenger ﷺ ، because they considered their Islam as a favour to him.
+According to Imam Baghawi, this verse was revealed in connection with the tribe of Banu Asad. A few members of that tribe came up to the Holy Prophet ﷺ in Madinah during a severe drought. These people were not sincere believers. They had expressed their Islam merely to demand financial help from the Muslim Sadaqat funds. As they were not believers in the real sense of the word, they were unaware of Islamic injunctions and manners. They spread filth and excrement on the streets of Madinah. In the marketplaces they increased the prices of necessary items. First they made a false claim of faith in the presence of the Holy Prophet ﷺ ، second they wanted to deceive him; and third they regarded their Islam as a favour to him. They said: "We embraced Islam without any conflict: we did not fight against you as did other tribes for a length of time and then they became Muslims; therefore you should value us." This was a sort of disrespect to the Messenger ﷺ ، because they considered their Islam as a favour to him. Their sole purpose was to derive financial aid from the Muslim Sadaqat funds, enrich themselves and eradicate their poverty. True and sincere faith is the most precious possession of a Muslim. By accepting Islam, he does no show a favour to anybody; on the contrary, it is a favour of Allah that he is guided to the Truth. On this occasion, the current set of verses was revealed in which their false claim is refuted and they have been taken to task for boasting of their so-called kindness and favour conferred upon the Holy Prophet ﷺ .
 
 ## Tafsir Summary
 
@@ -229,3 +223,5 @@ Surah Al-Hujurat
 Ends here
 
 ## Personal Reflections
+
+

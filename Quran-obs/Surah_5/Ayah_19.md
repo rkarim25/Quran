@@ -123,18 +123,6 @@ word_by_word:
     transliteration: qadīrun
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O People of the Scripture! The word, "fatrah" in: عَلَىٰ فَتْرَ‌ةٍ مِّنَ الرُّ‌سُلِ (after a gap between Messengers) literally means to slacken, to become dormant or to suspend or to terminate an activity.
@@ -218,3 +206,5 @@ Yet another indication given here is towards the fact that the world has been bl
 With this in view, we can see that following the long gap when disbelief in and disobedience to God reigned supreme everywhere, his teaching and training spread out the kind of universal light which re-mains unparalleled by any age previous to it. In short, out of all miracles, this one miracle alone could compel human beings to have faith in him.
 
 ## Personal Reflections
+
+

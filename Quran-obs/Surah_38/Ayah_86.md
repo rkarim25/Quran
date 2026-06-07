@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-mutakalifīna
 ---
 
-## Context
-
-To understand **The Letter "Saad"** (Sad) 86, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Sad is a **Makkah** surah—revealed as the 38th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As will be explained below, according to some traditions this Surah was sent down in the period when the Holy Prophet had started calling the people openly to Islam in Makkah, and this had caused great alarm among the chiefs of the Quraish. If this be true, its period of revelation would be about the 4th year of the Prophethood. According to some other traditions, it was sent down after Hadrat Umar's embracing Islam, and this happened, as is well known, after the migration to Habash.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "No wage do I ask of you for this, nor am I one of the Mutakallifin. In verse 86, it was said: وَمَا أَنَا مِنَ الْمُتَكَلِّفِينَ (nor am I from among those who make up things artificially.).
@@ -117,3 +105,5 @@ The Commentary on
 Surah Sad
 
 ## Personal Reflections
+
+

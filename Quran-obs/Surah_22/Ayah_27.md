@@ -62,18 +62,6 @@ word_by_word:
     transliteration: ʿamīqin
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when We showed Ibrahim the site of the House (saying): "Associate not anything with Me, and sanctify My House for those who circumambulate it, and those who stand up (for prayer), and those who bow and make prostration (in prayer); (26)And proclaim to mankind the Hajj (pilgrimage). The third command given to Sayyidna Ibrahim (علیہ السلام) was أَذِّن فِي النَّاسِ بِالْحَجِّ (Announce among people about the obligation of Hajj - 22:2'7).
@@ -163,3 +151,5 @@ It is also mentioned in this narration that Allah Ta’ ala so decreed that the 
 Further on, the verse describes the tradition which has been established for all times as a result of the proclamation of Sayyidna Ibrahim namely يَأْتُوكَ رِ‌جَالًا وَعَلَىٰ كُلِّ ضَامِرٍ‌ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍ (22:28) meaning that people will come to Baitullah from the four corners of the earth, some on foot and others on their mounts, which will become lean because of the long distances traversed by them. From that remote time until today, though thousands of years have elapsed, people come to Baitullah to perform pilgrimage, just as they did in the earliest times. All the prophets who came after Sayyidna Ibrahim (علیہ السلام) and their followers strictly observed this tradition. During the long period of ignorance after Sayyidna ` Isa' (علیہ السلام) ، the Arabs, even though they lapsed into the evils of idolatry, yet they continued to perform very faithfully all the rituals of the pilgrimage precisely as they had inherited them from the time of Sayyidna Ibrahim (علیہ السلام) .
 
 ## Personal Reflections
+
+

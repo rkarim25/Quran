@@ -79,18 +79,6 @@ word_by_word:
     transliteration: taʿqilūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when Our clear Ayat are recited unto them, those who hope not for their meeting with Us, say: "Bring us a Qur'an other than this, or change it." Say: "It is not for me to change it on my own accord; I only follow that which is revealed unto me. After that, the fact that the Qur'an was from Allah and that it was His Word was driven home with an open argument by saying: فَقَدْ لَبِثْتُ فِيكُمْ عُمُرً‌ا مِّن قَبْلِهِ (Then I have lived among you for years before it).
@@ -142,3 +130,5 @@ Important Note
 No doubt, this argument of the Qur'an provides a perfect proof of its veracity as the Word of Allah. But, it has also given us a standing rule of conduct in matters of common interest where we must be able to separate the genuine from the counterfeit and the true from the false. When an office or rank of responsibility has to be given to a per-son, it becomes necessary to assess the qualification and capability of the incumbent. To do that, the best rule is to go through the record of his past life. If the person concerned is found to be true and trustworthy, the same can be expected from him in the future as well. And if, there is no evidence to prove his honesty and truth in that person's past life, trusting him for the future just because of what he says or claims is not a wise thing to do. In our time, finding the right person for an office of responsibility has become a nightmare. All sorts of errors (of intent, background research and decision making) are being committed and errors are compounded by widespread disorders (in social and governmental institutions). The real reason why all this is happening is the abandonment of this natural principle in favor of what is customary, formal (or straight dishonest).
 
 ## Personal Reflections
+
+

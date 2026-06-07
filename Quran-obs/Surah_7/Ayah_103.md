@@ -70,18 +70,6 @@ word_by_word:
     transliteration: l-muf'sidīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 103, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then after them We sent Musa with Our signs to Fir'awn and his chiefs, but they wrongfully rejected them. The verse 103, has said that after the prophets Nuh, Hud, Salih, Lut and Shu'aib (علیہ السلام) ، We sent Musa with Our signs towards Pharaoh and his people.
@@ -121,3 +109,5 @@ The Ayah says, 'those who hindered from the path of Allah and belied in His Mess
 The verse 103, has said that after the prophets Nuh, Hud, Salih, Lut and Shu'aib (علیہ السلام) ، We sent Musa with Our signs towards Pharaoh and his people. The 'signs' may refer to the verses of the Torah or to the miracles of the prophet Musa (علیہم السلام) . The word Pharaoh was the title of Egyptian kings. The Pharaoh of Musa's time is said to be Mernephtah. The phrase فَظَلَمُوا بِهَا ''they did injustice to them (signs) " here means that they showed indifference to the verses of Allah, instead of being grateful to Him and having faith in them they rejected His verses. The word ظلم rendered as wrong or injustice, in fact, signifies the use of something for a purpose opposite to what it was created for. Further it said فَانظُرْ‌ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ "So look how was the fate of mischief-makers." Again the people are invited to take lesson from these events and think of their own fate.
 
 ## Personal Reflections
+
+

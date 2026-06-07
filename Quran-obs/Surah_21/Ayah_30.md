@@ -82,13 +82,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-The following story about Sayyidna ` Abdullah Ibn ` Umar ؓ has been related in Ibn Kathir's commentary on the authority of Ibn Abi Hatim. A man went to Sayyidna ` Abdullah Ibn ` Umar ؓ and requested him to explain the meaning of this verse to him. He pointed out towards Sayyidna Ibn ` Abbas ؓ and told him to go to him for an explanation of the verse. He also requested him to let him know the explanation that Sayyidna Ibn ` Abbas ؓ gave to him. The man went to Sayyidna Ibn ` Abbas ؓ and asked him what do the words رَتَقاً (ratqan) and فَتَقنَا (fataqna) mean in the verse. Sayyidna Ibn ` Abbas ؓ replied that originally the sky was closed and there was no rainfall, likewise the earth was closed and there was no growth on it. When Allah Ta'ala sent down man on earth to live here He opened up rainfall from the sky and the vegetation from the earth. After learning the explanation of the verse the man went back to Sayyidna Ibn ` Umar ؓ and repeated to him what he had learnt from Sayyidna Ibn ` Abbas ؓ .
+The following story about Sayyidna ` Abdullah Ibn ` Umar ؓ has been related in Ibn Kathir's commentary on the authority of Ibn Abi Hatim. A man went to Sayyidna ` Abdullah Ibn ` Umar ؓ and requested him to explain the meaning of this verse to him. He pointed out towards Sayyidna Ibn ` Abbas ؓ and told him to go to him for an explanation of the verse. He also requested him to let him know the explanation that Sayyidna Ibn ` Abbas ؓ gave to him. The man went to Sayyidna Ibn ` Abbas ؓ and asked him what do the words رَتَقاً (ratqan) and فَتَقنَا (fataqna) mean in the verse. Sayyidna Ibn ` Abbas ؓ replied that originally the sky was closed and there was no rainfall, likewise the earth was closed and there was no growth on it. When Allah Ta'ala sent down man on earth to live here He opened up rainfall from the sky and the vegetation from the earth. After learning the explanation of the verse the man went back to Sayyidna Ibn ` Umar ؓ and repeated to him what he had learnt from Sayyidna Ibn ` Abbas ؓ . Then Sayyidna ` Abdullah Ibn ` Umar ؓ remarked that he was then left in no doubt that Allah Ta'ala had graciously bestowed upon Sayyidna Ibn ` Abbas ؓ a complete knowledge of Qur'an. He further said that previously he used to consider Sayyidna Ibn ` Abbas's ؓ explanations of the Holy Qur'an as bold attempts, of which he did not approve. But now he was convinced that Allah Ta'ala had granted to him special insight into the meaning of Qur'an, and that the explanation he gave of the words رَتق و فَتق was absolutely correct.
 
 ## Tafsir Summary
 
@@ -227,3 +221,5 @@ Ibn Kathir has quoted Sayyidna Abu Hurairah ؓ on the authority of Imam Ahmad (�
 "Make greeting with Salam common between you, and feed (others) and observe the rights of kinship, and stand (in prayers) at night when people are asleep. Then enter the Jannah with peace".
 
 ## Personal Reflections
+
+

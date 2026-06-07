@@ -80,18 +80,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **Hud** (Hud) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "O Hud! After that, the next eight verses (61-68) carry the story of Sayyidna Salih peace be upon him.
@@ -147,3 +135,5 @@ After that, the next eight verses (61-68) carry the story of Sayyidna Salih peac
 Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you your custom-ordered miracles, and you still fail to believe, then, according to the customary practice of Allah, the punishment will come and destroy all of you. But, they remained obstinate and Allah Ta` a1a, in His perfect power, made the miracle they demanded manifest before them. The rock of the mountain in front of them split asunder. Out from it came the she-camel bearing the features specified by them. Allah Ta` ala ordered them not to harm that she-camel in any manner, otherwise the punishment will come upon them. But, they disobeyed this order as well, and killed the she-camel. Consequently, they were seized by Allah Ta` ala, Sayyidna Salih (علیہ السلام) and his companions were saved from the punishment, and the rest of those people were destroyed by a Sound which was severe and terrifying.
 
 ## Personal Reflections
+
+

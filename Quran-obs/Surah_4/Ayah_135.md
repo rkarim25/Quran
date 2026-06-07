@@ -160,18 +160,6 @@ word_by_word:
     transliteration: khabīran
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 135, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-105-135 Resuming the theme of defense, the Muslims have been warned to be on their guard against their enemies.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! The real purpose of sending prophets and scriptures In this verse of Surah Al-Nisa', all Muslims have been instructed to uphold justice and be true when appearing as witnesses.
@@ -305,3 +293,5 @@ Now, concluding our discussion about the meanings of verse 135 in conjunction wi
 2. The second element of importance here is that the responsibility of establishing justice and fairness as a way of life has been placed on the shoulders of all human beings. As for the verses from Surah al-Nis-a' and Surah al-Ma` idah wherein, by saying: يَا أَيُّهَا الَّذِينَ آمَنُوا (0 those who believe), the entire Muslim community has been addressed. But, in Surah al-Hadid, by saying: لِيَقُومَ النَّاسُ بِالْقِسْطِ (so that mankind stands firm with justice - 57:25), this duty has been considered binding on all human beings. Similarly, by saying: وَلَوْ عَلَىٰ أَنفُسِكُمْ (even though against yourselves...), instruction has been given that justice is not something to be demanded from others only, instead, it should also be exacted from one's own self. It means that one should say nothing against what is true and just, even when one has to declare something against one's own self, even if such an action is likely to bring loss upon one's person, because this loss is insignificant, tiny and transitory. On the contrary, should someone elect to placate his self by flat lies, then he has bought for himself the severe punishment of the Day of Retribution.
 
 ## Personal Reflections
+
+

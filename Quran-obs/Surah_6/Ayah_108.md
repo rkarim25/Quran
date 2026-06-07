@@ -111,15 +111,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 108, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The first of the present verses has been revealed concerning a particular event and provides guidance in a matter of principle, that is, what you are not permitted to do yourself, for that you cannot become the cause or channel either - both shall remain equally impermissible.
 
-Thereupon, came the Qur'anic injunction through which Muslims were prohibited from making any insulting statement against the false objects worshipped by disbelievers. Particularly worth noticing in this verse is that, just a verse earlier (106-107), the address was to the Holy Prophet ﷺ ، himself. Examples are: اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِن رَّ‌بِّكَ (Follow what has been revealed to you from your Lord) and: أَعْرِ‌ضْ عَنِ الْمُشْرِ‌كِين (and turn away from those who associate partners with Allah) and: مَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا (And We have not made you to stand guard over them) and: مَا أَنتَ عَلَيْهِم بِوَكِيلٍ (and you are not entrusted with their affairs). In all these grammatical forms, the Holy Prophet ﷺ was the addressee who was being asked to do or not to do something.
+Thereupon, came the Qur'anic injunction through which Muslims were prohibited from making any insulting statement against the false objects worshipped by disbelievers. Particularly worth noticing in this verse is that, just a verse earlier (106-107), the address was to the Holy Prophet ﷺ ، himself. Examples are: اتَّبِعْ مَا أُوحِيَ إِلَيْكَ مِن رَّ‌بِّكَ (Follow what has been revealed to you from your Lord) and: أَعْرِ‌ضْ عَنِ الْمُشْرِ‌كِين (and turn away from those who associate partners with Allah) and: مَا جَعَلْنَاكَ عَلَيْهِمْ حَفِيظًا (And We have not made you to stand guard over them) and: مَا أَنتَ عَلَيْهِم بِوَكِيلٍ (and you are not entrusted with their affairs). In all these grammatical forms, the Holy Prophet ﷺ was the addressee who was being asked to do or not to do something. After that, the form of address was changed in the present verse. It was turned away from the Holy Prophet ﷺ and was turned to Muslims in general. Said there was: لَا تَسُبُّوا (la tasubbu). The hint given thereby is that the Holy Prophet ﷺ who had never used abusive speech against anyone to start with, could not be directly addressed with the words of prohibition for that could make him disheartened. Therefore, the address was made general - and all Sahabah ؓ too started taking precaution in this matter. (As in Al-Bahr Al-Muhit)
 
 ## Tafsir Summary
 
@@ -244,3 +238,5 @@ There are occasions when things permissible, even those commendable, are abandon
 In conclusion, the question as refined and resolved is: If, by doing what is included under Islamic objectives, some people fall a victim to misunderstanding or misdeed, such acts would never be abandoned. Of course, acts which are not included under Islamic objectives - and leaving them off does not compromise or kill any religious objective - then, such acts will be abandoned because of the apprehension that others might fall into misunderstanding or misdeed.
 
 ## Personal Reflections
+
+

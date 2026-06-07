@@ -12,18 +12,6 @@ word_by_word:
     transliteration: ṣub'ḥan
 ---
 
-## Context
-
-To understand **The Courser** (Al-'Adiyat) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Adiyat is a **Makkah** surah—revealed as the 14th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Whether this is a Makki or a Madani Surah is disputed. Hadrat Abdullah bin Masud, Jabir, Hasan Basri, Ikrimah, and Ata say that it is Makki. Hadrat Anas bin Malik, and Qatadah say that it is Madani; and from Hadrat Ibn Abbas two views have been reported, first that it is a Makki Surah, and second that it is Madani. But the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 100:5] فَوَسَطْنَ بِهِ جَمْعًا (then enter, at the same time, into the centre of the [ opposing ] host) In other words, they penetrate into the centre of the enemy forces without the least degree of fear.
@@ -125,3 +113,5 @@ Verse [ 100:5] فَوَسَطْنَ بِهِ جَمْعًا (then enter, at the 
 The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who counts the calamities that befall him, and forgets Allah's favours. Abu Bakr Wasiti said that kanud is the one who spends the bounties of Allah for sinful purposes. Tirmidhi said that kanud is the one who looks at the bounty, and not at the Bounteous Lord. In short, all these interpretations lead to the sense of 'ungratefulness to favours and bounties' and hence the expression kanud means 'ungrateful'.
 
 ## Personal Reflections
+
+

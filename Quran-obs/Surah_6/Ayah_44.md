@@ -88,18 +88,6 @@ word_by_word:
     transliteration: mub'lisūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 44, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Tell me if Allah's torment comes upon you, or the Hour comes upon you, would you then call upon any one other than Allah? As for the statement: فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ (We opened for them doors of everything) appearing in the third verse (44), it warns human beings at large that no one should be deceived by seeing the affluence of persons or groups and hasten to the conclusion that these were the people on the correct path and that their life was a model of success.
@@ -189,3 +177,5 @@ Following a narration from Sayyidna ` Ubadah ibn Al-Samit, leading commentator I
 When Allah Ta’ ala wills to have a nation survive and grow, He creates in them two qualities: (1) moderation in everything they do, and (2) modesty and chastity, that is, abstinence from indulging in what is not right. And when Allah Ta` ala wills to destroy a nation, He opens for them the doors of breach of faith (Khiyanah), that is, they appear to be successful in the world despite their breaches of faith and wrong doings.
 
 ## Personal Reflections
+
+

@@ -76,18 +76,6 @@ word_by_word:
     transliteration: mus'taqīmin
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they said: "Why is not a sign sent down to him from his Lord?" Say: "Allah is certainly able to send down a sign, but most of them know not. The sixth verse (38): وَمَا مِن دَابَّةٍ (there is no creature moving …) tells us that, on the day of Qiyamah, animals will also be given life along with human beings.
@@ -193,3 +181,5 @@ Maximum Regard for the Rights of Allah's Creation
 Everyone knows that animals have not been obligated to observe the percepts of any Shari` ah or code of laws. Only human beings and Jinns have been so obligated. And it is obvious that the jurisdiction of reward and punishment does not apply to the non-obligated. Therefore, ` Ulama' have said that the retaliation against the behaviour of animals on the day of Resurrection will not be because of their being obligated, but it will be because of the Lord's utmost regard for equity and justice - based on which the cruelty of one living creature against' the other living creature will be recompensed, with no reward or punishment to follow for the rest of their behaviour. This tells us that the matter of mutual rights, and their infringements, pertaining to the creation of Allah is so serious that even non-obligated animals have not been left as exempted from it. But, it is regrettable that there are even many religiously-observing people who would act negligently about it.
 
 ## Personal Reflections
+
+

@@ -84,18 +84,6 @@ word_by_word:
     transliteration: ḍalālin
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We sent Musa with Our Ayat, and a manifest authority (23)To Fir'awn, Haman and Qarun, but they called (him): "A sorcerer, a liar! Frequent references were made earlier in the text to the warnings given to deniers of pure monotheism and prophethood which brought more opposition and hostility from disbelievers.
@@ -197,3 +185,5 @@ The name of this believing member of the House of the Pharaoh has been given as 
 In a Hadith, the Holy Prophet ﷺ said, 'Of some صِّدِّيقِين (siddiqin: the truthful ones), there is Habib najjar (carpenter) whose incident appears in Surah Ya Sin; the other is the believer from the House of Pharaoh; the third, Abu Bakr (Sayyidna Abu Bakr as۔ ؓ ), and he is the foremost among them.' (Qurtubi)
 
 ## Personal Reflections
+
+

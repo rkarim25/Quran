@@ -132,13 +132,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 83, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two Sahihs. When 'Umar was informed that the Messenger of Allah ﷺ divorced his wives, he came from his house, entered the Masjid and found the people talking about this news. He could not wait and went to the Prophet ﷺ to ask him about what had truly happened, asking him, "Have you divorced your wives?" The Prophet ﷺ said, "No." 'Umar said, "I said, Allahu Akbar..." and mentioned the rest of the Hadith. In the narration that Muslim collected, 'Umar said, "I asked, 'Have you divorced them?' He said, 'No.' So, I stood by the door of the Masjid and shouted with the loudest voice, 'The Messenger of Allah ﷺ did not divorce his wives.' Then, this Ayah was revealed,
 
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two Sahihs. When 'Umar was informed that the Messenger of Allah ﷺ divorced his wives, he came from his house, entered the Masjid and found the people talking about this news. He could not wait and went to the Prophet ﷺ to ask him about what had truly happened, asking him, "Have you divorced your wives?" The Prophet ﷺ said, "No." 'Umar said, "I said, Allahu Akbar..." and mentioned the rest of the Hadith.
+According to Sayyidna Ibn ` Abbas, Dahhak and Abu Mu'adh ؓ the verse: وَإِذَا جَاءَهُمْ أَمْرٌ‌ مِّنَ الْأَمْنِ أَوِ الْخَوْفِ أَذَاعُوا بِهِ (And when there comes to them a matter about peace or fear, they spread it) was revealed about the hypocrites; and, according to Sayyidna Hasan and many others, this verse was revealed about weak Muslims (Ruh a1-Ma` ani).
 
 ## Tafsir Summary
 
@@ -263,3 +259,5 @@ The outcome of Ijtihad
 The legal ruling extracted by Muslim jurists (فُقَھَا) from the texts through Istinbat (and Ijtihad) cannot categorically be declared as being the absolute truth in the sight of Allah. Instead of that, the probability always exists that this ruling might as well turn out to be not true. But, of course, what one gains out of it is positive, overwhelming and weightier opinion about its being true and correct, something which is to act upon. (al-ahkam al-Qur'in by al-Jassas and Tafsir Kabir)
 
 ## Personal Reflections
+
+

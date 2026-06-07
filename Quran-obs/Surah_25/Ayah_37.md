@@ -59,18 +59,6 @@ word_by_word:
     transliteration: alīman
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We gave Musa the Scripture, and placed his brother Harun with him as a helper (35)And We said: "Go you both to the people who have denied Our Ayat." Then We destroyed them with utter destruction (36)And Nuh's people, when they denied the Messengers, We drowned them, and We made them as a sign for mankind. In the above verses it is mentioned that it had been the common practice of the people through the ages to rebuff the prophets and the message they had brought.
@@ -170,3 +158,5 @@ It is stated about the people of Sayyidna Nuh (علیہ السلام) that they 
 أَصْحَابَ الرَّ‌سِّ (People of Rass - 25:38). In Arabic رَس (Rass) means unlined well. Neither Qur'an nor any authentic tradition describes these people in any detail. Whatever information is available about them is through Israelite traditions, which differ from one another. It is more likely that the remaining people of Thamud had settled down near a well. It is not mentioned in the Qur'an or any tradition as to how they were tormented. (Bayan u1-Qur'an)
 
 ## Personal Reflections
+
+

@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 81, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Verse 81: وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ (And say, "Truth has come and false-hood has vanished" ) was revealed after Hijrah about the conquest of Makkah. Sayyidna Ibn Masud ؓ says that on the day Makkah was conquered, the Holy Prophet ﷺ entered Makkah. At that time, there were three hundred and sixty idols standing around the Baytullah. Some ` Ulama' report a reason for this particular number. They say that the Mushriks of Makkah had a separate idol for each day of the year that they used to worship on the given day. (Qurtubi) When the Holy Prophet ﷺ reached there, this was the verse he had on his blessed lips: وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ (Truth has come and falsehood has vanished) while he went round striking at each single idol on the chest with his stick. (al-Bukhari and Muslim)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -131,3 +123,5 @@ It is necessary to erase customs and symbols of polytheism, disbelief and falseh
 Imam al-Qurtubi said that this verse proves that it is wajib (necessary, obligatory) to erase the idols of Mushriks and all other polytheistic symbols and signs - and all such false instruments that are used in the way of sin and disobedience as well. They too come under the purview of the game injunction. Ibn al-Mundhir said that pictures and sculpted figures made in wood or metal etc. also come under the injunction governing idols. The Holy Prophet ﷺ had torn the curtain having pictures made on it in lines and colors. This, incidentally, tells us about the general injunctions covering common pictures. According to Sahih Hadith, when Sayyidna ` Isa (علیہ السلام) will come towards the later times, he will undo the cross and eliminate the swine. These things prove that it is necessary to demolish and eliminate the instruments of shirk, kufr and batil.
 
 ## Personal Reflections
+
+

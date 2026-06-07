@@ -122,18 +122,6 @@ word_by_word:
     transliteration: yastabshirūna
 ---
 
-## Context
-
-To understand **The Romans** (Ar-Rum) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rum is a **Makkah** surah—revealed as the 84th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 60 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah is determined by the historical event that has been mentioned at the outset. It says: "The Romans have been vanquished in the neighboring land."In those days the Byzantine occupied territories adjacent to Arabia were Jordan, Syria and Palestine, and in these territories the Romans were completely overpowered by the Iranians in 615 A.D.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah is He Who sends the winds, so that they raise clouds and spread them along the sky as He wills, and then break them into fragments until you see rain drops come forth from their midst! فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَ‌مُوا وَكَانَ حَقًّا عَلَيْنَا نَصْرُ‌ الْمُؤْمِنِينَ (Then We took vengeance upon those who were guilty.
@@ -217,3 +205,5 @@ Commentary
 فَانتَقَمْنَا مِنَ الَّذِينَ أَجْرَ‌مُوا وَكَانَ حَقًّا عَلَيْنَا نَصْرُ‌ الْمُؤْمِنِينَ (Then We took vengeance upon those who were guilty. And it was due on Us to help the believers. -30:47). This verse tells us that Allah Ta’ ala has taken it upon Himself to help the believers. On the face of this statement, one would have expected that Muslims would never be defeated against the infidels. But on many occasions, results have been exactly opposite. Answer to this confusion is at hand in this very verse, that by the word 'believers' those believers are intended who fight with infidels purely for the sake of Allah. Allah Ta’ ala takes revenge of only such believers from the criminals and helps them overpower their adversaries. Wherever the position is different, it is due to some sort of slip on the part of the believers, as Qur'an itself has quoted about the battle of Uhud: إِنَّمَا اسْتَزَلَّهُمُ الشَّيْطَانُ بِبَعْضِ مَا كَسَبُوا (Shaitan had but made them slip for some of their deeds - 3:155). Even in such a situation, Allah Ta’ ala graces them with victory and upper hand, once they realize their fault, as it happened in the battle of Uhud. As for such people who are Muslims only by name and are habitual defiant and negligent of the teachings of Islam, and are not penitent even when the infidels gain upper hand, they are for sure not included in this promise of Allah Ta’ ala, and do not qualify for His help. Nonetheless, Allah Ta’ ala provides help by His grace on many occasions without any one deserving it. Therefore, it is always beneficial to beg for His mercy and hope for His help.
 
 ## Personal Reflections
+
+

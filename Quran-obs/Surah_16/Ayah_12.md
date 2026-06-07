@@ -68,18 +68,6 @@ word_by_word:
     transliteration: yaʿqilūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He has subjected the night and the day for you, and the sun and the moon; and the stars are subjected by His command. Before we move to the next verse, let us clarify the first sentence of verse 12: سَخَّرَ‌ لَكُمُ اللَّيْلَ وَالنَّهَارَ‌ (And He has subjugated for you the day and the night).
@@ -113,3 +101,5 @@ Allah mentions the mighty signs and immense blessings to be found in His subject
 Before we move to the next verse, let us clarify the first sentence of verse 12: سَخَّرَ‌ لَكُمُ اللَّيْلَ وَالنَّهَارَ‌ (And He has subjugated for you the day and the night). Here, 'subjugating the day and the night' means that Allah made them subservient to His command in order that they can serve man, pursuant to which the night brings comfort to him and the day smooths out the avenues of his work. 'Subjugating them' never means that the day and the night start alternating under human command.
 
 ## Personal Reflections
+
+

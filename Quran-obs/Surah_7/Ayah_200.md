@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 200, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Show forgiveness) was only revealed about the peoples [bad] character."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -177,3 +169,5 @@ In these three verses, instruction has been given to forgo and forgive people wh
 There is a treatment for it. When a person sees his anger getting out of control, he should know that Shaitan is winning against his better self. He should then turn to Allah Ta` ala and seek refuge with Him. This makes noble traits of character flourish at their best. Therefore, additional stress has been laid on the need to seek the protection of Allah against the Shaitan in the third (201) and fourth (202) verses as well.
 
 ## Personal Reflections
+
+

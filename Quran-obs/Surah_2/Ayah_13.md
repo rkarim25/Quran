@@ -84,18 +84,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when it is said to them: Believe as the people believe," They say: "Shall we believe as the fools have believed?" Verily, they are the fools, but they do not know (13) Allah said that if the hypocrites are told, This verse also places before the hypocrites a criterion of true faith (Iman ایمان) آمِنُوا كَمَا آمَنَ النَّاسُ :"Believe as people have believed".
@@ -139,3 +127,5 @@ Injunctions and related considerations
 (1) It has sometimes been debated as to whether the distinction between Kufr کفر (infidelity or disbelief) and Nifaq نفاق (hypocrisy) still holds good even after the days of the Holy Prophet ﷺ The correct position with regard to this question is this. At that time, there were two ways of identifying a hypocrite and declaring him to be one -either Allah Himself informed the Holy Prophet ﷺ through revelation that such and such a man was not a Muslim at heart but a hypocrite, or a man through some word or deed overtly repugnant to the Islamic creed or practice showed himself up as a hypocrite, thus providing a clear evidence against himself. Divine revelation having ceased with the departure of the Holy Prophet ﷺ from this world, the first way of identifying a hypocrite is no longer available, but the second way is still valid. That is to say, if a man is found, on certain evidence, to be guilty, in word or deed, of rejecting or opposing or distorting or holding in scorn the basic doctrines of Islam undeniably established by the Holy Qur'an, the Hadith and ` ijma اجمع (consensus), he would be regarded as a Munafiq منافق (hypocrite) in spite of his claim to be a true Muslim. The Holy Qur'an Ives such a hypocrite the name of a mulhid مُلحد or heretic- لَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا : "Those who distort Our verses", 41:40), and the Hadith calls them a zindiq ماکهن . One must also add that since the kufr کفر (infidelity) of such a man has been proved by clear and definite evidence, the Shari'ah will not put him in a separate category, but deal with him as it would deal with any other kafir کافر (infidel). That is why the authentic scholars are unanimous in concluding that after the departure of the Holy Prophet ﷺ the question of hypocrites ceased to be a relevant one - now anyone who is not a genuine Muslim will be regarded as kafir کافر . The famous author, Al-` Aini, in his commentary on Al-Bukhari, reports from Imam Malik that after the days of the Holy Prophet ﷺ this is the only available means of identifying 'hypocrisy', and that a man who carries this mark could be called a hypocrite.
 
 ## Personal Reflections
+
+

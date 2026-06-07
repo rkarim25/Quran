@@ -213,15 +213,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 93, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 'Ikrimah and Qatadah said that this Ayah was revealed about Musaylimah Al-Kadhdhab.
 
-After having concluded the argument concerning Books revealed by Allah Ta` ala against deniers, it was said in the third verse (92): وَهَـٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَ‌كٌ مُّصَدِّقُ الَّذِي بَيْنَ يَدَيْهِ وَلِتُنذِرَ‌ أُمَّ الْقُرَ‌ىٰ وَمَنْ حَوْلَهَا (And this is a blessed Book We have sent down confirming what has been before it, so that you may warn the town which is the mother of all towns, and those around it), that is, as it is that they too accept that the Torah was sent down by Allah Ta` ala, so it is that We have sent down this Qur'an too, and sufficient for them is the proof of its veracity that the Qur'an confirms what has been revealed in the Torah and the Injil. And that it was revealed after the Torah and Injil is because these two Books were sent for the Bani Isra'il while for their other branch of Bani Isma'il, known as Arabs living in Umm al-Qura, that is, Makkah and its environs, there has been no prophet or book of guidance until that time.
+After having concluded the argument concerning Books revealed by Allah Ta` ala against deniers, it was said in the third verse (92): وَهَـٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَ‌كٌ مُّصَدِّقُ الَّذِي بَيْنَ يَدَيْهِ وَلِتُنذِرَ‌ أُمَّ الْقُرَ‌ىٰ وَمَنْ حَوْلَهَا (And this is a blessed Book We have sent down confirming what has been before it, so that you may warn the town which is the mother of all towns, and those around it), that is, as it is that they too accept that the Torah was sent down by Allah Ta` ala, so it is that We have sent down this Qur'an too, and sufficient for them is the proof of its veracity that the Qur'an confirms what has been revealed in the Torah and the Injil. And that it was revealed after the Torah and Injil is because these two Books were sent for the Bani Isra'il while for their other branch of Bani Isma'il, known as Arabs living in Umm al-Qura, that is, Makkah and its environs, there has been no prophet or book of guidance until that time. Now this Qur'an has been sent for them particularly, and for the whole world generally. Makkah al-Mu'azzamah has been called Umm al-Qura by the Holy Qur'an. It means the root and foundation of all towns and habitations. The reason is that, according to historical nar-ratives, the land mass of the earth first began appearing from here. In addition to that, this is the Qiblah, and the central attraction of all acts of ` Ibadah for the whole world. (Mazhari) Said with: أُمَّ الْقُرَ‌ىٰ (Umm al-Qura) is: وَمَنْ حَوْلَهَا (and those around it). It means all environs of Makkah, which includes the whole world East, West, North and South of Makkah.
 
 ## Tafsir Summary
 
@@ -396,3 +390,5 @@ A little thought would reveal that the lack of concern for the 'Akhirah is the m
 O Allah, make all our concerns a single concern - the concern for 'Akhirah.
 
 ## Personal Reflections
+
+

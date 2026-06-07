@@ -80,18 +80,6 @@ word_by_word:
     transliteration: l-ṣādiqūna
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 8, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Bukhari and Muslim contain a tradition from Hadrat Sa'id bin Jubair to the effect "When I asked Hadrat Abdullah bin Abbas about Surah Al-Hashr, he replied that it was sent down concerning the battle against the Bani an-Nadir just as Surah Al-Anfal was sent down concerning the Battle of Badr.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (And there is also a share in this booty) for the poor emigrants, who were expelled from their homes and their property, seeking bounties from Allah and (His) good pleasure, and helping Allah and His Messenger. The Merits of al-Muhajirin [ The Emigrants ] ([ And fai' is especially ] for the poor emigrants who were expelled from their homes and properties, while they were seeking the grace of Allah and (His) pleasure, and were helping Allah and His Messenger.
@@ -261,3 +249,5 @@ The third characteristic of the emigrants is described thus: وَيَنصُرُ�
 The fourth characteristic of the emigrants is described thus: أُولَـٰئِكَ هُمُ الصَّادِقُونَ (... They are the truthful...59:8). That is, such people are sincerely true in words and deeds. The covenant they made with Allah and His Messenger by reciting the kalimah, they duly fulfilled it and proved themselves to be true about it. This verse candidly testifies to the truthfulness of all emigrant Companions. Anyone calling any of them a 'liar' cannot be a Muslim, because he is rejecting this verse. God forbid! Rawafid call these Companions 'hypocrites'. This is a clear rejection of the verse. The Messenger of Allah ﷺ held the emigrant Companions ؓ in such high esteem that when he prayed to Allah, he would supplicate through their wasilah. [ as transmitted by Al-Baghawi and Mazhari ].
 
 ## Personal Reflections
+
+

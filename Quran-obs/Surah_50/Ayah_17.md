@@ -38,18 +38,6 @@ word_by_word:
     transliteration: qaʿīdun
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We have created man, and We know what his self whispers to him. The Two Recording Angels with every Man إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ (when the two receiving angels receive (every human act to record it - 50:17) In the phrase idh yatalaqq al-mutalaqqiyani, (when the two receiving angels receive) the verb yatalaqqa is aorist from the infinitive talaqqi which denotes to take, to accept, to receive, to learn as in the verse فَتَلَقَّىٰ آدَمُ مِن رَّ‌بِّهِ كَلِمَاتٍ " Thereafter 'Adam received a few words from his Lord (2:37) ".
@@ -209,3 +197,5 @@ Then Hasan Basri رحمۃ اللہ علیہ said:
 Obviously the book or the ledger of deeds would not be made up of mundane paper, so that there should be any difficulty in understanding how it will go with him in the grave and remain there with him until the Day of Resurrection. It is a transcendental reality, the actual nature of which is known only to Allah. Therefore, it should not be surprising if the book is put as a garland round the neck and remains there until the Day of Resurrection.
 
 ## Personal Reflections
+
+

@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **He Frowned** ('Abasa) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah 'Abasa is a **Makkah** surah—revealed as the 24th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 42 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one of the great leaders of the idolators. So the Prophet ﷺ turned away from him (Ibn Umm Maktum) and faced the other man and said, "Do you think that there is a problem with what I am saying?" The man said, "No!" So it was about this that
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -187,3 +179,5 @@ In other words: 'Those who turn away from you and your religion, you are pursuin
 Thereafter, in verses 13 and 14, Allah Almighty has described the high status of the Holy Qur’ an, thus:
 
 ## Personal Reflections
+
+

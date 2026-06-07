@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 174, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 After a refutation of beliefs held by Christians, specially those which ascribe Godhood to Jesus, alongwith the promise of reward for those who acknowledge the truth and punishment for those who insist on denying, the text turns to a universal address praising the blessed status and mission of His Messenger who taught what was the truth revealed to him, who conveyed the truth of the Qur'an admirably, and also those who believed in and testified to the truth of the Book and the Messenger.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -105,3 +97,5 @@ As for the word, وَأَنزَلْنَا إِلَيْكُمْ نُورً‌ا �
 And if 'Nur' (light) is taken as referring to the Holy Prophet ﷺ and 'Kitab' (the Book) to the Holy Qur'an - that will also be correct (Ruh al-Ma` ani). But, this does not go on to prove that the Holy Prophet ﷺ was Nur or light in the literal sense, therefore, it is not against his being physically human.
 
 ## Personal Reflections
+
+

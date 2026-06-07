@@ -12,18 +12,6 @@ word_by_word:
     transliteration: gharqan
 ---
 
-## Context
-
-To understand **Those who drag forth** (An-Nazi'at) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nazi'at is a **Makkah** surah—revealed as the 81st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 46 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Hadrat Abdullah bin Abbas, this Surah was sent down after Surah An-Naba. Its subject matter also testifies that it belongs to the earliest period at Makkah. Theme and Subject Matter Its theme is affirmation of Resurrection and the life hereafter; It also warns of the consequences of belying the Messenger of God. The Surah opens with oaths sworn by the angels who take the soul at deaths and those who hasten to carryout Allah's Commands, and those who conduct the affairs of the universe according to Divine Will, to assure that the Resurrection will certainly come to pass and the second life after death will certainly take place.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. وَالنَّازِعَاتِ غَرْ‌قًا (I swear by those [ angels ] who pull out [ the souls of the infidels ] vigorously ...79:1).
@@ -191,3 +179,5 @@ The first quality of the angels:
 This refers to the angels of punishment who draw the souls of the infidels vigorously and harshly. The words 'vigorously' refer to spiritual pain. The humans around the dying person may not be sensitive to the pain. Often it is noticed that the soul of an infidel apparently slips out easily, but this ease is perceived by humans around the dying man. The pain is felt by the soul of the dying person. Who can perceive it? We are aware of it only because Allah has informed us about it in this verse.
 
 ## Personal Reflections
+
+

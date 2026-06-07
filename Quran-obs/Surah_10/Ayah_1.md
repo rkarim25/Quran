@@ -26,15 +26,9 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Surah Yunus is among the Makki Surahs. Three of its verses revealed after the Hijrah to Madinah have been called Madani.
 
-In this Surah too, the proof of the basic objectives of Qur'an, and Islam, such as the Oneness of Allah, the mission of His Messenger and the inevitability of the Hereafter, has been provided. Since it has been presented in the background of the universe of our experience and observation, it becomes easy to comprehend. Along with it, some lesson-oriented historical accounts and stories have been introduced to warn people who do not pay heed to the open signs of Allah Ta` ala. As a corollary, the text refutes shirk whereby heedless people start ascribing partners to the pristine divinity of Allah - and also answers some related doubts. This is a gist of the subjects taken up in the Surah. A careful look at these will help us understand the interconnection between the previous Surah, At-Taubah, and the present one.
+In this Surah too, the proof of the basic objectives of Qur'an, and Islam, such as the Oneness of Allah, the mission of His Messenger and the inevitability of the Hereafter, has been provided. Since it has been presented in the background of the universe of our experience and observation, it becomes easy to comprehend. Along with it, some lesson-oriented historical accounts and stories have been introduced to warn people who do not pay heed to the open signs of Allah Ta` ala. As a corollary, the text refutes shirk whereby heedless people start ascribing partners to the pristine divinity of Allah - and also answers some related doubts. This is a gist of the subjects taken up in the Surah. A careful look at these will help us understand the interconnection between the previous Surah, At-Taubah, and the present one. Surah At-Taubah was making a strong statement when it opted for breaking through the powerful cordon of kufr and shirk to achieve the same objectives through material means by waging Jihad against deniers and disbelievers. And since the present Surah was revealed in Makkah before the injunctions of Jihad came, these objectives have been explained and proved only by arguments and evidences very much in accordance with the law of the Makkan period.
 
 ## Tafsir Summary
 
@@ -119,3 +113,5 @@ The Surah opens with the letters: Alif, Lam, Ra الر‌). Known as ` isolated 
 In the first verse: تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ (These are verses of the Wise Book), the word: تِلکَ (tilka: these) points out to the 'ay at of this Surah which follow. 'The Book' refers to the Qur'an. To describe its attribute, the Qur'an has used the word: حَکِیم (hakim) at this place. It means the Book of Wisdom.
 
 ## Personal Reflections
+
+

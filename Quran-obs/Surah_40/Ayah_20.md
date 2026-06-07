@@ -66,18 +66,6 @@ word_by_word:
     transliteration: l-baṣīru
 ---
 
-## Context
-
-To understand **The Forgiver** (Ghafir) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ghafir is a **Makkah** surah—revealed as the 60th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 85 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Ibn 'Abbas and Jabir bin Zaid, this Surah was sent down consecutively after Surah Az-Zumar, and its present position in the order of the Surahs in the Quran is the same as its chronological order. Background of Revelation There are clear indications in the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And warn them of the Day that is drawing near, when the hearts will be at the throats Kazimin. In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust.
@@ -175,3 +163,5 @@ The Day that is drawing near' is one of the names of the Day of Judgement. It is
 In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُنِ (He knows the treachery of the eyes), in other words, eyes that betray the trust. It means the action of a person who would, secretly and surreptitiously, cast a glance over something haram and impermissible for him or her, for example, casts a glance at a non-mahram person with sexual desire, and takes it away in the event someone was around, or casts a glance in a manner that is not noticed by others. All these things are open before Allah Ta’ ala.
 
 ## Personal Reflections
+
+

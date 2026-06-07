@@ -36,18 +36,6 @@ word_by_word:
     transliteration: mu'minīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 190, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "You are only one of those bewitched! so they were seized by the torment of the Day of Canopy.
@@ -147,3 +135,5 @@ so they were seized by the torment of the Day of Canopy. - 26:189
 عَذَابُ يَوْمِ الظُّلَّةِ (the Torment of the Canopy), mentioned in this verse refers to an incident, which is this: Allah Ta’ ala sent down such an extreme heat on a people that they could not find comfort either inside the houses or outside. Then He sent down a mass of dark cloud over a nearby forest, under which there was a cool breeze. As the entire people were distressed due to excessive heat, they ran to take shelter under the cloud. When all of them assembled under the cover of the cloud, it rained fire instead of water. Thus the whole nation was burnt to ashes. (Ruh al-Ma’ ani)
 
 ## Personal Reflections
+
+

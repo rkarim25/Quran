@@ -46,18 +46,6 @@ word_by_word:
     transliteration: l-ʿalīmu
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed if you ask them: "Who has created the heavens and the earth?" They will surely say: "The All-Mighty, the All-Knower created them. A Preacher must not give up his preaching due to disappointment أَفَنَضْرِ‌بُ عَنكُمُ الذِّكْرَ‌ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِ‌فِينَ (Shall we remove the advice away from you because you are a transgressing people?
@@ -145,3 +133,5 @@ A Preacher must not give up his preaching due to disappointment
 أَفَنَضْرِ‌بُ عَنكُمُ الذِّكْرَ‌ صَفْحًا أَن كُنتُمْ قَوْمًا مُّسْرِ‌فِينَ (Shall we remove the advice away from you because you are a transgressing people? - 43:5) The meaning is that We will not give up advising you through the Qur'an, no matter how rebellious and disobedient you may become. This tells us that the person who is engaged in preaching and inviting others towards Islam should carry the message to everybody; he must not give up preaching to some people or any group simply because they are non-believers, highly irreligious, sinners and transgressors.
 
 ## Personal Reflections
+
+

@@ -69,13 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-The very first verses on the subject of hijab for women are the ones which were revealed in Surah Ahzab at the time of marriage of the mother of the believers Sayyidah Zainab bint Jahash ؓ with the Holy Prophet ﷺ . Some have given the date of revelation of these verses as 3rd Hijra while others say it was 5th Hijra. Tafsir Ibn Kathir and Nail Al-Autar have given preference to the latter date, while Ruh ul-Mani has reported on the authority of Sayyidna Anas ؓ that this marriage was solemnized in Dhulqa'dah 5th Hijra. But it is an agreed position that the first verse on Hijab was revealed on this occasion. As for the above referred verses of Surah an-Nur, they were revealed at the time of incident of Ifk, which had happened on return from the battle of Bani Mustaliq or Muraisi`. This battle had taken place in the 6th Hijra. Hence, it is clear from the revelation point of view that Surah An-Nur's verses on hijab were revealed later, and Surah Ahzab's four verses were revealed earlier, and that the practice on the injunction of hijab had started when the verses of Surah Alhzab were revealed.
+The very first verses on the subject of hijab for women are the ones which were revealed in Surah Ahzab at the time of marriage of the mother of the believers Sayyidah Zainab bint Jahash ؓ with the Holy Prophet ﷺ . Some have given the date of revelation of these verses as 3rd Hijra while others say it was 5th Hijra. Tafsir Ibn Kathir and Nail Al-Autar have given preference to the latter date, while Ruh ul-Mani has reported on the authority of Sayyidna Anas ؓ that this marriage was solemnized in Dhulqa'dah 5th Hijra. But it is an agreed position that the first verse on Hijab was revealed on this occasion. As for the above referred verses of Surah an-Nur, they were revealed at the time of incident of Ifk, which had happened on return from the battle of Bani Mustaliq or Muraisi`. This battle had taken place in the 6th Hijra. Hence, it is clear from the revelation point of view that Surah An-Nur's verses on hijab were revealed later, and Surah Ahzab's four verses were revealed earlier, and that the practice on the injunction of hijab had started when the verses of Surah Alhzab were revealed. The subject of hijab will be discussed Insh’ Allah in detail under Surah Ahzab. Here the explanation will be restricted to only those verses which appear in Surah an-Nur.
 
 ## Tafsir Summary
 
@@ -170,3 +164,5 @@ To stare intentionally at boys having no beard also falls within this ruling
 Ibn Kathir has reported that many elders of the Ummah used to forbid forcefully staring at young boys (having no beard), and many scholars have declared it as forbidden (Perhaps it is in a situation when one looks with bad intention and passionate desire. God knows best)
 
 ## Personal Reflections
+
+

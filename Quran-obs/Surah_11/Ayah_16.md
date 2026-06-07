@@ -72,15 +72,7 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Anas bin Malik and Al-Hasan both said, "This verse was revealed concerning the Jews and the Christians." Mujahid and others said, "This verse was revealed concerning the people who perform deeds to be seen." Qatadah said, "Whoever's concern, intention and goal is this worldly life, then Allah will reward him for his good deeds in this life. Then, when reaches the next life, he will not have any good deeds that will be rewarded. However, concerning the believer, he will be rewarded for his good deeds in this life and in the Hereafter as well." Allah, the Exalted, says,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -111,3 +103,5 @@ The second verse (17) presents the high ground the Holy Prophet ﷺ and the pure
 In the first sentence, it was asked: Can a denier of the Qur'an be equal to the one who adheres to the Qur'an that has come from his Lord? And along with it there is a witness present within it, while a witness earlier to this is the Book of Musa A.L that was sent to be followed and to be mercy for people?
 
 ## Personal Reflections
+
+

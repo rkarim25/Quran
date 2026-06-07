@@ -80,18 +80,6 @@ word_by_word:
     transliteration: bālahum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name The Surah derives its name from the sentence wa amanu bi-ma nuzzila ala Muhammad-in of verse 2 , thereby implying that it is the Surah in which the holy name of Muhammad (upon wham be Allah's peace and blessings) has occurred.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Although the previous sentence has referred to faith and righteous deeds which includes faith in the messenger-ship of the Holy Prophet Muhammad ﷺ and the revelation that was sent down to him, this sentence specifies explicitly the fact that the actual basis of faith is to embrace all the teachings of the Last Holy Prophet ﷺ .
@@ -167,3 +155,5 @@ Although the previous sentence has referred to faith and righteous deeds which i
 The word " بال (bal) in وَأَصْلَحَ بَالَهُمْ "…and will set aright their state of affairs..(47:2) " is sometimes used in the sense of state of affairs and condition, and at other times in the sense of heart. Here it could refer to both the senses. In the first sense, it means that Allah has set all their affairs aright, that is, He has set aright all their matters of this world and of the Hereafter. In the second sense, it would mean that Allah has improved their hearts. This also has the same implication, that is, corrected all their works, because correction of works is a logical result of improvement of heart, both being necessary to each other.
 
 ## Personal Reflections
+
+

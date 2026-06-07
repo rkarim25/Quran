@@ -46,18 +46,6 @@ word_by_word:
     transliteration: khālidūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 39, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-30-39 In this portion invitation to the Guidance has particularly been extended to the children of Israel and their past and present attitude has been criticized to show that the cause of their degradation was their deviation from the Guidance.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We said: "Get down all of you from this place (the Paradise), then whenever there comes to you Hudan (guidance) from Me, and whoever follows My guidance, there shall be no fear on them, nor shall they grieve (38)But those who disbelieve and belie Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) ـ such are the dwellers of the Fire. Descension of Adam was not a punishment That is why the command for Adam (علیہ السلام) to go down to the earth was not withdrawn even when he had been pardoned: only the mode was now altered.
@@ -115,3 +103,5 @@ Nor does this verse imply that prophets and saints should not feel the instincti
 But it was only an instinctive and physical fear, and the incident anyhow belongs to the early days of his prophethood, for when Allah said: لَا تَخَفْ : 'Do not be afraid', the fear disappeared altogether. We may explain the incident in another way also. His fear did not arise as it does in the case of ordinary men, from the apprehension of some harm or hurt from the dragon, but from the likelihood that the extraordinary event might lead the Israelites into misguidance. So, this fear was not worldly, but other-worldly.
 
 ## Personal Reflections
+
+

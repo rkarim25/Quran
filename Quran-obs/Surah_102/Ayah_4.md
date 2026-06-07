@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Rivalry in world increase** (At-Takathur) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takathur is a **Makkah** surah—revealed as the 16th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ayah was revealed which says;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -203,3 +195,5 @@ Imam Bukhari records from Sayyidna Anas ؓ عنہ that the Messenger of Allah �
 Sayyidna 'Ubayy Ibn Ka` b ؓ ، referring to the Tradition quoted above, says, "We used to think that this was a part of the Qur'an until the first verse of Surah At-Takathur was revealed." It seems that the Holy Prophet ﷺ recited the verse and interpreted it in his own words. As a result, some of the Companions were under the impression that the Prophetic words were part of the Qur'an. Later on, when the Surah was recited in its entirety, it did not contain the Prophetic words. This made them realize that the Prophetic words were actually of explanatory nature, and not part of the Qur'an.
 
 ## Personal Reflections
+
+

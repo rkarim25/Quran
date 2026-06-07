@@ -40,15 +40,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 238, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad reported that Zayd bin Arqam said, "One used to address his friend about various affairs during the prayer. Then when this Ayah was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -207,3 +199,5 @@ Incidentally, the Qur'anic word, Qanitin قَانِتِينَ meaning obedient o
 It was through this very verse that talking in salah was forbidden. Earlier, talking was permissible. The verse 239 has allowed a special way of offering prayers in the state of 'fear' i.e. the state of war. In such a state, one can offer salah نماز (prayer) while standing, with a condition that he can stand in one place without moving, and can make the gesture of sajdah سجدہ in a lower position than he makes in ruku' رکوع . However, salah cannot be performed while walking. If it is not possible to perform the prayer in the said manner, such as at the time of actual fighting, then, it is permissible to delay the prayer and to offer it later as qada' قضاء .
 
 ## Personal Reflections
+
+

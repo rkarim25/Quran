@@ -46,18 +46,6 @@ word_by_word:
     transliteration: fariyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Then she brought him to her people, carrying him. "Then she came to her people carrying him." - 19:27 These words suggest that when Sayyidah Maryam (علیہا السلام) was comforted by the super-natural indications that Allah Ta` ala will protect her from disgrace, she took the newborn baby with her to her house.
@@ -185,3 +173,5 @@ These words suggest that when Sayyidah Maryam (علیہا السلام) was comf
 شَيْئًا فَرِ‌يًّا (Something grave indeed - 19:27). The word فَرِی in Arabic language means to cut or to split, and is used to describe a task where a great deal of cutting and chopping is involved. However, Abu Hayyan has said that the word فَرِی means anything having preposterous and extraordinary significance, and may be used both in good and in bad sense. In the present context it is used to describe something monstrous, hence translated in the text as 'something grave'. Generally this word is used for things which are known to be bad and corrupt in the extreme.
 
 ## Personal Reflections
+
+

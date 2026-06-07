@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-wārithīna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 89, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Zakariyya, when he cried to his Lord: "O My Lord! Sayyidna Zakariyya (علیہ السلام) wished for a son and heir for which he prayed to Allah.
@@ -109,3 +97,5 @@ Commentary
 Sayyidna Zakariyya (علیہ السلام) wished for a son and heir for which he prayed to Allah. But at the same time he made it clear that Allah is the best heir no matter if he had a son or not وَأَنتَ خَيْرُ‌ الْوَارِ‌ثِينَ. You are the best of inheritors - 21:89). This was the manifestation of the prophetic respect in that the main concern of the prophets should always be toward Allah Ta’ ala, and even if someone else came into focus, their attention should not deviate from the main objective.
 
 ## Personal Reflections
+
+

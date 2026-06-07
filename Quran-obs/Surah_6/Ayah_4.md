@@ -50,18 +50,6 @@ word_by_word:
     transliteration: muʿ'riḍīna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you? The fourth verse carries a complaint against the anti-truth doggedness and obstinacy of the chronically heedless human race by saying: وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَ‌بِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِ‌ضِ…
@@ -111,3 +99,5 @@ The fourth verse carries a complaint against the anti-truth doggedness and obsti
 وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَ‌بِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِ‌ضِينَ ﴿4﴾ that is, despite the many clear proofs and open signs of the Oneness of Allah, the dissenters and rejectionists among human beings have taken to a way of their own, using which, they would turn their faces away from whatever sign is shown to them for their guidance, without ever paying the least attention to it.
 
 ## Personal Reflections
+
+

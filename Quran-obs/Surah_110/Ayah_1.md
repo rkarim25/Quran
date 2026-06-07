@@ -27,17 +27,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Divine Support** (An-Nasr) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nasr is a **Madinah** surah—revealed as the 114th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 According to the consensus of scholars, this Surah was revealed in Madinah. Its other name is Surah At-Tawdi`. The word Tawdi` means 'to bid farewell'. As this Surah indicates the approach of the demise of the Holy Prophet ﷺ ، it bids farewell to him and is thus entitled Surah At-Tawdi'.
 
 It is recorded in Sahih of Muslim on the authority of Sayyidna Ibn ` Abbas ؓ ، that Surah An-Nasr was the last Surah to be revealed. [ Qurtubi ]. This means that this was the last complete Surah that was revealed to the Holy Prophet ﷺ . No complete Surah was revealed after this. Some individual verses reported to have been revealed after this are not in conflict with this statement, because no complete Surah was sent down after the present one. It is like Surah Al-Fatihah which is said to be the first Surah, while a few verses of Surah Al-'Alaq, a few verses of Surah Al-Muddaththir, and a few verses of other Surahs were revealed even before Surah Al-Fatihah, because it means that it was the first Surah to be revealed completely. No complete Surah was revealed before Al-Fatihah.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -158,3 +150,5 @@ Several Prophetic Traditions and statements of the Companions narrate that this 
 It is reported in Muqatil's narration that when this Surah was revealed, the Holy Prophet ﷺ recited it in a gathering of the blessed Companions, among whom were Sayyidna Abu Bakr, ` Umar, Sa'd Ibn Abi Waqqas ؓ . All were happy at the revelation of this Surah, because it contained the glad tidings of the Conquest of Makkah, but Sayyidna ` Abbas ؓ began to weep. The Holy Prophet ﷺ asked him the reason for weeping, and he replied that it covertly conveys the termination of your life and nearness of your death. The Holy Prophet ﷺ confirmed this. Sahih of Bukhari records a similar explanation of this Surah given by Sayyidna Ibn ` Abbas رضی اللہ تعالیٰ عنہما in which there is the addition that when Sayyidna ` Umar رضی اللہ تعالیٰ عنہ heard this, he concurred with him and said: 'I do not know anything about it other than what you [ Ibn ` Abbas ] have said'. [ Transmitted by Tirmidhi who graded it as hasan, Sahih vide Qurtubi ]
 
 ## Personal Reflections
+
+

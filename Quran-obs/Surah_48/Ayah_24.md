@@ -84,18 +84,6 @@ word_by_word:
     transliteration: baṣīran
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah has promised you abundant spoils that you will capture, and He has hastened for you this, and He has restrained the hands of men from you, that it may be a sign for the believers, and that He may guide you to the straight path (20)And other (victories) which are not yet within your power; indeed Allah encompasses them. بِبَطْنِ مَكَّةَ (...in the valley of Makkah...) The Arabic word used here is batn which means 'belly' and in relation to a city, it refers to its center.
@@ -197,3 +185,5 @@ Commentary
 However, in the present context it is used for Hudaibiyah, because of its close proximity to Makkah. This supports the Hanafi view that some parts of Hudaibiyah are included in the حِرِم Haram. The relevant details may be found in our commentary on the verse 2:196.
 
 ## Personal Reflections
+
+

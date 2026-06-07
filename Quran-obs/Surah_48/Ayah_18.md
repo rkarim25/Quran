@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Victory** (Al-Fath) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In any case, this shows that the conquest of Khaibar took place many days after the march to Hudaibiyah. According to consensus of scholarly opinion, Surah Al-Fath was revealed in the course of his return journey from Hudaibiya. However, there is a difference of opinion whether the Surah was revealed in its entirety or some of its verses were revealed later. If the first view is preferred, then the conquest of Khaibar is a prophecy that Muslims will definitely achieve and is described in past perfect tense to denote that it is as certain as an event that has already happened in the past. If the second view is preferred, it is possible that these verses were revealed after the conquest of Khaibar. Allah knows best!
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ Khaibar was conquered in the month of Safar in the 7th year of Hijrah. This is r
 In any case, this shows that the conquest of Khaibar took place many days after the march to Hudaibiyah. According to consensus of scholarly opinion, Surah Al-Fath was revealed in the course of his return journey from Hudaibiya. However, there is a difference of opinion whether the Surah was revealed in its entirety or some of its verses were revealed later. If the first view is preferred, then the conquest of Khaibar is a prophecy that Muslims will definitely achieve and is described in past perfect tense to denote that it is as certain as an event that has already happened in the past. If the second view is preferred, it is possible that these verses were revealed after the conquest of Khaibar. Allah knows best!
 
 ## Personal Reflections
+
+

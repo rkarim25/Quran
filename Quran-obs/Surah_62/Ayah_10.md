@@ -66,18 +66,6 @@ word_by_word:
     transliteration: tuf'liḥūna
 ---
 
-## Context
-
-To understand **The Congregation, Friday** (Al-Jumu'ah) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of the first section ( vv. 1-8 ) is A. H. 7, and probably it was sent down, on the occasion of the conquest of Khaiber or soon after it. Bukhari, Muslim, Tirmidhi, Nasa'i and Ibn Jarir have related on the authority of Hadrat Abu Hurairah that he and other Companions were sitting in the Holy Prophet's assembly when these verses were revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Blessings in Business after Jumu’ ah فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُ‌وا فِي الْأَرْ‌ضِ وَابْتَغُوا مِن فَضْلِ اللَّـهِ (Then once the salah is finished, disperse in the land, and seek the grace of Allah…62:10).
@@ -257,3 +245,5 @@ It is reported from the righteous elders that whoever carries out his commercial
 وَاذْكُرُ‌وا اللَّـهَ كَثِيرً‌ا لَّعَلَّكُمْ تُفْلِحُونَ (And remember Allah much, so that you may be successful – 62:10). It means that commercial activities are though allowed after the prayer, one should not neglect Allah’ s remembrance during these activities as the infidels do. Even during such activities one must remain mindful of Allah and His remembrance.
 
 ## Personal Reflections
+
+

@@ -122,18 +122,6 @@ word_by_word:
     transliteration: baʿīdan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 136, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-136-175 Though this verse also deals with the family laws contained in verses 1-35 , it has been added as a supplement at the end of this Surah because it was revealed long after An-Nisa was being recited as a complete Surah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Discussed upto this point were subsidiary injunctions mostly, alongwith issues relating to faith ('Iman) and disbelief (kufr) appearing as a corollary to dealings with antagonists.
@@ -175,3 +163,5 @@ Sequence
 Discussed upto this point were subsidiary injunctions mostly, alongwith issues relating to faith ('Iman) and disbelief (kufr) appearing as a corollary to dealings with antagonists. Onwards from here, these issues appear in some detail continuing almost close to the end of the Surah. In the sequence of statements, first comes a description of 'Iman (faith) as credible in the sight of the Shari’ ah. After that, various groups of disbelievers have been censured for their beliefs and for some of their deeds also which issue forth from their faulty beliefs.
 
 ## Personal Reflections
+
+

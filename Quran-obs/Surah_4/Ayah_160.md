@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 160, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ibn 'Abbas said, "This Ayah was revealed concerning 'Abdullah bin Salam, Tha'labah bin Sa'yah, Zayd bin Sa'yah and Asad bin 'Ubayd who embraced Islam and believed what Allah sent Muhammad ﷺ with. Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -155,3 +147,5 @@ Commentary
 In the Shari` ah brought by the Holy Prophet Muhammad al Mustafa ﷺ there are some things too, known as Haram or unlawful, but these were forbidden because of one or the other physical or spiritual harm they bring. This was contrary to what happened with the Jews - the good things forbidden to them had no physical or spiritual harm in them, instead, these were forbidden to them as the punishment of their acts of transgression and disobedience.
 
 ## Personal Reflections
+
+

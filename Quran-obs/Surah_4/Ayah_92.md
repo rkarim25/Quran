@@ -259,17 +259,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 92, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (except by mistake). There is a difference of opinion concerning the reason behind revealing this part of the Ayah. Mujahid and others said that it was revealed about 'Ayyash bin Abi Rabi'ah, Abu Jahl's half brother, from his mother's side, Asma' bint Makhrabah. 'Ayyash killed a man called Al-Harith bin Yazid Al-'Amiri, out of revenge for torturing him and his brother because of their Islam. That man later embraced Islam and performed Hijrah, but 'Ayyash did not know this fact. On the Day of the Makkan conquest, 'Ayyash saw that man and thought that he was still a disbeliever, so he attacked and killed him. Later, Allah sent down this Ayah.
 
 Abdur-Rahman bin Zayd bin Aslam said that this Ayah was revealed about Abu Ad-Darda' because he killed a man after he embraced the faith, just as Abu Ad-Darda' held the sword above him. When this matter was conveyed to the Messenger of Allah ﷺ, Abu Ad-Darda' said, "He only said that to avert death." The Prophet ﷺ said to him,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -494,3 +486,5 @@ Let there be no doubt at this point as to why the burden of a crime committed by
 (expiation); one should repent. (Sayan a1-Qur'an)
 
 ## Personal Reflections
+
+

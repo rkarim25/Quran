@@ -55,18 +55,6 @@ word_by_word:
     transliteration: baṣīrun
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We bestowed grace on Dawud from Us (saying): "O you mountains! In the last sentence of verse 10 and the first sentence of verse 11, it was said: وَأَلَنَّا لَهُ الْحَدِيدَ أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ‌ فِي السَّرْ‌دِ (And We made the iron soft for him (saying to him) " Make coats of armour, and maintain balance in combining (their) rings,' - 34:10).
@@ -150,3 +138,5 @@ Special Note
 From this conduct of Sayyidna Dawud (علیہ السلام) ، whereby he demonstrated the great concern he had to find out the informal, free and totally unfettered opinions of people about his ways of doing things, it is proved that one usually does not know his own shortcomings, therefore, this should be found out from others. The well-known jurist of Islam, Imam Malik (رح) also paid particular attention to find out what common people thought about him.
 
 ## Personal Reflections
+
+

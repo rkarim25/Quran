@@ -14,15 +14,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cleaving** (Al-Infitar) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Infitar is a **Makkah** surah—revealed as the 82nd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -185,3 +177,5 @@ Having stated the creative acumen of the Great Creator, the verse states: يَا
 'How many humans are there whose faults are put [ by Allah ] under cover, (i.e. He did not disgrace them), yet they do not appreciate (and are deluded by His grace.'
 
 ## Personal Reflections
+
+

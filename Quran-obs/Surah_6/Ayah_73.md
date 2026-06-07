@@ -105,18 +105,6 @@ word_by_word:
     transliteration: l-khabīru
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 73, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-33-73 In continuation of the same theme, the story of Prophet Abraham has been related to bring home to the pagan Arabs that the Mission of Prophet Muhammad, which they were opposing, was the same as that of Prophet Abraham (Allah's peace be upon them).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Shall we invoke others besides Allah (false deities), that can do us neither good nor harm, and shall we turn on our heels after Allah has guided us? In the third verse (70), nearly the same subject has been stressed upon in the following words: وَذَرِ‌ الَّذِينَ اتَّخَذُوا دِينَهُمْ لَعِبًا وَلَهْوًا (And avoid those who have taken their faith as game and play ...).
@@ -238,3 +226,5 @@ When you come to think of it, wrong environment and bad company really hurt all 
 As for the next three verses (71-73), they too deal with the refutation of Shirk (the attribution of partners to Allah) and the affirmation of Tauhid (the Oneness of Allah) and 'Akhirah (the Hereafter, the life to come) as fairly evident from the translation itself.
 
 ## Personal Reflections
+
+

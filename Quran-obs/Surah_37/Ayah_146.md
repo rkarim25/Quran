@@ -24,18 +24,6 @@ word_by_word:
     transliteration: yaqṭīnin
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 146, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… Said next, it was: وَأَنبَتْنَا عَلَيْهِ شَجَرَ‌ةً مِّن يَقْطِينٍ (and We caused a tree of gourd to grow over him.
@@ -145,3 +133,5 @@ Some of them mentioned that the squash has a number of benefits: it grows quickl
 Said next, it was: وَأَنبَتْنَا عَلَيْهِ شَجَرَ‌ةً مِّن يَقْطِينٍ (and We caused a tree of gourd to grow over him. - 146). The word: يَقْطِينٍ (yagtin) signifies every such tree that has no trunk. It appears in Hadith narrations that it was a gourd creeper. The purpose of having a tree grow there was to make the provision of shade for Sayyidna Yunus (علیہ السلام) . The word: شَجَرَ‌ةً (shajarah: tree) at this place serves as an indicator of two possibilities: Either Allah had made this very plant of gourd grow with a trunk by way of a miracle, or it was some other tree on which the creeping plant of gourd was made to wind its way up, so that it could provide a thick shade, otherwise, having enough shade from a winding plant alone would have been difficult.
 
 ## Personal Reflections
+
+

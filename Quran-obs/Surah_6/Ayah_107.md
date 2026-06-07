@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 107, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Follow what has been inspired to you from your Lord,) meaning, follow it, obey it and act according to it. What has been revealed to you from your Lord is the Truth, no doubt, and there is no deity worthy of worship except Him,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -117,3 +109,5 @@ Allah's is the perfect will and wisdom in all decrees and decisions, and He is n
 The reason for this has been given in the fifth verse (107). There it has been said: If Allah Ta` ala had willed - in consideration of His own creational imperative - that the whole human race should become Muslim in faith, then, it would have become impossible for them to associate partners in the Divinity of Allah (Shirk). But, it was because of their misdeeds that Allah willed that they be punished. So, He created the necessary conditions for that end. Now, how could he make them Muslims under these circumstances? In fact, why should he worry about what they choose to do with their lives? Allah has not made him to stand guard over what they do, nor has he been authorized by Allah to bring punishment on them for their misdeeds. Therefore, he should not have any anxiety on account of what they do to themselves or for themselves.
 
 ## Personal Reflections
+
+

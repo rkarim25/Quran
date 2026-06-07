@@ -42,18 +42,6 @@ word_by_word:
     transliteration: wakīlan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Allah) said: "Go, and whosoever of them follows you, surely, Hell will be the recompense of you (all) an ample recompense (63)"And fool them gradually, those whom you can among them with your voice, Ajlib upon them with your cavalry and your infantry, share with them wealth and children, and make promises to them." But Shaytan promises them nothing but deceit (64)"Verily, My servants, you have no authority over them. (2) Secondly, he had said if he was given respite till the day of Qiyamah, he will mislead the entire progeny of 'Adam, except a few of them.
@@ -143,3 +131,5 @@ When Iblis asked for respite, Allah said to him:
 As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ (and share with them in their wealth and their children - 64), Sayyidna ` Abdullah ibn ` Abbas ؓ said: Wealth and property acquired by false, impermissible and unlawful means or spent on what is haram is the sharing of the Shaitan in it. As for the sharing of the Shaitan in children, it could either be through illegitimacy, or by naming them like disbelievers and polytheists, or by indulging in polytheistic customs to ensure their security, or by taking to Haram sources of income to bring them up. (Qurtubi)
 
 ## Personal Reflections
+
+

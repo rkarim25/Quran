@@ -62,18 +62,6 @@ word_by_word:
     transliteration: l-muf'liḥūna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 104, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Let there arise out of you a group of people inviting to all that is good (Islam), enjoining Al-Ma'ruf (all that Islam orders) and forbidding Al-Munkar (all that Islam has forbidden). In the previous verses (102 - 103), Muslims were given two principles which guarantee their collective wellbeing.
@@ -305,3 +293,5 @@ It simply means that, in reality, success is achieved by such people alone.
 Primarily, this description applies to the great group of the Companions of the Holy Prophet ﷺ . They were the ones who rose with the great objective of calling towards the good and of curbing what was bad and in a very brief period of time conquered the entire world of their time. There were power centers of Byzantine and Persia which could not stop them and they went ahead teaching lessons in morality and purity and ushering around the light of righteousness and Godliness wherever they went.
 
 ## Personal Reflections
+
+

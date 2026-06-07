@@ -186,18 +186,6 @@ word_by_word:
     transliteration: yatafakkarūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, the parable of the life of the world is as the water which We send down from the sky; so by it arises the intermingled produce of the earth of which men and cattle eat: until when the earth is clad in its adornments and is beautified, and its people think that they have all the powers of disposal over it, Our command reaches it by night or by day and We make it like a clean-mown harvest, as if it had not flourished yesterday!
@@ -299,3 +287,5 @@ The warning given in verse 23: إِنَّمَا بَغْيُكُمْ عَلَى�
 The Holy Prophet ﷺ has said: ` Allah Ta` ala hastens to repay mercy shown to relatives and favour done to people (whereby its blessings start becoming visible in this world, much before the Hereafter). And He also hastens to repay injustices done and relationships severed (in that its consequences have to be faced within the life of this world).' (Reported by Tirmidhi and Ibn Majah with a hasan chain of narrators) In another Hadith narrated by Sayyidah ` A'ishah ؓ ، the Holy Prophet ﷺ said, ` there are three sins the curse whereof falls on the sinner himself: Injustice, breach of trust and deception.' (Reported by Abu ash-Shaykh and Ibn Marduwayh in Tafsir) (See Mazhari)
 
 ## Personal Reflections
+
+

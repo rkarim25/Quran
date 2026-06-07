@@ -85,18 +85,6 @@ word_by_word:
     transliteration: l-dāri
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who fulfill, the covenant of Allah and break not the trust (20)And those who join that which Allah has commanded to be joined and fear their Lord, and dread the terrible reckoning (21)And those who remain patient,… The sixth attribute has been stated as: وَالَّذِينَ صَبَرُ‌وا ابْتِغَاءَ وَجْهِ رَ‌بِّهِمْ (and those who observe patience in order to seek the pleasure of their Lord).
@@ -196,3 +184,5 @@ The ninth attributes stated here is: وَيَدْرَ‌ءُونَ بِالْح�
 After having recounted these nine attributes of the obedient servants of Allah Ta` ala, the reward promised for them is: أُولَـٰئِكَ لَهُمْ عُقْبَى الدَّارِ (Those are the ones for whom there is the ultimate abode). The word: الدَّارِ (ad-dar: abode, home) refers to the abode of the 'Akhirah or Hereafter, that it, the prosperity and success of the 'Akhirah is for them. Some com-mentators have said that 'abode' at this place means the abode of the mortal world the sense of which is that good people, though they have to face hardships too in this mortal world, but, finally, they are the ones who succeed in this mortal world as well.
 
 ## Personal Reflections
+
+

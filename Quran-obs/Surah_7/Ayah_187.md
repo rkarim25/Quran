@@ -162,17 +162,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 187, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It was said that this Ayah was revealed about the Quraysh or the Jews, although it appears that it was about the Quraysh, because this Ayah was revealed in Makkah. The Quraysh used to ask about the Last Hour, because they used to deny it and discount its coming. For instance, Allah said in another Ayah,
 
 "As if you have good relations and friendship with them!" Ibn 'Abbas said, "When the people (pagans of Quraysh) asked the Prophet ﷺ about the Last Hour, they did so in a way as if Muhammad was their friend! Allah revealed to him that its knowledge is with Him Alone and He did not inform a close angel or Messenger of it." The correct explanation for this Ayah is, as narrated from Mujahid, through Ibn Abi Najih,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -405,3 +397,5 @@ This gives us an idea of the enormous age of this world as thought by the Holy P
 1. By inference it seems physically impossible to have an exact assessment of the age of this universe, because it would give the exact time of the end of this universe which has been precluded by the above verse saying that the knowledge of the occurrence of the Doomsday is not known to any one but Allah. (Translator)
 
 ## Personal Reflections
+
+

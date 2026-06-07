@@ -152,18 +152,6 @@ word_by_word:
     transliteration: yaʿtadūna
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 112, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 You are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (all that Islam has ordained) and forbid Al-Munkar (all that Islam has forbidden), and you believe in Allah. A detailed discussion on this subject has already appeared under comments on verse 61 of Surah al-Baqarah where the text has not mentioned any exception.
@@ -367,3 +355,5 @@ Briefly, the verse means that the Jews shall remain stamped with disgrace and mi
 Through a treaty obligation, that is, بِحَبْلٍ مِّنَ النَّاسِ (through a source from men). Such patronage may cause their disgrace and misery not to become manifest. The specific words used in the Holy Qur'an i.e., a source from men, cover all men, believers and disbelievers. The possibility that they live with freedom after making a peace treaty with Muslims is included here. Also possible is the situation that they may come under the protection of other non-Muslim powers through a peace treaty (or informal collaboration strategy), a situation that prevails in the form of the present-day state of Israel. To discerning people all over the world, it is no secret that the state of Israel is really a joint encampment of the West. Behind all the facade of power they appear to have is the power of others. If the U.S., U.K., Europe, and USSR too, were daring enough to withdraw their patronage of Israel, it would not survive for a day. Allah knows best.
 
 ## Personal Reflections
+
+

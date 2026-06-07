@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yansilūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 51, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the Trumpet will be blown and behold from the graves they will come out quickly to their Lord (51)They will say: "Woe to us! After that, it was said: وَنُفِخَ فِي الصُّورِ‌ فَإِذَا هُم مِّنَ الْأَجْدَاثِ إِلَىٰ رَ‌بِّهِمْ يَنسِلُونَ (And the Horn will be blown, and suddenly they will be rushing from their graves towards their Lord.
@@ -121,3 +109,5 @@ When they say that, the believers will respond. This was the view of more than o
 After that, it was said: وَنُفِخَ فِي الصُّورِ‌ فَإِذَا هُم مِّنَ الْأَجْدَاثِ إِلَىٰ رَ‌بِّهِمْ يَنسِلُونَ (And the Horn will be blown, and suddenly they will be rushing from their graves towards their Lord. (36:51). Here, the word: أَجْدَاثِ (ajdath) is the plural form of: جَدَث (jadath) which means a grave. And: يَنسِلُونَ (yansilun) is a derivation from: نَسلان (nasalan) which means to walk swiftly as it appears in another verse: يَخْرُ‌جُونَ مِنَ الْأَجْدَاثِ سِرَ‌اعًا (they will come out of their graves in haste - Al-Ma۔ arij, 70:43). As for what is said in another verse: فَإِذَا هُمْ قِيَامٌ يَنظُرُ‌ونَ (and suddenly, they will stand up, looking around - Az-Zumar, 39:68), it is not contrary to that, for first came the instant of standing up in wonder and then came the act of racing toward the plains of the Resurrection. There is no contradiction in between these two. Then, as it is already proved from the verses of the Qur'an that the angels will call them to come to the plains of the Resurrection, it becomes clear that the presence of disbelievers on the plain of the Resurrection will not be out of their pleasure, rather, it would be out of compulsion whereby the call of the angels will prompt them to come hastening toward it.
 
 ## Personal Reflections
+
+

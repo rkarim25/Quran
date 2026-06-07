@@ -80,18 +80,6 @@ word_by_word:
     transliteration: mubīnin
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And women in the city said: "The wife of the 'Aziz is seeking to seduce her (slave) young man, indeed she loves him violently; verily, we see her in plain error. So, after having pointed out to Zulaikha her error, the ` Aziz of Misr said to Sayyidna Yusuf (علیہ السلام) : يُوسُفُ أَعْرِ‌ضْ عَنْ هَـٰذَا :'O Yusuf, ignore this matter' - that is, do not speak about it before others so there be no disgrace because of this.
@@ -207,3 +195,5 @@ In the verses which will follow, mentioned there is another event which is conne
 These women were talking among themselves. They were saying: Look, how regrettable it is that the wife of the ` Aziz of Misr, despite enjoying a status so high, had become enamoured with her young slave and was looking for the fulfillment of what she wanted from him. In this, we think, she is in a grave error. The word used in the verse (30) is: فَتَاھَا (fate ha: translated as ` her youthful slave' ). Fata' denotes someone youthful. In customary usage, a boy slave when small is called a ghulam. If in his youth, the boy is called fata, and the girl, fata. Here, Sayyidna Yusuf (علیہ السلام) has been referred to as the slave of Zulaikha either because that which is owned by the husband is also customarily called as that which is owned by the wife; and/or because Zulaikha had taken Sayyidna Yusuf (علیہ السلام) from her husband as gift. (Qurtubi)
 
 ## Personal Reflections
+
+

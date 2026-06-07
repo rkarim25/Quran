@@ -32,18 +32,6 @@ word_by_word:
     transliteration: l-mu'minīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 102, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And Paradise will be brought near to those who had Taqwa (90)And the (Hell) Fire will be placed in full view of the astray (91)And it will be said to them: "Where are those that you used to worship. The Day when neither wealth will be of any use (to any one) nor sons, [ 88] except to one who will come to Allah with a sound heart, [ 26:89] This verse has declared that wealth and children will not be of any help to a person on the Day of Judgment.
@@ -137,3 +125,5 @@ Wealth, children and the family relationship can also be beneficial in the Herea
 In accordance with the commonly adopted explanation of the verse it has now become clear that the wealth of a person could be of help to him on the Dooms Day, provided he is a Muslim. It can be elaborated by saying that the one who has spent his wealth in this world in the way of Allah and in the cause of righteous deeds or has spent in an ongoing charity (Sadaqah Jariyah), will get its benefit in the Hereafter if he dies with the faith of Islam and is listed as a believer on the Day of Judgment. On the other hand if he was not a Muslim or God-forbid became an apostate before his death, then all the good deeds he had done in this world will be of no benefit to him. The same rule will apply in the case of children, that is, if a person is Muslim, he can benefit from them in the Hereafter in that his children supplicate for his forgiveness after his death. Also, if he had tried to train the children to be pious, whatever good they will do, its benefit will also be passed on to him as long as they do righteous deeds. It is also possible that his pious children obtain his pardon in the Hereafter by intercession. In a few Ahadith it is reported about such an intercession and its acceptance, especially the intercession of the young children yet to attain puberty. Likewise, the children will also benefit from their parents on the condition of faith in that if they were Muslims but their righteous deeds could not attain the level of their parents, then Allah Ta’ ala by taking into account their parents good deeds would place them also at the high position of their parents. The Holy Qur'an has elucidated it in these words أَلْحَقْنَا بِهِمْ ذُرِّ‌يَّتَهُمْ (52:21) that is ` We will join together with Our righteous servants their progeny'. The above quoted famous explanation of this verse has made it clear that wherever it is mentioned in the Qur'an or hadith that the family connection will be of no avail in the Hereafter, the reference is to the non-believers. This principle is applicable to the extent that even if the wife and children of the messenger are not believers, they too would not benefit from his prophethood in the Hereafter, as is the case of the son of Sayyidna Nuh (علیہ السلام) the wife of Lut (علیہ السلام) and the father of Sayyidna Ibrahim (علیہ السلام) . The Qur'anic verses فَإِذَا نُفِخَ فِي الصُّورِ‌ فَلَا أَنسَابَ بَيْنَهُمْ "Thereafter, when the Sur صُور (the trumpet) is blown, there are no ties of kinship between them" (23:101) and يَوْمَ يَفِرُّ‌ الْمَرْ‌ءُ مِنْ أَخِيهِ ﴿34﴾ وَأُمِّهِ وَأَبِيهِ ﴿35﴾; (upon the day when a man shall flee from his brother, his mother, his father - 80:34) and لَّا يَجْزِي وَالِدٌ عَن وَلَدِهِ "nor will a son be standing for his father in any way" (31:33) all reflect this very theme. (واللہُ اعلم)
 
 ## Personal Reflections
+
+

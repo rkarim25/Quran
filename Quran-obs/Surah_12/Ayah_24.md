@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **Joseph** (Yusuf) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Besides the fact that this question of the ` Ismah of Anbiya' (the state of being under Divine protection with which prophets are blessed) stands settled and proved under the authority of the Qur'an and Sunnah, it is also necessary, rationally too - because, should there remain the probability of a committal of sin by the Anbiya' (علیہم السلام) ، there remains no way one could place trust in the Din (religion) and Way (revelation) brought by them, and that their very coming into the world with a Divine Book revealed to them becomes totally fruitless. Therefore, Allah Ta` ala has kept every prophet of His totally ma` sum from every sin (ma` sum: technically, sinless or infallible; literally, protected by Allah).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ In this verse, Allah Ta` ala has chosen to use two words: سُّوءَ (su' ) an
 Also clarified here is that the ‘hamm’ or thought attributed to Sayyidna Yusuf (علیہ السلام) in the Qur'an was simply a ` hamm' or thought at the level of non-voluntary scruple, which is included neither under Kabirah sin, nor under Saghirah - in fact, is excused.
 
 ## Personal Reflections
+
+

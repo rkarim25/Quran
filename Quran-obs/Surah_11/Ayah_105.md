@@ -48,17 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 105, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.)[14:13] Concerning Allah's statement,
 
 (When a party will be in Paradise and a party in the blazing Fire)[42:7] Al-Hafiz Abu Ya'la recorded in his Musnad on the authority of Ibn 'Umar that 'Umar said, "When this verse was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -165,3 +157,5 @@ verse of the Qur'an: تِسْعَةُ رَ‌هْطٍ يُفْسِدُونَ ف�
 During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was arrested while he was cutting a dirham coin. He was awarded a punishment of lashes and was paraded around head shaved. (Tafsir al Qurtubi)
 
 ## Personal Reflections
+
+

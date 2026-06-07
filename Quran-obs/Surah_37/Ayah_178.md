@@ -20,18 +20,6 @@ word_by_word:
     transliteration: ḥīnin
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 178, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And, verily, Our Word has gone forth of old for Our servants, the Messengers (171)That they verily would be made triumphant (172)And that Our hosts! The sense of 'the victory of the people of Allah' In verses 171-173, it was said: وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْ‌سَلِينَ إِنَّهُمْ لَهُمُ الْمَنصُورُ‌ونَ وَإِنَّ جُندَنَا لَهُمُ الْغَالِبُونَ (And Our Word has already gone ahead in favor of Our servants - the messengers - they are the ones who will have Allah's support, and verily it will be Our army that prevails).
@@ -111,3 +99,5 @@ But, it should always be borne in mind that no group of people achieves this sup
 In verse 177, it was said: فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنذَرِ‌ينَ (So, when it descends in their courtyard, then, evil with be the dawn of the warned). The word: سَاحَۃُ (sahah) appearing in this verse literally means a courtyard, and the expression: نَزَلِ بِسَاحَتِہٖ (nazala bisahatihi: descended in his courtyard) is an Arabic idiom that denotes the appearance of a calamity face to face, while the time of morning has been specified, as an attack would usually come at that hour among the people of Arabia. This also used to be the practice with the Holy Prophet ﷺ that, should he reach the territorial jurisdiction of some enemy at the time of night, he used to postpone his attack until the morning (Mazhari). According to Hadith narrations, when the Holy Prophet ﷺ attacked the fort of Khaibar during the morning hours, he said: اللہ اکبر، خربت حیبر، انّا اذا نزلنا قوم فساء صباح المنذرین (Allahu Akbar, Khaibar is destroyed. Verily, when we descend on the courtyard of a people, the morning of those who had been already warned is too bad).
 
 ## Personal Reflections
+
+

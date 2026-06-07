@@ -71,18 +71,6 @@ word_by_word:
     transliteration: mus'limūna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner. The reason is that they were first asked to bring ten Surahs.
@@ -126,3 +114,5 @@ Then Allah, the Exalted, explains the miracle of the Qur'an, and that no one is 
 The reason is that they were first asked to bring ten Surahs. They failed to do so. Then, to make their inability look more pronounced, it was said in the verse of Surah al-Baqarah quoted above: If you take the Qur'an to be a word of man, then, you too, bring no more than just one Surah being the like of it. But, despite this challenge of the Qur'an, made so easy for them, they could do nothing. It stood proved that the Holy Qur'an was a miracle, and the Word of Allah without any doubt. Therefore, at the end, it was said: , that is, 'would you now believe and obey, or would you prefer to remain heedless as before?'
 
 ## Personal Reflections
+
+

@@ -132,17 +132,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Qatadah said, "This Ayah was revealed about gatherings in places where Allah is being remembered. When someone would come to join in assemblies with the Messenger ﷺ, they would hesitate to offer them space so that they would not loose their places. Allah the Exalted commanded them to spread out and make room for each other."
 
 It was alluded earlier that this verse was revealed when the Holy Prophet ﷺ was sitting in the suffah of the mosque. The congregation had filled up the suffah. Some of the participants of the battle of Badr arrived late and they could not find place to sit, and remained standing. As a mark of respect for them, the Holy Prophet ﷺ gave a general order to the entire congregation to spread out and make room for their fellow-believers, and prayed to Allah to make room for such people. Some of them might have complied and there was no problem with them; and probably others did not comply. So, the Holy Prophet ﷺ might have admonished them to rise up and leave.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -247,3 +239,5 @@ Another etiquette of an assembly is that if two persons are sitting closely, a n
 The reasoning behind the ruling is that sometimes two persons sit together for some specific purpose, and breaking them up might defeat that purpose.
 
 ## Personal Reflections
+
+

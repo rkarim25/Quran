@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-ṣudūri
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 46, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if they deny you, so did deny before them the people of Nuh, 'Ad and Thamud (42)And the people of Ibrahim and the people of Lut (43)And the dwellers of Madyan; and denied was Musa. Travels undertaken to acquire insight into things and to learn lessons from the past is one of the religious objectives أَفَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ فَتَكُونَ لَهُمْ قُلُوبٌ (Have they not, then, travelled on earth so that they should have hearts - 22:46) This verse encourages travel, provided the person travelling keeps his eyes wide open and imbibes in his mind the lessons of history.
@@ -193,3 +181,5 @@ Travels undertaken to acquire insight into things and to learn lessons from the 
 أَفَلَمْ يَسِيرُ‌وا فِي الْأَرْ‌ضِ فَتَكُونَ لَهُمْ قُلُوبٌ (Have they not, then, travelled on earth so that they should have hearts - 22:46) This verse encourages travel, provided the person travelling keeps his eyes wide open and imbibes in his mind the lessons of history. The phrase فَتَكُونَ لَهُمْ قُلُوبٌ (so that they should have hearts - 22:46) suggests that a person can gain wisdom and intelligence by a careful study of the history of bygone times and an account of people who inhabited this world in different ages. Every event of history holds a lesson for a person who has insight and who does not regard history as a mere record of episodes and occurrences. Ibn Abi Hatim has written in his book اَلتَفَکّر quoting Malik Ibn Dinar (رح) that Allah Ta’ ala commanded Sayyidna Musa (علیہ السلام) to wear shoes made of iron and to hold in his hand a staff made of iron and travel around the earth until his shoes would be worn out and his staff broken down. (Ruh-Ma ani). If this narration is true, then naturally it means to acquire knowledge and lessons from the past.
 
 ## Personal Reflections
+
+

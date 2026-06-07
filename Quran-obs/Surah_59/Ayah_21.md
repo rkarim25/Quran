@@ -80,18 +80,6 @@ word_by_word:
     transliteration: yatafakkarūna
 ---
 
-## Context
-
-To understand **The Exile** (Al-Hashr) 21, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hashr is a **Madinah** surah—revealed as the 101st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 24 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Bukhari and Muslim contain a tradition from Hadrat Sa'id bin Jubair to the effect "When I asked Hadrat Abdullah bin Abbas about Surah Al-Hashr, he replied that it was sent down concerning the battle against the Bani an-Nadir just as Surah Al-Anfal was sent down concerning the Battle of Badr.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Had We sent down this Qur'an on a mountain, you would surely have seen it humbling itself and rent asunder by the fear of Allah. لَوْ أَنزَلْنَا هَـٰذَا الْقُرْ‌آنَ عَلَىٰ جَبَلٍ (Had We sent down this Qur'an to a mountain, ....59:21) This is a parable that Allah is using to illustrate the fact that if the Holy Qur'an were to be revealed on such strong, firm and unmovable mountain and endowed with intelligence like man, it would have submitted to the greatness of the Qur'an, nay, it would have crushed to pieces.
@@ -249,3 +237,5 @@ This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 لَوْ أَنزَلْنَا هَـٰذَا الْقُرْ‌آنَ عَلَىٰ جَبَلٍ (Had We sent down this Qur'an to a mountain, ....59:21) This is a parable that Allah is using to illustrate the fact that if the Holy Qur'an were to be revealed on such strong, firm and unmovable mountain and endowed with intelligence like man, it would have submitted to the greatness of the Qur'an, nay, it would have crushed to pieces. But man is too selfish and proud. As a result, he has lost his natural intelligence and remains unaffected by the powerful message of the Qur'an. This, it would appear, is a hypothetical example, that is 'if mountains had sense or intelligence. Some scholars have stated that reason and revelation both bear testimony to the fact that everything in nature has sense, perception and intelligence, be it a mountain or a tree. Therefore, this is not a hypothetical example. It is a stark reality. [ Mazhari ]. And Allah knows best!
 
 ## Personal Reflections
+
+

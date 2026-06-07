@@ -95,13 +95,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
+Then Allah revealed that which He revealed to me. He enjoined on me fifty prayers every day and night. I came down until I reached Musa, and he said, 'What did your Lord enjoin on your Ummah?' I said, 'Fifty prayers everyday and night.' He said, 'Go back to your Lord and ask Him to reduce (the burden) for your Ummah, for your Ummah will not be able to do that. I tested the Children of Israel and found out how they were.' So I went back to my Lord and said, 'O Lord, reduce (the burden) for my Ummah for they will never be able to do that.' So He reduced it by five. I came back down until I met Musa and he asked me, 'What did you do?' I said, '(My Lord) reduced (my burden) by five.' He said, 'Go back to your Lord and ask Him to reduce (the burden) for your Ummah.' I kept going back between my Lord and Musa, and (my Lord) reduced it by five each time, until He said, 'O Muhammad, these are five prayers every day and night, and for every prayer there is (the reward of) ten, so they are (like) fifty prayers. Whoever wants to do something good then does not do it, one good deed will be recorded for him, and if he does it, ten good deeds will be recorded for him. Whoever wants to do something evil and does not do it, no evil deed will be recorded for him, and if he does it, one evil deed will be recorded for him.' I came down until I reached Musa, and told him about this. He said: 'Go back to your Lord and ask him to reduce (the burden) for your Ummah, for they will never be able to do that.' I had kept going back to my Lord until I felt too shy.) This version was also recorded by Muslim.
 
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
-Then Allah revealed that which He revealed to me. He enjoined on me fifty prayers every day and night. I came down until I reached Musa, and he said, 'What did your Lord enjoin on your Ummah?' I said, 'Fifty prayers everyday and night.' He said, 'Go back to your Lord and ask Him to reduce (the burden) for your Ummah, for your Ummah will not be able to do that. I tested the Children of Israel and found out how they were.' So I went back to my Lord and said, 'O Lord, reduce (the burden) for my Ummah for they will never be able to do that.' So He reduced it by five. I came back down until I met Musa and he asked me, 'What did you do?' I said, '(My Lord) reduced (my burden) by five.' He said, 'Go back to your Lord and ask Him to reduce (the burden) for your Ummah.' I kept going back between my Lord and Musa, and (my Lord) reduced it by five each time, until He said, 'O Muhammad, these are five prayers every day and night, and for every prayer there is (the reward of) ten, so they are (like) fifty prayers.
+And he was shown Malik, the keeper of Hell, and the Dajjal, with the signs that Allah revealed to him.' He said,
 
 ## Tafsir Summary
 
@@ -564,3 +560,5 @@ The blessings it has are both religious and worldly. As for religious blessings,
 Sayyidna Mu` adh ibn Jabal reports that the Holy Prophet ﷺ said: Allah Ta’ ala says: 0 land of Syria, thou art My region chosen from many and I shall make My chosen servants reach thee. (Qurtubi) And it appears in a Hadith of the Musnad of Ahmad that the Imposter will traverse the whole Earth but he will not be granted access to four Mosques: (1) Masjid of Madinah, (2) Masjid of Makkah al-Mukarramah, (3) Al-Masjid al-Aqsa and (4) Masjid Tur.
 
 ## Personal Reflections
+
+

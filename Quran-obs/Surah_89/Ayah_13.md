@@ -24,18 +24,6 @@ word_by_word:
     transliteration: ʿadhābin
 ---
 
-## Context
-
-To understand **The Dawn** (Al-Fajr) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fajr is a **Makkah** surah—revealed as the 10th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its contents show that it was revealed at the stage when persecution of the new converts to Islam had begun in Makkah. On that very basis the people of Makkah have been warned of the evil end of the tribes of Ad and Thamud and of Pharaoh.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Recitation of Surat Al-Fajr in the Prayer An-Nasa'i recorded a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ (So, your Lord unloosed on them the whip of torment....89:13).
@@ -233,3 +221,5 @@ Ibn 'Abbas said, "He hears and He sees." This means that He watches over His cre
 فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ (So, your Lord unloosed on them the whip of torment....89:13). The punishment inflicted upon them as a result of their mischief is referred to here as a 'whip of torment'. It signifies that just as lashes are inflicted across different parts of the body, the torment these nations received was similar to it in that they suffered different kinds of punishment.
 
 ## Personal Reflections
+
+

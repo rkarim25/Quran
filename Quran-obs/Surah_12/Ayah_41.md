@@ -84,18 +84,6 @@ word_by_word:
     transliteration: tastaftiyāni
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "O two companions of the prison! After having made his call to truth, Sayyidna Yusuf (علیہ السلام) turned to the dreams mentioned by two of his prison mates declaring that one of the two of them will get his release, return to his job and keep serving wine to his master.
@@ -135,3 +123,5 @@ Ibn Kathir has said: Though the dreams of both these prisoners were separate, an
 At the end, he told them that the interpretation of their dreams given by him was not arrived at by conjecture. It was Divine decree which cannot be averted. Commentators who have called the dreams de-scribed by these people as false and made-up, they have also said: When Sayyidna Yusuf (علیہ السلام) interpreted their dreams, they came up with the re-mark that they had just not seen any dream. They had simply made it up. Thereupon, Sayyidna Yusuf (علیہ السلام) said: قُضِيَ الْأَمْرُ‌ الَّذِي فِيهِ تَسْتَفْتِيَانِ (Destined is the matter you are asking about). In other words, it would mean: Whether you saw this dream, or did not, now the event will come to be as described - the purpose of which is that this is the punishment of the sin, of making up a false dream, committed by you, a punishment which has been identified in the interpretation of the dream.
 
 ## Personal Reflections
+
+

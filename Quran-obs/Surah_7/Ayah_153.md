@@ -62,18 +62,6 @@ word_by_word:
     transliteration: raḥīmun
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 153, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Certainly, those who took the calf (for worship), wrath from their Lord and humiliation will come upon them in the life of this world. The verse 153 speaks of the people who repented to Allah for their sin after the admonitions of their Prophet, and fulfilled the formidable condition of killing each other for their forgiveness.
@@ -127,3 +115,5 @@ Ibn Abi Hatim reported that 'Abdullah bin Mas'ud was asked about a man committin
 The verse 153 speaks of the people who repented to Allah for their sin after the admonitions of their Prophet, and fulfilled the formidable condition of killing each other for their forgiveness. They killed each other as was stipulated in the command of Allah for their forgiveness by Allah. The Prophet Musa (علیہ السلام) called them to him and informed them that Allah had accepted their repentance. The people killed in this combat were awarded martyrdom while those who survived were forgiven by Allah. This implies that those who get themselves involved in sinful acts, if repent to Allah and correct their belief, Allah forgives them in His mercy with no regard to the gravity of the act. It is, therefore wise to turn to Allah in repentance instantly after every sinful act.'
 
 ## Personal Reflections
+
+

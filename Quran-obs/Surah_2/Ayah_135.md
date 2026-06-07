@@ -67,18 +67,6 @@ word_by_word:
     transliteration: l-mush'rikīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 135, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say, "Be Jews or Christians, then you will be guided." Say (to them O Muhammad ﷺ), "Nay, (we follow) only the religion of Ibrahim, Hanif (Islamic Monotheism), and he was not of Al-Mushrikin (those who worshipped others along with Allah (135) Muhammad bin Ishaq reported that Ibn 'Abbas said that 'Abdullah bin Suriya Al-A'war said to the Messenger of Allah, "The guidance is only what we (Jews) follow. The earlier verses have defined the religion (Millat مِلَّت of Sayyidna Ibrahim (علیہ السلام) and established that its present form is Islam.
@@ -108,3 +96,5 @@ The earlier verses have defined the religion (Millat مِلَّت of Sayyidna Ib
 In the second of these verses the progeny of Sayyidna Ya` qub (علیہ السلام) (Jacob) has been described as Asbat اسباط or "tribes." The reason is that he had twelve sons, and the offspring of each son came to form a tribe. Allah so blessed his seed that in Egypt, Sayyidna Yusuf (علیہ السلام) (Joseph) and his brothers made up a group of twelve men, but their lineage flourished, and when the Israelites left Egypt along with Sayyidna Musa (علیہ السلام) (Moses), their number ran into thousands. Another form of this blessing was that the progeny of Sayyidna Ya` qub (علیہ السلام) included a large number of prophets.
 
 ## Personal Reflections
+
+

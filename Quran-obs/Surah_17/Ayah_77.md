@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 This was revealed concerning the disbelievers among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves. So Allah issued a warning to them in this Ayah, telling them that if they expelled him, they would not stay in Makkah for very long after that. And this is what happened after he migrated from them when their persecution became so intense. Only a year and a half after that, Allah brought him and them together on the battlefield of Badr, without any pre-arranged appointment, and He caused him to prevail over them and defeat them, so he killed their leaders and took their families as captives. Hence Allah said:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -87,3 +79,5 @@ This was revealed concerning the disbelievers among the Quraysh, when they wante
 The last verse (77): سُنَّةَ مَن قَدْ أَرْ‌سَلْنَا (Such has been Our way with the messengers We sent ...) tells us that, according to the customary way and law of Allah Ta` ala, when a people expel their prophet from his home-land, or compel him to leave by scaring and harassing, then, those people too are not left to continue living there. They are visited by the punishment of Allah Ta’ ala.
 
 ## Personal Reflections
+
+

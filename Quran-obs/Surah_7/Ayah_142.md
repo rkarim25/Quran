@@ -100,18 +100,6 @@ word_by_word:
     transliteration: l-muf'sidīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 142, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We appointed for Musa thirty nights and added ten, and he completed the term, appointed by his Lord, of forty nights. This verse speaks of the period followed by the destruction of the Pharaoh and his people.
@@ -171,3 +159,5 @@ The Prophet Musa (علیہ السلام) gave certain instructions to the Prophe
 The second instruction was in these words: وَلَا تَتَّبِعْ سَبِيلَ الْمُفْسِدِينَ "And do not follow the way of mischief-makers." It is obvious that Prophet Harun (علیہ السلام) being a Prophet of Allah could not be supposed to indulge in mischief. This instruction, therefore, meant that he should not do any such thing as could help or encourage the mischief makers. This is exactly what the Prophet Harun (علیہ السلام) did when he saw his people following the magician Samiri, so much so that they started worship-ping the golden calf. The Prophet Harun (علیہ السلام) prevented them from this act as well as admonished Samiri against his mischief. Later, the Prophet Musa (علیہ السلام) ، called him to account for this act of theirs, thinking that it was the result of inefficiency on the part of the Prophet Harun (علیہ السلام) . This also serves as a lesson for those who do not care for orderly disposition of matters and take it as a sign of piousness.
 
 ## Personal Reflections
+
+

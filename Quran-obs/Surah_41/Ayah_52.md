@@ -75,18 +75,6 @@ word_by_word:
     transliteration: baʿīdin
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "Tell me, if it is from Allah, and you disbelieve in it Who is more astray than one who is in opposition far away. فَذُو دُعَاءٍ عَرِ‌يضٍ (he is full of broad prayers - 51.) The nature of an infidel is being stated here that when Allah Almighty bestows upon him the good things: wealth, honor and peace, the infidel gets so involved in them and so intoxicated with them that he becomes even more distant from the true Benefactor, Allah Almighty, and his pride and heedlessness increase even more.
@@ -150,3 +138,5 @@ Commentary
 Lengthy supplications in themselves are praiseworthy and desirable as is proved by authentic ahadith about the etiquettes of supplication where it is mentioned that, while praying to Allah Ta’ ala, beseeching tearfully and repeatedly is desirable. (Bukhari and Muslim) Therefore, the denunciation of the infidel is actually not for lengthy supplications, but for his mean disposition that when Allah blesses him with His bounties, he gets intoxicated with arrogance and pride, and when he faces distress, he keeps on praying in a way of wailing and complaining about his difficulties, as is the habit of heedless people; the intent is not to supplicate, but to wail about his misfortunes and to keep on telling the people about it. (Allah knows best).
 
 ## Personal Reflections
+
+

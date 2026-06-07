@@ -76,18 +76,6 @@ word_by_word:
     transliteration: āminīna
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We placed, between them and the towns which We had blessed, towns easy to be seen, and We made the stages (of journey) between them easy (saying): "Travel in them safely both by night and day. In verse 18, it was said: وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ الْقُرَ‌ى الَّتِي بَارَ‌كْنَا فِيهَا قُرً‌ى ظَاهِرَ‌ةً وَقَدَّرْ‌نَا فِيهَا السَّيْرَ‌ سِيرُ‌وا (And We had made towns to be seen between them and between the towns in which We had placed Our blessings, and had measured the journey between them: "Travel along them at nights and days peacefully.
@@ -151,3 +139,5 @@ These habitations were close by the main road, therefore, these were called: ق�
 In the last sentence of verse 18: (Travel along them at nights and days peacefully.), mention has been made of a third blessing bestowed on the people of Saba'. It means that these settlements were located at such equal and balanced distances that a traveler would be able to cover them in almost identical time. Then the routes were secure. Theft and highway robbery were unknown. One could travel at any time of the night or day without any hesitation or concern.
 
 ## Personal Reflections
+
+

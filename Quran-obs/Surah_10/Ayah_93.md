@@ -105,18 +105,6 @@ word_by_word:
     transliteration: yakhtalifūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 93, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We settled the Children of Israel in an honorable dwelling place, and provided them with good things, and they differed not until the knowledge came to them. The second verse (93) brings the future of a people bulldozed in disgrace by the Pharaoh into sharp focus making it stand out against the evil end of the tyrant.
@@ -182,3 +170,5 @@ Some commentators have said that عِلم (ilm: knowledge) at this place denotes
 At the end of the verse, it was said that Allah Ta'ala will give His verdict about what they used to dispute, on the day of Qiyamah. Truth will then become distinct from falsehood and the upholders of truth will be sent to Paradise while the practitioners of falsehood, to Hell.
 
 ## Personal Reflections
+
+

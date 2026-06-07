@@ -96,18 +96,6 @@ word_by_word:
     transliteration: ḥarīrun
 ---
 
-## Context
-
-To understand **The Pilgrimage** (Al-Hajj) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As this Surah contains the characteristics of both the Makki and the Madani Surahs, the commentators have differed as to its period of revelation, but in the light of its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Truly, Allah will admit those who believe and do righteous good deeds, to Gardens underneath which rivers flow (in Paradise), wherein they will be adorned with bracelets of gold and pearls and their garments therein will… The philosophy of adorning the dwellers of Paradise with gold bracelets Here a point may arise that bracelets are articles of jewellery worn by women only and their use by men is looked upon with disfavor.
@@ -221,3 +209,5 @@ According to Sayyidna Abu Said al-Khudri ؓ there is another hadith in which the
 Here a point arises that if after admittance to Paradise a person remained deprived of something, he will nourish a sense of sorrow and grief, whereas Paradise is no place for such feelings, because everyone who is admitted to Paradise should at all times be easy in his mind and free from anxiety. On the other hand, if the deprivation of certain facilities causes no sorrow and grief, then the deprivation loses its purpose. Qurtubi has given a very convincing explanation to this matter. He says that the people of Paradise will be given different grades and places at different levels, depending on how well they stood in Allah's favour on account of their good deeds and devotion to the cause of the True Faith. Everybody will be aware of these differences, but Allah will fill their hearts with tranquility and contentment, so that they will not feel grief and sorrow about these differences: وَاللہُ سبحانَہُ و تعالیٰ اَعلَم
 
 ## Personal Reflections
+
+

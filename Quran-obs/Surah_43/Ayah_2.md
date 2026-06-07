@@ -14,17 +14,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Ornaments of Gold** (Az-Zukhruf) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people. Allah says:
 
 This Surah is Makki, although Muqatil رحمۃ اللہ علیہ has said that the verse وَاسْأَلْ مَنْ أَرْ‌سَلْنَا (43:45) is Madam, and according to another view, this Surah was revealed in Heaven during Lailat-ul-Mi` raj (the Night of Ascention) (Ruh u1-Ma’ ani) - Allah knows best.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ Ha Meem- Only Allah knows its meaning.
 وَالْكِتَابِ الْمُبِينِ (By the manifest Book - 43:2) The book in this verse refers to the Holy Qur'an. Whenever Allah swears by anything, it is usually an argument for the statement that follows. Swearing by the Qur'an in this verse is an indication that the Qur'an, by virtue of being a miracle, is a proof in itself of its being a Divine Book. To call it a 'manifest book' means that its subjects consisting of exhortations and advices are easily understandable; but as far as deduction of the precepts of 'Shari'ah' is concerned, it certainly is a difficult job which cannot be performed without complete capability of 'ijtihad'. This point has been clarified in Surah Alqamar, verse 17 وَلَقَدْ يَسَّرْ‌نَا الْقُرْ‌آنَ لِلذِّكْرِ‌ فَهَلْ مِن مُّدَّكِرٍ‌ (And indeed We have made the Qur'an easy for seeking advice. So, is there one to seek advice? - 54-17). Here, it has been stated that the Qur'an is easy for obtaining advice. Hence, it does not necessarily follow that ijtihad and inferring injunctions will be easy also; rather, it is proved through other evidences that full expertise in related subjects is a necessary condition for this exercise.
 
 ## Personal Reflections
+
+

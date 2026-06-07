@@ -88,18 +88,6 @@ word_by_word:
     transliteration: ʿaẓīman
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who have been given the Scripture (Jews and Christians)! The previous verse carried an admonition for those who refused to believe.
@@ -231,3 +219,5 @@ Shirk in Power: This is ascribing to others the powers and rights which are the 
 Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of worship (` Ibadah) which is the sole due of Allah. Some of the forms it could take are to go down in sajdah (prostration) for anyone, to release an animal dedicated in the name of somebody, making cere-monious offering for a person or thing, living or dead, to make a vow (mannat, nadhr) in someone's name; to make tawaf (rounds, circumambulation) of someone's grave or house; to give preference to someone else's word, or custom, as against God's own command; to make bows before anyone in the manner of a ruku`, the bowing position peculiar to Muslim prayer; to slaughter an animal in the name of someone; to take the affairs of the mortal world as subservient to the effect and influence of stars; to regard some month as ill-omened, wretched; and things like that.
 
 ## Personal Reflections
+
+

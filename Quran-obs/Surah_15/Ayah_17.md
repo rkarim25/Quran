@@ -24,18 +24,6 @@ word_by_word:
     transliteration: rajīmin
 ---
 
-## Context
-
-To understand **The Rocky Tract** (Al-Hijr) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It is clear from its topics and style that the period of its revelation is about the same as that of Surah Ibrahim, for two things are quite prominent in its background. First, it appears from the repeated warnings in this Surah that in spite of the fact that the Holy Prophet had been propagating the Message for many years, his people in general had not shown any inclination towards its acceptance nay, they had become more and more obdurate and stubborn in their antagonism, enmity and ridicule with the passage of time.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he… Mentioned in the previous verses was the doggedness and hostility of deniers and disbelievers.
@@ -83,3 +71,5 @@ Commentary
 The word: بُرُ‌وجًا ; is the plural of: بُرُج (burj) which is applied to big palaces and castles and to similar other structural entities. Tafsir authorities Mujahid, Qatadah, Abu Salih and others have explained 'buruj' at this place in the sense of big stars. As for the statement in this verse which points to the creation of these big stars in the sky, the word: السَّمَاءِ (as-sama’) sky means atmosphere which, in common modern day terminology, is called the 'space.' The application of 'as-sama" in both these senses is common, and recognized. Thus, the physical presence of deep space is identified as 'as-sama" and the atmosphere much lower than it has also been repeatedly termed as 'as-sama" in the Holy Qur'an. As for the planets and stars being in the space, and not in the skies, the relevant investigative details, as coordinated with the verses of the Qur’ an and classical and modern astronomy, will Insh’ Allah appear under our comments on the verse: تَبَارَ‌كَ الَّذِي جَعَلَ فِي السَّمَاءِ بُرُ‌وجًا وَجَعَلَ فِيهَا سِرَ‌اجًا وَقَمَرً‌ا مُّنِيرً‌ا (Blessed is He Who made in the sky stellar formations and made in it the Sun and the Moon providing light) of Surah Al-Furqan (25 :61).
 
 ## Personal Reflections
+
+

@@ -29,18 +29,6 @@ word_by_word:
     transliteration: yub'ʿathūna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 144, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And verily, Yunus was one of the Messengers (139)When he ran to the laden ship (140)Then he (agreed to) cast lots, and he was among the losers (141)Then a (big) fish swallowed him as he had done an act worthy of blame (1… In verse 143, it was said: فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ (Had he not been of those who proclaim Allah's purity,....).
@@ -162,3 +150,5 @@ By the Barakah of this very Tasbih, Allah Ta’ ala had him delivered from this 
 According to a narration from Sayyidna Sa'd Ibn AbI Waqqas ؓ appearing in Abu Dawad, the Holy Prophet ﷺ said: "Any Muslim who recites the prayer Sayyidna Yunus (علیہ السلام) had made while in the belly of the fish, that is: لَّا إِلَـٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ (la ilaha anta - subhanaka - inni kuntu minaz-zalimin: There is no god but You - Pure are You - Indeed I was among the wrongdoers - 21:87) for any (permissible) objective, his du'a or prayer will be answered." (Tafsir Qurtubi)
 
 ## Personal Reflections
+
+

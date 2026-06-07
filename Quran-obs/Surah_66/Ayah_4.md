@@ -95,17 +95,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prohibition** (At-Tahrim) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tahrim is a **Madinah** surah—revealed as the 107th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best. Some might say that they were two separate incidents. However, it is not likely that the Ayat were revealed about both incidents, if indeed they were two separate incidents. Allah knows best. A Hadith that Imam Ahmad collected in the Musnad mentions that 'A'ishah and Hafsah were the plotters. Imam Ahmad recorded that Ibn 'Abbas said, "I was eager to ask 'Umar about the two ladies among the wives of the Prophet ﷺ, about whom Allah said,
 
 I said, 'Messenger of Allah, have you divorced them?' He said, 'No.' I stood at the door of the Masjid and called out at the top of my voice, 'The Messenger of Allah has not divorced his wives.' It was on this occasion that this Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -282,3 +274,5 @@ The wife mentioned here was Umm Salamah, and she is the one who advised 'Umar to
 وَإِن تَظَاهَرَ‌ا عَلَيْهِ فَإِنَّ اللَّـهَ هُوَ مَوْلَاهُ وَجِبْرِ‌يلُ (And if you back each other against him [ the Prophet ﷺ ], then Allah is his supporter, and Jibra'l (علیہ السلام) and righteous believers and, after all that, angels are his helpers....66:4). The current verse warns the wives that if they do not repent and please the Messenger of Allah ﷺ ، they will not cause any loss to him, because Allah is his Protector, and so are Jibril, every right-acting believer and, furthermore, the other angels too will come to his support, and it will be the wives themselves who will suffer loss.
 
 ## Personal Reflections
+
+

@@ -69,15 +69,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 121, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 These Ayat mean, "Those among the People of the Book who perfectly adhered to the Books that were revealed to the previous Prophets, will believe in what I have sent you with, O Muhammad!" Allah said in another Ayah,
 
-33. The commentary we have here is based on a report from the blessed Companion Ibn ` Abbas ؓ ، according to whom this verse was revealed on the occasion of the arrival of forty Christians from Abyssinia who had accepted Islam. But other commentators believe that "those to whom We have given the Book" are the blessed Companions, and "the Book" is the Holy Qur'an. As for reading the Book "observing the rights of its recitation", it means enunciating each word correctly and clearly, and keeping the fear and love of Allah present in one's heart while reading, and also the resolve to follow divine guid-nce and to obey divine commandments.
+33. The commentary we have here is based on a report from the blessed Companion Ibn ` Abbas ؓ ، according to whom this verse was revealed on the occasion of the arrival of forty Christians from Abyssinia who had accepted Islam. But other commentators believe that "those to whom We have given the Book" are the blessed Companions, and "the Book" is the Holy Qur'an. As for reading the Book "observing the rights of its recitation", it means enunciating each word correctly and clearly, and keeping the fear and love of Allah present in one's heart while reading, and also the resolve to follow divine guid-nce and to obey divine commandments. The blessed second Khalifah ` Umar ؓ has said that reading the Holy Qur'an "observing the rights of its recitation" requires that when one comes to a description of Paradise, one should pray to Allah for granting one this abode, and when one finds a description of Hell, one should seek Allah's protection from it. (Ibn Abi Hatim)
 
 ## Tafsir Summary
 
@@ -192,3 +186,5 @@ That is to say, they have distorted neither the words nor the meanings, nor have
 33. The commentary we have here is based on a report from the blessed Companion Ibn ` Abbas ؓ ، according to whom this verse was revealed on the occasion of the arrival of forty Christians from Abyssinia who had accepted Islam. But other commentators believe that "those to whom We have given the Book" are the blessed Companions, and "the Book" is the Holy Qur'an. As for reading the Book "observing the rights of its recitation", it means enunciating each word correctly and clearly, and keeping the fear and love of Allah present in one's heart while reading, and also the resolve to follow divine guid-nce and to obey divine commandments. The blessed second Khalifah ` Umar ؓ has said that reading the Holy Qur'an "observing the rights of its recitation" requires that when one comes to a description of Paradise, one should pray to Allah for granting one this abode, and when one finds a description of Hell, one should seek Allah's protection from it. (Ibn Abi Hatim)
 
 ## Personal Reflections
+
+

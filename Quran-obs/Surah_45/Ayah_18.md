@@ -60,15 +60,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Crouching** (Al-Jathiyah) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -133,3 +125,5 @@ The Status of Previous Shari'ahs for Muslims
 ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِ‌يعَةٍ مِّنَ الْأَمْرِ‌ "Then We have put you on a certain way of the Matter (i.e. the religion)... 45:18". Here it may be borne in mind that the religion of Islam has certain fundamental articles of faith, such as the Oneness of Allah, the Hereafter and so on; and there are ordinances, laws and injunctions related to practical life. As far as the fundamental articles of faith are concerned, they are immutable and were imparted to every Prophet (علیہ السلام) and his Ummah since the inception of man. However, laws relating to practical life were different for different Prophets (علیہم السلام) and their people. The sacred laws of previous Shari'ahs kept changing according to the needs of time and exigencies of circumstances. In the verse under comment, the second type of practical laws has been described as "...a certain way of the Matter (i.e. the religion)...". The jurists, on the basis of this verse, have ruled that the Ummah of the Prophet Muhammad ﷺ must, of necessity, follow the sacred laws of the Shari'ah of the Prophet Muhammad ﷺ . As far as the sacred laws of the previous Shari` ah are concerned, this Ummah is not legally bound to them unless the Qur'an and Sunnah support or confirm them. Support or confirmation may take one of two forms, as follows: (1) the Qur'an and Sunnah may explicitly say that a certain law of a certain Prophet (علیہ السلام) must be followed by this Ummah; or (2) the Qur'an and Sunnah may speak highly and favourably about a certain law of a previous Ummah without hinting that it is abrogated for this Ummah. This indicates that the law is applicable in the Shari` ah of this Ummah also. In that case, the previous law becomes part of this Shari'ah, and as such this Ummah is legally bound to follow it. This much is sufficient for us to understand the status of the previous Shari` ahs. Details are available in the books of the Islamic jurisprudence.
 
 ## Personal Reflections
+
+

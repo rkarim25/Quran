@@ -40,15 +40,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 159, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah. They do not sell the verses of Allah for a small price, for them is a reward with their Lord. Surely, Allah is Swift in account.)[3:199]
 
-The Prophet of Allah asked them if they had some means of weighing and measuring and what other means of subsistence did they have? They answered that their usual practice was that they cultivated the land and collected the whole produce together in a heap. The people came and took from it according to their need. They said, "We do not, therefore, need any weights and measures." The Holy Prophet ﷺ asked them if any one of them ever told lies. They said that no one among them ever told lies because it was a usual practice that any person speaking a lie was burnt up by a heavenly fire. He asked them as to why all their houses were of the same type? They answered, that it was to avoid the possibility of showing off one's affluence as compared to others.
+The Prophet of Allah asked them if they had some means of weighing and measuring and what other means of subsistence did they have? They answered that their usual practice was that they cultivated the land and collected the whole produce together in a heap. The people came and took from it according to their need. They said, "We do not, therefore, need any weights and measures." The Holy Prophet ﷺ asked them if any one of them ever told lies. They said that no one among them ever told lies because it was a usual practice that any person speaking a lie was burnt up by a heavenly fire. He asked them as to why all their houses were of the same type? They answered, that it was to avoid the possibility of showing off one's affluence as compared to others. He asked them why they had built up their graves in front of their houses? They said that this made them remember their death all the times. After the Holy Prophet returned from heavens to Makkah, this verse was revealed to him. Al-Qurtubi, under the comments of this verse has narrated this event along with other suggestions and has remarked that this narrative was not authentic. Ibn Kathir, however, has termed it as an unusual event but did not reject it.
 
 ## Tafsir Summary
 
@@ -95,3 +89,5 @@ The Prophet of Allah asked them if they had some means of weighing and measuring
 In short, this verse makes us understand that there has always been a group among the Israelites who followed the Truth. Be they the people described above or the ones who embraced Islam after the appearance of the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

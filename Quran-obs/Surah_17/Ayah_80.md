@@ -64,15 +64,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night Journey** (Al-Isra) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It has been reported in al-Jami` of Tirmidhi from Sayyidna ` Abdullah ibn ` Abbas ؓ that the Holy Prophet ﷺ was in Makkah al-Mu` azzamah. Then, he was commanded to migrate to Madinah. Thereupon, this verse was revealed: وَقُل رَّ‌بِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِ‌جْنِي مُخْرَ‌جَ صِدْقٍ (And say, "0 my Lord, make me enter a rightful entrance and make me exit a rightful exit - so). Here, the word: مُدخَل (mudkhal) and مُخرَج (mukhraj) meaning the place of entry and the place of exit are اِسمَ ظرف (ism-al-zarf: the noun of place and time). The addition of the attribute (na't) of صِدق :sidq (translated as rightful) releases the sense of such entry and exit being totally true to the will and pleasure of Allah and in the best of attending circumstances, because the word: صِدق to (sidq) is also used in the Arabic language for every such act as is correct and better both outwardly and inwardly. The words: قَدَمَ صِدْقٍ (Yunus 10:2), لِسَانَ صِدْقٍ (ash-Shu` ara 26:84) and مَقْعَدِ صِدْقٍ (al-Qamar 54:55) have been used in the Holy Qur'an in that very sense.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -151,3 +143,5 @@ A prayer for important objectives
 At the time of his migration to Madinah, Allah Ta’ ala asked the Holy Prophet ﷺ to make this dua' which pleaded with Him that his exit from Makkah and then the arrival in Madinah should both be good and smooth in all possible ways. It was the outcome of this prayer that, though he was within the striking range of the pursuing disbelievers at the time of Hijrah, yet Allah Ta’ ala shielded him at every step and finally made Madinah al-Tayyibah good and promising for him and for all Muslims, both outwardly and inwardly. Therefore, some ` Ulama' have said that every Muslim should remember to make this prayer at the beginning of all objectives they wish to pursue and that this prayer is beneficial for all objectives and purposes. The sentence which complements this very prayer appears next: وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرً‌ا "and grant me from Your Own a power favoured (by You)." Qatadah, the great tabi` i says: the Holy Prophet ﷺ knew that fulfilling his functional duties as a prophet and working while besieged by enemies were challenges he could not handle personally. Therefore, He prayed to Allah Ta’ ala for help and the power to subdue. The prayer was answered and everyone saw its effects.
 
 ## Personal Reflections
+
+

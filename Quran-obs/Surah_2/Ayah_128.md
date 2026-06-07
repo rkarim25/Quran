@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-raḥīmu
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 128, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (cont.) And We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (t… Verse 128 reports that he further prayed to Allah "to make" him and his son obedient to His commandments and to His Will.
@@ -509,3 +497,5 @@ It is significant. that Sayyidna Ibrahim (علیہ السلام) included his de
 We might add an explanatory note about the word Manasik مناسک (the plural of Mansik) which occurs in Verse 128. This word signifies the different actions involved in the performance of the Hajj, and also the different places where the rites are performed - like ` Arafah عرفات ، Muzdalifah مزدلفہ or Mina منی . Both the meanings of the word are intended here, and the substance of the last part of the prayer is that Sayyidna Ibrahim (علیہ السلام) wanted the rites of the Hajj to be explained and their locations to be indicated. The verb which has been employed in this connection is Arina أَرِ‌نَا - "show us." Now, seeing is done through the eyes, and also through the heart. So, the different locations of the rites were shown to him through the Archangel Jibra'il (علیہ السلام) and the injunctions regarding the Hajj were explained in detail.
 
 ## Personal Reflections
+
+

@@ -208,17 +208,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah forbade His believing servants from praying while drunk, for one does not know the meaning of what he is saying in that state, and He forbade them from attending the Masjids while sexually impure, except when one is just passing through the Masjid from one door to another. This Ayah was revealed before alcohol consumption was completely prohibited, as evident by the Hadith that we mentioned in Surat Al-Baqarah when we explained Allah's statement,
 
 Ibn Abi Hatim has recorded some reports about the incident of its revelation: Sa'd said, "Four Ayat were revealed concerning me. A man from the Ansar once made some food and invited some Muhajirin and Ansar men to it, and we ate and drank until we became intoxicated. We then boasted about our status." Then a man held a camel's bone and injured Sa'd's nose, which was scarred ever since. This occurred before Al-Khamr was prohibited, and Allah later revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -451,3 +443,5 @@ It is certainly a great favour granted by Allah Almighty that He, in His mercy, 
 In verses previous to this, the stress was on acting with Taqwa in mutual dealings. In between came some rules pertaining to ‘Ibadah, Salah and their corollaries since they instill man with fear of Allah, promote concern for the life-to-come and help in seeing that dealings come out right and smooth.
 
 ## Personal Reflections
+
+

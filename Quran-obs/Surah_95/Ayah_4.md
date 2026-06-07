@@ -28,18 +28,6 @@ word_by_word:
     transliteration: taqwīmin
 ---
 
-## Context
-
-To understand **The Fig** (At-Tin) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tin is a **Makkah** surah—revealed as the 28th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Qatadah, this Surah is Madani. Two different views have been reported from Ibn Abbas: first that it is a Makki Surah, and second that it is Madani. But the majority of scholars regard it as a Makki revelation, a manifest symbol of which is the use of the words hadh-al-balad-il-amin (this city of peace) for Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. The subject of the four oaths is: لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ (We have created man in the best composition...95:4).
@@ -155,3 +143,5 @@ This indicates that man is the most beautiful creation of Allah outwardly and in
 The Sufis have supported this concept. Some scholars have analysed in detail - from head to toe - to show how man is the epitome of the large universe.
 
 ## Personal Reflections
+
+

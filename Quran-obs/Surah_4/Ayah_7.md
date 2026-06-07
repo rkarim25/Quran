@@ -86,15 +86,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Inspite of what happened, the widow of Sayyidna Aws ibn Thabit ؓ still wanted that these cousins who had taken possession of the entire property left by her deceased husband might as well marry the two orphaned daughters so that she is relieved of the concern for their marriage. But, as they did not accept this proposal too, she went to the Holy Prophet ﷺ and narrated to him her sad story and explained the destitution of her children. Since, by that time, the 'verse of inheritance' was yet to be revealed in the Holy Qur'an, the noble Prophet ﷺ withheld his response. His heart was at peace; he was confident that this unjust practice will be removed through Divine revelation. Thereupon, the following verse was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -247,3 +239,5 @@ A sign of goodwill to other relatives
 It is likely that there are some relatives of the deceased who cannot receive a share from his inheritance according to the rules of Shari'ah. At the same time, it is obvious that everyone does not know the details of the system of share distribution. Generally, every relative would like to have some share out of the inheritance. Therefore, relatives who have been excluded under the provisions of the Islamic law of inheritance may feel disappointed at the time of the distribution of inheritance, specially so when they are physically present at that time, and more so when there are some orphans and poor and needy among them. A scenario in which other relatives are walking away with their respective shares while they simply look on is terrible.
 
 ## Personal Reflections
+
+

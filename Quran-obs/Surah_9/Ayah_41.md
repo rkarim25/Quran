@@ -69,15 +69,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 41, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (March forth, whether you are light or heavy) was the first part to be revealed from Surah Bara'ah." Mu'tamir bin Sulayman narrated that his father said, "Hadrami claimed that he was told that some people used to declare that they will not gain sin (if they lag behind the forces of Jihad) because they are ill or old. This Ayah was revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -158,3 +150,5 @@ Imam Ahmad recorded that Anas said that the Messenger of Allah ﷺ said to a man
 In the fourth verse (41), the command given earlier has been repeated for emphasis. It is being said here that, once the Prophet of Allah orders people to come out for Jihad, they must come out as a matter of absolute obligation - for on the compliance of this command hinges all that is good for them.
 
 ## Personal Reflections
+
+

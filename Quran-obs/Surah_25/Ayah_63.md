@@ -55,18 +55,6 @@ word_by_word:
     transliteration: salāman
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the servants of the Most Gracious are those who walk on the earth Hawna, and when the foolish address them they say; "Salama. Upto this point Surah Al-Furqan has mostly discussed the proofs of the prophethood of the Holy Prophet ﷺ and answered various objections raised in this regard by disbelievers and pagans.
@@ -170,3 +158,5 @@ The third characteristic
 وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا (And when the ignorant people speak to them, they reply peacefully - 25:63): It should be kept in mind that the word "ignorant" in this verse refers to a person who acts like an ignorant person, notwithstanding that he might be a knowledgeable person. Also, the word سلام (peace) is not used here in its customary sense of greeting, but for any word causing peace. What is meant here is that in response to ignorance they keep composed and answer with calmness so that others are not offended and they do not commit a sin. The same explanation is put forward by Sayyidna Mujahid and Muqatil رحمۃ اللہ علیہما etc. The intended meaning is that they do not avenge from those who talk to them like ignorant people.
 
 ## Personal Reflections
+
+

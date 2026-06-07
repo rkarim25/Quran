@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 80, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) Lut, when he said to his people: "Do you commit lewdness such as none preceding you has committed in all of the nations (80)"Verily, you practice your lusts on men instead of women. Out of the continuing series of stories relating to prophets (علیہم السلام) and their communities, the fourth story is that of Sayyidna Lut (Lot) tX..JI ...lc.
@@ -131,3 +119,5 @@ Then, it was said that this shameful act has never been committed by anyone in a
 Here, their immodesty has been censured on two grounds: (1)-It so happens that men would get involved in many sins because of their social conditions, or because of a blind following of their ancestors - though, that too, is not a valid legal excuse in the Shar'iah of Islam. But, as a matter of customary practice, such a person could be taken as excusable in some or the other degree. But, when it comes to a sin which has never been committed by anyone before, nor does it have any particular compulsions of its own, it becomes a curse of the highest degree. (2)-The other ground is that this act becomes a channel of making others equally accursed. Think of a person who invents some evil act or custom. As obvious, the sin and punishment of his evil act falls on that person anyway, but, along with him, affected are all who sink in sin led by the act of the originator right through the Last Day, for the curse and punishment of all those so affected also sits on the shoulders of the originator of the evil.
 
 ## Personal Reflections
+
+

@@ -38,18 +38,6 @@ word_by_word:
     transliteration: mahīlan
 ---
 
-## Context
-
-To understand **The Enshrouded One** (Al-Muzzammil) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Muzzammil is a **Makkah** surah—revealed as the 3rd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 20 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this section. For it mentions fighting in the way of Allah, and obviously, there could be no question of it at Makkah; it also contains the Command to pay the obligatory zakat , and it is fully confirmed that the zakat at a specific rate and with an exemption limit (nisab) was enjoined at Madinah. Theme and Subject Matter In the first seven verses the Holy Prophet (upon whom be peace) has been commanded to the effect: "Prepare yourself to shoulder the responsibilities of the great Mission that has been entrusted to you; its practical form is that you should rise during the hours of night and stand up in Prayer for half the night, or for a little more or less of it." In vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And be patient with what they say, and keep away from them in a good way (10)And leave Me alone to deal with the deniers, those who are in possession of good things of life. يَوْمَ تَرْجُفُ الْاَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيْبًا مَّهِيْلًا (on the Day when the earth and the mountains will quake, and the mountains will turn into a slipping heap of sand.
@@ -145,3 +133,5 @@ So the first interpretation would mean, 'how can you attain safety for yourselve
 These verses describe the horrors and terrors of the Day of Resurrection. Verse [ 14] describes that the punishment will take place on the Day when the earth and mountains will shake and the mountains will be reduced to a heap of dust or shifting dunes. Thereafter, reference is made to the story of Musa (علیہ السلام) and Fir'aun in order to threaten the pagans of Makkah. Allah sent a Messenger, Muhammad ﷺ ، to bear witness against the pagans of Makkah just as He sent a Messenger, Musa (علیہ السلام) to Fir'aun. But Fir'aun disobeyed Musa (علیہ السلام) and Allah seized him with terrible severity right in this world. Likewise, if the pagans of Makkah persist stubbornly in their pagan conduct, they too can be seized similarly with terrible severity in this very world. Towards the conclusion, the verse says that if no torment is inflicted in this world, no one can escape the horrors and terrors and length of the Day of Resurrection that will turn the children grey. This could be a metaphor for the most calamitous happenings which bring about disastrous changes. But some scholars say that this is a description of reality, in that the Day of Resurrection will be so long that a little child will grow old. [ Qurtubi and Ruh ].
 
 ## Personal Reflections
+
+

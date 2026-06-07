@@ -26,15 +26,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Palm Fiber** (Al-Masad) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Masad is a **Makkah** surah—revealed as the 6th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -185,3 +177,5 @@ Surah Al-Lahab
 Ends here
 
 ## Personal Reflections
+
+

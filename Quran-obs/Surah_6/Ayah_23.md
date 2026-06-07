@@ -54,18 +54,6 @@ word_by_word:
     transliteration: mush'rikīna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 23, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And on the Day when We shall gather them all together, We shall say to those who joined partners in worship (with Us): "Where are your partners (false deities) whom you used to assert (as partners in worship with Allah)? In short, on this venue of the great trial, a long period of time will pass for the trial to begin, so much so, that these people will wish that reckoning comes so that they can be relieved from their state of uncertainty, no matter what happens in the end.
@@ -189,3 +177,5 @@ Another question which arises in this verse is about what has been said in some 
 The answer is that such address or speech will not be in the form of honouring them or accepting their prayers. As for the negation of an address based on admonition, that is not intended in this verse. It could also be said that the address mentioned in this verse may be through the angels. As for the verse where Divine speech or address has been negated, it refers to an indirect address.
 
 ## Personal Reflections
+
+

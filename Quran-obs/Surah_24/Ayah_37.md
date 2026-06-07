@@ -86,17 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Men whom neither trade nor business diverts from the remembrance of Allah nor from performing the Salah nor from giving the Zakah). meaning, they give priority to obeying Allah and doing what He wants and what pleases Him over doing what they want and what pleases them. It was reported from Salim from 'Abdullah bin 'Umar that he was in the marketplace when the Iqamah for prayer was called, so they closed their stores and entered the Masjid. Ibn 'Umar said: "Concerning them the Ayah was revealed:
 
 Sayyidna ` Abdullah Ibn ` Umar ؓ has said that this verse was revealed in connection with the market people, and his son, Sayyidna Salim, has related that one day his father was passing through the market and the time for prayers had come. Then he noticed that people started closing their shops and set out to go towards the mosque. On that Sayyidna ` Abdullah Ibn ` Umar ؓ said that it is for these persons that the Qur'an has said رِ‌جَالٌ لَّا تُلْهِيهِمْ تِجَارَ‌ةٌ وَلَا بَيْعٌ عَن ذِكْرِ‌ اللَّـهِ.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -303,3 +295,5 @@ They are fearful of a day in which the hearts and the eyes will be overturned - 
 The last quality of those believers who are mentioned in the above verse is that despite being busy in Allah's obedience, remembrance and worshiping all the time, they do not become careless or free themselves from Allah's fear. Instead the fear of reckoning on the Day of Judgment is constantly in their mind, which is the fruit of Nur of guidance granted to them by Allah Ta ala, mentioned in the earlier verse يَهْدِي اللَّـهُ لِنُورِ‌هِ مَن يَشَاءُ.
 
 ## Personal Reflections
+
+

@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud of themselves to follow him. This is like the Ayah:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -161,3 +153,5 @@ This مَن يُطِعِ اللَّـهَ relates to the obligations toward Alla
 things he is given the good tiding of فَأُولَـٰئِكَ هُمُ الْفَائِزُونَ (that such people are the victorious). And Fa'iz is that person who gets deliverance from Jahannam and earns a place in the Paradise. After hearing this explanation Sayyidna ` Umar ؓ said the endorsement of this is available in the utterance of the Holy Prophet ﷺ ، who had said that اُوتیت جوامع الکلم Allah has graced me with such comprehensive expressions in which words are few but the meanings are vast'. (Qurtubi)
 
 ## Personal Reflections
+
+

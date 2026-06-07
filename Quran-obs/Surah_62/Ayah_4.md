@@ -48,17 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Congregation, Friday** (Al-Jumu'ah) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jumu'ah is a **Madinah** surah—revealed as the 110th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet ﷺ, when Surat Al-Jumu'ah was revealed to him;
 
 (If faith were on Ath-Thurayya (Pleiades), even then some men or a man from these people would attain it.)" Muslim, At-Tirmidhi, An-Nasa'i, Ibn Abi Hatim and Ibn Jarir collected this Hadith. This Hadith indicates that Surat Al-Jumu'ah was revealed in Al-Madinah and that the Messenger's Message is universal. The Prophet ﷺ explained Allah's statement,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ Grammatically, there are two views regarding the conjoining of the word 'akharin
 Sayyidna Abu Hurairah رضی اللہ تعالیٰ عنہ narrates, as recorded in Bukhari and Muslim, that they were sitting in the company of the Holy Prophet ﷺ when Surah Al-Jumu'ah was revealed. He recited it to them, and when he reached the verse وَآخَرِ‌ينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ (...and others of them who have not joined them so far...62:3) they asked him who are these 'others'. He remained silent. They asked him the second time and he remained silent. They asked him the third time, and he put his blessed hand on the back of Sayyidna Salman Al-Farisi ؓ [ who was at that time in the gathering ] and said: "If faith were on Pleiades, even then some men or a man from these people would attain it." [ Mazhari ]. This narration does not specify people of Persia, but it does prove that they are included in the general sense of 'others'. This narration speaks greatly of all non-Arabs who embrace Islam. [ Mazhari ].
 
 ## Personal Reflections
+
+

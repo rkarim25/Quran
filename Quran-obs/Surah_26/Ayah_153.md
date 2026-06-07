@@ -24,18 +24,6 @@ word_by_word:
     transliteration: l-musaḥarīna
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 153, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "You are only of those bewitched! وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِ‌هِينَ ﴿149﴾And you hew out houses from the hills with pride.
@@ -91,3 +79,5 @@ Useful vocations are Divine Graces provided they are not employed in bad things
 This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful. But if they are used for some sinful purpose or in an unlawful act, or if someone gets involved in them with unnecessary concentration, then it is not lawful to adopt them. An example of unnecessary construction of tall buildings and its contempt has just been mentioned in the previous verses.
 
 ## Personal Reflections
+
+

@@ -46,18 +46,6 @@ word_by_word:
     transliteration: baʿīdin
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 27, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And his companion (angel) will say: "Here is (his record) ready with me! Man and Devil Dispute before Allah قَالَ قَرِ‌ينُهُ رَ‌بَّنَا مَا أَطْغَيْتُهُ (His (evil) companion (i.e.
@@ -161,3 +149,5 @@ Man and Devil Dispute before Allah
 قَالَ قَرِ‌ينُهُ رَ‌بَّنَا مَا أَطْغَيْتُهُ (His (evil) companion (i.e. the Shaitan) will say, "0 our Lord, I did not cause him to rebel,...50:27). The word qarin literally denotes a companion, that is, one who accompanies or associates with another. From this point of view, qarin in the preceding verse referred to the two angels that accompany human beings and record their deeds. Just as there are two angels in the company of man, there is a devil entrusted to every man, who calls him towards commission of sins, and thus leads him astray. In this verse qarin refers to that devil. When it will be ordered that the person be thrown into Hell, it seems that he will say that the devil had led him astray, otherwise he would have done righteous deeds. In response, the devil will disown him and say about the human who came on the Day of Resurrection as an unbeliever that "I did not lead him astray. In fact he himself was misguided, paying no heed to the truth". In response Allah will say what follows in the next verse.
 
 ## Personal Reflections
+
+

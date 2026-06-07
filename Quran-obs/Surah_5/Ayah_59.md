@@ -88,18 +88,6 @@ word_by_word:
     transliteration: fāsiqūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 59, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "O People of the Scripture! Referring to the Jews and Christians in: أَكْثَرَ‌كُمْ فَاسِقُونَ (most of you are sinners) at the end of the first verse, ` most' - not ` all'- of them have been declared to be outside the fold of Faith.
@@ -249,3 +237,5 @@ Commentary
 Referring to the Jews and Christians in: أَكْثَرَ‌كُمْ فَاسِقُونَ (most of you are sinners) at the end of the first verse, ` most' - not ` all'- of them have been declared to be outside the fold of Faith. The reason for this is that they did have people among them who remained believers under all conditions. Before the coming of the Holy Prophet ﷺ all they followed the injunctions of the Torah and Injil and believed in them. When the Holy Prophet ﷺ came and the Qur'an was revealed, they believed in him too and started following the injunctions of the Qur'an.
 
 ## Personal Reflections
+
+

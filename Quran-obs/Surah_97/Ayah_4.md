@@ -42,18 +42,6 @@ word_by_word:
     transliteration: amrin
 ---
 
-## Context
-
-To understand **The Power** (Al-Qadr) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qadr is a **Makkah** surah—revealed as the 25th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-In conclusion, it has been stated that on this night, the angels and Gabriel descend with every decree (which in verse 4 of Ad-Dukhan has been described as amr-hakim: wise decree) by the leave of their Lord, and it is all peace from evening until morning; that is, there is no interference of evil in it, for all decrees of Allah are intended to promote good and not evil.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Descent of the Angels and the Spirit with Divine Decrees Verse [ 4] نَزَّلُ الْمَلَائِكَةُ وَالرُّ‌وحُ (The angels and the Spirit descend in it, with the leave of their Lord, along with every command.) 'Spirit' here refers to Jibra'il (علیہ السلام) .
@@ -231,3 +219,5 @@ Verse [ 4] نَزَّلُ الْمَلَائِكَةُ وَالرُّ‌وحُ (
 Sayyidna Anas ؓ narrates that the Messenger of Allah ﷺ said: "When the Night of Qadr occurs, Jibra'il (علیہ السلام) descends on the earth with a huge throng of angels and all of them pray for every servant of Allah, man or woman, busy in salah or dhikr, to be blessed by Allah." [ Mazhari ]. In the phrase مِّن كُلِّ أَمْرٍ‌ (along with every command), the preposition min is used in the sense of 'with' as in [ 13:11] يَحْفَظُونَهُ مِنْ أَمْرِ‌ اللَّـهِ. The verse under comment means the angels bring down, during the Night of Qadr, the decree for everything destined to occur in the coming year. Some of the commentators, like Mujahid and others, say that the phrase مِّن كُلِّ أَمْرٍ‌min kulli amrin is syntactically related to salam, and the word Amr means 'everything'. Thus they interpret the statement to mean: 'The night is a security from every evil, harm and calamity.' [ Ibn Kathir ].
 
 ## Personal Reflections
+
+

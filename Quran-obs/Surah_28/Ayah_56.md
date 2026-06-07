@@ -60,17 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Stories** (Al-Qasas) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Verily, you guide not whom you like, but Allah guides whom He wills. And He knows best those who are the guided.) meaning: Allah knows best who deserves to be guided and who deserves to be misguided. It was recorded in the Two Sahihs that this Ayah was revealed concerning Abu Talib, the paternal uncle of the Messenger of Allah ﷺ. He used to protect the Prophet ﷺ, support him and stand by him. He loved the Prophet ﷺ dearly, but this love was a natural love, i.e., born of kinship, not a love that was born of the fact that he was the Messenger of Allah ﷺ. When he was on his deathbed, the Messenger of Allah ﷺ called him to Faith and to enter Islam, but the decree overtook him and he remained a follower of disbelief, and Allah's is the complete wisdom.
 
 (It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the idolators, even though they be of kin)(9:113). And there was revealed concerning Abu Talib the Ayah,
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ The word as am hidayah (guidance) is used for several meanings. One meaning is t
 Sahih Muslim has reported that this verse was revealed about the Holy Prophet ﷺ 's uncle, Abu Talib. It was his great desire that Abu Talib should accept the faith. It was for this desire that he was advised that it was not within his control to put faith in anybody's heart. It is observed in Ruh ul-Ma’ ani that one should abstain from discussing or passing judgment unnecessarily on the subject of acceptance of faith or otherwise by Abu Talib, because this may hurt the Holy Prophet ﷺ 's feelings for his natural love toward his uncle. (وَاللہُ سبحانَہُ و تعالیٰ اَعلَم)
 
 ## Personal Reflections
+
+

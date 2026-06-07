@@ -209,17 +209,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 37, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But you did hide in yourself that which Allah will make manifest, you did fear the people whereas Allah had a better right that you should fear Him.) Ibn Jarir narrated that 'A'ishah, may Allah be pleased with her, said, "If Muhammad ﷺ were to have concealed anything that was revealed to him of the Book of Allah, he would have concealed this Ayah:
 
 (So, when Zayd had completed his aim with her, We gave her to you in marriage,) meaning, 'when her marriage to Zayd was over and he had separated from her, We married her to you,' and the One Who was her Wali (guardian) in this marriage was Allah Himself, in the sense that He revealed to the Prophet ﷺ that he should go in unto her without any Wali, contractual agreement, dowery or witnesses among mankind.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -328,3 +320,5 @@ And the statement: زَوَّجْنَاكَهَا literally means: 'We solemnize
 As for the saying of Sayyidah Zainab ؓ before other women, "Your nikah was done by your parents. My nikah was done by Allah Ta’ ala Himself on the heavens," which appears in Hadith narrations, it turns out to be true both ways. Under the first probability, it is very clear while the other one too is not contrary to it.
 
 ## Personal Reflections
+
+

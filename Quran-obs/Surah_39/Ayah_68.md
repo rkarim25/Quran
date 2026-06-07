@@ -96,18 +96,6 @@ word_by_word:
     transliteration: yanẓurūna
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation In verse 10 ( wa ardullah-i-wasi atun : and Allah's earth is vast) there is abundant evidence that this Surah was sent down before the migration to Habash. Some traditions provide the explanation that this verse was sent down in respect of Hadrat Ja'far bin Abi Talib and his companions when they made up their mind to emigrate to Habash.( Ruh al-Maani , vol. XXII, p. 226).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And the Trumpet will be blown, and all who are in the heavens and all who are on the earth will swoon away, except him whom Allah wills. In verse 68, it was said: فَصَعِقَ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْ‌ضِ إِلَّا مَن شَاءَ اللَّـهُ and all those in the heavens and all those in the earth will faint, except the one whom Allah wills." The word: صَعِ…
@@ -227,3 +215,5 @@ Commentary
 In verse 68, it was said: فَصَعِقَ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْ‌ضِ إِلَّا مَن شَاءَ اللَّـهُ and all those in the heavens and all those in the earth will faint, except the one whom Allah wills." The word: صَعِقَ (sa'iqa) literally means to swoon, faint or fall unconscious, and the sense is that they all will become unconscious first, then die, and those who had already died, their spirits will become unconscious (as in Bayan ul-Qur’ an under the commentary on Surah An-Naml and in Ibn Kathir likewise).The last part of the verse: إِلَّا مَن شَاءَ اللَّـهُ : "except those whom Allah wills [ otherwise ] " needs to be explained. Included here, according to the narrations of ad-durr-ul-manthur, there are four angels - Jibra'il, Mika'il, Israfil and ` Izra'il (the angel of death) - and as in some narrations, the angels bearing the Throne are also included therein. That they have been so exempted means that the effect of the blowing of the sur will not cause death to them. But, later on, they too will meet their death. And no one, except the one and single Being of Allah subhanahu wa to ala, will remain alive at that time. Ibn Kathir has also opted for this view, and has said that, even out of all of them, the angel of death will be the last to die. Another verse similar to this has appeared in Surah An-Naml also where instead of the word: صَعِقَ (sa'iqa: faint), the word used is: فَزِعَ (fazi'a: frightened). Some details about it have been given there as well. (Ma’ ariful-Qur'an, Volume VI, please see under commentary on Surah An-Naml, 27:87).
 
 ## Personal Reflections
+
+

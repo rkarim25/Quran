@@ -42,18 +42,6 @@ word_by_word:
     transliteration: muḥ'ḍarūna
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 38, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And We did not send a warner to a township but those who were given the worldly wealth and luxuries among them said: "We believe not in what you have been sent with. In the last sentence of verse فَأُولَـٰئِكَ لَهُمْ جَزَاءُ الضِّعْفِ بِمَا عَمِلُوا وَهُمْ فِي الْغُرُ‌فَاتِ آمِنُونَ (Therefore, such people will have the double reward for what they did, and they will be at peace in the upper chambers (of Paradise).
@@ -197,3 +185,5 @@ In the last sentence of verse فَأُولَـٰئِكَ لَهُمْ جَزَا
 The word: غُرُفَات (ghurufat) is the plural form of: غُرفَۃ (ghurfah). It denotes a part of the mansion considered distinct and high as compared to other parts.
 
 ## Personal Reflections
+
+

@@ -35,17 +35,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Jinn** (Al-Jinn) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jinn is a **Makkah** surah—revealed as the 40th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2. 'It guides to the right path, and we have believed therein, and we shall never join anything with our Lord.')(3. 'And He, exalted be the Jadd of our Lord, has taken neither a wife nor a son.')(4. 'And that the foolish among us used to utter against Allah that which was an enormity in falsehood.')(5. 'And verily, we thought that men and Jinn would not utter a lie against Allah.')(6. 'And verily, there were men among mankind who took shelter with the males among the Jinn, but they increased them in Rahaq.')(7. 'And they thought as you thought, that Allah will not send any Messenger.')
 
 (Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation! It guides to the right path'") meaning, to what is correct and success.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -160,3 +152,5 @@ Ibn Abi Hatim recorded from 'Ikrimah that he said, "The Jinns used to fear human
 The word shatat means 'vile words, extravagant or exorbitant or enormous lies'. The word also means 'to transgress or act wrongfully, unjustly or exceed the legitimate bounds'. The believers from amongst Jinn used to put forward their excuse for being involved in disbelief and idolatry thus: The foolish people from amongst their nation uttered vile slander against Allah, whilst they did not think it possible for a human being or a Jinn to impute a lie to Allah. They were thus far caught up in the foolish people's vile words and committed kufr and shirk, but they had now heard the Qur'an and the reality had later opened up.
 
 ## Personal Reflections
+
+

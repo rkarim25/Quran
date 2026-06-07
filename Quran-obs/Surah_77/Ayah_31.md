@@ -28,18 +28,6 @@ word_by_word:
     transliteration: l-lahabi
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (It will be said to the disbelievers): "Depart you to that which you used to deny! أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft.
@@ -129,3 +117,5 @@ Then Allah says,
 أَلَمْ نَجْعَلِ الْأَرْ‌ضَ كِفَاتًا أَحْيَاءً وَأَمْوَاتًا (Did We not make the earth a container that collects the living and the dead?....25, 26) The word kit is derived from kaft. It means 'to gather things together'. Thus kit is a thing that embodies many things within itself. Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
 
 ## Personal Reflections
+
+

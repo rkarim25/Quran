@@ -33,18 +33,6 @@ word_by_word:
     transliteration: ghalīẓin
 ---
 
-## Context
-
-To understand **Luqman** (Luqman) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Luqman is a **Makkah** surah—revealed as the 57th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 34 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A perusal of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And whosoever submits his face (himself) to Allah, while he is a Muhsin, then he has grasped the most trustworthy handhold. At the beginning of the Surah, the Kafirs and the Mushriks were admonished for still persisting with their Kufr and Shirk despite that they had seen the manifestations of the all-encompassing knowledge and the most perfect power of Allah Ta’ ala.
@@ -98,3 +86,5 @@ The word: اسباغ (isbagh) in the next sentence of verse 20: وَأَسْبَ
 The manifestations of Allah's knowledge, power and blessings are endless. These cannot by encompassed by anyone through speech, nor can any pen write them comprehensively.
 
 ## Personal Reflections
+
+

@@ -16,18 +16,6 @@ word_by_word:
     transliteration: zuwwijat
 ---
 
-## Context
-
-To understand **The Overthrowing** (At-Takwir) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Takwir is a **Makkah** surah—revealed as the 7th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 What has been narrated about This Surah Imam Ahmad recorded from Ibn 'Umar that the Messenger of Allah ﷺ said, وَإِذَا النُّفُوسُ زُوِّجَتْ (and when the people will be arranged in categories...81:7).
@@ -265,3 +253,5 @@ Concerning Allah's statement,
 وَإِذَا النُّفُوسُ زُوِّجَتْ (and when the people will be arranged in categories...81:7). It means that the people on the Plain of Gathering will be grouped, like with like, in terms of belief and deeds. Disbelievers will be grouped together and believers will be grouped together. There are differences between the deeds and habits of believers and there are differences between the deeds and habits of disbelievers. The non-believers will be regrouped according to their essential characteristics and the Muslims too will be regrouped according to their essential characteristics as is reported in Baihaqi on the authority of Sayyidna Nu` man Ibn Bashir ؓ that Sayyidna ` Umar Ibn Khattab ؓ said that the people doing similar deeds, good or bad, will be joined together. For example, the knowledgeable persons from among the Muslims who were serving Islamic studies will be made into one group; the people who devoted themselves for worship will be made into another group; the people performing jihad will be together, and the people whose main characteristic was to spend in charities will be gathered in one place. On the other hand, those who were involved in wicked activities like thieves, robbers, adulterers will also be assembled in their respective groups. Sayyidna ` Umar ؓ based this statement on the verse of the Holy Qur'an in which Allah says in Surah [ and you will be (divided into) three categories. (56:7) It is mentioned further in that Surah that out of the three categories, two will attain salvation who are named as the 'foremost' and 'people of the right' while another group, namely the 'people of the left' will be comprised of the infidels.
 
 ## Personal Reflections
+
+

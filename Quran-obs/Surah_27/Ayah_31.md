@@ -25,18 +25,6 @@ word_by_word:
     transliteration: mus'limīna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 31, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Sulayman) said: "We shall see whether you speak the truth or you are (one) of the liars. Some rules of writing letters It is from Sulaiman and it is (in the following words:) With the name of Allah, the All-Merciful, the Very-Merciful.
@@ -136,3 +124,5 @@ Letters should be written short, comprehensive, eloquent and effective
 Looking at the letter of Sayyidna Sulaiman (علیہ السلام) one cannot avoid noticing that it is so comprehensive that all important matters have been put together in a few sentences, maintaining the high standard of eloquence along with the royal grandeur in front of the infidels. At the same time perfected attributes of Allah Ta’ ala are also described along with an invitation towards Islam. The condemnation of conceit and arrogance is also noticeable. As a matter of fact, this letter is a specimen of the marvel of Qur'an. Sayyidna Qatadah ؓ has stated that it was the practice in letter writing by all the prophets to make it brief but at the same time ensuring that nothing mentionable is left out. (Ruh ul-Ma’ ani)
 
 ## Personal Reflections
+
+

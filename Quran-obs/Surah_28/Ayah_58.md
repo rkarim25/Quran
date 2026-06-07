@@ -76,18 +76,6 @@ word_by_word:
     transliteration: l-wārithīna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 58, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And how many a town have We destroyed, which was thankless for its means of livelihood! The second reply to their excuse is given in the next verse وَكَمْ أَهْلَكْنَا مِن قَرْ‌يَةٍ بَطِرَ‌تْ مَعِيشَتَهَا (And how many a town have We destroyed that were over-proud of their means of living.
@@ -167,3 +155,5 @@ The third reply was given in the following verse: وَمَا أُوتِيتُم 
 لَمْ تُسْكَن مِّن بَعْدِهِمْ إِلَّا قَلِيلًا (Which were never inhabited after them except a few - 28:56). The habitations of the earlier people, which were destroyed by the Divine torment, still lie uninhabited, with the exception of a few. If the exemption ` except a few' is taken for those living there and the places destroyed, as Zajjaj has construed it, then the meaning would be that those places could never get inhabited, except a few that are inhabited. But Sayyidna Ibn ` Abbas ؓ has given another explanation of the verse. According to his interpretation, the exemption is not for the place and houses, but for the time. Thus the meaning would be that even if someone lives there, it is for a short time, like travelers, who cannot be regarded as permanent residents.
 
 ## Personal Reflections
+
+

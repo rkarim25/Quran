@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yaḥkumūna
 ---
 
-## Context
-
-To understand **The Spider** (Al-'Ankabut) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Ankabut is a **Makkah** surah—revealed as the 85th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 69 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Verses 56-60 clearly show that this Surah was sent down a little before the migration to Habash, and this is supported by the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. فَلَيَعْلَمَنَّ اللَّـهُ الَّذِينَ صَدَقُوا (So Allah will surely know the ones who are truthful - 29:3).
@@ -123,3 +111,5 @@ Allah said:
 Hakim-ul-Ummah Thanawi (رح) has copied the argument of his Shaikh, Maulana Muhammad Ya` qub (رح) that sometimes people are addressed by descending down to their level of intellect. The common man makes distinction between the sincere and the hypocrites by testing him out. Therefore, according to their approach of understanding Allah Ta’ ala has said that, through various means, We would find out who is sincere and who is not, even though He knows everything from the very beginning.
 
 ## Personal Reflections
+
+

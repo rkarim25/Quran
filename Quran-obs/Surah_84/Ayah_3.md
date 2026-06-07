@@ -16,18 +16,6 @@ word_by_word:
     transliteration: muddat
 ---
 
-## Context
-
-To understand **The Sundering** (Al-Inshiqaq) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Inshiqaq is a **Makkah** surah—revealed as the 83rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 25 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest Surahs to be revealed at Makkah. The internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Prostration of Recitation in Surat Al-Inshiqaq It is reported from Abu Salamah that while leading them in prayer, Abu Hurayrah recited, وَإِذَا الْأَرْضُ مُدَّتْ (and when the earth will be stretched [ to give room to more people ]...84:3) The word madda means 'to stretch, spread, expand out'.
@@ -167,3 +155,5 @@ meaning, certainly Allah will repeat his creation just as he began his creation,
 وَإِذَا الْأَرْضُ مُدَّتْ (and when the earth will be stretched [ to give room to more people ]...84:3) The word madda means 'to stretch, spread, expand out'. Sayyidna Jabir ibn ` Abdullah ؓ narrates that the Holy Prophet said that on the Day of Judgment the earth will be stretched out like leather (or rubber) and expanded into a smooth plain, and there will be just enough space on it for all individuals of human race to keep their feet. To understand this tradition, it is necessary to keep in mind that on the Day of Resurrection all individuals who will have been born from the inception of creation till resurrection will be brought back to life simultaneously. Thus each individual will have just enough space on the earth where he could place his feet. [ Transmitted by Hakim with a good chain of authorities - Mazhari ].
 
 ## Personal Reflections
+
+

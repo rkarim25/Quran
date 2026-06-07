@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-ḥakīmu
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Whatever of mercy, Allah may grant to mankind, none can withhold it; and whatever He may withhold, none can grant it thereafter. The word: رَّ‌حْمَةٍ (rahmah: mercy) appearing in verse 2: مَّا يَفْتَحِ اللَّـهُ لِلنَّاسِ مِن رَّ‌حْمَةٍ فَلَا مُمْسِكَ لَهَا (Whatever blessing Allah opens for the people, there is none to hold it back,) is general at this place.
@@ -145,3 +133,5 @@ And when Sayyidna Abu Hurairah ؓ saw rain falling, he used to say: مُطِرن
 [ 1] This translation is based on one way of reading this prayer, that is, jidd (with kasrah on the letter jim, but if it is read as jadd, then the correct translation would be: 'no high status of a person may benefit him against Your decree. (Muhammad Taqi Usmani)
 
 ## Personal Reflections
+
+

@@ -52,17 +52,9 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 109, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Say: "O people! Now the truth has come to you from your Lord. So whoever receives guidance, he does so for the good of himself. And whoever goes astray, he does so at his own loss. And I am not set over you as a guardian (108)And follow what is revealed to you, and be patient until Allah gives judgment. And He is the best of the judges (109)
 
 (And follow what has been revealed to you, and be patient) This means, 'Adhere to that which Allah has revealed to you, and inspired you with, and be patient with the opposition that you meet from the people.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -193,3 +185,5 @@ Thus, Sayyidna Yunus علیہ السلام was alerted to that slip, and later o
 In this story, as for parts that have been mentioned in the Qur'an, or stand proved from authentic narratives of Hadith, they are certain. The rest of them come from historical reports - and no ruling of Islamic law can be based on them.
 
 ## Personal Reflections
+
+

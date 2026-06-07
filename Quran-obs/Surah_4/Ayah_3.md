@@ -125,17 +125,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari recorded that 'A'ishah said, "A man was taking care of a female orphan and he married her, although he did not desire to marry her. That girl's money was mixed with his, and he was keeping her portion from her. Afterwards, this Ayah was revealed about his case;
 
 There is a narration in Sahih al-Bukhari from Sayyidah ` A'ishah ؓ which reports that an incident of this nature came to pass during the blessed time of the Holy Prophet ﷺ There was someone who had an orphaned girl under his guardianship. He had a fruit farm in which this girl held a share. This man married the orphaned girl and, rather than give her dower and things from his pocket, took her very share in the farm in his possession. Thereupon, the following verse was revealed:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -392,3 +384,5 @@ There is a doubt here: When a man has one wife, there will be just no chance of 
 The answer is: The addition of the word, اَدنیٰ 'adna (closer) in the text is there to point out to all those people who would not hesitate in inflicting all sorts of injustices on even one wife. So, to block this source of injustice, the absence of more than one wife is not enough. In this situation, however, the likelihood does exist that the danger of injustice will decrease and you will come closer to justice. But, the complete deliverance from injustice and oppression will only be possible when the rights of one wife are totally and fully given and she is treated fairly and generously, forgiving her shortcomings and being patient with her crooked ways.
 
 ## Personal Reflections
+
+

@@ -10,15 +10,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Mount** (At-Tur) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -155,3 +147,5 @@ Commentary
 وَالطُّورِ‌ (By the Mount Tur,....52:1) The word Tur in Hebrew means a mountain that has trees [ as opposed to jabal a mountain that does not have trees { Trn.}]. Here Tur stands for mount Sinai which is situated in the land of Madyan where the Holy Prophet Musa (علیہ السلام) had the honour of Allah's speaking to him. Some reports narrate that there are four mountains of Paradise in this world, and one of them is Tur (Qurtubi). Swearing an oath by Tur carries a special significance and honour of the mount. It also signifies that certain injunctions have been revealed by Allah for people to follow. Compliance with them is obligatory.
 
 ## Personal Reflections
+
+

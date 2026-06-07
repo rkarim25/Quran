@@ -50,18 +50,6 @@ word_by_word:
     transliteration: aḥadan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned. The Musnad of Ahmad, Ibn Hibban and Hakim have reported on the authority of Sayyidna Abu Said al-Khudri ؓ that the Holy Prophet ﷺ said, "Accumulate 'everlasting virtues' as much as you can." It was said, "What are they?" He said, "Saying: سُبحَانَ اللہِ لَآ اللہُ ، الحَمدُ للہِ اللہُ اَکبَر وَلَاحولَ وَلَا قُوَّۃَ اِلَّا بِاللہِ (Pure is Allah.
@@ -233,3 +221,5 @@ Sayyidna ` Ali ؓ said, 'Cultivation is of two kinds. Wealth and children are th
 ` Ubaid ibn ` Umair ؓ said, 'Everlasting virtues are righteous daughters for they are, for their parents, the greatest treasure-troves of reward from Allah.' This is supported by a narration of Sayyidah ` A'ishah ؓ according to which the Holy Prophet ﷺ has been reported to have said, "I saw a man from my ummah under orders to be taken to Hell. Thereupon, his righteous daughters clung to him and started wailing and crying and plaintively supplicating: 0 Allah, spare him for he was very kind to us in the mortal world and he worked very hard to raise us in our family. Allah Ta` ala, in His mercy, forgave him. (Qurtubi)
 
 ## Personal Reflections
+
+

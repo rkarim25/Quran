@@ -123,18 +123,6 @@ word_by_word:
     transliteration: ʿalīman
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They are those who disbelieved and hindered you from Al-Masjid Al-Haram and detained the sacrificial animals, from reaching their place of sacrifice. لَّقَدْ صَدَقَ اللَّـهُ رَ‌سُولَهُ الرُّ‌ؤْيَا بِالْحَقِّ (and made them stick to the word of piety, and they were very much entitled to it, and competent for it - 48:26) ".
@@ -412,3 +400,5 @@ Imam Ahmad recorded that 'Abdullah bin 'Abbas said, "On the day of Hudaybiyyah, 
 لَّقَدْ صَدَقَ اللَّـهُ رَ‌سُولَهُ الرُّ‌ؤْيَا بِالْحَقِّ (and made them stick to the word of piety, and they were very much entitled to it, and competent for it - 48:26) ". The construction kalimat-at-taqwa connotes the word of the pious persons, that is, the Kalimah of Tauhid and Risalah whereby a person declares his faith in Allah's Oneness and in the Messenger-ship of Sayyidna Muhammad ﷺ . It is named here as 'word of piety' because this word is the foundation of piety, righteousness and right conduct. The noble Companions ؓ here are said to have better right to it and more worthy of it, and thus Allah exposed and unmasked those people who accused them of infidelity and hypocrisy. Allah asserts that the noble Companions ؓ are more worthy of the word of Islam and better entitled to it, and thus made them adhere to it firmly, whereas the wretched evil-minded people refuse to acknowledge their value and entitlement.
 
 ## Personal Reflections
+
+

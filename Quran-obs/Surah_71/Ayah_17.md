@@ -24,18 +24,6 @@ word_by_word:
     transliteration: nabātan
 ---
 
-## Context
-
-To understand **Noah** (Nuh) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Nuh is a **Makkah** surah—revealed as the 71st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 28 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This also is one of the earliest Surahs to be revealed at Makkah, but the internal evidence of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He said: O my Lord! (Did you not see how Allah has created seven heavens one upon another, and has made the moon a light therein?
@@ -161,3 +149,5 @@ Glorious is the One who made stellar formations in the sky and placed therein a 
 وَمَكَرُ‌وا مَكْرً‌ا كُبَّارً‌ا (and they devised an enormous plan....71:22). In other words, they hatched a mighty plot. They rejected the message and persecuted Prophet Nuh (علیہ السلام) . In addition, they let loose hooligans and hoodlums on him. They agreed that they will not abandon their gods, especially the five major idols whose names appear in the following verse:
 
 ## Personal Reflections
+
+

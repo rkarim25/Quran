@@ -33,18 +33,6 @@ word_by_word:
     transliteration: tawwāban
 ---
 
-## Context
-
-To understand **The Divine Support** (An-Nasr) 3, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nasr is a **Madinah** surah—revealed as the 114th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 3 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Abdullah bin Abbas states that this is the last Surah of the Quran to be revealed, i. e. no complete Surah was sent down to the Holy Prophet after it. (Muslim Nasai, Tabarani, Ibn Abi Shaibah, Ibn Marduyah). According to Hadrat Abdullah bin Umar, this Surah was sent down on the occasion of the Farewell Pilgrimage in the middle of the Tashriq Days at Mina, and after it the Holy Prophet rode his she camel and gave his well known Sermon.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Virtues of Surat An-Nasr It has been mentioned previously that it (Surat An-Nasr) is equivalent to one-fourth of the Qur'an and that Surat Az-Zalzalah is equivalent to one-fourth of the Qur'an. When the approach of death is sensed, one needs to exert oneself immensely in Tasbih and Istighfar Verse [ 110:3] فَسَبِّحْ بِحَمْدِ رَ‌بِّكَ وَاسْتَغْفِرْ‌هُ (then pronounce the purity and praise of your Lord, and seek…
@@ -164,3 +152,5 @@ Surah An-Nasr
 Ends here
 
 ## Personal Reflections
+
+

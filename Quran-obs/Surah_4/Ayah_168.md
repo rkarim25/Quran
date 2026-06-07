@@ -56,15 +56,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 168, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews came to the Holy Prophet ﷺ . He said to them: Surely, you do know that I am a true messenger of Ajllah? They refused to accept that whereupon came the following verse (166): لَّـٰكِنِ اللَّـهُ يَشْهَدُ بِمَا أَنزَلَ إِلَيْكَ. 'But Allah bears witness (to your prophethood) through what He has revealed to you ...' The verse addressed to the Holy Prophet ﷺ declares that Allah is a witness to his prophet-hood through the miraculous Qur'an, a perfect message from out of His Knowledge. The Book has been revealed to him with full realization that he is deserving of it, and the angels too join in the testimony. After the very witnessing of the All-Knowing, All-Aware Allah, there is nothing left to argue about.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -149,3 +141,5 @@ It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews 
 The text, after having confirmed the veracity of the glorious Qur'an and the noble Prophet ﷺ ، turns to those who still deny them, conceal his character traits and circumstantial indicators of his appearance present in the Torah .and, sordidly enough, try to keep others away from the true faith by bringing out before them things which are not there or things .which have .been jumbled together to distort the truth. For such people, there shall be no forgiveness and no guidance either. Thus, it becomes very clear that guidance or the ability to find the straight path depends on following the Holy Prophet ﷺ and straying away, whatever be its nature, is nothing but hostility towards him. This, then, comprehensively refutes all erroneous ideas of the Jews.
 
 ## Personal Reflections
+
+

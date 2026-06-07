@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **Ya Sin** (Ya-Sin) 36, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ya-Sin is a **Makkah** surah—revealed as the 41st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 83 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of the style shows that it was either sent down during the last stage of the middle Makkan period, or it is one of those Surahs, which were sent down during the last stage of the Holy Prophet's stay at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And a sign for them is the dead land. سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنبِتُ الْأَرْ‌ضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ (Pure is the One who has created all the pairs of whatever the earth grows, and of the humans themselves, and of that which they do not know.
@@ -133,3 +121,5 @@ Ibn Jarir, however, understood the word Ma to mean Alladhi (i.e., a relative pro
 سُبْحَانَ الَّذِي خَلَقَ الْأَزْوَاجَ كُلَّهَا مِمَّا تُنبِتُ الْأَرْ‌ضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ (Pure is the One who has created all the pairs of whatever the earth grows, and of the humans themselves, and of that which they do not know. - 36:36). Here, the word: أَزْوَاجَ (azwaj) is the plural form of: زَوج (zawj) and means pairs. A pair is two things of the same kind and refers to a couple, or a match of the other. For example, a married man and woman is a pair; hence, each one of them is the zawj of the other. Similarly, males and females of animals are pairs. In the botanical kingdom, many trees have been found as having males and females among them. Date palms and Papaya are common examples. Others may also be like these as is the case with all trees bearing fruits and flowers in which, according to modern scientific information, procreation has been identified. In the same way, it is not improbable if the same arrangement of male and female exists in solids, minerals and other elements of creation, though in a manner not discovered as yet -towards which the text points out in: مِمَّا لَا يَعْلَمُونَ (mimma la ya` lamun: and from that which they do not know - 36). Generally, commentators refer to: أَزْوَاجَ (azwaj: pairs) as categories and kinds because the way male and female are called pairs, similarly, two contrasting things are also referred to as pairs, like chill and heat, land and water, sorrow and happiness, health and sickness, then, within each of these, many further degrees, categories and kinds come up in terms of high, low and the average. Similarly, there are many categories and kinds in human beings and animals in terms of color, form, language and way of life. The word: أَزْوَاجَ (azwaj: pairs) is inclusive of all these categories and kinds. In the present verse (36), mentioned first is: مِمَّا تُنبِتُ الْأَرْ‌ضُ (all the pairs of whatever the earth grows)- These are the categories and kinds of vegetation. After that, مِنْ أَنفُسِهِمْ and of the humans themselves,) mentioned there are the categories and kinds of human selves as such. And after that, in: مِمَّا لَا يَعْلَمُونَ (and from that which they do not know) included there are thousands of such creations as have not yet unfolded before human beings. Allah Ta’ ala alone knows how many categories and kinds of living forms, vegetation and minerals exist under the layers of the earth and in rivers and in mountains.
 
 ## Personal Reflections
+
+

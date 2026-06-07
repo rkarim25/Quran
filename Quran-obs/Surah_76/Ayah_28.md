@@ -44,17 +44,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Man** (Al-Insan) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Insan is a **Madinah** surah—revealed as the 98th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 31 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Therefore be patient with constancy to the command of your Lord.,) meaning, 'just as you have been honored by what has been revealed to you, then be patient with His decree and decision and know that He will handle your affairs in a good manner.'
 
 (And obey neither a sinner (Athim) nor a disbeliever (Kafur) among them.) meaning, 'do not obey the disbelievers and the hypocrites if they wish to deter you from what has been revealed to you. Rather convey that which has been revealed to you from your Lord and put your trust in Allah, for verily, Allah will protect you from the people.' The Athim is the sinner in his deeds and the Kafur is the disbeliever in his heart.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -175,3 +167,5 @@ Surah Ad-Dahr
 Ends here
 
 ## Personal Reflections
+
+

@@ -71,18 +71,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when they went in before Yusuf, he took his brother (Binyamin) to himself and said: "Verily, I am your brother, so grieve not for what they used to do. And when they came to Yusuf, he lodged his brother [ Benyamin ] with himself.
@@ -130,3 +118,5 @@ Some injunctions and rulings come out from verses 67 and 68. These are given bel
 8. A question arises here that Sayyidna Yusuf (علیہ السلام) made efforts to call his younger brother, even insisted on it. And when he came, he even disclosed his identity before him. But, he neither thought of calling his father, nor took any steps to inform him about his well-being while in Egypt. The reason for this is the same as described earlier. There is no doubt that he did have many opportunities during those forty years when he could have sent a message to his father about himself. But, whatever happened in this matter was Divine decree communicated through the medium of Wahy (revelation). Allah Ta’ ala would have not given him the permission to tell his father about himself - because he was yet to be tested once again through his separation from his son, Benyamin. It was to complete this Divine arrangement that all these situations were created.
 
 ## Personal Reflections
+
+

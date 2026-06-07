@@ -80,18 +80,6 @@ word_by_word:
     transliteration: khabīrin
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 He merges the night into the day, and He merges the day into the night. In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا دُعَاءَكُمْ وَلَوْ سَمِعُوا مَا اسْتَجَابُوا لَكُمْ (If you call them, they do not hear your call, and even if they were to hear, they would not respond to you.
@@ -157,3 +145,5 @@ In the last verse: إِن تَدْعُوهُمْ لَا يَسْمَعُوا د�
 The issue of the ability of the dead to hear سماع الموتی sama`-ulmawta) has appeared earlier. The present verse neither confirms nor rejects it. Arguments and proofs relating to this issue are different. They have already been mentioned in details under the commentary on Surah Ar-Rum [ 30] (Ma` ariful-Qur an, Volume VI).
 
 ## Personal Reflections
+
+

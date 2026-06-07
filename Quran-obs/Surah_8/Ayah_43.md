@@ -89,18 +89,6 @@ word_by_word:
     transliteration: l-ṣudūri
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (And remember) when Allah showed them to you as few in your dream; if He had shown them to you as many, you would surely have been discouraged, and you would surely have disputed in making a decision. Mentioned in verses 43 and 44, there is particular marvel of Divine power which was designed to take place at the battle of Badr for the express purpose of making sure that none of the two armies were to put an end to the war itself by deserting the battlefield - because, it was as a result of this very war that the manifestation of the veracity of Islam was destined even as a ground reality, all earthy, material.
@@ -166,3 +154,5 @@ Such was the nature of this Divine marvel that the army of the disbelievers whic
 Sayyidna ` Abdullah ibn Masud ؓ says: In our sight, the army facing us looked as if - as I said to the man next to me - these people would be ninety in number. That man said: No, they must be a hundred.
 
 ## Personal Reflections
+
+

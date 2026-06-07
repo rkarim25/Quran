@@ -62,18 +62,6 @@ word_by_word:
     transliteration: yush'rikūna
 ---
 
-## Context
-
-To understand **The Stories** (Al-Qasas) 68, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qasas is a **Makkah** surah—revealed as the 49th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 88 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation As already mentioned in the introduction to Surah An Naml, according to Ibn Abbas and Jabir bin Zaid, Surahs Ash-Shu\`araa', An-Naml and Al- Qasas were sent down one after the other. The language, style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And your Lord creates whatsoever He wills and chooses, no choice have they. وَرَ‌بُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ‌ (And your Lord creates what He wills and chooses - 28:68).
@@ -135,3 +123,5 @@ Haafiz Ibn Al-Qayyim has drawn an outstanding rule from this verse that the pref
 In the same way, many places of the world are preferred over other places, and many days and nights have preference over the normal days and nights. In short, the original standard of preference in the entire universe is His prerogative and selection. However, at times , human acts may also become a cause of preference in the sense that those performing righteous acts are preferred over the others, and the places where such people live or perform virtuous acts may also acquire preference over other places. This preference can be gained by sincerity of effort and righteous deeds. The gist of this discussion is that the basis of preference in the world is dependent on two things. One is beyond one's control and rests entirely on the selection of Allah Ta’ ala, and the other is within the ability of human beings and may be achieved by righteous deeds and superior morals. Allamah Ibn al-Qayyim (رح) has deliberated in great detail on this subject and has concluded that the four Rightly Guided Caliphs have precedence over all other companions of the Prophet ﷺ . Then Sayyidna Abu Bakr ؓ has preference over other three Caliphs. After that Sayyidna ` Umar Ibn al-Khattab ؓ has preference over the other two, and Sayyidna ` Uthman ؓ over Sayyidna 'Ali ؓ . He has proved this sequence with the help of two standards discussed above. Shah Abdul Aziz Dehlavi (رح) has also written a booklet on this subject in Persian language, which I have translated in Urdu and Arabic. Urdu translation has been published under the title (بَعض التفسصِیل لمَسٔلۃ التفضیل) and Arabic translation is included in my book Ahkam al-Qur'an, under Surah Al-Qasas. This is a research work that would be of interest to scholars.
 
 ## Personal Reflections
+
+

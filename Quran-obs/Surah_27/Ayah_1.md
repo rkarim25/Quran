@@ -30,15 +30,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Ant** (An-Naml) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 The word شَاعِر (Sha` ir) is used in this verse in its technical and commonly known meaning, that is the rhythmic composer. This interpretation is endorsed by a narration in Fatahul Bari that when this verse was revealed, the respected companions, Sayyidna ` Abdullah ibn Rawahah, Hassan ibn Thabit and Ka` b ibn Malik ؓ عنہم who were well known poets, went crying to Holy Prophet ﷺ and submitted that this verse was revealed by Allah Ta’ ala and they too were poets.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ Surah Ash-Shu` ara'
 Ends here.
 
 ## Personal Reflections
+
+

@@ -90,15 +90,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 123, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 When this verse was revealed, the noble Companions were acutely disturbed. Imam Muslim, al-Tirmidhi, al-Nasa'i and Ahmad رحمۃ اللہ علیہم have reported a narration from Sayyidna Abu Hurairah ؓ in which he said: When this verse was revealed مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ "And whoever does evil shall be requited for it", we were deeply grieved and concerned. We submitted to the Holy Prophet ﷺ : 'This verse leaves nothing out - the minutest of evil found in our deeds shall be requited!' The Holy Prophet ﷺ said: 'Do not worry. Keep doing what you can to the best of your ability for (the punishment mentioned here does not necessarily have to be that of Hell, instead) whatever hardship or pain which afflicts you makes amends for your sins and requites your evil deeds, to the limit that even a thorn which pinches someone's foot becomes an expiation of some sin.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -279,3 +271,5 @@ In a hadith appearing in Abu Dawud, Sayyidah ` A'ishah ؓ has been reported to h
 In short, this verse is a reminder to Muslims as well that they should not indulge in tall claims and wishful thinking. On the contrary, they should be concerned with what they actually do, for their success will not come solely on the basis of their formal adherence to a given Prophet and a Book. Instead, their real prosperity lies in making certain that their belief in them is correct and that they are particular about doing good deeds as enjoined.
 
 ## Personal Reflections
+
+

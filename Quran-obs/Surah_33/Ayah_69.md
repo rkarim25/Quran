@@ -71,18 +71,6 @@ word_by_word:
     transliteration: wajīhan
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 69, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! That causing pain to Allah and His Messenger brings fatal consequences was the subject of the previous verse.
@@ -126,3 +114,5 @@ After having recounted this event, the Holy Prophet ﷺ said: This is what this 
 At the end of verse 69, it was said: وَكَانَ عِندَ اللَّـهِ وَجِيهًا (And he was honorable in the sight of Allah). The Arabic word used for Sayyidna Musa (علیہ السلام) wajih denotes the honor and elegance of someone who deserves regard and consideration. When used with: عِندَ اللَّـهِ ` indallah: in the sight of Allah), it would mean a person whose prayer is answered by Allah Ta’ ala and whose wish He does not turn down. Hence, the station of Sayyidna Musa علیہ السلام as a person whose prayers were answered (popularly known as: mustajab-ud-da’ awat) is proved from many events mentioned in the Qur'an where he prayed to Allah for something and He answered it the way he wanted it to be. Most unique of these is the prayer he made about Sayyidna Harun (Aaron) (علیہ السلام) where he wished that he be made a prophet. Allah Ta'ala accepted his prayer and made him a co-prophet with Sayyidna Musa (علیہ السلام) - although, the high office of prophethood is not given to someone on someone's recommendation. (Ibn Kathir)
 
 ## Personal Reflections
+
+

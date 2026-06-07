@@ -103,15 +103,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Heights** (Al-A'raf) 203, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 And if you do not bring them a miracle, they say: "Why have you not brought it" Say: "I but follow what is revealed to me from my Lord. This (the Qur'an) is nothing but evidences from your Lord, and a guidance and a mercy for a people who believe. (203)
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -180,3 +172,5 @@ Then, out of the miracles shown, the Qur'an by itself is a great miracle. It has
 For this reason, it was said: هَـٰذَا بَصَائِرُ‌ مِن رَّ‌بِّكُمْ (This is (a Book of) insights from your Lord). It means that this Qur'an has come from your Lord as a compendium of many proofs and miracles. Whoever deliberates into it, even summarily, could not part with it without believing that it was nothing but the Word of Allah, the most exalted, and that nothing created has anything to do with it. After that, it was said: وَهُدًى وَرَ‌حْمَةٌ لِّقَوْمٍ يُؤْمِنُونَ (and a guidance and mercy for a people who believe). It means that, no doubt, this Qur'an is a proof of what is true for the whole world, but it is an escort to the purpose of life and a medium of deserving the mercy of Allah Ta` ala only for those who believe in it.
 
 ## Personal Reflections
+
+

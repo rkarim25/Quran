@@ -27,17 +27,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Moon** (Al-Qamar) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qamar is a **Makkah** surah—revealed as the 37th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 55 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Ahmad recorded that Abu Hurayrah said, "The idolators of the Quraysh came to the Messenger of Allah ﷺ arguing with him and discounting the Qadar. This Ayah was revealed,
 
 (The Day they will be dragged on their faces into the Fire: "Taste you the touch of Hell!" Verily, We have created all things with Qadar.)" Muslim, At-Tirmidhi and Ibn Majah collected this Hadith. Al-Bazzar recorded that 'Amr bin Shu'ayb said that his father narrated that his grandfather said, "These Ayat were revealed about those who deny Al-Qadar,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -218,3 +210,5 @@ The word زُبُر zubur (in verse 43) is the plural of zabur, which stands for
 In the phrase مَقْعَدِ صِدْقٍ maq` adi-sidqin, the word maq'ad means 'seat' and the word sidq means 'truth' and implies the 'seat of truth' where there will be no idle and obscene talks.
 
 ## Personal Reflections
+
+

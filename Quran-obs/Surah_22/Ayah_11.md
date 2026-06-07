@@ -111,15 +111,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Pilgrimage** (Al-Hajj) 11, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hajj is a **Madinah** surah—revealed as the 103rd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And among men there is one who worships Allah (standing) on the verge - 22:11.) Bukhari and Ibn Abi Haim have related from Sayyidna Ibn ` Abbas ؓ that when the Holy Prophet ﷺ migrated to Madinah, people flocked to him and accepted the new religion. But there were some among them whose conversion to Islam was far from being genuine, and whose sole motive for their action was to seek self-advancement, and they lacked conviction. If, after becoming Muslims, favorable circumstances resulted in an increase in their prosperity and their children, they thought Islam was a very good religion, but they were equally ready to condemn it if things went against their personal interests. This verse was revealed to describe such people who were mere opportunists and were easily swayed either way depending on where their selfish interests lay.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -188,3 +180,5 @@ Commentary
 (And among men there is one who worships Allah (standing) on the verge - 22:11.) Bukhari and Ibn Abi Haim have related from Sayyidna Ibn ` Abbas ؓ that when the Holy Prophet ﷺ migrated to Madinah, people flocked to him and accepted the new religion. But there were some among them whose conversion to Islam was far from being genuine, and whose sole motive for their action was to seek self-advancement, and they lacked conviction. If, after becoming Muslims, favorable circumstances resulted in an increase in their prosperity and their children, they thought Islam was a very good religion, but they were equally ready to condemn it if things went against their personal interests. This verse was revealed to describe such people who were mere opportunists and were easily swayed either way depending on where their selfish interests lay.
 
 ## Personal Reflections
+
+

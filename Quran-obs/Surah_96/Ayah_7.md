@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clot** (Al-'Alaq) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Alaq is a **Makkah** surah—revealed as the 1st surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah. Thus, Allah firstly admonished him with that which was better by saying,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -127,3 +119,5 @@ Then Allah says,
 Verses [ 6-7] كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ أَن رَّ‌آهُ اسْتَغْنَىٰ (The fact is that man crosses the limits, because he deems himself to be free of need.) Although the verse immediately refers to a particular person, namely, Abu Jahl who insulted the Holy Prophet ﷺ ، the statement is general which draws man's attention to one of his weaknesses. So long as man is in need of others, he walks straight; but when he thinks that he does not need anyone, he tends towards transgression, and develops the tendency to wrong-doing, tyranny and oppression. This is generally the behavior of the affluent people, government officials, and people with abundant children and friends or servants. They become purse-proud and intoxicated with the leadership power they exercise on their groups. Abu Jahl was a typical example of this. He was one of the well-to-do and prosperous people of Makkah. All the members of his tribe and inhabitants of the city respected and obeyed him. He became arrogant and insulted the leader of all the Prophets - the noblest of creation. The next verse warns such arrogant people about the evil consequences of their behavior.
 
 ## Personal Reflections
+
+

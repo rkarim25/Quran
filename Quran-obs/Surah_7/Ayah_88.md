@@ -92,18 +92,6 @@ word_by_word:
     transliteration: kārihīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 88, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The chiefs of those who were arrogant among his people said: "We shall certainly drive you out, O Shu'ayb and those who have believed with you from our town, or else you (all) shall return to our religion." He said: "Even though we hate it? When the people of Sayyidna Shu'aib (علیہ السلام) told him: Had you been on the side of truth, believers in you would have been prospering and non-believers in you would have been under punishment.
@@ -147,3 +135,5 @@ When the people of Sayyidna Shu'aib (علیہ السلام) told him: Had you be
 As for the return of ` the rest of believers in Sayyidna Shu'aib (علیہ السلام) to the fold of their old faith' is concerned, it is something which can be understood, for all of them were a part of the faith and way of the disbelievers. It was only later that they had embraced Islam. But, the case of Sayyidna Shu'aib (علیہ السلام) was different. He had never followed their false faith and way even for a day - nor can a prophet of Allah Ta` ala ever follow a faith which is counter to pure monotheism. Why then would they be asking him to return to their faith? Perhaps, it was because Sayyidna Shu'aib (علیہ السلام) - before prophethood was bestowed on him - would maintain silence over their false sayings and doings and continued living among the people as one of them. Because of this, his disbelieving people took Sayyidna Shu'aib (علیہ السلام) too as one of the rest, a fellow-traveller and votary of their faith. It was only after he gave his call of true 'Iman that they discovered that his faith or religion was different from their own. Then, this led them to conclude that he had turned away from their old faith. About their warning that he must return to their old faith, Sayyidna Shu'aib (علیہ السلام) said: أَوَلَوْ كُنَّا كَارِ‌هِي . It means: Are you trying to say that we should return to the fold of your faith despite that we do not like it and consider it to be false? This is a manner of saying that it can never be.
 
 ## Personal Reflections
+
+

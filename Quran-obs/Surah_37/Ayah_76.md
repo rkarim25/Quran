@@ -24,18 +24,6 @@ word_by_word:
     transliteration: l-ʿaẓīmi
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 76, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed Nuh invoked Us, and We are the best of those who answer (75)And We rescued him and his family from the great distress (76)And, his progeny, them We made the survivors (77)And left for him (a goodly remembrance) among the later generation (78)"Salam (peace!) be upon Nuh among the all creatures! In the previous verses, it was said that Allah had sent messengers to warn the earlier communities as well, but most of the people did not listen to them, therefore, they met a very sad end.
@@ -107,3 +95,5 @@ In the previous verses, it was said that Allah had sent messengers to warn the e
 In verse 75, it was said: وَلَقَدْ نَادَانَا نُوحٌ (And Nuh did call Us). According to most commentators, it means either the prayer of Sayyidna Nuh (علیہ السلام) mentioned in Surah Nuh: رَّ‌بِّ لَا تَذَرْ‌ عَلَى الْأَرْ‌ضِ مِنَ الْكَافِرِ‌ينَ دَيَّارً‌ا (My Lord, do not leave on earth even a single inhabitant (surviving) from the disbelievers - 71:26), or that which appears in Surah Al-Qamar: أَنِّي مَغْلُوبٌ فَانتَصِرْ‌ (I am overpowered, so defend me - 54:10). Sayyidna Nuh , 41 had made this prayer at a time when his people had crossed all limits in being wicked and unruly to him and had gone as far as conspiring to kill him.
 
 ## Personal Reflections
+
+

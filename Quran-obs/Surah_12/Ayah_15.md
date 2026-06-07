@@ -78,17 +78,9 @@ word_by_word:
 
 ## Context
 
-To understand **Joseph** (Yusuf) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 So, when they took him away, they all agreed to throw him down to the bottom of the well, and We revealed to him: "Indeed, you shall (one day) inform them of this their affair, when they know (you) not. (15)
 
 (and We revealed to him: "Indeed, you shall (one day) inform them of this their affair, when they know (you) not.") In this Ayah, Allah mentions His mercy and compassion and His compensation and relief that He sends in times of distress. Allah revealed to Yusuf, during that distressful time, in order to comfort his heart and strengthen his resolve, 'Do not be saddened by what you have suffered. Surely, you will have a way out of this distress and a good end, for Allah will aid you against them, elevate your rank and raise your grade. Later on, you will remind them of what they did to you,'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -139,3 +131,5 @@ At this point, Imam Al-Qurtubi and other commentators have described the event o
 Sayyidna Yusuf (علیہ السلام) remained in that well for three days. Hiding away from others, his brother, Yahuda, brought food and water for him every day and lowered it down to him through a bucket.
 
 ## Personal Reflections
+
+

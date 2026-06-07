@@ -154,15 +154,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 152, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Ka'b al-Ahbar, an accomplished scholar of the Torah, was a Jew before he became a Muslim. He says that these verses of the Holy Qur'an which describe ten unlawful things are with what the Torah, the Book of Allah, begins after Bismillah. It has also been said that these are the ten commandments revealed to Sayyidna Musa (علیہ السلام) .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -359,3 +351,5 @@ And the way killing a Muslim is unlawful without valid reason, so it is with the
 In this one verse - after having described five of the ten prohibitions - it was said: ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَعْقِلُونَ (This is what He has emphasized for you so that you may understand).
 
 ## Personal Reflections
+
+

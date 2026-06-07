@@ -38,18 +38,6 @@ word_by_word:
     transliteration: karīmun
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 29, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Sulayman) said: "We shall see whether you speak the truth or you are (one) of the liars. She (the queen) said (to her officials after receiving the letter), "0 chieftains, there has been thrown to me an esteemed letter, 27:29.
@@ -121,3 +109,5 @@ The language of the letter of Sulaiman
 Although Sayyidna Sulaiman (علیہ السلام) was not an Arab, yet it is not unlikely that he knew the Arabic language, especially when he knew the languages of the animals. As the Arabic language is supreme among all the languages, it is possible that he might have written the letter in Arabic. It is also probable because Bilqis was an Arab by race, and she read the letter and understood it. The other probability is that he had written the letter in his own language and an interpreter read it for her. (Ruh)
 
 ## Personal Reflections
+
+

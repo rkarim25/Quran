@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-miḥāli
 ---
 
-## Context
-
-To understand **The Thunder** (Ar-Ra'd) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Ra'd is a **Madinah** surah—revealed as the 96th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 43 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence ( vv. 27-31 and vv. 34-48 ) shows that this Surah was revealed in the last stage of the Mission of the Holy Prophet at Makkah and during the same period in which Surahs Yunus, Hud and Al- A'araf were sent down. The manner of speech indicates that a long time had passed since the Holy Prophet had been conveying the Message.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is He Who shows you the lightning, as a fear and as a hope. In the next verse (13), it was said: وَيُسَبِّحُ الرَّ‌عْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ (And the thunder proclaims His purity with His praise, and [ so do ] the angels, out of His awe).
@@ -201,3 +189,5 @@ Said in the next sentence 12 is: وَيُرْ‌سِلُ الصَّوَاعِق�
 The last sentence of this verse is: وَهُمْ يُجَادِلُونَ فِي اللَّـهِ وَهُوَ شَدِيدُ الْمِحَالِ they are quarrelling about Allah, and He is stern in His plan). The word: الْمِحَالِ (al-mihal: with Kasrah on the initial letter Mim) has been used here in the triple sense of stratagem and plan, and retribution and punishment, and in the sense of power as well. The verse means that (it is in the background of what has been stated above) that these people are busy with debates and altercations about the truth of Allah's Oneness - despite the fact that Allah Ta` ala has the ultimate power whose plan overtakes all and nothing works against it.
 
 ## Personal Reflections
+
+

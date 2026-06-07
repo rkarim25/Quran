@@ -88,18 +88,6 @@ word_by_word:
     transliteration: l-kāfirūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 87, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "O my sons! Verse 87 begins with the order given by Sayyidna Ya` qub (علیہ السلام) : بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَأَخِيهِ (0 my sons, go and search for Yusuf and his brother ...).
@@ -173,3 +161,5 @@ How About Looking at Someone During Salah?
 Therefore, in a Hadith of Al-Bukhari narrated by Sayyidah ` A'ishah ؓ ، it appears that she asked the Holy Prophet ﷺ ` How is it to look elsewhere during Salah?' In reply, he said: ` Through it, the shaitan snatches the Salah of a servant of Allah away from him.' May Allah sublhanahu wa Ta’ ala keep us protected.
 
 ## Personal Reflections
+
+

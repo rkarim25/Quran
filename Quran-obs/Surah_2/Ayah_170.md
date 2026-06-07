@@ -98,17 +98,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cow** (Al-Baqarah) 170, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah states that if the disbelievers and polytheists are called to follow what Allah has revealed to His Messenger ﷺ and abandon the practices of misguidance and ignorance that they indulge in, they will say, "Rather. We shall follow what we found our fathers following," meaning, worshipping the idols and the false deities. Allah criticized their reasoning:
 
 (...did not understand anything nor were they guided?) meaning, they had no sound understanding or guidance. Ibn Ishaq reported that Ibn 'Abbas said that this was revealed about a group of Jews whom Allah's Messenger ﷺ called to Islam, but they refused, saying, "Rather, we shall follow what we found our forefathers following." So Allah revealed this Ayah (2:170) above."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -181,3 +173,5 @@ Al-Qurtubi has taken up the issue of following the mujtahid imams within his com
 "Some people have quoted this verse to support their criticism against Taqlid (following). As far as following the false is concerned, this is correct. But, this has nothing to do with following what is true which is, in fact, a basic religious principle, and a great means of protecting the religion of Muslims in as much as one who does not have the ability to do Ijtihad must rely on 'following' in matters of religion." (volume 2, page 194)
 
 ## Personal Reflections
+
+

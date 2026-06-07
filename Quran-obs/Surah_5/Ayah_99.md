@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 99, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah says, fear Allah, O people, and beware of His might, by obeying what He commands you and avoiding what He prohibits for you in these Ayat revealed to your Prophet ﷺ. These Ayat forbid Khamr, gambling, Al-Ansab and Al-Azlam, along with hunting land game and killing it while in the state of Ihram. To Allah will be your return and destination, and He will punish you for disobeying Him and will reward you for obeying Him.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -171,3 +163,5 @@ This is a warning from Allah for His servants in which He says: Our Messenger, w
 In the third verse (99), it was said: مَّا عَلَى الرَّ‌سُولِ إِلَّا الْبَلَاغُ ۗ وَاللَّـهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ ﴿99﴾that is, the duty of Our Messenger is only to convey Our Ahkam (injunctions) to people created by Us. After that, whether they accept and believe, or reject and disbelieve, its profit and loss reaches only them. That they disbelieve brings no loss to Our Messenger. And let this be understood that Allah cannot be deceived for He knows every-thing done by anybody, openly or secretly.
 
 ## Personal Reflections
+
+

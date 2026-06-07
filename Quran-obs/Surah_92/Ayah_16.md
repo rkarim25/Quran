@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Night** (Al-Layl) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Layl is a **Makkah** surah—revealed as the 9th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 21 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this. There is no doubt that he is included in the meaning of these Ayat, and that he is the most deserving of the Ummah to be described with these characteristics in general, for indeed, the wording of these Ayat is general. As in Allah's saying,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -201,3 +193,5 @@ Surely, those for whom the good (news) from Us has come earlier shall be kept fa
 Husna in this statement also refers to 'Paradise'. The pronoun 'it' in the phrase 'from it' refers to 'Hell', signifying that they will be far away from Hell. A Tradition says that 'Hell-Fire will not touch him who has seen me'. [ Tirmidhi transmitted it from Jabir ؓ ].
 
 ## Personal Reflections
+
+

@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Light** (An-Nur) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Imam Malik recorded that 'Umar, may Allah be pleased with him, stood up and praised and glorified Allah, then he said; "O people! Allah sent Muhammad ﷺ with the truth, and revealed to him the Book. One of the things that was revealed to him was the Ayah of stoning to death, which we have recited and understood. The Messenger of Allah ﷺ carried out the punishment of stoning and after him we did so, but I am afraid that as time goes by, some will say that they did not find the Ayah of stoning in the Book of Allah, and they will go astray because they abandoned one of the obligations revealed by Allah. Stoning is something that is prescribed in the Book of Allah for the person – man or woman – who commits illegal sex, if he or she is married, if decisive evidence is produced, or if pregnancy results from that, or if they confess to it." It was also recorded in the Two Sahihs in the lengthy Hadith of Malik, from which we have quoted briefly only the portion that is relevant to the current discussion.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -145,3 +137,5 @@ Carry out the Prescribed Punishment in Public
 Surah Al-Mu'minun began with the verse قَدْ أَفْلَحَ الْمُؤْمِنُونَ (Success is really attained by the believers - 23:1) and ends withإِنَّهُ لَا يُفْلِحُ الْكَافِرُ‌ونَ (Surely, the infidels will not achieve success - 23:117) which shows that success will come to believers only and that the unbelievers will have no share of it.
 
 ## Personal Reflections
+
+

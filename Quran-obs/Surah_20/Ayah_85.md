@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-sāmiriyu
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 85, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 "And what made you hasten from your people, O Musa (83)He said: "They are close on my footsteps, and I hastened to You, O my Lord, that You might be pleased. Some people have said that Samiri was an Egyptian Copt who lived next door to Sayyidna Musa (علیہ السلام) and had accepted the True Faith.
@@ -143,3 +131,5 @@ Some people have said that Samiri was an Egyptian Copt who lived next door to Sa
 If a person is not fortunate in his birth then the minds of those who bring him up are bewildered and those who attach high hopes on him are disillusioned. Lo! The Musa whom Jibra'il brought up became an infidel and the Musa who was raised by the Pharaoh became the Prophet of Allah.
 
 ## Personal Reflections
+
+

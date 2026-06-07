@@ -52,15 +52,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Bee** (An-Nahl) 105, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Allah tells us that He does not guide those who turn away from remembering Him and who are heedless of that which He revealed to His Messenger ﷺ, those who have no intention of believing in that which he has brought from Allah. This kind of people will never be guided to faith by the signs of Allah and the Message which He sent His Messengers in this world, and they will suffer a painful and severe punishment in the Hereafter. Then Allah informs us that His Messenger ﷺ is not a forger nor a liar, because the one who fabricates falsehood about Allah and His Messenger ﷺ is the most evil of creatures.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -83,3 +75,5 @@ Sequence of Verses
 In the previous verse (98), there was an instruction to say اَعُوذ بِاللہ 'a udhu bil-lah' (I seek protection with Allah) while reciting the Qur’ an which indicates that the Shaitan puts scruples in the heart when one recites the Qur'an. In the verses cited above, there is a refutation of such Satanic instigations.
 
 ## Personal Reflections
+
+

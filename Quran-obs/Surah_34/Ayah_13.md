@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-shakūru
 ---
 
-## Context
-
-To understand **Sheba** (Saba) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Saba is a **Makkah** surah—revealed as the 58th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The exact period of its revelation is not known from any reliable tradition. However, the style shows that it is either the middle or the early Makkan period. If it is the middle period, it was probably its initial stage when the persecution had not yet become tyrannical and the Islamic movement was being suppressed only by resort to derision and ridicule, rumor mongering, false allegations and casting of evil suggestions in the people's minds.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And to Sulayman (We subjected) the wind, its morning was a month's (journey), and its afternoon was a month's (journey). In verse 13: يَعْمَلُونَ لَهُ مَا يَشَاءُ مِن مَّحَارِ‌يبَ وَتَمَاثِيلَ وَجِفَانٍ كَالْجَوَابِ وَقُدُورٍ‌ رَّ‌اسِيَاتٍ (They used to make for him whatever he wished of castles, images, basins as (large as) tanks and big cook-wares fixed in their places), there is a somewhat detailed description of the jobs Sayyidna Sulayman (علیہ السلام) assigned to the Jinns.
@@ -223,3 +211,5 @@ Tirmidhi and Abu Bakr al-Jassas (رح) report from Sayyidna ` Ata' Ibn Yasar ؓ 
 In the last sentence of verse وَقَلِيلٌ مِّنْ عِبَادِيَ الشَّكُورُ‌ soon after having given the command for gratitude with special emphasis, the reality on ground was also pointed to by saying that 'And few from My slaves are thankful.' which is an admonition for a believer, and an incitement to observe gratitude.
 
 ## Personal Reflections
+
+

@@ -60,17 +60,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Combined Forces** (Al-Ahzab) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (1. O Prophet! Have Taqwa of Allah, and obey not the disbelievers and the hypocrites. Verily, Allah is Ever All-Knower, All-Wise.)(2. And follow that which is revealed to you from your Lord. Verily, Allah is Well-Acquainted with what you do.)(3. And put your trust in Allah, and sufficient is Allah as a Trustee.)
 
 (And follow that which is revealed to you from your Lord.) meaning, of the Qur'an and Sunnah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -147,3 +139,5 @@ And if the event featuring the hypocrites, described under the background of rev
 Later, towards the end of this verse, by saying: اِن اللہَ عَلِیماً حَکِیمَاً (Surely, Allah is All- Knowing, Wise - 1), stated there is the wisdom of the order given immediately earlier - that is, 'fear Allah and do not obey the disbelievers and hypocrites.' The reason is that Allah Ta’ ala, who knows the consequences of everything, is most wise, and fully aware of what is better for His servants. This was said to counter some of the things put forth by the disbelievers or hypocrites which could generate for them certain advantages of lesser tension and increased mutual tolerance. But, from this Allah Ta’ ala prohibited him by declaring that even this tolerance of such people was counter to what was expedient under the circumstances and that such a policy was not going to end well.
 
 ## Personal Reflections
+
+

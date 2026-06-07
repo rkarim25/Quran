@@ -221,17 +221,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Pleading Woman** (Al-Mujadila) 22, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mujadila is a **Madinah** surah—revealed as the 105th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 22 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (You will not find any people who believe in Allah and the Last Day...) was revealed in the case of Abu 'Ubaydah 'Amir bin 'Abdullah bin Al-Jarrah when he killed his disbelieving father, during the battle of Badr. This is why when 'Umar bin Al-Khattab placed the matter of Khilafah in the consultation of six men after him, he said; "If Abu 'Ubaydah were alive, I would have appointed him the Khalifah." It was also said that the Ayah,
 
 (even though they were their fathers), was revealed in the case of Abu 'Ubaydah, when he killed his father during the battle of Badr, while the Ayah,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -362,3 +354,5 @@ Surah A1-Mujadalah
 Ends here.
 
 ## Personal Reflections
+
+

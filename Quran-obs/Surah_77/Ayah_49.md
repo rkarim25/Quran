@@ -16,18 +16,6 @@ word_by_word:
     transliteration: lil'mukadhibīna
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 49, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who had Taqwa, shall be amidst shades and springs (41)And fruits, such as they desire (42)"Eat and drink comfortably for that which you used to do. وَإِذَا قِيلَ لَهُمُ ارْ‌كَعُوا لَا يَرْ‌كَعُونَ (And when it is said to them, "Bow down", they do not bow down...77:48) According to most commentators, the word ruku' is used here in its primitive sense 'to bow down and submit'.
@@ -107,3 +95,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 وَإِذَا قِيلَ لَهُمُ ارْ‌كَعُوا لَا يَرْ‌كَعُونَ (And when it is said to them, "Bow down", they do not bow down...77:48) According to most commentators, the word ruku' is used here in its primitive sense 'to bow down and submit'. The verse signifies that when they were told to submit to the Divine commands, they refused to comply. Some scholars take the word ruku` in its technical sense and interpret the verse to signify 'when they are called to prayer, they refused to pray.' The ruku` is a part of the prayer, but it refers here to the whole prayer. [ Ruh ]
 
 ## Personal Reflections
+
+

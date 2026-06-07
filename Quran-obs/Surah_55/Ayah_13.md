@@ -21,18 +21,6 @@ word_by_word:
     transliteration: tukadhibāni
 ---
 
-## Context
-
-To understand **The Beneficent** (Ar-Rahman) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ar-Rahman is a **Madinah** surah—revealed as the 97th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 78 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Although in the beginning of the Surah the address is directed only to human beings, for to them only belongs the vicegerency" of the earth, among them only have the Messengers of Allah been raised, and in their tongues only have the Divine Books been revealed, yet from verse 13 onward both the men and the jinn have been addressed and one and the same invitation has been extended to both.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Introduction to Surat Ar-Rahman Imam Ahmad recorded that Zirr said that a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! Mankind and Jinn are surrounded by Divine Bounties فَبِأَيِّ آلَاءِ رَ‌بِّكُمَا تُكَذِّبَانِ (So, [ 0 mankind and Jinn,] which of the bounties of your Lord will you deny?...55:13).
@@ -168,3 +156,5 @@ Mankind and Jinn are surrounded by Divine Bounties
 فَبِأَيِّ آلَاءِ رَ‌بِّكُمَا تُكَذِّبَانِ (So, [ 0 mankind and Jinn,] which of the bounties of your Lord will you deny?...55:13). The word آلَاءِ 'al a' is the plural and it means 'benefits, benefaction, favour, boon, blessing or bounty'. The address is to the two species of Jinn and men referred to in verse 33 below and many other verses of Surah Ar-Rahman where Jinn are specifically mentioned.
 
 ## Personal Reflections
+
+

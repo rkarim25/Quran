@@ -109,18 +109,6 @@ word_by_word:
     transliteration: yus'ran
 ---
 
-## Context
-
-To understand **The Divorce** (At-Talaq) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Talaq is a **Madinah** surah—revealed as the 99th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 12 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Hadrat Abdullah bin Masud has Pointed out, and the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Lodge them where you dwell, according to what you have, and do not harm them so as to suppress them. Rule [ 15]: Quantum of Divorcee's Maintenance لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِ ۖ وَمَن قُدِرَ‌ عَلَيْهِ رِ‌زْقُهُ فَلْيُنفِقْ مِمَّا آتَاهُ اللَّـهُ (A man of vast means should spend according to his vast means.
@@ -232,3 +220,5 @@ Special Note
 The verse under comment bears an indication that Allah will create a condition of ease for husbands who try to provide for their wives the obligatory amount of sustenance to the best of their ability, and are not in the habit of keeping their wives under straitened circumstances. [ Ruh-ul-Ma’ ani ] And Allah knows best!
 
 ## Personal Reflections
+
+

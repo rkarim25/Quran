@@ -29,18 +29,6 @@ word_by_word:
     transliteration: l-waʿīdi
 ---
 
-## Context
-
-To understand **The Letter "Qaf"** (Qaf) 20, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Qaf is a **Makkah** surah—revealed as the 34th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation There is no authentic tradition to show as to when exactly this Surah was sent down. A study of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We have created man, and We know what his self whispers to him. وَجَاءَتْ سَكْرَ‌ةُ الْمَوْتِ بِالْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ (And the daze of death has [ to ] come with truth.
@@ -194,3 +182,5 @@ In the prepositional phrase بِالْحَقِّ "with truth", through the prepo
 ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ (That is what you tried to escape...50:19) tahidu is derived from haid which denotes to incline; to turn aside or escape from a place; to avoid or shun it; and to acknowledge. Apparently, this verse addresses the entire mankind. Every man is naturally afraid or scared of, or alarmed and terrified by, the thought of death. Life is dear to him and death is a calamity for him. As a result, he makes plans to run away from death. This is from Shari point of view not wrong or a sin. Death, however, is inevitable. The purport of the verse is to show that 'this is the end you were trying to escape or avert or flee from; it has come to you. Therefore, your desire will not be completely fulfilled; you will have neither a shelter nor a refuge nor a sanctuary nor an asylum from it.'
 
 ## Personal Reflections
+
+

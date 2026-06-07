@@ -86,15 +86,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him angry. Before that, Allah's Messenger ﷺ had given a generous judgment, beneficial for Az-Zubayr and the Ansari. Az-Zubayr said, 'I think the following verse was revealed concerning that case,
 
-1. To begin with, as already stated earlier, the rule is that a person who is not satisfied with the decision given by the Holy Prophet ﷺ ، in every dispute and in every problem or issue, is not a Muslim. As we already know, this was the reason why Sayyidna ` Umar ؓ killed the person who was not satisfied with the decision given by the Holy Prophet ﷺ following which he carried the case to Sayyidna ` Umar for an alternate judgment. The heirs of the person killed went to the court of the Holy Prophet ﷺ with a suit against Sayyidna ` Umar ؓ accusing him of having killed a Muslim without a valid legal reason.
+1. To begin with, as already stated earlier, the rule is that a person who is not satisfied with the decision given by the Holy Prophet ﷺ ، in every dispute and in every problem or issue, is not a Muslim. As we already know, this was the reason why Sayyidna ` Umar ؓ killed the person who was not satisfied with the decision given by the Holy Prophet ﷺ following which he carried the case to Sayyidna ` Umar for an alternate judgment. The heirs of the person killed went to the court of the Holy Prophet ﷺ with a suit against Sayyidna ` Umar ؓ accusing him of having killed a Muslim without a valid legal reason. It is important to note here, and this has not been taken up earlier, that the following words, when the case was presented before the Holy Prophet ﷺ ، came out spontaneously from his blessed lips: " مَا کنت أظن أن عمر یجترء علٰی قتل رجل مؤمن " (that is, I never thought ` Umar will ever dare killing a believing Muslim). This proves that the higher authority, when approached with an appeal against the decision of a lower authority, should not take sides with his subordinate authority, but should come up with a decision based on justice and fairness alone, as it has been illustrated above where the Holy Prophet ﷺ expressed his displeasure over the decision of Sayyidna ` Umar ؓ - before the revelation of the verse had a bearing on this incident. Once this verse was revealed, the reality came out in the open that the person killed was not a believing Muslim as confirmed by this verse.
 
 ## Tafsir Summary
 
@@ -201,3 +195,5 @@ Details given above clearly show that the Holy Prophet was not only a reformer a
 A little deliberation in these verses will unfold the radiant grandeur of his authority, a practical demonstration of which became manifest when Allah Almighty sent to him His Law so that he can decide cases in accordance with it. Therefore, it was said: إِنَّا أَنزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَ‌اكَ اللَّـهُ ۚ (that is, 'We revealed to you the Book with the truth so that you may judge between people by what Allah makes you see.' ) (4:105)
 
 ## Personal Reflections
+
+

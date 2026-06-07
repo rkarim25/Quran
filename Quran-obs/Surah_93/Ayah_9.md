@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Morning Hours** (Ad-Duhaa) 9, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ad-Duhaa is a **Makkah** surah—revealed as the 11th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 11 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion). Therefore, the Messenger of Allah ﷺ was affected by this. Then the idolators began to say, 'His Lord has abandoned him and hates him.' So Allah revealed,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -223,3 +215,5 @@ Injunction [ 1]
 فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ‌ (Therefore, as for orphan, do not oppress him,...93:9). The word qahr means 'to treat people who are less powerful in an unfair and cruel way'. In the present context, the verse means: 'Since you were a poor orphan, and Allah sheltered you, do not oppress the orphan.' [ In words, 'do not seize their wealth by force and squander it. Do not scorn them, humiliate them or despise them. Rather, you should be kind and gentle to them.'] As a result, the Holy Prophet ﷺ emphasised that the orphan be treated kindly and gently, and has forbidden any hurting attitude towards them. The Holy Prophet ﷺ is reported to have said that the best house of a Muslim is the one in which there is an orphan who is treated kindly, and with love and affection. The worst house is the one in which there is an orphan who is treated badly. [ This is transmitted by Bukhari in Al-Adab-ul- Mufrad, and by Ibn Majah and Baghawi, as quoted by Mazhari ].
 
 ## Personal Reflections
+
+

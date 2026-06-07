@@ -16,18 +16,6 @@ word_by_word:
     transliteration: l-awalīna
 ---
 
-## Context
-
-To understand **The Emissaries** (Al-Mursalat) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mursalat is a **Makkah** surah—revealed as the 33rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 50 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-16-28 arguments have been given continuously for the occurrence and necessity of the Resurrection and Hereafter.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Did We not destroy the ancients (16)So shall We make later generations to follow them (17)Thus do We deal with the criminals (18)Woe that Day to the deniers (19)Did We not create you from a despised water (20)Then We pla… أَلَمْ نُهْلِكِ الْأَوَّلِينَ (Did We not destroy the earlier people?...77:16) It refers to the nations of ` Ad, Thamud, nation of Lut (علیہ السلام) and Fir'aun (The Pharaoh) who were destroyed because of their obstinacy.
@@ -93,3 +81,5 @@ Allah says,
 أَلَمْ نُهْلِكِ الْأَوَّلِينَ (Did We not destroy the earlier people?...77:16) It refers to the nations of ` Ad, Thamud, nation of Lut (علیہ السلام) and Fir'aun (The Pharaoh) who were destroyed because of their obstinacy.
 
 ## Personal Reflections
+
+

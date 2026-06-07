@@ -48,15 +48,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 However, it appears that this Ayah is more general, even if it was revealed about a specific incident. Such rulings are dealt with by their indications, not the specific reasons behind revealing them, according to the majority of scholars.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -137,3 +129,5 @@ The consideration of property and the love of children and family made him do wh
 When the Holy Prophet ﷺ got this news initially, he said: If he had come to me first, I would have sought forgiveness for him and his taubah would have been accepted. Now that he has gone through this act of his, there is nothing left but to wait for the revela-tion of the Divine acceptance of his taubah. So, it was after seven days when, late at night, these verses relating to the acceptance of his taubah were revealed. Some Sahabah gave him the good news and reached out to untie him from the pillar. But, he said: Until such time that the Holy Prophet ﷺ would not decide to untie me, I would not prefer to be untied. Thus, when he came into the Masjid at the time of the Fajr Salah, he untied him with his own blessed hands. The real cause of the revelation of the cited verse which contains the prohibition of becoming overwhelmed by the concern and love for property and children and not fulfilling the trust of Allah is as stated above. Allah knows best.
 
 ## Personal Reflections
+
+

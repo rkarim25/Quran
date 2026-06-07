@@ -94,17 +94,9 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 161, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr. Some people said that the Messenger of Allah ﷺ might have taken it. When this rumor circulated, Allah sent down,
 
 (Say: "I am only a man like you. It has been revealed to me that your God is One God")[18:110].
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -379,3 +371,5 @@ Misappropriation in Waqf properties and government Treasuries comes under Ghulul
 The same rule applies to mosques, religious schools and institu-tions, khanqahs and properties of اوقاف awqaf (endowments) since they represent the contribution of millions of Muslims. If an unfortunate misappropriator was to go about seeking to be forgiven for his evil act, how could he possibly go to each one of those millions. The same rule holds good for public or government treasury بیت المال (Bayt al-Mal) because all citizens of a country have a right in it. One who steals from it steals from everyone. But, the problem is that these very holdings are such that a single owner does not sit over them. The caretakers become negligent. Avenues of pilferage abound. It is in such moneys and properties that a lot of thefts and misappropriations have become rampant all over the world with most people heedless to the evil end that awaits them. They do not realize that this is a terrible burden to haul onto the plains of Resurrection, not to speak of the punishment of Hell that is bound to come as a result of this crime. Then, last but not the least, comes the sad deprivation from the promised intercession of the Messenger of Allah. Let us all seek refuge from such a fate!
 
 ## Personal Reflections
+
+

@@ -84,18 +84,6 @@ word_by_word:
     transliteration: l-qubūri
 ---
 
-## Context
-
-To understand **She that is to be examined** (Al-Mumtahanah) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mumtahanah is a **Madinah** surah—revealed as the 91st surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 13 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-1-9 , and the concluding verse 13 also relates to it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! ا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَن لَّا يُشْرِ‌كْنَ بِاللَّـهِ شَيْئًا (0 Prophet, when the believing women come to you, seeking bai'ah [ a pledge of allegiance ] with you that they will not ascribe anything as a partner to Allah, ....60:12).
@@ -155,3 +143,5 @@ Surah Al-Mumtahinah
 Ends here
 
 ## Personal Reflections
+
+

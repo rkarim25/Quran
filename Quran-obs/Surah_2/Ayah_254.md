@@ -92,18 +92,6 @@ word_by_word:
     transliteration: l-ẓālimūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 254, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Many injunctions relating to acts of worship and dealings with human beings have been taken up in this Surah, especially all those a person dislikes to obey finding them burdensome.
@@ -149,3 +137,5 @@ Commentary
 Many injunctions relating to acts of worship and dealings with human beings have been taken up in this Surah, especially all those a person dislikes to obey finding them burdensome. Then, the most difficult act is to 'spend' one's life and possessions; and when you look at Divine injunctions relating to most situations they either relate to a man's life or his possessions. And when a man falls into the trap of sin, it is either caused by his love of life or expediency of possessions in most cases. As such, the love for these two is the root of sins, and the defence against and the deliverance from it is the object of all acts of obedience. It is for this reason that, following the injunctions relating to worship and social transactions, the subject of 'fighting' and 'spending' in the way of Allah were taken up. The first appeared in وَقَاتِلُوا فِي سَبِيلِ اللَّـهِ (And fight in the way of Allah) (244) and the second in مَّن ذَا الَّذِي يُقْرِ‌ضُ اللَّـهَ (Who is the one who would give Allah a good loan?) (245) After that, the former was emphasized by the story of Talut طالوت ، and now, emphasis is being laid on the later by أَنفِقُوا مِمَّا رَ‌زَقْنَاكُم (Spend from what We have given to you) (254). Since a large number of affairs relating to the worship of Allah and dealings with human beings depend on spending out of what Allah has given, this subject has been dealt with in a greater detail. Therefore, the sections that follow have, in most of them, a discussion of the second aspect, which is, the 'spending' out of one's possessions. To sum up, it means: The time to act is still there. In the Hereafter, deeds are not on sale. They cannot be borrowed from a friend either. Once caught by the punishment, one cannot be released on someone's intercession, unless Allah Himself forgives.
 
 ## Personal Reflections
+
+

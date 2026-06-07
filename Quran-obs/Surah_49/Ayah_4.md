@@ -44,15 +44,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Rooms** (Al-Hujurat) 4, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And Allah is Forgiving, Most Merciful.) It was reported that this Ayah was revealed about Al-Aqra' bin Habis At-Tamimi, may Allah be pleased with him, according to more than one source. Imam Ahmad recorded that Al-Aqra' bin Habis said that he called the Messenger of Allah ﷺ from behind his dwellings, saying, "O Muhammad! O Muhammad!" "O Allah's Messenger!" according to another narration, but the Messenger ﷺ did not answer him, Al-Aqra' said, "O Allah's Messenger.My praise (of others) is worthwhile and my admonishment (of others) is degrading." The Prophet ﷺ replied,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -165,3 +157,5 @@ Ruling
 In the clause of verse حَتَّىٰ تَخْرُ‌جَ إِلَيْهِمْ "...until you come out to them...49:5", the prepositional phrase ilaihim "to them" is a restrictive phrase, and it implies that people must wait until the Holy Prophet ﷺ emerges to talk to them, but if he has emerged for some other reason or purpose, even in this case it is not appropriate to talk to him. The speakers should wait until a suitable situation or occasion arises for them to speak: that is, they should speak about their particular issue when the Holy Prophet ﷺ turns his attention to them for that purpose.
 
 ## Personal Reflections
+
+

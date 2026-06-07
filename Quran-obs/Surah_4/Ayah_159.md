@@ -63,18 +63,6 @@ word_by_word:
     transliteration: shahīdan
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 159, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Because of their breaking the covenant, and their rejecting the Ayat of Allah, and their killing the Prophets unjustly, and their saying: "Our hearts are Ghulf," nay, Allah has set a seal upon their hearts because of the… Then comes the finale of the subject in verse 159 beginning with the words: وَإِن مِّنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ (And there is not one among the People of the Book but shall certainly believe in him { Jesus} before he { Jesus} dies, and on the Day of Doom, he shall be a witness against them).
@@ -412,3 +400,5 @@ The belief in the coming of 'Isa (علیہ السلام) towards the later times
 This subject has become clear enough from the discussion of verses in this part of the commentary. A more comprehensive treatment of the subject has already appeared in the commentary on Surah 'Al-` Imran which may be consulted. The discussions there also include answers to doubts raised by some so-called modernists of our time in order to hurt the credibility of this article of Muslim faith. Only Allah can guide whomsoever He wills.
 
 ## Personal Reflections
+
+

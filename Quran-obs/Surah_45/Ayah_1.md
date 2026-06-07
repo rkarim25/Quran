@@ -8,18 +8,6 @@ word_by_word:
     transliteration: hha-meem
 ---
 
-## Context
-
-To understand **The Crouching** (Al-Jathiyah) 1, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Jathiyah is a **Makkah** surah—revealed as the 65th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 37 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of the revelation of this Surah also has not been mentioned in any authentic tradition, but its subject matter clearly shows that it was revealed consecutively after Surah Ad Dukhan. The close resemblance between the contents of the two Surahs makes them look like the twin Surahs. Subject Matter and Topics It answers the doubts and objections of the disbelievers of Makkah about Tauhid and the Hereafter and warns them for their attitude that they had adopted against the message of the Qur'an. The discourse begins with the arguments for Tauhid .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ (They will not taste death therein, except for the first death (they faced in the world) - 44:56).
@@ -77,3 +65,5 @@ Surah Ad-Dukan
 ends here.
 
 ## Personal Reflections
+
+

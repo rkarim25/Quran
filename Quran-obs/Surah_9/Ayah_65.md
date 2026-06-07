@@ -61,15 +61,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Repentance** (At-Tawbah) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Abdullah bin 'Umar said, "During the battle of Tabuk, a man was sitting in a gathering and said, 'I have never seen like these reciters of ours! They have the hungriest stomachs, the most lying tongues and are the most cowardice in battle.' A man in the Masjid said, 'You lie. You are a hypocrite, and I will surely inform the Messenger of Allah ﷺ.' This statement was conveyed to the Messenger of Allah ﷺ and also a part of the Qur'an was revealed about it.'" 'Abdullah bin 'Umar said, "I have seen that man afterwards holding onto the shoulders of the Messenger's camel while stones were falling on him, declaring, 'O Allah's Messenger! We were only engaged in idle talk and jesting,' while the Messenger of Allah ﷺ was reciting,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -106,3 +98,5 @@ Announced in verse 64: إِنَّ اللَّـهَ مُخْرِ‌جٌ مَّا 
 And Sayyidna ` Ibn ` Abbas ؓ says that Allah Ta` ala had in-formed the Holy Prophet al about the names of seventy hypocrites complete with their parentage and addresses. But, being the universal mercy, he did not disclose these before his people. (Mazhari)
 
 ## Personal Reflections
+
+

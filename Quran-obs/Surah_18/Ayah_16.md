@@ -84,18 +84,6 @@ word_by_word:
     transliteration: mir'faqan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 We narrate unto you their story with truth: Truly, they were young men who believed in their Lord (Allah), and We increased them in guidance (13)And We made their hearts firm and strong when they stood up and said: "Our Lord is the Lord of the heavens and the earth, never shall we call upon any god other than Him; if we did, we should indeed have uttered an enormity in disbelief (14)These our people have taken for worship gods other than Him.
@@ -207,3 +195,5 @@ The story of this cave (Thawr) is far greater and more wondrous than that of the
 About the verse: فَأْوُوا إِلَى الْكَهْفِ (then seek refuge in the Cave - 16), Ibn Kathir says that the course adopted by the People of Kahf was that they left the city in which it was not possible to worship Allah and took refuge in the Cave. This is the Sunnah, the way of all prophets. They migrate from such places and opt for a place where ` Ibadah could be done.
 
 ## Personal Reflections
+
+

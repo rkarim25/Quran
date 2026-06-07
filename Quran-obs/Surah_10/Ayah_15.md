@@ -169,15 +169,7 @@ word_by_word:
 
 ## Context
 
-To understand **Jonah** (Yunus) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Rejecting their false notion first, the Qur'an instructs the Holy Prophet a1JI to tell those people that the Qur'an was not his Word, nor could he change it on his own. He only followed what was revealed to him by Allah. If he were to make the least change in it on his own and by his choice, he would be committing a grave sin, and that he feared the punishment that falls upon those who disobey Allah, therefore, he could not do that.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -230,3 +222,5 @@ Rejecting their false notion first, the Qur'an instructs the Holy Prophet a1JI t
 Then he was asked to tell them that he did everything under Divine orders. Had it been the will of Allah Ta` ala that this Word should not be recited to them, neither would he have recited that to them, nor would He have let them know about that. Now that it was the very will of Allah Ta` ala that they should be made to listen to precisely that Word, who can dare make any addition or deletion therein?
 
 ## Personal Reflections
+
+

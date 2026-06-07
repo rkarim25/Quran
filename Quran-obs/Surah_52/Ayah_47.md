@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yaʿlamūna
 ---
 
-## Context
-
-To understand **The Mount** (At-Tur) 47, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if they were to see a piece of the heaven falling down, they would say: "Clouds gathered in heaps! { 1} It refers to the punishments faced by the disbelievers right in this world, like famines and the deterrent defeat in the battle of Badr.
@@ -171,3 +159,5 @@ This is the end of the Tafsir of Surat At-Tur, all praise and gratitude is due t
 { 1} It refers to the punishments faced by the disbelievers right in this world, like famines and the deterrent defeat in the battle of Badr. (Muhammad Taqi Usmani).
 
 ## Personal Reflections
+
+

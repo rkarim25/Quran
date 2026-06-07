@@ -76,18 +76,6 @@ word_by_word:
     transliteration: ghafūrun
 ---
 
-## Context
-
-To understand **Originator** (Fatir) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fatir is a **Makkah** surah—revealed as the 43rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 45 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The internal evidence of the style shows that the period of the revelation of this Surah is probably the middle Makkan period, and especially that part of it, when antagonism had grown quite strong and every sort of mischief was being adopted to frustrate the mission of the Holy Prophet.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 See you not that Allah sends down water from the sky, and We produce therewith fruits of various colors, and among the mountains are Judad, white and red, of varying colors and (others) Gharabib black (27)And likewise, men and moving creature and cattle are of various colors. The place where the word: كَذَٰلِكَ (kadhalik: translated above by the words, 'as well' ) appears in verse 28 just before: كَذَٰلِكَ إِنَّمَا يَخْشَى اللَّـهَ مِنْ عِبَادِهِ الْعُلَمَاءُ (Only those of His slaves fear Allah who are knowledgeable), but in the translation above it has been separated from the next verse by a full stop, because this is the place of a stop (w…
@@ -177,3 +165,5 @@ The clarifications appearing above also help remove the doubt about many ` Ulama
 However, at times, awe and fear of Allah are rooted in one's creed and reason because of which one adheres to the injunctions of the Shari’ ah as a matter of obligation. Then, there are occasions when this awe and fear of Allah become the very state of one's existence and rise to the degree of a firmly ingrained asset whereby the readiness to follow the Shari’ ah becomes a natural reflex. The first degree of the awe and fear of Allah is mandatory and, for an ` Alim necessary. The second degree is certainly superior and sublime, but not necessary. (Bayan ul-Qur an)
 
 ## Personal Reflections
+
+

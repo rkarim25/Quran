@@ -63,18 +63,6 @@ word_by_word:
     transliteration: l-ʿalīmu
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 127, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (cont.) And We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (t… Verse 127 shows another essential quality of this great prophet.
@@ -492,3 +480,5 @@ Jibril then came down, took him to the House and said, 'Raise its foundations.' 
 Verse 127 shows another essential quality of this great prophet. In obedience to Allah, he had left the fertile land of Syria and made his wife and child to settle in the barren desert, and now he was taking up the labour of building "the House of Allah." This was a moment when a man who had been bearing such hardships in the way of Allah could normally be expected to feel satisfied with himself and relax in a mood of self-congratulation. But "the Friend of Allah" recognized the Majesty of Allah, and knew that no creature can possibly worship or obey his Creator as is His due, but within his own limited powers. Consequently, he also knew that in performing the hardest or the greatest tasks one should not be proud of one's attainment, but should, in all humility, pray to Allah to accept the little effort one has been capable of making - and that, too, with the grace of Allah Himself. That is exactly what Sayyidna Ibrahim did when he started, along with his young son, to build the Ka'bah. That is to say, he prayed to Allah to accept this deed, for Allah hears all prayers, and knows the intentions of His creatures.
 
 ## Personal Reflections
+
+

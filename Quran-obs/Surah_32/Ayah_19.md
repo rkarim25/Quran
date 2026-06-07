@@ -56,17 +56,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prostration** (As-Sajdah) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Sajdah is a **Makkah** surah—revealed as the 75th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 30 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection. 'Ata' bin Yasar, As-Suddi and others mentioned that this was revealed concerning 'Ali bin Abi Talib and 'Uqbah bin Abi Mu'it. Hence Allah has judged between them when He said:
 
 Sayyidna Abu ad-Darda', Qatadah and Dahhak ؓ have said that this attribute of sides remaining apart from beds also applies to those who make their Salah of ` Isha' with Jama` ah and then go on to make their Salah of Fajr with Jama` ah. And according to a narration of Sayyidna Anas ؓ appearing in Tirmidhi with sound chains of authority, this verse: تَتَجَافَىٰ جُنُوبُهُمْ (Their sides remain apart) was revealed about people who do not sleep before the Salah of 'Isha' and keep waiting for the Jama’ ah of ` Isha'.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -151,3 +143,5 @@ Ibn Kathir and other Tafsir authorities have said that there is no contradiction
 And Sayyidah Asma' bint Yazid ؓ narrates: The Holy Prophet ﷺ said, 'when Allah Ta’ ala will gather everyone from the first to the last, a proclaimer whose call will be heard by the entire creation will call: 'This day everyone on the plains of Resurrection will find out as to who is really deserving of honor and compliment.' Then, the proclaiming angel will proclaim: '0 people assembled on the plains of Resurrection, let those rise from among you, those whose attribute was: تَتَجَافَىٰ جُنُوبُهُمْ (Their sides remain apart from their beds - 16) '. At this call, these people will stand up, though their number will be small. (Ibn Kathir) And some words of the same narration say that these people will be sent to Paradise without reckoning. After that, all others will stand and face reckoning. (Mazhari)
 
 ## Personal Reflections
+
+

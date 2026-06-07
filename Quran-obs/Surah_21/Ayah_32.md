@@ -38,18 +38,6 @@ word_by_word:
     transliteration: muʿ'riḍūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Have not those who disbelieve known that the heavens and the earth were joined together as one united piece, then We parted them? وَجَعَلْنَا فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِهِمْ (And We created mountains on the earth, lest it should shake with them.
@@ -165,3 +153,5 @@ They do not think about how Allah has created it, so vast and high, and adorned 
 وَجَعَلْنَا فِي الْأَرْ‌ضِ رَ‌وَاسِيَ أَن تَمِيدَ بِهِمْ (And We created mountains on the earth, lest it should shake with them. 21:31) The word مَید (mayd) in Arabic language means to be convulsed. Therefore, the meaning of this verse is that Allah Ta` ala has planted mountains on the earth to hold it in place because any violent movement of the earth would be catastrophic to those who live on it.
 
 ## Personal Reflections
+
+

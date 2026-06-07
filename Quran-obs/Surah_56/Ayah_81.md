@@ -22,15 +22,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Inevitable** (Al-Waqi'ah) 81, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Waqi'ah is a **Makkah** surah—revealed as the 46th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 96 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -141,3 +133,5 @@ Qatadah said, "Al-Hasan used to say, 'How evil is that all that some people have
 أَفَبِهَـٰذَا الْحَدِيثِ أَنتُم مُّدْهِنُونَ (Is it this discourse that you take lightly,...56:81) The word mudhinun is the plural of mudhin, being the active participle from اِذھَان idhan, which literally means 'to apply or rub oil on the body'. When oil is applied or rubbed on the body, the muscles are relaxed, and parts of the body become soft and supple. By extension, the word is employed in the sense of showing flexibility and softness on inappropriate occasions. Hence, it is used in the sense of hypocrisy.
 
 ## Personal Reflections
+
+

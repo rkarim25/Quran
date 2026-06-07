@@ -110,18 +110,6 @@ word_by_word:
     transliteration: yaʿmalūna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 96, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say to (them): "If the abode of the Hereafter with Allah is indeed for you especially and not for others of mankind, then long for death if you are truthful. This verse shows the basic weakness of the Jews which did not allow them to accept the challenge proposed in Verse 94, and thus exposes the hollowness of their claim to the blessings of the other world being reserved for them.
@@ -201,3 +189,5 @@ Long life shall not save them from torment. Certainly, the polytheists do not be
 This verse shows the basic weakness of the Jews which did not allow them to accept the challenge proposed in Verse 94, and thus exposes the hollowness of their claim to the blessings of the other world being reserved for them. The Holy Qur'an puts a special emphasis on the fact that the Jews loved physical life much more than did the Arab polytheists. Such an inclination should not have been surprising on the part of the latter, for, after all, they did not believe in the other world, and physical life was the be-all and end-all for them. But the Jews acknowledged the existence of the other world, and even had the illusion that they alone deserved its joys, and yet it was they who, above all others, wished to live in this world as long as possible. This very desire shows how baseless their pretention was, and how they themselves knew that they would have to face the fires of Hell in the other world, and that physical life was, as long as it lasted, a kind of protection against their final fate.
 
 ## Personal Reflections
+
+

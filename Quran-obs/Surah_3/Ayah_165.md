@@ -91,15 +91,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 165, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -212,3 +204,5 @@ In this verse, Muslims are being reminded that the hardship they were facing tha
 Secondly, and primarily too, the purpose of saying, قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ 'This is from your ownselves' at the end of this verse, is to tell Muslims that the hardship they have faced is not because the enemy is stronger or his forces overwhelming, but all that has been caused by some of their own shortcomings, that is, they fell short in obeying the command of the Holy Prophet ﷺ .
 
 ## Personal Reflections
+
+

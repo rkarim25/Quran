@@ -18,15 +18,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Most High** (Al-A'la) 17, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'la is a **Makkah** surah—revealed as the 8th surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 meaning, he purifies himself from despised characteristics and he follows what Allah has revealed to the Messenger ﷺ.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -145,3 +137,5 @@ This is the end of the Tafsir of Surat Al-A'la (Sabbih). All praise and blessing
 Let us consider the following scenario: It is said to a person that there are two houses in front of him, one of which is a magnificent mansion, fully furnished and another an ordinary, substandard house, not properly furnished. He has the choice to take the mansion, but only for a month or two. Thereafter, he will have to vacate the mansion. Or he may take the underdeveloped house that he will own permanently. Which of the two houses a wise person will prefer? The answer is obvious that he will prefer the second option. On this analogy, one should prefer the blessings of the Hereafter even if, for argument's sake, they are substandard, because they are permanent and eternal. But the fact is that they are not only permanent, but also much better and far more superior to the worldly comforts. In this situation only an unfortunate fool will prefer the blessings of this life to the bounties of the Hereafter.
 
 ## Personal Reflections
+
+

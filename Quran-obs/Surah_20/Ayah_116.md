@@ -42,18 +42,6 @@ word_by_word:
     transliteration: abā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 116, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm willpower (115)And (remember) when We said to the angels: "Prostrate yourselves to Adam." They prostrated themselves (all) except Iblis; he refused (116)Then We said: "O Adam! وَإِذْ قُلْنَا لِلْمَلَائِكَةِ (And when We said to angels - 20:116)Here is a brief mention of the command which, after the creation of Sayyidna 'Adam (علیہ السلام) Allah gave to all the angels including Iblis (Shaitan) who at that time lived in the Paradise with them, to prostrate to him.
@@ -135,3 +123,5 @@ Al-Bukhari recorded that Abu Hurayrah said that the Prophet ﷺ said,
 وَإِذْ قُلْنَا لِلْمَلَائِكَةِ (And when We said to angels - 20:116)Here is a brief mention of the command which, after the creation of Sayyidna 'Adam (علیہ السلام) Allah gave to all the angels including Iblis (Shaitan) who at that time lived in the Paradise with them, to prostrate to him. All the angels obeyed but Shaitan refused. In his haughtiness he claimed that he was made of fire while Sayyidna 'Adam (علیہ السلام) was made of clay, and fire being superior to clay, he could not be expected to prostrate to the latter. As a punishment for his arrogance and defiance of the command of Allah he was accursed and driven from Paradise while all the gates of Paradise were opened wide for Sayyidna 'Adam (علیہ السلام) and Sayyidnh Hawwa' (علیہا السلام) to enjoy the fruits of its gardens and all the blessings of Allah at their will. However, there was one particular tree which they were told to shun in all circumstances and never to partake of any of its produce. This story has been related in Surah Al-Baqarah and Al-A'rif. Instead of repeating it here, Allah has mentioned his directives given to Sayyidna 'Adam (علیہ السلام) to comply with His commands to the fullest extent. Referring to the rebellious conduct of shaitan He reminds Sayyidna 'Adam (علیہ السلام) that the former is his enemy and that both he himself and his wife should at all times be on their guard against his deceptions. But if they succumbed to his tricks and became heedless of the commands of Allah then they would be expelled from Paradise and face distress
 
 ## Personal Reflections
+
+

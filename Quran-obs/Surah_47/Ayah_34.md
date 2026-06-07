@@ -66,18 +66,6 @@ word_by_word:
     transliteration: lahum
 ---
 
-## Context
-
-To understand **Muhammad** (Muhammad) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Muhammad is a **Madinah** surah—revealed as the 95th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 38 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The contents of this Surah testify that it was sent down after the hijrah at Madinah at the time when the fighting had been enjoined, though active fighting had not yet been undertaken. Detailed arguments in support of this view have been given in E. N. 8 below. Historical Background The conditions at the time when this Surah was sent down were such that the Muslims were being made the target of persecution and tyranny in Makkah in particular and in Arabia in general, and life had become miserable for them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who disbelieve, and hinder from the path of Allah, and oppose the Messenger, after the guidance has been clearly shown to them, they will not harm Allah in the least, but He will make their deeds fruitless (32)O you who believe! إِنَّ الَّذِينَ كَفَرُ‌وا وَصَدُّوا عَن سَبِيلِ اللَّـهِ ثُمَّ مَاتُوا وَهُمْ كُفَّارٌ‌ (Those who disbelieve and prevent (others) from Allah's way, Allah will never forgive them...- 47:34): verse [ 32] has a similar warning in similar words.
@@ -147,3 +135,5 @@ Then, Allah commands His believing servants to obey Him and His Messenger ﷺ, w
 إِنَّ الَّذِينَ كَفَرُ‌وا وَصَدُّوا عَن سَبِيلِ اللَّـهِ ثُمَّ مَاتُوا وَهُمْ كُفَّارٌ‌ (Those who disbelieve and prevent (others) from Allah's way, Allah will never forgive them...- 47:34): verse [ 32] has a similar warning in similar words. The present verse [ 34] seems to repeat almost the same warning. But the difference is probably that verse 32 describes the loss of the infidels in this world, and the current verse describes their loss in the next world as indicated in the commentary. It is also possible that in the earlier verse the reference was to infidels in general which included those people who embraced Islam later on. The ruling regarding them was that all the good works which they had done in the state of disbelief would go to waste. Even after embracing Islam they would not be rewarded for them. The current verse refers in particular to those infidels who persisted in their disbelief and idolatry until their dying day. The ruling regarding them is that Allah will never forgive them in the next world. Allah knows best.
 
 ## Personal Reflections
+
+

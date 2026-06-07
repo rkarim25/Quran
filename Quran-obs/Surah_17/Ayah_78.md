@@ -63,18 +63,6 @@ word_by_word:
     transliteration: mashhūdan
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 78, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Perform the Salah from midday till the darkness of the night, and recite the Qur'an in the early dawn. Salah is the best defense against enemy hostility Previous verses have mentioned the hostility of the enemies of Islam, the plans they made to hurt and harass the Holy Prophet ﷺ and what was to be done in response.
@@ -250,3 +238,5 @@ In the next phrase: وَقُرْ‌آنَ الْفَجْرِ‌ (wa Qur’ an al
 The word 'mashhud' in the expression: كَانَ مَشْهُودًا (kana mashhuda) has been derived from shahadah that means to be present.' This is a time when, according to clear statements in authentic Ahadith, both groups of angels, those of the night and those of the day, present themselves for Salah. Therefore, it has been called 'mashhud' (hence, translated as 'well-attended' ). The injunction of five prayers has appeared in this verse briefly. It has been explained fully by the Holy Prophet ﷺ through his word and deed - and unless one acts in accordance with this explanation, no one can perform Salah. I just do not know how those who claim to understand the Qur'an without Hadith and the statements of the Rasul of Allah go about making their Salah? Similarly, in this verse, the recital of the Qur’ an within the Salah has also been mentioned briefly. As for its details, it stands proved from the word and deed of the Holy Prophet ﷺ that the recitation in the Fajr prayer should be long - to the measure of strength and ability, less than that in Zuhr and Jumu'ah, average in ` Asr and ` Isha' and very brief in Maghrib. As for the mention of a long recitation in Maghrib and very brief in Fajr in some reports, it stands practically abandoned. Imam al-Qurtubi carries the riwayah of Sahih Muslim in which the recitation of long Surahs like Surah al-A` raf and Mursalat in the Salah of Maghrib, or the recitation of only the Mu'awwadhatain (the last two Surahs) as sufficient in the Salah of Fajr have been reported. He, then, comments: فمتروک بالعمل ولانکارہ علی معاذ التطویل و بامرہ الایٔمۃ بالتخفیف . It means that these incidentals of long recitation in Maghrib and brief in Fajr stand abandoned in the light of the constant practice of the Holy Prophet ﷺ as well as his verbal sayings. (Qurtubi)
 
 ## Personal Reflections
+
+

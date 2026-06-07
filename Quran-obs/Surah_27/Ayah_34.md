@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yafʿalūna
 ---
 
-## Context
-
-To understand **The Ant** (An-Naml) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Naml is a **Makkah** surah—revealed as the 48th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 93 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 She said: "O chiefs! Consultation in important matters is a Sunnah.
@@ -125,3 +113,5 @@ Reaction of Queen Bilqis on the letter of Sulaiman
 After having consulted the functionaries of her government and gaining their confidence, she herself developed a strategy that she should initially test out the real intention of Sayyidna Sulaiman (علیہ السلام) and to find out whether he was actually a prophet and messenger of God, and whether he was really conveying the message of God or he was aspiring for a greater empire. The purpose behind this strategy was to find out that if he was a prophet in reality, then his command should be followed and no hostility be adopted against him. On the other hand if he was only a king and wished to expand his empire by subjugating her kingdom, then a different plan be worked out to face the challenge. To test out the real intention of Sayyidna Sulaiman (علیہ السلام) she adopted the tactic of sending to him precious gifts and presents. If he becomes satisfied after receiving the gifts, then it would indicate that he was only a king and had approached her with mundane motives. On the other hand, if he was actually a prophet then he would not agree on anything other than acceptance of Islam. Ibn Jarir has reported this explanation from Sayyidna Ibn ` Abbas ؓ Mujahid, Ibn Juraij, and Ibn Wahb رحمۃ اللہ علیہم with several chins of narrators.The same subject is elaborated in the following verse:
 
 ## Personal Reflections
+
+

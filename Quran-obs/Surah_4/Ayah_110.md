@@ -58,18 +58,6 @@ word_by_word:
     transliteration: raḥīman
 ---
 
-## Context
-
-To understand **The Women** (An-Nisa) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah comprises several discourses which were revealed on different occasions during the period ranging probably between the end of A.H. 3 and the end of A.H. 4 or the beginning of A.H. 5. Although it is difficult to determine the exact dates of their revelations, yet it is possible to assign to them a fairly correct period with the help of the Commandments and the events mentioned therein, and the Traditions concerning them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And whoever does evil or wrongs himself but afterwards seeks Allah's forgiveness, he will find Allah Oft-Forgiving, Most Merciful.) 111. In the sixth verse (110), we can once again see the wise way of the Qur'an at work when, in order to save sinners from total disappointment, it was said that a sin was a sin, big or small.
@@ -139,3 +127,5 @@ Imam Ahmad recorded that 'Ali said, "Whenever I hear anything from the Messenger
 In the sixth verse (110), we can once again see the wise way of the Qur'an at work when, in order to save sinners from total disappointment, it was said that a sin was a sin, big or small. When a sinner repents and seeks Allah's forgiveness, he finds Him forgiving, merciful. As obvious, there is an element of persuasion for those who have committed sin suggesting that they still had the time and the hope to just desist and repent sincerely; nothing is lost, Allah will forgive everything.
 
 ## Personal Reflections
+
+

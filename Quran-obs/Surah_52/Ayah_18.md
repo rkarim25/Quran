@@ -38,18 +38,6 @@ word_by_word:
     transliteration: l-jaḥīmi
 ---
 
-## Context
-
-To understand **The Mount** (At-Tur) 18, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tur is a **Makkah** surah—revealed as the 76th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 49 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation From the internal evidence of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who have Taqwa will be in Gardens and Delight (17)Enjoying in that which their Lord has bestowed on them, and (the fact that) their Lord saved them from the torment of the blazing Fire (18)"Eat and drink with happiness because of what you used to do. يَوْمَ تَمُورُ‌ السَّمَاءُ مَوْرً‌ا (...the Day when the sky will tremble, a horrible trembling, ...52:9) The lexicographical denotation of the word mawr is violent shaking, or movement caused by unrest.
@@ -99,3 +87,5 @@ Allah the Exalted described the destination of the happy ones,
 يَوْمَ تَمُورُ‌ السَّمَاءُ مَوْرً‌ا (...the Day when the sky will tremble, a horrible trembling, ...52:9) The lexicographical denotation of the word mawr is violent shaking, or movement caused by unrest. This verse describes the violent movement of the heavens on the Day of Resurrection.
 
 ## Personal Reflections
+
+

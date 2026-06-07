@@ -59,18 +59,6 @@ word_by_word:
     transliteration: l-kāfirīna
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And (remember) when We said to the angels: "Prostrate yourselves before Adam." And they prostrated except Iblis (Shaytan), he refused and was proud and was one of the disbelievers (disobedient to Allah)(34) Honoring Adam… The episode recounted in the foregoing verses has shown how the angels came to learn that Adam was superior to them in so far as he possessed the forms of knowledge necessary for the function of divine vice regency, while they themselves did not, nor did the jinns.
@@ -152,3 +140,5 @@ Given that the Holy Qur'an itself speaks of prostration as a mark of respect, on
 (3) Iblis had attained such a high degree in science and knowledge that he was called طاؤس الملأکہ Ta’ us al-Mala'ikah: "The Peacock Among the Angels." How did he, then, come to commit such a suicidal error? Some scholars say that it was because of his pride and vanity that Allah took back from him the wealth of knowledge and understanding, and hence he came to act like an ignorant fool. Others have suggested that his error was due to self-love and ambition. The famous commentary, 'Ruh al-Bayan' resolves the question by quoting a line of verse in Arabic which shows that once the aid of Allah has been withdrawn from a man, he can no longer save himself from sins, and all the effort he makes only serves to push him farther and farther into misguidance. May Allah, in his mercy, save all of us from such a fate! The commentary draws from it the conclusion that one should not be vain about one's learning or one's deeds or even about one's Iman ایمان (faith), for Iman ایمان is valid only if it lasts till one's final breath and into the first stage of one's journey to the other world.
 
 ## Personal Reflections
+
+

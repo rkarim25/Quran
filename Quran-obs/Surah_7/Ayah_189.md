@@ -127,18 +127,6 @@ word_by_word:
     transliteration: l-shākirīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 189, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation A study of its contents clearly shows that the period of its revelation is about the same as that of Al-An'am, i. e., the last year of the Holy Prophet's life at Makkah, but it cannot be asserted with certainty which of these two was sent down earlier. Anyhow the manner of its admonition clearly indicates that it belongs to the same period. As both have the same historical background the reader should keep in view the preface to Al-An'am. Topics of Discussion The principal
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is He Who has created you from a single person, and (then) He has created from him his wife, in order that he might enjoy the pleasure of living with her. The next verse 189 speaks of the most basic belief of Islam that is Tauhid and, at the same time, brings out the falsity of believing in more than one god.
@@ -246,3 +234,5 @@ That is to say, at the initial stage of pregnancy the woman feels free to move a
 It happens in a variety of ways. Sometimes they are misled by their false belief that their new born is a gift of some holy or godly person. Sometimes, they devote it to some living or dead person and start making offerings in their names. Some people take their children to them and bow their forehead before them. Sometimes, they involve themselves in Shirk شِرک by naming their children like ` Abdullat عبدَاللات ` Abd ul ` Uzza عبد العُزٰی ` Abdul Shams عَبد الشمس or Bandah ` Ali بَندہِ علی etc., assigning their children to false gods, indicating that these children have been created or gifted by these gods or personalities.
 
 ## Personal Reflections
+
+

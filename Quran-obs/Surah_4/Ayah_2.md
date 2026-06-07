@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Women** (An-Nisa) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nisa is a **Madinah** surah—revealed as the 92nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 176 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Al-Bukhari recorded that 'A'ishah said, "A man was taking care of a female orphan and he married her, although he did not desire to marry her. That girl's money was mixed with his, and he was keeping her portion from her. Afterwards, this Ayah was revealed about his case;
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -217,3 +209,5 @@ The verse ends with the admonition, إِنَّهُ كَانَ حُوبًا كَ�
 The stern warning to those who eat up the property of an orphan appears later towards the end of this section (4:10).
 
 ## Personal Reflections
+
+

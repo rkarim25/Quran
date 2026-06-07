@@ -76,18 +76,6 @@ word_by_word:
     transliteration: yakhtalifūna
 ---
 
-## Context
-
-To understand **Jonah** (Yunus) 19, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yunus is a **Makkah** surah—revealed as the 51st surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 109 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation We learn from traditions, and this is supported by the contents of the Surah itself, that the whole of this Surah was revealed at Makkah. But there are some people who are of the opinion, that some of its verses were revealed at Al-Madinah. This is, however, a superficial view. The continuity of the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they worship besides Allah things that harm them not, nor profit them, and they say: These are our intercessors with Allah." Say: Do you inform Allah of that which He knows not in the heavens and on the earth?" Glori… Disbelievers and Believers are two separate nationalities: Nationality based on race and country is absurd The statement: كَانَ النَّاسُ إِلَّا أُمَّةً وَاحِدَةً (And people were but one community) in verse 19 means that the progeny of Sayyidna Adam (علیہ السلام) was essentially a single community of monotheists in the earlier stages of man's presence in the world.
@@ -141,3 +129,5 @@ Then, it is also obvious that there is a long period of time between Sayyidna Ad
 Of course, when Kufr and Shirk spread out and posed a threat to 'Iman or true belief, Kafirs and Mushriks were declared to be a separate community of people as indicated in: فَاخْتَلَفُوا (later, they differed). Another verse of the Holy Qur'an: هُوَ الَّذِي خَلَقَكُمْ فَمِنكُمْ كَافِرٌ‌ وَمِنكُم مُّؤْمِنٌ is He who created you; yet there is among you a disbeliever and there is among you a believer - At-taghabun, 64:2) makes it more explicit. It tells that the thing that separates the progeny of Sayyidna Adam (علیہ السلام) created by Allah into different peoples is the deviation from 'Iman and Islam. Bonds of lineage or country do not make people separate. Bracketing human beings into different groups on the basis of language, homeland, color or race is ignorance dished out in the garb of enlightenment. It is new. But everything new is not necessarily true and wise. In fact, it might as well be the exact opposite of what is wise. Today, there are many educated people who have also fallen into the trap of this narrow concept of nationalism based on the factors enumerated above. Unfortunately, this approach towards ordering the social life of human beings is fraught with seeds of countless unseen disasters. May Allah keep Muslims safe from its evil effects.
 
 ## Personal Reflections
+
+

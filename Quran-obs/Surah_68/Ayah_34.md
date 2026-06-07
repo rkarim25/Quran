@@ -29,18 +29,6 @@ word_by_word:
     transliteration: l-naʿīmi
 ---
 
-## Context
-
-To understand **The Pen** (Al-Qalam) 34, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qalam is a **Makkah** surah—revealed as the 2nd surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-34-47 continuously, the disbelievers have been admonished, in which the address sometimes turns to them directly and sometimes they are warned through the Holy Prophet (upon whom be peace).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you? كَذَٰلِكَ الْعَذَابُ (In this way the punishment comes.
@@ -102,3 +90,5 @@ These verses give a solid proof to the necessity of the Day of Judgment, because
 One may argue that a criminal is apprehended, he is exposed to disgrace and is punished. This distinguishes the innocent persons from the evil ones right here in this world. Laws and statutes of a government’ s establish standards of justice and fair play. But this is incorrect, because it is not possible for a government to keep an eye on every one, everywhere and in all circumstances. Wherever it does happen, it is not an easy task to gather the necessary judicial evidence, so that the guilty person may be convicted and punished. And even if the judicial evidence could be gathered, there are several escape doors through which the guilty person could get away, such as force, bribery, intercession and pressure. If we review the punishment history of the present-day governments and courts, it would appear that nowadays only those people are punished who are fools, brainless and helpless or without support. They are not cunning enough to find a loophole in the legal system, or an escape route, nor do they have enough money to pay for bribery, nor do they have an influential person to back them or intercede on their behalf or they cannot use these things because of their foolishness. The rest of the criminals are moving freely.
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-ghālibūna
 ---
 
-## Context
-
-To understand **The Table Spread** (Al-Ma'idah) 56, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! In other words, it is said here that those who obey the commands of Allah are the People of Allah.
@@ -157,3 +145,5 @@ Therefore, those who accept the allegiance of Allah - His Messenger and the fait
 In other words, it is said here that those who obey the commands of Allah are the People of Allah. Given to them is the good news that they will be the ones to finally overcome. The events which unfolded later on confirmed the veracity of this statement when everyone saw that the noble Companions, may Allah be pleased with them all, overcame all powers which threatened them. When internal rebellions challenged Sayyidna Abu Bakr ؓ ، Allah Almighty helped him prevail over all of them. When the towering powers of Ceaser and Cyrus marshaled their menacing might against Sayyidna ` Umar al-Faruq ؓ ، Allah Almighty effaced them from the face of the earth. Then, as long as these injunctions were dutifully observed by the Khulafa' and Muslims at large who came after them - by abstaining from establishing close bonds of friendship with non-Muslims - they had always remained winners in the struggle of life.
 
 ## Personal Reflections
+
+

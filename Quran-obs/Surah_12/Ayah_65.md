@@ -111,18 +111,6 @@ word_by_word:
     transliteration: yasīrun
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 65, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when they opened their bags, they found their money had been returned to them. And when they opened their baggage, they found their capital given back to them.
@@ -184,3 +172,5 @@ It will be noticed that, prior to this verse, the brothers of Sayyidna Yusuf (ع
 One sense of the sentence: مَا نَبْغِي (ma nabghi) spoken by the brothers of Sayyidna Yusuf (علیہ السلام) is practically the same as given immediately above, that is, ` what else do we want?' And if, in this sentence, the letter: مَا (ma : not) is taken in the sense of negation, it could also mean that the sons of Sayyidna Ya` qub (علیہ السلام) told their father: Now that we have the price of the grain with us, we do not want anything from you. You just send our brother with us.
 
 ## Personal Reflections
+
+

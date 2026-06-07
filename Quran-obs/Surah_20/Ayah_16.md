@@ -46,18 +46,6 @@ word_by_word:
     transliteration: fatardā
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when he came to it (the fire), he was called by name: "O Musa! فَلَا يَصُدَّنَّكَ عَنْهَا (must not make you neglectful of it - 20:16 ) Here Sayyidna Musa (علیہ السلام) is cautioned by Allah Ta’ ala lest he should allow himself to be led away by the infidels and become negligent about the Day of Judgment because that would be the cause of his ruination.
@@ -177,3 +165,5 @@ Allah, the Exalted, says,
 فَلَا يَصُدَّنَّكَ عَنْهَا (must not make you neglectful of it - 20:16 ) Here Sayyidna Musa (علیہ السلام) is cautioned by Allah Ta’ ala lest he should allow himself to be led away by the infidels and become negligent about the Day of Judgment because that would be the cause of his ruination. It is clear that a Prophet and a Messenger who is impeccable cannot commit such a lapse but the fact that such a warning has been addressed to him is meant to warn his followers as well as mankind at large to be cautious in the matter
 
 ## Personal Reflections
+
+

@@ -127,18 +127,6 @@ word_by_word:
     transliteration: l-albābi
 ---
 
-## Context
-
-To understand **The Cow** (Al-Baqarah) 197, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Baqarah is a **Madinah** surah—revealed as the 87th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 286 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-themes of the surahs revealed at Makkah and those at Al-Madinah. Accordingly about half of this Surah deals with those principles and regulations which are essential for the integration and solidarity of a community and for the solution of its problems. After the migration to Al-Madinah, the struggle between Islam and un-Islam had also entered a new phase. Before this, the Believers, who propagated Islam among their own clans and tribes, had to face their opponents at their own risk.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Hajj (pilgrimage) is (in) the well-known months. The Hajj Months: Prohibitions We now move to the second verse out of the eight that deal with the rules of Hajj, which is: الْحَجُّ أَشْهُرٌ‌ مَّعْلُومَاتٌ: The Hajj is (in) the months well-known'.
@@ -356,3 +344,5 @@ After proclaiming basic Ihram prohibitions, the sentence: وَمَا تَفْع�
 The sentence that follows immediately: وَتَزَوَّدُوا فَإِنَّ خَيْرَ‌ الزَّادِ التَّقْوَىٰ : 'And take provisions along, for the merit of provision is to abstain (from asking) ' aims to correct those who leave their homes for Hajj and ` Umrah without adequate preparation claiming that they do so because they have trust in Allah. Obviously, they have to ask for help on their way, or worse still, they themselves go through privation and suffering and in the process, bother others as well. Hence, the instruction has been given that provisions needed for the proposed trip for Hajj should be taken along. This is not against tawakkul تَوکُّل or trust in Allah; it is rather, the very essence of tawakkul تَوکُّل ، which conveys the sense that one should first acquire and collect the means and resources provided by Allah Almighty to the best of one's capability and, then, place his trust (tawakkul تَوکُّل) in Allah. This is the exact explanation of tawakkul reported from the Holy Prophet ﷺ . Forsaking all efforts to acquire means of subsistence (tark al-asbab ترک الاسباب ) and calling it tawakkul is sheer ignorance.
 
 ## Personal Reflections
+
+

@@ -12,18 +12,6 @@ word_by_word:
     transliteration: mawḍūʿatun
 ---
 
-## Context
-
-To understand **The Overwhelming** (Al-Ghashiyah) 14, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ghashiyah is a **Makkah** surah—revealed as the 68th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 26 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The whole
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Faces that Day will be joyful (8)Glad with their endeavor (9)In a lofty Paradise (10)Where they shall neither hear harmful speech nor falsehood (11)Therein will be a running spring (12)Therein will be thrones raised high… وَأَكْوَابٌ مَّوْضُوعَةٌ (and goblets, well placed...88:14) The word akwab is the plural of kub and it refers to a 'goblet', a 'glass' or a cup for drinking water.
@@ -111,3 +99,5 @@ Etiquette of Living
 وَأَكْوَابٌ مَّوْضُوعَةٌ (and goblets, well placed...88:14) The word akwab is the plural of kub and it refers to a 'goblet', a 'glass' or a cup for drinking water. It has been qualified by the adjective maudu’ ah and it means 'well placed'. This signifies that the glasses or cups or containers will be set in their due places close to water. This description opens an important chapter in setting down some of the rules of correct behaviour in social situations. The drinking containers for water ought to be placed near the water in the designated place. They should not be misplaced so that the other members of the household will have to look for them when they wish to drink water. This situation is irritating. Other household items of daily use, such as cans, glasses, towels, and so on, should be arranged in their designated places, and after using them, they must be kept back in their respective places, so that the other members of the household do not face any difficulty in finding them out. A11 this is deducible from the word maudu'ah 'well placed', because Allah has arranged the goblets near the water for the comfort of the inmates of Paradise.
 
 ## Personal Reflections
+
+

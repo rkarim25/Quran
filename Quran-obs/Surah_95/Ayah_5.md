@@ -20,18 +20,6 @@ word_by_word:
     transliteration: sāfilīna
 ---
 
-## Context
-
-To understand **The Fig** (At-Tin) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tin is a **Makkah** surah—revealed as the 28th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 8 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to Qatadah, this Surah is Madani. Two different views have been reported from Ibn Abbas: first that it is a Makki Surah, and second that it is Madani. But the majority of scholars regard it as a Makki revelation, a manifest symbol of which is the use of the words hadh-al-balad-il-amin (this city of peace) for Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Recitation of Surat At-Tin in the Prayer while Traveling Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation than him." The Group has recorded this Hadith in their books. ثُمَّ رَ‌دَدْنَاهُ أَسْفَلَ سَافِلِينَ (then We turned him into the lowest of the low...95:5).
@@ -123,3 +111,5 @@ Then Allah says,
 ثُمَّ رَ‌دَدْنَاهُ أَسْفَلَ سَافِلِينَ (then We turned him into the lowest of the low...95:5). In the preceding sentence, it was stated that man is created in the best composition and is the most beautiful being. In the prime of his life, man is brimming with strength and vigour and all his faculties are functioning at their best. As opposed to that, this sentence states that when man ages, he physically grows weaker and his health deteriorates all the time. He even begins to lose his physical beauty. He no longer has a good-looking and attractive face. He begins to look uglier. He becomes useless and a burden to others. Other animals, on the contrary, are useful to the end of their lives. Man utilises them for milk, for mounting, for luggage-loading and for myriad of other things. When they are slaughtered or dead, man still utilises their hide, hair, bones and every other part or fibre of theirs usefully. Man, on the other hand, becomes useless when he falls ill or grows old. From the worldly point of view he is unable to do anything. Even when he dies, no part of his body is of any benefit to any man or animal. In short, the phrase 'the lowest of the low' refers to bodily condition. His body bends over and legs can barely carry him. The man who was once supporting others now needs others to support him. [ Dahhak and others vide Qurtubi ].
 
 ## Personal Reflections
+
+

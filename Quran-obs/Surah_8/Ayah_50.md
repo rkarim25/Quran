@@ -58,18 +58,6 @@ word_by_word:
     transliteration: l-ḥarīqi
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 50, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed in 2 A. H. after the Battle of Badr, the first battle between Islam and kufr . As it contains a detailed and comprehensive review of the Battle, it appears that most probably it was revealed at one and the same time. But it is also possible that some of the verses concerning the problems arising as a result of this Battle might have been revealed later and incorporated at the proper places to make it a continuous whole.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if you could see when the angels take away the souls of those who disbelieve (at death); they smite their faces and their backs, (saying): "Taste the punishment of the blazing Fire. Mentioned in the first two of the verses cited above is the punishment of disbelievers at the time of their death and the warnings given to them by the angels.
@@ -139,3 +127,5 @@ Then, there are other Commentators who have kept the sense of this verse general
 Therefore, the modality used to address the Holy Prophet ﷺ was: 'And only if you were to see,' you would have seen a scene full of sobering lessons. This tells us that, after death, punishment is given to disbelievers while they are in the state of Barzakh, but that phenomenon is related to the universe of the Unseen کلام الغیب (` clam al-ghayb), therefore, it is not seen usually. The punishment of the grave finds mention in several other verses of the Holy Qur'an as well, while Hadith narrations on this subject just abound.
 
 ## Personal Reflections
+
+

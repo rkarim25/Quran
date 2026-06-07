@@ -79,18 +79,6 @@ word_by_word:
     transliteration: hudan
 ---
 
-## Context
-
-To understand **Ta-Ha** (Taha) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Taha is a **Makkah** surah—revealed as the 45th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 135 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The period of its revelation is the same as of Surah Maryam. It is possible that the surah was revealed during the Migration to Habash or just after it. Anyhow, it is certain that this Surah was revealed before Hadrat Umar embraced Islam. According to well known authentic tradition, when Hadrat Umar set out to kill the Holy Prophet, he met a man who said, "Before you do anything else, you should know that your own sister and brother-in-law have embraced Islam" Hearing this, he directly went to the house of his sister.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And has there come to you the story of Musa (9)When he saw a fire, he said to his family: "Wait! وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ (And has there come to you the story of Musa?
@@ -144,3 +132,5 @@ The story of Sayyidna Musa (علیہ السلام) which is related here begins 
 It was a dark and cold night and to add to the misery, his wife began to experience birth pangs. He tried to strike fire with flint but did not succeed. In this state of utter confusion he saw light on the Tur mountain which, in fact, was the Nur (the light symbolizing the truth). So he said to his family, "I have noticed fire. I am going there to bring for you a live coal and I may also find someone who could tell me the way to Egypt." The presence of his wife on the journey is well established. According to some traditions there was a servant with him who is also addressed. Others say that there were some other companions also who were separated when they lost their way. (Al-Bahr ul-Muhit)
 
 ## Personal Reflections
+
+

@@ -25,18 +25,6 @@ word_by_word:
     transliteration: rāʿūna
 ---
 
-## Context
-
-To understand **The Ascending Stairways** (Al-Ma'arij) 32, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'arij is a **Makkah** surah—revealed as the 79th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 44 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those i… Rights of Allah and Rights of Human beings both are included in Trust Obligations وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَ‌اعُونَ (and those who are careful about their trusts and covenants...70:32).
@@ -166,3 +154,5 @@ Rights of Allah and Rights of Human beings both are included in Trust Obligation
 The use of plural number indicates that amanah does not only refer to 'that which people might deposit with a trustee for safe-keeping' but it also refers to 'all obligatory rights that are necessary to fulfill'. Breach of trusts and covenants is dishonesty. Trust obligations include all Divine rights, such as salah, siyam, hajj and zakah, as well as all human rights, such as rights that Allah has imposed between human beings, or human beings themselves might have entered into binding contracts and covenants. Fulfillment of them is obligatory. Failure to comply with their terms and conditions would amount to breach, or dishonesty. [ Mazhari، condensed ].
 
 ## Personal Reflections
+
+

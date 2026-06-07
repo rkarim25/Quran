@@ -73,15 +73,7 @@ word_by_word:
 
 ## Context
 
-To understand **Family of Imran** (Ali 'Imran) 129, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 From the verse لَيْسَ لَكَ مِنَ الْأَمْرِ‌ شَيْءٌ (You have no authority in the matter) (128), the text returns to the main event of Uhud after a brief mention of the event of Badr in between. This verse was revealed in the background of the battle of Uhud where the Holy Prophet ﷺ lost one of his teeth, the lower right premolar, to be exact. His face injured, he is reported to have uttered: 'How shall such people prosper, people who do this to their prophet, although that prophet is calling them towards God?'. Thereupon, this verse was revealed.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -362,3 +354,5 @@ According to yet another story from the Sahih al-Bukhari, the Holy Prophet ﷺ h
 1. Bayan al-Qura'n.
 
 ## Personal Reflections
+
+

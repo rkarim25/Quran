@@ -76,18 +76,6 @@ word_by_word:
     transliteration: yakhtalifūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 124, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 The Sabbath was only prescribed for those who differed concerning it, and verily, your Lord will judge between them on the Day of Resurrection about what they differed over (124) The Prescription of the Sabbath for the J… The Holy Prophet being on the way of Sayyidna Ibrahim (علیہ السلام) : Understanding the Chemistry of Adherence When Sayyidna Ibrahim I appeared, Allah Ta’ ala blessed him with a Shari'ah and its Injunctions.
@@ -123,3 +111,5 @@ The Holy Prophet being on the way of Sayyidna Ibrahim (علیہ السلام) : 
 When Sayyidna Ibrahim I appeared, Allah Ta’ ala blessed him with a Shari'ah and its Injunctions. When the Last of the Prophets ﷺ appeared, his Shari'ah too - with the exception of some particular Injunctions - was laid out in accordance with it. Though, the Holy Prophet ﷺ is preferred as more distinguished (afdal) of all blessed prophets and messengers, but at this place, there are two wise considerations in asking the preferred (afdal) to follow the one not so preferred (mafdul) in the present context. (1) Since that Shari'ah has come into the world earlier and is already known and recognized and as the last Shari'ah was also to be in accord with that, therefore, this similarity of the Holy Prophet ﷺ to the way of Sayyidna Ibrahim (علیہ السلام) was expressed through the word: اِتِّبَاع (ittiba': following). (2) As said by ` Allamah al-Zamakhshari (author of Tafsir Al-Kashshaf), this command to follow too is a special tribute out of the many honours and tributes attributed to the 'friend' of Allah, Sayyidna Ibrahim (علیہ السلام) . That it is so special has been hinted through the use of the word: ثُمَّ (thumma: Then - 123). The sense being conveyed is: Certainly great are all those merits and perfections of the person of Sayyidna Ibrahim (علیہ السلام) as they are, but the most superior of all these is the fact that Allah Ta’ ala has asked his preferred-most and the dearest rasul to follow his way.
 
 ## Personal Reflections
+
+

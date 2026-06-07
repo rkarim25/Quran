@@ -31,15 +31,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Clot** (Al-'Alaq) 15, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-'Alaq is a **Makkah** surah—revealed as the 1st surah in chronological order, during the Makkah phase of revelation (the earliest and most intense days of persecution in Makkah). This ayah sits within a surah of 19 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah. Thus, Allah firstly admonished him with that which was better by saying,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -140,3 +132,5 @@ Then Allah says,
 Verse [ 15 - concluding part ] لَنَسْفَعًا بِالنَّاصِيَةِ (...We will certainly drag [ him ] by forelock.) The nasfa'an is derived from the infinitive safuun which means 'to seize and drag' and the word nasiyah means 'forelock', that is, the front part of a person's hair that falls forward over the forehead. When a person's forelock is seized, he becomes helpless in the hands of the seizer.
 
 ## Personal Reflections
+
+

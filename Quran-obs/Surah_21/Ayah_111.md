@@ -39,17 +39,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Prophets** (Al-Anbya) 111, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Say: "It is revealed to me that your God is only one God. Will you then be Muslims? (108)But if they turn away say: "I give you a notice to be known to us all alike. And I know not whether that which you are promised is near or far. (109)"Verily, He knows that which is spoken aloud and He knows that which you conceal. (110)"And I know not, perhaps it may be a trial for you, and an enjoyment for a while. (111)He said:"My Lord! Judge You in truth! Our Lord is the Most Gracious, Whose help is to be sought against that which you attribute! (112)
 
 ("It is revealed to me that your God is only one God. Will you then be Muslims?") meaning, will you then follow that and submit to it?
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -130,3 +122,5 @@ Commentary
 It, therefore, follows that performing jihad against the unbelievers in order to lessen shirk and kufr (unbelief) and in the hope of reclaiming those who transgress the Divine Commands of Allah Ta` ala is an act of mercy.
 
 ## Personal Reflections
+
+

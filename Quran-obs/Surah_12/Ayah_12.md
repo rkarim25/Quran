@@ -38,18 +38,6 @@ word_by_word:
     transliteration: laḥāfiẓūna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "O our father! Permissibility of a trip for pleasure In this verse, the permission sought from Sayyidna Ya` qub (علیہ السلام) is to go for an outing and have the freedom to enjoy eating and playing together.
@@ -81,3 +69,5 @@ Permissibility of a trip for pleasure
 In this verse, the permission sought from Sayyidna Ya` qub (علیہ السلام) is to go for an outing and have the freedom to enjoy eating and playing together. This was something Sayyidna Ya'qub (علیہ السلام) did not disallow at all. He only showed his reluctance in sending Sayyidna Yusuf JI with them, which will appear in the next verse. From here we find out that going out to enjoy and play is allowed under permissible limits. Authentic Ahadith too seem to indicate its justification. But, the condition is that in this activity of fun and games, there should be no transgression of the limits set by the Shari` ah, nor should it be mixed up with any act not permissible there. (Qurtubi others)
 
 ## Personal Reflections
+
+

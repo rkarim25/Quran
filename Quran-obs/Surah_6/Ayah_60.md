@@ -96,18 +96,6 @@ word_by_word:
     transliteration: taʿmalūna
 ---
 
-## Context
-
-To understand **The Cattle** (Al-An'am) 60, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a tradition of Ibn Abbas, the whole of the Surah was revealed at one sitting at Makkah. Asma, a daughter of Yazid and a first cousin of Hadrat Mu'az-bin Jabl, says, "During the revelation of this Surah, the Holy Prophet was riding on a she-camel and I was holding her nose-string. The she-camel began to feel the weight so heavily that it seemed as if her bones would break under it." We also learn from other traditions that the Holy Prophet dictated the whole of the Surah the same night that it was revealed. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 It is He, Who takes your souls by night (when you are asleep), and has knowledge of all that you have done by day, then he raises (wakes) you up again, that a term appointed be fulfilled, then (in the end), unto Him will be your return. No doubt, Allah Ta’ ala had blessed His Messengers (علیہم السلام) specially the Last among them ﷺ with the knowledge of many things from the Unseen, more than the knowledge of all angels and prophets, but it is obvious that the knowledge of anyone cannot be equal to that of Allah, nor it can ever be.
@@ -255,3 +243,5 @@ By giving an example of sleeping then waking up in this verse, Allah Ta` ala has
 (Thereafter, to Him you are to return; then He will tell you what you have been doing) meaning thereby that there will be the reckoning of deeds, then, will come their rewards and punishments.
 
 ## Personal Reflections
+
+

@@ -16,18 +16,6 @@ word_by_word:
     transliteration: lil'muttaqīna
 ---
 
-## Context
-
-To understand **The Reality** (Al-Haqqah) 48, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Haqqah is a **Makkah** surah—revealed as the 78th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 52 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This too is one of the earliest surahs to be revealed at Makkah. Its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And if he had forged a false saying concerning Us (44)We surely would have seized him by his right hand (45)And then We certainly would have cut off Al-Watin from him (46)And none of you could have prevented it from him… And had he forged some statements in Our name, We would have certainly seized him by the right hand, and then severed his life-astery,…(69:44-46) The word taqawwul means 'to forge, fabricate or concoct' and the word watin refers to 'aorta or life-artery'.
@@ -105,3 +93,5 @@ A Cautionary Note
 This verse refers to a theoretical situation relating to the Apostle of Allah in particular that lest, God forbid, if he were to concoct a word and impute it to Allah, this is the way he would have been dealt with. A hypothetical situation is a possible situation, not an actual situation. Thus this does not necessarily set down a universal principle that any and every impostor, who lays claim to prophethood, would be destroyed as a matter of general rule. History records that many impostors laid claim to prophethood, but no such destructive punishment was ever imposed on them.
 
 ## Personal Reflections
+
+

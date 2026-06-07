@@ -38,18 +38,6 @@ word_by_word:
     transliteration: fa-ittaqūni
 ---
 
-## Context
-
-To understand **The Believers** (Al-Mu'minun) 52, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Mu'minun is a **Makkah** surah—revealed as the 74th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 118 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation. Both its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O Messengers! وَإِنَّ هَـٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً (And surely this is your creed, a single creed - 23:52).
@@ -181,3 +169,5 @@ The Religion of All the Prophets Is Tawhid; And the Warning Against Splitting in
 وَإِنَّ هَـٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً (And surely this is your creed, a single creed - 23:52). The word اُمَّہ is used to describe a group or the followers of a prophet. Sometimes it is also used in the sense of "faith", "creed" or "way of life", as in the verse وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ (We found our fathers upon a creed - 43:22). In the present verse the word ummah has been used in the latter sense.
 
 ## Personal Reflections
+
+

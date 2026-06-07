@@ -48,15 +48,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rooms** (Al-Hujurat) 10, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hujurat is a **Madinah** surah—revealed as the 106th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 18 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 As-Suddi said, "A man from Al-Ansar, whose name was 'Imran, had a wife called Umm Zayd. She wanted to visit her family, but her husband prevented her from visiting them by locking her in an upper room. So, none of her family could visit or see her. She sent someone to her family. They came, took her down from the room and wanted to take her away. Her husband was absent at the time, so his family called on their people. Their cousins came to help prevent the wife from going with her family. A push and shove situation occurred that led to them fighting using slippers. This Ayah was then revealed in their case, and the Messenger of Allah ﷺ sent someone to bring peace between them, and they both agreed to resort to the decision of Allah the Exalted." The statement of Allah the Exalted, next,
 
-The commentators have narrated several incidents as a background of the revelation of these verses. Among them is the clash that took place between two Muslim groups. It is not inconceivable that the totality of these incidents might have been the occasion of revelation.
+The commentators have narrated several incidents as a background of the revelation of these verses. Among them is the clash that took place between two Muslim groups. It is not inconceivable that the totality of these incidents might have been the occasion of revelation. It is also possible that one of these incidents has been the cause of revelation and the other incidents, being similar, were also termed as the occasion of revelation.
 
 ## Tafsir Summary
 
@@ -207,3 +201,5 @@ Sayyidna Muhasibi (رح) says:
 "We concur with Hasan Al-Basri (رح) . We know that when the noble Companions meddled in any matter, they knew fully well why they were doing it. Our task is merely to follow them where they are unanimous, and where they differ we observe silence. We should not on our own introduce new ideas. We are assured that they must have exercised ijtihad and sought the pleasure of Allah. Therefore, in matters of religion they are all beyond doubt."
 
 ## Personal Reflections
+
+

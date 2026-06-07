@@ -51,18 +51,6 @@ word_by_word:
     transliteration: tadhakkarūna
 ---
 
-## Context
-
-To understand **Hud** (Hud) 24, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation If we consider its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believe and do righteous good deeds, and humble themselves before their Lord, they will be the dwellers of Paradise to dwell therein forever (23)The likeness of the two parties is as the blind and the deaf and the seer and the hearer. The word: bayyinah (بینہ) appearing in this verse refers to the Qur'an.
@@ -110,3 +98,5 @@ The Sahih of Muslim reports on the authority of Sayyidna Abu Hurairah ؓ that th
 This should remove the misunderstanding of those who regard the Jews and Christians or the adherents of other religions as being on haqq (the truth) on the basis of some outward deeds and consider these to be sufficient for salvation without having faith in the Holy Prophet ﷺ and the Qur'an. This is an open clash with the present ayah of the Holy Qur'an, and the authentic ahadith. اَلعَیَاذ بِاللہ (Allah may save us from that! )
 
 ## Personal Reflections
+
+

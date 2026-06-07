@@ -31,17 +31,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Rocky Tract** (Al-Hijr) 94, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Hijr is a **Makkah** surah—revealed as the 54th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 99 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Therefore proclaim that which you commanded." Mujahid said, It is reciting the Qur'an aloud during prayer." Abu 'Ubaydah reported that 'Abdullah bin Mas'ud said, "The Prophet ﷺ was still practicing and preaching Islam secretly until this Ayah was revealed:
 
 (and turn away from idolators. Truly, We will suffice you against the mockers.) meaning - convey that which has been revealed to you by your Lord, and do not pay attention to the idolators who want to turn you away from the signs of Allah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -152,3 +144,5 @@ On Spreading the Religious Message Stage by Stage as Convenient
 Before the revelation of the verse (94): فَاصْدَعْ بِمَا تُؤْمَرُ‌ (Now, proclaim what you are commanded to), the Holy Prophet ﷺ and his noble Sahabah ؓ used to make Salah and recite Qur'an secretly (lest they are seen and harmed). The process of passing on the religious message to others and the mission of teaching and training was also kept secret being limited to a counted few. The reason was that doing so openly would have given the disbelievers the opportunity to bring harm to them. In this verse (95), Allah Ta` ala has Himself taken the responsibility of seeing that they stay safe against those who deride their faith and bring harm to them. Therefore, from that time onwards, the mission was pursued openly and publicly in all its aspects, recitation of the Qur'an, acts of worship, the call, the propagation, everything.
 
 ## Personal Reflections
+
+

@@ -50,18 +50,6 @@ word_by_word:
     transliteration: l-mubīnu
 ---
 
-## Context
-
-To understand **The Light** (An-Nur) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nur is a **Madinah** surah—revealed as the 102nd surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 64 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The consensus of opinion is that it was sent down after the Campaign against Bani al-Mustaliq and this is confirmed by vv. 11-20 that deal with the incident of the "Slander", which occurred during that Campaign. But there is a difference of opinion as to whether this Campaign took place in 5 A. H. before the Battle of the Trench or in 6 A. H. after it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torment (23)On… On the Day their tongues, their hands and their legs will testify against them of what they used to do.
@@ -131,3 +119,5 @@ On the Day their tongues, their hands and their legs will testify against them o
 The Day on which their own tongues, hands and feet will speak against them and will testify against their crimes, they will be punished precisely according to the crimes they had committed. It is related in Ahadith that on the Dooms Day those who will admit their sins will be pardoned by Allah Ta’ ala, and He will conceal their sins from the crowd of people. If anyone will deny his sins and will claim that he did not commit them, and say that the angels did not write his record of actions correctly, then his speech will be taken away from him and his hands and feet will be asked to testify, who will speak and testify. Another verse الْيَوْمَ نَخْتِمُ عَلَىٰ أَفْوَاهِهِمْ (Today We set a seal on their mouths, - 36:65) states this very point. This verse says that their mouths will be sealed, but the verse under discussion (of Surah An-Nur) says that their tongues will testify. There is no contradiction in the two verses in that they will not be able to use their tongues at their discretion. In other words they will have no control on tongues to say anything wrong, as they have in this world. Instead their tongues will say only the right things against their intent and wish. It is also possible that at a certain time their mouths and tongues will be completely sealed and then the tongues are commanded to speak the truth (Only Allah knows best).
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: wakīlan
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And when they see you, they treat you only in mockery (saying): "Is this the one whom Allah has sent as a Messenger (41)"He would have nearly misled us from our gods, had it not been that we were patient and constant in… Following forbidden things - a type of idolatry أَرَ‌أَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ (Tell me about the one who has taken his desire as his god - 25:43).
@@ -113,3 +101,5 @@ Following forbidden things - a type of idolatry
 أَرَ‌أَيْتَ مَنِ اتَّخَذَ إِلَـٰهَهُ هَوَاهُ (Tell me about the one who has taken his desire as his god - 25:43). The one who practises forbidden things which are against the tenets of Islam to satisfy his personal desires is described in this verse as the worshiper of his own lust. Sayyidna Ibn ` Abbas ؓ said that the selfish desires are like an idol which is worshipped (by the infidels) and then he recited this verse to prove his point. (Qurtubi)
 
 ## Personal Reflections
+
+

@@ -106,17 +106,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cave** (Al-Kahf) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Say: "I am only a man like you. It has been revealed to me that your God is One God. So whoever hopes for the meeting with his Lord, let him work righteousness and associate none as a partner in the worship of his Lord. (110)
 
 One such narration from Sayyidna ` Abdullah ibn ` Abbas ؓ has been reported by Imam Hakim in al-Mustadrak as being sound on the criterion set forth by the two authorities, al-Bukhari and Muslim. According to the narration, one of the Muslims used to carry out Jihad in the way of Allah. Side by side, he wished that his soldiering and bravery in the cause be recognized and appreciated by the people. This verse was revealed about him (which tells us that one gets no thawab (reward) by having such an intention in Jihad).
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -251,3 +243,5 @@ Surah al-Kahf
 End here.
 
 ## Personal Reflections
+
+

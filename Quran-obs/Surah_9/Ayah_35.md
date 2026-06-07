@@ -85,18 +85,6 @@ word_by_word:
     transliteration: taknizūna
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 35, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter, it was placed first in the order of compilation. Historical Background Now let us consider the historical background of the Surah. The series of events that have been discussed in this Surah took place after the Peace Treaty of Hudaibiyah. By that time, one-third of Arabia had come under the sway of Islam which had established itself as a powerful, well organized and civilized Islamic State. This Treaty afforded further opportunities to Islam to spread its influence in the comparatively peaceful atmosphere created by it.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 O you who believe! Explained in the fifth verse (35) is the detail of the ` painful punishment' referred to at the end of verse 34.
@@ -216,3 +204,5 @@ Then, their foreheads, sides and backs shall be branded with it, and they shall 
 In this verse, mention has been made of branding foreheads, sides and backs. Either it means the whole body or these three parts have been particularized for the reason that a miser who does not like to spend his wealth in the way of Allah would usually greet a needy visitor looking for charity or Zakah with a forehead all wrinkled with distaste. After that, when to avoid him, he tries to turn away to the right or the left side. And if the needy person still persists, he would turn his back on him. Perhaps, the forehead, the sides and the back were thus particularized for this punishment.
 
 ## Personal Reflections
+
+

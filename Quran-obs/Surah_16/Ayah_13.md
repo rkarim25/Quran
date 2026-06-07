@@ -58,18 +58,6 @@ word_by_word:
     transliteration: yadhakkarūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 13, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He has subjected the night and the day for you, and the sun and the moon; and the stars are subjected by His command. Then, in verse 13, after mentioning all other varied produce of the land, it was said: إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَذَّكَّرُ‌ونَ (Surely, in that, there is a sign for a people who accept advice).
@@ -103,3 +91,5 @@ Allah mentions the mighty signs and immense blessings to be found in His subject
 Then, in verse 13, after mentioning all other varied produce of the land, it was said: إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَذَّكَّرُ‌ونَ (Surely, in that, there is a sign for a people who accept advice). The sense is that no deep thinking is needed here as well - because, the proof has been furnished openly. But, the condition is that one must look at it carefully and learn his lesson. Otherwise, one who has no sense or concern and who just pays no attention could hardly hope to benefit from it.
 
 ## Personal Reflections
+
+

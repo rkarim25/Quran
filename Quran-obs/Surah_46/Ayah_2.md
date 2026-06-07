@@ -30,17 +30,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Wind-Curved Sandhills** (Al-Ahqaf) 2, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahqaf is a **Makkah** surah—revealed as the 66th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 35 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (But those who disbelieve, turn away from that of which they are warned.) Meaning, the disbelievers are distracted from what is intended for them. Allah has indeed revealed to them a Book and sent to them a Messenger. Yet, they obstinately turn away from all of that. Therefore, they will soon realize the consequence of their behavior.
 
 (Bring me a scripture prior to this) meaning, 'bring a book from among the Books of Allah that have been revealed to the Prophets, that commands you to worship these idols.'
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -141,3 +133,5 @@ Surah Aljathiyah
 Ends here
 
 ## Personal Reflections
+
+

@@ -36,15 +36,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Criterion** (Al-Furqan) 25, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And (remember) the Day when the wrongdoer will bite at his hands, he will say: "O! Would that I had taken a path with the Messenger.") Here Allah tells us of the regret felt by the wrongdoer who rejected the path of the Messenger and what he brought from Allah of clear truth concerning which there is no doubt, and followed another path. When the Day of Resurrection comes, he will feel regret but his regret will avail him nothing, and he will bite on his hands in sorrow and grief. Whether this Ayah was revealed concerning 'Uqbah bin Abi Mu'it or someone else among the doomed, it applies to every wrongdoer, as Allah says:
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -115,3 +107,5 @@ Here Allah tells us about the terror of the Day of Resurrection and the tremendo
 تَشَقَّقُ السَّمَاءُ بِالْغَمَامِ (The sky will break open with a cloud - 25:25). The explanation of the verse is that the sky will rip apart and a sort of liquid cloud will descend from it which will be carrying angels with it. This cloud will look like a canopy descending from the sky and will be bearing Allah Ta’ ala's refulgence surrounded by angels. This will precede the beginning of the reckoning and the sky will rip open only to make an opening. It will not be the same ripping as the one when the sur (صُور) will be blown to finish off the earth and the sky, because this descension of the cloud will take place after the second blowing of the sur (صُور) when the earth and the sky would have taken the new shape. (Bayan u1-Qur’ an)
 
 ## Personal Reflections
+
+

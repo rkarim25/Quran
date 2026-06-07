@@ -20,18 +20,6 @@ word_by_word:
     transliteration: yahtadūna
 ---
 
-## Context
-
-To understand **The Bee** (An-Nahl) 16, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Nahl is a **Makkah** surah—revealed as the 70th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 128 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The following internal evidence shows that this Surah was revealed during the last Makkan stage of Prophethood: 41 clearly shows that persecution had forced some Muslims to emigrate to Habash before the revelation of this Surah. It is evident from v. 106 that at that time the persecution of the Muslims was at its height. Therefore a problem had arisen in regard to the utterance of a blasphemous word, without actual disbelief, under unbearable conditions. The problem was that if one did so how he should be treated. vv.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And He it is Who subjected the sea (to you), that you may eat from the fresh tender meat, and that you bring forth out of it ornaments to wear. In the last verse (16), it was said: وَعَلَامَاتٍ ۚ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ 'And (He created) signs.
@@ -91,3 +79,5 @@ In the last verse (16), it was said: وَعَلَامَاتٍ ۚ وَبِالن�
 As for the last statement in the verse: وَبِالنَّجْمِ هُمْ يَهْتَدُونَ that is, the way travellers know their bearing through territorial signs, quite similarly, they also find out their orientation through stars as well. The modality of the address here seems to hint that the initial purpose of the creation of the stars is, for that matter, something else - however, along with it, their additional benefit is that they help in the charting of one's course when travelling.
 
 ## Personal Reflections
+
+

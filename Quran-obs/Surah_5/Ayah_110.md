@@ -272,17 +272,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 110, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (and the Tawrah,) which was revealed to Musa, son of 'Imran, who spoke to Allah directly. Allah's statement,
 
 The wording of this Ayah indicates that 'Isa will be reminded of these favors on the Day of Resurrection. Allah used the past tense in these Ayat indicating that it is a forgone matter that will certainly occur. This Ayah also contains some of the secrets of the Unseen that Allah revealed to His Messenger Muhammad ﷺ. Allah said,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -383,3 +375,5 @@ Before these verses where questions asked and their answers given by Sayyidna ` 
 As for the first spectacle, it is obvious that it is a miracle and certainly a special blessing of Allah. In the early post-birth stage, children cannot talk (meaningfully). If a child were to start talking in the cradle or on the laps of the mother, that would be a particular distinction of the child. As for talking ` while middle-aged,' it does not seem to be worth mentioning, for everyone talks at this age. But, for a moment, think of the conditions surrounding Sayyidna ` Isa and you will realize that this too was a miracle - because Sayyidna ` Isa (علیہ السلام) was raised from the earth before reaching middle-age. Now that he would talk to people on the earth after reaching his middle-age can become possible only when he returns to this world - as is the collective belief of Muslims which stands proved on the basis of clear statements of the Qur'an and Sunnah. It is from here that we find out that in the manner it was a miracle of Sayyidna ` Isa (علیہ السلام) that he talked when a child, so in the same manner, talking while middle-aged because of his return to this world is nothing but a miracle.
 
 ## Personal Reflections
+
+

@@ -42,18 +42,6 @@ word_by_word:
     transliteration: l-mihādu
 ---
 
-## Context
-
-To understand **Family of Imran** (Ali 'Imran) 12, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ali 'Imran is a **Madinah** surah—revealed as the 89th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 200 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This Surah consists of four discourses: The first discourse ( 1-32 ) was probably revealed soon after the Battle of Badr. The second discourse ( 33-63 ) was revealed in 9 A. H. on the occasion of the visit of the deputation from the Christians of Najran. The third discourse ( 64-120 ) appears to have been revealed immediately after the first one. The fourth discourse ( 121-200 ) was revealed after the Battle of Uhud.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say to those who disbelieve: "You will be defeated and gathered together to Hell, and worst indeed is that place of rest. Some readers of verse 12: قُل لِّلَّذِينَ كَفَرُ‌وا سَتُغْلَبُونَ just cited, above may have some doubt about disbelievers being overcome because this is not the case with all disbelievers of the world.
@@ -137,3 +125,5 @@ Commentary
 Some readers of verse 12: قُل لِّلَّذِينَ كَفَرُ‌وا سَتُغْلَبُونَ just cited, above may have some doubt about disbelievers being overcome because this is not the case with all disbelievers of the world. But, this doubt is unfounded as the disbelievers referred to here are the disbelievers and Jews of that particular time - from among whom, the pagans were overcome when killed or taken prisoners, and the Jews were overcome through killing or imprisonment as well as through Jizya and extradition. Therefore, this 'overcoming' of disbelievers mentioned in the verse simply does not refer to disbelievers universally.
 
 ## Personal Reflections
+
+

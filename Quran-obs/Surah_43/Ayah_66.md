@@ -46,18 +46,6 @@ word_by_word:
     transliteration: yashʿurūna
 ---
 
-## Context
-
-To understand **The Ornaments of Gold** (Az-Zukhruf) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zukhruf is a **Makkah** surah—revealed as the 63rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 89 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It could not be known from any authentic tradition, but a study of its
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Do they only wait for the Hour that it shall come upon them suddenly while they perceive not (66)Friends on that Day will be foes one to another except those who have Taqwa (67)My servants! وَلِأُبَيِّنَ لَكُم بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ (and to explain to you some of those matters in which you differ...43:63) Since Bana Isra'il were drowned in arrogance and obstinacy, they had tampered with the Divine laws.
@@ -157,3 +145,5 @@ Then it will be said to them, as a reminder of the blessing and favor of Allah:
 وَلِأُبَيِّنَ لَكُم بَعْضَ الَّذِي تَخْتَلِفُونَ فِيهِ (and to explain to you some of those matters in which you differ...43:63) Since Bana Isra'il were drowned in arrogance and obstinacy, they had tampered with the Divine laws. Sayyidna ` Isa (علیہ السلام) disclosed the reality of such distortions. The words 'some matters' are used because some other matters were purely of mundane nature. He might have not felt the need to deal with those differences. (Bayan-ul-Qur an).
 
 ## Personal Reflections
+
+

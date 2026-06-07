@@ -84,18 +84,6 @@ word_by_word:
     transliteration: tūʿadūna
 ---
 
-## Context
-
-To understand **Explained in Detail** (Fussilat) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Fussilat is a **Makkah** surah—revealed as the 61st surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 54 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to authentic Traditions, it was sent down after the affirmation of the Faith by Hadrat Hamzah and before the affirmation of the Faith by Hadrat Umar. Muhammad bin Ishaq, the earliest biographer of the Holy Prophet, has related on the authority of Muhammad bin Ka'b al-Qurzi, the famous follower of the Companions, that one day some of the Quraish chiefs were sitting in their assembly in the Masjid al-Haram, while in another corner of the Mosque there was the Holy Prophet sitting by himself.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who say: "Our Lord is Allah," and then they stand firm, on them the angels will descend (saying): "Fear not, nor grieve! Those who rejected the Qur'an, the prophethood and the Oneness of Allah have been addressed from the beginning of the Surah.
@@ -201,3 +189,5 @@ Sayyidna ` Ali and Sayyidna Ibn ` Abbas ؓ have defined Istiqamah (Steadfastness
 Abu Nu'aim has reported about Thabit Al-bunani (رح) that while reciting Surah Ha Meem Sajdah, when he reached the present verse (on them the angels descend), he said, "According to a Hadith that has reached us, the Mu'min at the time of rising in his grave on the Day of Resurrection, will be met by the two angels who used to be with him in the world, and they will console him not to worry or be afraid, rather be happy with the glad tidings of Paradise, which was being promised to him. These words of the angels will bring serenity to the Mu'min. (Mazhari)
 
 ## Personal Reflections
+
+

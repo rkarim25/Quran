@@ -33,18 +33,6 @@ word_by_word:
     transliteration: lilssāilīna
 ---
 
-## Context
-
-To understand **Joseph** (Yusuf) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Yusuf is a **Makkah** surah—revealed as the 53rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-subject matter of this Surah indicates that it was revealed during the last stage of the Holy Prophet's residence at Makkah, when the Quraish were considering the question of killing or exiling or imprisoning him. At that time some of the unbelievers put this question (probably at the instigation of the Jews) to test him :"Why did the Israelites go to Egypt?" This question was asked because they knew that their story was not known to the Arabs for there was no mention of it whatever in their traditions and the Holy Prophet had never even referr…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, in Yusuf and his brethren there were Ayat for those who ask (7)When they said: "Truly, Yusuf and his brother are dearer to our father than we, while we are 'Usbah (a group). In the first of the fourteen verses cited above (7), a notice of warning has been served to the effect that the story of Yusuf, peace be on him, should not be taken as a common story - because, in it, there are great signs of the perfect power of Allah Ta’ ala, and His instructions, both for those who have asked and for those who would seek guidance through it.
@@ -112,3 +100,5 @@ This verse mentions the brothers of Sayyidna Yusuf (علیہ السلام) . The
 Out of these twelve sons, the eldest ten were from the first blessed wife of Sayyidna Ya` qub (علیہ السلام) ، Sayyidah Layya, daughter of Layyan. After her death, Sayyidna Ya` qub (علیہ السلام) married her sister, Rahil (See editorial note on page 156. ) (Rachel). She became the mother of his two sons, Sayyidna Yusuf (علیہ السلام) and Benyamin (Benjamin). Therefore, Benyamin was the only real brother of Sayyidna Yusuf (علیہ السلام) . The rest of the ten were his half-brothers from the father's side. Ralil, the mother of Sayyidna Yusuf (علیہ السلام) ، had died during his childhood at the time of the birth of Benyamin. (Qurtubi)
 
 ## Personal Reflections
+
+

@@ -74,15 +74,7 @@ word_by_word:
 
 ## Context
 
-To understand **The Spoils of War** (Al-Anfal) 30, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Jibril came to the Prophet ﷺ and commanded him not to sleep in his bed that night and conveyed to him the news of their plot. The Messenger of Allah ﷺ did not sleep in his house that night, and Allah gave him permission to migrate. After the Messenger ﷺ migrated to Al-Madinah, Allah revealed to him Suat Al-Anfal reminding him of His favors and the bounties He gave him,
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -163,3 +155,5 @@ Lexically, the Arabic word: مَکر (makr: translated as 'plot' ) means restric
 At this place, it is also noteworthy that the words used at the end of the verse are in the indefinite tense which denotes present and future. It was said: وَيَمْكُرُ‌ونَ وَيَمْكُرُ‌ اللَّـهُ (And they were plotting and Allah was plotting - 30), that is, they will keep plotting to hurt believers while Allah Ta'ala will keep plotting to thwart and frustrate their plots. The hint given therein is that this will continue to remain a lasting mark of disbelievers that they go about engineering designs to hurt Muslims - while, in the same way, the help and support of Allah Ta'ala shall also keep repulsing their evil designs against true believers.
 
 ## Personal Reflections
+
+

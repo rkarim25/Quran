@@ -104,18 +104,6 @@ word_by_word:
     transliteration: l-ʿaẓīmu
 ---
 
-## Context
-
-To understand **The Repentance** (At-Tawbah) 72, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah At-Tawbah is a **Madinah** surah—revealed as the 113th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 129 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-38-72 ) was sent down in Rajab A.H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Allah has promised the believers – men and women, – Gardens under which rivers flow to dwell therein forever, and beautiful mansions in gardens of 'Adn (Eden; Paradise). Previous verses mentioned hypocrites - their conspiracies, hostilities, and the punishment waiting for them.
@@ -189,3 +177,5 @@ It is interesting that the text, while making a comparison between hypocrites an
 Moreover, since this friendship and concern for each other is for Allah alone, it is always constant. It remains the same under all conditions, open or secret, present or absent. And it is lasting. This is the mark of a true believer. It is in the very nature of 'Iman (faith) and Al-Amal as-Salih اَلاَعمَال اصَآالح (good deed) that they generate mutual love and friendship. The Holy Qur'an confirms it when it says: سَيَجْعَلُ لَهُمُ الرَّ‌حْمَـٰنُ وُدًّا (19:96). It means that among those who have believed and taken to consistent good conduct in life, Allah Ta` ala creates friendship that is deeply rooted into their hearts. What has happened to us in our time? May be we are short on the faith in our hearts and the concern for good in our conduct. That is why mutual relationships among Muslims do not seem to be what the Qur'an would like them to be. Unfortunately, these are subservient to worldly needs and interests - and are not for the sake of Allah alone, as they should be.
 
 ## Personal Reflections
+
+

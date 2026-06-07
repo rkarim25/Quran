@@ -54,18 +54,6 @@ word_by_word:
     transliteration: qadīran
 ---
 
-## Context
-
-To understand **The Criterion** (Al-Furqan) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Furqan is a **Makkah** surah—revealed as the 42nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 77 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It appears from its style and
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And had We willed, We would have raised a warner in every town (51)So obey not the disbelievers, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has appointed for him kindred by blood, and kindred by marriage. وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرً‌ا فَجَعَلَهُ نَسَبًا وَصِهْرً‌ا (And He is the One who created man from water then made of him kinship of blood and kinship of in-laws.
@@ -167,3 +155,5 @@ Allah says:
 وَهُوَ الَّذِي خَلَقَ مِنَ الْمَاءِ بَشَرً‌ا فَجَعَلَهُ نَسَبًا وَصِهْرً‌ا (And He is the One who created man from water then made of him kinship of blood and kinship of in-laws. 25:54) نَسَب (nasab, translated above as 'kinship of blood' ) is that relationship which emanates from either parent, and صِهْر (sihr, translated above as 'kinship of in-laws' ) is that kinship which is drawn from the wife's side and is called in - laws. All these relations and bonds are Allah's graces given to mankind for a pleasant and tranquil life. If these relations are taken away from someone's life it will be impossible for him to live by himself.
 
 ## Personal Reflections
+
+

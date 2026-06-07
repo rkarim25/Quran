@@ -106,17 +106,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Table Spread** (Al-Ma'idah) 66, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ma'idah is a **Madinah** surah—revealed as the 112th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 120 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (And let not your hand be tied (like a miser) to your neck.) Therefore, this is the meaning that the Jews meant, may Allah's curses be on them. 'Ikrimah said that this Ayah was revealed about Finhas, one of the Jews, may Allah curse him. We mentioned before that Finhas said,
 
 Mentioned in verse 66 which begins with the words: وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَ‌اةَ (And if they had upheld the Torah ...), are some details of the same faith and godliness for which worldly blessings have been promised in the previous verse (65). The detail is that they should, uphold the Torah, the Injil and the Holy Qur'an revealed after them. The word used here does not refer to 'acting in accordance with these books'. Instead of that, the word placed here is ` Iqamah' which means to establish, and to make something stand upright and straight. It signifies that their teachings can be carried out fully and correctly only when there is no increase or decrease or shortcoming in them. What is meant to stand straight must stand perfectly straight - established, not tilting.
-
-That historical lens is essential.
 
 ## Tafsir Summary
 
@@ -287,3 +279,5 @@ However, as far as the standard or general rule regarding faith and good deeds i
 Justice was served when in the last verse (67), it was also added that the evil doings of Jews mentioned in the text do not apply to all Jews. Among them there were moderate people, people who were on the right path. But, the majority was evil doing. ` People on the right path' denotes people who were first Jews and Christians, then believed in the Qur'an and the Holy Prophet ﷺ and entered the fold of Islam.
 
 ## Personal Reflections
+
+

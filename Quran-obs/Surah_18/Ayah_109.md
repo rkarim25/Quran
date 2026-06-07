@@ -79,18 +79,6 @@ word_by_word:
     transliteration: madadan
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 109, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Say: "If the sea were ink for the Words of my Lord, surely, the sea would be exhausted before the Words of my Lord would be finished, even if We brought like it for its aid. The purpose of the last sentence: لَا يَبْغُونَ عَنْهَا حِوَلًا (and will not wish to move from there - 108) is to tell that this station of Jannah is a never-ending, ever-lasting blessing for them.
@@ -124,3 +112,5 @@ Allah says that even if those oceans were ink for the Words of Allah, and all th
 The purpose of the last sentence: لَا يَبْغُونَ عَنْهَا حِوَلًا (and will not wish to move from there - 108) is to tell that this station of Jannah is a never-ending, ever-lasting blessing for them. The reason is that Allah Ta’ ala has promulgated His command to the effect that whoever has entered Jannah will never be expelled from there. But, there was the possibility of some doubt crossing someone's heart, for human beings naturally get fed up by living at one place. They wish to move out and go to other places. Now, if they were not allowed to go elsewhere out of Jannah, they might start feeling the pinch of a sort of restriction. This was answered in the verse by saying that taking Jannah on the analogy of other places is rank ignorance. Once a person goes into the Jannah, everything he saw and lived within the mortal world would find all that trifling in the presence of the bliss and beauty of Jannah and - so blessed in that manner - no one would ever even think of going out of here.
 
 ## Personal Reflections
+
+

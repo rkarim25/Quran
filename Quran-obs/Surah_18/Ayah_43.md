@@ -50,18 +50,6 @@ word_by_word:
     transliteration: muntaṣiran
 ---
 
-## Context
-
-To understand **The Cave** (Al-Kahf) 43, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Kahf is a **Makkah** surah—revealed as the 69th surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 110 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation This is the first of those Surahs which were sent down in the third stage of Prophethood at Makkah. We have already divided the life of the Holy Prophet at Makkah into four stages in the Introduction to Chapter VI. According to that division, the third stage lasted from the fifth to the tenth year of Prophethood.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 So his fruits were encircled (with ruin). The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah as 'punishment' in an absolute sense, by Sayyidna Ibn ` Abbas ؓ as 'fire' and by some as 'stoning.' As for what appears after that in the Qur'an: أُحِيطَ بِثَمَرِ‌هِ (And its produce was struck by destruction from all sides - 42), it obviously means that some major calamity hit his gardens, wealth and things of luxury reducing everything to ruins.
@@ -133,3 +121,5 @@ Some others read it as Al-Wilayah, meaning that on that Day the rule will belong
 The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah as 'punishment' in an absolute sense, by Sayyidna Ibn ` Abbas ؓ as 'fire' and by some as 'stoning.' As for what appears after that in the Qur'an: أُحِيطَ بِثَمَرِ‌هِ (And its produce was struck by destruction from all sides - 42), it obviously means that some major calamity hit his gardens, wealth and things of luxury reducing everything to ruins. The Qur'an does not mention any particular calamity explicitly. It appears that, some fire came down from the skies and burnt the whole thing - as it appears in the Tafsir of 'husban' by Sayyidna Ibn 'Abbas ؓ who has explained it as 'fire.' And Allah knows best.
 
 ## Personal Reflections
+
+

@@ -299,50 +299,10 @@ def build_context(
     ibn_full: str,
     maarif_full: str,
 ) -> str:
-    name_simple = chapter["name_simple"]
-    translated = chapter["translated_name"]["name"]
-    place = chapter["revelation_place"].title()
-    order = chapter["revelation_order"]
-    verses_count = chapter["verses_count"]
-
     revelation_bits = extract_revelation_paragraphs(ibn_full, maarif_full)
-    chapter_snippet = extract_chapter_info_snippet(chapter_info, ayah, verses_count)
-
-    parts: list[str] = [
-        (
-            f"To understand **{translated}** ({name_simple}) {ayah}, we need to step into the world of the Prophet ﷺ "
-            f"and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*"
-        ),
-        (
-            f"Surah {name_simple} is a **{place}** surah—revealed as the {ordinal(order)} surah in chronological order, "
-            f"during {period_label(chapter['revelation_place'], order)}. "
-            f"This ayah sits within a surah of {verses_count} verses that shaped how the companions understood their Lord, their community, and their mission."
-        ),
-    ]
-
-    if revelation_bits:
-        parts.append(
-            "When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:"
-        )
-        parts.extend(revelation_bits[:2])
-    elif chapter_snippet:
-        parts.append(
-            "The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:"
-        )
-        parts.append(chapter_snippet)
-    else:
-        parts.append(
-            f"While the mufassirun do not always record a single isolated incident for every ayah, they situate Surah {name_simple} "
-            f"within the lived experience of the Prophet ﷺ in {place}. "
-            f"Each verse was not revealed in a vacuum; it answered a real question, eased a real pain, or guided a real community through a real crisis."
-        )
-
-    parts.append(
-        "That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, "
-        "and this ayah becomes far richer once we read it with that scene in mind."
-    )
-
-    return _truncate_at_sentence("\n\n".join(parts), MAX_CONTEXT_CHARS)
+    if not revelation_bits:
+        return ""
+    return _truncate_at_sentence("\n\n".join(revelation_bits[:2]), MAX_CONTEXT_CHARS)
 
 
 def strip_generated_sections(before: str) -> str:
@@ -355,12 +315,19 @@ def strip_generated_sections(before: str) -> str:
 
 
 def build_body(context: str, tafsir_summary: str, ibn_kathir: str, maarif: str) -> str:
-    sections = [
-        f"## Context\n\n{context}" if context else "## Context\n",
-        f"## Tafsir Summary\n\n{tafsir_summary}" if tafsir_summary else "## Tafsir Summary\n",
-        f"{TAFSIRS['ibn_kathir']['heading']}\n\n{ibn_kathir}" if ibn_kathir else f"{TAFSIRS['ibn_kathir']['heading']}\n",
-        f"{TAFSIRS['maarif']['heading']}\n\n{maarif}" if maarif else f"{TAFSIRS['maarif']['heading']}\n",
-    ]
+    sections = []
+    if context:
+        sections.append(f"## Context\n\n{context}")
+    if tafsir_summary:
+        sections.append(f"## Tafsir Summary\n\n{tafsir_summary}")
+    if ibn_kathir:
+        sections.append(f"{TAFSIRS['ibn_kathir']['heading']}\n\n{ibn_kathir}")
+    else:
+        sections.append(f"{TAFSIRS['ibn_kathir']['heading']}\n")
+    if maarif:
+        sections.append(f"{TAFSIRS['maarif']['heading']}\n\n{maarif}")
+    else:
+        sections.append(f"{TAFSIRS['maarif']['heading']}\n")
     return "\n\n".join(sections)
 
 

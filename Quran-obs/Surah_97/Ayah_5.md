@@ -24,18 +24,6 @@ word_by_word:
     transliteration: l-fajri
 ---
 
-## Context
-
-To understand **The Power** (Al-Qadr) 5, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Qadr is a **Makkah** surah—revealed as the 25th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 5 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Whether Surah Al-Qadr is a Makki or a Madani revelation is disputed. Abu Hayyan in Al-Bahr al-Muhti has made the claim that the majority of scholars regard it as a Madani Surah. Ali bin Ahmad al-Wahidi in his commentary says that this is the first Surah to be sent down in Madinah. Contrary to this, Al Mawardi says that according to the majority of scholars it is a Makki revelation, and Imam Al-Suyuti has expressed the same view in Al-Itqan .
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 In the Name of Allah, the Most Gracious, the Most Merciful. Verse [ 5] سَلَامٌ (Peace it is till the rising of dawn.) The word Salam [ peace ] stands for a complete sentence meaning 'it is all peace, equanimity and complete goodness, having no evil in it.' [ Qurtubi ].
@@ -229,3 +217,5 @@ Surah Al-Qadr
 Ends here
 
 ## Personal Reflections
+
+

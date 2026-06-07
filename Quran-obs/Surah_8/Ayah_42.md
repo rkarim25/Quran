@@ -153,18 +153,6 @@ word_by_word:
     transliteration: ʿalīmun
 ---
 
-## Context
-
-To understand **The Spoils of War** (Al-Anfal) 42, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anfal is a **Madinah** surah—revealed as the 88th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-42-54 Sanctity of treaties has been enjoined and the Muslims commanded to observe them as long as the other party does not break them.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (And remember) when you (the Muslim army) were on the near side of the valley, and they on the farther side, and the caravan on the ground lower than you. The battle of Badr was the first confrontation of Kufr and Islam which registered a practical proof of the superiority and veracity of Islam, even visibly and materially.
@@ -308,3 +296,5 @@ Therefore, that formidable Divine system created such conditions on both sides a
 The word: هَلَاكَت (halakah: death, destruction) in this verse means Kufr or disbelief while حَیَات (hayat : life) denotes Islam. In other words, once the truth has come out in the open, the probability and excuse of misunderstanding stand eliminated. Now, whoever takes to disbelief as his or her life style is going towards destruction with open eyes. And whoever takes to Islam takes to eternal life knowingly, consciously and deliberately. Then, it was said: وَإِنَّ اللَّـهَ لَسَمِيعٌ عَلِيمٌ (And Allah is indeed All-Hearing, All-Knowing - 42) that is, He knows the secrets in everyone's heart, even the nature of everyone's belief and disbelief, as well as the due reward and punishment for it.
 
 ## Personal Reflections
+
+

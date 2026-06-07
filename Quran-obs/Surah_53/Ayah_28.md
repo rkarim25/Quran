@@ -71,18 +71,6 @@ word_by_word:
     transliteration: shayan
 ---
 
-## Context
-
-To understand **The Star** (An-Najm) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah An-Najm is a **Makkah** surah—revealed as the 23rd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 62 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation According to a Tradition related by Bukhari, Muslim, Abu Da'ud and Nasai, on the authority of Hadrat Abdullah bin Mas'ud, the first Surah in which a verse requiring the performance of a sajdah (prostration) as sent down, is Surah An-Najm. The parts of this Hadith which have been reported by Aswad bin Yazid, Abu Ishaq and Zubair bin Mu'awiyah from Hadrat Ibn Mas'ud, indicate that this is the first Surah of the Qur'an, which the Holy Prophet (peace and blessings of Allah be upon him) had publicly recited before an assembly of…
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof. إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا (and conjecture is of no use in [ the matter on Truth....
@@ -144,3 +132,5 @@ Various Types of Zann
 إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا (and conjecture is of no use in [ the matter on Truth.... 53:28) The Arabic word ظَن Zann is used in several different senses, and one of them is baseless thoughts. This is the sense in which it is employed in the verse, because baseless thoughts were the cause of idolatry. And the verse purports to remove the cause. Zann is also used as the antonym of yaqin. Yaqin refers to assured or definitive knowledge about something that really exists, not the figment of someone's imagination. In this case, there is no room for any doubt or suspicion, as for instance knowledge gained from the Qur'an and Prophetic Traditions uninterruptedly reported by an indefinite number of people or by such a large number that it is impossible that they should agree upon falsehood. As opposed to this certain knowledge, zann is sometime used for the knowledge that is based on a proof, and not on baseless thoughts, but the proof is not so certain as may rule out other possibilities, as for example, injunctions based on general narratives of the Holy Prophet ﷺ . The first type of injunctions is referred to as qat'iyyat or yaqiniyyat and the second type is referred to as zanniyyat. This type of Zann is recognized by Shari` ah. There is ample evidence in Qur'an and Sunnah of its recognition. The entire Ummah concurs that it is obligatory to act upon it. The above verse when denouncing zann, refers to the first type of zann which connotes baseless thoughts. Thus there is no contradiction.
 
 ## Personal Reflections
+
+

@@ -20,18 +20,6 @@ word_by_word:
     transliteration: l-bāqīna
 ---
 
-## Context
-
-To understand **Those who set the Ranks** (As-Saffat) 77, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah As-Saffat is a **Makkah** surah—revealed as the 56th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 182 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And indeed Nuh invoked Us, and We are the best of those who answer (75)And We rescued him and his family from the great distress (76)And, his progeny, them We made the survivors (77)And left for him (a goodly remembrance) among the later generation (78)"Salam (peace!) be upon Nuh among the all creatures! And in verse 77, it was said: وَجَعَلْنَا ذُرِّ‌يَّتَهُ هُمُ الْبَاقِينَ (And [ We ] made his progeny the sole survivors.).
@@ -105,3 +93,5 @@ A third group of commentators says that as for the Great Flood, it was worldwide
 Given the context of the Qur'an, this third view is very weak, while the first view is the best for the reason that it is supported by some ahadith as well which Imam Tirmidhi and others have reported directly from the Holy Prophet under the Tafsir of this verse. In a narration from Sayyidna Samurah Ibn Jundub 4, the Holy Prophet t has been reported to have said: "Sam is the father of the people of Arabia; Ham is the father of the people of Ethiopia, and Yafith, that of the people of Byzantine." Imam Tirmidhi calls this Hadith as Hasan, while Imam Hakim rates it as Sahih (Ruh-ul-Ma’ ani, p. 98, v.23).
 
 ## Personal Reflections
+
+

@@ -55,18 +55,6 @@ word_by_word:
     transliteration: samiyyan
 ---
 
-## Context
-
-To understand **Mary** (Maryam) 7, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Maryam is a **Makkah** surah—revealed as the 44th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 98 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation It was revealed before the migration to Habash. We learn from authentic traditions that Hadrat Ja'afar recited vv. 1-40 of this Surah in the court of Negus when he called the migrants to his court. Historical Background We have already briefly referred to the conditions of that period in the introduction to Surah Al-Kahf. Here we shall give a more detailed account of the same conditions, which will be helpful in grasping the meaning of this Surah and the other Surahs of the same period.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Allah said:) "O Zakariyya! "We did not create any one before him of the same name." - 19:7.
@@ -104,3 +92,5 @@ Qatadah, Ibn Jurayj and Ibn Zayd said, "This means that no one had this name bef
 The word سَمِی means "person having the same name." It also means "similar." If the first meaning is adopted here then it would suggest that no one else had the name Yahya before him. This fact also suggests that he possessed certain special attributes which were not granted to anyone else before him. And if we take the second meaning of the word سَمِی then it will mean that some of his attributes and situations were such that they were peculiar to him and were not shared by any other prophet, and that he was unique in the possession of those special attributes, for instance his self abnegation and denial of worldly comforts (حصُور). However, it does not necessarily follow that he was superior to all the prophets who preceded him, for the superiority of Sayyidna Ibrahim Khalilullah (علیہ السلام) and Sayyidna Musa Kalimullah (علیہ السلام) over him is established and well known. (Mazhari)
 
 ## Personal Reflections
+
+

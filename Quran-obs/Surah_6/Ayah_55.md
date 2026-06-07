@@ -32,17 +32,9 @@ word_by_word:
 
 ## Context
 
-To understand **The Cattle** (Al-An'am) 55, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-An'am is a **Makkah** surah—revealed as the 55th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 165 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
 
 Thereupon, the present verses were revealed to comfort him. In gist, the Holy Prophet ﷺ has been asked here to assure them that there will be no retribution for their past mistakes. In fact, not simply that there will be no retribution for the mistake, but that they will also be blessed in many ways by the most merciful Allah. He has also been asked to tell them about His Law that if a Muslim does something evil in ignorance, then gets alerted, repents and corrects his ways for the future, Allah Almighty will forgive him his past sins - and will also not deprive him of His blessings in this world and in the world to come. According to this explanation, these verses were revealed as related to this particular event described in previous verses.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -179,3 +171,5 @@ Therefore, for Taubah (repentance) to be total and complete, the way it is neces
 Similar is the case of the Rights of the Servants of Allah (Huquq al-'lbad). If someone's property has been taken unlawfully, it should be returned to him, or have him forgive it. And if someone has been caused pain physically or verbally, forgiveness must be sought from the aggrieved person. And if, it is not possible or within one's control to have him forgive it - for example, he dies; or goes away to a place the address of which is not known - then, the way out is that one should make it a point to keep praying for his forgiveness before Allah Ta` ala consistently. If so, it can be hoped that the holder of the right will be pleased and the person who was unable to have the forgiveness of the deceased during his lifetime will become absolved of what was due on him.
 
 ## Personal Reflections
+
+

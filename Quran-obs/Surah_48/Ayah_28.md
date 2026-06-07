@@ -63,18 +63,6 @@ word_by_word:
     transliteration: shahīdan
 ---
 
-## Context
-
-To understand **The Victory** (Al-Fath) 28, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Fath is a **Madinah** surah—revealed as the 111th surah in chronological order, during the Madinah phase of revelation (the mature Madinan period, as laws and social order took shape). This ayah sits within a surah of 29 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Traditions concur that it was sent down in Dhil-Qadah, A. H. 6, at a time when the Holy Prophet was on his return journey to Madinah after concluding the Truce of Hudaibiyah with the disbelievers of Makkah. Historical Background The events in connection with which this Surah was sent down began like this: One day the Holy Prophet saw in a dream that he had gone to Makkah with his Companions and had performed the umrah there.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed Allah shall fulfill the true vision which He showed to His Messenger in very truth. هُوَ الَّذِي أَرْ‌سَلَ رَ‌سُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ (He is the One who has sent His Messenger ﷺ with Guidance and the religion of truth, so that He makes it prevail over all religions....48:28).
@@ -182,3 +170,5 @@ Allah the Exalted and Most Honored said, while delivering the glad tidings to th
 هُوَ الَّذِي أَرْ‌سَلَ رَ‌سُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ (He is the One who has sent His Messenger ﷺ with Guidance and the religion of truth, so that He makes it prevail over all religions....48:28). In the preceding verses, promises were made about conquests and spoils of war; reference was made to the special merits of the participants of Hudaibiyah and general merits of all the noble Companion ؓ ; and glad tidings were given to them. Now at the conclusion of the Surah all these themes are summarized and emphasized. Because these blessings were showered and the glad tidings were given as a result of accepting and obeying the Holy Prophet ﷺ ، the verse lays further stress on strengthening the acceptance and obedience of the Holy Prophet ﷺ . It also denounces those who reject the messenger-ship of the Holy Prophet ﷺ and allays suspicions of those Muslims who were dissatisfied with the terms and provisions of the Treaty of Hudaibiyah. The verse in addition confirms the messenger-ship of the Holy Prophet ﷺ and, giving glad tidings, makes a very bold prophecy to the effect that not only would Islam prevail in Arabia but would also eventually triumph over all other religions.
 
 ## Personal Reflections
+
+

@@ -139,18 +139,6 @@ word_by_word:
     transliteration: l-ʿālamīna
 ---
 
-## Context
-
-To understand **The Heights** (Al-A'raf) 54, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-A'raf is a **Makkah** surah—revealed as the 39th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 206 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-54-58 Events from the lives of some well-known Prophets - Noah, Hud, Salih, Lot, Shu\`aib, Moses (Allah's peace be upon them all) -- have been related to show the consequences of the rejection of the Message, and the addressees of Prophet Muhammad (Allah's peace be upon him) have been admonished to accept and follow the Message in order to escape perdition.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Indeed, your Lord is Allah, Who created the heavens and the earth in Six Days, and then He rose over (Istawa) the Throne. Verse 54 begins with the statement that Allah has created the heavens and the earth and the planets and the stars and that they perform their functions under a firmly established system.
@@ -272,3 +260,5 @@ In Sufi thought, ` Khalq' and ` Amr' are two domains. ` Khalq' relates to matter
 At the end of the verse, it was said: تَبَارَ‌كَ اللَّـهُ رَ‌بُّ الْعَالَمِينَ (Glorious is Allah, the Lord of the worlds). The word: تَبَارَک (tabarak) appearing here is a derivation from barakah which means to increase, grow, become more, remain, sustain, besides being employed in many other shades of meaning. At this place, ` tabaraka' means to be high and supreme. It can be taken in the sense of high and sustaining, for Allah Ta` ala is both. The sense of high finds confirmation in a sentence of the Hadith which says: تَبَرَکتَ وَ تَعَلَیتَ یَا ذَا الجلالِ وَ الاِکرَامِ (You are blessed and high, 0 Master of Glory and Honour). Here, the word: ` tabarkta' has been explained by the word: ta` aiaita which follows.
 
 ## Personal Reflections
+
+

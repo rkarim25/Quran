@@ -24,18 +24,6 @@ word_by_word:
     transliteration: mubīnun
 ---
 
-## Context
-
-To understand **The Poets** (Ash-Shu'ara) 115, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Ash-Shu'ara is a **Makkah** surah—revealed as the 47th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 227 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 They said: "Shall we believe in you, when the inferior follow you? Nobility of a person depends on deeds and moral qualities and not on family or status They said, "Shall we believe in you while you are followed by the lowest people?" [ 111] He said, "I do not know about what they do.
@@ -71,3 +59,5 @@ They said, "Shall we believe in you while you are followed by the lowest people?
 It is related in this verse that the disbelievers rejected the invitation of Sayyidna Nuh (علیہ السلام) to accept the faith on the plea that his followers were worthless poor people. So, how could they, the elite and noble, mix up with them? On this Nuh (علیہ السلام) replied that he did not know about their acts, thereby hinting that their understanding of nobility on the basis of family background, wealth, or status was wrong, and that the nobility or meanness and honour or disgrace is dependent on one's deeds and morals. Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition. Unless one knows fully well about the morals and deeds of others, it is not right to pass any judgment about them. (Qurtubi).
 
 ## Personal Reflections
+
+

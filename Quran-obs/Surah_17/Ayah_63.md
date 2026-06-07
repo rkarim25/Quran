@@ -46,18 +46,6 @@ word_by_word:
     transliteration: mawfūran
 ---
 
-## Context
-
-To understand **The Night Journey** (Al-Isra) 63, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Isra is a **Makkah** surah—revealed as the 50th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 111 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The very first verse indicates that this Surah was revealed on the occasion of Mi\`raj (Ascension). According to the Traditions and books on the life of the Holy Prophet, this event happened one year before Hijrah. Thus, this Surah is one of those which were revealed in the last stage of Prophethood at Makkah.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 (Allah) said: "Go, and whosoever of them follows you, surely, Hell will be the recompense of you (all) an ample recompense (63)"And fool them gradually, those whom you can among them with your voice, Ajlib upon them with your cavalry and your infantry, share with them wealth and children, and make promises to them." But Shaytan promises them nothing but deceit (64)"Verily, My servants, you have no authority over them. The word: لَأَحْتَنِكَنَّ (subdue) in verse 62 is from: اِحتِنَاک (ihtinak) which means to exterminate or uproot something, or to subdue and overpower it completely.
@@ -151,3 +139,5 @@ While refusing to prostrate before Sayyidna 'Adam (علیہ السلام) ، Ibl
 (1) That 'Adam was created from mud and he was from fire and that there was no reason why mud was given precedence over fire. This question was an effort to find out the wisdom of the order given to him before he could comply with the Divine command - something the one so commanded has no right to ask. That Allah, the Exalted, would let the commanded one have the right to demand the wisdom of His command is far out specially when we see in our everyday life that human beings themselves would not give their servant the right to say no to them. Think of a master asking his servants to do something and the servant demanding the master that he should first explain the wisdom of that assignment. Therefore, this question was considered unworthy of an answer and no answer was given. In addition to that, the answer is already obvious. Giving precedence to something over the other is the prerogative of the Being that created and nurtured everyone. Whenever and whatever He declares to be superior becomes exactly so.
 
 ## Personal Reflections
+
+

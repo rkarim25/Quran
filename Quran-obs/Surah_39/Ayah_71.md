@@ -148,18 +148,6 @@ word_by_word:
     transliteration: l-kāfirīna
 ---
 
-## Context
-
-To understand **The Troops** (Az-Zumar) 71, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Az-Zumar is a **Makkah** surah—revealed as the 59th surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 75 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Name The Surah derives its name from verse 71 and 73 in which the word zumar has occurred.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And those who disbelieved will be driven to Hell in groups till when they reach it, the gates thereof will be opened. In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ (and the prophets and the witnesses will be brought,) It means that, at the time of reckoning on the plains of Resurrection, present there will be all prophets as well as all other witnesses.
@@ -233,3 +221,5 @@ Allah tells us how the doomed disbeliever will be driven to Hell by force, with 
 In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَالشُّهَدَاءِ (and the prophets and the witnesses will be brought,) It means that, at the time of reckoning on the plains of Resurrection, present there will be all prophets as well as all other witnesses. The prophets themselves will also be among the witnesses as said in the Qur'an: جِئْنَا مِن كُلِّ أُمَّةٍ بِشَهِيدٍ (We shall bring a witness from every community - An-Nisa', 4:41). And angels too will be among the witnesses, as in the Qur'an: مَّعَهَا سَائِقٌ وَشَهِيدٌ (with each someone [ meaning an angel ] to drive and someone [ meaning an angel ] to bear witness - Qaf, 50:21) where the identity of the driver and the witness has been clearly established as being the angels (Tafsir Ad-Durr-ul-Manthur). And among the witnesses, there will be the followers of the prophet of Islam as in the Qur'an: لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ (and [ so that ] you become witnesses to [ other ] people - Al-Hajj, 22:78). And, for that matter, even one's own body limbs will appear as witnesses as said in the Qur'an تُكَلِّمُنَا أَيْدِيهِمْ وَتَشْهَدُ أَرْ‌جُلُهُم (their hands will speak to Us and their feet will bear witness - Sin, 36:65).
 
 ## Personal Reflections
+
+

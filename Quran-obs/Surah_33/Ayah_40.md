@@ -75,18 +75,6 @@ word_by_word:
     transliteration: ʿalīman
 ---
 
-## Context
-
-To understand **The Combined Forces** (Al-Ahzab) 40, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Ahzab is a **Madinah** surah—revealed as the 90th surah in chronological order, during the Madinah phase of revelation (the early Madinan period, when the Muslim community was being built). This ayah sits within a surah of 73 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation The Surah discusses three important events which are: the Battle of the Trench (or Al-Ahzab : the Clans), which took place in Shawwal, A. H. 5; the raid on Bani Quraizah, which was made in Dhil-Qa'dah, A. H. 5; and the Holy Prophet's marriage with Hadrat Zainab, which also was contracted in Dhil-Qa'dah, A. H. 5. These historical events accurately determine the period of the revelation of this Surah. Historical Background The Islamic army's setback in the Battle of Uhud (A. H.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 Those who convey the Message of Allah and fear Him, and fear none save Allah. The verse quoted above refutes the contention of those people who, in accordance with the custom of the days of ignorance, used to call Sayyidna Zayd Ibn Harithah رضی اللہ تعالیٰ عنہ as son of the Messenger of Allah and used to taunt at the nikah (marriage) of the Holy Prophet ﷺ with Sayyidah Zainab ؓ ، after she had been divorced by Sayyidna Zayd Ibn Harithah ؓ that the Holy Prophet ﷺ had married his son's wife.
@@ -344,3 +332,5 @@ Qadi ` Iyad in his book 'Ash-shifa', after declaring that a person who claims to
 "The Ummah holds by consensus that this discourse bears the obvious meaning and that this verse means what it says, without any other interpretation or any exception. Therefore, there is no doubt in the kufr (infidelity) of all those sects (who follow any claim out of prophethood) rather their kufr stands absolutely proved in view of the consensus of the Ummah and the express texts of the Qur'an and Sunnah.
 
 ## Personal Reflections
+
+

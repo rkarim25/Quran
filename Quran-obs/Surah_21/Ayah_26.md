@@ -38,18 +38,6 @@ word_by_word:
     transliteration: muk'ramūna
 ---
 
-## Context
-
-To understand **The Prophets** (Al-Anbya) 26, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Al-Anbya is a **Makkah** surah—revealed as the 73rd surah in chronological order, during the Makkah phase of revelation (the final chapter of the Makkan struggle). This ayah sits within a surah of 112 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-The broader story of this surah—drawn from classical tafsir introductions—helps us see why this ayah mattered when it descended:
-
-Period of Revelation Both the
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
-
 ## Tafsir Summary
 
 And they say: "The Most Gracious has begotten children." Glory to Him! هَـٰذَا ذِكْرُ‌ مَن مَّعِيَ وَذِكْرُ‌ مَن قَبْلِي (Here is the Message for those with me and the Message for those before me.
@@ -111,3 +99,5 @@ Here Allah refutes those who claim that He has offspring among the angels – ex
 هَـٰذَا ذِكْرُ‌ مَن مَّعِيَ وَذِكْرُ‌ مَن قَبْلِي (Here is the Message for those with me and the Message for those before me. - 21: 24) One explanation of this verse on which the translation is based is that ذِکر means Message and "Message for those with me" refers to Qur'an, while "the Message for those before me" refers to Torah, Injil (Evangel) and Zabur (Psalms), the earlier divine books. According to this interpretation, the meaning of the verse is that neither the Qur'an (which is the Book for the Holy Prophet ﷺ and his followers) nor the older books contain anything to suggest worship of anyone else but Allah. Despite the fact that the texts of Torah and Injil (Evangel) have been altered, it is not suggested in either of them that Allah has partners with whom he shares His authority. Another explanation of the verse is given in Al-Bahr ul-Muhit according to which the word (dhikr) means here "description", and the sense is that this Qur'an is a description for the people who were in the days of the Holy Prophet ﷺ which describes for them the rules of Shari'ah and invites them to the correct way of life. At the same time it is a description of those who were before the Holy Prophet ﷺ because it keeps alive the stories and the traditions of people long gone by.
 
 ## Personal Reflections
+
+

@@ -57,15 +57,7 @@ word_by_word:
 
 ## Context
 
-To understand **Hud** (Hud) 112, we need to step into the world of the Prophet ﷺ and ask the questions Yasir Qadhi often begins with: *what was happening, when was this revealed, and why did Allah choose this moment?*
-
-Surah Hud is a **Makkah** surah—revealed as the 52nd surah in chronological order, during the Makkah phase of revelation (the later Makkan period, as the message spread despite opposition). This ayah sits within a surah of 123 verses that shaped how the companions understood their Lord, their community, and their mission.
-
-When we turn to the scholars of tafsir and the seerah, the backdrop of this specific verse comes into focus:
-
 Sayyidna ` Abdullah ibn ` Abbas ؓ ، said that no verse revealed to the Holy Prophet ﷺ in the entire Qur'an was harder and more trying than this (112). And he said that once the Companions noticing some gray strands of hair in his blessed beard sorrowfully re-marked, ` old age is approaching you much earlier.' Thereupon, he said, ` Surah Hud has made me old.' The events of severe punishments that came upon past communities as described in Surah Hud could also be the reason for it, but Sayyidna Ibn ` Abbas ؓ said that this verse alone is its reason.
-
-That historical lens is essential. The Qur'an is not an abstract textbook—it is divine speech anchored in the life of Muhammad ﷺ, and this ayah becomes far richer once we read it with that scene in mind.
 
 ## Tafsir Summary
 
@@ -132,3 +124,5 @@ And it is also possible that he was not that concerned about his personal stance
 After the command to stand firm, it was said: وَلَا تَطْغَوْا is (and do not cross the limits). This word is a derivation from the verbal noun: طغیان (tughy an) which means to cross limits, and which is the opposite of standing firm. It will be noticed that the positive statement to stand firm in the verse has not been considered sufficient, rather, its negative aspect, that of its prohibition, was clarified expressly. This establishes the sense of the verse: ` do not cross the limits set by Allah and His Rasul - in beliefs, acts of worship, transactions, morals etc. - for it was the outlet of all disorder and corruption in material and religious life.
 
 ## Personal Reflections
+
+
