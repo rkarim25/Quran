@@ -12,6 +12,7 @@ let saveTimer = null;
 let observer = null;
 let selectedAyah = null;
 let currentSurah = null;
+let expandedAyah = null;
 
 const prefs = loadPrefs();
 
@@ -334,82 +335,89 @@ function panelContent(ayah) {
   return "";
 }
 
-function openStudyDrawer(ayah) {
-  selectedAyah = mergeLocalEdits(ayah, currentSurah.id);
-  const drawer = document.getElementById("study-drawer");
-  const hasContext = !!(selectedAyah.context && selectedAyah.context.trim());
+function studyPanelHtml(ayah) {
+  const hasContext = !!(ayah.context && ayah.context.trim());
   if (prefs.activePanel === "context" && !hasContext) prefs.activePanel = "reflection";
-
-  document.getElementById("drawer-title").textContent = `${currentSurah.translated_name} · Ayah ${ayah.ayah}`;
-  document.getElementById("drawer-panel").innerHTML = `
-    <div class="drawer-translation">
-      <label class="drawer-field-label" for="drawer-translation-input">Ayah translation</label>
-      <textarea class="translation-edit-input drawer-translation-input" id="drawer-translation-input" rows="3"></textarea>
-      <div class="drawer-translation-status translation-save-status"></div>
-    </div>
-    <div class="panel-tabs">
-      <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
-      <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""}" data-panel="context" ${hasContext ? "" : "disabled"}>Context</button>
-      <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
-    </div>
-    <div class="panel-body" id="panel-content">${panelContent(selectedAyah)}</div>`;
-
-  document.getElementById("drawer-translation-input").value = selectedAyah.translation || "";
-
-  drawer.hidden = false;
-  document.getElementById("drawer-backdrop").hidden = false;
-  document.body.classList.add("drawer-open");
-  bindDrawerEvents();
-  highlightAyah(ayah.ayah);
+  return `
+    <div class="study-panel">
+      <div class="study-panel-head">
+        <div class="panel-tabs">
+          <button type="button" class="btn panel-tab ${prefs.activePanel === "reflection" ? "active" : ""}" data-panel="reflection">Tadabbur</button>
+          <button type="button" class="btn panel-tab ${prefs.activePanel === "context" ? "active" : ""}" data-panel="context" ${hasContext ? "" : "disabled"}>Context</button>
+          <button type="button" class="btn panel-tab ${prefs.activePanel === "tafsir" ? "active" : ""}" data-panel="tafsir">Tafsir</button>
+        </div>
+        <button type="button" class="study-close-btn" data-action="close-study" aria-label="Close">×</button>
+      </div>
+      <div class="panel-body study-panel-body">${panelContent(ayah)}</div>
+    </div>`;
 }
 
-function closeStudyDrawer() {
-  document.getElementById("study-drawer").hidden = true;
-  document.getElementById("drawer-backdrop").hidden = true;
-  document.body.classList.remove("drawer-open");
-  document.querySelectorAll(".ayah-block.active").forEach((el) => el.classList.remove("active"));
-}
-
-function highlightAyah(ayahNum) {
-  document.querySelectorAll(".ayah-block").forEach((el) => {
-    el.classList.toggle("active", +el.dataset.ayah === ayahNum);
+function bindReflectionInput(block) {
+  const input = block.querySelector("#reflection-input");
+  if (!input) return;
+  input.value = selectedAyah.personal_reflections || "";
+  if (input.dataset.bound) return;
+  input.dataset.bound = "1";
+  input.addEventListener("input", () => {
+    selectedAyah.personal_reflections = input.value;
+    debouncedSave();
+    block.querySelector(".study-btn")?.classList.toggle("has-note", !!input.value.trim());
   });
 }
 
-function bindDrawerEvents() {
-  const translationInput = document.getElementById("drawer-translation-input");
-  if (translationInput) {
-    translationInput.addEventListener("input", () => {
-      selectedAyah.translation = translationInput.value;
-      clearTimeout(saveTimer);
-      saveTimer = setTimeout(() => {
-        persistAyah(selectedAyah, document.querySelector(".drawer-translation-status"));
-        const surahId = currentSurah.id;
-        const ayahNum = selectedAyah.ayah;
-        const block = document.getElementById(`ayah-${surahId}-${ayahNum}`);
-        const textEl = block?.querySelector(".translation-text");
-        if (textEl) textEl.textContent = translationInput.value;
-      }, 600);
-    });
-  }
+function bindStudyPanelEvents(block) {
+  const surahId = +block.dataset.surah;
+  const ayahNum = +block.dataset.ayah;
+  selectedAyah = getAyahData(surahId, ayahNum);
 
-  const input = document.getElementById("reflection-input");
-  if (input) {
-    input.value = selectedAyah.personal_reflections || "";
-    input.addEventListener("input", () => {
-      selectedAyah.personal_reflections = input.value;
-      debouncedSave();
-    });
-  }
-  document.querySelectorAll(".panel-tab").forEach((btn) => {
-    btn.addEventListener("click", () => {
+  block.querySelector('[data-action="close-study"]')?.addEventListener("click", (e) => {
+    e.stopPropagation();
+    closeStudyPanel();
+  });
+
+  bindReflectionInput(block);
+
+  block.querySelectorAll(".panel-tab").forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
       prefs.activePanel = btn.dataset.panel;
       savePrefs();
-      document.querySelectorAll(".panel-tab").forEach((b) => b.classList.toggle("active", b === btn));
-      document.getElementById("panel-content").innerHTML = panelContent(selectedAyah);
-      bindDrawerEvents();
+      block.querySelectorAll(".panel-tab").forEach((b) => b.classList.toggle("active", b === btn));
+      block.querySelector(".study-panel-body").innerHTML = panelContent(selectedAyah);
+      bindReflectionInput(block);
     });
   });
+}
+
+function openStudyPanel(ayahNum) {
+  if (expandedAyah === ayahNum) {
+    closeStudyPanel();
+    return;
+  }
+  closeStudyPanel();
+  expandedAyah = ayahNum;
+  selectedAyah = getAyahData(currentSurah.id, ayahNum);
+  const block = document.getElementById(`ayah-${currentSurah.id}-${ayahNum}`);
+  if (!block) return;
+
+  block.insertAdjacentHTML("beforeend", studyPanelHtml(selectedAyah));
+  block.classList.add("expanded", "active");
+  block.querySelector(".study-btn")?.classList.add("open");
+  bindStudyPanelEvents(block);
+
+  requestAnimationFrame(() => {
+    block.querySelector(".study-panel")?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  });
+}
+
+function closeStudyPanel() {
+  expandedAyah = null;
+  document.querySelectorAll(".study-panel").forEach((el) => el.remove());
+  document.querySelectorAll(".ayah-block").forEach((el) => {
+    el.classList.remove("expanded");
+    el.classList.remove("active");
+  });
+  document.querySelectorAll(".study-btn").forEach((btn) => btn.classList.remove("open"));
 }
 
 function hideTooltip() {
@@ -459,6 +467,7 @@ function showWordTooltip(el, editing = false) {
 }
 
 async function refreshAyahBlock(surahId, ayahNum) {
+  const wasExpanded = expandedAyah === ayahNum;
   const data = await loadSurah(surahId);
   const ayah = data.ayahs.find((a) => a.ayah === ayahNum);
   const el = document.getElementById(`ayah-${surahId}-${ayahNum}`);
@@ -467,6 +476,7 @@ async function refreshAyahBlock(surahId, ayahNum) {
     tmp.innerHTML = ayahBlock(data, ayah, surahId);
     el.replaceWith(tmp.firstElementChild);
     bindSurahEvents();
+    if (wasExpanded) openStudyPanel(ayahNum);
   }
 }
 
@@ -552,7 +562,7 @@ function bindSurahEvents() {
         btn.title = added ? "Remove bookmark" : "Bookmark";
         btn.setAttribute("aria-label", added ? "Remove bookmark" : "Bookmark");
       } else if (action === "study" || action === "select") {
-        openStudyDrawer(currentSurah.ayahs.find((a) => a.ayah === ayahNum));
+        openStudyPanel(ayahNum);
       }
     });
 
@@ -576,9 +586,6 @@ function bindSurahEvents() {
     const ayah = +e.target.value;
     if (ayah) scrollToAyah(currentSurah.id, ayah);
   });
-
-  document.getElementById("close-drawer")?.addEventListener("click", closeStudyDrawer);
-  document.getElementById("drawer-backdrop")?.addEventListener("click", closeStudyDrawer);
 }
 
 function setFontScale(scale) {
@@ -719,7 +726,7 @@ async function renderSurah(data, targetAyah) {
           <button type="button" class="btn ${prefs.showTranslation ? "active" : ""}" id="toggle-translation">Translation</button>
         </div>
       </div>
-      <p class="reader-hint">Hover a word to edit its meaning · ✎ on the translation to edit the full line · ✧ to save · ☰ for tadabbur</p>
+      <p class="reader-hint">Hover a word for its meaning · ✎ to edit translation · ☰ to expand tadabbur & tafsir below</p>
       <div class="mushaf-sheet">
         <div class="ayah-stream">${data.ayahs.map((a) => ayahBlock(data, a, data.id)).join("")}</div>
       </div>
@@ -753,13 +760,13 @@ document.addEventListener("keydown", (e) => {
     e.preventDefault();
     const prev = Math.max(last.ayah - 1, 1);
     scrollToAyah(currentSurah.id, prev);
-  } else if (e.key === "Escape") closeStudyDrawer();
+  } else if (e.key === "Escape") closeStudyPanel();
 });
 
 async function render() {
   if (scrollLock) return;
   hideTooltip();
-  closeStudyDrawer();
+  closeStudyPanel();
   const r = route();
   try {
     if (r.view === "home") {

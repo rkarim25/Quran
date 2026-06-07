@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
   <link rel="preload" href="https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="reader.css?v=7">
+  <link rel="stylesheet" href="reader.css?v=8">
 </head>
 <body>
   <div class="ambient-pattern" aria-hidden="true"></div>
@@ -38,21 +38,12 @@
 
   <div id="word-tooltip" class="word-tooltip" hidden role="tooltip"></div>
 
-  <div id="drawer-backdrop" class="drawer-backdrop" hidden></div>
-  <aside id="study-drawer" class="study-drawer" hidden aria-labelledby="drawer-title">
-    <div class="drawer-header">
-      <span id="drawer-title" class="drawer-title"></span>
-      <button type="button" id="close-drawer" class="icon-btn close-btn" aria-label="Close">×</button>
-    </div>
-    <div id="drawer-panel" class="drawer-panel"></div>
-  </aside>
-
   <footer class="site-footer">
     <p class="footer-verse" dir="rtl">أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ</p>
     <p class="footer-translation">Verily, in the remembrance of Allah do hearts find rest <span class="footer-ref">— 13:28</span></p>
     <p class="footer-note">Run <code>python scripts/serve.py</code> locally to sync reflections to your notes</p>
   </footer>
 
-  <script src="reader.js?v=7"></script>
+  <script src="reader.js?v=8"></script>
 </body>
 </html>

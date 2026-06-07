@@ -55,8 +55,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-body.drawer-open { overflow: hidden; }
-
 /* Ambient atmosphere — gentle light, subtle geometry */
 .ambient-pattern {
   position: fixed;
@@ -81,8 +79,6 @@ body.drawer-open { overflow: hidden; }
 .site-header,
 .app,
 .site-footer,
-.study-drawer,
-.drawer-backdrop,
 .word-tooltip {
   position: relative;
   z-index: 1;
@@ -731,9 +727,18 @@ body.drawer-open { overflow: hidden; }
   background: linear-gradient(90deg, transparent, rgba(31, 107, 82, 0.08), transparent);
 }
 
-.ayah-block.active {
-  background: linear-gradient(180deg, var(--green-glow), transparent);
-  box-shadow: inset 0 0 0 1px rgba(31, 107, 82, 0.08);
+.ayah-block.expanded {
+  background: linear-gradient(180deg, rgba(230, 242, 236, 0.55), rgba(255, 252, 247, 0.3));
+  box-shadow: inset 0 0 0 1px rgba(31, 107, 82, 0.12);
+}
+
+.ayah-block.expanded::after {
+  display: none;
+}
+
+.study-btn.open {
+  color: var(--green);
+  background: var(--green-light);
 }
 
 .ayah-meta {
@@ -970,16 +975,6 @@ body.drawer-open { overflow: hidden; }
   justify-content: flex-end;
 }
 
-.drawer-translation {
-  margin-bottom: 1.25rem;
-  padding-bottom: 1.15rem;
-  border-bottom: 1px solid rgba(31, 107, 82, 0.08);
-}
-
-.drawer-translation-input {
-  font-style: italic;
-}
-
 .translation-save-status {
   font-size: 0.72rem;
   color: var(--muted);
@@ -1076,74 +1071,66 @@ body.drawer-open { overflow: hidden; }
 
 .empty-note.center { text-align: center; padding: 2.5rem; }
 
-/* ─── Study drawer ─── */
-.drawer-backdrop[hidden],
-.study-drawer[hidden],
+/* ─── Inline study panel ─── */
 .word-tooltip[hidden] {
   display: none !important;
 }
 
-.drawer-backdrop {
-  position: fixed;
-  inset: 0;
-  background: rgba(26, 36, 32, 0.2);
-  z-index: 300;
-  backdrop-filter: blur(3px);
-  animation: fadeBackdrop 0.3s ease;
+.study-panel {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(31, 107, 82, 0.12);
+  animation: panelOpen 0.35s ease;
 }
 
-@keyframes fadeBackdrop {
-  from { opacity: 0; }
-  to { opacity: 1; }
+@keyframes panelOpen {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: none; }
 }
 
-.study-drawer {
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: min(var(--drawer-w), 100vw);
-  height: 100vh;
-  background: var(--paper);
-  z-index: 400;
-  display: flex;
-  flex-direction: column;
-  box-shadow: var(--shadow-lift);
-  animation: slideIn 0.35s cubic-bezier(0.22, 1, 0.36, 1);
-  border-left: 1px solid rgba(31, 107, 82, 0.08);
-}
-
-@keyframes slideIn {
-  from { transform: translateX(100%); opacity: 0.8; }
-  to { transform: none; opacity: 1; }
-}
-
-.drawer-header {
+.study-panel-head {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1.15rem 1.25rem;
-  border-bottom: 1px solid rgba(31, 107, 82, 0.08);
+  gap: 0.75rem;
+  margin-bottom: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.study-close-btn {
+  background: none;
+  border: 1px solid rgba(31, 107, 82, 0.15);
+  border-radius: 50%;
+  width: 1.75rem;
+  height: 1.75rem;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: var(--muted);
+  cursor: pointer;
   flex-shrink: 0;
-  background: linear-gradient(180deg, var(--green-light), var(--paper));
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
 }
 
-.drawer-title {
-  font-family: var(--font-arabic-alt);
-  font-size: 1.05rem;
+.study-close-btn:hover {
   color: var(--green);
+  border-color: var(--green-mid);
+  background: var(--green-light);
 }
 
-.drawer-panel {
-  flex: 1;
+.study-panel-body {
+  background: rgba(255, 255, 255, 0.65);
+  border: 1px solid rgba(31, 107, 82, 0.08);
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.1rem;
+  max-height: min(60vh, 520px);
   overflow-y: auto;
-  padding: 1rem 1.25rem 2rem;
 }
 
 .panel-tabs {
   display: flex;
   gap: 0.35rem;
-  margin-bottom: 1rem;
   flex-wrap: wrap;
+  flex: 1;
 }
 
 .panel-intro {
@@ -1356,26 +1343,11 @@ body.drawer-open { overflow: hidden; }
   .mushaf-sheet { padding: 1.25rem 0.85rem; border-radius: var(--radius-sm); }
   .arabic-text { line-height: 2; }
   .toolbar-actions { width: 100%; }
-  .study-drawer {
-    width: 100vw;
-    height: 88vh;
-    top: auto;
-    bottom: 0;
-    border-radius: 20px 20px 0 0;
-    animation-name: slideUp;
-  }
-  @keyframes slideUp {
-    from { transform: translateY(100%); }
-    to { transform: none; }
-  }
+  .study-panel-body { max-height: 50vh; }
 }
 
 @media (min-width: 900px) {
   .app { max-width: 800px; }
-  body.drawer-open .app {
-    margin-right: calc(var(--drawer-w) / 2 - 80px);
-    transition: margin 0.35s cubic-bezier(0.22, 1, 0.36, 1);
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
