@@ -247,10 +247,10 @@ function cleanArabic(text) {
     .trim();
 }
 
-function ayahMarkerHtml(num, { end = false } = {}) {
-  const cls = end ? "ayah-end" : "ayah-marker";
+function ayahMarkerHtml(num, { end = false, inline = false } = {}) {
+  const cls = [end ? "ayah-end" : "ayah-marker", inline ? "inline-ayah-marker" : ""].filter(Boolean).join(" ");
   const label = `Ayah ${num}`;
-  return `<span class="${cls}" ${end ? `aria-label="${label}"` : ""}>
+  return `<span class="${cls}" ${end || inline ? `aria-label="${label}"` : ""}>
     <span class="rosette" aria-hidden="true">
       <svg viewBox="0 0 40 40" class="rosette-svg" focusable="false">
         <circle cx="20" cy="20" r="17" fill="none" stroke="currentColor" stroke-width="1.1" opacity="0.55"/>
@@ -401,7 +401,7 @@ function bookViewHtml(data, surahId) {
           const merged = mergeLocalEdits(a, surahId);
           const { text, mode } = displayTranslation(merged);
           if (!text) return "";
-          return `<span class="book-trans-seg" data-ayah="${a.ayah}">${mode === "ai" ? '<span class="translation-badge inline-badge">AI</span> ' : ""}${esc(text)}</span>`;
+          return `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(text)}</span>`;
         })
         .filter(Boolean)
         .join(" ")

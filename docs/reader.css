@@ -909,6 +909,21 @@ body {
   content: " ";
 }
 
+.book-trans-seg .inline-ayah-marker {
+  margin-inline-end: 0.15em;
+  vertical-align: baseline;
+}
+
+.book-trans-seg .inline-ayah-marker .rosette {
+  width: 1.55rem;
+  height: 1.55rem;
+  color: var(--green);
+}
+
+.book-trans-seg .inline-ayah-marker .rosette-num {
+  font-size: 0.62rem;
+}
+
 .book-translation-section.ai-mode .book-flow.translation-flow {
   font-style: normal;
   background: linear-gradient(135deg, rgba(230, 242, 236, 0.35), rgba(245, 240, 230, 0.4));
